@@ -1,0 +1,85 @@
+{
+ "form": "prompts/ad_form_v2.json",
+ "batches": {
+  "b01": [
+   "data/raw/ads/00-13445.txt",
+   "data/raw/ads/00-14436.txt",
+   "data/raw/ads/00-19816.txt",
+   "data/raw/ads/00-19817.txt",
+   "data/raw/ads/00-23583.txt",
+   "data/raw/ads/00-25151.txt"
+  ],
+  "b02": [
+   "data/raw/ads/00-29497.txt",
+   "data/raw/ads/00-31451.txt",
+   "data/raw/ads/00-4568.txt",
+   "data/raw/ads/00-951.txt",
+   "data/raw/ads/01-16200.txt",
+   "data/raw/ads/01-21749.txt"
+  ],
+  "b03": [
+   "data/raw/ads/01-26951.txt",
+   "data/raw/ads/01-26952.txt",
+   "data/raw/ads/02-15937.txt",
+   "data/raw/ads/02-3848.txt",
+   "data/raw/ads/02-6201.txt",
+   "data/raw/ads/03-226.txt"
+  ],
+  "b04": [
+   "data/raw/ads/03-6262.txt",
+   "data/raw/ads/03-7747.txt",
+   "data/raw/ads/04-15373.txt",
+   "data/raw/ads/05-19144.txt",
+   "data/raw/ads/05-4410.txt",
+   "data/raw/ads/06-2849.txt"
+  ],
+  "b05": [
+   "data/raw/ads/07-1106.txt",
+   "data/raw/ads/07-1715.txt",
+   "data/raw/ads/2011-4467.txt",
+   "data/raw/ads/2012-18627.txt",
+   "data/raw/ads/2012-21533.txt",
+   "data/raw/ads/2012-22529.txt"
+  ],
+  "b06": [
+   "data/raw/ads/2012-28434.txt",
+   "data/raw/ads/2013-10006.txt",
+   "data/raw/ads/2013-10797.txt",
+   "data/raw/ads/2014-30132.txt",
+   "data/raw/ads/2016-00949.txt",
+   "data/raw/ads/2016-05249.txt"
+  ],
+  "b07": [
+   "data/raw/ads/2016-08539.txt",
+   "data/raw/ads/2016-18708.txt",
+   "data/raw/ads/2016-21146.txt",
+   "data/raw/ads/2016-23261.txt",
+   "data/raw/ads/2016-31188.txt",
+   "data/raw/ads/2017-01824.txt"
+  ],
+  "b08": [
+   "data/raw/ads/2017-18908.txt",
+   "data/raw/ads/2018-01197.txt",
+   "data/raw/ads/2019-15518.txt",
+   "data/raw/ads/2019-28465.txt",
+   "data/raw/ads/2020-12821.txt",
+   "data/raw/ads/2022-10952.txt"
+  ],
+  "b09": [
+   "data/raw/ads/2023-02986.txt",
+   "data/raw/ads/2023-10624.txt",
+   "data/raw/ads/2025-17026.txt",
+   "data/raw/ads/E7-24855.txt",
+   "data/raw/ads/E7-9396.txt",
+   "data/raw/ads/E8-20091.txt"
+  ],
+  "b10": [
+   "data/raw/ads/E8-21125.txt",
+   "data/raw/ads/E8-4674.txt",
+   "data/raw/ads/E8-9058.txt",
+   "data/raw/ads/E8-970.txt",
+   "data/raw/ads/E9-17122.txt",
+   "data/raw/ads/E9-18220.txt"
+  ]
+ }
+}

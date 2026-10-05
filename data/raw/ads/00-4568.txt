@@ -1,0 +1,379 @@
+<html>
+<head>
+<title>Federal Register, Volume 65 Issue 40 (Tuesday, February 29, 2000)</title>
+</head>
+<body><pre>
+[Federal Register Volume 65, Number 40 (Tuesday, February 29, 2000)]
+[Rules and Regulations]
+[Pages 10695-10698]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 00-4568]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 99-NM-366-AD; Amendment 39-11600; AD 2000-04-17]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747-100, -200, and -300 
+Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD) that 
+is applicable to certain Boeing Model 747-100, -200, and -300 series 
+airplanes. This action requires repetitive inspections to detect 
+fatigue cracking in the upper deck floor beams located at certain body 
+stations, and repair, if
+
+[[Page 10696]]
+
+necessary. This amendment is prompted by a report by the manufacturer 
+that, during a fatigue test, the upper chord and web of the upper deck 
+floor beams located at body stations (BS) 340 and 360 were found 
+severed at approximately 34,000 total flight cycles. Another report by 
+an operator indicated that a severed upper chord and web were found in 
+the upper deck floor beam at BS 380 at approximately 33,000 total 
+flight cycles. In addition, cracking was found at multiple fastener 
+hole locations. The actions specified in this AD are intended to 
+prevent failure of the upper deck floor beams at certain body stations 
+due to fatigue cracking, which could result in rapid decompression and 
+consequent reduced controllability of the airplane.
+
+DATES: Effective March 15, 2000.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of March 15, 2000.
+    Comments for inclusion in the Rules Docket must be received on or 
+before May 1, 2000.
+
+ADDRESSES: Submit comments in triplicate to the Federal Aviation 
+Administration (FAA), Transport Airplane Directorate, ANM-114, 
+Attention: Rules Docket No. 99-NM-366-AD, 1601 Lind Avenue, SW., 
+Renton, Washington 98055-4056.
+    The service information referenced in this AD may be obtained from 
+Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, Washington 
+98124-2207. This information may be examined at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at 
+the Office of the Federal Register, 800 North Capitol Street, NW., 
+suite 700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Rick Kawaguchi, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Transport Airplane Directorate, Seattle 
+Aircraft Certification Office, 1601 Lind Avenue, SW., Renton, 
+Washington 98055-4056; telephone (425) 227-1153; fax (425) 227-1181.
+
+SUPPLEMENTARY INFORMATION: The FAA has received a report indicating 
+that, during a Boeing fatigue test, the upper chord and web of the 
+upper deck floor beams located at body stations (BS) 340 and 360 failed 
+at approximately 34,000 flight cycles. The FAA also received an 
+operator's report of a severed upper chord and web at BS 380, which 
+occurred in an upper deck floor beam at approximately 33,000 flight 
+cycles. In addition, cracks were found at twelve floor panel attachment 
+fastener holes between left buttock line 66.5 and right buttock line 
+58.5.
+    The manufacturer also reports that one operator found crack 
+indications at multiple fastener hole locations during an inspection of 
+the upper deck floor beams located at BS 340 and 360 on six airplanes 
+having at least 30,000 total flight cycles. Inspections included an 
+open-hole high frequency eddy current (HFEC) inspection from above, and 
+a visual inspection from below. The majority of the cracks were found 
+during open-hole HFEC inspections, and most of such cracking could be 
+removed by oversizing the fastener holes; however, repairs were 
+required at some locations.
+    The report also indicates that the floor beams at BS 340 and 360 
+are made from 7075 aluminum, a material which is more susceptible to 
+fatigue cracking than 2024 aluminum. The floor beam at BS 380 is made 
+from 2024 aluminum, which is considered a more durable material than 
+7075 aluminum; however, recent reports of cracking at that body station 
+indicate that it is necessary to also require inspections in that area.
+    The FAA has been informed that flight-critical wire bundles and 
+control cables are routed through the upper deck floor beams at BS 340, 
+360, and 380; and that failure of these floor beams could lead to large 
+deflection or deformation of the floor and body skin, frames, and 
+stringers, which could damage the wire bundles and result in unintended 
+inputs to the flight control cables. Failure of the upper deck floor 
+beams at BS 340, 360, and 380, due to fatigue cracking, could also 
+result in rapid decompression and consequent reduced controllability of 
+the airplane.
+
+Explanation of Relevant Service Information
+
+    The FAA has reviewed and approved Boeing Alert Service Bulletin 
+747-53A2431, dated February 10, 2000, which describes procedures for 
+repetitive open-hole high frequency eddy current (HFEC) and surface 
+HFEC inspections to detect cracking of the upper chords of the upper 
+deck floor beams at BS 340 and 360; and repair, if necessary. 
+Procedures also include repetitive inspections if no cracking is found. 
+The first repetitive inspection threshold may be extended from 3,000 
+flight cycles to 10,000 flight cycles if the floor panel attachment 
+fastener holes are modified.
+
+Explanation of the Requirements of the Rule
+
+    Since an unsafe condition has been identified that is likely to 
+exist or develop on other Boeing Model 747-100, -200, and -300 series 
+airplanes of the same type design, this AD is being issued to prevent 
+failure of the upper deck floor beams at BS 340, 360, and 380 due to 
+fatigue cracking that originates from the upper chord fastener holes of 
+those floor beams, which could result in rapid decompression and 
+consequent reduced controllability of the airplane. This AD requires 
+accomplishment of actions specified in the alert service bulletin 
+described previously, except as discussed below.
+
+Differences Between the Alert Service Bulletin and This AD
+
+    Operators should note that, although the alert service bulletin 
+specifies inspections of the upper chord of the upper deck floor beam 
+at BS 340 and 360, the FAA has determined that the same unsafe 
+condition also exists on both the left and right sides of the floor 
+beam at BS 380 between buttock lines 40 and 76. This determination is 
+based on a recent report from an operator that a severed upper chord 
+and web were found in an upper deck floor beam at BS 380.
+    Operators also should note that, although the alert service 
+bulletin specifies that the manufacturer may be contacted for 
+disposition of certain repair conditions, this AD requires the repair 
+of those conditions to be accomplished in accordance with a method 
+approved by the FAA, or in accordance with data meeting the type 
+certification basis of the airplane approved by a Boeing Company 
+Designated Engineering Representative who has been authorized by the 
+FAA to make such findings.
+
+Determination of Rule's Effective Date
+
+    Since a situation exists that requires the immediate adoption of 
+this regulation, it is found that notice and opportunity for prior 
+public comment hereon are impracticable, and that good cause exists for 
+making this amendment effective in less than 30 days.
+
+Comments Invited
+
+    Although this action is in the form of a final rule that involves 
+requirements affecting flight safety and, thus, was not preceded by 
+notice and an opportunity for public comment, comments are invited on 
+this rule. Interested persons are invited to comment on this rule by 
+submitting such written data, views, or arguments as they may desire. 
+Communications shall identify the Rules Docket number and be submitted 
+in triplicate to the address specified under the caption ADDRESSES. All 
+communications received on or before the closing date for comments will 
+be
+
+[[Page 10697]]
+
+considered, and this rule may be amended in light of the comments 
+received. Factual information that supports the commenter's ideas and 
+suggestions is extremely helpful in evaluating the effectiveness of the 
+AD action and determining whether additional rulemaking action would be 
+needed.
+    Comments are specifically invited on the overall regulatory, 
+economic, environmental, and energy aspects of the rule that might 
+suggest a need to modify the rule. All comments submitted will be 
+available, both before and after the closing date for comments, in the 
+Rules Docket for examination by interested persons. A report that 
+summarizes each FAA-public contact concerned with the substance of this 
+AD will be filed in the Rules Docket.
+    Commenters wishing the FAA to acknowledge receipt of their comments 
+submitted in response to this rule must submit a self-addressed, 
+stamped postcard on which the following statement is made: ``Comments 
+to Docket Number 99-NM-366-AD.'' The postcard will be date stamped and 
+returned to the commenter.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    The FAA has determined that this regulation is an emergency 
+regulation that must be issued immediately to correct an unsafe 
+condition in aircraft, and that it is not a ``significant regulatory 
+action'' under Executive Order 12866. It has been determined further 
+that this action involves an emergency regulation under DOT Regulatory 
+Policies and Procedures (44 FR 11034, February 26, 1979). If it is 
+determined that this emergency regulation otherwise would be 
+significant under DOT Regulatory Policies and Procedures, a final 
+regulatory evaluation will be prepared and placed in the Rules Docket.
+    A copy of it, if filed, may be obtained from the Rules Docket at 
+the location provided under the caption ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2000-04-17  Boeing: Amendment 39-11600. Docket 99-NM-366-AD.
+
+    Applicability: Model 747-100, -200, and -300 series airplanes as 
+listed in Boeing Alert Service Bulletin 747-53A2431; certificated in 
+any category.
+
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (b) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+
+
+    Note 2:
+    The actions specified by Boeing Alert Service Bulletin 747-
+53A2431, dated February 10, 2000, for the upper deck floor beams 
+located at body stations (BS) 340 and 360, also are applicable to 
+both the left and right sides of the floor beam at BS 380 between 
+buttock lines (BL) 40 and 76.
+
+
+    To prevent failure of the upper deck floor beams due to fatigue 
+cracking at BS 340, 360, and 380; which could result in rapid 
+decompression and consequent reduced controllability of the 
+airplane; accomplish the following:
+
+Inspections and Repair
+
+    (a) Prior to the accumulation of 28,000 total flight cycles, or 
+within 60 days after the effective date of this AD, whichever occurs 
+later, perform the inspections required by either paragraph (a)(1) 
+or (a)(2) of this AD, as applicable.
+    (1) Gain access to the upper deck floor beams from above the 
+upper deck floor, and perform an open-hole high frequency eddy 
+current (HFEC) inspection to detect cracking of the upper deck floor 
+beams at BS 340 and 360, and on both the left and right sides of the 
+floor beam at BS 380 between BL 40 and 76; in accordance with Part 1 
+of the Accomplishment Instructions of Boeing Alert Service Bulletin 
+747-53A2431, dated February 10, 2000.
+    (i) If no cracking is found, perform the actions required by 
+either paragraph (a)(1)(i)(A) or (a)(1)(i)(B) of this AD, in 
+accordance with the alert service bulletin.
+    (A) Repeat the inspection required by paragraph (a)(1) of this 
+AD thereafter at intervals not to exceed 3,000 flight cycles.
+    (B) Modify (oversize) the floor panel attachment fastener holes 
+as specified in Figure 5 of the alert service bulletin, and repeat 
+the inspection required by paragraph (a)(1) of this AD within 10,000 
+flight cycles. Thereafter, repeat the inspection at intervals not to 
+exceed 3,000 flight cycles.
+    (ii) If any cracking is found, prior to further flight, repair 
+in accordance with a method approved by the Manager, Seattle 
+Aircraft Certification Office (ACO), FAA, Transport Airplane 
+Directorate; or in accordance with data meeting the type 
+certification basis of the airplane approved by a Boeing Company 
+Designated Engineering Representative (DER) who has been authorized 
+by the FAA to make such findings. For a repair method to be approved 
+by the Manager, Seattle ACO, as required by this paragraph, the 
+Manager's approval letter must specifically reference this AD.
+    (2) Gain access to the upper deck floor beams from below the 
+upper deck floor; modify the floor panel attachment clipnuts at BS 
+340 and 360, and on both the left and right sides of the floor beam 
+at BS 380 between BL 40 and 76; and perform a surface HFEC 
+inspection to detect cracking of the floor beams at those body 
+stations; in accordance with Part 2 of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 747-53A2431, dated 
+February 10, 2000.
+    (i) If no cracking is found, repeat the inspection required by 
+paragraph (a)(2) of this AD thereafter at intervals not to exceed 
+750 flight cycles.
+    (ii) If any cracking is found, prior to further flight, repair 
+in accordance with a method approved by the Manager, Seattle ACO, or 
+in accordance with data meeting the type certification basis of the 
+airplane approved by a Boeing Company DER who has been authorized by 
+the FAA to make such findings. For a repair method to be approved by 
+the Manager, Seattle ACO, as required by this paragraph, the 
+Manager's approval letter must specifically reference this AD.
+
+Alternative Methods of Compliance
+
+    (b)(1) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle ACO. Operators shall submit 
+their requests through an appropriate FAA Principal Maintenance 
+Inspector, who may add comments and then send it to the Manager, 
+Seattle ACO.
+    (2) An alternative method of compliance for paragraphs 
+(a)(1)(ii) and (a)(2)(ii) of this AD that provides an acceptable 
+level of safety may be used in accordance with data meeting the type 
+certification basis of the airplane
+
+[[Page 10698]]
+
+approved by a Boeing Company DER who has been authorized by the 
+Manager, Seattle ACO, to make such findings.
+
+
+    Note 3:
+    Information concerning the existence of approved alternative 
+methods of compliance with this AD, if any, may be obtained from the 
+Seattle ACO.
+
+Special Flight Permits
+
+    (c) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (d) Except as specified in paragraphs (a)(1)(ii) and (a)(2)(ii), 
+the actions shall be done in accordance with Boeing Alert Service 
+Bulletin 747-53A2431, dated February 10, 2000. This incorporation by 
+reference was approved by the Director of the Federal Register in 
+accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be 
+obtained from Boeing Commercial Airplane Group, P.O. Box 3707, 
+Seattle, Washington 98124-2207. Copies may be inspected at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, 
+Washington; or at the Office of the Federal Register, 800 North 
+Capitol Street, NW., suite 700, Washington, DC.
+    (e) This amendment becomes effective on March 15, 2000.
+
+    Issued in Renton, Washington, on February 22, 2000.
+Donald L. Riggin,
+Acting Manager Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 00-4568 Filed 2-28-00; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre></body>
+</html>

@@ -1,0 +1,543 @@
+<html>
+<head>
+<title>Federal Register, Volume 81 Issue 203 (Thursday, October 20, 2016)</title>
+</head>
+<body><pre>
+[Federal Register Volume 81, Number 203 (Thursday, October 20, 2016)]
+[Rules and Regulations]
+[Pages 72511-72515]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-23078]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-6538; Directorate Identifier 2015-NM-031-AD; 
+Amendment 39-18668; AD 2016-20-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 737-300, -400, and -500 series airplanes. This 
+AD was prompted by an evaluation by the design approval holder (DAH) 
+indicating that the aft pressure bulkhead is subject to widespread 
+fatigue damage (WFD). This AD requires repetitive inspections of the 
+aft pressure bulkhead web for any cracking, incorrectly drilled 
+fastener holes, and elongated fastener holes; and related investigative 
+and corrective actions, if necessary. We are issuing this AD to detect 
+and correct fatigue cracking of the aft pressure bulkhead web at the 
+``Y''-chord, which could result in reduced structural
+
+[[Page 72512]]
+
+integrity of the airplane and rapid decompression of the fuselage.
+
+DATES: This AD is effective November 25, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of November 25, 
+2016.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Data & Services 
+Management, P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 
+206-544-5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+6538.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+6538; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Payman Soltani, Aerospace Engineer, 
+Airframe Branch, ANM-120L, FAA, Los Angeles Aircraft Certification 
+Office, 3960 Paramount Boulevard, Lakewood, CA 90712-4137; telephone: 
+562-627-5313; fax: 562-627-5210; email: <a href="/cdn-cgi/l/email-protection#ed9d8c94808c83c39e8281998c8384ad8b8c8cc38a829b"><span class="__cf_email__" data-cfemail="6c1c0d15010d02421f0300180d02052c0a0d0d420b031a">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain The Boeing Company 
+Model 737-100, -200, -200C, -300, -400, and -500 series airplanes. The 
+NPRM published in the Federal Register on November 30, 2015 (80 FR 
+74731) (``the NPRM''). The NPRM was prompted by an evaluation by the 
+DAH indicating that the aft pressure bulkhead is subject to WFD. The 
+NPRM proposed to require repetitive inspections of the aft pressure 
+bulkhead web for any cracking, incorrectly drilled fastener holes, and 
+elongated fastener holes, and related investigative and corrective 
+actions, if necessary. We are issuing this AD to detect and correct 
+fatigue cracking of the aft pressure bulkhead web at the ``Y''-chord, 
+which could result in reduced structural integrity of the airplane and 
+rapid decompression of the fuselage.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Effect of Winglets on Accomplishment of the Proposed Actions
+
+    Aviation Partners Boeing stated that the installation of winglets 
+per supplemental type certificate (STC) ST01219SE does not affect the 
+accomplishment of the manufacturer's service instructions.
+    We agree with the commenter. We have redesignated paragraph (c) of 
+the NPRM as paragraph (c)(1) in this final rule and added a new 
+paragraph (c)(2) to state that STC ST01219SE does not affect the 
+mitigating action or accomplishment of the actions required by this 
+final rule. Therefore, for airplanes on which STC ST01219SE is 
+installed, ``a change in product'' alternative method of compliance 
+(AMOC) approval request is not necessary to comply with the 
+requirements of 14 CFR 39.71.
+
+Request To Clarify the Proposed Requirements of the NPRM
+
+    Mr. Cas Lausberg stated that the subject of the NPRM is addressed 
+in AD 99-08-23, Amendment 39-11132 (64 FR 19879, April 23, 1999) (``AD 
+99-08-23''), which was superseded by AD 2012-18-13 R1, Amendment 39-
+17429 (78 FR 27020, May 9, 2013) (``AD 2012-18-13 R1''). The commenter 
+questioned the need for the new NPRM.
+    We agree to provide clarification. As stated in the ``Discussion'' 
+section of the NPRM, this final rule is being issued as part of the 
+overall joint effort by Boeing and the FAA to satisfy requirements of 
+the FAA's WFD final rule (75 FR 69746, November 15, 2010), which became 
+effective on January 14, 2011. The inspections required by AD 99-08-23 
+and AD 2012-18-13 R1 do not address WFD concerns. However, Boeing Alert 
+Service Bulletin 737-53A1214, Revision 5, dated January 30, 2015, 
+addresses WFD with new inspection requirements, which incorporate a 
+compliance time (threshold) corresponding to the WFD inspection start 
+point (ISP) and shorter repetitive intervals where indicated. These 
+requirements are included in this AD. We have not changed this AD in 
+this regard.
+
+Request To Revise the Term ``Global Fatigue Damage''
+
+    Boeing requested that the term ``global fatigue damage'' be changed 
+to ``widespread fatigue damage'' in the NPRM. Boeing stated that this 
+is the first time it has seen the term ``global'' used to describe WFD. 
+Boeing commented that it is better not to introduce a new term.
+    We agree with the commenter. Although the ``Discussion'' section of 
+the proposed rule is not carried over into the final rule, we agree 
+that the term ``global fatigue damage'' should not be introduced as a 
+new term. We have not changed this AD in this regard.
+
+Request To Correct Reference to Group 1 LOV (Limit of Validity)
+
+    Boeing requested that we change the wording in the ``Differences 
+Between This Proposed AD and the Service Information'' paragraph of the 
+NPRM, which referred to WFD-based inspections specified in certain 
+tables of Boeing Alert Service Bulletin 737-53A1214, Revision 5, dated 
+January 30, 2015. The NPRM stated that the WFD-based inspections would 
+affect only Group 2 airplanes because Group 1 airplanes will reach 
+their LOV before the compliance times specified ``in tables 9, 10, and 
+11'' of Boeing Alert Service Bulletin 737-53A1214, Revision 5, dated 
+January 30, 2015.
+    Boeing stated that the inspections listed in tables 9, 10, and 11 
+of Boeing Alert Service Bulletin 737-53A1214, Revision 5, dated January 
+30, 2015, also include non-WFD inspections that are required prior to 
+the ISP threshold of 76,000 cycles. Boeing stated that, therefore, it 
+is not true to say that Group 1 airplanes will reach their limit of 
+validity before the compliance times specified in tables 9, 10 and 11.
+    We partially agree with the commenter. Although the ``Differences 
+Between This Proposed AD and the Service Information'' paragraph of the 
+proposed rule is not carried over into the final rule, we agree to 
+provide clarification.
+    Since AD 2012-18-13 R1 was issued, Boeing issued Alert Service 
+Bulletin 737-53A1214, Revision 5, dated January 30, 2015. Affected 
+airplanes are now divided into two groups: Group 1, line numbers 1 
+through 2565 inclusive; and Group 2, line numbers 2566 through
+
+[[Page 72513]]
+
+3132 inclusive. Boeing's evaluation determined that inspections to 
+address WFD concerns are required for the aft pressure bulkhead web at 
+the ``Y'' chord at an ISP of 76,000 total flight cycles. Since Group 1 
+airplanes will reach their LOV of 75,000 total flight cycles (34,000 
+total flight cycles for line numbers 1 through 291 inclusive), which is 
+prior to this ISP, no WFD inspections are provided for those airplanes. 
+For Group 2 airplanes, which have an LOV of 85,000 total flight cycles, 
+new tables 9, 10, and 11 of Boeing Alert Service Bulletin 737-53A1214, 
+Revision 5, dated January 30, 2015, include inspections to address WFD. 
+We have not changed this AD in this regard.
+
+Request To Clarify the Applicability
+
+    Boeing requested that we clarify the applicability of the proposed 
+AD. Boeing stated that Model 737-100, -200, and -200C airplanes should 
+be removed from the ``Applicability'' paragraph. Boeing stated that the 
+Group 2 airplanes only include Model 737-300, -400, and -500 airplanes.
+    We agree with the commenter's request for the reasons stated above. 
+We have revised the applicability in paragraph (c) of this AD to remove 
+Model 737-100, -200, and -200C series airplanes and revised the SUMMARY 
+section to specify certain Model 737-300, -400, and -500 series 
+airplanes.
+
+Request To Clarify Airplanes Affected by Terminating Action Provisions
+
+    Boeing requested that we change the wording for the terminating 
+action in paragraph (j) of the proposed AD. Boeing stated that the 
+paragraph should specify that the terminating action applies only to 
+Group 2 airplanes. Boeing stated that specifying Group 2 airplanes 
+clearly states the intent of the terminating action.
+    We agree with the commenter's request for the reasons stated above. 
+We have expanded the structure of paragraph (j) of this AD accordingly. 
+In addition, we have clarified that the terminating action does not 
+apply to stringer S-5L to S-7L and stringer S-5R to S-9R, as specified 
+in AD 2012-18-13 R1 and Boeing Alert Service Bulletin 737-53A1214, 
+Revision 5, dated January 30, 2015.
+
+Request To Revise the Inspections for Group 2 Airplanes
+
+    All Nippon Airways (ANA) requested that we revise the inspection 
+requirements in the proposed AD for Group 2 airplanes. ANA requested 
+that we either mandate the inspections in tables 10 and 11 of Boeing 
+Alert Service Bulletin 737-53A1214, Revision 5, dated January 30, 2015, 
+for only Group 2 airplanes with 76,000 flight cycles and more, or 
+create a new NPRM to supersede AD 2012-18-13 R1 to mandate all 
+inspection requirements using Boeing Alert Service Bulletin 737-
+53A1214, Revision 5, dated January 30, 2015. ANA stated that if a new 
+proposed rule is created, it requests that credit be given for any 
+previously approved AMOCs to AD 2012-18-13 R1, to reduce additional 
+burden for operators and the FAA.
+    We agree with the commenter's request for the reasons stated by the 
+commenter. The intent of this final rule is to address the WFD concerns 
+in accordance with the FAA's WFD final rule (75 FR 69746, November 15, 
+2010). We have revised paragraphs (g), (h), and (l) of this AD 
+accordingly.
+
+Additional Changes to This AD
+
+    In paragraphs (g) and (h) of this AD, we have clarified the 
+compliance times by explicitly stating the compliance times instead of 
+referring to the compliance tables in paragraph 1.E., ``Compliance,'' 
+of Boeing Alert Service Bulletin 737-53A1214, Revision 5, dated January 
+30, 2015.
+    The actions in paragraph (h) of the proposed AD states to do 
+detailed and eddy current inspections of the aft pressure bulkhead web 
+from the forward or aft side of the bulkhead for any cracking, 
+incorrectly drilled fastener hole, and elongated fastener hole. In this 
+AD, we have clarified the actions by providing the operators the option 
+of doing detailed and LFEC inspections from the aft side of the aft 
+pressure bulkhead, or doing a detailed and HFEC inspections from the 
+forward side of the aft pressure bulkhead, for any cracking, 
+incorrectly drilled fastener hole, and elongated fastener hole.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Boeing Alert Service Bulletin 737-53A1214, Revision 5, 
+dated January 30, 2015. The service information describes procedures 
+for, among other actions, repetitive inspections of the aft pressure 
+bulkhead web for any cracking, incorrectly drilled fastener holes, and 
+elongated fastener holes; and related investigative and corrective 
+actions. This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 122 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+             Action                     Labor cost           Parts cost     Cost per product       operators
+----------------------------------------------------------------------------------------------------------------
+Inspections of the web at the    Up to 60 work-hours x                $0   Up to $5,100 per    Up to $622,200
+ ``Y''-chord.                     $85 per hour = Up to                      inspection cycle.   per inspection
+                                  $5,100 per inspection                                         cycle.
+                                  cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that will enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701:
+
+[[Page 72514]]
+
+``General requirements.'' Under that section, Congress charges the FAA 
+with promoting safe flight of civil aircraft in air commerce by 
+prescribing regulations for practices, methods, and procedures the 
+Administrator finds necessary for safety in air commerce. This 
+regulation is within the scope of that authority because it addresses 
+an unsafe condition that is likely to exist or develop on products 
+identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-20-02 The Boeing Company: Amendment 39-18668; Docket No. FAA-
+2015-6538; Directorate Identifier 2015-NM-031-AD.
+
+(a) Effective Date
+
+    This AD is effective November 25, 2016.
+
+(b) Affected ADs
+
+    This AD affects AD 2012-18-13 R1, Amendment 39-17429 (78 FR 
+27020, May 9, 2013) (``AD 2012-18-13 R1'').
+
+(c) Applicability
+
+    (1) This AD applies to The Boeing Company Model 737-300, -400, 
+and -500 series airplanes, certificated in any category, identified 
+as Group 2 in Boeing Alert Service Bulletin 737-53A1214, Revision 5, 
+dated January 30, 2015.
+    (2) Installation of Supplemental Type Certificate (STC) 
+ST01219SE (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/EBD1CEC7B301293E86257CB30045557A?OpenDocument&Highlight=st01219s">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/EBD1CEC7B301293E86257CB30045557A?OpenDocument&Highlight=st01219s</a>) 
+does not affect the ability to accomplish the actions required by 
+this AD. Therefore, for airplanes on which STC ST01219SE is 
+installed, a ``change in product'' alternative method of compliance 
+(AMOC) approval request is not necessary to comply with the 
+requirements of 14 CFR 39.17.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by an evaluation by the design approval 
+holder indicating that the aft pressure bulkhead is subject to 
+widespread fatigue damage. We are issuing this AD to detect and 
+correct fatigue cracking of the aft pressure bulkhead web at the 
+``Y''-chord, which could result in reduced structural integrity of 
+the airplane and rapid decompression of the fuselage.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Inspections of the Aft Pressure Bulkhead Web at the 
+``Y''-Chord Upper Bulkhead
+
+    Within 76,000 total flight cycles, or within 4,500 flight cycles 
+since the most recent low frequency eddy current (LFEC) inspection 
+accomplished in accordance with AD 2012-18-13 R1, or within 9,500 
+flight cycles since the most recent high frequency eddy current 
+(HFEC) inspection accomplished in accordance with AD 2012-18-13 R1, 
+whichever occurs latest: Do detailed and LFEC inspections from the 
+aft side of the aft pressure bulkhead web, or do detailed and HFEC 
+inspections from the forward side of the aft pressure bulkhead web, 
+for any cracking, incorrectly drilled fastener hole, and elongated 
+fastener hole, and do all applicable related investigative and 
+corrective actions, in accordance with Part I of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 737-53A1214, Revision 
+5, dated January 30, 2015, except as required by paragraph (i) of 
+this AD. Do all related investigative and corrective actions before 
+further flight. If any cracking, incorrectly drilled fastener hole, 
+or elongated fastener hole is found, before further flight, repair 
+the aft pressure bulkhead web using a method approved in accordance 
+with the procedures specified in paragraph (l) of this AD. 
+Thereafter, repeat the inspections at the applicable times specified 
+in table 10 of paragraph 1.E., ``Compliance'' of Boeing Alert 
+Service Bulletin 737-53A1214, Revision 5, dated January 30, 2015.
+
+(h) Repetitive Inspections of the Aft Pressure Bulkhead Web at the 
+``Y''-Chord Below S-15
+
+    Within 76,000 total flight cycles, or within 4,500 flight cycles 
+since the most recent LFEC inspection accomplished in accordance 
+with AD 2012-18-13 R1, or within 9,500 flight cycles since the most 
+recent HFEC inspection accomplished in accordance with AD 2012-18-13 
+R1, whichever occurs latest: Do detailed and LFEC inspections from 
+the aft side of the aft pressure bulkhead, or do detailed and HFEC 
+inspections from the forward side of the aft pressure bulkhead, for 
+any cracking, incorrectly drilled fastener hole, and elongated 
+fastener hole, and do all applicable corrective actions, in 
+accordance with Part III of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 737-53A1214, Revision 5, dated January 
+30, 2015, except as required by paragraph (i) of this AD. Do all 
+corrective actions before further flight. If any cracking, 
+incorrectly drilled fastener hole, or elongated fastener hole is 
+found, before further flight, repair the aft pressure bulkhead web 
+using a method approved in accordance with the procedures specified 
+in paragraph (l) of this AD. Thereafter, repeat the inspections at 
+the applicable times specified in table 11 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1214, 
+Revision 5, dated January 30, 2015.
+
+(i) Exception to the Service Information
+
+    Where Boeing Alert Service Bulletin 737-53A1214, Revision 5, 
+dated January 30, 2015, specifies to contact Boeing for repair 
+instructions: Before further flight, repair using a method approved 
+in accordance with the procedures specified in paragraph (l) of this 
+AD.
+
+(j) Terminating Action for Other Rulemaking
+
+    (1) For Group 2 airplanes specified in Boeing Alert Service 
+Bulletin 737-53A1214, Revision 5, dated January 30, 2015: 
+Accomplishing the actions required by paragraph (g) of this AD 
+terminates the inspections required by paragraph (k) of AD 2012-18-
+13 R1, except for stringer S-5L to S-7L and stringer S-5R to S-9R.
+    (2) For Group 2 airplanes specified in Boeing Alert Service 
+Bulletin 737-53A1214, Revision 5, dated January 30, 2015: 
+Accomplishing the actions required by paragraph (h) of this AD 
+terminates the inspections required by paragraph (l) of AD 2012-18-
+13 R1.
+
+(k) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraphs (g) and (h) of this AD, if the actions were performed 
+before the effective date of this AD using Boeing Alert Service 
+Bulletin 737-53A1214, Revision 4, dated December 16, 2011.
+
+[[Page 72515]]
+
+(l) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Los Angeles Aircraft Certification Office 
+(ACO), FAA, has the authority to approve AMOCs for this AD, if 
+requested using the procedures found in 14 CFR 39.19. In accordance 
+with 14 CFR 39.19, send your request to your principal inspector or 
+local Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (m)(1) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#c7feea86898aea8b86868488ea868a8884ea95a2b6b2a2b4b3b487a1a6a6e9a0a8b1"><span class="__cf_email__" data-cfemail="0b32264a454626474a4a4844264a46444826596e7a7e6e787f784b6d6a6a256c647d">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by the Boeing Commercial Airplanes Organization 
+Designation Authorization (ODA) that has been authorized by the 
+Manager, Los Angeles ACO, to make those findings. To be approved, 
+the repair method, modification deviation, or alteration deviation 
+must meet the certification basis of the airplane, and the approval 
+must specifically refer to this AD.
+    (4) AMOCs approved previously for AD 2012-18-13 R1, Amendment 
+39-17429 (78 FR 27020, May 9, 2013), are approved as AMOCs for the 
+corresponding provisions of this AD.
+
+(m) Related Information
+
+    (1) For more information about this AD, contact Payman Soltani, 
+Aerospace Engineer, Airframe Branch, ANM-120L, FAA, Los Angeles ACO, 
+3960 Paramount Boulevard, Lakewood CA 90712-4137; telephone: 562-
+627-5313; fax: 562-627-5210; email: <a href="/cdn-cgi/l/email-protection#4b3b2a32262a25653824273f2a25220b2d2a2a652c243d"><span class="__cf_email__" data-cfemail="90e0f1e9fdf1febee3fffce4f1fef9d0f6f1f1bef7ffe6">[email&#160;protected]</span></a>.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (n)(3) and (n)(4) of this AD.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Service Bulletin 737-53A1214, Revision 5, dated 
+January 30, 2015.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on September 16, 2016.
+Thomas Groves,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-23078 Filed 10-19-16; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

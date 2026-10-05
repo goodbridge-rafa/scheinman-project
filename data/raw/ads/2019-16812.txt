@@ -1,0 +1,482 @@
+<html>
+<head>
+<title>Federal Register, Volume 84 Issue 153 (Thursday, August 8, 2019)</title>
+</head>
+<body><pre>
+[Federal Register Volume 84, Number 153 (Thursday, August 8, 2019)]
+[Rules and Regulations]
+[Pages 38859-38862]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2019-16812]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0574; Product Identifier 2018-NM-150-AD; Amendment 
+39-19688; AD 2019-14-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2018-02-
+11, which applies to certain Airbus SAS Model A330-301, -321, -322, and 
+-342 airplanes. AD 2018-02-11 requires contacting the FAA to obtain 
+instructions for addressing the unsafe condition on these products, and 
+doing the actions specified in those instructions. Since the FAA issued 
+AD 2018-02-11, the agency received a report of additional cracking 
+found on different airplane models, and of an update to the fatigue and 
+damage tolerance analysis. This AD requires repetitive detailed 
+inspections of the horizontal stabilizer (HS) center box (CB) top skin 
+integral flange area, and repair if necessary. This AD also expands the 
+applicability to include additional airplane models. The FAA is issuing 
+this AD to address the unsafe condition on these products.
+
+DATES: This AD becomes effective August 23, 2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of August 23, 
+2019.
+    The FAA must receive comments on this AD by September 23, 2019.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the instructions for submitting comments.
+    <bullet> Fax: 202-493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    <bullet> Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590, between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays.
+    For the material incorporated by reference (IBR) in this AD, 
+contact the EASA, at Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; 
+telephone +49 221 89990 1000; email <a href="/cdn-cgi/l/email-protection#bafbfec9fadfdbc9db94dfcfc8d5cadb94dfcf"><span class="__cf_email__" data-cfemail="1c5d586f5c797d6f7d3279696e736c7d327969">[email&#160;protected]</span></a>; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>. You may view this IBR material at the 
+FAA, Transport Standards Branch, 2200 South 216th St., Des Moines, WA. 
+For information on the availability of this material at the FAA, call 
+206-231-3195. It is also available in the AD docket on the internet at 
+<a href="http://www.regulations.gov">http://www.regulations.gov</a>.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2019-
+0574; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD, the regulatory evaluation, any comments received, and other 
+information. The street address for Docket Operations is listed above. 
+Comments will be available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3229.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The FAA issued AD 2018-02-11, Amendment 39-19164 (83 FR 2894, 
+January 22, 2018) (``AD 2018-02-11''), for certain Airbus SAS Model 
+A330-301, -321, -322, and -342 airplanes. AD 2018-02-11 requires 
+contacting the FAA to obtain instructions for addressing the unsafe 
+condition on these products, and doing the actions specified in those 
+instructions. AD 2018-02-11 resulted from a report of cracking in the 
+top skin of the HS CB of an airplane in pre-modification 41330 
+configuration. The FAA issued AD 2018-02-11 to address cracking in the 
+HS CB, which could lead to reduced structural integrity of the 
+airplane.
+
+Actions Since AD 2018-02-11 Was Issued
+
+    Since the FAA issued AD 2018-02-11, the FAA received a report of 
+additional cracking found on different airplane models, and of an 
+update to the fatigue and damage tolerance analysis. The FAA has 
+determined that additional airplanes are subject to the unsafe 
+condition.
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2018-0226, dated October 22, 2018 
+(``EASA AD 2018-0226'') (also referred to as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for certain Airbus SAS Model A330-223, -243, -301, -302, -
+321, -322, -323, -341, -342, and -343 airplanes; and Model A340-200 and 
+-300 series airplanes. The MCAI states:
+
+    Cracks were found in the horizontal stabilizer (HS) centre box 
+(CB) top skin of an A330 aeroplane in pre-mod 41330 configuration. 
+The cracks were initiated at the upper flange corner at Rib 3 rear 
+spar area on left hand side of the CB.
+    This condition, if not detected and corrected, could lead to 
+reduced structural integrity of the HS CB of the aeroplane.
+    To address this unsafe condition, Airbus published SB [service 
+bulletin] A330-55-3046 to provide inspection instructions for
+
+[[Page 38860]]
+
+the affected area (see Appendix 1 of this [EASA] AD), only 
+applicable to some pre-mod 41330 A330 MSN [manufacturer serial 
+number]. Consequently, EASA issued AD 2017-0078 (which corresponds 
+to FAA AD 2018-02-11) to require a one-time special detailed 
+inspection (SDI) of the HS CB top skin integral flange area and, 
+depending on findings, accomplishment of applicable corrective 
+action(s).
+    Since that [EASA] AD was issued, new crack finding occurrences 
+were reported on different aeroplanes. Based on the reported 
+findings, and the updated fatigue and damage tolerance analysis, it 
+is necessary to extend the inspection to all pre-mod 41330 
+aeroplanes as well as to a limited number of post-mod aeroplanes, 
+and to introduce repetitive inspections for all affected aeroplanes. 
+Consequently, Airbus published the applicable SB to provide 
+instructions for repetitive inspections for the affected area.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2017-0078, which is superseded, expands the 
+Applicability to include A340 and additional A330 aeroplanes, and 
+introduces repetitive inspections.
+
+Explanation of Retained Requirements
+
+    Although this AD does not explicitly restate the requirements of AD 
+2018-02-11, this AD would retain requirements equivalent to those of AD 
+2018-02-11. Those requirements are referenced in EASA AD 2018-0226, 
+which, in turn, is referenced in paragraph (g) of this AD.
+
+Related IBR Material Under 1 CFR Part 51
+
+    EASA AD 2018-0226 describes procedures for repetitive special 
+detailed inspections (SDI) of the HS CB top skin integral flange area 
+and, repair if necessary. This material is reasonably available because 
+the interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to a bilateral agreement with the State of Design Authority, the FAA 
+has been notified of the unsafe condition described in the MCAI 
+referenced above. The FAA is issuing this AD because the agency 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of the same 
+type design.
+
+Requirements of This AD
+
+    This AD requires accomplishing the actions specified in EASA AD 
+2018-0226 described previously, except for any differences identified 
+as exceptions in the regulatory text of this AD. This AD also requires 
+sending the inspection results to Airbus.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA worked with Airbus and EASA to develop a process to 
+use certain EASA ADs as the primary source of information for 
+compliance with requirements for corresponding FAA ADs. As a result, 
+EASA AD 2018-0226 is incorporated by reference in the FAA final rule. 
+This AD, therefore, requires compliance with the provisions specified 
+in EASA AD 2018-0226, except for any differences identified as 
+exceptions in the regulatory text of this AD. Service information 
+specified in EASA AD 2018-0226 that is required for compliance with 
+EASA AD 2018-0226 is available on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2019-
+0574.
+
+FAA's Justification and Determination of the Effective Date
+
+    Since there are currently no domestic operators of this product, 
+notice and opportunity for public comment before issuing this AD are 
+unnecessary. In addition, for the reasons stated above, the FAA finds 
+that good cause exists for making this amendment effective in less than 
+30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and the FAA did not precede it by notice and opportunity for 
+public comment. The FAA invites you to send any written relevant data, 
+views, or arguments about this AD. Send your comments to an address 
+listed under the ADDRESSES section. Include ``Docket No. FAA-2019-0574; 
+Product Identifier 2018-NM-150-AD'' at the beginning of your comments. 
+The FAA specifically invites comments on the overall regulatory, 
+economic, environmental, and energy aspects of this AD. The FAA will 
+consider all comments received by the closing date and may amend this 
+AD based on those comments.
+    The FAA will post all comments received, without change, to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, including any personal information you provide. 
+The FAA will also post a report summarizing each substantive verbal 
+contact received about this AD.
+
+Costs of Compliance
+
+    Currently, there are no affected U.S.-registered airplanes. If an 
+affected airplane is imported and placed on the U.S. Register in the 
+future, the following are cost estimates to comply with this AD:
+
+                  Estimated Costs for Required Actions
+------------------------------------------------------------------------
+            Labor cost                Parts cost      Cost per product
+------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85..              $0  $85 per inspection.
+------------------------------------------------------------------------
+
+    The FAA estimates that it would take about 1 work-hour per product 
+to comply with the on-condition reporting requirement in this AD. The 
+average labor rate is $85 per hour. Based on these figures, the FAA 
+estimates the cost of reporting the inspection results on U.S. 
+operators to be $85 per product.
+    The FAA has received no definitive data that would enable the 
+agency to provide cost estimates for the on-condition actions specified 
+in this AD.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB control number. The control 
+number for the collection of information required by this AD is 2120-
+0056. The paperwork cost associated with this AD has been detailed in 
+the Costs of Compliance section of this document and includes time for 
+reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to the FAA 
+at 800 Independence Ave. SW, Washington,
+
+[[Page 38861]]
+
+DC 20591, ATTN: Information Collection Clearance Officer, AES-200.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    The FAA determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Will not affect intrastate aviation in Alaska; and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2018-02-11, Amendment 39-19164 (83 FR 2894, January 22, 2018), and 
+adding the following new AD:
+
+2019-14-10 Airbus SAS: Amendment 39-19688; Docket No. FAA-2019-0574; 
+Product Identifier 2018-NM-150-AD.
+
+(a) Effective Date
+
+    This AD becomes effective August 23, 2019.
+
+(b) Affected ADs
+
+    This AD replaces AD 2018-02-11, Amendment 39-19164 (83 FR 2894, 
+January 22, 2018) (``AD 2018-02-11'').
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A330-223, -243, -301, -302, 
+-321, -322, -323, -341, -342, and -343 airplanes; and Model A340-
+211, -212, -213, -311, -312, and -313 airplanes; certificated in any 
+category; as identified in European Aviation Safety Agency (EASA) AD 
+2018-0226, dated October 22, 2018 (``EASA AD 2018-0226'').
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 55, Stabilizers.
+
+(e) Reason
+
+    This AD was prompted by a report of cracking in the top skin of 
+the horizontal stabilizer (HS) center box (CB) of an airplane in 
+pre-modification 41330 configuration. This AD was also prompted by 
+report of additional cracking found on different airplanes, and of 
+an update to the fatigue and damage tolerance analysis. The FAA is 
+issuing this AD to address cracking in the horizontal stabilizer 
+center box, which could lead to reduced structural integrity of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2018-0226.
+
+(h) Exceptions to EASA AD 2018-0226
+
+    (1) For purposes of determining compliance with the requirements 
+of this AD: Where EASA AD 2018-0226 refers to its effective date, 
+this AD requires using the effective date of this AD.
+    (2) Where EASA AD 2018-0226 refers to a compliance time of after 
+May 17, 2017, this AD requires using February 6, 2018 (the effective 
+date of AD 2018-02-11).
+    (3) The ``Remarks'' section of EASA AD 2018-0226 does not apply 
+to this AD.
+    (4) Paragraphs (5) and (6) of EASA AD 2018-0226 specify to 
+report ``no discrepancy'' inspection results to Airbus at certain 
+times. For this AD, report inspection results at the applicable time 
+specified in paragraph (h)(4)(i) or (h)(4)(ii) of this AD.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 30 days after the inspection.
+    (ii) If the inspection was done before the effective date of 
+this AD: Submit the report within 30 days after the effective date 
+of this AD.
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (j) of this AD. Information may 
+be emailed to: <a href="/cdn-cgi/l/email-protection#87beaac6c9caaab6b6b1aac6cac8c4aad5c2d6d2c2d4d3d4c7e1e6e6a9e0e8f1"><span class="__cf_email__" data-cfemail="e5dcc8a4aba8c8d4d4d3c8a4a8aaa6c8b7a0b4b0a0b6b1b6a5838484cb828a93">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA AD 2018-0226 that contains RC procedures and 
+tests: Except as required by paragraph (h)(4) and (i)(2) of this AD, 
+RC procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+    (4) Paperwork Reduction Act Burden Statement: A federal agency 
+may not conduct or sponsor, and a person is not required to respond 
+to, nor shall a person be subject to
+
+[[Page 38862]]
+
+a penalty for failure to comply with a collection of information 
+subject to the requirements of the Paperwork Reduction Act unless 
+that collection of information displays a current valid OMB Control 
+Number. The OMB Control Number for this information collection is 
+2120-0056. Public reporting for this collection of information is 
+estimated to be approximately 1 hour per response, including the 
+time for reviewing instructions, completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Comments concerning the accuracy of this 
+burden and suggestions for reducing the burden should be directed to 
+the FAA at: 800 Independence Ave. SW, Washington, DC 20591, Attn: 
+Information Collection Clearance Officer, AES-200.
+
+(j) Related Information
+
+    For more information about this AD, contact Vladimir Ulyanov, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3229.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Aviation Safety Agency (EASA) AD 2018-0226, dated 
+October 22, 2018.
+    (ii) [Reserved]
+    (3) For EASA AD 2018-0226, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 89990 6017; email 
+<a href="/cdn-cgi/l/email-protection#3574714675505446541b5040475a45541b5040"><span class="__cf_email__" data-cfemail="cd8c89be8da8acbeace3a8b8bfa2bdace3a8b8">[email&#160;protected]</span></a>; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>.
+    (4) You may view this EASA AD at the FAA, Transport Standards 
+Branch, 2200 South 216th St., Des Moines, WA. For information on the 
+availability of this material at the FAA, call 206-231-3195. EASA AD 
+2018-0226 may be found in the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-
+2019-0574.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, call 202-
+741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Des Moines, Washington, on July 23, 2019.
+Dionne Palermo,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-16812 Filed 8-7-19; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

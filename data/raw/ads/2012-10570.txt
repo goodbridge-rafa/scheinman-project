@@ -1,0 +1,634 @@
+<html>
+<head>
+<title>Federal Register, Volume 77 Issue 88 (Monday, May 7, 2012)</title>
+</head>
+<body><pre>
+[Federal Register Volume 77, Number 88 (Monday, May 7, 2012)]
+[Rules and Regulations]
+[Pages 26663-26667]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2012-10570]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0044; Directorate Identifier 2010-NM-059-AD; 
+Amendment 39-17039; AD 2012-09-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Model 767-200, -300, 
+-300F, and -400ER Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding an existing airworthiness directive (AD) 
+that applies to The Boeing Company Model 767-200, -300, and -300F 
+series airplanes. That AD currently requires inspections to detect 
+cracking or corrosion of the fail-safe straps between the side fitting 
+of the rear spar bulkhead at body station 955 and the skin; and follow-
+on and corrective actions. This new AD expands the applicability; and 
+adds an inspection for cracking in the fail-safe strap, and repair or 
+replacement if necessary. This AD was prompted by additional reports of 
+cracks in 51 fail-safe straps on 41 airplanes; we have also received a 
+report of a crack found in the ``T'' fitting that connects the fail-
+safe strap to the outboard edge of the pressure deck. We are issuing 
+this AD to detect and correct fatigue cracking or corrosion of the 
+fail-safe straps and the ``T'' fittings, which could result in cracking 
+of adjacent structure and consequent reduced structural integrity of 
+the fuselage.
+
+DATES: This AD is effective June 11, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of June 11, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of 
+November 1, 2004 (69 FR 57636, September 27, 2004, as referenced in 70 
+FR 58000, October 5, 2005).
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1, fax 206-766-5680; email <a href="/cdn-cgi/l/email-protection#79141c571b161c1a1614391b161c10171e571a1614"><span class="__cf_email__" data-cfemail="325f571c505d57515d5f72505d575b5c551c515d5f">[email&#160;protected]</span></a>; 
+Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may review copies of the 
+referenced service information at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue SW., Renton, Washington 98057-3356. For 
+information on the availability of this material at the FAA, call 425-
+227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Berhane Alazar, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue SW., Renton, Washington 98057-3356; phone: 425-917-
+6577; fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#3b595e49535a555e155a575a415a497b5d5a5a155c544d"><span class="__cf_email__" data-cfemail="630106110b020d064d020f02190211230502024d040c15">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2004-19-06 R1, amendment 39-14313 (70 FR 58000, 
+October 5, 2005). That AD applies to The Boeing Company Model 767-200, 
+-300, and -300F series airplanes. The NPRM published in the Federal 
+Register on February 24, 2011 (76 FR 10288). That NPRM proposed to 
+continue to require inspections to detect cracking or corrosion of the 
+fail-safe straps between the side fitting of the rear spar bulkhead at 
+body station 955 and the skin; and follow-on and corrective actions. 
+That NPRM also proposed to expand the applicability, and add an 
+inspection for cracking in the fail-safe strap, and repair or 
+replacement if necessary.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+and the FAA's response to each comment.
+
+Request To Add Airplanes to Applicability
+
+    Aviation Partners Boeing (APB) asked that we include airplanes in 
+the NPRM (76 FR 10288, February 24, 2011) that have been modified with 
+winglets, in accordance with Supplemental Type Certificate (STC) 
+ST01920SE. APB stated that it completed an analysis of Boeing Alert 
+Service Bulletin 767-53A0100, Revision 2, dated January 15, 2010, and 
+determined that the defined rework limits are valid when winglets are 
+installed. APB added that including these airplanes will reduce the 
+effort to support requests for alternative methods of compliance 
+(AMOCs) to the NPRM.
+    We acknowledge APB's request to include airplanes modified with 
+winglets in accordance with the referenced STC in the applicability of 
+this AD. We received an analysis package from APB which verifies that 
+the compliance information included in Boeing Alert Service Bulletin 
+767-53A0100, Revision 2, dated January 15, 2010, is adequate to provide 
+an acceptable level of safety for airplanes equipped with those 
+winglets. Those airplanes are listed in the effectivity section of 
+Revision 2 of this service bulletin, which is identified in the 
+applicability section of this AD. We have not changed the AD in this 
+regard. However, since the referenced STC does not affect 
+accomplishment of the requirements of this AD, we have clarified that 
+an AMOC is not necessary for these airplanes by adding this provision 
+in new Note 1 to paragraph (c) of this AD. We have also reidentified 
+subsequent notes.
+
+Request To Change Supplementary Information Section of NPRM
+
+    Boeing noted that in the Supplementary Information section of the 
+NPRM (76 FR 10288, February 24, 2011), there is an error under 
+``Actions Since Existing AD Was Issued.'' Boeing asked for a correction 
+to the ``flight cycles'' data in the sentence ``Fail-safe straps were 
+repaired on 33 airplanes with total accumulated flight cycles ranging 
+from 39,886 to 89,236.'' Boeing stated that the correct flight cycles 
+range is ``9,250 to 38,490,'' and the correct flight hours range is 
+``39,886 to 89,236,'' as published in Boeing Alert Service Bulletin 
+767-53A0100, Revision 2, dated January 15, 2010.
+    We agree with Boeing that there is an error in the number of flight 
+cycles specified under ``Actions Since Existing AD Was Issued;'' the 
+correct number of flight cycles was inadvertently omitted
+
+[[Page 26664]]
+
+from the NPRM (76 FR 10288, February 24, 2011). However, since that 
+section of the preamble does not reappear in the final rule, no change 
+to the AD has been made in this regard.
+
+Request To Change the Unsafe Condition
+
+    Boeing asked that we enhance the clarity of the unsafe condition 
+that is given as the reason for issuing the NPRM (76 FR 10288, February 
+24, 2011) because the ``T'' fittings should not be included in the 
+unsafe condition. Boeing noted that the proposed actions are for 
+detecting and repairing corrosion or cracking of the fail-safe straps. 
+Boeing added that inspections of the ``T'' fitting were added to 
+Revision 2, dated January 15, 2010, of Boeing Alert Service Bulletin 
+767-53A0100, so that a removed/kept ``T'' fitting would be installed in 
+a condition that contains no detectable damage around the three 
+fastener holes that connect to the fail-safe strap. Boeing stated that 
+the inspections are intended only to increase damage detection prior to 
+installation of a kept ``T'' fitting.
+    We agree that emphasizing the fail-safe strap is the main issue in 
+this AD; however, we do not agree that the unsafe condition should be 
+changed to remove the reference to the ``T'' fittings. Some ``T'' 
+fitting cracks have been reported since issuance of the existing AD, as 
+noted in Boeing Alert Service Bulletin 767-53A0100, Revision 2, dated 
+January 15, 2010; therefore, the ``T'' fitting is part of the unsafe 
+condition. We have not changed this AD in this regard.
+
+Request To Change Paragraph (k) of This AD
+
+    Continental Airlines (CAL) asked that we change paragraph (k) of 
+the NPRM (76 FR 10288, February 24, 2011) to include contacting Boeing 
+with corrosion damage details to obtain further repair instructions 
+and/or approval. CAL stated that paragraph (k) of the NPRM requires 
+that the corrosion on the fail-safe straps be repaired in accordance 
+with the Accomplishment Instructions of Boeing Alert Service Bulletin 
+767-53A0100, Revision 2, dated January 15, 2010. CAL added that 
+paragraph 3.B.7 of the Accomplishment Instructions specifies that if 
+corrosion is found on the fail-safe straps, it should be removed as 
+given in Chapter 51-10-02 of the Boeing 767 Structural Repair Manual 
+(SRM). CAL noted that it did not find any information pertaining to the 
+fail-safe straps when reviewing the SRM for the correct rework limits. 
+CAL believes the corrosion removal instructions are incomplete.
+    We agree that corrosion removal instructions specified in Chapter 
+51-10-02 of the SRM do not specifically identify how to blend out 
+corrosion on the fail-safe straps. That chapter contains general 
+procedures for repairing corrosion (which apply to the fail-safe 
+straps), which include inspection, repair, and rework limits but does 
+not contain specific procedures for removing corrosion from fail-safe 
+straps.
+    We have received Boeing Service Bulletin 767-53A0100, Revision 3, 
+dated February 6, 2012. That revision removes the reference to the SRM 
+in Step 3.B.7., and instead specifies to contact Boeing for repair 
+instructions. Therefore we have revised paragraph (k) of this AD to 
+specify that where Boeing Service Bulletin 767-53A0100, Revision 3, 
+dated February 6, 2012, specifies to contact Boeing for repair, this AD 
+requires repair using a method approved in accordance with paragraph 
+(o) of this AD.
+    Boeing Service Bulletin 767-53A0100, Revision 3, dated February 6, 
+2012, also adds notes and revised steps to provide flexibility and 
+revised figures to correct errors. These changes include revising a 
+Standard Operating Practices Manual (SOPM) reference to specify SOPM 
+20-20-00, adding a fastener code to Figure 28 that was omitted, and 
+revising cable identification labels in Figures 32 and 34. We have 
+revised this AD to refer to Boeing Service Bulletin 767-53A0100, 
+Revision 3, dated February 6, 2012, as the appropriate source of 
+service information for accomplishing the required actions. We have 
+added Boeing Alert Service Bulletin 767-53A0100, Revision 2, dated 
+January 15, 2010, to paragraph (n) of this AD to give credit for doing 
+actions before the effective date of this AD, using that revision.
+
+Request To Change Certain References in the Service Information
+
+    CAL asked that certain references in Boeing Alert Service Bulletin 
+767-53A0100, Revision 2, dated January 15, 2010, be changed, as 
+follows:
+    CAL stated that the use of the procedures in the Standard Wiring 
+Practices Manual, Section 20-20-00, should be allowed for the 
+resistance check of bonding fasteners during the panel installation. 
+CAL stated that the standard operating manual reference specified in 
+the resistance check of bonding fasteners during the panel installation 
+does not provide the maximum resistance value.
+    CAL noted that Figure 28 of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 767-53A0100, Revision 2, dated January 
+15, 2010, which identifies Fastener Code ``B,'' is missing from the top 
+corner of the panel.
+    CAL also noted that the circle control numbers identified in 
+Figures 32 and 34 of the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 767-53A0100, Revision 2, dated January 15, 2010, do 
+not match the aileron control cables and work instructions. CAL stated 
+that the control cable turnbuckle body station locations are reversed.
+    We acknowledge the commenter's concerns regarding the referenced 
+figures and SOPM. The actions specified in the SOPM and those figures 
+are only referred to in the service bulletin for optional guidance. As 
+stated previously, Boeing Service Bulletin 767-53A0100, Revision 3, 
+dated February 6, 2012, corrects these errors. We have made no change 
+to the AD in this regard.
+
+Explanation of Additional Changes Made to This AD
+
+    We have made the following changes to this AD:
+    <bullet> Revised certain headers throughout this AD.
+    <bullet> Redesignated Note 2 of the NPRM (76 FR 10288, February 24, 
+2011) as paragraph (g)(3) in this AD, and redesignated subsequent notes 
+accordingly.
+    <bullet> Revised the heading for and wording of paragraph (n) of 
+this AD; this change has not changed the intent of that paragraph.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously--and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (76 FR 10288, February 24, 2011) for correcting the unsafe 
+condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (76 FR 10288, February 24, 2011).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD will affect 390 airplanes of U.S. 
+registry.
+    We estimate the following costs to comply with this AD:
+
+[[Page 26665]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                               Parts                             Cost on U.S.
+              Action                       Labor cost           cost     Cost per product         operators
+----------------------------------------------------------------------------------------------------------------
+Inspection for Model 767-200, -    2 work-hours x $85 per          $0  $170 per inspection   $60,180 per
+ 300, and -300F airplanes           hour = $170 per                     cycle.                inspection cycle.
+ (retained actions from AD          inspection cycle.
+ 2004[dash]19-06 R1, Amendment
+ 39[dash]14313 (70 FR 58000,
+ October 5, 2005)).
+New inspections for all airplanes  2 work-hours x $85 per           0  $170 per inspection   $66,300 per
+ (new action).                      hour = $170 per                     cycle.                inspection cycle.
+                                    inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary repairs/
+replacements that would be required based on the results of the 
+inspection. We have no way of determining the number of aircraft that 
+might need these repairs/replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+               Action                         Labor cost                Parts cost           Cost per product
+----------------------------------------------------------------------------------------------------------------
+Repair or replacement, Groups 1-7,   295 work-hours x $85 per     Between $9,054 and      Between $34,129 and
+ 10, and 11 airplanes.                hour = $25,075.              $15,837.                $40,912.
+Repair or replacement, Groups 8 and  297 work hours x $85 per     Between $32,593 and     Between $57,838 and
+ 9 airplanes.                         hour = $25,245.              $32,727.                $57,972.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2004-19-06 R1, Amendment 39-14313 (70 FR 58000, October 5, 2005), and 
+adding the following new AD:
+
+2012-09-04 The Boeing Company: Amendment 39-17039; Docket No. FAA-
+2011-0044; Directorate Identifier 2010-NM-059-AD.
+
+(a) Effective Date
+
+    This AD is effective June 11, 2012.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2004-19-06 R1, Amendment 39-14313 (70 FR 
+58000, October 5, 2005).
+
+(c) Applicability
+
+    This AD applies to Model 767-200, -300, -300F, and -400ER series 
+airplanes, certificated in any category; as identified in Boeing 
+Service Bulletin 767-53A0100, Revision 3, dated February 6, 2012.
+
+    Note 1 to paragraph (c) of this AD:  Supplemental Type 
+Certificate (STC) ST01920SE (http://rgl.faa.gov/Regulatory--and--
+Guidance--Library/rgstc.nsf/0/082838ee177dbf62862576a4005cdfc0/
+$FILE/ST01920SE.pdf) does not affect the ability to accomplish the 
+actions required by this AD. Therefore, for airplanes on which STC 
+ST01920SE is installed, a ``change in product'' alternative method 
+of compliance (AMOC) approval request is not necessary to comply 
+with the requirements of 14 CFR 39.17. For all other AMOC requests, 
+the operator must request approval for an AMOC according to 
+paragraph (o) of this AD.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by additional reports of cracks in 51 fail-
+safe straps on 41 airplanes; we have also received a report of a 
+crack found in the ``T'' fitting that connects the fail-safe strap 
+to the outboard edge of the pressure deck. We are issuing this AD to 
+detect and correct fatigue cracking or corrosion of the fail-safe 
+straps and the ``T'' fittings, which could result in cracking of 
+adjacent structure and consequent reduced structural integrity of 
+the fuselage.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+[[Page 26666]]
+
+(g) Retained Inspections and Follow-on/Corrective Actions With New 
+Service Information
+
+    These inspection requirements are retained from AD 2004-19-06 
+R1, Amendment 39-14313 (70 FR 58000, October 5, 2005). For Model 
+767-200, -300, and -300F series airplanes having line numbers 1 
+through 931 inclusive: Except as provided by paragraph (h) of this 
+AD, prior to the accumulation of 15,000 total flight cycles, or 
+within 3,000 flight cycles after November 1, 2004 (the effective 
+date of AD 2004-19-06 R1, Amendment 39-14313, 70 FR 58000, October 
+5, 2005), whichever occurs later, perform a detailed inspection and 
+eddy current inspection to detect cracking or corrosion of the fail-
+safe straps between the side fitting of the rear spar bulkhead at 
+body station (BS) 955 and the skin, per Figure 2 of the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 767-
+53A0100, dated September 26, 2002; Boeing Alert Service Bulletin 
+767-53A0100, Revision 2, dated January 15, 2010; or Boeing Service 
+Bulletin 767-53A0100, Revision 3, dated February 6, 2012. As of the 
+effective date of this AD, use only Boeing Alert Service Bulletin 
+767-53A0100, Revision 3, dated February 6, 2012. Doing the 
+inspections required by paragraph (i) of this AD terminates the 
+requirements of this paragraph.
+    (1) If no crack or corrosion is found, repeat the inspections 
+thereafter at intervals not to exceed 6,000 flight cycles or 36 
+months, whichever occurs first, until paragraph (i) of this AD is 
+done.
+    (2) If any crack or corrosion is found, before further flight, 
+repair per a method approved by the Manager, Seattle Aircraft 
+Certification Office (ACO), FAA; or using a method approved in 
+accordance with paragraph (o) of this AD.
+    (3) For the purposes of this AD, a detailed inspection is: ``An 
+intensive examination of a specific item, installation, or assembly 
+to detect damage, failure, or irregularity. Available lighting is 
+normally supplemented with a direct source of good lighting at an 
+intensity deemed appropriate. Inspection aids such as mirror, 
+magnifying lenses, etc., may be necessary. Surface cleaning and 
+elaborate procedures may be required.''
+
+(h) Retained Inspections and Follow-on/Corrective Actions
+
+    These inspection requirements are retained from AD 2004-19-06 
+R1, Amendment 39-14313 (70 FR 58000, October 5, 2005). For airplanes 
+identified in paragraph (g) of this AD on which the fail-safe strap 
+has been replaced before November 1, 2004: Do the actions required 
+by paragraph (g) of this AD within 12,000 flight cycles after 
+accomplishing the replacement.
+
+    Note 2 to paragraph (h) of this AD:  Steps 2 and 8 of the Work 
+Instructions of Boeing Alert Service Bulletin 767-53A0100, dated 
+September 26, 2002, refer incorrectly to Boeing 767 Airplane 
+Maintenance Manual (AMM) 32-00-20 for guidance on opening the MLG 
+doors; the correct reference is Boeing 767 AMM 32-00-15, which is 
+referred to in steps 3 and 7 of the Work Instructions. Step 2 also 
+should state ``Open Main Landing Gear (MLG) doors'' instead of 
+``Open Main Landing Green (MLG) doors.''
+
+(i) New Repetitive Detailed and Eddy Current Inspections
+
+    Prior to the accumulation of 15,000 total flight cycles, or 
+within 3,000 flight cycles after the effective date of this AD, 
+whichever occurs later: Perform detailed and eddy current 
+inspections to detect cracking and/or corrosion of the fail-safe 
+straps between the side fitting of the rear spar bulkhead at BS 955 
+and the skin, in accordance with the Accomplishment Instructions of 
+Boeing Service Bulletin 767-53A0100, Revision 3, dated February 6, 
+2012. If no crack or corrosion is found, repeat the inspections 
+thereafter at intervals not to exceed 6,000 flight cycles or 36 
+months, whichever occurs first. Accomplishing the actions required 
+by this paragraph ends the requirements of paragraphs (g) and (g)(1) 
+of this AD.
+
+(j) New Repetitive Ultrasonic Inspections
+
+    Prior to the accumulation of 15,000 total flight cycles, or 
+within 3,000 flight cycles after the effective date of this AD, 
+whichever occurs later: Do an ultrasonic inspection of the fail-safe 
+strap for cracking, and all applicable related investigative 
+actions, in accordance with the Accomplishment Instructions of 
+Boeing Service Bulletin 767-53A0100, Revision 3, dated February 6, 
+2012. Do all applicable related investigative actions before further 
+flight. If no crack is found, repeat the inspection thereafter at 
+intervals not to exceed 6,000 flight cycles or 36 months, whichever 
+occurs first.
+
+(k) New Corrective Actions
+
+    If any corrosion is found during any inspection required by 
+paragraph (i) of this AD: Before further flight, repair the 
+corrosion, in accordance with the Accomplishment Instructions of 
+Boeing Service Bulletin 767-53A0100, Revision 3, dated February 6, 
+2012; except where Boeing Service Bulletin 767-53A0100, Revision 3, 
+dated February 6, 2012, specifies to contact Boeing for repair, 
+before further flight, repair using a method approved in accordance 
+with paragraph (o) of this AD.
+
+(l) New Corrective Actions
+
+    If any crack is found during any inspection required by 
+paragraph (i) or (j) of this AD: Before further flight, repair in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 767-53A0100, Revision 3, dated February 6, 2012; except 
+where Boeing Service Bulletin 767-53A0100, Revision 3, dated 
+February 6, 2012, specifies to contact Boeing for appropriate 
+action, before further flight, repair using a method approved in 
+accordance with the procedures specified in paragraph (o) of this 
+AD. Accomplishing the fail-safe strap trim repair in accordance with 
+Boeing Service Bulletin 767-53A0100, Revision 3, dated February 6, 
+2012, ends the repetitive inspections required by paragraphs (i) and 
+(j) of this AD only on the side of the airplane where the repair was 
+done. Replacing the fail-safe strap with a replacement strap that 
+has the revised edge configuration in accordance with Boeing Service 
+Bulletin 767-53A0100, Revision 3, dated February 6, 2012, ends the 
+repetitive inspections required by paragraphs (i) and (j) of this AD 
+only on the side of the airplane where the replacement was done.
+
+(m) New Post-Replacement Inspections
+
+    For any replacement strap that does not have a revised edge 
+configuration, as specified in Boeing Service Bulletin 767-53A0100, 
+Revision 3, dated February 6, 2012: Within 12,000 flight cycles 
+after doing the replacement, accomplish the inspections required by 
+paragraphs (i) and (j) of this AD. Repeat the inspections thereafter 
+at intervals not to exceed 6,000 flight cycles or 36 months, 
+whichever occurs first. Replacing the fail-safe strap with a 
+replacement strap that has the revised edge configuration in 
+accordance with Boeing Service Bulletin 767-53A0100, Revision 3, 
+dated February 6, 2012, ends the repetitive inspections required by 
+paragraphs (i) and (j) of this AD only on the side of the airplane 
+where the replacement was done.
+
+(n) New Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (g) through (m) of this AD, if those actions were 
+performed before the effective date of this AD using Boeing Alert 
+Service Bulletin 767-53A0100, Revision 1, dated August 11, 2006; or 
+Boeing Alert Service Bulletin 767-53A0100, Revision 2, dated January 
+15, 2010.
+
+(o) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle ACO, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+ACO, send it to the attention of the person identified in the 
+Related Information section of this AD. Information may be emailed 
+to: <a href="/cdn-cgi/l/email-protection#4c75610d0201611f292d38382029610d0f03610d01030f611e293d39293f383f0c2a2d2d622b233a"><span class="__cf_email__" data-cfemail="8cb5a1cdc2c1a1dfe9edf8f8e0e9a1cdcfc3a1cdc1c3cfa1dee9fdf9e9fff8ffcceaededa2ebe3fa">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane and 14 CFR 25.571, 
+Amendment 45, and the approval must specifically refer to this AD.
+    (4) AMOCs approved for AD 2004-19-06, Amendment 39-13800 (69 FR 
+57636, September 27, 2004); and AD 2004-19-06 R1, Amendment 39-14313 
+(70 FR 58000, October 5, 2005); are approved as AMOCs for paragraphs 
+(g) and (h) of this AD, as applicable.
+
+(p) Related Information
+
+    For more information about this AD, contact Berhane Alazar, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle
+
+[[Page 26667]]
+
+ACO, 1601 Lind Avenue SW., Renton, Washington 98057-3356; phone: 
+(425) 917-6577; fax: (425) 917-6590; email: <a href="/cdn-cgi/l/email-protection#0b696e79636a656e256a676a716a794b6d6a6a256c647d"><span class="__cf_email__" data-cfemail="f193948399909f94df909d908b9083b1979090df969e87">[email&#160;protected]</span></a>.
+
+(q) Material Incorporated by Reference
+
+    (1) You must use the following service information to do the 
+actions required by this AD, unless the AD specifies otherwise. The 
+Director of the Federal Register approved the incorporation by 
+reference (IBR) under 5 U.S.C. 552(a) and 1 CFR part 51 of the 
+following service information on the date specified.
+    (i) Boeing Service Bulletin 767-53A0100, Revision 3, dated 
+February 6, 2012, approved for IBR June 11, 2012.
+    (ii) Boeing Alert Service Bulletin 767-53A0100, Revision 2, 
+dated January 15, 2010, approved for IBR June 11, 2012.
+    (iii) Boeing Alert Service Bulletin 767-53A0100, dated September 
+26, 2002; approved for IBR November 1, 2004 (69 FR 57636, September 
+27, 2004, as referenced in 70 FR 58000, October 5, 2005).
+    (2) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 
+206-544-5000, extension 1; fax 206-766-5680; email 
+<a href="/cdn-cgi/l/email-protection#e48981ca868b81878b89a4868b818d8a83ca878b89"><span class="__cf_email__" data-cfemail="1a777f3478757f7975775a78757f73747d34797577">[email&#160;protected]</span></a>; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (3) You may review copies of the referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, Washington. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+    (4) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr_locations.html">http://www.archives.gov/federal-register/cfr/ibr_locations.html</a>.
+
+    Issued in Renton, Washington on April 23, 2012.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-10570 Filed 5-4-12; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

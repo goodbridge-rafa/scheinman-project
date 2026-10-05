@@ -1,0 +1,1975 @@
+<html>
+<head>
+<title>Federal Register, Volume 88 Issue 29 (Monday, February 13, 2023)</title>
+</head>
+<body><pre>
+[Federal Register Volume 88, Number 29 (Monday, February 13, 2023)]
+[Rules and Regulations]
+[Pages 9170-9185]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2023-02986]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-1078; Project Identifier AD-2020-00716-A; 
+Amendment 39-22324; AD 2023-02-17]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Textron Aviation Inc. (Type Certificate 
+Previously Held by Cessna Aircraft Company) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Textron Aviation Inc. (type certificate previously held by Cessna 
+Aircraft Company) (Textron) Model 210N, 210R, P210N, P210R, T210N, 
+T210R, 177, 177A, 177B, 177RG, and F177RG airplanes. This AD was 
+prompted by the in-flight break-up of a Model T210M airplane in 
+Australia, due to fatigue cracking that initiated at a corrosion pit, 
+and subsequent corrosion reports on other Model 210- and 177-series 
+airplanes. This AD requires visual and eddy current inspections of the 
+carry-thru spar lower cap for corrosion, cracking, and damage; 
+corrective action if necessary; application of a protective coating and 
+corrosion inhibiting compound (CIC); and reporting the inspection 
+results to the FAA. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective March 20, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of March 20, 
+2023.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> by 
+searching for and locating Docket No. FAA-2020-1078; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, any 
+comments received, and other information. The address for Docket 
+Operations is U.S. Department of Transportation, Docket Operations, M-
+30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue 
+SE, Washington, DC 20590.
+    <bullet> For service information identified in this final rule, 
+contact Textron Aviation Inc., One Cessna Boulevard, Wichita, KS 67215; 
+phone: (316) 517-6061; email: <a href="/cdn-cgi/l/email-protection#acdfd8ded9cfd8d9dec9dfecd8d4d8cdda82cfc3c1"><span class="__cf_email__" data-cfemail="235057515640575651465063575b5742550d404c4e">[email&#160;protected]</span></a>; website: 
+<a href="http://support.cessna.com">support.cessna.com</a>.
+    <bullet> You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 901 Locust, 
+Kansas City, MO 64106. For information on the availability of this 
+material at the FAA, call (817) 222-5110. It is also available at 
+<a href="http://regulations.gov">regulations.gov</a> by searching for and locating Docket No. FAA-2020-1078.
+
+FOR FURTHER INFORMATION CONTACT: Bobbie Kroetch, Aviation Safety 
+Engineer, Wichita ACO Branch, FAA, 1801 Airport Road, Wichita, KS 
+67209; phone: (316) 946-4155; email: <a href="/cdn-cgi/l/email-protection#52303d30303b377c39203d3726313a123433337c353d24"><span class="__cf_email__" data-cfemail="0d6f626f6f646823667f6268796e654d6b6c6c236a627b">[email&#160;protected]</span></a> or <a href="/cdn-cgi/l/email-protection#a8ffc1cbc0c1dcc985ebe7fbe8cec9c986cfc7de"><span class="__cf_email__" data-cfemail="f9ae909a91908d98d4bab6aab99f9898d79e968f">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Textron Model 210N, 
+210R, P210N, P210R, T210N, T210R, 177, 177A, 177B, 177RG, and F177RG 
+airplanes. The NPRM published in the Federal Register on May 11, 2021 
+(86 FR 25812).
+    The NPRM was prompted by a report that, on May 26, 2019, a Textron 
+Model T210M airplane experienced an in-flight breakup while performing 
+low-altitude aerial survey operations in Australia. The carry-thru spar 
+failed and resulted in wing separation and loss of control of the 
+airplane. A visual examination of the fracture surface identified 
+fatigue cracking that initiated at a corrosion pit. The FAA issued an 
+airworthiness concern sheet (ACS) on June 27, 2019, advising owners and 
+operators of the accident and requesting relevant information about the 
+fleet.
+    Following the ACS, the FAA received reports of widespread and 
+severe corrosion of the carry-thru spar. Earlier Model 210G, T210G, 
+210H, T210H, 210J, T210J, 210K, T210K, 210L, T210L, 210M, and T210M 
+airplanes experienced the most widespread and severe corrosion, and the 
+FAA issued AD 2020-03-16, Amendment 39-21029 (85 FR 10043, February 21, 
+2020) (AD 2020-03-16) as an immediately adopted rule (Final Rule; 
+Request for Comments) to address the unsafe condition on those 
+airplanes.
+    The FAA also received reports of corrosion on later Model 210N, 
+P210N, T210N, 210R, P210R, and T210R airplanes and Model 177-series 
+airplanes. On Model 210N, P210N, T210N, 210R, P210R, and T210R 
+airplanes, the upper surface of the carry-thru spar is covered by 
+fuselage skin and is not exposed to the environment. This removes the 
+leak paths at the skin splices common to the earlier Model 210-series 
+airplanes and reduces the potential for moisture intrusion. 
+Additionally, the later Model 210-series airplanes were manufactured 
+with zinc chromate primer applied to all carry-thru spars. However, the 
+later Model 210-series airplanes were also delivered with foam 
+installed along the carry-thru spar lower cap. The foam traps moisture 
+against the lower surface of the carry-thru spar cap, which can aid in 
+the development of corrosion.
+    The Model 177-series airplanes share a similar carry-thru spar 
+design with the earlier Model 210-series airplanes: The upper surface 
+of the carry-thru spars are exposed, and the carry-thru spars might not 
+have been delivered with zinc chromate primer applied. Although Model 
+177-series airplanes were not delivered with foam padding installed on 
+the lower surface of the carry-thru spar, corrosion has been reported 
+on the carry-thru spar lower cap for these airplanes. Corrosion of the 
+carry-thru spar lower cap can lead to fatigue cracking or reduced 
+structural strength of the carry-thru spar, which, if not addressed, 
+could result in wing separation and loss of control of the airplane.
+    In the NPRM, the FAA proposed to require visual and eddy current 
+inspections of the carry-thru spar lower cap for corrosion, cracking, 
+and damage; corrective action if necessary; application of a protective 
+coating and CIC; and reporting the inspection results to the FAA. The 
+FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from 124 commenters. The majority of 
+comments were from individuals. Organizations submitting comments 
+included the Aircraft Owners and Pilots Association (AOPA), Aviation 
+Plus LLC,
+
+[[Page 9171]]
+
+Cardinal Flyers Online, and Textron. In addition, the FAA has included 
+in the docket a discussion with the European Union Aviation Safety 
+Agency that clarifies the proposed NPRM. The following summarizes the 
+comments received on the NPRM and provides the FAA's responses.
+
+A. Requests To Withdraw the NPRM
+
+    Comment summary: AOPA and numerous individual commenters requested 
+that the NPRM be withdrawn.
+1. There Is No Unsafe Condition: Crash Was Maintenance/Operation Issue
+    Seven commenters stated that the NPRM was unnecessary because they 
+diligently inspect their airplanes and have not detected any problems 
+during their inspections. Three commenters explained that this crash 
+was due to a maintenance issue. One commenter questioned how the 
+accident airplane was maintained. Another commenter stated that an AD 
+is not necessary because the Model T210M spar fracture was due to heavy 
+use and lack of maintenance and that a service bulletin would be 
+sufficient. Several individual commenters discussed how the accident 
+airplane was operated, stating improper operation and operation outside 
+the standard limit of the airframe caused the accident.
+    Two commenters stated that there does not appear to be evidence 
+that a problem exists. One commenter stated that voluntary visual 
+inspections of the fleet have not exposed a widespread issue and noted 
+that all airplane structures are exposed to the same aging issues of 
+corrosion and fatigue and that the NPRM singles out Model 210- and 177-
+series airplanes.
+    FAA response: The FAA disagrees with the commenters' requests to 
+withdraw the NPRM. Based on available data, including the corrosion and 
+damage reports received, the FAA disagrees that an unsafe condition 
+does not exist. While the in-flight break-up of a Model T210M airplane 
+in Australia was the catalyst for this AD, the FAA determined that 
+Model 210- and 177-series airplanes share a common single-load path 
+design constructed from the same material. Also, the FAA issued an ACS, 
+dated June 27, 2019, advising owners and operators of the accident and 
+requesting relevant information about the fleet. The reports gathered 
+in response to this ACS, combined with inspection reports received in 
+response to AD 2020-03-16, issued to address widespread and severe 
+corrosion of the carry-thru spars on Model 210G, T210G, 210H, T210H, 
+210J, T210J, 210K, T210K, 210L, T210L, 210M, and T210M airplanes, 
+revealed that carry-thru spars for Model 210- and 177-series airplanes 
+are subject to corrosion. Corrosion can initiate cracking, resulting in 
+a carry-thru spar being unable to carry the required load.
+    Australian Transport Safety Bureau (ATSB) Report AO-2019-026, In-
+flight break-up involving Cessna T210M, VH-SUX, dated May 26, 2019 
+(ATSB AO-2019-026) does state, in part, that ``The cyclic loads induced 
+by the low-level survey flight profile were significantly greater than 
+those associated with the higher-level flight profile originally 
+intended for the aircraft type. This probably increased the risk of 
+fatigue-related structural failure.'' However, ATSB AO-2019-026 does 
+not list inadequate operator maintenance or identify improper operation 
+as contributing factors to the accident.
+    The FAA acknowledges that the carry-thru spar on individual 
+airplanes might not have findings of corrosion or damage. However, as 
+of January 13, 2023, the FAA has received 226 inspection reports from 
+operators of Model 210N, 210R, P210N, P210R, T210N, and T210R airplanes 
+that include 21 reports of corrosion and damage, with two carry-thru 
+spars removed from service. The FAA has also received 211 inspection 
+reports from operators of Textron Model 177-series airplanes that 
+include 120 reports of corrosion and at least 14 spars removed from 
+service due to corrosion or damage.
+2. NPRM Was Overreaching
+    Three commenters stated that the NPRM was overreaching. One 
+commenter stated that the NPRM could be interpreted as punitive and 
+another commenter stated that it is overreaching because it cast a net 
+to include all Model 177-series airplanes and most Model 210-series 
+airplanes.
+    FAA response: The FAA disagrees with the commenters' requests to 
+withdraw the NPRM. Based on available data, including the corrosion and 
+damage reports received, the FAA disagrees that the NPRM was 
+overreaching by including all Model 210- and 177-series airplanes in 
+the applicability. The FAA agrees that other types and models of 
+airplanes have corrosion and fatigue issues, but this AD and its 
+compliance time are based on data for these model airplanes and the 
+nature of this unsafe condition. The applicability of this AD is all 
+Model 210- and 177-series airplanes with carry-thru spars manufactured 
+from 2014-T6 aluminum forging because this part is single-load path, 
+critical structure manufactured from a material susceptible to severe 
+corrosion.
+3. NPRM Is Unnecessary: Use Existing Maintenance Directions, Service 
+Documents, or Issue a Special Airworthiness Information Bulletin (SAIB)
+    Six commenters requested the FAA withdraw the NPRM and allow 
+operators to rely upon the existing maintenance directions or service 
+documents. Another commenter stated that a Textron service letter 
+approach would be sufficient. One commenter stated that the service 
+information approach was the correct decision and that Textron should 
+provide data behind the request for the NPRM. The FAA infers that the 
+commenter is requesting that the NPRM be withdrawn in lieu of service 
+information. One commenter suggested that the FAA issue an SAIB instead 
+of an AD.
+    FAA Response: The FAA disagrees with the commenters' requests to 
+withdraw the NPRM. The procedures in Textron service letters are not 
+legally enforceable requirements. Similarly, the FAA could issue an 
+SAIB to draw attention to the inspections area, but an SAIB is 
+informational only. Thus, an AD is the only way the FAA can mandate the 
+procedures necessary to fix the unsafe condition.
+    Textron does not have the authority to determine if the FAA will or 
+will not issue an AD on a potential airworthiness issue. The FAA has 
+the regulatory authority to issue an AD and, in compliance with 14 CFR 
+39.5, issues an AD when it determines that an unsafe condition exists 
+that is likely to exist or develop in other products of the same type 
+design. For this AD, the FAA based its determination on data received 
+in response to the ACS dated June 27, 2019, inspection reports 
+completed on airplanes in the fleet, and data and analysis provided by 
+Textron and evaluated by the FAA.
+    Cessna previously identified the carry-thru spar as an area of 
+concern through the Continued Airworthiness Program (CAP) inspections, 
+introduced in 1992, as well as the later published supplemental 
+inspection documents (SIDs). Specifically, CAP Inspection Number 57-10-
+08 for the Cessna 210 identifies inspections for the carry-thru spar 
+lower surface and additional inspection on the lower spar cap. 
+Subsequent inspections completed after the Model T210M accident in 
+Australia indicated that operators were not doing the voluntary 
+inspections specified in the SIDs.
+
+[[Page 9172]]
+
+B. Requests Regarding Data Justifying AD Action
+
+    Comment summary: Eleven commenters requested that the FAA provide 
+the data used to justify the NPRM. One commenter stated that pilots and 
+owners need access to the underlying data being used to make critical 
+decisions. Another commenter stated that neither the FAA nor Textron 
+presented any evidence of the corrosion issue existing in Model 210-
+series airplanes that came from the factory with corrosion proofing 
+coating already applied, specifically the 1979 N-model and newer 
+airplanes, and suggested the FAA investigate the issue before taking 
+widespread steps to correct what may be a theoretical issue. An 
+additional commenter stated that no description is found specifying 
+what constitutes severe corrosion compared to non-severe corrosion and 
+requested to know how likely a carry-thru spar is to fail with 
+corrosion versus severe corrosion. Another commenter requested that the 
+FAA provide data to show there is a real threat to warrant immediate 
+intervention.
+    FAA response: The FAA agrees with the commenters' requests to 
+provide additional information regarding the data used to justify 
+issuing this AD. Prior to issuing AD 2020-03-16 and the NPRM for this 
+final rule, the FAA issued the ACS, dated June 27, 2019, advising 
+owners and operators of the accident involving the Model T210M airplane 
+in Australia and requesting relevant information about the fleet. The 
+FAA evaluated data obtained in response to the ACS and from inspection 
+reports completed in response to Textron Aviation Mandatory Single 
+Engine Service Letter, SEL-57-06, dated June 24, 2019 (Textron SEL-57-
+06); Textron Aviation Single Engine Service Letter SEL-57-07, dated 
+June 24, 2019 (Textron SEL-57-07); and subsequent Textron service 
+letters that are identified in the Other Related Information paragraph. 
+The data demonstrated that the risk was higher in earlier Model 210 
+airplanes (Model 210G, T210G, 210H, T210H, 210J, T210J, 210K, T210K, 
+210L, T210L, 210M, and T210M airplanes), which supported issuing AD 
+2020-03-16 as an immediately adopted rule (Final Rule; Request for 
+Comments).
+    The data received for later Model 210- and 177-series airplanes 
+supported issuing the NPRM for this final rule. As of January 13, 2023, 
+the FAA has received inspections results for 226 Model 210N, 210R, 
+P210N, P210R, T210N, and T210R airplanes, including 21 reports of 
+corrosion and damage and 2 spars removed from service. None of these 
+later model airplanes reported cracking in the carry-thru spar. For 
+Model 177-series airplanes, the FAA has received inspections results 
+for 211 airplanes, including 120 reports of corrosion and at least 14 
+spars removed from service due to corrosion or damage. There have not 
+been any reports of cracking in the lower flange of the carry-thru 
+spars on Model 177-series airplanes.
+    Model 210- and 177-series airplanes share a similar carry-thru spar 
+design with similar geometry. The carry-thru spars are single-load 
+path, critical structure manufactured from 2014-T6 aluminum forging, 
+which is susceptible to intergranular corrosion. A description of 
+intergranular corrosion can be found in Chapter 2, Section 2.5.5, of 
+FAA Advisory Circular AC 43-4B, Corrosion Control for Aircraft, dated 
+September 11, 2018. Analysis completed by Textron demonstrated that the 
+carry-thru spars on Model 210- and 177-series airplanes experience 
+similar stress levels in operation. As of January 13, 2023, at least 
+six spars were reported to have suspected cracking associated with 
+corrosion in the lower flange of the carry-thru spar on early Model 
+210-series airplanes. For the carry-thru spar, severe corrosion is 
+demonstrated by blistering, scaling, flaking, or measuring in excess of 
+0.010-inch deep. Any corrosion that results in cracking also qualifies 
+as severe corrosion. Due to a large number of variables, the FAA cannot 
+predict how spars with varying degrees of theoretical corrosion could 
+fail in comparison to one another. However, the FAA's inability to 
+predict the precise moment of failure does not eliminate or invalidate 
+the unsafe condition.
+    The FAA determined that a longer compliance time than what is 
+required by AD 2020-03-16 was acceptable for addressing the identified 
+unsafe condition for later Model 210-series airplanes (Models 210N, 
+P210N, T210N, 210R, P210R, and T210R airplanes) and Model 177-series 
+airplanes, which is why those airplane models were not included in AD 
+2020-03-16 but are included in the applicability for this AD.
+
+C. Requests Regarding Applicability
+
+    Numerous individual commenters requested changes to the 
+applicability of the proposed AD for a variety of reasons.
+1. Accounting for Differences Between Model 210- and 177-Series 
+Airplanes
+    Comment summary: Thirteen commenters requested that the proposed AD 
+account for differences between Model 210- and 177-series airplanes, 
+including weight, operational usage, flight characteristics, wing 
+loading, and application of corrosion protection. Four commenters 
+stated that the FAA should account for the lack of interior foam 
+padding installed on the lower carry-thru spar cap lower surface on 
+Model 177-series airplanes as compared to Model 210-series airplanes. 
+Two commenters identified that Model 177-series airplanes lack an 
+interior bracket that is installed on Model 210-series airplanes, with 
+one commenter noting the straps are dissimilar metal. Another commenter 
+stated that corrosion on Model 177-series airplanes was found on the 
+spar web, lower cap to web radius, and upper surface of the lower cap, 
+as opposed to the Model 210-series airplanes where corrosion was found 
+on the lower surface of the lower cap.
+    FAA response: The FAA acknowledges that there are differences in 
+the carry-thru spars between Model 210- and 177-series airplanes. The 
+FAA agrees that any subsequent rulemaking for the carry-thru spars on 
+Model 210- and 177-series airplanes might not be the same. However, 
+this is an interim AD requiring a visual inspection, eddy current 
+inspection of the critical location, and corrosion treatment of the 
+spars, and the FAA has determined that this action is necessary to 
+address the unsafe condition for all affected airplanes.
+    Although the carry-thru spars for both Model 210- and 177-series 
+airplanes are constructed from the same 2014-T6 aluminum forgings, the 
+thicknesses of the caps are thinner on Model 177-series airplanes 
+compared to Model 210-series airplanes. While the carry-thru spars on 
+Model 177-series airplanes do not have interior foam adhered to the 
+lower carry-thru spar cap, the installation orientation of the carry-
+thru spar in the airplane can result in moisture collecting on the 
+upper surface of the forward flange of the carry-thru spar lower cap, 
+and corrosion has been found on the tension-carrying lower cap. This AD 
+only requires inspecting the lower cap and not the upper cap, web, or 
+web to lower cap radius. Of the 120 reports of corrosion for Model 177-
+series airplanes, 27 include findings of corrosion on the upper surface 
+of the lower carry-thru spar cap, an area included in the inspections 
+required by this AD. Many of the 120 reports included insufficient 
+information to identify the specific location of the corrosion.
+    Like the carry-thru spars on Model 210-series airplanes, some 
+carry-thru spars on Model 177-series airplanes
+
+[[Page 9173]]
+
+were treated with primer in the factory prior to delivery, though not 
+all spars were treated. This AD does account for the differences in 
+these carry-thru spars in the required corrosion protection 
+application. However, the existence of primer itself may not eliminate 
+the possibility that corrosion exists and the spars still must be 
+inspected. The FAA reviewed reports gathered in response to the ACS, 
+dated June 27, 2019, and in response to AD 2020-03-16, which 
+demonstrated that the carry-thru spars on both Model 210- and 177-
+series airplanes are subject to corrosion. Corrosion can initiate a 
+crack, resulting in the carry-thru spar being unable to carry the 
+required load. Analysis demonstrates crack growth can happen on an 
+airplane under typical operation and in the original configuration. The 
+carry-thru spars installed on Model 210- and 177-series airplanes share 
+a similar single-load path design and geometry, are critical structure, 
+and are constructed of 2014-T6 aluminum forging, which is susceptible 
+to intergranular corrosion. Analysis completed by Textron demonstrated 
+that the carry-thru spars experience similar stress levels in typical 
+operation.
+    Although Model 177-series airplanes lack interior brackets that are 
+installed on Model 210-series airplanes, corrosion on Model 210-series 
+airplanes is not limited to the area surrounding the interior brackets 
+and has been reported in a variety of locations on the carry-thru spar 
+lower cap. The interior brackets installed on a limited number of Model 
+210-series airplanes are manufactured from 2024-T42 aluminum, which 
+would not cause dissimilar metal corrosion with the carry-thru spar 
+2014-T6 aluminum forging. Corrosion has also been reported on Model 
+210-series airplanes that do not have the interior brackets installed.
+2. Removing Model 177-Series Airplanes
+    Comment summary: One commenter stated that Model 177-series 
+airplanes should not be included in the applicability of the proposed 
+AD because the Model T210M airplane involved in the Australia accident 
+was highly modified and flown in an aggressive manner that exceeded its 
+design parameters. Eight commenters stated that there is a lack of 
+service difficulty reports and failures associated with Model 177-
+series airplanes to justify including them in the applicability of the 
+proposed AD. Three commenters stated that they did not find any issues 
+during their airplane inspections. One commenter requested that Model 
+F177RG airplanes be excluded from the applicability of the proposed AD 
+because they were delivered from the factory with an interior coating 
+of zinc chromate for corrosion protection.
+    Two commenters stated that the Cessna Model 177 community is 
+proactive regarding maintenance and has a strong type club. The FAA 
+infers that these commenters are requesting changes to the proposed AD 
+based on the proactive nature of the Cessna Model 177 community.
+    FAA response: The FAA does not agree with the commenters' requests 
+to remove Model 177-series airplanes from the applicability of this AD. 
+The justification for issuing this AD is not based solely on the 
+accident of the Model T210M airplane in Australia. Although that 
+accident was a catalyst, as mentioned previously, the carry-thru spars 
+on Model 210- and 177-series airplanes share a similar single-load path 
+design, are critical structure, and are constructed of 2014-T6 aluminum 
+forging, which is susceptible to intergranular corrosion. The FAA does 
+not dispute that carry-thru spars on individual airplanes may not be 
+affected by corrosion or damage; however, the reported inspection 
+results demonstrate that Model 177-series airplanes do have a high rate 
+of corrosion and damage.
+    The FAA agrees that the Cessna 177 community has a very strong type 
+club and many proactive owners and operators. However, the FAA 
+disagrees that Model 177-series airplanes should not be subject to the 
+actions defined in the proposed AD. Not all operators are proactive and 
+diligent in voluntarily inspecting for corrosion, so the inspections 
+must be mandated. Out of the 211 Model 177-series reports received by 
+the FAA as of January 13, 2023, 120 have reported corrosion. Of those, 
+at least 14 were removed from service due to corrosion or damage.
+    The FAA acknowledges that some Model 177-series carry-thru spars, 
+including those on Model F177RG airplanes, were treated with primer in 
+the factory prior to delivery. This AD does account for the differences 
+in these spars in the requirement to apply corrosion protection. 
+However, the FAA disagrees that airplanes delivered from the factory 
+with corrosion protection applied should be excluded from the AD, as 
+corrosion has been reported on airplanes with factory-applied corrosion 
+protection.
+3. Removing Certain Model 210-Series Airplanes
+    Comment summary: Two commenters requested that later Model 210-
+series airplanes (Models 210N, 210R, P210N, P210R, T210N, and T210R) be 
+removed from the applicability of the proposed AD because the cabin 
+roof skin is one piece and completely covers the carry-thru spars, 
+which prevents water entry. The commenters stated that these airplane 
+models were factory-primed prior to installation, which improves the 
+corrosion protection, and that none of the Model 210N and Model 210R 
+airplanes that they are responsible for have evidence of corrosion 
+related problems. One of the commenters stated that Model 210N 
+airplanes, especially Model P210N airplanes, should not be included in 
+the proposed AD because these airplanes have continuous fuselage skin 
+and have factory-applied zinc chromate coating and sealant applied on 
+the pressurized fuselage.
+    FAA response: The FAA acknowledges that later Model 210-series 
+airplanes, including Model 210N, 210R, P210N, P210R, T210N, and T210R 
+airplanes, are less susceptible to corrosion than the earlier Model 
+210-series airplanes. As of January 13, 2023, the FAA has received 
+inspection reports on 226 later Model 210-series airplanes, including 
+15 (7%) reporting corrosion. No later Model 210-series airplanes were 
+removed from service due to corrosion. Two carry-thru spars were 
+removed from service due to damage. This is compared to 47% of the 
+earlier Model 210-series airplanes reporting corrosion and 57% of the 
+Model 177-series airplane fleet reporting corrosion.
+    The combined features of factory primer, continuous skin, and 
+sealing, specifically associated with the pressurized airplanes, likely 
+contributed to the lower corrosion rate; however, carry-thru spars on 
+all Model 210-series airplanes have a similar carry-thru spar design 
+and the actions identified in this AD are appropriate for all Model 
+210-series airplanes. As previously discussed, the carry-thru spars 
+have a single-load path critical structure, and the spar is constructed 
+of 2014-T6 aluminum forging, which is susceptible to intergranular 
+corrosion. Additionally, analysis completed by Textron revealed that 
+later Model 210-series airplanes, due to their weight and 
+configuration, demonstrate higher stress levels in operation when 
+compared to earlier Model 210-series airplanes. Therefore, the critical 
+crack length--the length at which the crack reduces the capability of 
+the structure below that provided in the certification basis--is 
+smaller in the later Model 210-series airplanes. This AD is interim 
+action and the FAA will continue to evaluate the inspection reports 
+when determining final action for mitigating the identified unsafe
+
+[[Page 9174]]
+
+condition on Model 210-series airplanes.
+4. Airplane Operation
+    Comment summary: Several commenters requested that the 
+applicability of the proposed AD take into account the type of airplane 
+operation. The commenters noted that the Model T210M airplane that 
+experienced the in-flight break-up was operated in a more severe manner 
+than the typical fleet. One commenter noted that Textron SEL-57-07 
+included similar visual and eddy current inspections as those in the 
+proposed AD but the effectivity was limited to airplanes flown with 
+severe usage, as defined by service and maintenance manual information. 
+Another commenter suggested that an evaluation be used similar to one 
+that was used for the Piper wing spar AD 2020-26-16, Amendment 39-21371 
+(86 FR 3769, January 15, 2021).
+    FAA response: The FAA reviewed inspection reports provided by 
+operators of the current fleet of Model 210- and 177-series airplanes, 
+which includes corrosion reports for airplanes operated in various 
+environments, ranging from mild to severe corrosion environments, and 
+under different types of operation. In addition, enforcement of an AD 
+based on airplane operation would be difficult because FAA regulations 
+do not require all operators to maintain records of operations based on 
+usage and many airplanes are utilized in different kinds of operations.
+    The FAA determined that an evaluation similar to the one used for 
+Piper wing spar AD 2020-26-16 is not appropriate for this AD. AD 2020-
+26-16 requires calculating ``factored service hours'' for each main 
+wing spar to determine when an inspection is required. The application 
+of the ``factored service hours'' formula will identify when an 
+airplane meets the criteria for the eddy current inspection of the 
+lower main wing spar bolt holes and replacement of the wing spar on 
+affected Piper airplanes.
+    The unsafe condition on the Model 210-and 177-series airplanes 
+addressed by this AD involves both corrosion and cracking. The FAA 
+cannot use an evaluation similar to the one used for the Piper 
+airplanes to draw the same conclusions or correlations to the unsafe 
+condition addressed by this AD, as the unsafe condition associated with 
+AD 2020-26-16 is primarily associated with fatigue cracking concerns.
+5. Primed and Unprimed Airplanes
+    Comment summary: One commenter requested that the FAA account for 
+the differences in primed and unprimed carry-thru spars on Model 177-
+series airplanes in the proposed AD. The commenter explained that early 
+Model 177-series airplanes did not have protective coating (primer) 
+applied from the factory but mid and later year airplanes did.
+    FAA response: The FAA acknowledges that carry-thru spars on some 
+Model 177-series airplanes were treated with primer in the factory 
+prior to delivery and this AD does account for the differences between 
+primed and unprimed airplanes regarding the requirement to apply 
+corrosion protection. However, the FAA disagrees that airplanes 
+delivered with factory-applied corrosion protection should be excluded 
+from the applicability of this AD. Corrosion has been reported on 
+airplanes with factory-applied corrosion protection and the carry-thru 
+spars on those airplanes must be inspected.
+
+D. Requests Regarding Special Flight Permits
+
+    Comment summary: AOPA, Cardinal Flyers Online, and several 
+individual commenters requested that the FAA allow special flight 
+permits. The commenters explained that not all owners and operators 
+have local repair and maintenance facilities and that many repair and 
+maintenance facilities cannot perform all of the actions necessary to 
+comply with the requirements specified in the proposed AD. The 
+commenters noted that paragraph (m) of the proposed AD prohibited 
+special flight permits, which would prohibit any flight to complete the 
+visual and eddy current inspections specified in the proposed AD; 
+therefore, all visual inspections and on-condition blending must either 
+be completed at a facility with eddy current capability or would 
+require an inspector with such capability to travel to the airplane. 
+The commenters stated that allowing special flight permits would allow 
+more facilities to complete individual portions of the inspection, 
+increasing capacity and alleviating backlog at aircraft maintenance 
+facilities. The commenters stated that allowing special flight permits 
+could increase repair quality, improve scheduling, reduce costs, and 
+encourage more owners to complete the inspections, increasing the 
+safety of the fleet. Prohibiting special flight permits, however, could 
+result in the inability to repair the affected airplanes. In addition, 
+four commenters stated that the lack of documented failures for the 
+Model 177 does not justify the prohibition of special flight permits.
+    FAA response: The FAA partially agrees with the commenters' 
+requests and revised paragraph (m) of this AD to allow special flight 
+permits in limited situations because it would grant owners and 
+operators more flexibility when complying with the required actions in 
+this AD and reduce the burden on inspection facilities and mechanics.
+    The FAA revised paragraph (g)(4) of this AD to allow airplanes 
+without detected corrosion, cracking, or other damage, or evidence of 
+previous corrosion removal to continue to operate and complete the eddy 
+current inspection required by paragraph (h) of this AD within 200 
+hours TIS after the effective date of the AD or within 12 months after 
+the effective date of this AD, whichever occurs first.
+    The FAA agrees with allowing an airplane with evidence of corrosion 
+to be relocated if the process for obtaining a special flight permit is 
+completed in accordance with FAA regulations, policy, and guidance. 
+Furthermore, the FAA agrees with allowing an airplane with damage other 
+than corrosion or evidence of previous blending to be relocated, 
+provided the Wichita ACO Branch is contacted and provides concurrence.
+    The FAA disagrees with granting special flight permits if either 
+the visual inspection or the eddy current inspection detects cracking 
+in the carry-thru spar lower cap.
+
+E. Requests Regarding Compliance Time
+
+1. Extend the Compliance Time for the Required Inspections
+    Comment summary: AOPA, Aviation Plus LLC, Cardinal Flyers Online, 
+and numerous individual commenters requested that the compliance time 
+be extended for the visual inspection specified in paragraph (g) of the 
+proposed AD (within 200 hours time-in-service (TIS) or within 12 months 
+after the effective date, whichever occurs first). Four commenters 
+suggested the compliance time be 200 hours TIS or within 12 months 
+after the effective date of the AD, whichever occurs later. Two 
+commenters suggested requiring the visual inspection within 12 months 
+after the effective date of the AD, but not requiring the eddy current 
+inspection required by paragraph (h) of the proposed AD within that 
+timeframe. Several commenters remarked that TIS is more critical than 
+calendar time and requested the FAA remove the 12 month time 
+requirement to complete the visual inspection. One commenter suggested 
+the compliance time be changed to 200 hours TIS or the next annual 
+inspection
+
+[[Page 9175]]
+
+after the issuance of the AD, whichever occurs first. Two commenters 
+provided additional compliance times, ranging from 36 months or 500 
+hours TIS to 5 years and 200 hours TIS. Eleven commenters noted that 
+the 12-month calendar limit would make compliance difficult due to 
+limited availability of maintenance facilities and personnel, 
+potentially grounding airplanes. Several commenters raised concerns 
+that there are not enough qualified maintenance facilities to handle 
+the workload of the inspection within a 12-month period, especially 
+given the prohibition on special flight permits and the requirements of 
+an AD for the Piper wing spar.
+    One commenter mentioned that most Textron Model 177-series 
+airplanes are flown less than 200 hours per year and three commenters 
+identified that no carry-thru spars have failed on the Textron Model 
+177-series airplanes. The FAA infers that these commenters are thus 
+requesting an increase in the compliance time for the inspections 
+required by this AD.
+    FAA response: Based on the inspection reports received, the FAA 
+disagrees with extending the compliance times specified in paragraph 
+(g) of this AD. The compliance times specified in this AD correspond 
+with the compliance times published in Textron Aviation Mandatory 
+Single Engine Service Letter, SEL-57-08, Revision 2, dated August 3, 
+2020 (Textron SEL-57-08R2) and Textron Aviation Single Engine Service 
+Letter SEL-57-09R1, dated August 3, 2020 (Textron SEL-57-09R1). Textron 
+superseded Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-07, Revision 1, dated November 19, 2019 (Textron SEL-57-07R1), 
+with Textron SEL-57-09R1, which identifies a compliance time of 200 
+flight hours or the next annual inspection from date of receipt, of 
+that service letter, whichever occurs first.
+    The FAA does not agree with a compliance time based solely on usage 
+TIS or on calendar time, nor does the FAA agree that the compliance 
+time should be ``200 hours TIS or 12 months, whichever occurs later'' 
+after the effective date of this AD. The carry-thru spar is a critical 
+single-load path structure, and if a crack initiates, there could be a 
+catastrophic failure. Corrosion is a function of calendar time and 
+crack growth is a function of hours TIS. The FAA has received reports 
+of severe corrosion on carry-thru spars with less than 4,000 hours TIS 
+and corrosion could initiate cracking in structure with low hours TIS.
+    The FAA does not agree with revising the compliance time to ``200 
+hours TIS or next annual inspection after the issuance of this AD, 
+whichever occurs first'' because if the next annual inspection is due 
+before 12 months after the effective date of this AD that would be more 
+restrictive than the language in the proposed AD, and could occur 
+almost immediately. Operators can always accomplish the actions 
+required by an AD prior to the compliance time specified in an AD.
+    The FAA has revised paragraph (g)(4) of this AD to allow airplanes 
+without detected corrosion, cracking, or other damage, or evidence of 
+previous corrosion removal to do the eddy current inspection required 
+by paragraph (h) of this AD within 200 hours TIS after the effective 
+date of this AD or within 12 calendar months after the effective date 
+of this AD, whichever occurs first.
+    The FAA acknowledges both the limitations on the availability of 
+maintenance facilities and personnel capable of completing the 
+inspections required in this AD and the difficulty in meeting the 
+compliance time in paragraph (g) of this AD without the ability to 
+relocate the airplane. The FAA would entertain alternative methods of 
+compliance (AMOCs) to extend the compliance time on a case-by-case 
+basis provided the work was scheduled. If scheduling an eddy current 
+inspection is difficult, an owner, operator, or any interested party 
+can apply for an AMOC using the procedures in paragraph (n) of this AD. 
+The AMOC request must include substantiating data showing that the 
+proposed AMOC provides an acceptable level of safety for a different 
+method or adjustment of the compliance time to address the unsafe 
+condition, other than the one specified in the AD. Also, the FAA has 
+revised paragraph (g)(4) in this AD to allow airplanes without detected 
+corrosion, cracking, or other damage, or evidence of previous corrosion 
+removal to complete the actions required by paragraph (h) of this AD 
+within 200 hours TIS after the effective date of this AD or within 12 
+months after the effective date of this AD, whichever occurs first. As 
+discussed above in section D., Requests Regarding Special Flight 
+Permits, the FAA has revised paragraph (m) of this AD to allow special 
+flight permits in limited situations.
+2. Correspond Compliance Time for Eddy Current Inspection With Service 
+Letter
+    Comment summary: One commenter requested the FAA explain the 
+differences between the proposed AD requiring an eddy current 
+inspection within one year and the Textron service letter (Textron SEL-
+57-07) that specified an eddy current inspection for most Model 177-
+series airplanes at or after 15,000 hours TIS. The FAA infers that the 
+commenter is requesting the compliance time specified in the proposed 
+AD match what is in the Textron SEL-57-07.
+    FAA response: The FAA agrees that there are differences between the 
+compliance time in the proposed AD and Textron SEL-57-07. Textron 
+Aviation superseded Textron SEL-57-07 with Textron SEL-57-09R1, which 
+specifies a compliance time of 200 flight hours or the next annual 
+inspection from date of receipt, whichever occurs first. Textron SEL-
+57-09R1 applies to all Model 177-series airplanes identified in this 
+service letter regardless of the total flight hours on the airframe. 
+The compliance time specified in this AD aligns with the compliance 
+time in Textron SEL-57-09R1 and there is no justification for aligning 
+the compliance time with what is specified in the superseded Textron 
+SEL-57-07.
+3. Account for TIS
+    Comment summary: Nine commenters requested that the proposed AD 
+account for an airplane's TIS and one of those commenters noted that 
+the accident airplane had a high number of hours TIS. Three of those 
+commenters suggested a compliance time ranging from 2,500 hours TIS to 
+12,000 hours TIS. Several commenters cited high costs as justification 
+for only requiring airplanes with a high number of hours TIS to do the 
+actions specified in the proposed AD.
+    FAA response: The FAA disagrees with limiting the inspections 
+required by this AD to airplanes with a high number of hours TIS. This 
+AD is not based solely on the fatal 2019 accident in Australia 
+involving a Model T210M airplane. As of January 13, 2023, there have 
+been reports of corrosion on 120 Model 177-series airplanes, with at 
+least 14 spars removed from service due to corrosion and damage of the 
+lower cap, including a spar removed from service with less than 2,000 
+hours TIS. Additionally, 460 Model 210-series airplanes have reported 
+corrosion, with 64 spars removed from service due to corrosion and 
+damage, including five removed from service with less than 3,000 hours 
+TIS. Inspections based on TIS alone are not sufficient to identify and 
+address corrosion, as corrosion is a function of calendar time. 
+Corrosion can serve as a crack initiator, resulting in the spar being 
+unable to carry the required load. Analysis completed by Textron
+
+[[Page 9176]]
+
+demonstrates this crack growth can happen under typical operation.
+4. Align Compliance Time With Maintenance Schedules
+    Comment summary: One commenter requested that the FAA allow the 
+inspections to be completed when the inspection area is exposed for 
+other maintenance. The FAA infers that the commenter is making this 
+request to reduce costs and airplane down time.
+    FAA response: The FAA acknowledges the commenter's request to limit 
+maintenance access to reduce the time and money spent to comply with 
+the requirements of this AD. However, the FAA considers this AD to be 
+interim action and is still evaluating what actions must be required 
+when issuing future rulemaking that will be considered final action to 
+address the identified unsafe condition. During this evaluation, the 
+FAA will consider if, for any future rulemaking, compliance times can 
+be developed that correspond with scheduled maintenance; however, for 
+this AD, the FAA does not agree with extending the compliance time for 
+the entire fleet. The compliance time of this AD is within 200 hours 
+TIS or 12 months after the effective date of this AD, whichever occurs 
+first. This compliance time may allow the actions to be accomplished at 
+the same time as regular maintenance, as the requirements of this AD 
+can always be completed early. An owner, operator, or any interested 
+party can apply for an AMOC to propose an adjustment of the compliance 
+time using the procedures in paragraph (n) of this AD. The AMOC request 
+must include substantiating data showing that the proposed AMOC 
+provides an acceptable level of safety for a different method or 
+adjustment of the compliance time to address the unsafe condition, 
+other than the one specified in the AD.
+
+F. Requests Regarding Requiring Actions To Align With Service 
+Information
+
+    Comment summary: Sixteen commenters requested that the FAA only 
+require the actions specified in the Textron service information. One 
+commenter stated that general aviation is struggling, and due to costs 
+an AD should not require pilots to do any actions beyond those 
+specified in the Textron service information. Two additional commenters 
+mentioned the additional costs of repeating portions of the inspections 
+in areas that differed between the Textron service information and the 
+proposed AD. One commenter stated that the FAA should require the 
+airplane manufacturer to create service information that will preserve 
+the airworthiness of the carry-thru spar so compliance with the service 
+information will count if the service information is included in an AD. 
+Another commenter stated when the FAA overrides manufacturers' service 
+information with ADs airplane owners would become less willing to use 
+the information in future service bulletins because of concern that the 
+FAA would require duplication of the actions in the service bulletins 
+in an AD. One commenter stated that paragraph (g)(2) of the proposed AD 
+negates the directions in paragraph (B)(2) of Textron SEL-57-09R1 
+because the service letter states to ``Make sure to only remove the 
+minimum material necessary to blend the corroded surface with the 
+surrounding surface.''
+    FAA response: The FAA disagrees that this AD should only require 
+the actions specified in the Textron service information. After 
+reviewing the procedures specified in that service information, the FAA 
+determined that the unsafe condition could not be mitigated using only 
+those procedures. Prior to the publication of the NPRM, the FAA 
+received reports indicating that the visual inspection might not detect 
+corrosion similar to that observed on the accident airplane. The 
+fatigue crack on the accident airplane that caused the catastrophic 
+failure of the carry-thru spar initiated at a corrosion pit 
+approximately 0.011-inch deep. Cracking may be difficult to detect 
+through visual inspection alone since the lower spar cap is in 
+compression during the inspection. The eddy current inspection, 
+however, could detect cracking from undetected corrosion or damage.
+    The FAA disagrees that paragraph (g)(2) of this AD negates the 
+directions in step 6.B.(2) of the Accomplishment Instruction in Textron 
+SEL-57-09R1. Paragraph (g)(2) of this AD addresses removal or repair of 
+the carry-thru spar due to evidence of previous blending. The FAA 
+agrees with granting credit for blending previously completed using 
+Textron service letters and the FAA acknowledges that owners, 
+operators, and maintenance personnel could have proactively completed 
+the actions described in the Textron service letters. The FAA has 
+revised paragraph (l) of this AD to clarify credit for previous 
+blending completed using the procedures in older revisions of the 
+Textron service letters. Paragraph (f) of this AD already provides 
+credit for blending action completed prior to the effective date of 
+this AD using Textron SEL-57-08R2 or Textron SEL-57-09R1.
+    The FAA agrees that alignment of a manufacturer's service documents 
+and the requirements of an AD is ideal; however, the FAA cannot mandate 
+a company to issue specific service information. Per 14 CFR 39.27, if 
+an AD conflicts with the service document on which it is based, then 
+the operator must follow the requirements of the AD. Additionally, the 
+Textron service information clearly indicates that the compliance time 
+presented might not apply to modified airplanes, including 
+modifications that alter the airplane's design, gross weight, or 
+airplane performance, including, but not limited to, installation of 
+vortex generators, wing cuffs, short take-off and landing (STOL) kits, 
+wing tips, and add-on wing fuel tanks. The FAA is responsible for 
+considering the effects of these modifications on the airplanes 
+included in the applicability of this AD.
+    While the FAA cannot mandate that the service information be 
+revised, nor can the agency wait on such information to address the 
+unsafe condition, the FAA may allow an AMOC if the service information 
+is revised and the FAA finds it acceptable to address the unsafe 
+condition. If Textron revises its service information and the FAA 
+determines that the revisions mitigate the unsafe condition, an owner, 
+operator, or any interested party can apply for an AMOC using the 
+procedures in paragraph (n) of this AD. The AMOC request must include 
+substantiating data showing that the proposed AMOC provides an 
+acceptable level of safety for a different method to address the unsafe 
+condition, other than the one specified in the AD.
+    The FAA has not changed this AD in regard to this issue.
+
+G. Requests Regarding Limiting the AD to the Lower Carry-Thru Spar Cap
+
+    Comment summary: Two individual commenters requested the 
+requirements of the proposed AD be limited to inspections on the lower 
+carry-thru spar cap. Another commenter supported the focus on the lower 
+spar flange but noted that, in the proposed AD, mechanics could miss 
+the statement that limits the scope of the inspection. One commenter 
+acknowledged that the NPRM specified a mechanic is not required to 
+inspect the lower cap to web radius, spar web, upper cap, or lugs, but 
+that nothing excludes a mechanic from taking a spar out of service if 
+any evidence of previous blending in those areas is found.
+    FAA response: The FAA agrees with the commenter's requests to limit 
+the requirements of this AD to inspections of the lower carry-thru spar 
+cap and finds that, as written, the requirements of this AD are limited 
+to inspections of the carry-thru spar lower cap including the lower 
+surface, upper surface, and
+
+[[Page 9177]]
+
+edge. As detailed in paragraph (g) of this AD, inspecting the lower cap 
+to web radius, spar web, upper cap, or lugs is not required. The 
+preamble of this AD mentions that actions related to the web, upper 
+caps, and lugs are not included as part of this AD. A mechanic may take 
+a spar out of service during any inspection or maintenance event if the 
+airplane is determined to not be airworthy to return to service.
+    The FAA has not changed this AD in regard to this issue.
+
+H. Requests Regarding Eddy Current Inspection
+
+1. On-Condition Eddy Current Inspection
+    Comment summary: Thirty-five commenters requested that the eddy 
+current inspection of the carry-thru spar specified in paragraph (h) of 
+the proposed AD only be required as an on-condition action when there 
+is visual evidence of corrosion or damage. Three commenters stated that 
+corrosion or cracking on the lower surface of the spar should be 
+readily observable through a detailed visual inspection. Three 
+commenters requested data justifying the eddy current inspection on 
+airplanes that did not exhibit corrosion pitting on the carry-thru 
+spar. One commenter asked why an airplane would need an eddy current 
+inspection if the spar was delivered with a factory-applied protective 
+coating, is clean and dry, and is not operated in an environment 
+subject to moisture or other corrosion causing elements. Another 
+commenter noted that over 300 visual inspections were completed on 
+Model 177-series airplanes since the FAA identified this as a potential 
+concern and none of the reports indicated that cracking was found. A 
+different commenter requested that the FAA explain why it proposed 
+expanding Textron's inspection requirements, which only specified eddy 
+current inspections of the carry-thru spars if there were visual signs 
+of corrosion, and asked if the FAA had significant evidence or 
+engineering information indicating there could be internal corrosion or 
+cracking even though it's not visible on the surface. One commenter 
+stated that interpretation of the eddy current inspection results can 
+be subjective. Two commenters requested requiring repetitive visual 
+inspections instead of the eddy current inspection.
+    FAA's response: The FAA disagrees with the commenters' requests to 
+make the eddy current inspection an on-condition action in this AD or 
+to only require repetitive visual inspections. Prior to the publication 
+of the NPRM, the FAA reviewed inspection reports and determined that 
+the visual inspection might not detect corrosion. On the Model T210M 
+airplane involved in the accident that prompted the NPRM, the fatigue 
+crack initiated at a corrosion pit approximately 0.011-inch deep. 
+Cracking could be difficult to detect by only a visual inspection since 
+the lower spar cap is in compression during that inspection, and the 
+eddy current inspection could detect cracking from undetected corrosion 
+or damage. The FAA acknowledges that it has not received any reports of 
+cracking in the carry-thru spar lower cap on Model 177-series 
+airplanes; however, out of the 211 inspection reports received by the 
+FAA as of January 13, 2023, there have been 120 reports of corrosion 
+and at least 14 carry-thru spars have been removed from service due to 
+corrosion or damage.
+    This AD requires that the technician completing the eddy current 
+inspection be appropriately qualified as detailed in Textron Aviation 
+Mandatory Service Letters SEL-57-08, Revision 2; and SEL-57-09, 
+Revision 1.
+    The FAA has not changed this AD in regard to this issue.
+2. Limited Availability of Inspectors
+    Comment summary: Several individual commenters expressed concern 
+regarding the limited number of inspectors qualified and available of 
+performing the eddy current inspection specified in the proposed AD. 
+The commenters explained that it is difficult to locate qualified eddy 
+current inspectors and for many airplane owners the inspectors are not 
+local. One commenter requested that the FAA research how many 
+facilities are willing to do the actions specified in the proposed AD 
+and identify the lead time for scheduling the work.
+    FAA response: The FAA acknowledges that finding a person or 
+facility qualified to do an eddy current inspection could be difficult 
+in some geographic regions. While the FAA does not maintain a 
+comprehensive listing of all repair stations capable of completing the 
+specific eddy current inspections required by this AD, you may search 
+for a repair station by location and rating on the FAA website: <a href="http://av-info.faa.gov/repairstation.asp">av-info.faa.gov/repairstation.asp</a>. The FAA has no way to accurately 
+determine any specific facility's willingness and scheduling 
+availability to complete work at a given time.
+    As discussed above in section D., Requests Regarding Special Flight 
+Permits, the FAA revised paragraph (m) of this AD to allow special 
+flight permits with limitations. If scheduling an eddy current 
+inspection is difficult, an owner, operator, or any interested party 
+can apply for an AMOC using the procedures in paragraph (n) of this AD. 
+The AMOC request must include substantiating data showing that the 
+proposed AMOC provides an acceptable level of safety for a different 
+method or adjustment of the compliance time to address the unsafe 
+condition, other than the one specified in the AD. Also, the FAA has 
+revised paragraph (g)(4) in this AD to allow airplanes without detected 
+corrosion, cracking, or other damage, or evidence of previous corrosion 
+removal to complete the actions required by paragraph (h) of this AD 
+within 200 hours TIS after the effective date of this AD or within 12 
+months after the effective date of this AD, whichever occurs first.
+
+I. Requests Regarding Including a New Repetitive Inspection Requirement
+
+    Comment summary: Three individual commenters requested that the 
+proposed AD include repetitive inspections. One of the commenters 
+requested requiring repetitive inspections instead of replacing carry-
+thru spars that fail the inspection but do not have evidence of 
+cracking. One of the commenters agreed that spars with cracking should 
+be removed from service but a questionable spar with no cracking should 
+be repetitively inspected instead of removed.
+    FAA response: The FAA agrees that repetitive inspections might be 
+appropriate for future rulemaking. The FAA considers this AD to be 
+interim action and is still evaluating what actions must be required if 
+future rulemaking is issued that will be considered final action. If 
+the FAA determines that repetitive inspections are necessary, then they 
+could be included as a requirement. Adding new requirements to this AD 
+would require public comment before adopting a final rule, and would 
+require publishing a supplemental NPRM. Because of the identified 
+unsafe condition, the FAA does not agree to delay this AD.
+    The FAA does not have data to support allowing carry-thru spars 
+with excessive material removed to remain in service, even if they are 
+repetitively inspected; however, the FAA would consider permitting 
+individual carry-thru spars to remain in service and be repetitively 
+inspected if an owner, operator, or any interested party applies for an 
+AMOC using the procedures in paragraph (n) of this AD and includes 
+substantiating data showing that the proposed AMOC provides an 
+acceptable level of safety.
+
+[[Page 9178]]
+
+    The FAA has not changed this AD in regard to this issue.
+
+J. Requests Regarding Removing Certain Requirements
+
+1. Corrective Action Requirements
+    Comment summary: Textron requested that paragraphs (h)(3) and (4) 
+of the proposed AD, which address corrective actions for spars with 
+damage or corrosion, be removed. Textron stated that these paragraphs 
+are redundant because the inspection and rework specified in paragraph 
+(g) of the proposed AD would have already addressed these actions.
+    FAA response: The FAA does not agree because paragraphs (h)(3) and 
+(4) of this AD provide directions for what to do if damage or corrosion 
+are detected during the eddy current inspection required by paragraph 
+(h) of this AD. Paragraph (g) of this AD requires a visual inspection 
+with a 10X magnification lens looking for corrosion, cracking, and 
+damage and provides directions for what to do if damage or corrosion 
+are found during the visual inspection.
+    The FAA has not changed this AD in regard to this issue.
+2. Corrosion Protection Requirement
+    Comment summary: An individual commenter stated that applying 
+corrosion coating would be costly and disruptive for parts that do not 
+need corrosion prevention. The FAA infers that the commenter is 
+requesting that the requirement to apply corrosion coatings specified 
+in the proposed AD be removed.
+    FAA response: The FAA disagrees that the requirement in paragraph 
+(i) of this AD to apply primer and CIC should be removed. Applying 
+primer and CIC prevents corrosion and reduces the potential for crack 
+initiation from corrosion. The carry-thru spar is a critical single 
+load path structure with a demonstrated corrosion issue. Failure to 
+sufficiently protect the structure from repeated corrosion increases 
+the likelihood of additional cracking.
+    The FAA has not changed this AD in regard to this issue.
+
+K. Requests Regarding Credit for Previous Actions
+
+1. Credit for Previous Blending
+    Comment summary: AOPA, Cardinal Flyers Online, and several 
+individual commenters requested that the proposed AD be revised to 
+either give credit for previous blending done before the effective date 
+of the final rule or to clarify what previous blending is acceptable. 
+Three commenters requested that the proposed AD be revised to provide 
+credit for carry-thru spars that were blended using the procedures 
+specified in the Textron service letters instead of the requirement to 
+replace a carry-thru spar or repair it using an AMOC. Ten commenters 
+requested that the proposed AD be revised to allow previous blending of 
+a carry-thru spar that is within the limits specified in the Textron 
+service letters, even if the blending was not done using the procedures 
+in the service letters. One commenter stated that it is unreasonable to 
+require removal from service of a carry-thru spar with evidence of 
+factory cleanup. The FAA infers that this commenter is requesting that 
+carry-thru spars that have evidence of prior blending be permitted to 
+remain in service.
+    Three commenters stated that, in the proposed AD, the language was 
+unclear regarding corrosion removed prior to the effective date of the 
+AD using the procedures in the Textron service letters. Paragraph 
+(g)(2) of the proposed AD would require that carry-thru spars with 
+evidence of previous blending either be removed from service or 
+repaired using an AMOC. The commenters noted that paragraph (l) of the 
+proposed AD does grant credit for the visual inspection required by 
+paragraph (g) of the proposed AD, but does not clearly identify if 
+credit is allowed for any previous corrosion removal completed as a 
+result of the visual inspection required by paragraph (g) of the 
+proposed AD.
+    Multiple commenters requested that the FAA provide credit for 
+previous corrosion removal, even if logbook records are used. 
+Commenters also raised the concern that owners who have made an effort 
+to maintain a carry-thru spar in good condition would be penalized if 
+the final rule fails to give credit for previous blending accomplished 
+using the procedures in Textron SEL-57-08R2, or Textron SEL-57-09R1, as 
+specified in paragraph (g) of the proposed AD. Ten commenters stated 
+that previous blending should be covered by paragraph (g)(3) of the 
+proposed AD and that all previous corrosion removal that does not 
+exceed the blend limits specified in Textron SEL-57-08R2 and Textron 
+SEL-57-09R1 should be permitted. Several commenters stated that the 
+language in paragraph (l) of the proposed AD was as ambiguous and may 
+penalize those parties who took action prior to publication of the 
+final rule. Several commenters stated that most carry-thru spars were 
+blended to some extent at the factory and that other carry-thru spars 
+were blended using guidance from Textron.
+    To justify allowing the blended carry-thru spars to remain in 
+service, one commenter provided information from an industry forum and 
+from experience working with cast aluminum to support the view that 
+Cessna blended carry-thru spars prior to delivery. This same commenter 
+also cited concerns regarding the time needed to obtain an AMOC.
+    FAA response: The FAA partially agrees with the commenters' 
+requests. The FAA agrees with granting credit for the blending of 
+carry-thru spars completed prior to the effective date of this AD using 
+Textron SEL-57-08R2 and Textron SEL-57-09R1, and the FAA acknowledges 
+that some owners, operators, and maintenance personnel proactively 
+complied with the procedures in that service information; however, 
+compliance with previous actions is already addressed and no change is 
+needed to this AD because paragraph (f) of this AD states ``Comply with 
+this AD within the compliance times specified, unless already done.''
+    The FAA also agrees to revise paragraphs (l)(1) and (2) of this AD 
+to clarify that owners and operators may take credit for corrosion 
+removal (blending) completed before the effective date of this AD using 
+the procedures in Textron Aviation Mandatory Single Engine Service 
+Letter SEL-57-08, dated November 1, 2019 (Textron SEL-57-08); Textron 
+Aviation Mandatory Single Engine Service Letter SEL-57-08, Revision 1, 
+dated November 19, 2019 (Textron SEL-57-08R1); Textron Aviation 
+Mandatory Single Service Letter SEL-57-09, dated November 19, 2019 
+(Textron SEL-57-09); Textron SEL-57-06; Textron Aviation Mandatory 
+Single Engine Service Letter SEL-57-06, Revision 1, dated November 19, 
+2019 (Textron SEL-57-06R1); Textron SEL-57-07; or Textron SEL-57-07R1.
+    The FAA disagrees allowing credit for blending completed prior to 
+the release of Textron SEL-57-06 and Textron SEL-57-07 without an 
+evaluation and a repair approved as an AMOC. While the FAA does not 
+have data supporting that Cessna blended the forged carry-thru spars 
+prior to delivery, the FAA does recognize that some carry-thru spars 
+were blended prior to publication of the NPRM. Blend limits, blend 
+ratios, and surface finish must be addressed in the AMOC request. 
+Locations previously blended that are included in the AMOC request will 
+still be required to complete the eddy current inspection or provide 
+evidence of previous completion.
+
+[[Page 9179]]
+
+2. Clarifying Credit for Previous Actions
+    Comment summary: Ten individual commenters requested clarification 
+regarding credit for previous actions. Four commenters stated that 
+paragraph (l) in the proposed AD was unclear. Seven commenters 
+requested the FAA give credit for previous actions and not require that 
+the actions be duplicated. One commenter stated that the proposed AD 
+should provide full credit for any previous corrosion remediation 
+performed using accepted maintenance procedures, so owners who 
+previously addressed corrosion on their airplane are not punished.
+    FAA response: The FAA agrees that credit should be granted for work 
+previously accomplished using the procedures in the Textron service 
+letters and, as stated previously, the FAA has revised paragraph (l) of 
+this AD to clarify that owners and operators may take credit for 
+previously accomplished visual inspections and corrosion removal if 
+completed in accordance with Textron service letters. The FAA finds 
+that owners and operators are not being required to duplicate actions 
+because paragraph (f) of this AD states ``Comply with this AD within 
+the compliance times specified, unless already done;'' therefore, 
+compliance for previous actions is granted to those who completed the 
+required actions prior to the effective date of this AD in accordance 
+with the applicable steps of the Accomplishment Instructions in Textron 
+SEL-57-08R2 and Textron SEL-57-09R1.
+    Operators that performed repairs using accepted maintenance 
+practices other than the Textron service letters must apply for an 
+AMOC.
+
+L. Requests Regarding AMOCs
+
+1. Repair
+    Comment summary: One commenter requested clarification regarding 
+what kinds of carry-thru spar repairs the FAA would approve through the 
+AMOC process. The commenter stated that paragraph (o) of the proposed 
+AD did not identify what kind of repairs might be acceptable and that 
+the proposed AD left the decision for acceptable AMOCs to Textron, even 
+though the FAA says Textron's corrective action identified in Textron 
+SEL-57-09R1 is not adequate. The commenter explained that the lack of 
+definition in paragraph (o) of the proposed AD regarding acceptable 
+repairs makes it difficult for owners to estimate the condition of 
+their carry-thru spars.
+    FAA response: The FAA disagrees that paragraph (n) of this AD 
+(paragraph (o) in the proposed AD), requires clarification. The FAA has 
+defined an acceptable repair based on available data. If the FAA knew 
+of additional standard repairs, then those repairs would have been 
+reviewed and, if found acceptable, included in this AD.
+    This AD specifies the same material removal limits as those 
+identified in Textron SEL-57-09R1. It is possible that spars with 
+damage that cannot be removed within the limits identified in Table 1 
+of Textron SEL-57-09R1 could still be found acceptable based on further 
+evaluation. A repair on a carry-thru spar for which the material 
+removed exceeds that identified in Table 1 of Textron SEL-57-09 would 
+require an AMOC. Generally, the FAA, not Textron, must approve AMOCs; 
+however, in this AD the FAA has delegated to Textron's Organization 
+Designation Authorization the authority to evaluate carry-thru spars 
+with material removal beyond that identified in Textron SEL-57-09R1 to 
+salvage as many spars as possible. Textron might choose not to evaluate 
+modified airplanes, as detailed in Textron SEL-57-09R1 and Textron SEL-
+57-08R2. Additionally, there is no requirement for an operator to have 
+its spar evaluated by Textron. The owner or operator may develop its 
+own AMOC request to present to the FAA for evaluation of any repair for 
+which there is substantiating data.
+    The FAA would not limit AMOC options by defining those that are 
+acceptable, as it is unrealistic for the FAA to preemptively identify 
+and evaluate any potential AMOC option that may or may not be 
+applicable to an airplane.
+    The FAA has not changed this AD in regard to this issue.
+2. Alternative Inspection Method
+    Comment summary: Cardinal Flyers Online and four individual 
+commenters requested that instead of the eddy current inspection a 
+visual inspection be allowed with the airplane on jacks. The commenters 
+explained that putting the wings on jacks would place the lower spar 
+cap in tension, allowing cracking to be seen more readily during the 
+visual inspection. One commenter proposed using a dye penetrant 
+inspection in addition to supporting the wings with jacks.
+    FAA response: The FAA acknowledges that other inspection methods 
+could be used for the carry-thru spar inspection; however, the FAA does 
+not have data to support including these alternative inspection methods 
+in this AD. An owner, operator, or any interested party may develop 
+inspection procedures and submit an AMOC request to the FAA along with 
+substantiating data showing that the proposed AMOC addresses the unsafe 
+condition with an acceptable level of safety.
+    The FAA has not changed this AD in regard to this issue.
+3. Alternative Corrosion Protection Options
+    Comment summary: Three commenters requested that the proposed AD 
+allow for alternative corrosion protection options in addition to those 
+specified in the proposed AD. Two of those commenters stated that the 
+corrosion coatings specified in the proposed AD need to be expanded to 
+include other products typically used in aviation and not just those 
+identified by Textron. One commenter stated that a carry-thru spar that 
+has been fully anodized and inspected should be equivalent to or better 
+than a carry-thru spar with coating applied.
+    FAA response: The FAA agrees that alternative coating options could 
+be acceptable. Using the procedures in paragraph (n) of this AD an 
+owner, operator, or any interested party is welcome to identify an 
+alternative coating and submit an AMOC request to the FAA along with 
+substantiating data showing that the proposed AMOC addresses the unsafe 
+condition with an acceptable level of safety.
+
+M. Requests Regarding Cost Estimates
+
+1. Labor Rate Is Unrealistic
+    Comment summary: Eight commenters requested the FAA increase the 
+cost per hour estimates for the labor rate because $85 per work-hour is 
+too low, does not reflect the true rate of labor, and is not 
+attainable. One commenter requested that the FAA publish the method 
+used to derive the hourly rate charged by maintenance shops.
+    FAA response: The FAA partially agrees with the commenters' 
+requests. The FAA Office of Aviation Policy and Plans provides the 
+labor rate of $85 per work-hour to use when estimating the labor costs 
+of complying with the AD requirements. The FAA does agree to alter the 
+estimated cost of the eddy current inspection from $85 per work-hour to 
+a flat rate of $600 for one work-hour of contracted service to more 
+accurately reflect the cost of eddy current inspection. The FAA revised 
+the estimated costs and on-conditions costs tables in this AD to 
+account for the $600 per work-hour contracted service associated with 
+the eddy current inspection.
+
+[[Page 9180]]
+
+2. Estimated Work-Hours
+    Comment summary: Aviation Plus LLC and several individual 
+commenters requested that the FAA increase the estimated number of 
+work-hours for doing the carry-thru spar inspections because the 
+estimated work-hours specified in the NPRM are too low and do not 
+include on-condition costs for removing the oxygen systems and air 
+conditioning systems for access to the inspection area. Two commenters 
+stated that the costs to remove the airplane interior for access to do 
+the inspections are not accurate. One commenter wanted to know the 
+source of the estimated work-hours.
+    Eleven commenters requested that the proposed estimated cost for 
+the eddy current inspection be increased and noted that the cost should 
+include travel time to the grounded airplane or the cost to bring the 
+eddy current inspector to the airplane.
+    One of these commenters stated that a flat rate is usually charged 
+for an eddy current inspection, and four of these commenters stated 
+that the cost range is usually between $400 and $1,000. The commenters 
+provided various reasons for their requests.
+    FAA response: The FAA agrees that some of the estimated costs in 
+this AD should be revised.
+    Textron provided the original estimated work-hours for preparing, 
+inspecting, and reassembling an airplane. The FAA observed inspections 
+completed by maintenance facilities and verified the personnel were 
+able to complete the work within the estimates provided by Textron 
+Aviation. The FAA acknowledges there is variability in the time 
+necessary to complete the work, depending on a number of factors 
+including airplane configuration and condition and the experience and 
+capabilities of the individual(s) performing the work. The cost 
+estimates provided in the NPRM did not include travel time to the 
+grounded airplane or the cost to bring the eddy current inspector to 
+the airplane.
+    The FAA partially agrees with the commenters' requests and has 
+increased the estimated work-hours from 12 hours to 20 hours for 
+removing and reinstalling the interior, removing the foam as 
+applicable, and preparing the spar for visual and eddy current 
+inspections. Additionally, in the Estimated costs table in this final 
+rule the FAA has separated the eddy current inspection of the cap kick 
+area into a separate line item with an estimate of $600 for contracted 
+service work-hours and in the On-condition costs table included a line 
+item for the on-condition eddy current inspection required due to 
+corrosion or damage with an estimate of $600 for contracted service 
+work-hours. Furthermore, the FAA added an additional line item that 
+includes 5 work-hours for airplanes equipped with oxygen bottles and an 
+additional line item that includes 3 work-hours for airplanes equipped 
+with air conditioning.
+2. Costs of Replacement Parts
+    Comment summary: Four commenters discussed the availability and 
+cost of replacement carry-thru spars. The commenters wanted to know how 
+the FAA determined the estimate of $30,000 for a replacement carry-thru 
+spar. Another commenter stated that replacement carry-thru spars are 
+not available from the manufacturer and the cost estimate for a 
+replacement spar is low. The FAA infers that these commenters are 
+requesting that the cost estimate for a replacement carry-thru spar be 
+increased.
+    FAA's response: Textron provided the $30,000 cost estimate for a 
+replacement carry-thru spar and has informed the FAA of its intention 
+to start producing replacement carry-thru spars for Model 177-series 
+airplanes. Textron is currently producing replacement carry-thru spars 
+for Model 210-series airplanes, with a current cost of $21,367 for part 
+number (P/N) 1210721-1 and $19,999 for P/N 2110020-1. The FAA revised 
+the cost for a replacement carry-thru spar for Model 210-series 
+airplanes to reflect these actual part costs.
+3. Textron Share the Costs
+    Comment summary: One commenter requested that Textron share the 
+costs of the inspections. The commenter explained that the corrosion 
+issue exists because of Textron's carry-thru spar design, which permits 
+leaking and condensation, and because Textron did not apply anti-
+corrosion coatings during manufacture.
+    FAA response: The FAA has no authority to enforce business 
+contracts (actual or implied) between parties. The primary concern the 
+FAA has when issuing an AD is addressing unsafe conditions on various 
+aircraft flying in the United States. The FAA provides estimated costs 
+information for complying with the requirements of an AD but does not 
+control warranty coverage and cannot mandate that a manufacturer cover 
+all associated costs.
+    The FAA has not changed the AD in regard to this issue.
+
+N. Requests Regarding Primer and CIC Removal
+
+    Comment summary: Ten individual commenters requested that the 
+proposed AD not require the removal of previously applied primer and 
+CIC. The commenters stated that removing the previously applied primer 
+and CIC could damage the carry-thru spar and would result in 
+duplication of effort, increase in cost, and lack of credit granted for 
+previous actions.
+    FAA response: The FAA agrees with the commenters' requests and this 
+AD does not require removing properly applied primer and CIC that is in 
+good condition. Paragraph (l) of this AD provides credit for previous 
+actions, including the application of primer and CIC.
+    The FAA has not changed this AD in regard to this issue.
+
+O. Request Regarding Spar Structural Capability
+
+    Comment summary: One commenter asked how much force is needed to 
+break a carry-thru spar that does not pass an eddy current inspection.
+    FAA response: The FAA has no way of knowing precisely how much 
+force would be required to break a carry-thru spar for which an eddy 
+current inspection identified a response as detailed in Textron 
+Aviation Mandatory Service Letters SEL-57-08R2 or SEL-57-09R1. The 
+residual strength capability of the carry-thru spar is dependent on the 
+type and amount of damage located on the part, as well as the specific 
+geometry of the part.
+    The FAA has not changed this AD in regard to this issue.
+
+P. Requests Regarding Limiting Spar Replacement
+
+    Comment summary: Two commenters requested that the FAA only require 
+carry-thru spar replacement if absolutely necessary. The commenters 
+explained that replacing a carry-thru spar could introduce additional 
+safety issues because this action requires disassembling and 
+reassembling major components, including the airframe, partial fuel and 
+electrical systems, control systems, and structural repairs. One of the 
+commenters mentioned that replacement carry-thru spars are difficult to 
+find.
+    FAA response: The FAA acknowledges that replacing a carry-thru spar 
+is a significant and costly effort and could be difficult to find. The 
+FAA encourages owners, operators, and any interested party to pursue 
+repair options prior to replacing an affected carry-thru spar and has 
+provided a
+
+[[Page 9181]]
+
+means to apply for an AMOC using the procedures provided in paragraph 
+(n) of this AD. The FAA has not changed this AD in regard to this 
+issue.
+
+Q. Requests Regarding Clarifying Minimum Part Thickness
+
+    Comment summary: Two individual commenters requested that the 
+proposed AD specify the minimum acceptable part thickness after a 
+carry-thru spar is reworked instead of setting a limit on the maximum 
+amount of material that can be removed during rework. One commenter 
+stated that the carry-thru spars were not manufactured with tight 
+tolerances and could be thicker than the specification, allowing for 
+more material to be removed. The other commenter stated that measuring 
+the amount of material removed could be difficult if blending was done 
+over a large area and suggested using data previously released by 
+Textron that specified thickness limits for various stations along the 
+spar.
+    FAA response: The FAA agrees that for Model 210- and 177-series 
+airplanes, the forged 2014-T6 aluminum carry-thru spars have a wide 
+range of manufacturing tolerances, both above and below the dimensions 
+identified in the design data. The FAA also agrees that additional 
+material, beyond that identified in Table 1 of Textron SEL-57-08R2 and 
+Textron SEL-57-09R1, may be removed on some spars. However, the amount 
+of additional material that can be removed varies from one spar to 
+another and must be evaluated on an individual basis.
+    The FAA determined that applying the thickness limits identified in 
+data previously released by Textron for various stations along the spar 
+must be evaluated on an individual airplane basis, as that information 
+was not originally developed to address the unsafe condition identified 
+in this AD. The FAA encourages an owner, operator, or interested party 
+with a corroded or damaged carry-thru spar that exceed the limits 
+identified in Table 1 of Textron SEL-57-08R2 and Textron SEL-57-09R1 to 
+apply for an AMOC using the procedures in paragraph (n) of this AD. The 
+AMOC request must include substantiating data showing that the proposed 
+AMOC addresses the unsafe condition with an acceptable level of safety.
+    The FAA agrees that measuring the amount of material removed may be 
+challenging and Textron provided suggestions for measuring the amount 
+of material removed in step 6.B.(8) of the Accomplishment Instructions 
+in Textron SEL-57-08R2 and Textron SEL-57-09R1. Additional guidance may 
+be obtained by contacting Textron as detailed in paragraph (n)(3) of 
+this AD.
+    The FAA has not changed this AD in regard to this issue.
+
+R. Comment Regarding Reliability Centered Maintenance
+
+    Comment summary: One commenter suggested that the FAA find a 
+solution to address the unsafe condition identified in the NPRM that 
+promotes reliability centered maintenance (RCM). The commenter 
+explained that RCM is a concept of maintenance planning to ensure that 
+systems continue to do what their users require in their present 
+operating context. Successful implementation of RCM will lead to 
+increase in cost effectiveness, reliability, machine uptime, and a 
+greater understanding of the level of risk that the organization is 
+managing. The commenter stated that blanket ADs cost the general 
+aviation community millions of dollars but do not increase safety, 
+instead they increase risk by requiring unnecessary and invasive 
+maintenance.
+    FAA response: The FAA lacks sufficient substantiating data to allow 
+RCM for this AD. An owner, operator, or interested party can request to 
+use RCM by applying for an AMOC using the procedures in paragraph (n) 
+of this AD. The AMOC request must include substantiating data showing 
+that the proposed AMOC addresses the unsafe condition with an 
+acceptable level of safety.
+    The FAA has not changed this AD in regard to this issue.
+
+S. Comment Regarding Tubing Corrosion
+
+    Comment summary: One commenter stated that the tubing corrosion 
+issue only applies to a few airplanes rather than the entire fleet. The 
+commenter did not request a change to the NPRM.
+    FAA response: Corrosion associated with tubing usually occurs in 
+the web of the carry-thru spar, and this AD only requires inspecting 
+the carry-thru spar lower cap. Although this AD does not specifically 
+apply to corrosion associated with tubing, any corrosion found on the 
+carry-thru spar lower cap, regardless of origin, is required to be 
+addressed.
+    The FAA has not changed this AD in regard to this issue.
+
+Additional Changes to This AD
+
+    The FAA did not carry over paragraph (l)(4) from the Credit for 
+Previous Actions paragraph in the proposed AD into this AD. The FAA did 
+not take away credit but removed a restriction. In the proposed AD, 
+paragraph (l)(4) specified that, to receive credit, the protective 
+coating and CIC had to have been applied to the airplane within 24 
+months after the date of completing the visual and eddy current 
+inspection or within 12 months after the effective date of the AD, 
+whichever occurs first. By the effective date of this final rule many 
+airplanes will have completed the visual and eddy current inspections 
+longer than 24 months ago. The airplanes in the applicability of this 
+AD are not as likely to develop corrosion as the Model 210G through 
+Model 210M airplanes that were included in the applicability of AD 
+2020-03-16 (the immediately adopted rule discussed previously), so the 
+FAA determined that the requirement of corrosion application within 24 
+months after the visual and eddy current inspections was not necessary. 
+The FAA did not want to penalize operators who had already completed 
+the eddy current inspection by requiring they do the inspection again 
+because they were outside of the 24-month limit. However, the 
+requirement in paragraph (i) of this AD that CIC must be applied within 
+12 months after the effective date of this AD is unchanged.
+    Paragraph (h) of the proposed AD did not have explicit compliance 
+times for completing the eddy current inspections, relying on paragraph 
+(g) for the applicable compliance times for the eddy current 
+inspections. For clarity, paragraph (h) now points to paragraph (g) for 
+compliance times.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for the changes discussed 
+previously, omitting the Paperwork Reduction Act Burden Statement, 
+paragraph (n) in the proposed AD, and reidentifying the subsequent 
+paragraphs, this AD is adopted as proposed in the NPRM. None of the 
+changes will increase the economic burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed the following service documents:
+    <bullet> Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-08, Revision 2, dated August 3, 2020 (Textron SEL-57-08R2); and
+    <bullet> Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-09, Revision 1, dated August 3, 2020 (Textron SEL-57-09R1).
+
+[[Page 9182]]
+
+    For the applicable airplanes specified, these service letters 
+contain instructions for visually inspecting the carry-thru spar for 
+corrosion, damage, and cracking and for completing an eddy current 
+inspection. This service information also specifies applying protective 
+coating and CIC.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Other Related Service Information
+
+    The FAA reviewed the following service letters related to this AD 
+which, for the applicable airplanes specified, contain instructions for 
+visually inspecting the carry-thru spar for corrosion and doing an eddy 
+current inspection of the carry-thru spar regardless of whether 
+corrosion was found and removed. This service information also contains 
+instructions for applying CIC, but does not specify applying protective 
+coating.
+    <bullet> Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-06, dated June 24, 2019 (Textron SEL-57-06);
+    <bullet> Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-06, Revision 1, dated November 19, 2019;
+    <bullet> Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-07, dated June 24, 2019 (Textron SEL-57-07); and
+    <bullet> Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-07, Revision 1, dated November 19, 2019.
+    The FAA also reviewed the service letters listed below related to 
+this AD, which, for the applicable airplanes specified, contain the 
+same instructions and repair criteria as Textron SEL-57-08R2 and 
+Textron SEL-57-09R1.
+    <bullet> Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-08, dated November 1, 2019;
+    <bullet> Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-08, Revision 1, dated November 19, 2019; and
+    <bullet> Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-09, dated November 19, 2019.
+
+Differences Between This AD and the Service Information
+
+    <bullet> Although Textron SEL-57-08R2 also applies to Models 210G, 
+T210G, 210H, T210H, 210J, T210J, 210K, T210K, 210L, T210L, 210M, and 
+T210M airplanes, this AD does not. The FAA issued AD 2020-03-16 to 
+address the immediate safety of flight for those airplanes.
+    <bullet> Textron SEL-57-08R2 and Textron SEL-57-09R1 specify 
+inspecting all interior surfaces of the carry-thru spar; additionally, 
+Textron SEL-57-09R1 specifies inspecting the lower surface of the 
+outboard spar to wing attach lugs. This AD only requires inspecting the 
+carry-thru spar lower cap, including the lower surface, edge, and upper 
+surface of the lower cap. While the web, upper cap, and lugs of the 
+carry-thru spar may be susceptible to corrosion, evidence does not 
+support including inspection of these areas as part of this AD. The FAA 
+will continue to monitor reports of corrosion on all areas of the 
+carry-thru spar for potential future action.
+    <bullet> Textron SEL-57-08R2 and Textron SEL-57-09R1 do not specify 
+an eddy current inspection on the carry-thru spar unless the amount of 
+material removed in the blended area exceeds 0.010-inch deep but is 
+within limits. This AD requires an eddy current inspection of all 
+locations on the carry-thru spar lower cap where corrosion was removed. 
+The fatigue crack on the Model T210M airplane that suffered the fatal 
+in-flight break-up initiated from a corrosion pit approximately 0.011-
+inch deep in the lower cap kick area. The visual and less restrictive 
+eddy current inspection requirements specified in Textron SEL-57-08R2 
+and Textron SEL-57-09R1 could miss similar fatigue cracking on 
+airplanes currently operating in the field.
+    <bullet> Textron SEL-57-08R2 and Textron SEL-57-09R1 only specify 
+an eddy current inspection of the lower cap kick of the carry-thru spar 
+if corrosion is identified on the carry-thru spar cap. This AD requires 
+a one-time eddy current inspection of the lower cap kick area of all 
+affected airplanes, regardless of the results of the visual inspection. 
+The fatigue crack on the Model T210M airplane that suffered the fatal 
+in-flight break-up initiated in the lower cap kick area. Cracking and 
+corrosion damage may be difficult to identify through visual inspection 
+alone. The FAA will use the results of the one-time eddy current 
+inspection of the lower cap kick area, in part, to determine the 
+necessity of future rulemaking action.
+    <bullet> Textron SEL-57-08R2 and Textron SEL-57-09R1 specify 
+contacting Textron for evaluation and disposition of certain damage. 
+Instead, this AD requires removing the carry-thru spar from service or 
+repairing it (if possible) in accordance with the AMOC procedures 
+identified in paragraph (n) of this AD. Operators should work with 
+Textron to develop a repair in support of an AMOC request.
+    <bullet> Textron SEL-57-08 R2 and Textron SEL-57-09R1 provide 
+instruction allowing airplanes that have complied with Textron SEL-57-
+06 or Textron SEL-57-07 to complete the application of the protective 
+coating and CIC within 200 flight hours or at the next annual 
+inspection, whichever occurs first. This AD permits applying protective 
+coating and CIC within 12 months after the effective date of this AD.
+
+Interim Action
+
+    The FAA considers this AD to be an interim action. This AD requires 
+one-time visual and eddy current inspections of the carry-thru spar 
+lower cap for corrosion, cracking, and damage, corrective action if 
+necessary, applying a protective coating and CIC, and reporting the 
+inspection results to the FAA. The FAA will analyze the inspection 
+results received to determine further rulemaking action.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 3,421 airplanes of U.S. 
+registry.
+    The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                  Cost per        Cost on U.S.
+             Action                  Labor cost             Parts cost            airplane         operators
+----------------------------------------------------------------------------------------------------------------
+Inspection (includes part        20 work-hours x     Not applicable..........          $1,700  $5,815,700.
+ removal for access, removal of   $85 per hour =
+ foam, if required, visual        $1,700.
+ inspection, and reassembly).
+Eddy current inspection of the   1 work-hour         Not applicable..........             600  $2,052,600.
+ cap kick area.                   contracted
+                                  service x $600 =
+                                  $600.
+Spar treatment (primer and       3.50 work-hours x   $340....................          637.50  $2,180,887.50.
+ corrosion inhibitor) *.          $85 per hour =
+                                  $297.50.
+
+[[Page 9183]]
+
+ 
+Removal and reinstallation of    5 work-hours x $85  Not applicable..........             425  Up to $1,453,925
+ oxygen bottles **.               per hour = $425.                                              (not all
+                                                                                                airplanes have
+                                                                                                oxygen bottles
+                                                                                                installed).
+Removal and reinstallation of    3 work-hours x $85  Not applicable..........             255  Up to $872,355
+ air conditioning components **.  per hour = $255.                                              (not all
+                                                                                                airplanes have
+                                                                                                air conditioning
+                                                                                                installed).
+Reporting requirement..........  2 work-hours x $85  Not applicable..........             170  $581,570.
+                                  per hour = $170.
+----------------------------------------------------------------------------------------------------------------
+* Model 210-series airplanes may only require application of corrosion inhibitor, depending on the condition of
+  the zinc chromate primer. Model 177-series airplanes may or may not require application of the primer,
+  depending on the production year and the quality of any existing zinc chromate primer.
+** Some Model 210-series airplanes are equipped with oxygen bottles in the area of the carry-thru spar. Some
+  Model 210- and 177-series airplanes are equipped with air conditioning systems. Additional work-hours were
+  included in the estimated costs to account for the additional time required to complete the AD requirements on
+  these airplanes.
+
+    The FAA estimates the following costs to do any necessary repairs 
+or replacements that would be required based on the results of the 
+proposed inspection. The agency has no way of determining the number of 
+aircraft that might need these actions:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                Action                        Labor cost                    Parts cost                product
+----------------------------------------------------------------------------------------------------------------
+Corrosion removal....................  2 work-hours x $85 per    Not applicable.................            $170
+                                        hour = $170.
+On-condition eddy current inspection.  1 work-hour contracted    Not applicable.................             600
+                                        service x $600 = $600.
+Spar replacement--Model 210/T210-      160 work-hours x $85 per  $21,367........................          34,967
+ airplanes (P/N 1210721-1).             hour = $13,600.
+Spar replacement--Model 210/T210-      160 work-hours x $85 per  $19,999........................          33,599
+ airplanes (P/N 2110020-1).             hour = $13,600.
+Spar replacement--Model P210 airplane  220 work-hours x $85 per  $19,999........................          38,699
+                                        hour = $18,700.
+Spar replacement--Model 177-series     120 work-hours x $85 per  $30,000........................          40,200
+ airplane.                              hour = $10,200.
+----------------------------------------------------------------------------------------------------------------
+
+    The amount of work-hours necessary to complete the eddy current 
+inspection and corrosion removal will depend on the extent of the 
+corrosion on the carry-thru spar. The FAA has no way of estimating the 
+work-hours that may be required for those procedures. The FAA's cost 
+estimate assumes a minimum of one hour contracted service for the eddy 
+current inspection and two hours for the corrosion removal. If the 
+operator needs an AMOC for repair, the FAA has no way of estimating the 
+extent of damage or follow-on eddy current inspection that may be 
+required. The FAA has no way of estimating the potential cost of those 
+actions.
+    Replacement carry-thru spars are not currently available from 
+Textron for Model 177-series airplanes. Textron no longer produces the 
+current carry-thru spar design and is developing a new design. The FAA 
+does not have data to determine the availability of replacement carry-
+thru spars from other sources.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to take 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+
+[[Page 9184]]
+
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2023-02-17 Textron Aviation Inc. (Type Certificate previously held 
+by Cessna Aircraft Company): Amendment 39-22324; Docket No. FAA-
+2020-1078; Project Identifier AD-2020-00716-A.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective March 20, 2023.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Textron Aviation Inc. (Type Certificate 
+previously held by Cessna Aircraft Company) Model 210N, 210R, P210N, 
+P210R, T210N, T210R, 177, 177A, 177B, 177RG, and F177RG airplanes, 
+all serial numbers, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5310, Fuselage Main, 
+Structure.
+
+(e) Unsafe Condition
+
+    This AD was prompted by the in-flight break-up of a Model T210M 
+airplane, due to fatigue cracking of the carry-thru spar that 
+initiated at a corrosion pit and subsequent corrosion reports on 
+other Model 210-series and Model 177-series airplanes. The FAA is 
+issuing this AD to detect and correct cracking, corrosion, and other 
+damage of the carry-thru spar lower cap, which, if not corrected, 
+could lead to the carry-thru spar being unable to support the 
+required structural loads and could result in separation of the wing 
+and loss of airplane control.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Visual Inspection
+
+    Within 200 hours time-in-service (TIS) after the effective date 
+of this AD or within 12 calendar months after the effective date of 
+this AD, whichever occurs first, prepare the carry-thru spar lower 
+cap for inspection by following steps 4 and 5 of the Accomplishment 
+Instructions in Textron Aviation Mandatory Single Engine Service 
+Letter, SEL-57-08, Revision 2, dated August 3, 2020 (Textron SEL-57-
+08R2); or Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-09, Revision 1, dated August 3, 2020 (Textron SEL-57-09R1), 
+as applicable to your airplane model. Visually inspect the carry-
+thru spar lower cap (including the lower surface, upper surface, and 
+edge) with a 10X magnification lens looking for corrosion, cracking, 
+and damage. You are not required to inspect the lower cap to web 
+radius, spar web, upper cap, or lugs. Refer to the `Spar Dimensions' 
+and the `Spar Detail' figures on page 7 of Textron SEL-57-08R2 or 
+Textron SEL-57-09R1, as applicable to your airplane model, for the 
+location of the specific spar features.
+    (1) If there is any cracking, before further flight, remove the 
+carry-thru spar from service.
+    (2) If there is damage or evidence of previous removal of 
+corrosion (blending), before further flight, either remove the 
+carry-thru spar from service or repair the area using a method 
+approved as specified in paragraph (n) of this AD. Comply with the 
+requirements in paragraph (h) of this AD before further flight.
+    (3) If there is any corrosion, before further flight, remove the 
+corrosion in the affected area by following steps 6.B.(1) through 
+(7) of the Accomplishment Instructions in Textron SEL-57-08R2 or 
+Textron SEL-57-09R1, as applicable to your airplane model, and then 
+mechanically measure the depth of the blended area using a straight 
+edge and feeler gauge or a depth gauge micrometer.
+    (i) If the material removed in the blended area exceeds the 
+allowable blend limits specified in table 1 (including the notes) of 
+Textron SEL-57-08R2 or Textron SEL-57-09R1, as applicable to your 
+airplane model, before further flight, either remove the carry-thru 
+spar from service or repair the area using a method approved as 
+specified in paragraph (n) of this AD. Comply with the requirements 
+in paragraph (h) of this AD before further flight.
+    (ii) If the material removed in the blended area does not exceed 
+the allowable blend limits specified in table 1 (including the 
+notes) of Textron SEL-57-08R2 or Textron SEL-57-09R1, as applicable 
+to your airplane model, comply with the requirements in paragraph 
+(h) of this AD before further flight.
+    (4) If the visual inspection did not detect corrosion, cracking, 
+or damage and there is no evidence of previous removal of corrosion, 
+comply with the requirements in paragraph (h) of this AD within 200 
+hours TIS after the effective date of the AD or within 12 calendar 
+months after the effective date of the AD, whichever occurs first.
+
+(h) Eddy Current Inspection
+
+    (1) At the applicable compliance time required by paragraph (g) 
+of this AD, complete an eddy current inspection of the carry-thru 
+spar lower cap for cracking, corrosion, and damage in the following 
+areas in accordance with step 7 of the Accomplishment Instructions 
+in Textron SEL-57-08R2 or Textron SEL-57-09R1, as applicable to your 
+airplane model.
+    (i) The kick area as depicted in the `Spar Dimensions' figure on 
+page 7 of Textron SEL-57-08R2 or Textron SEL-57-09R1, as applicable 
+to your airplane. You must complete an eddy current inspection of 
+the lower cap kick area of your airplane regardless of whether 
+corrosion was found and removed as a result of the visual inspection 
+in paragraph (g) of this AD.
+    (ii) All areas where corrosion was found and removed as a result 
+of the inspection in paragraph (g) of this AD.
+    (2) If there is any cracking, before further flight, remove the 
+carry-thru spar from service.
+    (3) If there is any damage, before further flight, either remove 
+the carry-thru spar from service or repair the area using a method 
+approved as specified in paragraph (n) of this AD. After completing 
+the repair, repeat the eddy current inspection of the repaired area 
+before further flight.
+    (4) If there is any corrosion, before further flight, remove the 
+corrosion by following the requirements in paragraph (g)(3) of this 
+AD. You must repeat the eddy current inspection and comply with 
+paragraph (h) of this AD for the area where the additional material 
+was removed, but you do not have to repeat the eddy current 
+inspection of the kick area.
+
+(i) Corrosion Protection
+
+    Within 12 calendar months after the effective date of this AD, 
+apply protective coating and corrosion inhibiting compound (CIC) by 
+following steps 9 and 10 of the Accomplishment Instructions in 
+Textron SEL-57-08R2 or Textron SEL-57-09R1, as applicable to your 
+airplane model.
+
+(j) Installation Prohibition
+
+    As of the effective date of this AD, do not install on any 
+airplane a carry-thru spar unless it has been inspected as required 
+by paragraphs (g) and (h) of this AD and corrosion protection 
+applied as required by paragraph (i) of this AD.
+
+(k) Reporting Requirement
+
+    Within 30 days after completing the inspections required by this 
+AD or within 30 days after the effective date of this AD, whichever 
+occurs later, report to the FAA by email (<a href="/cdn-cgi/l/email-protection#57003e343f3e23367a1418041731363679303821"><span class="__cf_email__" data-cfemail="efb8868c87869b8ec2aca0bcaf898e8ec1888099">[email&#160;protected]</span></a>) all 
+information requested in the Carry-Thru Spar Inspection Report 
+Attachment to Textron SEL-57-08R2 or Textron SEL-57-09R1, as 
+applicable to your airplane model.
+
+(l) Credit for Previous Actions
+
+    (1) You may take credit for the visual inspection and corrosion 
+removal required by paragraph (g) of this AD if you performed the 
+visual inspection and corrosion removal before the effective date of 
+this AD using Textron Aviation Mandatory Single Engine
+
+[[Page 9185]]
+
+Service Letter SEL-57-08, dated November 1, 2019 (Textron SEL-57-
+08); Textron Aviation Mandatory Single Engine Service Letter SEL-57-
+08, Revision 1, dated November 19, 2019 (Textron SEL-57-08R1); 
+Textron Aviation Mandatory Single Service Letter SEL-57-09, dated 
+November 19, 2019 (Textron SEL-57-09); Textron Aviation Mandatory 
+Single Engine Service Letter SEL-57-06, dated June 24, 2019 (Textron 
+SEL-57-06); Textron Aviation Mandatory Single Engine Service Letter 
+SEL-57-06, Revision 1, dated November 19, 2019 (Textron SEL-57-
+06R1); Textron Aviation Mandatory Single Engine Service Letter, SEL-
+57-07, dated June 24, 2019 (Textron SEL-57-07); or Textron Aviation 
+Mandatory Single Engine Service Letter, SEL-57-07, Revision 1, dated 
+November 19, 2019 (Textron SEL-57-07R1).
+    (2) You may take credit for the eddy current inspection of the 
+lower cap kick area and all locations where corrosion was removed on 
+the carry-thru spar lower cap and the corrosion removal as specified 
+in paragraph (h) of this AD if you performed the eddy current 
+inspection and corrosion removal required before the effective date 
+of this AD using Textron SEL-57-08, Textron SEL-57-08R1, Textron 
+SEL-57-06, Textron SEL-57-06R1, Textron SEL-57-07, Textron SEL-57-
+07R1, or Textron SEL-57-09.
+    (3) You may take credit for the corrosion protection required by 
+paragraph (i) of this AD if you performed those actions before the 
+effective date of this AD using Textron SEL-57-08, Textron SEL-57-
+08R1, or Textron SEL-57-09.
+    (4) To take credit for any previous action, you must have 
+provided a completed Carry-Thru Spar Inspection Report, an 
+attachment to Textron SEL-57-06, Textron SEL-57-06 R1, Textron SEL-
+57-07, Textron SEL-57-07R1, Textron SEL-57-08, Textron SEL-57-08R1, 
+or Textron SEL-57-09 to Textron Aviation Inc. before the effective 
+date of this AD, or you must comply with paragraph (k) of this AD 
+within 30 days after the effective date of this AD.
+
+(m) Special Flight Permit
+
+    (1) This AD prohibits a special flight permit if the inspection 
+identifies cracking in the carry-thru spar.
+    (2) Special flight permits, as described in 14 CFR 21.197 and 
+21.199, may be issued for airplanes on which corrosion was 
+identified to operate to a location where the requirements of this 
+AD can be accomplished.
+    (3) Special flight permits, as described in 14 CFR 21.197 and 
+21.199, may be issued for an airplane demonstrating evidence of 
+previous blending for which credit for previous actions, as defined 
+in paragraph (l), cannot be granted or for an airplane demonstrating 
+any damage other than corrosion or cracking, but concurrence by the 
+Manager, Wichita ACO Branch, FAA is required before issuance of the 
+special flight permit. Send requests for a special flight permit to 
+your local Flight Standards District Office.
+
+(n) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Wichita ACO Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or local Flight Standards District 
+Office, as appropriate. If sending information directly to the 
+manager of the certification office, send it to the attention of the 
+person identified in paragraph (o) of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by a Textron Aviation, Inc. Unit Member (UM) of 
+the Textron Organization Designation Authorization (ODA), that has 
+been authorized by the Manager, Wichita ACO Branch, to make those 
+findings. To be approved, the repair, modification deviation, or 
+alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(o) Related Information
+
+    For more information about this AD, contact Bobbie Kroetch, 
+Aviation Safety Engineer, Wichita ACO Branch, FAA, 1801 Airport 
+Road, Wichita, KS 67209; phone: (316) 946-4155; email: 
+<a href="/cdn-cgi/l/email-protection#680a070a0a010d46031a070d1c0b00280e0909460f071e"><span class="__cf_email__" data-cfemail="2f4d404d4d464a01445d404a5b4c476f494e4e01484059">[email&#160;protected]</span></a> or <a href="/cdn-cgi/l/email-protection#0f58666c67667b6e224c405c4f696e6e21686079"><span class="__cf_email__" data-cfemail="d483bdb7bcbda0b5f9979b8794b2b5b5fab3bba2">[email&#160;protected]</span></a>.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-08, Revision 2, dated August 3, 2020.
+    (ii) Textron Aviation Mandatory Single Engine Service Letter, 
+SEL-57-09, Revision 1, dated August 3, 2020.
+    (3) For service information identified in this AD, contact 
+Textron Aviation Inc., One Cessna Boulevard, Wichita, KS 67215; 
+phone: (316) 517-6061; email: <a href="/cdn-cgi/l/email-protection#6b181f191e081f1e190e182b1f131f0a1d45080406"><span class="__cf_email__" data-cfemail="f88b8c8a8d9b8c8d8a9d8bb88c808c998ed69b9795">[email&#160;protected]</span></a>; website: 
+<a href="http://support.cessna.com">support.cessna.com</a>.
+    (4) You may view this service information at FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas 
+City, MO 64106. For information on the availability of this material 
+at the FAA, call (817) 222-5110.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email: <a href="/cdn-cgi/l/email-protection#3e584c1057504d4e5b5d4a5751507e505f4c5f10595148"><span class="__cf_email__" data-cfemail="ed8b9fc384839e9d888e99848283ad838c9f8cc38a829b">[email&#160;protected]</span></a>, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on February 1, 2023.
+Christina Underwood,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2023-02986 Filed 2-10-23; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

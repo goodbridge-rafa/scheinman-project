@@ -1,0 +1,532 @@
+<html>
+<head>
+<title>Federal Register, Volume 91 Issue 48 (Thursday, March 12, 2026)</title>
+</head>
+<body><pre>
+[Federal Register Volume 91, Number 48 (Thursday, March 12, 2026)]
+[Rules and Regulations]
+[Pages 12065-12068]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2026-04831]
+
+
+
+[[Page 12065]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-1719; Project Identifier AD-2024-00382-T; 
+Amendment 39-23276; AD 2026-05-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain The Boeing Company Model 767-200 and 767-300 series airplanes. 
+This AD was prompted by reports of scribe lines found at skin lap 
+joints and butt joints, around external repairs and antennas, and at 
+locations where external decals had been cut. For some airplanes, this 
+AD requires a detailed inspection for scribe lines and applicable 
+related investigative and corrective actions. For other airplanes, this 
+AD requires repetitive nondestructive testing inspections for cracking 
+at certain stringers of the skin lap joint fuselage skin and applicable 
+corrective actions. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective April 16, 2026.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of April 16, 
+2026.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-1719; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website <a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    <bullet> For IAI-Aviation Group material identified in this AD, 
+contact Israel Aerospace Industries, Ltd., Ben Gurion International 
+Airport, Israel 7010000; telephone 972-3-9353090; website 
+<a href="http://www.iai.co.il/about/groups/iai-aviation-group">www.iai.co.il/about/groups/iai-aviation-group</a>.
+    <bullet> You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-1719.
+
+FOR FURTHER INFORMATION CONTACT: Stefanie Roesli, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3964; email: <a href="/cdn-cgi/l/email-protection#88fbfcedeee9e6e1eda6e6a6fae7edfbe4e1c8eee9e9a6efe7fe"><span class="__cf_email__" data-cfemail="dba8afbebdbab5b2bef5b5f5a9b4bea8b7b29bbdbabaf5bcb4ad">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain The Boeing 
+Company Model 767-200 and 767-300 series airplanes. The NPRM was 
+published in the Federal Register on July 23, 2025 (90 FR 34612). The 
+NPRM was prompted by reports of scribe lines found at skin lap joints 
+and butt joints, around external repairs and antennas, and at locations 
+where external decals had been cut. In the NPRM, the FAA proposed to 
+require, for some airplanes, a detailed inspection for scribe lines and 
+applicable related investigative and corrective actions. For other 
+airplanes, the FAA proposed to require repetitive nondestructive 
+testing inspections for cracking at certain stringers of the skin lap 
+joint fuselage skin and applicable corrective actions. The FAA is 
+issuing this AD to address scribe lines, which could develop into 
+fatigue cracks in the skin and cause rapid decompression of the 
+airplane.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from Boeing, United Airlines, and an 
+individual who supported the NPRM without change.
+    The FAA also received comments from Air Canada, Aviation Partners 
+Boeing and the Civil Aviation Authority of Israel (CAAI). The following 
+presents these comments and the FAA's response.
+
+Request To Refer to Revised Intervals
+
+    CAAI and Air Canada requested that the FAA revise the 0.10 factor 
+for intervals specified in paragraphs (i)(4) and (5) of the proposed 
+AD. CAAI stated the proposed AD reduced the repetitive intervals by a 
+factor of 0.10 for Israel Aerospace Industries (IAI) converted 767 
+freighter operators. CAAI noted that the initial compliance times 
+factors in the proposed AD match IAI-Aviation Group Service Bulletin 
+368-53-073, Revision 1, and supporting analysis numbers, but the source 
+of the 0.10 repetitive intervals factor is unclear and seems very 
+conservative. CAAI stated such a factor would be very challenging for 
+the IAI converted 767 freighter operators. CAAI questioned why it was 
+decided that the proposed AD would not be referring to IAI-Aviation 
+Group Service Bulletin 368-53-073, Revision 1 for implementation of the 
+factors, but instead would directly determine the required factors. Air 
+Canada stated the FAA should include the limited return to service 
+(LRTS) repetitive inspection listed in IAI-Aviation Group Service 
+Bulletin 368-53-073 instead of a factor of 0.10. Air Canada stated that 
+although the service bulletin is more complex, it provides LRTS 
+repetitive inspection based on analysis instead of using a conservative 
+blanket reduction factor.
+    The FAA agrees to revise the 0.10 factor for repetitive intervals 
+for IAI converted 767 freighter airplanes. The FAA implemented a 
+conservative factor of 0.10 for the repetitive intervals in the 
+proposed AD because the FAA had not received an approved, published 
+copy of IAI-Aviation Group Service Bulletin 368-53-073. The FAA has 
+since received and reviewed IAI-Aviation Group Service Bulletin 368-53-
+073, Revision 2, dated September 2025, which contains more 
+representative repetitive intervals to address the identified unsafe 
+condition. The FAA has revised paragraphs (h) and (i)(3) of this AD to 
+refer to IAI-Aviation Group Service Bulletin 368-53-073, Revision 2, 
+dated September 2025. The FAA has also revised paragraphs (i)(4) and 
+(5) of this AD to remove references to the compliance time factors and 
+add references to the alternative method of compliance (AMOC) paragraph 
+for certain actions.
+
+Request To Provide a Grace Period
+
+    Air Canada requested that the FAA add a 24-month grace period to 
+introduce reduced LRTS repetitive inspections if it was applied before 
+the issuance of the AD, ensuring the airplane is not out of compliance 
+when the AD is issued.
+    The FAA does not agree. The commenter did not provide justification 
+for implementing a 24-month grace period for the LRTS program. The new 
+service information reduces some of the LRTS repetitive intervals, so 
+implementing a 24-month grace period
+
+[[Page 12066]]
+
+may contradict that requirement. However, under the provisions of 
+paragraph (l) of this AD, the FAA will consider requests for approval 
+of an extension of the compliance time if sufficient data are submitted 
+to substantiate that the new compliance time would provide an 
+acceptable level of safety. The FAA has not changed this AD in this 
+regard.
+
+Effect of Winglets on Accomplishment of the Proposed Actions
+
+    Aviation Partners Boeing stated that accomplishing Supplemental 
+Type Certificate (STC) ST01920SE does not affect the actions specified 
+in the proposed AD.
+    The FAA concurs with the commenter. The FAA has redesignated 
+paragraph (c) of the proposed AD as paragraph (c)(1) of this AD and 
+added paragraph (c)(2) to this AD to state that installation of STC 
+ST01920SE does not affect the ability to accomplish the actions 
+required by this AD. Therefore, for airplanes on which STC ST01920SE is 
+installed, a ``change in product'' AMOC approval request is not 
+necessary to comply with the requirements of 14 CFR 39.17.
+
+Clarification of Reference to the AMOC Paragraph
+
+    Paragraph (i)(2) of the proposed AD referred to paragraph (j) of 
+the proposed AD for approved methods of compliance. However, paragraph 
+(l) of the proposed AD specifies the AMOC information. The FAA has 
+revised paragraph (i)(2) of this AD to refer to paragraph (l) of this 
+AD.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, and 
+any other changes described previously, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Terminating Action for a Related AD
+
+    For airplanes identified in paragraphs (c)(1)(ii) and (iii) of this 
+AD: Accomplishing the initial actions required by paragraph (h) of this 
+AD terminates the requirements of AD 2010-06-16, Amendment 39-16241 (75 
+FR 12670, March 17, 2010) (AD 2010-06-16).
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Service Bulletin 767-53A0193, 
+Revision 3, dated June 27, 2024. This material specifies the following 
+inspections and applicable related investigative and corrective 
+actions:
+    <bullet> Repetitive detailed inspections to detect scribe lines 
+along applicable skin lap joints, skin butt joints, external approved 
+repairs, external features, decals, and fairings.
+    <bullet> Removal of paint and sealant from affected areas before 
+the initial detailed inspection.
+    <bullet> Related investigative actions, including low- or high-
+frequency eddy current or ultrasonic inspections of the scribe lines to 
+detect cracks.
+    <bullet> Corrective actions of either repairing scribe lines and 
+cracks or contacting Boeing for repair instructions and doing the 
+repair.
+    <bullet> Repair of scribe lines before further flight, except when 
+an LRTS program for qualifying scribe lines would allow return to 
+service for a limited period before scribe lines are repaired. The LRTS 
+program includes repetitive inspections to detect cracks where scribe 
+lines are found. To qualify for an LRTS program, scribe lines must meet 
+certain criteria based on their depth and location.
+    <bullet> Contacting Boeing for final repair instructions, which 
+would eliminate the need for the repetitive inspections of the LRTS 
+program.
+    This material notes that certain inspections would not be required 
+under the following conditions, depending on location:
+    <bullet> The airplane had never been stripped or repainted.
+    <bullet> The airplane had never been stripped or repainted under 
+the wing-to-body fairings.
+    <bullet> Correct sealant removal procedures have been used at all 
+times since delivery.
+    This material also specifies procedures for nondestructive testing 
+inspections for cracking of the skin lap joint fuselage skin at 
+stringers S-26L and S-8R between station (STA) 434 and STA 676 (for 
+Group 13 airplanes), and at S-26L, S-8R, and S-2R between STA 434 and 
+STA 654+121 (for Group 14 airplanes).
+    The FAA also reviewed IAI-Aviation Group Service Bulletin 368-53-
+073, Revision 2, dated September 2025. This material provides adjusted 
+intervals for inspections for LRTS repetitive inspections of scribe 
+lines lap joints.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 3 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection.......................  Up to 340 work-                  $0  Up to $28,900 per    Up to $86,700 per
+                                    hours x $85 per                      inspection cycle.    inspection cycle.
+                                    hour = $28,900.
+----------------------------------------------------------------------------------------------------------------
+
+    The extent of scribe lines found during the inspections could vary 
+significantly from airplane to airplane. The FAA has no way of 
+determining the extent of scribe lines found on each airplane, the cost 
+to repair each airplane, or the number of airplanes that may require 
+repair.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+[[Page 12067]]
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+Authority:
+
+     49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2026-05-03 The Boeing Company: Amendment 39-23276; Docket No. FAA-
+2025-1719; Project Identifier AD-2024-00382-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective April 16, 2026.
+
+(b) Affected ADs
+
+    This AD affects AD 2010-06-16, Amendment 39-16241 (75 FR 12670, 
+March 17, 2010) (AD 2010-06-16).
+
+(c) Applicability
+
+    (1) This AD applies to The Boeing Company Model 767-200 and 767-
+300 series airplanes, certificated in any category, listed in 
+paragraphs (c)(1)(i) through (iii) of this AD.
+    (i) Airplanes identified as Group 13 and 14 in Boeing Alert 
+Service Bulletin 767-53A0193, Revision 3, dated June 27, 2024.
+    (ii) Model 767-200 series airplanes converted to a special 
+freighter by Supplemental Type Certificate (STC) ST01433SE.
+    (iii) Model 767-300 series airplanes converted to a special 
+freighter by STC ST02040SE.
+    (2) Installation of STC ST01920SE does not affect the ability to 
+accomplish the actions required by this AD. Therefore, for airplanes 
+on which STC ST01920SE is installed, a ``change in product'' 
+alternative method of compliance (AMOC) approval request is not 
+necessary to comply with the requirements of 14 CFR 39.17.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of scribe lines found at skin 
+lap joints and butt joints, around external repairs and antennas, 
+and at locations where external decals had been cut. The FAA is 
+issuing this AD to address scribe lines, which could develop into 
+fatigue cracks in the skin and cause rapid decompression of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions: Group 13 and 14 Airplanes
+
+    For airplanes identified in paragraph (c)(1)(i) of this AD: 
+Except as specified in paragraphs (i)(1) and (2) of this AD, at the 
+applicable times specified in tables 1.1 and 1.2 under the 
+``Compliance'' paragraph of Boeing Alert Service Bulletin 767-
+53A0193, Revision 3, dated June 27, 2024, do the actions specified 
+in, and in accordance with, the ``Action'' column and footnotes of 
+tables 1.1 and 1.2 under the ``Compliance'' paragraph of Boeing 
+Alert Service Bulletin 767-53A0193, Revision 3, dated June 27, 2024.
+
+(h) Required Actions: STC-Modified Airplanes
+
+    For airplanes identified in paragraphs (c)(1)(ii) and (iii) of 
+this AD: Except as specified in paragraphs (i)(2) through (5) of 
+this AD, at the applicable times specified in the Accomplishment 
+Instructions of IAI-Aviation Group Service Bulletin 368-53-073, 
+Revision 2, dated September 2025, do detailed inspections for scribe 
+lines of skin lap joints around external repairs and antennas and at 
+locations where external decals might have been cut, and do all 
+applicable related investigative and corrective actions, by 
+accomplishing all applicable actions specified in the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 767-53A0193, Revision 
+3, dated June 27, 2024. The inspection exemptions noted in paragraph 
+2., ``Accomplishment Instructions'' of IAI-Aviation Group Service 
+Bulletin 368-53-073, Revision 2, dated September, apply to actions 
+required by this paragraph.
+
+(i) Exceptions to Service Bulletin Specifications
+
+    (1) Where the Compliance Time columns in tables 1.1 and 1.2 
+under the ``Compliance'' paragraph of Boeing Alert Service Bulletin 
+767-53A0193, Revision 3, dated June 27, 2024, refer to the 
+``revision 03 issue date of this service bulletin,'' this AD 
+requires using the effective date of this AD.
+    (2) Where Boeing Alert Service Bulletin 767-53A0193, Revision 3, 
+dated June 27, 2024, specifies contacting Boeing for repair 
+instructions, this AD requires doing the repair using a method 
+approved in accordance with the procedures in paragraph (l) of this 
+AD.
+    (3) Where paragraph 1) of the Accomplishment Instructions of 
+IAI-Aviation Group Service Bulletin 368-53-073, Revision 2, dated 
+September 2025, refers to applying applicable factors to ``the 
+initial inspection threshold,'' for this AD, apply the applicable 
+factors to the applicable initial compliance times specified in the 
+``Compliance'' paragraph of Boeing Alert Service Bulletin 767-
+53A0193, Revision 3, dated June 27, 2024. Where the Compliance Time 
+columns in the tables under the ``Compliance'' paragraph of Boeing 
+Alert Service Bulletin 767-53A0193, Revision 3, dated June 27, 2024, 
+refer to the ``the original issue date on this service bulletin,'' 
+this AD requires using the effective date of this AD.
+    Note 1 to paragraph (i)(3): For Model 767-200 airplanes, the new 
+compliance times are 60% of the original initial compliance time. 
+For example, an initial compliance time of 25,000 total flight 
+cycles is reduced to 15,000 total flight cycles (i.e., 25,000 x 0.60 
+= 15,000).
+    Note 2 to paragraph (i)(3): For Model 767-300 airplanes, the new 
+compliance times are 46% of the original initial compliance time. 
+For example, an initial compliance time of 25,000 total flight 
+cycles is reduced to 11,500 total flight cycles (i.e., 25,000 x 0.46 
+= 11,500).
+    (4) Where IAI-Aviation Group Service Bulletin 368-53-073, 
+Revision 2, dated September 2025, specifies contacting IAI for 
+inspections or repair instructions, this AD requires doing the 
+inspections and repairs using a method approved in accordance with 
+the procedures in paragraph (l) of this AD.
+    (5) Where IAI-Aviation Group Service Bulletin 368-53-073, 
+Revision 2, dated September 2025, specifies contacting Boeing for 
+inspection and repair instructions, this AD requires doing the 
+inspection and repair using a method approved in accordance with the 
+procedures in paragraph (l) of this AD.
+
+(j) Terminating Action for STC-Modified Airplanes
+
+    For airplanes identified in paragraphs (c)(1)(ii) and (iii) of 
+this AD: Accomplishing the initial actions required by paragraph (h) 
+of this AD terminates the requirements of AD 2010-06-16.
+
+(k) Credit for Previous Actions
+
+    For airplanes identified in paragraphs (c)(1)(ii) and (iii) of 
+this AD: This paragraph provides credit for the actions required by 
+paragraph (h) of this AD, if those actions were performed before the 
+effective date of this AD using Boeing Alert Service Bulletin 767-
+53A0193, Revision 2, dated August 26, 2010.
+
+[[Page 12068]]
+
+(l) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the certification office, 
+send it to the attention of the person identified in paragraph 
+(m)(1) of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#b5f4f8faf6f5d3d4d49bd2dac3"><span class="__cf_email__" data-cfemail="ca8b8785898aacababe4ada5bc">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(m) Related Information
+
+    (1) For more information about this AD, contact Stefanie Roesli, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3964; email: <a href="/cdn-cgi/l/email-protection#a4d7d0c1c2c5cacdc18aca8ad6cbc1d7c8cde4c2c5c58ac3cbd2"><span class="__cf_email__" data-cfemail="681b1c0d0e0906010d4606461a070d1b0401280e0909460f071e">[email&#160;protected]</span></a>.
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (n)(3) 
+of this AD.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Service Bulletin 767-53A0193, Revision 3, dated 
+June 27, 2024.
+    (ii) IAI-Aviation Group Service Bulletin 368-53-073, Revision 2, 
+dated September 2025.
+    (3) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website <a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    (4) For IAI-Aviation Group material identified in this AD, 
+contact Israel Aerospace Industries, Ltd., Ben Gurion International 
+Airport, Israel 7010000; telephone 972-3-9353090; website 
+<a href="http://www.iai.co.il/about/groups/iai-aviation-group">www.iai.co.il/about/groups/iai-aviation-group</a>.
+    (5) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (6) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a> or email <a href="/cdn-cgi/l/email-protection#bed8cc90d7d0cdcedbddcad7d1d0fed0dfccdf90d9d1c8"><span class="__cf_email__" data-cfemail="a1c7d38fc8cfd2d1c4c2d5c8cecfe1cfc0d3c08fc6ced7">[email&#160;protected]</span></a>.
+
+    Issued on February 24, 2026.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-04831 Filed 3-11-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,628 @@
+<html>
+<head>
+<title>Federal Register, Volume 80 Issue 226 (Tuesday, November 24, 2015)</title>
+</head>
+<body><pre>
+[Federal Register Volume 80, Number 226 (Tuesday, November 24, 2015)]
+[Rules and Regulations]
+[Pages 73092-73096]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2015-28886]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-0490; Directorate Identifier 2014-NM-018-AD; 
+Amendment 39-18322; AD 2015-23-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2008-22-20 for 
+certain Airbus Model A330-200, A330-300, and A340-300 series airplanes. 
+AD 2008-22-20 required repetitive high frequency eddy current (HFEC) 
+inspections for cracking, repair if necessary, and modification of the 
+upper shell structure of the fuselage. This new AD shortens certain 
+compliance times. This AD was prompted by a determination from a 
+fatigue and damage tolerance evaluation that the compliance times must 
+be reduced. We are issuing this AD to prevent fatigue cracking of the 
+upper shell structure of the fuselage, which could result in reduced 
+structural integrity of the airplane.
+
+DATES: This AD becomes effective December 29, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of December 29, 
+2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of 
+December 17, 2008 (73 FR 66747, November 12, 2008).
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;
+
+[[Page 73093]]
+
+D=FAA-2015-0490; or in person at the Docket Management Facility, U.S. 
+Department of Transportation, Docket Operations, M-30, West Building 
+Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus SAS, 
+Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; 
+email <a href="/cdn-cgi/l/email-protection#ddbcb4afaab2afa9b5b4b3b8aeaef39ceeeeedf09ceee9ed9dbcb4afbfa8aef3beb2b0"><span class="__cf_email__" data-cfemail="bfded6cdc8d0cdcbd7d6d1dacccc91fe8c8c8f92fe8c8b8fffded6cdddcacc91dcd0d2">[email&#160;protected]</span></a>; Internet <a href="http://www.airbus.com">http://www.airbus.com</a>. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+0490.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2008-22-20, Amendment 39-15717 (73 FR 66747, 
+November 12, 2008). AD 2008-22-20 applied to certain Airbus Model A330-
+200, A330-300, and A340-300 series airplanes. The NPRM published in the 
+Federal Register on March 17, 2015 (80 FR 13799). The NPRM was prompted 
+by a determination from a fatigue and damage tolerance evaluation that 
+the compliance times must be reduced. The NPRM also proposed to shorten 
+certain compliance times. We are issuing this AD to prevent fatigue 
+cracking of the upper shell structure of the fuselage, which could 
+result in reduced structural integrity of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2014-0012R1, dated January 24, 2014 (referred 
+to after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A330-200, A330-300, and A340-300 series airplanes. The MCAI states:
+
+    During fatigue tests (EF3) on the A340-600, damage was found in 
+the longitudinal doubler at the Vertical Tail Plane (VTP) attachment 
+cut out between Frame (FR) 80 and FR86. This damage occurred between 
+58,341 and 72,891 simulated flight cycles (FC).
+    Due to the higher Design Service Goal and different design of 
+the affected structural area (e.g. doubler thickness) for A330-200/-
+300 and A340-300 airplane series, the damage assessment concluded 
+that these airplanes may be also potentially affected.
+    This condition, if not detected and corrected, could affect the 
+structural integrity of the upper shell structure between FR80 and 
+FR86.
+    Prompted by these findings, EASA issued AD 2007-0284 [(<a href="http://ad.easa.europa.eu/blob/easa_ad_2007_0284_superseded.pdf/AD_2007-0284_1">http://ad.easa.europa.eu/blob/easa_ad_2007_0284_superseded.pdf/AD_2007-0284_1</a>)] to require implementation of an inspection programme of 
+this structural area using a high frequency eddy current (HFEC) 
+method and a modification to improve the upper shell structure.
+    Since that [EASA] AD was issued, in the frame of a new fatigue 
+and damage tolerance evaluation, taking into account the airplane 
+utilisation, the inspection threshold and intervals have been 
+reassessed and the conclusion was that the thresholds and intervals 
+for inspection, as well as the threshold for modifying the airplane, 
+must be reduced.
+    For the reason described above, this [EASA] AD retains the 
+requirements of EASA AD 2007-0284, which is superseded and 
+introduces redefined thresholds and intervals.
+    This [EASA] AD is revised to clarify that, under some 
+conditions, accomplishment of a repair constitutes terminating 
+action for the repetitive inspections. One of the outcome of this 
+clarification is the deletion of paragraph (5) of this [EASA] AD.
+
+    You may examine the MCAI in the AD docket on the Internet at <a href="http://www.regulations.gov/#!documentDetail">http://www.regulations.gov/#!documentDetail</a>;D=FAA-2015-0490-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (80 
+FR 13799, March 17, 2015) and the FAA's response to each comment.
+
+Support for the NPRM (80 FR 13799, March 17, 2015)
+
+    An anonymous commenter agreed with the safety benefit provided by 
+the NPRM (80 FR 13799, March 17, 2015).
+
+Request for Revise Cost
+
+    Delta requested that we revise the NPRM (80 FR 13799, March 17, 
+2015) to relay the heavy impact of accomplishing Airbus Service 
+Bulletin A330-53-3160, Revision 03, dated January 6, 2012. Delta 
+explained that the modification specified in Airbus Service Bulletin 
+A330-53-3160, Revision 03, dated January 6, 2012, requires removal of 
+the vertical stabilizer and the aft galley, which can heavily impact 
+the operation. Delta reasoned that it has consulted with its 
+maintenance organization and it is estimated to take 400 work-hours 
+instead of 208 work-hours.
+    We disagree with the request to revise this AD. We made the cost 
+estimate based on the information provided in Airbus Service Bulletin 
+A330-53-3160, Revision 03, dated January 6, 2012. The required work-
+hours defined in Airbus Service Bulletin A330-53-3160, Revision 03, 
+dated January 6, 2012, are based on the direct labor cost to do the 
+work. The need to remove and reinstall the aft galley depends on the 
+airplane interior configuration and may differ from operator to 
+operator. We are unable to determine all possible interior 
+configurations and thus determine the maximum work-hours which may be 
+required for any specific configuration. This estimate assumes that the 
+work will be done by experienced personnel, and may need to be revised 
+upwards to suit an operator's circumstances. The estimate does not 
+include the time to prepare, plan, or inspect the work. We have made no 
+changes to this AD in this regard.
+
+Conclusion
+
+    We reviewed the available data and determined that air safety and 
+the public interest require adopting this AD as proposed except for 
+minor editorial changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (80 FR 13799, March 17, 2015) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (80 FR 13799, March 17, 2015).
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information.
+    <bullet> Airbus Service Bulletin A330-53-3159, Revision 02, dated 
+March 29, 2010, describes procedures for a modification of the 
+fuselage, which includes inspections (e.g., eddy current rotating probe 
+test of fastener holes for cracking, high frequency eddy current (HFEC) 
+inspections for cracking of the upper shell structure of the fuselage, 
+and checks of the fastener position for clearance) and applicable 
+corrective actions (e.g., repair and rework).
+    <bullet> Airbus Service Bulletin A330-53-3160, Revision 03, dated 
+January 6, 2012, describes procedures for applicable actions, including 
+an eddy current rotating probe test for cracking of the fastener holes 
+and an HFEC inspection for cracks in the upper shell
+
+[[Page 73094]]
+
+of the fuselage (and including checks of the fastener position for 
+clearance and applicable corrective actions (e.g., repair and rework)), 
+and a modification of the airplane upper shell structure of the 
+fuselage between FR80 and FR86.
+    <bullet> Airbus Service Bulletin A330-53-3168, Revision 02, dated 
+December 21, 2011, describes procedures for a HFEC inspection for 
+cracking of the upper shell structure of the fuselage between FR80 and 
+FR86.
+    <bullet> Airbus Service Bulletin A340-53-4165, Revision 02, dated 
+March 29, 2010, describes procedures for a modification of the 
+fuselage, which includes inspections (e.g., eddy current rotating probe 
+test of fastener holes for cracking, HFEC inspections for cracking of 
+the upper shell structure of the fuselage, and checks of the fastener 
+position for clearance) and applicable corrective actions (e.g., repair 
+and rework).
+    <bullet> Airbus Service Bulletin A340-53-4172, Revision 01, dated 
+July 8, 2009, describes procedures for inspections (e.g., rototest 
+inspections of fastener holes for cracking, HFEC inspections for 
+cracking of the upper shell structure of the fuselage, and checks of 
+the fastener position for clearance) and modification of the airplane 
+upper shell structure between FR80 and FR86 (including applicable 
+corrective actions (e.g., repair and rework).
+    <bullet> Airbus Service Bulletin A340-53-4174, Revision 02, dated 
+December 21, 2011, describes procedures for a HFEC inspection for 
+cracking of the upper shell structure of the fuselage between FR80 and 
+FR86.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section of this 
+AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 26 airplanes of U.S. registry. We 
+also estimate that it will take about 208 work-hours per product to 
+comply with the basic requirements (inspection and modification) of 
+this AD. The average labor rate is $85 per work-hour. Required parts 
+will cost about $28,360 per product. Based on these figures, we 
+estimate the cost of this AD on U.S. operators to be $1,197,040, or 
+$46,040 per product.
+    We have received no definitive data that will enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;D=FAA-2015-0490; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2008-22-20, Amendment 39-15717 (73 FR 66747, November 12, 2008), and 
+adding the following new AD:
+
+2015-23-06 Airbus: Amendment 39-18322. Docket No. FAA-2015-0490; 
+Directorate Identifier 2014-NM-018-AD.
+
+(a) Effective Date
+
+    This AD becomes effective December 29, 2015.
+
+(b) Affected ADs
+
+    This AD replaces AD 2008-22-20, Amendment 39-15717 (73 FR 66747, 
+November 12, 2008).
+
+(c) Applicability
+
+    This AD applies to Airbus Model A330-201, -202, -203, -223, -
+243, -301, -302, -303, -321, -322, -323, -341, -342, and -343 
+airplanes; and Model A340-311, -312, and -313 airplanes; 
+certificated in any category; all manufacturer serial numbers on 
+which Airbus Modification 44205 has been embodied in production, 
+except those on which Airbus Modification 52974 or 53223 has been 
+embodied in production.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by the results of a fatigue and damage 
+tolerance evaluation that concluded existing compliance times must 
+be reduced. We are issuing this AD to prevent fatigue cracking of 
+the upper shell structure of the fuselage, which could result in 
+reduced structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+[[Page 73095]]
+
+(g) Inspection for Airbus Model A330-300 and A340-300 Airplanes, Except 
+Model A340-300 Weight Variant (WV) 027 Airplanes
+
+    For Model A330-300 and A340-300 airplanes, except Model A340-300 
+WV 027 airplanes: At the applicable time specified in paragraph 
+(g)(1) or (g)(2) of this AD, do a high frequency eddy current (HFEC) 
+inspection for cracking of the upper shell structure between frame 
+(FR) 80 and FR86, in accordance with the Accomplishment Instructions 
+of Airbus Service Bulletin A330-53-3168, Revision 02, dated December 
+21, 2011; or Airbus Service Bulletin A340-53-4174, Revision 02, 
+dated December 21, 2011; as applicable. Repeat the inspection 
+thereafter at the applicable time specified in paragraph 1.E., 
+``COMPLIANCE,'' of Airbus Service Bulletin A330-53-3168, Revision 
+02, dated December 21, 2011; or Airbus Service Bulletin A340-53-
+4174, Revision 02, dated December 21, 2011; as applicable.
+    (1) For airplanes that, as of the effective date of this AD, 
+have not been inspected in accordance with Airbus Service Bulletin 
+A330-53-3168; or Airbus Service Bulletin A340-53-4174; as 
+applicable: Inspect at the later of the times specified in 
+paragraphs (g)(1)(i) and (g)(1)(ii) of this AD.
+    (i) Before reaching the applicable threshold specified in 
+paragraph 1.E., ``COMPLIANCE,'' of Airbus Service Bulletin A330-53-
+3168, Revision 02, dated December 21, 2011; or Airbus Service 
+Bulletin A340-53-4174, Revision 02, dated December 21, 2011; as 
+applicable for airplane model, configuration, and utilization, since 
+the airplane's first flight.
+    (ii) Within the threshold defined in paragraph 1.E, 
+``COMPLIANCE,'' of Airbus Service Bulletin A330-53-3168, Revision 
+01, dated February 15, 2008; or Airbus Service Bulletin A340-53-
+4174, Revision 01, dated February 15, 2008; as applicable for 
+airplane model, configuration, and utilization since the airplane's 
+first flight; or within 12 months after the effective date of this 
+AD; whichever occurs first.
+    (2) For airplanes that, as of the effective date of this AD, 
+have been inspected in accordance with Airbus Service Bulletin A330-
+53-3168; or Airbus Service Bulletin A340-53-4174; as applicable: 
+Inspect at the later of the times specified in paragraphs (g)(2)(i) 
+and (g)(2)(ii) of this AD.
+    (i) Within the applicable interval specified in paragraph 1.E., 
+``COMPLIANCE,'' of Airbus Service Bulletin A330-53-3168, Revision 
+02, dated December 21, 2011; or Airbus Service Bulletin A340-53-
+4174, Revision 02, dated December 21, 2011; as applicable; to be 
+counted from the last inspection.
+    (ii) Within 12 months after the effective date of this AD 
+without exceeding the intervals defined in paragraph 1.E, 
+``COMPLIANCE,'' of Airbus Service Bulletin A330-53-3168, Revision 
+01, dated February 15, 2008; or Airbus Service Bulletin A340-53-
+4174, Revision 01, dated February 15, 2008; as applicable for 
+airplane model, configuration, and utilization to be counted from 
+the last inspection.
+
+(h) Corrective Action for Airbus Model A330-300 and A340-300 Airplanes, 
+Except Model A340-300 WV 027 Airplanes
+
+    If any crack is detected during any HFEC inspection required by 
+the introductory text to paragraph (g) of this AD: Before further 
+flight, repair using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). Accomplishment of a repair for a 
+specific area, as required by this paragraph, is terminating action 
+for the repetitive HFEC inspections required by the introductory 
+text to paragraph (g) of this AD, as applicable, for that specific 
+repaired area only. The need and definition of subsequent repetitive 
+inspections (if any) for that specific repaired area will be defined 
+in the applicable repair method approved by the Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA; 
+or the European Aviation Safety Agency (EASA) or Airbus's EASA 
+Design Organization Approval (DOA).
+
+(i) Optional Terminating Action
+
+    For Airbus Model A330-300 and A340-300 airplanes, except Model 
+A340-300 WV 027 airplanes: Modification, which includes inspections 
+and applicable corrective actions, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A330-53-3159, 
+Revision 02, dated March 29, 2010; or Airbus Service Bulletin A340-
+53-4165, Revision 02, dated March 29, 2010; as applicable; 
+terminates the repetitive HFEC inspections required by the 
+introductory text to paragraph (g) of this AD, except where Airbus 
+Service Bulletin A330-53-3159, Revision 02, dated March 29, 2010; or 
+Airbus Service Bulletin A340-53-4165, Revision 02, dated March 29, 
+2010; as applicable; specifies to contact the manufacturer, repair 
+using a method approved by the Manager, International Branch, ANM-
+116, Transport Airplane Directorate, FAA; or EASA; or Airbus's EASA 
+DOA.
+
+(j) Inspection and Modification for Airbus Model A330-200 Airplanes
+
+    Within the compliance times specified in paragraph (j)(1) or 
+(j)(2) of this AD, whichever occurs later: Do all applicable 
+actions, including an eddy current rotating probe test and an HFEC 
+inspection for cracks, and modify the airplane upper shell structure 
+between FR80 and FR86; in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A330-53-3160, Revision 03, 
+dated January 6, 2012.
+    (1) Within the compliance times identified in paragraph 1.E., 
+``COMPLIANCE,'' of Airbus Service Bulletin A330-53-3160, Revision 
+03, dated January 6, 2012, as applicable for airplane configuration 
+and utilization since the airplane's first flight.
+    (2) Within 12 months after the effective date of this AD without 
+exceeding the threshold defined in paragraph 1.E, ``COMPLIANCE,'' of 
+Airbus Service Bulletin A330-53-3160, Revision 02, dated March 29, 
+2010, since the airplane's first flight.
+
+(k) Inspection and Modification for Airbus Model A340-300 Airplanes, 
+Only WV 027
+
+    For Model A340-300 airplanes, WV 027 only: Before the 
+accumulation of 14,200 total flight cycles from the airplane's first 
+flight, do all applicable inspections and modify the airplane upper 
+shell structure between FR80 and FR86; in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A340-53-4172, 
+Revision 01, dated July 8, 2009.
+
+(l) Corrective Action for Airbus Model A330-200 Airplanes; and Model 
+A340-300 Airplanes, only WV 027
+
+    If any crack is detected during the inspection required by the 
+introductory text to paragraph (j) of this AD, or paragraph (k) of 
+this AD, before further flight, repair using a method approved by 
+the Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA; or EASA; or Airbus's EASA DOA; concurrently with 
+modification required by paragraph the introductory text to 
+paragraph (j) of this AD, or paragraph (k) of this AD.
+
+(m) Definition of ``Threshold'' and ``Interval''
+
+    (1) For the purposes of this AD, the term ``Threshold,'' as used 
+in paragraph 1.E., ``COMPLIANCE,'' of the service information 
+specified in paragraphs (m)(2)(i) through (m)(2)(vi) of this AD 
+means the total flight cycles or flight hours accumulated since the 
+airplane's first flight.
+    (2) For the purposes of this AD, the term ``Interval'' as used 
+in paragraph 1.E., ``COMPLIANCE,'' of the service information 
+specified in paragraphs (m)(2)(i) through (m)(2)(vi) of this AD 
+means the total flight cycles or flight hours accumulated since the 
+last inspection, as applicable.
+    (i) Airbus Service Bulletin A330-53-3168, dated September 19, 
+2007.
+    (ii) Airbus Service Bulletin A330-53-3168, Revision 01, dated 
+February 15, 2008.
+    (iii) Airbus Service Bulletin A330-53-3168, Revision 02, dated 
+December 21, 2011.
+    (iv) Airbus Service Bulletin A340-53-4174, dated September 19, 
+2007.
+    (v) Airbus Service Bulletin A340-53-4174, Revision 01, dated 
+February 15, 2008.
+    (vi) Airbus Service Bulletin A340-53-4174, Revision 02, dated 
+December 21, 2011.
+
+(n) Credit for Previous Actions
+
+    (1) For Model A330-300 and A340-300 airplanes, except Model 
+A340-300 WV 027 airplanes: This paragraph provides credit for the 
+modification specified in paragraph (i) of this AD, if those actions 
+were performed before the effective date of this AD using the 
+service information identified in paragraph (n)(1)(i), (n)(1)(ii), 
+(n)(1)(iii), or (n)(1)(iv) of this AD, as applicable. This service 
+information is not incorporated by reference in this AD.
+    (i) Airbus Service Bulletin A330-53-3159, dated September 19, 
+2007.
+    (ii) Airbus Service Bulletin A330-53-3159, Revision 01, dated 
+June 15, 2009.
+    (iii) Airbus Service Bulletin A340-53-4165, dated September 19, 
+2007.
+    (iv) Airbus Service Bulletin A340-53-4165, Revision 01, dated 
+June 17, 2009.
+    (2) For Model A330-200 airplanes: This paragraph provides credit 
+for the inspection
+
+[[Page 73096]]
+
+and modification required by the introductory text to paragraph (j) 
+of this AD, if those actions were performed before the effective 
+date of this AD using the service information identified in 
+paragraph (n)(2)(i), (n)(2)(ii), or (n)(2)(iii) of this AD, as 
+applicable.
+    (i) Airbus Service Bulletin A330-53-3160, dated July 9, 2007, 
+which was incorporated by reference in AD 2008-22-20, Amendment 39-
+15717 (73 FR 66747, November 12, 2008).
+    (ii) Airbus Service Bulletin A330-53-3160, Revision 01, dated 
+April 28, 2009, which is not incorporated by reference in this AD.
+    (iii) Airbus Service Bulletin A330-53-3160, Revision 02, dated 
+March 29, 2010, which is not incorporated by reference in this AD.
+    (3) For Model A340-300 airplanes, WV 027 only: This paragraph 
+provides credit for the inspection and modification required by 
+paragraph (k) of this AD, if those actions were performed before the 
+effective date of this AD using Airbus Service Bulletin A340-53-
+4172, dated July 10, 2007, which is was incorporated by reference in 
+AD 2008-22-20, Amendment 39-15717 (73 FR 66747, November 12, 2008).
+
+(o) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: <a href="/cdn-cgi/l/email-protection#d0e9fd919e9dfde1e1e6fd919d9f93fd829581859583848390b6b1b1feb7bfa6"><span class="__cf_email__" data-cfemail="ebd2c6aaa5a6c6dadaddc6aaa6a4a8c6b9aebabeaeb8bfb8ab8d8a8ac58c849d">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or the EASA; or Airbus's EASA DOA. If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+
+(p) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2014-0012R1, dated January 24, 
+2014, for related information. This MCAI may be found in the AD 
+docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching 
+for and locating Docket No. FAA-2015-0490.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (q)(3) and (q)(4) of this AD.
+
+(q) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+December 29, 2015.
+    (i) Airbus Service Bulletin A330-53-3159, Revision 02, dated 
+March 29, 2010.
+    (ii) Airbus Service Bulletin A330-53-3160, Revision 03, dated 
+January 6, 2012.
+    (iii) Airbus Service Bulletin A330-53-3168, Revision 02, dated 
+December 21, 2011.
+    (iv) Airbus Service Bulletin A340-53-4165, Revision 02, dated 
+March 29, 2010.
+    (v) Airbus Service Bulletin A340-53-4172, Revision 01, dated 
+July 8, 2009.
+    (vi) Airbus Service Bulletin A340-53-4174, Revision 02, dated 
+December 21, 2011.
+    (4) The following service information was approved for IBR on 
+December 17, 2008 (73 FR 66747, November 12, 2008).
+    (i) Airbus Service Bulletin A330-53-3168, Revision 01, dated 
+February 15, 2008.
+    (ii) Airbus Service Bulletin A340-53-4174, Revision 01, dated 
+February 15, 2008.
+    (5) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email <a href="/cdn-cgi/l/email-protection#e1808893968e939589888f849292cfa0d2d2d1cca0d2d5d1a1808893839492cf828e8c"><span class="__cf_email__" data-cfemail="b4d5ddc6c3dbc6c0dcdddad1c7c79af587878499f5878084f4d5ddc6d6c1c79ad7dbd9">[email&#160;protected]</span></a>; 
+Internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on October 30, 2015.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-28886 Filed 11-23-15; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

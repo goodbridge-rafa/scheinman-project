@@ -1,0 +1,453 @@
+<html>
+<head>
+<title>Federal Register, Volume 78 Issue 208 (Monday, October 28, 2013)</title>
+</head>
+<body><pre>
+[Federal Register Volume 78, Number 208 (Monday, October 28, 2013)]
+[Rules and Regulations]
+[Pages 64159-64162]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2013-25295]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0539; Directorate Identifier 2012-NM-145-AD; 
+Amendment 39-17616; AD 2013-20-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding airworthiness directive (AD) 2000-12-11, 
+for certain Model A300 B4-600 and Model A300 B4-600R series airplanes. 
+AD 2000-12-11 required repetitive inspections to detect cracks in the 
+bolt holes inboard and outboard of rib 9 on the bottom booms of the 
+front and rear wing spars, and repair if necessary. This new AD reduces 
+the initial inspection compliance time and repetitive inspection 
+interval. This AD was prompted by a fleet survey and an updated fatigue 
+and damage tolerance analysis indicating a high risk for fatigue 
+cracking on the front and rear spar bottom booms. We are issuing this 
+AD to detect and correct fatigue cracks in the bolt holes of the wing 
+spars, which could result in reduced structural integrity of a wing 
+spar.
+
+DATES: This AD becomes effective December 2, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of December 2, 
+2013.
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;D=FAA-2013-0539; or in person at the 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC.
+    For service information identified in this AD, contact Airbus SAS--
+EAW (Airworthiness Office), 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email <a href="/cdn-cgi/l/email-protection#c6a7a5a5a9b3a8b2e8a7afb4b1a9b4b2aeeba3a7b586a7afb4a4b3b5e8a5a9ab"><span class="__cf_email__" data-cfemail="a9c8cacac6dcc7dd87c8c0dbdec6dbddc184ccc8dae9c8c0dbcbdcda87cac6c4">[email&#160;protected]</span></a>; Internet <a href="http://www.airbus.com">http://www.airbus.com</a>. You may view this service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 425-
+227-1221.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; phone: (425) 227-2125; 
+fax: (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+The NPRM published in the Federal Register on July 3, 2013 (78 FR 
+40069), and proposed to supersede AD 2000-12-11, Amendment 39-11789 (65 
+FR 37853, June 19, 2000). The NPRM proposed to correct an unsafe 
+condition for the specified products.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+Airworthiness Directive 2012-0138, dated July 26, 2012 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for the specified 
+products. The MCAI states:
+
+    Full fatigue tests carried out by the manufacturer revealed 
+crack initiation from the bolts holes at inboard and outboard of rib 
+9, on the front and rear spar bottom booms. Similar cracks at the 
+same area were reported by A300-600 aeroplane operators.
+    This condition, if not detected and corrected, could affect the 
+structural integrity of the aeroplane.
+    To address this unsafe condition, [Direction 
+G[eacute]n[eacute]rale de l'Aviation Civile] DGAC France issued AD 
+94-208-169(B)R2 (<a href="http://ad.easa.europa.eu/blob/19942082tb_superseded.pdf/AD_F-1994-208-169R2_2">http://ad.easa.europa.eu/blob/19942082tb_superseded.pdf/AD_F-1994-208-169R2_2</a>) [which corresponds to FAA AD 
+95-07-05, Amendment 39-9187 (60 FR 17990, April 10, 1995)] to 
+require an ultrasonic inspection of holes inboard and outboard of 
+rib 9 on the front and rear spar bottom booms on Left Hand and Right 
+Hand wings.
+    Since that [DGAC] AD was issued, a fleet survey and updated 
+Fatigue and Damage
+
+[[Page 64160]]
+
+Tolerance analysis have been performed in order to substantiate the 
+second A300-600 Extended Service Goal (ESG2) exercise. The results 
+of these analyses have shown that the risk for these aeroplanes is 
+higher than initially determined and that, consequently, the 
+inspection threshold and interval must be reduced to allow timely 
+detection of cracks and the accomplishment of an applicable 
+corrective action [and related investigative action].
+    For the reasons explained above, this new [EASA] AD retains the 
+requirements of DGAC France AD 94-208-169(B)R2, which is superseded, 
+and requires the accomplishment instructions within the new 
+thresholds and intervals specified in Revision 04 of Airbus 
+Mandatory Service Bulletin (SB) A300-57-6037 [dated February 24, 
+2011].
+
+The related investigative action includes doing inspections for 
+cracking. The corrective actions include oversizing holes and 
+installing new fasteners, and for certain conditions, contacting the 
+FAA or EASA (or its delegated agent) for instructions. You may examine 
+the MCAI in the AD docket on the Internet at <a href="http://www.regulations.gov/#!documentDetail">http://www.regulations.gov/#!documentDetail</a>;D=FAA-2013-0539-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We received no comments on the NPRM (78 FR 40069, July 3, 
+2013) or on the determination of the cost to the public.
+
+Conclusion
+
+    We reviewed the available data and determined that air safety and 
+the public interest require adopting this AD as proposed--except for 
+minor editorial changes and re-formatting of the estimates cost data. 
+The estimated cost data has not been changed. We have determined that 
+these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (78 FR 40069, July 3, 2013) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 40069, July 3, 2013).
+
+Costs of Compliance
+
+    We estimate that this AD affects 29 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                    Labor cost         Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection [new action].........  18 work-hours x $85              $0   $1,530 [per          $44,370 [per
+                                   per hour = $1,530                     inspection cycle].   inspection cycle].
+                                   [per inspection
+                                   cycle].
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition work-hours specified in this AD. 
+The on-condition parts cost estimate is $2,874.
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;D=FAA-2013-0539; or in person at the 
+Docket Operations office between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+MCAI, the regulatory evaluation, any comments received, and other 
+information. The street address for the Docket Operations office 
+(telephone (800) 647-5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2000-12-11, Amendment 39-11789 (65 FR 37853, June 19, 2000), and adding 
+the following new AD:
+
+2013-20-10 Airbus: Amendment 39-17616. Docket No. FAA-2013-0539; 
+Directorate Identifier 2012-NM-145-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) becomes effective December 2, 
+2013.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2000-12-11, Amendment 39-11789 (65 FR 
+37853, June 19, 2000).
+
+[[Page 64161]]
+
+(c) Applicability
+
+    This AD applies to Airbus Model A300 B4-601, B4-603, B4-620, B4-
+622, B4-605R, and B4-622R airplanes; certificated in any category; 
+all manufacturer serial numbers, except airplanes on which Airbus 
+Modification 10161 has been incorporated in production.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Reason
+
+    This AD was prompted by a fleet survey and an updated fatigue 
+and damage tolerance analysis indicating a high risk for fatigue 
+cracking on the front and rear spar bottom booms. We are issuing 
+this AD to detect and correct fatigue cracks in the bolt holes of 
+the wing spars, which could result in reduced structural integrity 
+of a wing spar.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+(g) Repetitive Inspections
+
+    At the applicable time specified in paragraph (g)(1) or (g)(2) 
+of this AD: Perform an ultrasonic inspection to detect fatigue 
+cracking of the bolt holes inboard and outboard of rib 9 on the 
+bottom booms of the front and rear wing spars, in accordance with 
+the Accomplishment Instruction of Airbus Mandatory Service Bulletin 
+A300-57-6037, Revision 04, dated February 24, 2011, except as 
+specified in paragraph (k) of this AD. Repeat the inspection 
+thereafter at intervals not to exceed the applicable time specified 
+in paragraph (h) of this AD.
+    (1) For normal range airplanes, at the later of the times in 
+paragraphs (g)(1)(i) and (g)(1)(ii) of this AD.
+    (i) Within 14,100 flight cycles or 30,400 flight hours since 
+airplane first flight or within 14,100 flight cycles or 30,400 
+flight hours since airplane modification done as specified in the 
+Accomplishment Instructions of Airbus Service Bulletin A300-57-6039 
+(which is not incorporated by reference in this AD), whichever 
+occurs first.
+    (ii) Within 1,600 flight cycles or 3,400 flight hours, whichever 
+occurs first after the effective date of this AD.
+    (2) For short range airplanes, at the later of the times in 
+paragraphs (g)(2)(i) and (g)(2)(ii) of this AD.
+    (i) Within 15,200 flight cycles or 22,800 flight hours since 
+airplane first flight, or since airplane modification done as 
+specified in the Accomplishment Instructions of Airbus Service 
+Bulletin A300-57-6039 (which is not incorporated by reference in 
+this AD), whichever occurs first.
+    (ii) Within 1,700 flight cycles or 2,500 flight hours, whichever 
+occurs first after the effective date of this AD.
+
+(h) Repetitive Inspection Compliance Times
+
+    At the applicable time specified in paragraph (h)(1) or (h)(2) 
+of this AD, repeat the inspection required by paragraph (g) of this 
+AD.
+    (1) For normal range airplanes: Repeat the inspection thereafter 
+at intervals not to exceed 3,900 flight cycles or 8,400 flight 
+hours, whichever occurs first.
+    (2) For short range airplanes: Repeat the inspection thereafter 
+at intervals not to exceed 4,200 flight cycles or 6,300 flight 
+hours, whichever occurs first.
+
+(i) Corrective Action for Cracking
+
+    If any crack is found during any inspection required by 
+paragraph (g) of this AD: Before further flight, repair the cracking 
+including applicable related investigative and corrective actions, 
+in accordance with the Accomplishment Instructions of Airbus 
+Mandatory Service Bulletin A300-57-6037, Revision 04, dated February 
+24, 2011, except as specified in paragraph (k) of this AD. Do 
+related investigative and corrective actions before further flight. 
+Thereafter, repeat the inspection required by paragraph (g) of this 
+AD at intervals not to exceed the applicable time specified in 
+paragraph (h) of this AD. Corrective actions required by this 
+paragraph do not constitute terminating action for the repetitive 
+inspections required by paragraph (h) of this AD.
+
+(j) Definition of Short Range and Long Range Airplanes
+
+    For purposes of this AD, short range airplanes are those with an 
+average flight time lower than 1.5 flight hours, and normal range 
+airplanes are those with an average flight time equal to or higher 
+than 1.5 flight hours.
+
+(k) Exception to Service Information
+
+    Where the Accomplishment Instructions of Airbus Mandatory 
+Service Bulletin A300-57-6037, Revision 04, dated February 24, 2011, 
+specify contacting Airbus for an approved repair: Before further 
+flight, contact either the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, or the European Aviation Safety 
+Agency (EASA) (or its delegated agent), for instructions and do 
+those instructions.
+
+(l) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (g) and (h) of this AD, if those actions were performed 
+before the effective date of this AD using any of the service 
+bulletins specified in paragraphs (l)(1) through (l)(4) of this AD.
+    (1) Airbus Mandatory Service Bulletin A300-57-6037, dated August 
+1, 1994, which was incorporated by reference in AD 2000-12-11, 
+Amendment 39-11789 (65 FR 37853, June 19, 2000).
+    (2) Airbus Mandatory Service Bulletin A300-57-6037, Revision 01, 
+dated August 31, 1995, which was incorporated by reference in AD 
+2000-12-11, Amendment 39-11789 (65 FR 37853, June 19, 2000).
+    (3) Airbus Mandatory Service Bulletin A300-57-6037, Revision 02, 
+dated January 9, 2001, which is not incorporated by reference in 
+this AD.
+    (4) Airbus Mandatory Service Bulletin A300-57-6037, Revision 03, 
+dated January 11, 2002, which is not incorporated by reference in 
+this AD.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Dan Rodina, 
+Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; phone: (425) 227-2125; fax: (425) 227-1149. Information may be 
+emailed to: <a href="/cdn-cgi/l/email-protection#675e4a26292a4a5656514a262a28244a35223632223433342701060649000811"><span class="__cf_email__" data-cfemail="6f56422e2122425e5e59422e22202c423d2a3e3a2a3c3b3c2f090e0e41080019">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to assure the product 
+is airworthy before it is returned to service.
+    (3) AMOCs Approved Previously: AMOCs approved previously in 
+accordance with AD 2000-12-11, Amendment 39-11789 (65 FR 37853, June 
+19, 2000), are approved as AMOCs for the corresponding provisions of 
+this AD.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information EASA 
+Airworthiness Directive 2012-0138, dated July 26, 2012, for related 
+information. You may examine the MCAI in the AD docket on the 
+Internet at <a href="http://www.regulations.gov/#!documentDetail">http://www.regulations.gov/#!documentDetail</a>;D=FAA-2013-
+0539-0002.
+    (2) Service information identified in this AD that is not 
+incorporated by reference may be obtained at the addresses specified 
+in paragraphs (o)(4) and (o)(5) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+December 2, 2013.
+    (i) Airbus Mandatory Service Bulletin A300-57-6037, Revision 04, 
+dated February 24, 2011.
+    (ii) Reserved.
+    (4) For service information identified in this AD, contact 
+Airbus SAS--EAW (Airworthiness Office), 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61
+
+[[Page 64162]]
+
+93 44 51; email <a href="/cdn-cgi/l/email-protection#d5b4b6b6baa0bba1fbb4bca7a2baa7a1bdf8b0b4a695b4bca7b7a0a6fbb6bab8"><span class="__cf_email__" data-cfemail="38595b5b574d564c1659514a4f574a4c50155d594b7859514a5a4d4b165b5755">[email&#160;protected]</span></a>; Internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (5) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+
+    Issued in Renton, Washington, on September 18, 2013.
+Ross Landes,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-25295 Filed 10-25-13; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

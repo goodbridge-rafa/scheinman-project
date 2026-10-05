@@ -1,0 +1,661 @@
+<html>
+<head>
+<title>Federal Register, Volume 84 Issue 163 (Thursday, August 22, 2019)</title>
+</head>
+<body><pre>
+[Federal Register Volume 84, Number 163 (Thursday, August 22, 2019)]
+[Rules and Regulations]
+[Pages 43681-43686]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2019-18045]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0018; Product Identifier 2018-NM-116-AD; Amendment 
+39-19681; AD 2019-14-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2016-07-
+12, which applied to certain Airbus SAS Model A318, A319, A320, and 
+A321 series airplanes. AD 2016-07-12 required repetitive inspections 
+for damage and cracking of the aft fixed fairing (AFF) of the pylons, 
+and repair if necessary. This AD retains the requirements of AD 2016-
+07-12 and requires additional repetitive inspections at the upper spar 
+at a certain rib area and corrective actions if necessary, as specified 
+in an European Aviation Safety Agency (EASA) AD, which is incorporated 
+by reference. This AD was prompted by reports of cracking of the AFF of 
+the pylons due to fatigue damage of the structure and reports of cracks 
+on a certain rib of a modified AFF of the pylons. The FAA is issuing 
+this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective September 26, 2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of September 26, 
+2019.
+
+ADDRESSES: For the material incorporated by reference (IBR) in this
+
+[[Page 43682]]
+
+AD, contact the EASA, at Konrad-Adenauer-Ufer 3, 50668 Cologne, 
+Germany; telephone +49 221 89990 1000; email <a href="/cdn-cgi/l/email-protection#84c5c0f7c4e1e5f7e5aae1f1f6ebf4e5aae1f1"><span class="__cf_email__" data-cfemail="9ddcd9eeddf8fceefcb3f8e8eff2edfcb3f8e8">[email&#160;protected]</span></a>; 
+internet www.easa.europa.eu. You may find this IBR material on the EASA 
+website at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>. You may view this IBR material at 
+the FAA, Transport Standards Branch, 2200 South 216th St., Des Moines, 
+WA. For information on the availability of this material at the FAA, 
+call 206-231-3195. It is also available in the AD docket on the 
+internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating 
+Docket No. FAA-2019-0018.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2019-
+0018; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3223.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2016-07-12, Amendment 39-18457 (81 FR 
+19482, April 5, 2016) (``AD 2016-07-12''). AD 2016-07-12 applied to 
+certain Airbus SAS Model A318, A319, A320, and A321 series airplanes. 
+The NPRM published in the Federal Register on February 22, 2019 (84 FR 
+5617). The NPRM was prompted by reports of cracking of the AFF of the 
+pylons due to fatigue damage of the structure and reports of cracks on 
+a certain rib of a modified AFF of the pylons. The NPRM proposed to 
+continue to require repetitive inspections for damage and cracking of 
+the AFF of the pylons. The NPRM also proposed to require additional 
+repetitive inspections at the upper spar at a certain rib area and 
+corrective actions if necessary. The FAA is issuing this AD to address 
+damage and cracking of the AFF of the pylons, which could result in 
+detachment of a pylon and consequent reduced structural integrity of 
+the airplane.
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2018-0137R1, dated January 9, 2019 
+(``EASA AD 2018-0137R1'') (also referred to as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for certain Airbus SAS Model A318-111, and -112; Model A319-
+111, -112, -113, -114, and -115; Model A320-211, -212, -214, and -216; 
+and Model A321-111, -112, -211, -212, and -213 airplanes. The MCAI 
+states:
+
+    On aeroplanes equipped with post-mod 33844 CFM pylons, several 
+operators reported finding cracks on the Aft Fixed Fairing (AFF). 
+After material analysis, it appeared that the pylon AFF structure, 
+especially on this configuration, was subject to fatigue-induced 
+damage which could lead to pylon AFF cracks.
+    This condition, if not detected and corrected, could lead to 
+detachment of a pylon AFF from the aeroplane, possibly resulting in 
+injury to persons on the ground.
+    To address this unsafe condition, Airbus published Alert 
+Operators Transmission (AOT) A54N002-12, providing inspection 
+instructions. Thereafter, Airbus issued Service Bulletin (SB) A320-
+54-1027, later revised, superseding AOT A54N002-12. EASA issued AD 
+2014-0154 [which corresponds to FAA AD 2016-07-12] to require 
+repetitive inspections of the pylon AFF and, depending on findings, 
+replacement.
+    After that [EASA] AD was issued, Airbus developed mod 156593 to 
+increase the fatigue life of the pylon AFF structure by using a 
+different material and introducing thermal treatment of the 
+aluminium sheets parts. Prompted by new findings of cracks on rib 
+15, it was determined that this area also needs to be inspected to 
+ensure the structural integrity of the new pylon AFF. Airbus revised 
+SB A320-54-1027, including instructions for repetitive inspection of 
+that area. Repetitive inspections are also required on post-mod 
+156593 aeroplanes.
+    Airbus also developed mod 159806 and 156765, redesigning the 
+corner fittings at the junction upper spar and rib 15, which 
+constitutes terminating action for the repetitive inspections. For 
+retrofit purposes, Airbus issued SB A320-54-1035 and SB A320-54-
+1036, later revised, providing instructions to modify and re-
+identify the pylon AFF, which constitutes terminating action for the 
+repetitive inspections.
+    For the reasons described above, EASA issued AD 2018-0137 [which 
+was referred to as the appropriate source of service information for 
+accomplishing the actions specified in the FAA NPRM], retaining the 
+requirements of EASA AD 2014-0154, which was superseded, and 
+requiring repetitive inspections of the upper spar at rib 15 area 
+and, depending on findings, accomplishment of applicable corrective 
+action(s). This [EASA] AD also included references to optional 
+terminating actions, and provided installation requirements for the 
+new pylon AFF.
+    Since that [EASA] AD was issued, comments and requests for 
+clarification have been received from operators. This [EASA] AD is 
+revised, merging the restatement of requirements of AD 2014-0154 
+with the new requirements.
+
+    You may examine the MCAI in the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2019-
+0018.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Support for the NPRM
+
+    Commenters Delta Air Lines (DAL), Jeff Hymen, and Megan Neeley 
+indicated their support for the NPRM.
+
+Request To Reference the Latest EASA AD
+
+    Alaska Airlines (Alaska) and DAL requested that the FAA refer to 
+EASA AD 2018-0137R1 in lieu of EASA AD 2018-0137, dated July 12, 2018 
+(``EASA AD 2018-0137''). Alaska requested revision of paragraphs (c) 
+and (g) of the proposed AD to cite EASA AD 2018-0137R1.
+    The FAA agrees with the commenters' requests. No additional work is 
+required for airplanes on which the requirements of EASA AD 2018-0137, 
+dated June 28, 2018 (``EASA AD 2018-0137''), have been accomplished. 
+The FAA has revised paragraphs (c) and (g) of this AD to cite EASA AD 
+2018-0137R1 in addition to EASA AD 2018-0137. The FAA has also revised 
+paragraph (h)(1)(i) of this AD to require the use of the effective date 
+of this AD rather than the effective date of EASA 2018-0137 (July 12, 
+2018), as referenced in EASA ADs 2018-0137 and 2018-0137R1, to 
+determine compliance.
+
+Request To Remove Paragraph (h)(4) of the Proposed AD
+
+    DAL requested that paragraph (h)(4) of the proposed AD be removed, 
+which did not allow for the provisions of paragraph (5) of EASA AD 
+2018-0137 (credit for actions done using certain service information). 
+DAL argued that if the provisions of paragraph (5) of EASA AD 2018-
+0137R1 are disallowed, the result would be a requirement that is more 
+restrictive to U.S. operators. DAL further noted that disallowing 
+paragraph (5) of EASA AD 2018-0137R1, which allows credit for initial 
+inspections
+
+[[Page 43683]]
+
+using additional revisions of certain service information, would mean 
+the initial inspections would have to be accomplished faster and may 
+require special scheduled inspections, which often results in utilizing 
+less experienced mechanics. DAL requested that the AD specify which 
+revision of the EASA AD will be allowed. Accordingly, DAL requests 
+that, if this AD is updated to reflect EASA AD 2018-0137R1, that 
+paragraph (h)(4) of this AD be removed.
+    The FAA agrees with the request for the reasons provided. Also note 
+that paragraph (5) of EASA AD 2018-0137R1 adds credit for initial 
+inspections performed in accordance with Airbus Service Bulletin A320-
+54-1027, dated April 10, 2014; and Airbus Service Bulletin A320-54-
+1027, Revision 1, dated January 14, 2015; which were not included in 
+paragraph (5) of EASA AD 2018-0137. Paragraph (h)(4) of the proposed AD 
+is removed and paragraphs (h)(5) and (h)(6) of the proposed AD are 
+redesignated as paragraphs (h)(4) and (h)(5) of this AD to reflect this 
+request.
+
+Request To Allow Re-Installation of an Affected Part Under Certain 
+Circumstances
+
+    DAL requested that the AD allow for the re-installation of an 
+affected AFF if it was removed for reasons other than meeting the 
+requirement of the AD, such as routine maintenance. DAL pointed out 
+that an affected AFF may need to be removed for access to perform 
+either unrelated maintenance or for compliance with certain service 
+information referenced in EASA ADs 2018-0137 and 2018-0137R1. DAL's 
+interpretation of the ``do not install'' language in paragraph (11) of 
+EASA AD 2018-0137 led it to believe that operators would struggle to 
+comply with the instructions as written, and recommended that the FAA 
+adds a statement that would allow the re-installation of an AFF that 
+was removed from the airplane for the purpose of maintenance or 
+inspections.
+    The FAA agrees to clarify. Group 1 airplanes, as specified in EASA 
+ADs 2018-0137 and 2018-0137R1, are those that, as of the effective date 
+of this AD, have an affected AFF installed. The intent of paragraph 
+(11.1) of EASA ADs 2018-0137 and 2018-0137R1 is to prevent an affected 
+AFF from being re-installed on a Group 1 airplane only if the 
+modification specified in paragraph (9) or (10) of EASA AD 2018-0137 or 
+EASA AD 2018-0137R1 has already been accomplished on that airplane. An 
+operator has the full compliance time to accomplish the modification, 
+and, up until the modification is accomplished, an affected AFF may be 
+re-installed for reasons such as routine maintenance.
+    Group 2 airplanes, as specified in EASA ADs 2018-0137 and 2018-
+0137R1, are those airplanes that, as of the effective date of this AD, 
+do not have an affected AFF installed. For Group 2 airplanes, the 
+intent of paragraph (11.2) of EASA ADs 2018-0137 and 2018-0137R1 is to 
+prevent an affected AFF from being installed on an airplane on which an 
+affected AFF was not already installed as of the effective date of this 
+AD. The AD has not been changed in this regard.
+
+Request To Use Later Approved Revisions of Service Information
+
+    DAL pointed out that the reference publications section of EASA ADs 
+2018-0137 and 2018-0137R1 allows the use of later-approved revisions to 
+the specified service information for compliance. DAL requested 
+clarification to determine if this statement is applicable to this AD.
+    The AD does not exclude the ``Ref. Publications'' section of EASA 
+ADs 2018-0137 and 2018-0137R1, so that section is applicable to this 
+AD. The AD has not been changed in this regard.
+
+Request To Add Exceptions for Alternative Methods of Compliance
+
+    DAL requested that the proposed AD be revised to add an exception 
+that allows the use of consumable material list (CML) 10ABE1, ``touch 
+up alodine,'' in addition to CML 10ABC1, ``tank alodine.'' DAL noted 
+that while Airbus commonly specifies tank alodine, DAL prefers to use 
+touch up alodine. DAL explained that they contacted Airbus on this 
+issue and Airbus confirmed that touch up alodine can be used instead of 
+tank alodine for the embodiment of Airbus Service Bulletin A320-54-
+1027; Airbus Service Bulletin A320-54-1035; and Airbus Service Bulletin 
+A320-54-1036.
+    DAL claimed that Airbus Service Bulletin A320-54-1027 and Airbus 
+Service Bulletin A320-54-1035 state that all steps in the Procedure and 
+Test sections are required for compliance (RC). DAL also maintained 
+that some of those steps are corrosion prevention control program 
+(CPCP) controlled tasks. Because corrosion inhibition compound (CIC) is 
+part of CPCP, DAL argued that application of CIC should be managed by 
+each individual operator regardless of the AD requirement. As a result, 
+DAL requested language added to the proposed AD that allows for 
+operators to control the reapplication of CICs as an alternative to the 
+service information specifications.
+    DAL also noted that the ``Preparation'' section of the service 
+information referenced in EASA ADs 2018-0137 and 2018-0137R1 contains 
+references to a certain aircraft maintenance manual (AMM) section for 
+basic aircraft configuration. The basic aircraft configuration of the 
+AMM states that the aircraft is in the ``weight on wheels'' 
+configuration. DAL noted that sometimes their airplanes are on jacks 
+and that having the airplane in a weight on wheels configuration may 
+limit the ability of their maintenance technicians to perform the 
+required actions. DAL requested an exception to the proposed AD that 
+allows for the required actions to be performed with either weight on 
+wheels or while the aircraft is in a jacked configuration.
+    The FAA agrees with the request to add an exception that allows the 
+use of CML 10ABE1, touch up alodine for the reasons provided. This AD 
+has been revised to change the content of paragraph (h)(6) of this AD 
+to state that where any service information referenced in EASA ADs 
+2018-0137 and 2018-0137R1 specifies to use CML material number 10ABC1, 
+this AD allows the use of CML material number 10ABE1 as an additional 
+method of compliance.
+    The FAA disagrees with the request to add language to the proposed 
+AD that allows for operators to control the reapplication of CICs via 
+CPCP because not all U.S. operators have a standardized CPCP. If DAL 
+cannot follow the CIC specified by Airbus in the service information, 
+then they can reference the Airbus CML for an alternative CIC. Airbus's 
+CML document contains a list of the latest consumables and alternatives 
+that can be used. Operators may apply for an alternative method of 
+compliance (AMOC) using the procedures in paragraph (j)(1) of this AD 
+for using alternate consumables allowed in the CML with appropriate 
+substantiations. The AD has not been changed in this regard.
+    The FAA agrees to clarify regarding the request for airplanes in a 
+jacked configuration. The step the commenter referred to says to 
+``refer to'' the AMM. As noted in the service information, when the 
+words ``refer to'' are used and the operator has a FAA accepted 
+alternative procedure, the accepted alternative procedure can be used. 
+Operators therefore have latitude in how to accomplish any work steps 
+that use the term ``refer to.'' This AD has not been changed in this 
+regard.
+
+[[Page 43684]]
+
+Request for Clarification of Repetitive Inspection Intervals
+
+    DAL requested clarification regarding the interval of the 
+repetitive inspection specified in paragraph (3) of EASA ADs 2018-0137 
+and 2018-0137R1. DAL noted that, based on its understanding, the first 
+repetitive inspection interval threshold is not to exceed 10,000 flight 
+cycles or 15,000 flight hours, whichever occurs first. DAL remarked 
+that it appears this threshold is based on the assumption that the 
+initial inspections were done close to the initial threshold of 5,000 
+flight cycles or 7,500 flight hours, whichever occurred first. DAL 
+requested clarification for a scenario in which an operator performed 
+the specified inspection at 1,000 flight cycles or 1,000 flight hours, 
+and asked if the first repetitive inspection interval would still be 
+required before exceeding 10,000 flight cycles or 15,000 flight hours, 
+whichever occurs first. DAL inquired if, in that same scenario, a grace 
+period from the previous inspection would be more appropriate.
+    The FAA agrees to clarify. For the DAL scenario, the repetitive 
+inspection will be due before exceeding 5,000 flight cycles or 7,500 
+flight hours, whichever occurs first since the last inspection. As 
+stated previously, this AD now refers to EASA AD 2018-0137R1, as well 
+as EASA AD 2018-0137. Paragraph (3) of EASA AD 2018-0137R1 has been 
+revised to include multiple compliance times, including a grace period 
+for airplanes on which an inspection has already been accomplished 
+using earlier revisions of the service information or accomplishment of 
+a certain maintenance planning document (MPD) task or a certain AOT. 
+The AD has not been changed in this regard.
+
+Request To Clarify Revision Level for Optional Terminating Modification
+
+    DAL noted that paragraph (9) of EASA ADs 2018-0137 and 2018-0137R1 
+reference service information without a revision level. DAL inquired if 
+the intent of the reference is to use only the original issue of the 
+service information, or if any revision level is acceptable for 
+compliance.
+    The FAA agrees to clarify. Operators may use any approved revision 
+of the service information to perform the optional terminating 
+modification, so long as the modification meets the provisions of 
+paragraph (9) of EASA ADs 2018-0137 and 2018-0137R1.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the changes described previously 
+and minor editorial changes. The FAA determined that these minor 
+changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    The FAA also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related IBR Material Under 1 CFR Part 51
+
+    EASA AD 2018-0137 and EASA AD 2018-0137R1 describe procedures for 
+repetitive inspections for pre- and post-Airbus SAS modification 156593 
+airplanes, corrective actions, and optional terminating actions for the 
+repetitive inspections. Corrective actions include modifications and 
+repair. These documents are distinct since EASA AD 2018-0137R1 omits 
+certain language, provides credit for additional service information, 
+and clarifies certain compliance times. This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 205 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD 2016-07-  4 work-hours x $85               $0  $340...............  $69,700.
+ 12.                                per hour = $340.
+New proposed actions.............  Up to 21 work-hours               0  Up to $1,785.......  Up to $365,925.
+                                    x $85 per hour =
+                                    Up to $1,785.
+----------------------------------------------------------------------------------------------------------------
+
+
+                  Estimated Costs for Optional Actions
+------------------------------------------------------------------------
+          Labor cost                Parts cost       Cost  per product
+------------------------------------------------------------------------
+Up to 70 work-hours x $85 per   Up to $32,800....  Up to $38,750.
+ hour = Up to $5,950.
+------------------------------------------------------------------------
+
+    The FAA has received no definitive data that would enable the 
+agency to provide cost estimates for the on-condition actions specified 
+in this AD.
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. The FAA does not control warranty coverage for 
+affected individuals. As a result, the FAA has included all known costs 
+in our cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service,
+
+[[Page 43685]]
+
+as authorized by FAA Order 8000.51C. In accordance with that order, 
+issuance of ADs is normally a function of the Compliance and 
+Airworthiness Division, but during this transition period, the 
+Executive Director has delegated the authority to issue ADs applicable 
+to transport category airplanes and associated appliances to the 
+Director of the System Oversight Division.
+
+Regulatory Findings
+
+    The FAA determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2016-07-12, Amendment 39-18457 (81 FR 19482, April 5, 2016), and adding 
+the following new AD:
+
+2019-14-03 Airbus SAS: Amendment 39-19681; Docket No. FAA-2019-0018; 
+Product Identifier 2018-NM-116-AD.
+
+(a) Effective Date
+
+    This AD is effective September 26, 2019.
+
+(b) Affected ADs
+
+    This AD replaces AD 2016-07-12, Amendment 39-18457 (81 FR 19482, 
+April 5, 2016) (``AD 2016-07-12'').
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A318-111, -112; Model A319-
+111, -112, -113, -114, -115; Model A320-211, -212, -214, -216; and 
+Model A321-111, -112, -211, -212, -213 airplanes, certificated in 
+any category, as identified in European Aviation Safety Agency 
+(EASA) AD 2018-0137R1, dated January 9, 2019 (``EASA AD 2018-
+0137R1'').
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 54, Nacelles/
+pylons.
+
+(e) Reason
+
+    This AD was prompted by reports of cracking of the aft fixed 
+fairing (AFF) of the pylons due to fatigue damage of the structure 
+and reports of cracks on a certain rib of a modified AFF of the 
+pylons. The FAA is issuing this AD to address damage and cracking of 
+the AFF of the pylons, which could result in detachment of a pylon 
+and consequent reduced structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2018-0137, dated June 28, 2018 (``EASA AD 
+2018-0137''); or EASA AD 2018-0137R1.
+
+(h) Exceptions to EASA ADs 2018-0137 and 2018-0137R1
+
+    (1) For purposes of determining compliance with the requirements 
+of this AD, use the following paragraphs.
+    (i) Where EASA ADs 2018-0137 and 2018-0137R1 refer to the 
+effective date of EASA AD 2018-0137 (July 12, 2018), this AD 
+requires using the effective date of this AD.
+    (ii) Where EASA AD 2018-0137 refers to a compliance time of 
+after July 16, 2014, this AD requires using May 10, 2016 (the 
+effective date of AD 2016-07-12).
+    (2) The ``Remarks'' section of EASA ADs 2018-0137 and 2018-
+0137R1 do not apply.
+    (3) Where paragraph (3) of EASA ADs 2018-0137 and 2018-0137R1 
+requires that airplanes that have embodied Airbus modification 
+156593 accomplish the initial inspection of the AFF of the pylons 
+before exceeding 10,000 flight cycles or 15,000 flight hours, 
+whichever occurs first since airplane first flight, this AD requires 
+inspection of those airplanes before exceeding 10,000 flight cycles 
+or 15,000 flight hours since embodiment of Airbus modification 
+156593, whichever occurs first.
+    (4) Where paragraph (6) of EASA AD 2018-0137 gives credit for 
+``the initial requirements of paragraph (4)'' of EASA AD 2018-0137, 
+this AD gives credit for ``the requirements of paragraph (4)'' of 
+EASA AD 2018-0137.
+    (5) Where EASA ADs 2018-0137 and 2018-0137R1 require any 
+approval from EASA or Airbus SAS's Design Organization Approval 
+(DOA), this AD requires approval by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (6) Where any service information referenced in EASA ADs 2018-
+0137 and 2018-0137R1 specifies to use consumable material list (CML) 
+material number 10ABC1, this AD allows the use of CML material 
+number 10ABE1 as an additional method of compliance.
+
+(i) No Reporting Requirement
+
+    Although the service information referenced in EASA ADs 2018-
+0137 and 2018-0137R1 specifies to submit certain information to the 
+manufacturer, this AD does not include that requirement.
+
+(j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (k) of this AD. Information may 
+be emailed to: <a href="/cdn-cgi/l/email-protection#1d24305c5350302c2c2b305c50525e304f584c48584e494e5d7b7c7c337a726b"><span class="__cf_email__" data-cfemail="744d59353a39594545425935393b37592631252131272027341215155a131b02">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA AD 2018-0137 or EASA AD 2018-0137R1 that contains 
+RC procedures and tests: Except as required by paragraphs (h)(6) and 
+(j)(2) of this AD, RC procedures and tests must be done to comply 
+with this AD; any procedures or tests that are not identified as RC 
+are recommended. Those procedures and tests that are not identified 
+as RC may be deviated from using accepted methods in accordance with 
+the operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(k) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223.
+
+[[Page 43686]]
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Aviation Safety Agency (EASA) AD 2018-0137, dated 
+June 28, 2018.
+    (ii) EASA AD 2018-0137R1, dated January 9, 2019.
+    (3) For EASA AD 2018-0137 and EASA AD 2018-0137R1, contact the 
+EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 
+221 89990 6017; email <a href="/cdn-cgi/l/email-protection#58191c2b183d392b39763d2d2a372839763d2d"><span class="__cf_email__" data-cfemail="1a5b5e695a7f7b697b347f6f68756a7b347f6f">[email&#160;protected]</span></a>; internet 
+www.easa.europa.eu. You may find these EASA ADs on the EASA website 
+at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>.
+
+    Note 1 to paragraph (l)(3):  EASA AD 2018-0137 can be accessed 
+in the zipped file at the bottom of the web page for EASA AD 2018-
+0137R1. When EASA posts a revised AD on their website, they 
+watermark the previous AD as ``Revised,'' alter the file name by 
+adding ``_revised'' to the end, and move it into a zipped file 
+attached at the bottom of the AD web page.
+
+    (4) You may view these EASA ADs at the FAA, Transport Standards 
+Branch, 2200 South 216th St., Des Moines, WA. For information on the 
+availability of this material at the FAA, call 206-231-3195. EASA AD 
+2018-0137 and EASA AD 2018-0137R1 may be found in the AD docket on 
+the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and 
+locating Docket No. FAA-2019-0018.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, call 202-
+741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+
+    Issued in Des Moines, Washington, on July 16, 2019.
+Michael Millage,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-18045 Filed 8-21-19; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

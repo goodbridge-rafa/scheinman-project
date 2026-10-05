@@ -1,0 +1,449 @@
+<html>
+<head>
+<title>Federal Register, Volume 88 Issue 79 (Tuesday, April 25, 2023)</title>
+</head>
+<body><pre>
+[Federal Register Volume 88, Number 79 (Tuesday, April 25, 2023)]
+[Rules and Regulations]
+[Pages 24899-24902]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2023-08629]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-0665; Project Identifier MCAI-2022-00625-R; 
+Amendment 39-22405; AD 2023-07-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Leonardo S.p.a. Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Leonardo S.p.a. Model AB412 and AB412 EP helicopters. This AD was 
+prompted by a report of a fatigue crack in a left-hand (LH) fin spar 
+cap. This AD requires cleaning and repetitively inspecting certain 
+part-numbered LH fin spar caps, and repetitively inspecting the 
+exterior of the fin skin and, depending on the results, accomplishing 
+corrective action. This AD also prohibits certain corrective actions as 
+a terminating action for the repetitive inspections unless the 
+corrective actions have been approved as a terminating action, as 
+specified in a European Union Aviation Safety Agency (EASA) AD, which 
+is incorporated by reference. The FAA is issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective May 10, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of May 10, 
+2023.
+    The FAA must receive comments on this AD by June 9, 2023.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://regulations.gov">regulations.gov</a>. Follow 
+the instructions for submitting comments.
+    <bullet> Fax: (202) 493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    <bullet> Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2023-0665; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the EASA AD, any comments received, 
+and other information. The street address for Docket Operations is 
+listed above.
+    Material Incorporated by Reference:
+    <bullet> For EASA material that is incorporated by reference (IBR) 
+in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, 
+Germany; phone: +49 221 8999 000; email: <a href="/cdn-cgi/l/email-protection#07464374476266746629627275687766296272"><span class="__cf_email__" data-cfemail="ffbebb8cbf9a9e8c9ed19a8a8d908f9ed19a8a">[email&#160;protected]</span></a>; internet: 
+easa.europa.eu. You may find this IBR material on the EASA website at 
+ad.easa.europa.eu.
+    <bullet> You may view this service information at the FAA, Office 
+of the Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 
+6N-321, Fort Worth, TX 76177. For information on the availability of 
+this material at the FAA, call (817) 222-5110. It is also available at 
+<a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2023-0665.
+    Other Related Service Information: For Leonardo Helicopters service 
+information identified in this final rule, contact Leonardo S.p.A. 
+Helicopters, Emanuele Bufano, Head of Airworthiness, Viale G. Agusta 
+520, 21017 C. Costa di Samarate (Va) Italy; telephone (+39) 0331-
+225074; fax (+39) 0331-229046; or at 
+<a href="http://customerportal.leonardocompany.com/en-US/">customerportal.leonardocompany.com/en-US/</a>. This service information is 
+also available at the FAA contact information under Material 
+Incorporated by Reference above.
+
+FOR FURTHER INFORMATION CONTACT: Gregory Koenig, Aerospace Engineer, 
+Airframe & Administrative Services Section, Chicago ACO Branch, 
+Compliance & Airworthiness Division, FAA, 2300 E Devon Ave., Des 
+Plaines, IL 60018; telephone (847) 294-7127; email 
+<a href="/cdn-cgi/l/email-protection#1f586d7a78706d6631533154707a7176785f797e7e31787069"><span class="__cf_email__" data-cfemail="92d5e0f7f5fde0ebbcdebcd9fdf7fcfbf5d2f4f3f3bcf5fde4">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments to an address listed under 
+ADDRESSES. Include ``Docket No. FAA-2023-0665; Project Identifier MCAI-
+2022-00625-R'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the final rule, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+<a href="http://regulations.gov">regulations.gov</a>, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate
+
+[[Page 24900]]
+
+the submitted comments as CBI. Please mark each page of your submission 
+containing CBI as ``PROPIN.'' The FAA will treat such marked 
+submissions as confidential under the FOIA, and they will not be placed 
+in the public docket of this AD. Submissions containing CBI should be 
+sent to Gregory Koenig, Aerospace Engineer, Airframe & Administrative 
+Services Section, Chicago ACO Branch, Compliance & Airworthiness 
+Division, FAA, 2300 E Devon Ave., Des Plaines, IL 60018; telephone 
+(847) 294-7127; email <a href="/cdn-cgi/l/email-protection#fbbc899e9c948982d5b7d5b0949e95929cbb9d9a9ad59c948d"><span class="__cf_email__" data-cfemail="12556077757d606b3c5e3c597d777c7b75527473733c757d64">[email&#160;protected]</span></a>. Any commentary that the 
+FAA receives which is not specifically designated as CBI will be placed 
+in the public docket for this rulemaking.
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2022-0084, dated May 11, 2022 (EASA 
+AD 2022-0084), to correct an unsafe condition for Leonardo S.p.A. Model 
+AB212, AB412, and AB412EP helicopters, all serial numbers.
+    This AD was prompted by a report of a fatigue crack in a LH fin 
+spar cap. The FAA is issuing this AD to detect a crack, a loose or 
+missing rivet, damage, or distortion. The unsafe condition, if not 
+addressed, could result in stress concentrations at the edge of the 
+rivet hole, possibly resulting in reduced structural integrity of the 
+fin spar and subsequent loss of control of the helicopter. See EASA AD 
+2022-0084 for additional background information.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2022-0084 requires cleaning and repetitively inspecting 
+certain part-numbered LH fin spar caps for a crack, loose rivet, and 
+other damage, and repetitively inspecting the exterior of the fin skin 
+in the area in contact with the fin spar cap for a crack, loose rivet, 
+and distortion. If any discrepancy is detected, EASA AD 2022-0084 also 
+requires contacting Leonardo S.p.A. for approved repair instructions 
+and accomplishing the repair. Additionally, EASA AD 2022-0084 prohibits 
+certain corrective actions as terminating action for the repetitive 
+inspections, unless stated otherwise in the repair instructions.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in ADDRESSES.
+
+Other Related Service Information
+
+    The FAA also reviewed Leonardo Helicopters Service Bulletin No. 
+412-168, dated May 19, 2021, which specifies procedures to clean 
+certain parts, and using a 10x magnifying glass and a bright light, 
+inspect both flanges of the LH fin spar cap part number 212-030-447-117 
+for cracks, loose rivets, and other damage. This service information 
+also specifies procedures to inspect the exterior of the fin skin in 
+the area in contact with the fin spar cap for cracks, loose rivets, and 
+distortion, and if any cracks or damage are found, to contact Leonardo 
+Helicopters and send a compliance form to 
+<a href="/cdn-cgi/l/email-protection#88e9eafbedfaede6efa6e9ffc8e4ede7e6e9faece7ebe7e5f8e9e6f1a6ebe7e5"><span class="__cf_email__" data-cfemail="1a7b78697f687f747d347b6d5a767f75747b687e757975776a7b746334797577">[email&#160;protected]</span></a>.
+
+FAA's Determination
+
+    These products have been approved by EASA and are approved for 
+operation in the United States. Pursuant to the FAA's bilateral 
+agreement with the European Union, EASA has notified the FAA of the 
+unsafe condition described in its AD. The FAA is issuing this AD after 
+determining that the unsafe condition described previously is likely to 
+exist or develop on other products of these same type designs.
+
+AD Requirements
+
+    This AD requires accomplishing the actions specified in EASA AD 
+2022-0084, described previously, as incorporated by reference, except 
+for any differences identified as exceptions in the regulatory text of 
+this AD and except as discussed under ``Differences Between this AD and 
+the EASA AD.''
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some civil aviation 
+authority (CAA) ADs as the primary source of information for compliance 
+with requirements for corresponding FAA ADs. The FAA has been 
+coordinating this process with manufacturers and CAAs. As a result, 
+EASA AD 2022-0084 will be incorporated by reference in this FAA final 
+rule. This AD would, therefore, require compliance with EASA AD 2022-
+0084 in its entirety through that incorporation, except for any 
+differences identified as exceptions in the regulatory text of this AD. 
+Using common terms that are the same as the heading of a particular 
+section in EASA AD 2022-0084 does not mean that operators need comply 
+only with that section. For example, where the AD requirement refers to 
+``all required actions and compliance times,'' compliance with this AD 
+requirement is not limited to the section titled ``Required Action(s) 
+and Compliance Time(s)'' in EASA AD 2022-0084. Service information 
+referenced in EASA AD 2022-0084 for compliance will be available at 
+<a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2023-0665.
+
+Differences Between This AD and the EASA AD
+
+    EASA AD 2022-0084 applies to Model AB212 helicopters, whereas this 
+AD does not because that model is not FAA type-certificated. If there 
+is any discrepancy as defined in the service bulletin, EASA AD 2022-
+0084 requires contacting Leonardo S.p.A. for approved repair 
+instructions and accomplishing the repair, whereas this AD requires 
+accomplishing the corrective actions in accordance with a method 
+approved by the FAA, EASA, or Leonardo S.p.a. Helicopters' Design 
+Organization Approval instead.
+
+Justification for Immediate Adoption and Determination of the Effective 
+Date
+
+    Section 553(b)(3)(B) of the Administrative Procedure Act (APA) (5 
+U.S.C. 551 et seq.) authorizes agencies to dispense with notice and 
+comment procedures for rules when the agency, for ``good cause,'' finds 
+that those procedures are ``impracticable, unnecessary, or contrary to 
+the public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    There are currently no domestic operators of these products. 
+Accordingly, notice and opportunity for prior public comment are 
+unnecessary, pursuant to 5 U.S.C. 553(b)(3)(B). In addition, for the 
+foregoing reasons, the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days.
+
+Regulatory Flexibility Act
+
+    The requirements of the Regulatory Flexibility Act (RFA) do not 
+apply when an agency finds good cause pursuant to 5 U.S.C. 553 to adopt 
+a rule without prior notice and comment. Because the FAA has determined 
+that it has good cause to adopt this rule without prior notice and 
+comment, RFA analysis is not required.
+
+Costs of Compliance
+
+    There are no costs of compliance with this AD because there are no 
+helicopters
+
+[[Page 24901]]
+
+with these type certificates on the U.S. Registry.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2023-07-03 Leonardo S.p.a.: Amendment 39-22405; Docket No. FAA-2023-
+0665; Project Identifier MCAI-2022-00625-R.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective May 10, 2023.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Leonardo S.p.a. Model AB412 and AB412 EP 
+helicopters, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code: 5302, Rotorcraft 
+Tail Boom.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of a fatigue crack in a left-
+hand (LH) fin spar cap. The FAA is issuing this AD to detect a 
+crack, a loose or missing rivet, damage, or distortion. The unsafe 
+condition, if not addressed, could result in stress concentrations 
+at the edge of the rivet hole, possibly resulting in reduced 
+structural integrity of the fin spar and subsequent loss of control 
+of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified in paragraphs (h) and (i) of this AD: Comply 
+with all required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency AD 2022-0084, 
+dated May 11, 2022 (EASA AD 2022-0084).
+
+(h) Exceptions to EASA AD 2022-0084
+
+    (1) Where EASA AD 2022-0084 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2022-0084 refers to flight hours, this AD 
+requires using hours time-in-service.
+    (3) Where the service information referenced in paragraph (1) of 
+EASA AD 2022-0084 specifies to ``inspect both flanges of the left 
+hand fin spar cap between F.S. 50 and F.S. 71 using 10x magnifying 
+glass and a bright light for cracks, loose rivets, and other 
+damage;'' for this AD, replace that text with, ``inspect both 
+flanges of the left hand fin spar cap between F.S. 50 and F.S. 71 
+using a 10X or higher power magnifying glass and a flashlight for a 
+crack, a loose or missing rivet, and other damage, which may be 
+indicated by fretting around the rivet.''
+    (4) Instead of complying with paragraph (2) of EASA AD 2022-
+0084, comply with the following; ``During any inspection as required 
+by paragraph (1) of EASA AD 2022-0084, for this AD, if there is a 
+crack, a loose or missing rivet, other damage, or distortion, before 
+further flight, accomplish the corrective action in accordance with 
+a method approved by the Manager, General Aviation & Rotorcraft 
+Section, International Validation Branch, FAA; or EASA; or Leonardo 
+S.p.a. Helicopters' Design Organization Approval (DOA). If approved 
+by the DOA, the approval must include the DOA-authorized 
+signature.''
+    (5) This AD does not adopt the ``Remarks'' section of EASA AD 
+2022-0084.
+
+(i) No Reporting Requirement
+
+    Although the service information referenced in EASA AD 2022-0084 
+specifies to submit certain information to the manufacturer, this AD 
+does not include that requirement.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, send 
+it to the attention of the person identified in paragraph (k) of 
+this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#a0998de1f6f38de1e9f28d9793908de1edefe3e0c6c1c18ec7cfd6"><span class="__cf_email__" data-cfemail="2b12066a7d78066a6279061c181b066a6664686b4d4a4a054c445d">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(k) Related Information
+
+    For more information about this AD, contact Gregory Koenig, 
+Aerospace Engineer, Airframe & Administrative Services Section, 
+Chicago ACO Branch, Compliance & Airworthiness Division, FAA, 2300 E 
+Devon Ave., Des Plaines, IL 60018; telephone (847) 294-7127; email 
+<a href="/cdn-cgi/l/email-protection#35724750525a474c1b791b7e5a505b5c52755354541b525a43"><span class="__cf_email__" data-cfemail="03447166646c717a2d4f2d486c666d6a64436562622d646c75">[email&#160;protected]</span></a>.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2022-0084, 
+dated May 11, 2022.
+    (ii) [Reserved]
+    (3) For EASA AD 2022-0084, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; phone: +49 221 8999 000; email: 
+<a href="/cdn-cgi/l/email-protection#77363304371216041659120205180716591202"><span class="__cf_email__" data-cfemail="67262314270206140649021215081706490212">[email&#160;protected]</span></a>; internet: easa.europa.eu. You may find this 
+material on the EASA website at ad.easa.europa.eu.
+    (4) You may view this service information at the FAA, Office of 
+the Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 
+6N-321, Fort Worth, TX 76177. For information on the availability of 
+this material at the FAA, call (817) 222-5110.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email: <a href="/cdn-cgi/l/email-protection#d5b3a7fbbcbba6a5b0b6a1bcbabb95bbb4a7b4fbb2baa3"><span class="__cf_email__" data-cfemail="dbbda9f5b2b5a8abbeb8afb2b4b59bb5baa9baf5bcb4ad">[email&#160;protected]</span></a>, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+
+[[Page 24902]]
+
+
+    Issued on April 3, 2023.
+Christina Underwood,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2023-08629 Filed 4-24-23; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

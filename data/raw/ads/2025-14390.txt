@@ -1,0 +1,509 @@
+<html>
+<head>
+<title>Federal Register, Volume 90 Issue 144 (Wednesday, July 30, 2025)</title>
+</head>
+<body><pre>
+[Federal Register Volume 90, Number 144 (Wednesday, July 30, 2025)]
+[Rules and Regulations]
+[Pages 35831-35835]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2025-14390]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0013; Project Identifier MCAI-2024-00375-A; 
+Amendment 39-23097; AD 2025-15-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Piaggio Aviation S.p.A. Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2023-25-
+03, which applied to certain Piaggio Aviation S.p.A. (Piaggio) Model P-
+180 airplanes. AD 2023-25-03 required a one-time detailed inspection of 
+the horizontal stabilizer (HS) central box for corrosion; an assessment 
+of the corrosion level; and depending on the determination, repetitive 
+detailed inspections of the HS central box for corrosion and the 
+internal composite structure for surface cracks, distortion, and 
+damage; and repair or replacement of the HS assembly. Repair or 
+replacement of the HS assembly was terminating action for the 
+repetitive inspections. Since the FAA issued AD 2023-25-03, it was 
+determined that AD 2023-25-03 imposed an unintended restriction that is 
+not in the mandatory continuing airworthiness information (MCAI). This 
+AD retains certain actions of AD-2023-25-03 and removes the unintended 
+restriction. The FAA is
+
+[[Page 35832]]
+
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective September 3, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of February 2, 
+2024 (88 FR 90085, December 29, 2023).
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-0013; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the MCAI, any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For Piaggio material identified in this AD, contact 
+Piaggio Aviation S.p.A., P180 Customer Support, via Pionieri e Aviatori 
+d'Italia, snc--16154 Genoa, Italy; phone: +39 331 679 74 93; email: 
+<a href="/cdn-cgi/l/email-protection#8df9e8eee5e3e4eeece1fef8fdfde2fff9cdfde4eceaeae4e2ece8ffe2fefdeceee8a3e4f9"><span class="__cf_email__" data-cfemail="eb9f8e88838582888a87989e9b9b84999fab9b828a8c8c82848a8e9984989b8a888ec5829f">[email&#160;protected]</span></a>.
+    <bullet> You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas City, 
+MO 64106. For information on the availability of this material at the 
+FAA, call (817) 222-5110. It is also available at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-0013.
+
+FOR FURTHER INFORMATION CONTACT: William McCully, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: (404) 474-5548; email: <a href="/cdn-cgi/l/email-protection#780f11141411191556151b1b0d141401381e1919561f170e"><span class="__cf_email__" data-cfemail="a5d2ccc9c9ccc4c88bc8c6c6d0c9c9dce5c3c4c48bc2cad3">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2023-25-03, Amendment 39-22630 (88 FR 
+90085, December 29, 2023) (AD 2023-25-03). AD 2023-25-03 applied to 
+certain Piaggio Model P-180 airplanes.
+    AD 2023-25-03 was prompted by AD 2023-0007, dated January 13, 2023 
+(EASA AD 2023-0007) (also referred to as the MCAI) issued by the 
+European Union Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union. The MCAI states that 
+an occurrence of corrosion was found inside the HS central box of a 
+Piaggio Model P-180 airplane during scheduled maintenance. A subsequent 
+investigation and inspection of 16 other Piaggio Model P-180 airplanes 
+of various configurations and ages revealed that corrosion of differing 
+levels of severity was found on various aluminum alloy reinforcements 
+in the HS central box of all the inspected airplanes. The MCAI also 
+states that this corrosion was caused by the formation of a humid 
+environment inside the HS central box, from water ingress and/or 
+condensation. Further investigation revealed that airplanes left in 
+prolonged inactivity or parked outside are more prone to develop 
+corrosion damage.
+    AD 2023-25-03 required a one-time detailed inspection of the HS 
+central box for corrosion; an assessment of the corrosion level; and 
+depending on the determination, repetitive detailed inspections of the 
+HS central box for corrosion and the internal composite structure for 
+surface cracks, distortion, and damage; and repair or replacement of 
+the HS assembly. Repair or replacement of the HS assembly was 
+terminating action for the repetitive inspections. The FAA issued AD 
+2023-25-03 to address corrosion on various aluminum alloy 
+reinforcements in the HS central box caused by a humid environment 
+inside the box from water ingress and/or condensation. Since the FAA 
+issued AD 2023-25-03, it was determined that a portion of paragraph 
+(g)(4)(ii) of that AD included an unintended requirement to replace or 
+repair the HS assembly after 660 hours time-in-service (TIS) or 13 
+months, whichever occurs first, following a finding of level 2 
+corrosion.
+    The NPRM published in the Federal Register on January 30, 2025 (90 
+FR 8507). In the NPRM, the FAA proposed to retain certain actions of 
+AD-2023-25-03 and remove the unintended restriction. The FAA is issuing 
+this AD to address corrosion on the various aluminum alloy 
+reinforcements in the HS central box caused by a humid environment 
+inside the box from water ingress and/or condensation. The unsafe 
+condition, if not addressed, could result in reduced structural 
+integrity of the HS and loss of control of the airplane.
+    You may examine the MCAI in the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-0013.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received one comment from an individual commenter. The 
+following presents the comment received on the NPRM and the FAA's 
+response to that comment.
+
+Request To Allow Nondestructive Testing (NDT) Options
+
+    The commenter noted that in the NPRM the proposed cost estimate for 
+repetitive inspections is based on traditional physical inspections, 
+which require extensive airplane downtime. The commenter stated that 
+allowing NDT methods, such as eddy current or ultrasonic inspections, 
+provides a viable alternative to the traditional physical inspection 
+methods specified in the proposed AD, that could significantly reduce 
+the amount of labor hours while maintaining safety standards. The 
+commenter mentioned that in the FAA's Aviation Maintenance Technical 
+Handbook--General (FAA-H-8083-30B) 2023, NDT methods allow for the 
+detection of subsurface corrosion without requiring component 
+disassembly, so they are more efficient for routine inspections. The 
+commenter stated that allowing NDT as an alternative compliance method 
+would ensure continued airworthiness without imposing unnecessary 
+financial burdens on operators. The FAA infers that the commenter 
+requested that the proposed AD be revised to include NDT methods.
+    The FAA agrees with the commenter's statements about NDT methods 
+allowing for the detection of subsurface corrosion without requiring 
+component disassembly and that NDT would not impose unnecessary 
+financial burdens upon operators. A borescope inspection is considered 
+an NDT method. The costs of this AD account for borescope inspections. 
+The FAA acknowledges that eddy current and ultrasound inspection 
+methods are generally effective to detect subsurface damage in single 
+or stacked layers of material because these methods can reveal damage 
+in hidden or difficult to access areas. For this AD, a borescope 
+inspection is considered the least invasive and has been determined to 
+be the most effective in areas such as the HS central box. However, an 
+operator may apply for an alternative method of compliance (AMOC) in 
+accordance with paragraph (i) of this AD, along with substantiation 
+data to show that eddy current and ultrasound methods would provide an 
+acceptable level of safety.
+    The FAA has not changed this AD as a result of this comment.
+
+Conclusion
+
+    These products have been approved by the aviation authority of 
+another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, it has notified the FAA of the unsafe condition
+
+[[Page 35833]]
+
+described in the MCAI referenced above. The FAA reviewed the relevant 
+data, considered the comment received, and determined that air safety 
+requires adopting this AD as proposed. Accordingly, the FAA is issuing 
+this AD to address the unsafe condition on these products. This AD is 
+adopted as proposed in the NPRM.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    This AD requires Piaggio Aerospace Service Bulletin 80-0489, 
+Revision 2, dated November 30, 2022, which the Director of the Federal 
+Register approved for incorporation by reference as of February 2, 2024 
+(88 FR 90085, December 29, 2023).
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Differences Between This AD and the Referenced Material
+
+    The Referenced Material requires contacting the manufacturer for a 
+determination of the corrosion level if any corrosion is found during 
+the initial inspection of the HS central box, and if it is determined 
+that level 2 or 3 corrosion is present, having the manufacturer provide 
+the threshold and intervals for doing repetitive inspections of the HS 
+central box. This AD requires contacting either the FAA, EASA, or 
+Piaggio's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    Although Piaggio Aerospace Service Bulletin 80-0489, Revision 2, 
+dated November 30, 2022, specifies to record the image of the location 
+of corroded areas, this AD does not require that action.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 102 airplanes of U.S. 
+registry.
+    The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                       Cost per    Cost on U.S.
+                  Action                            Labor cost           Parts cost    product       operators
+----------------------------------------------------------------------------------------------------------------
+Initial inspection of HS central box for   6 work-hours x $85 per hour           $0         $510         $52,020
+ corrosion.                                 = $510.
+----------------------------------------------------------------------------------------------------------------
+
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+              Action                    Labor cost        Parts cost               Cost per product
+----------------------------------------------------------------------------------------------------------------
+Repetitive inspections of HS       6 work-hours x $85             $0  $510, per inspection cycle.
+ central box for corrosion.         per hour = $510,
+                                    per inspection
+                                    cycle.
+Repetitive inspections for         6 work-hours x $85              0  $510, per inspection cycle.
+ surface cracks, distortion, and    per hour = $510,
+ damage.                            per inspection
+                                    cycle.
+Replace HS assembly..............  10 work-hours x $85       150,000  $150,850.
+                                    per hour = $850.
+----------------------------------------------------------------------------------------------------------------
+
+    The repair of the HS assembly that may be required as a result of 
+any inspection could vary significantly from airplane to airplane. The 
+FAA has no data to determine the costs to accomplish the repair or the 
+number of airplanes that may require the repair.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA has determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive 2023-25-03, Amendment 39-22630 (88 
+FR 90085, December 29, 2023); and
+0
+b. Adding the following new airworthiness directive:
+
+2025-15-10 Piaggio Aviation S.p.A.: Amendment 39-23097; Docket No. 
+FAA-2025-0013; Project Identifier MCAI-2024-00375-A.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective September 3, 
+2025.
+
+[[Page 35834]]
+
+(b) Affected ADs
+
+    This AD replaces AD 2023-25-03, Amendment 39-22630 (88 FR 90085, 
+December 29, 2023).
+
+(c) Applicability
+
+    This AD applies to Piaggio Aviation S.p.A. Model P-180 
+airplanes, serial numbers (S/Ns) 1002, 1004 through 1234 inclusive, 
+3001 through 3012 inclusive, and 3016, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5510, Horizontal 
+Stabilizer Structure.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of corrosion on the various 
+aluminum alloy reinforcements in the horizontal stabilizer (HS) 
+central box caused by a humid environment inside the box from water 
+ingress and/or condensation. The FAA is issuing this AD to address 
+this condition. The unsafe condition, if not addressed, could result 
+in reduced structural integrity of the HS and loss of control of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within the applicable compliance time specified in table 1 
+to paragraph (g)(1) of this AD, do a detailed inspection of the HS 
+central box for corrosion, in accordance with step (8), of Part A, 
+of the Accomplishment Instructions in Piaggio Aerospace Service 
+Bulletin 80-0489, Revision 2, dated November 30, 2022 (Piaggio SB 
+80-0489, Revision 2), except you are not required to record any 
+images.
+
+     Table 1 to Paragraph (g)(1)--HS Central Box One Time Inspection
+------------------------------------------------------------------------
+                                       Compliance time (hours Time-in-
+                                       Service (TIS) or calendar time,
+         P-180 serial No.               whichever occurs first after
+                                    February 2, 2024 (the effective date
+                                             of AD 2023-25-03))
+------------------------------------------------------------------------
+1002; and 1034 through 3016         Within 220 hours TIS or 13 months
+ inclusive.                          after February 2, 2024 (the
+                                     effective date of AD 2023-25-03).
+1004 through 1033 inclusive.......  Within 320 hours TIS or 13 months
+                                     after February 2, 2024 (the
+                                     effective date of AD 2023-25-03).
+------------------------------------------------------------------------
+
+    (2) If, during the inspection required by paragraph (g)(1) of 
+this AD, any corrosion is detected, before next flight, contact 
+either the Manager, International Validation Branch, FAA; European 
+Union Aviation Safety Agency (EASA); or Piaggio's EASA Design 
+Organization Approval (DOA), for an assessment of the corrosion 
+level (level 1, 2, or 3).
+    Note 1 to paragraph (g)(2): Appendix 1, Inspection Results Form, 
+in Piaggio SB 80-0489, Revision 2, may be used when contacting the 
+FAA, EASA, or Piaggio's EASA DOA.
+    (3) If level 1 corrosion is found during the inspection required 
+by paragraph (g)(1) of this AD, no further action is required by 
+this AD.
+    (4) If level 2 corrosion is found during the inspection required 
+by paragraph (g)(1) of this AD, do the action in either paragraph 
+(g)(4)(i) or (ii) of this AD.
+    (i) Before further flight, replace the HS assembly or repair the 
+HS assembly in accordance with instructions from either the Manager, 
+International Validation Branch, FAA; EASA; or Piaggio's EASA DOA. 
+If approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (ii) Within 400 hours TIS or 12 months, whichever occurs first 
+after the inspection required by paragraph (g)(1) of this AD, and 
+thereafter at intervals not to exceed 400 hours TIS or 12 months, 
+whichever occurs first after the most recent inspection, repeat the 
+inspection required by paragraph (g)(1) of this AD. In addition, 
+inspect the internal composite structure of the HS central box for 
+surface cracks, distortion, and damage. After each repetitive 
+inspection, before further flight, assess the inspection findings as 
+required by paragraph (g)(2) of this AD. If it is determined that 
+the level 2 corrosion has worsened since the last inspection; or if 
+any surface cracks, distortion, or damage is found during any 
+inspection; before further flight, replace the HS assembly or repair 
+the HS assembly in accordance with instructions from either the 
+Manager, International Validation Branch, FAA; EASA; or Piaggio's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature. These inspections must be repeated at 
+intervals not to exceed 400 hours TIS or 12 months, whichever occurs 
+first after the most recent inspection.
+    (5) If level 3 corrosion is found during the inspection required 
+by paragraph (g)(1) of this AD, do the actions required by paragraph 
+(g)(5)(i) or (ii) of this AD.
+    (i) Before further flight after the inspection required by 
+paragraph (g)(1) of this AD, replace the HS assembly or repair the 
+HS assembly in accordance with instructions from either the Manager, 
+International Validation Branch, FAA; EASA; or Piaggio's EASA DOA. 
+If approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (ii) Within 200 hours TIS or 6 months, whichever occurs first 
+after the inspection required by paragraph (g)(1) of this AD, and 
+thereafter at intervals not to exceed 200 hours TIS or 6 months, 
+whichever occurs first after the most recent inspection, repeat the 
+inspection required by paragraph (g)(1) of this AD. In addition, 
+inspect the internal composite structure of the HS central box for 
+surface cracks, distortion, and damage. After each repetitive 
+inspection, before further flight, assess the inspection findings as 
+required by paragraph (g)(2) of this AD. If it is determined that 
+the level 3 corrosion has worsened since the last inspection; or if 
+any surface cracks, distortion, or damage is found; before further 
+flight, replace the HS assembly or repair the HS assembly in 
+accordance with instructions from either the Manager, International 
+Validation Branch, FAA; EASA; or Piaggio's EASA DOA. If approved by 
+the DOA, the approval must include the DOA-authorized signature. 
+These inspections must be repeated at intervals not to exceed 200 
+hours TIS or 6 months, whichever occurs first after the most recent 
+inspection, until a maximum of 660 hours TIS or 13 months, whichever 
+occurs first after the inspection required by paragraph (g)(1) of 
+this AD, at which time the HS assembly must be repaired or replaced.
+    (6) Repair or replacement of the HS assembly is terminating 
+action for the repetitive inspections required by paragraphs 
+(g)(4)(ii) and (g)(5)(ii) of this AD.
+
+(h) Credit for Previous Actions
+
+    You may take credit for the actions required by paragraphs 
+(g)(1) through (5) of this AD if you performed those actions before 
+February 2, 2024 (the effective date of AD 2023-25-03) using Piaggio 
+Aerospace Service Bulletin 80-0489, Revision 1, dated May 13, 2022.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, mail 
+it to the address identified in paragraph (j) of this AD or email 
+to: <a href="/cdn-cgi/l/email-protection#4d0c00020e0d2b2c2c632a223b"><span class="__cf_email__" data-cfemail="d89995979b98beb9b9f6bfb7ae">[email&#160;protected]</span></a>. If mailing information, also submit information by 
+email. Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Additional Information
+
+    For more information about this AD, contact William McCully, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: (404) 474-5548; email: 
+<a href="/cdn-cgi/l/email-protection#25524c49494c44480b4846465049495c654344440b424a53"><span class="__cf_email__" data-cfemail="f88f919494919995d6959b9b8d949481b89e9999d69f978e">[email&#160;protected]</span></a>.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+
+[[Page 35835]]
+
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (3) The following material was approved for IBR on February 2, 
+2024 (88 FR 90085, December 29, 2023).
+    (i) Piaggio Aerospace Service Bulletin 80-0489, Revision 2, 
+dated November 30, 2022.
+    (ii) [Reserved]
+    (4) For Piaggio material identified in this AD, contact Piaggio 
+Aviation S.p.A., P180 Customer Support, via Pionieri e Aviatori 
+d'Italia, snc--16154 Genoa, Italy; phone: +39 331 679 74 93; email: 
+<a href="/cdn-cgi/l/email-protection#780c1d1b1016111b19140b0d0808170a0c380811191f1f1117191d0a170b08191b1d56110c"><span class="__cf_email__" data-cfemail="196d7c7a7177707a78756a6c6969766b6d596970787e7e7076787c6b766a69787a7c37706d">[email&#160;protected]</span></a>.
+    (5) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas 
+City, MO 64106. For information on the availability of this material 
+at the FAA, call (817) 222-5110.
+    (6) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a> or email <a href="/cdn-cgi/l/email-protection#4a2c38642324393a2f293e2325240a242b382b642d253c"><span class="__cf_email__" data-cfemail="d5b3a7fbbcbba6a5b0b6a1bcbabb95bbb4a7b4fbb2baa3">[email&#160;protected]</span></a>.
+
+    Issued on July 25, 2025.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-14390 Filed 7-29-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

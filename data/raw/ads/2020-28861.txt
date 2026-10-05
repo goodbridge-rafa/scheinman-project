@@ -1,0 +1,446 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 250 (Wednesday, December 30, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 250 (Wednesday, December 30, 2020)]
+[Rules and Regulations]
+[Pages 86459-86462]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-28861]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0681; Product Identifier 2020-NM-089-AD; Amendment 
+39-21376; AD 2020-26-21]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A350-941 airplanes. This AD was prompted by a 
+report that during the assembly of a certain section of the fuselage, 
+the gaps found on self-aligning nuts for eight fasteners were out of 
+tolerance. This AD requires a rotating probe test of all fastener holes 
+located in the affected area for any discrepancies, an eddy current 
+inspection of the surrounding flange for any discrepancies, a detailed 
+inspection of certain frames for any discrepancies, and corrective 
+actions if necessary, as specified in a European Union Aviation Safety 
+Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective February 3, 2021.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of February 3, 
+2021.
+
+ADDRESSES: For material incorporated by reference (IBR) in this AD, 
+contact the EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; 
+telephone +49 221 8999 000; email <a href="/cdn-cgi/l/email-protection#4e0f0a3d0e2b2f3d2f602b3b3c213e2f602b3b"><span class="__cf_email__" data-cfemail="1c5d586f5c797d6f7d3279696e736c7d327969">[email&#160;protected]</span></a>; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>. You may view this IBR material at the 
+FAA,
+
+[[Page 86460]]
+
+Airworthiness Products Section, Operational Safety Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available in the AD 
+docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for 
+and locating Docket No. FAA-2020-0681.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. FAA-2020-
+0681; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Kathleen Arrigotti, Aerospace 
+Engineer, Large Aircraft Section, International Validation Branch, FAA, 
+2200 South 216th St., Des Moines, WA 98198; telephone and fax 206-231-
+3218; email <a href="/cdn-cgi/l/email-protection#a1eac0d5c9cdc4c4cf8fe0d3d3c8c6ced5d5c8e1c7c0c08fc6ced7"><span class="__cf_email__" data-cfemail="266d47524e4a434348086754544f414952524f6640474708414950">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2020-0109, dated May 15, 2020 (EASA 
+AD 2020-0109) (also referred to as the Mandatory Continuing 
+Airworthiness Information, or the MCAI), to correct an unsafe condition 
+for certain Airbus SAS Model A350-941 airplanes.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Airbus SAS 
+Model A350-941 airplanes. The NPRM published in the Federal Register on 
+August 4, 2020 (85 FR 47122). The NPRM was prompted by a report that 
+during the assembly of the section 19 skin to frame (FR) 98 joint of 
+the fuselage, the gaps found on self-aligning nuts for eight fasteners 
+were out of tolerance. The NPRM proposed to require a rotating probe 
+test of all fastener holes located in the affected area for any 
+discrepancies, an eddy current inspection of the surrounding flange for 
+any discrepancies, a detailed inspection of certain frames for any 
+discrepancies, and corrective actions if necessary, as specified in an 
+EASA AD.
+    The FAA is issuing this AD to address gaps that are out of 
+tolerance, which could reduce the fatigue and damage tolerance 
+properties of the affected area, and possibly affect the structural 
+integrity of the rear cone of the fuselage. See the MCAI for additional 
+background information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Request To Revise the Proposed Applicability
+
+    Delta Air Lines, Inc. (DAL) requested that the FAA revise the 
+applicability in the NPRM. DAL stated that the applicability should 
+reflect the effectivity specified in Airbus Service Bulletin A350-53-
+P057, dated February 21, 2020, and not what is specified in the NPRM 
+and in EASA AD 2020-0109. DAL also stated that the NPRM and EASA AD 
+2020-0109 would require operators the unnecessary burden of reviewing 
+records and updating associated paperwork to ensure and prove that the 
+proper modification status is embodied on all airplanes, including on 
+any Model A350 airplanes delivered in the future, despite the 
+embodiment of the applicable modification in production. DAL commented 
+that Airbus Service Bulletin A350-53-P057, dated February 21, 2020, 
+specifies specific manufacturer serial numbers and describes which 
+airplanes will have the modification embodied in production 
+(manufacturer serial number 0307 and subsequent).
+    The FAA disagrees with the request. The applicability of this AD 
+(and EASA AD 2020-0109) excludes any airplanes on which the 
+modification has been embodied, whether during or after production. 
+EASA, as the State of Design Authority for Airbus products, has 
+determined that this applicability is appropriate because it includes 
+any airplanes on which the modification was not embodied, while 
+excluding those on which the modification has been embodied. The FAA 
+agrees with this decision because it ensures the unsafe condition is 
+addressed on all applicable airplanes. The FAA has not changed the AD 
+in this regard.
+
+Request To Include Exception To Provide Correct Reference for 
+Installing New Fasteners
+
+    DAL requested that the NPRM be revised to address a discrepancy in 
+a manual reference for installing the new fasteners. DAL noted that 
+Airbus Service Bulletin A350-53-P057, dated February 21, 2020, 
+specifies Airbus task A350-A-53-XX-P057-01001-720A-A and task A350-A-
+53-XX-P057-02001-720A-A for instructions to install the new fasteners, 
+and that the actions in those tasks are considered Required for 
+Compliance (RC). DAL asserted that the instructions in those tasks 
+should refer to the Airbus A350 Aircraft Maintenance Manual (AMM) 
+procedure rather than the aircraft structural repair (ASR) manual. DAL 
+pointed out that there is no existing ASR manual with chapter A350-A-
+20-51-50-01ZZZ-25BZ-A; however, the AMM reference for standard 
+mechanical torques is maintenance procedure chapter A350-A-20-51-50-
+01ZZZ-25BZ-A. DAL stated that Airbus has confirmed in Airbus Technical 
+Request Dossier 80808465 that the correct reference is to the AMM. DAL 
+further requested that, if this discrepancy is not addressed in the AD, 
+it will require that a global alternative method of compliance (AMOC) 
+be requested by Airbus.
+    The FAA agrees that the correct document should be referenced for 
+the reasons provided above. The FAA has added paragraph (h)(3) in this 
+AD to clarify that, where Airbus Service Bulletin A350-53-P057, dated 
+February 21, 2020, specifies Airbus task A350-A-53-XX-P057-01001-720A-A 
+and task A350-A-53-XX-P057-02001-720A-A, for instructions for 
+installing the new fasteners, and those instructions specify to refer 
+to ``Ref. ASR A350-A-20-51-01ZZZ-25BZ-A,'' for the purposes of this AD, 
+the correct reference is ``Ref. AMM Maintenance Procedure A350-A-20-51-
+01ZZZ-25BZ-A.''
+
+Request To Provide Clarification on the Use of Substitute Fasteners
+
+    DAL requested that the FAA provide clarification regarding the use 
+of substitute fasteners. DAL stated that task A350-A-53-XX-P057-01001-
+720A-A and task A350-A-53-XX-P057-02001-720A-A, specified in Airbus 
+Service Bulletin A350-53-P057, dated February 21, 2020, provide 
+instructions to install new fasteners. DAL also stated that standard 
+notes within these allow for the use of washers or approved substitute 
+fasteners should the installed fasteners not be sufficient per the 
+standards provided in the ASR manual. DAL questioned whether, since 
+Airbus Service Bulletin A350-53-P057, dated February 21, 2020, provides 
+the specific fasteners to use to address the issue in the NPRM, an AMOC 
+will be required for the use of substitute fasteners despite these 
+notes.
+    The FAA agrees to provide clarification. An AMOC is not needed for 
+the use of washers or approved
+
+[[Page 86461]]
+
+substitute fasteners should the installed fasteners not be sufficient. 
+The FAA has not changed this AD in this regard.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the change described previously 
+and minor editorial changes. The FAA has determined that these minor 
+changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    The FAA also determined that this change will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2020-0109 describes procedures for a rotating probe test of 
+all fastener holes located in the affected area for any discrepancies 
+(i.e., cracking or damage), an eddy current inspection of the 
+surrounding flange for any discrepancies, a detailed inspection of FR 
+97 to FR 99 for any discrepancies, and corrective actions if necessary. 
+Corrective actions include replacing all fasteners located in the 
+affected area with new bolts and self-aligning nuts, and repair. This 
+material is reasonably available because the interested parties have 
+access to it through their normal course of business or by the means 
+identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 13 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85.............................              $0              $85           $1,105
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition replacements that would be required based on the results of 
+any required actions. The FAA has no way of determining the number of 
+aircraft that might need these replacements:
+
+                Estimated Costs of On-Condition Actions *
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+6 work-hours x $85 per hour = $510....             $70             $580
+------------------------------------------------------------------------
+* The FAA has received no definitive data that would enable providing
+  cost estimates for the on-condition repairs specified in this AD.
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected operators. The FAA does not control warranty coverage for 
+affected operators. As a result, the FAA has included all known costs 
+in the cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2020-26-21 Airbus SAS: Amendment 39-21376; Docket No. FAA-2020-0681; 
+Product Identifier 2020-NM-089-AD.
+
+(a) Effective Date
+
+    This AD is effective February 3, 2021.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A350-941 airplanes, 
+certificated in any category, as identified in European Union 
+Aviation Safety Agency (EASA) AD 2020-
+
+[[Page 86462]]
+
+0109, dated May 15, 2020 (EASA AD 2020-0109).
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a report that during the assembly of the 
+section 19 skin to frame (FR) 98 joint of the fuselage, the gaps 
+found on self-aligning nuts for eight fasteners were out of 
+tolerance. The FAA is issuing this AD to address gaps that are out 
+of tolerance, which could reduce the fatigue and damage tolerance 
+properties of the affected area, and possibly affect the structural 
+integrity of the rear cone of the fuselage.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2020-0109.
+
+(h) Exceptions to EASA AD 2020-0109
+
+    (1) The ``Remarks'' section of EASA AD 2020-0109 does not apply 
+to this AD.
+    (2) Where paragraph (2) of EASA AD 2020-0109 specifies actions 
+if ``any discrepancy is detected, as defined in the SB,'' for this 
+AD a discrepancy is defined as any crack or damage.
+    (3) Where Airbus Service Bulletin A350-53-P057, dated February 
+21, 2020 (referenced in EASA AD 2020-0109), specifies Airbus task 
+A350-A-53-XX-P057-01001-720A-A and task A350-A-53-XX-P057-02001-
+720A-A, for instructions for installing the new fasteners, and those 
+instructions specify to refer to ``ASR A350-A-20-51-01ZZZ-25BZ-A,'' 
+for the purposes of this AD, the correct reference is ``AMM 
+Maintenance Procedure A350-A-20-51-01ZZZ-25BZ-A.''
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the Large Aircraft Section, International Validation Branch, send it 
+to the attention of the person identified in paragraph (j) of this 
+AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#291004687f7a0468607b041e1a19046864666a694f4848074e465f"><span class="__cf_email__" data-cfemail="d5ecf8948386f8949c87f8e2e6e5f894989a9695b3b4b4fbb2baa3">[email&#160;protected]</span></a>. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraphs (h)(2) and (3) and paragraph (i)(2) of this AD, if any 
+service information contains procedures or tests that are identified 
+as RC, those procedures and tests must be done to comply with this 
+AD; any procedures or tests that are not identified as RC are 
+recommended. Those procedures and tests that are not identified as 
+RC may be deviated from using accepted methods in accordance with 
+the operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(j) Related Information
+
+    For more information about this AD, contact Kathleen Arrigotti, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3218; email <a href="/cdn-cgi/l/email-protection#a8e3c9dcc0c4cdcdc686e9dadac1cfc7dcdcc1e8cec9c986cfc7de"><span class="__cf_email__" data-cfemail="82c9e3f6eaeee7e7ecacc3f0f0ebe5edf6f6ebc2e4e3e3ace5edf4">[email&#160;protected]</span></a>.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0109, 
+dated May 15, 2020.
+    (ii) [Reserved]
+    (3) For EASA AD 2020-0109, contact the EASA, Konrad-Adenauer-
+Ufer 3, 50668 Cologne, Germany; telephone +49 221 8999 000; email 
+<a href="/cdn-cgi/l/email-protection#29686d5a694c485a48074c5c5b465948074c5c"><span class="__cf_email__" data-cfemail="5b1a1f281b3e3a283a753e2e29342b3a753e2e">[email&#160;protected]</span></a>; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195. This material may be found in the AD 
+docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching 
+for and locating Docket No. FAA-2020-0681.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+<a href="/cdn-cgi/l/email-protection#d4b2b1b0a6b1b3fab8b1b3b5b894bab5a6b5fab3bba2"><span class="__cf_email__" data-cfemail="107675746275773e7c7577717c507e7162713e777f66">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on December 17, 2020.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2020-28861 Filed 12-29-20; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

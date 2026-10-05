@@ -1,0 +1,393 @@
+<html>
+<head>
+<title>Federal Register, Volume 76 Issue 136 (Friday, July 15, 2011)</title>
+</head>
+<body><pre>
+[Federal Register Volume 76, Number 136 (Friday, July 15, 2011)]
+[Rules and Regulations]
+[Pages 41657-41659]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2011-17403]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0653; Directorate Identifier 2010-NM-249-AD; 
+Amendment 39-16745; AD 2011-14-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A330-342 Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for the 
+products listed above. This AD results from mandatory continuing 
+airworthiness information (MCAI) originated by an aviation authority of 
+another country to identify and correct an unsafe condition on an 
+aviation product. The MCAI describes the unsafe condition as:
+* * * * *
+    Following a query from an operator, investigations revealed that 
+some MSN [manufacturer serial number], for which Airbus modification 
+40391 was indicated as fully embodied inside the Aircraft Inspection 
+Report (AIR), did not have Modification Proposal (MP-S10437) which 
+is part of this modification embodied in production.
+    As a result, ALI [Airworthiness Limitation Item] task 533105-01-
+02 has not been performed on the MSN listed in the applicability 
+section of this AD, which constitutes an unsafe condition.
+* * * * *
+
+The unsafe condition is fatigue cracking of the internal structure of 
+the fuselage, which could adversely affect the structural integrity of 
+the airplane. This AD requires actions that are intended to address the 
+unsafe condition described in the MCAI.
+
+DATES: This AD becomes effective August 1, 2011.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of August 1, 
+2011.
+    We must receive comments on this AD by August 29, 2011.
+
+ADDRESSES: You may send comments by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the instructions for submitting comments.
+    <bullet> Fax: (202) 493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC 20590.
+    <bullet> Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The street address for 
+the Docket Operations office (telephone (800) 647-5527) is in the 
+ADDRESSES section. Comments will be available in the AD docket shortly 
+after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone (425) 
+227-1138; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+Airworthiness Directive 2010-0173, dated August 17, 2010 (referred to 
+after this as ``the MCAI''), to correct an unsafe condition for the 
+specified products. The MCAI states:
+
+    Airworthiness Limitation Item (ALI) task 533105-01-02 is 
+applicable to aeroplanes on which Airbus modification 40391 has not 
+been embodied in production. The requirements associated to this 
+task are applicable to aeroplanes on which Modification Proposal 
+(MP-S10437) has not been embodied.
+    Following a query from an operator, investigations revealed that 
+some MSN [manufacturer serial numbers], for which Airbus 
+modification 40391 was indicated as fully embodied inside the 
+Aircraft Inspection Report (AIR), did not have Modification Proposal 
+(MP-S10437) which is part of this modification embodied in 
+production.
+    As a result, ALI task 533105-01-02 has not been performed on the 
+MSN listed in the applicability section of this AD, which 
+constitutes an unsafe condition.
+    For the reasons described above, this AD requires repetitive 
+special detailed inspections [for fatigue cracking of the internal 
+structure of the fuselage] corresponding to ALI task 533105-01-02 
+and the accomplishment of the associated corrective actions.
+
+The unsafe condition is fatigue cracking of the internal structure of 
+the fuselage, which could adversely affect the structural integrity of 
+the airplane. The special detailed inspection is defined as an 
+ultrasonic inspection in this AD. The corrective action is repairing 
+any cracks in accordance with a method approved by the FAA or EASA (or 
+its delegated agent). You may obtain further information by examining 
+the MCAI in the AD docket.
+
+Relevant Service Information
+
+    Airbus has issued Mandatory Service Bulletin A330-53-3185, 
+including Appendices 01 and 02, dated May 20, 2010. The actions 
+described in this service information are intended to correct the 
+unsafe condition identified in the MCAI.
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are issuing this
+
+[[Page 41658]]
+
+AD because we evaluated all pertinent information and determined the 
+unsafe condition exists and is likely to exist or develop on other 
+products of the same type design.
+    There are no products of this type currently registered in the 
+United States. However, this rule is necessary to ensure that the 
+described unsafe condition is addressed if any of these products are 
+placed on the U.S. Register in the future.
+
+Differences Between the AD and the MCAI or Service Information
+
+    We have reviewed the MCAI and related service information and, in 
+general, agree with their substance. But we might have found it 
+necessary to use different words from those in the MCAI to ensure the 
+AD is clear for U.S. operators and is enforceable. In making these 
+changes, we do not intend to differ substantively from the information 
+provided in the MCAI and related service information.
+    We might also have required different actions in this AD from those 
+in the MCAI in order to follow FAA policies. Any such differences are 
+highlighted in a NOTE within the AD.
+
+FAA's Determination of the Effective Date
+
+    Since there are currently no domestic operators of this product, 
+notice and opportunity for public comment before issuing this AD are 
+unnecessary.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2011-0653; Directorate 
+Identifier 2010-NM-249-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD because of 
+those comments.
+    We will post all comments we receive, without change, to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new AD:
+
+2011-14-10 Airbus: Amendment 39-16745. Docket No. FAA-2011-0653; 
+Directorate Identifier 2010-NM-249-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) becomes effective August 
+1, 2011.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to Airbus Model A330-342 airplanes, 
+manufacturer serial numbers (MSN) 0012 and 0017; certificated in any 
+category.
+
+Subject
+
+    (d) Air Transport Association (ATA) of America Code 53: 
+Fuselage.
+
+Reason
+
+    (e) The mandatory continued airworthiness information (MCAI) 
+states:
+* * * * *
+    Following a query from an operator, investigations revealed that 
+some MSN, for which Airbus modification 40391 was indicated as fully 
+embodied inside the Aircraft Inspection Report (AIR), did not have 
+Modification Proposal (MP-S10437) which is part of this modification 
+embodied in production.
+    As a result, ALI [Airworthiness Limitation Item] task 533105-01-
+02 has not been performed on the MSN listed in the applicability 
+section of this AD, which constitutes an unsafe condition.
+* * * * *
+The unsafe condition is fatigue cracking of the internal structure 
+of the fuselage, which could adversely affect the structural 
+integrity of the airplane.
+
+Compliance
+
+    (f) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Actions
+
+    (g) Within the applicable time specified in table 1 of this AD, 
+or within 90 days after the effective date of this AD, whichever 
+occurs later: Do an ultrasonic inspection for cracks on the left 
+hand side and right hand side of fuselage frame 39.1 at the fastener 
+hole area just above stringer 28, in accordance with the 
+Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A330-53-3185, dated May 20, 2010. If any crack is found during any 
+inspection required by this AD, before further flight repair using a 
+method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or the European Aviation Safety 
+Agency (EASA) (or its delegated agent).
+
+[[Page 41659]]
+
+
+
+                        Table 1--Compliance Times
+------------------------------------------------------------------------
+         MSN--                      Initial compliance time--
+------------------------------------------------------------------------
+0012...................  Before the accumulation of 16,200 total flight
+                          cycles, or 38,900 total flight hours,
+                          whichever occurs first.
+0017...................  Before the accumulation of 16,200 total flight
+                          cycles, or within 38,000 total flight hours,
+                          whichever occurs first.
+------------------------------------------------------------------------
+
+    (h) If no crack is found during the inspection required by 
+paragraph (g) of this AD, repeat the inspection in paragraph (g) of 
+this AD thereafter at intervals not to exceed 7,400 flight cycles or 
+22,300 flight hours, whichever occurs first.
+
+FAA AD Differences
+
+    Note 1:  This AD differs from the MCAI and/or service 
+information as follows: No differences.
+
+Other FAA AD Provisions
+
+    (i) The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the International 
+Branch, send it to ATTN: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone 
+(425) 227-1138; fax (425) 227-1149. Information may be e-mailed to: 
+<a href="/cdn-cgi/l/email-protection#4f76620e0102627e7e79620e02000c621d0a1e1a0a1c1b1c0f292e2e61282039"><span class="__cf_email__" data-cfemail="41786c000f0c6c7070776c000c0e026c1304101404121512012720206f262e37">[email&#160;protected]</span></a>. Before using any approved AMOC, 
+notify your appropriate principal inspector, or lacking a principal 
+inspector, the manager of the local flight standards district 
+office/certificate holding district office. The AMOC approval letter 
+must specifically reference this AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to assure the product 
+is airworthy before it is returned to service.
+
+Related Information
+
+    (j) Refer to MCAI European Aviation Safety Agency Airworthiness 
+Directive 2010-0173, dated August 17, 2010; and Airbus Mandatory 
+Service Bulletin A330-53-3185, dated May 20, 2010; for related 
+information.
+
+Material Incorporated by Reference
+
+    (k) You must use Airbus Mandatory Service Bulletin A330-53-3185, 
+excluding Appendix 01 and including Appendix 02, all dated May 20, 
+2010, to do the actions required by this AD, unless the AD specifies 
+otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of this service information under 5 
+U.S.C. 552(a) and 1 CFR part 51.
+    (2) For service information identified in this AD, contact 
+Airbus SAS--Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; e-mail <a href="/cdn-cgi/l/email-protection#6809011a1f071a1c0001060d1b1b46295b5b5845295b5c582809011a0a1d1b460b0705"><span class="__cf_email__" data-cfemail="0869617a7f677a7c6061666d7b7b26493b3b3825493b3c384869617a6a7d7b266b6765">[email&#160;protected]</span></a>; 
+Internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (3) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, 
+Washington. For information on the availability of this material at 
+the FAA, call 425-227-1221.
+    (4) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on July 1, 2011.
+Jeffrey E. Duven,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2011-17403 Filed 7-14-11; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

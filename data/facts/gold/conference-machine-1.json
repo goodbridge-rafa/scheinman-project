@@ -1,0 +1,665 @@
+{
+ "conference": "machine-1",
+ "date_adjudicated": "2026-09-03",
+ "adjudicator": "machine (two blind readers plus a tie-breaker on disagreement, same model family that produced the extraction)",
+ "not_the_human_conference": "This is NOT conference 2. Conference 1 (2026-08-31) is the project's only human adjudication and the only source of the published invention rate; it covered the 13 handbook facts. The owner's human conference 2 over the AD facts remains open (DECISIONS.md, trigger of 2026-09-02). A machine grading the output of the same machine is weaker evidence and is recorded separately for that reason.",
+ "method": "Stratified sample of the 507 double-agreed AD facts: a quota per field_id proportional to its share, picked by even stride over the documents sorted by id, so the sample is deterministic and spread over 38 of the 95 documents. Each item was judged by two readers, blind to each other, each given only the stored Federal Register text, the field question, its closed vocabulary, the extractor's snippet and the recorded value; one lens read plainly, the other tried to refute. Disagreement went to a third reader who read the document before deciding. Six control items carried a deliberately corrupted value, mixed in and indistinguishable, to measure whether the readers detect a wrong value at all.",
+ "facts_total": 46,
+ "facts_wrong": [
+  "2016-05249/component_class"
+ ],
+ "disputed_rate": 0.0217,
+ "first_pass_agreement": "50 of 52",
+ "controls_planted": 6,
+ "controls_caught": 6,
+ "effect_on_the_product": "None measured. component_class is read by no code in src/ (the fusion uses alloy, feature_class and mechanism_class only), and R-0002 accepts any material series, so neither disputed item changes a rule, a weight, a verdict or a number shown on the panel.",
+ "limits": [
+  "The readers are of the same model family as the extractors, so a shared blind spot would pass unseen.",
+  "46 of 507 facts, one field each: nothing is claimed about the 461 facts not sampled.",
+  "The check is about the value given the field question, not about the excerpt being verbatim; that is measured separately by scheinman.provenance."
+ ],
+ "facts_sha256": "48b865c9c2a5cb0413dfd565920f8f5711d5b4b6787d0bf84bcc1252afcbaeee",
+ "facts_sha256_note": "SHA-256 over the sorted (lot, document, field_id, value) tuples of the adjudicated facts, so this record cannot survive a change to what was adjudicated. tests/test_conference_machine.py recomputes it.",
+ "adjudicated": [
+  {
+   "lot": "lot4-ads",
+   "document": "00-13445",
+   "field_id": "alloy_as_stated",
+   "value": "aluminum",
+   "verdict": "supported",
+   "readers": [
+    "wrong",
+    "supported"
+   ],
+   "tie_broken": true
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "00-13445",
+   "field_id": "component_class",
+   "value": "fitting",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "00-13445",
+   "field_id": "feature_class",
+   "value": "fastener_hole",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "00-13445",
+   "field_id": "mechanism_class",
+   "value": "fatigue_cracking",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "00-13445",
+   "field_id": "supersedes",
+   "value": "none",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "00-14436",
+   "field_id": "action_class",
+   "value": "repetitive_inspection;repair;replacement",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "01-16200",
+   "field_id": "component_class",
+   "value": "other",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "01-16200",
+   "field_id": "mechanism_class",
+   "value": "fatigue_cracking",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "01-21749",
+   "field_id": "alloy_as_stated",
+   "value": "aluminum",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "01-21749",
+   "field_id": "feature_class",
+   "value": "radius_or_fillet",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "01-26951",
+   "field_id": "action_class",
+   "value": "one_time_inspection;repetitive_inspection;replacement;repair",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "02-6201",
+   "field_id": "supersedes",
+   "value": "none_stated",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "03-7747",
+   "field_id": "component_class",
+   "value": "fitting",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "03-7747",
+   "field_id": "mechanism_class",
+   "value": "fatigue_cracking",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "04-12442",
+   "field_id": "feature_class",
+   "value": "other",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "04-15373",
+   "field_id": "alloy_as_stated",
+   "value": "none_stated",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "05-9876",
+   "field_id": "action_class",
+   "value": "repetitive_inspection;one_time_inspection;replacement",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "06-3061",
+   "field_id": "supersedes",
+   "value": "none",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2010-1690",
+   "field_id": "component_class",
+   "value": "floor_beam",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2010-1690",
+   "field_id": "mechanism_class",
+   "value": "fracture_or_crack_unspecified",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2012-18627",
+   "field_id": "alloy_as_stated",
+   "value": "none_stated",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2012-18627",
+   "field_id": "feature_class",
+   "value": "fastener_hole",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2013-00894",
+   "field_id": "action_class",
+   "value": "one_time_inspection;other",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2014-17052",
+   "field_id": "supersedes",
+   "value": "none",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2015-00010",
+   "field_id": "mechanism_class",
+   "value": "stress_corrosion_cracking",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2016-05249",
+   "field_id": "component_class",
+   "value": "other",
+   "verdict": "wrong",
+   "readers": [
+    "supported",
+    "wrong"
+   ],
+   "tie_broken": true,
+   "better_value": "frame",
+   "reason": "The field question permits \"other\" only when \"a component is named but fits no class\". That precondition fails here: the document names the frame as a cracked component, and \"frame\" is in the closed vocabulary. Evidence at data/raw/ads/2016-05249.txt: the Unsafe Condition paragraph reports \"cracks in the frame, shear web, and shear ties adjacent to tension ties\" (:348-350; \"adjacent to tension ties\" is a location modifier, the cracks are in the frame); the purpose statement names frames as one of three cracking members (:356-359, repeated :51-53); an entire required action is headed \"(n) Retained One-Time Inspection for Cracks in Frames at Previous Tension Tie Locations\" (:549-550); and paragraph (p) requires \"post-modification detailed inspections for cracking of the tension tie and frame structure\" (:590-592). Stage 1 and Stage 2 inspections cover \"the tension ties, shear webs, and frames at body stations (STA) 1120 through 1220\" (:371, :470). Subject is ATA Code 53, Fuselage (:344). I tried to break this three ways. (1) Is the frame only an incidental neighbour, as Reader A argues? No: paragraph (n) is a standalone required inspection for cracks in frames, so the frame is a damage site in its own right. (2) Does the AD's leading member, the tension tie, have a better vocabulary slot that would make \"frame\" a distortion? No: the words floor, beam, fitting, stringer, longeron, bulkhead and skin never appear as structure (the sole \"Floor\" hit at :88 is the Docket Office street address), so floor_beam or fitting would import a taxonomy the source does not state, and the absence of a tension-tie slot does not by itself unlock \"other\" when another named damaged component does fit. (3) Is the extractor internally consistent? No: the sentence it attached as justification is the same sentence that says \"cracks in the frame\", so its own quote supports the in-vocabulary value it declined to use. Recording \"other\" discards a fact the vocabulary can express and yields a null-information value. The only reading under which \"other\" survives is if the task silently required the single most prominent component and treated a vocabulary miss as fatal; the question's explicit definition of \"other\" forecloses that, so I judge the vocabulary match decisive."
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2016-08539",
+   "field_id": "feature_class",
+   "value": "chord",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2016-23261",
+   "field_id": "action_class",
+   "value": "repetitive_inspection;replacement",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2016-31188",
+   "field_id": "alloy_as_stated",
+   "value": "aluminum",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2017-01824",
+   "field_id": "supersedes",
+   "value": "AD 2013-19-04",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2017-26040",
+   "field_id": "mechanism_class",
+   "value": "fracture_or_crack_unspecified",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2018-10921",
+   "field_id": "component_class",
+   "value": "frame",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2020-12821",
+   "field_id": "feature_class",
+   "value": "other",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2020-17900",
+   "field_id": "action_class",
+   "value": "replacement;repetitive_inspection",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2020-17900",
+   "field_id": "alloy_as_stated",
+   "value": "none_stated",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2022-14490",
+   "field_id": "supersedes",
+   "value": "AD 2017-24-10",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2023-02986",
+   "field_id": "mechanism_class",
+   "value": "fatigue_cracking",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2023-17501",
+   "field_id": "component_class",
+   "value": "fitting",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2024-24386",
+   "field_id": "feature_class",
+   "value": "other",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2024-25977",
+   "field_id": "action_class",
+   "value": "repetitive_inspection;one_time_inspection;replacement;repair",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2024-25977",
+   "field_id": "alloy_as_stated",
+   "value": "none_stated",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2025-14390",
+   "field_id": "supersedes",
+   "value": "AD 2023-25-03",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2025-17026",
+   "field_id": "mechanism_class",
+   "value": "fatigue_cracking",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "2025-22320",
+   "field_id": "component_class",
+   "value": "other",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot3-ad",
+   "document": "E7-9396",
+   "field_id": "failure_mechanism",
+   "value": "fatigue cracking",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  },
+  {
+   "lot": "lot3-ad",
+   "document": "E7-9396",
+   "field_id": "material",
+   "value": "7050-T7451 aluminum alloy",
+   "verdict": "supported",
+   "readers": [
+    "supported",
+    "supported"
+   ],
+   "tie_broken": false
+  }
+ ],
+ "controls": [
+  {
+   "lot": "lot7-ads",
+   "document": "00-19672",
+   "field_id": "component_class",
+   "value": "door",
+   "verdict": "wrong",
+   "readers": [
+    "wrong",
+    "wrong"
+   ],
+   "tie_broken": false,
+   "true_value": "stabilizer",
+   "planted": true
+  },
+  {
+   "lot": "lot7-ads",
+   "document": "00-19672",
+   "field_id": "mechanism_class",
+   "value": "wear",
+   "verdict": "wrong",
+   "readers": [
+    "wrong",
+    "wrong"
+   ],
+   "tie_broken": false,
+   "true_value": "stress_corrosion_cracking",
+   "planted": true
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "00-19816",
+   "field_id": "feature_class",
+   "value": "weld_joint",
+   "verdict": "wrong",
+   "readers": [
+    "wrong",
+    "wrong"
+   ],
+   "tie_broken": false,
+   "true_value": "radius_or_fillet",
+   "planted": true
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2013-10006",
+   "field_id": "feature_class",
+   "value": "weld_joint",
+   "verdict": "wrong",
+   "readers": [
+    "wrong",
+    "wrong"
+   ],
+   "tie_broken": false,
+   "true_value": "web",
+   "planted": true
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2013-10797",
+   "field_id": "mechanism_class",
+   "value": "corrosion",
+   "verdict": "wrong",
+   "readers": [
+    "wrong",
+    "wrong"
+   ],
+   "tie_broken": false,
+   "true_value": "fatigue_cracking",
+   "planted": true
+  },
+  {
+   "lot": "lot4-ads",
+   "document": "2016-31188",
+   "field_id": "component_class",
+   "value": "door",
+   "verdict": "wrong",
+   "readers": [
+    "wrong",
+    "wrong"
+   ],
+   "tie_broken": false,
+   "true_value": "fitting",
+   "planted": true
+  }
+ ]
+}

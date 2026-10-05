@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "2023-02986": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The applicability of this AD is all Model 210- and 177-series airplanes with carry-thru spars manufactured from 2014-T6 aluminum forging because this part is single-load path, critical structure manufactured from a material susceptible to severe corrosion.",
+     "value": "2014-T6 aluminum forging"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The carry-thru spar failed and resulted in wing separation and loss of control of the airplane. A visual examination of the fracture surface identified fatigue cracking that initiated at a corrosion pit.",
+     "value": "wing_spar"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Visually inspect the carry-thru spar lower cap (including the lower surface, upper surface, and edge) with a 10X magnification lens looking for corrosion, cracking, and damage. You are not required to inspect the lower cap to web radius, spar web, upper cap, or lugs. ... There have not been any reports of cracking in the lower flange of the carry-thru spars on Model 177-series airplanes.",
+     "value": "chord"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by the in-flight break-up of a Model T210M airplane in Australia, due to fatigue cracking that initiated at a corrosion pit, and subsequent corrosion reports on other Model 210- and 177-series airplanes.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires one-time visual and eddy current inspections of the carry-thru spar lower cap for corrosion, cracking, and damage, corrective action if necessary, applying a protective coating and CIC, and reporting the inspection results to the FAA. ... either remove the carry-thru spar from service or repair the area using a method approved as specified in paragraph (n) of this AD. ... The FAA estimates the following costs to do any necessary repairs or replacements that would be required based on the results of the proposed inspection ... Spar replacement--Model 210/T210- airplanes (P/N 1210721-1). ... As of the effective date of this AD, do not install on any airplane a carry-thru spar unless it has been inspected as required by paragraphs (g) and (h) of this AD",
+     "value": "one_time_inspection;replacement;repair;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2023-10624": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "AD 2001-22-06, Amendment 39-12485 (66 FR 54111, October 26, 2001), requires an inspection of the holes in the spar chord at the same location where the cracks were recently discovered in the steel fitting. However, that inspection has not been effective in reliably detecting cracks in the steel fitting inside the spar chord tube.",
+     "value": "steel"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "Further investigation was conducted when both wings were removed in 2023 and found complete separation of the left front spar lower fitting at the wing-to-fuselage joint as well as additional cracking on the equivalent joint on the right side of the airplane.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "On the left and right lower forward terminal fitting-to-spar chord joint assemblies, remove the most inboard fastener common to the spar cord and the terminal fitting, and do an eddy current bolt hole inspection on the steel terminal fittings and on the aluminum spar chord",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This condition, if not addressed, could result in fatigue cracking of the wing terminal-to-spar chord joints, which could result in loss of control of the airplane and reduced structural integrity of the airplane.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires inspections of the wing terminal-to-spar chord joints, and repair if necessary. ... This AD also requires repairing cracking and corrosion and sending all inspection results (both positive and negative) to the FAA. ... (g) Inspection\n    Before further flight: Perform inspections to detect cracking and corrosion",
+     "value": "one_time_inspection;repair;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2025-17026": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The NPRM was prompted by multiple reports of cracked T/R pedal support brackets, including a report of a forced emergency landing that was caused by a cracked magnesium cast T/R pedal support bracket.",
+     "value": "magnesium cast"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by multiple reports of cracked tail rotor (T/R) pedal support brackets.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "using a 10X power magnification glass, mirror, and flashlight, visually inspect each T/R pedal support bracket for cracks and corrosion by following the Accomplishment Instructions, paragraph 2.A.(2)., of MD Helicopters Service Bulletin SB369D-231R2",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Additionally, no supporting data explaining or showing that aluminum cast brackets are resistant to the unsafe condition of fatigue damage and cracking was submitted for review with these comments.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitively inspecting certain part-numbered T/R pedal support brackets and depending on the results, replacing the T/R pedal support bracket or refinishing any exposed areas. This AD also prohibits installing certain part-numbered T/R pedal support brackets.",
+     "value": "repetitive_inspection;replacement;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "E7-24855": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent failure of the propeller blade from fatigue cracks in the aluminum blade shank radius, which can result in damage to the airplane and loss of airplane control.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent failure of the propeller blade from fatigue cracks in the blade shank radius, which can result in damage to the airplane and loss of airplane control.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "rework of all ``Y'' shank aluminum blades including cold rolling of the blade shank retention radius ... fatigue cracks in the aluminum blade shank radius",
+     "value": "radius_or_fillet"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent failure of the propeller blade from fatigue cracks in the aluminum blade shank radius, which can result in damage to the airplane and loss of airplane control.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "That AD currently requires initial blade inspections, with no repetitive inspections; rework of all ``Y'' shank aluminum blades including cold rolling of the blade shank retention radius, blade replacement and modification of pitch change mechanisms for certain propeller models; and changing the airplane operating limitations with specific models of propellers installed. This AD requires the same actions but clarifies certain areas of the compliance ... (3) Inspect and repair or replace, if necessary, using Hartzell SB No. 118A, dated February 15, 1977.",
+     "value": "one_time_inspection;replacement;modification;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) This AD supersedes AD 2002-09-08, Amendment 39-12741.",
+     "value": "AD 2002-09-08"
+    }
+   ]
+  },
+  "E7-9396": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "We proposed the conductivity test and reporting requirement to find the two upper deck floor beams that were made from 7050-T7451 aluminum alloy, which are more susceptible to fatigue cracking.",
+     "value": "7050-T7451 aluminum alloy"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from several reports indicating that fatigue cracking was found in upper deck floor beams made from 7000 series aluminum alloy.",
+     "value": "floor_beam"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "(2) Repetitive open hole high frequency eddy current (HFEC) inspections for any crack in certain fastener holes at the intersection of the floor beam upper chord and the frame inner chord on both sides of the airplane. (3) Repetitive open hole HFEC inspections for any crack in the upper deck floor beam at all floor panel attachment fastener holes",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD results from several reports indicating that fatigue cracking was found in upper deck floor beams made from 7000 series aluminum alloy.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections for any crack in the upper deck floor beam at station 400 ... This AD also requires corrective action if necessary. ... Before further flight, repair the crack using a method approved in accordance with paragraph (g) of this AD.",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n    (b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "E8-20091": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "(n) As of the effective date of this AD, no person may install a door lower forward corner reveal made of cast 356 aluminum on any airplane at a location specified by this AD.",
+     "value": "cast 356 aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking and/or a sharp edge in the lower forward corner reveal of the number 3 main entry doors (MEDs). We are issuing this AD to detect and correct fatigue cracking of the lower forward corner reveal of the number 3 MEDs, which could lead to the door escape slide departing the airplane when the door is opened and the slide is deployed",
+     "value": "door"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking and/or a sharp edge in the lower forward corner reveal of the number 3 main entry doors (MEDs).",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct fatigue cracking of the lower forward corner reveal of the number 3 MEDs",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "this AD requires a material type inspection to determine if the lower forward corner reveal of the number 3 main entry doors (MEDs) is a casting. If the reveals are castings, this AD requires repetitive inspections of the reveals for cracking, and corrective action if necessary. If the reveals are not castings, this AD requires a detailed inspection of the reveals for a sharp edge and repetitive inspections of the reveals for cracking ... (A) Before further flight, weld repair the reveal in accordance with Part 4 of the service bulletin. ... (i) Before further flight, replace the reveal with a new or reworked two-piece reveal in accordance with Part 2 of the service bulletin. ... (n) As of the effective date of this AD, no person may install a door lower forward corner reveal made of cast 356 aluminum on any airplane at a location specified by this AD.",
+     "value": "repetitive_inspection;one_time_inspection;replacement;repair;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Certain requirements of this AD terminate certain requirements of AD 2007-12-11, amendment 39-15089.",
+     "value": "AD 2007-12-11"
+    }
+   ]
+  }
+ }
+}

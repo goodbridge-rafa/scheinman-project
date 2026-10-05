@@ -1,0 +1,68 @@
+{
+ "facts": [
+  {
+   "field_id": "spec_6061_sheet",
+   "value": "AMS 4026 and AMS-QQ-A-250/11; AMS-QQ-A-250/11; AMS 4025, AMS 4027 and AMS-QQ-A-250/11",
+   "unit": "text",
+   "snippet": "Specification . . . . . . . | AMS 4026 and AMS-QQ-A-250/11 | AMS-QQ-A-250/11 | AMS 4025, AMS 4027 and AMS-QQ-A-250/11",
+   "page": 566,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "t6_range_with_AB_in",
+   "value": "0.010-0.249",
+   "unit": "in",
+   "snippet": "Temper . . . T6 and T62 | Thickness, in. . . . 0.010-0.249 | Basis . . . A  B",
+   "page": 566,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "t6_ftu_LT_A_ksi",
+   "value": "42",
+   "unit": "ksi",
+   "snippet": "Ftu, ksi: LT . . . . . . . . . . . . . 30  32  30  42  43",
+   "page": 566,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "t6_fty_LT_A_ksi",
+   "value": "35",
+   "unit": "ksi",
+   "snippet": "Fty, ksi: LT . . . . . . . . . . . . . 16  18  14  35  37",
+   "page": 566,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "t6_fbru_2p0_A_ksi",
+   "value": "88",
+   "unit": "ksi",
+   "snippet": "Fbru, ksi: (e/D = 2.0) . . . . . . . 63  67  ...  88  90",
+   "page": 566,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "t6_e_modulus_ksi",
+   "value": "9.9",
+   "unit": "10^3 ksi",
+   "snippet": "E, 10^3 ksi . . . . . . . . . 9.9",
+   "page": 566,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "density_lb_in3",
+   "value": "0.098",
+   "unit": "lb/in^3",
+   "snippet": "omega, lb/in.3 . . . . . . . . . 0.098",
+   "page": 566,
+   "agreement": "both extractors, blind, identical after normalization"
+  }
+ ],
+ "blanks": [
+  {
+   "field_id": "t6_elongation_pct",
+   "reason": "neither extractor found it",
+   "candidate_a": null,
+   "candidate_b": null
+  }
+ ]
+}

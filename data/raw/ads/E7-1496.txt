@@ -1,0 +1,995 @@
+<html>
+<head>
+<title>Federal Register, Volume 72 Issue 21 (Thursday, February 1, 2007)</title>
+</head>
+<body><pre>
+[Federal Register Volume 72, Number 21 (Thursday, February 1, 2007)]
+[Rules and Regulations]
+[Pages 4625-4633]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E7-1496]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2006-26323; Directorate Identifier 2006-NM-150-AD; 
+Amendment 39-14918; AD 2007-03-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 737 Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD) that applies to all Boeing Model 737 airplanes. The existing AD 
+currently requires installation of a new rudder control system and 
+changes to the adjacent systems to accommodate that new rudder control 
+system. For certain airplanes, this new AD adds, among other actions, 
+repetitive tests of the force fight monitor of the main rudder power 
+control unit (PCU), repetitive tests of the standby hydraulic actuation 
+system, and corrective action; as applicable. For those airplanes, this 
+new AD also adds, among other actions, replacement of both input 
+control rods of the main rudder PCU and the input control rod of the 
+standby rudder PCU with new input control rods, as applicable, which 
+ends the repetitive tests. For certain other airplanes, this new AD 
+adds installation of an enhanced rudder control system in accordance 
+with new service information. This AD results from a report of a 
+fractured rod end of an input control rod of the main rudder PCU and a 
+subsequent report of a fractured rod end of the input control rod of 
+the standby rudder PCU. We are issuing this AD to prevent failure of 
+one of the two input control rods of the main rudder PCU, which, under 
+certain conditions, could result in reduced controllability of the 
+airplane; and to prevent failure of any combination of two input 
+control rods of the main rudder PCU and/or standby rudder PCU, which 
+could cause an uncommanded rudder hardover event and result in loss of 
+control of the airplane.
+
+DATES: This AD becomes effective February 16, 2007.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of February 16, 
+2007.
+    We must receive any comments on this AD by April 2, 2007.
+
+ADDRESSES: Use one of the following addresses to submit comments on 
+this AD.
+    <bullet> DOT Docket Web site: Go to <a href="http://dms.dot.gov">http://dms.dot.gov</a> and follow 
+the instructions for sending your comments electronically.
+    <bullet> Government-wide rulemaking Web site: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a> and follow the instructions for sending your 
+comments electronically.
+    <bullet> Mail: Docket Management Facility; U.S. Department of 
+Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, 
+Washington, DC 20590.
+    <bullet> Fax: (202) 493-2251.
+
+[[Page 4626]]
+
+    <bullet> Hand Delivery: Room PL-401 on the plaza level of the 
+Nassif Building, 400 Seventh Street, SW., Washington, DC, between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for service information identified in this AD.
+    You may examine the contents of the AD docket on the Internet at 
+<a href="http://dms.dot.gov">http://dms.dot.gov</a>, or in person at the Docket Management Facility, 
+U.S. Department of Transportation, 400 Seventh Street, SW., Room PL-
+401, Washington, DC. This docket number is FAA-2006-26323; the 
+directorate identifier for this docket is 2006-NM-150-AD.
+
+FOR FURTHER INFORMATION CONTACT: Kenneth W. Frey, Aerospace Engineer, 
+Systems and Equipment Branch, ANM-130S, FAA, Seattle Aircraft 
+Certification Office, 1601 Lind Avenue, SW., Renton, Washington 98057-
+3356; telephone (425) 917-6468; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that supersedes AD 2002-20-07 R1, 
+amendment 39-12940 (67 FR 67518, November 6, 2002). The existing AD 
+applies to all Boeing Model 737 airplanes. That NPRM was published in 
+the Federal Register on November 15, 2006 (71 FR 66474). That NPRM 
+proposed to continue to require installation of a new rudder control 
+system and changes to the adjacent systems to accommodate that new 
+rudder control system. For certain airplanes, that NPRM proposed to 
+add, among other actions, repetitive tests of the force fight monitor 
+of the main rudder power control unit (PCU), repetitive tests of the 
+standby hydraulic actuation system, and corrective action; as 
+applicable. For those airplanes, that NPRM also proposed to add, among 
+other actions, replacement of both input control rods of the main 
+rudder PCU and the input control rod of the standby rudder PCU with new 
+input control rods, as applicable, which would end the repetitive 
+tests. For certain other airplanes, that NPRM proposed to add 
+installation of an enhanced rudder control system in accordance with 
+new service information.
+
+Actions Since NPRM Was Issued
+
+    Since we issued the NPRM, we have received a report of a fractured 
+rod end on the input control rod of the standby rudder PCU on a Model 
+737-700 series airplane. This condition was discovered during 
+accomplishment of an operational test of the standby hydraulic 
+actuation system in accordance with Boeing Alert Service Bulletin 737-
+27A1280, dated May 25, 2006 (one of the actions specified in the NPRM). 
+Investigation revealed that, although the input control rod had an 
+existing crack of significant size, it ultimately fractured due to 
+fatigue damage. Fatigue damage is caused by repetitive forces being 
+applied (i.e., cyclic loading).
+    This finding of fatigue damage is not consistent with the results 
+of our investigation that led to actions specified in the NPRM. The 
+actions and compliance times specified in the NPRM were based on our 
+finding that, while the input control rod may have been cracked during 
+assembly, no significant loading was present to further degrade the 
+integrity of the input control rod over time, causing it to fracture.
+    Therefore, we have determined that, for certain Model 737-600, -
+700, -700C, -800, and -900 series airplanes on which the suspect input 
+control rod of the standby rudder PCU was installed during production, 
+the compliance times for the following actions in the NPRM will not 
+detect and correct failure of the input control rod of the standby 
+rudder PCU in a timely manner:
+    <bullet> The initial compliance time and repetitive intervals for 
+the operational tests specified in paragraph (g)(1), and
+    <bullet> The threshold for the replacement of the input control rod 
+of the standby rudder PCU specified in paragraph (g)(3).
+    Failure of one of the two input control rods of main rudder PCU, 
+under certain conditions, could result in reduced controllability of 
+the airplane; and failure of any combination of two input control rods 
+of the main rudder PCU and/or standby rudder PCU could cause an 
+uncommanded rudder hardover event and result in loss of control of the 
+airplane.
+
+Relevant Service Information
+
+    As discussed in the ``Relevant Service Information'' section of the 
+NPRM, we have reviewed the following service information:
+
+                                          Relevant Service Information
+----------------------------------------------------------------------------------------------------------------
+             Service Bulletin                      Revision level                          Date
+----------------------------------------------------------------------------------------------------------------
+Boeing Alert Service Bulletin 737-27A1239  Original.....................  January 11, 2001.
+Boeing Alert Service Bulletin 737-27A1279  Original.....................  June 20, 2006.
+Boeing Alert Service Bulletin 737-27A1280  Original.....................  May 25, 2006.
+Boeing Alert Service Bulletin 737-27A1281  Original.....................  June 14, 2006.
+Boeing Service Bulletin 737-22-1042......  1............................  April 5, 1985.
+Boeing Service Bulletin 737-27A1206......  3............................  December 14, 2000.
+Boeing Service Bulletin 737-27-1246,       1............................  February 21, 2002.
+ including Appendix A.
+Boeing Service Bulletin 737-27-1247......  1............................  July 25, 2002.
+Boeing Service Bulletin 737-27-1252......  3............................  May 12, 2006.
+Boeing Service Bulletin 737-27-1253......  3............................  May 12, 2006.
+Boeing Service Bulletin 737-27-1255......  3............................  May 10, 2006.
+Boeing Service Bulletin 737-27-1262......  Original.....................  December 19, 2002.
+Boeing Service Bulletin 737-27-1263......  1............................  September 25, 2003.
+Boeing Service Bulletin 737-27-1264......  1............................  April 3, 2003.
+Boeing Service Bulletin 737-55-1052......  1............................  August 5, 2004.
+Boeing 737 Service Bulletin 27-1026......  Original.....................  January 15, 1971.
+Smiths Aerospace Actuation Systems         Original.....................  August 28, 2003.
+ Service Bulletin 1150-27-05A.
+----------------------------------------------------------------------------------------------------------------
+
+    Accomplishing the actions specified in the service information is 
+intended to adequately address the unsafe condition.
+
+Comments
+
+    We provided the public the opportunity to submit comments
+
+[[Page 4627]]
+
+regarding the NPRM and have considered the comments that have been 
+received.
+
+Support for the NPRM
+
+    The Air Line Pilots Association and Boeing support the NPRM.
+
+Requests To Issue Stand Alone AD
+
+    Delta and Southwest Airlines request that we issue a stand alone AD 
+that addresses the control rod issues only instead of superseding AD 
+2002-20-07 R1. Delta states that a stand alone AD will minimize the 
+amount of revisions to engineering authorizations (EAs). Delta points 
+out that a supersedure AD would result in their revising four EAs 
+whereas a stand alone AD would result in revising only one EA. 
+Southwest Airlines states that a stand alone AD would be more cost 
+effective because a supersedure AD results in document revision, record 
+keeping, and computer tracking issues.
+    We do not agree. As explained in the ``Actions Since Existing AD 
+Was Issued'' section of the NPRM, we have received a report of a 
+fractured rod end on one of the two input control rods of the main 
+rudder PCU on a Model 737-800 series airplane. The incident airplane 
+had been modified to comply with the requirements of AD 2002-20-07 R1. 
+We determined that accomplishment of the actions required by AD 2002-
+20-07 R1 introduces a new unsafe condition (i.e., failure of the input 
+control rods of the rudder control system, which, under certain 
+conditions, could result in reduced controllability of the airplane 
+and/or loss of control of the airplane), and that a substantive change 
+to that AD was necessary.
+    Our current policy specifies that, whenever a substantive change is 
+made to an existing AD that imposes a new burden, we must supersede the 
+AD. Substantive changes are those made to any instruction or reference 
+that affects the substance of the AD. Substantive changes include part 
+numbers, service bulletin and manual references, compliance times, 
+applicability, methods of compliance, corrective action, inspection 
+requirements, and effective dates. We consider the changes to the 
+existing AD to be substantive. This superseding AD is assigned a new 
+amendment number and new AD number, and the previous amendment is 
+removed from the system. This procedure facilitates the efforts of 
+principal maintenance inspectors in tracking ADs and ensuring that 
+affected operators have incorporated the most recent changes into their 
+maintenance programs.
+    With regard to paperwork changes required by affected operators, 
+Sec.  121.380(a)(2)(vi) (``Maintenance recording requirements'') of the 
+Federal Aviation Regulations (14 CFR 121.380(a)(2)(vi)), requires that 
+persons holding an operating certificate and operating under part 121 
+of the Federal Aviation Regulations must keep ``The current status of 
+applicable airworthiness directives, including the date and methods of 
+compliance * * *.'' Whether an existing AD is superseded or a new stand 
+alone AD is issued, the new AD is assigned a new AD number. In either 
+case, the new AD is identified by its ``new'' AD number. In light of 
+this, affected operators updating their maintenance records to indicate 
+the current AD status would have to record a new AD number in both 
+cases. Further, operators are always given credit for work previously 
+performed according to the existing AD by means of the phrase in the 
+compliance section of the AD that states, ``* * * unless the actions 
+have already been done.'' Therefore, we have determined that a 
+supersedure AD is appropriate.
+
+Request To Supersede Other ADs
+
+    If the AD does supersede AD 2002-20-07 R1, Southwest Airlines 
+requests that the AD also supersede the following ADs:
+    <bullet> AD 95-06-53, amendment 39-9199 (60 FR 18981, April 14, 
+1995);
+    <bullet> AD 97-05-10, amendment 39-9954 (62 FR 9679, March 4, 
+1997); and
+    <bullet> AD 98-02-01, amendment 39-10283 (63 FR 1903, January 13, 
+1998).
+    Southwest Airlines states that these additional ADs were all listed 
+in AD 2002-20-07 R1. Southwest Airlines states that if these changes 
+are not made, operators will be required to report the status of 
+obsolete ADs.
+    We do not agree. AD 2002-20-07 R1 revises AD 2002-20-07, amendment 
+39-12903 (67 FR 62341, October 7, 2002), and supersedes ADs 95-06-53, 
+97-05-10, and 98-02-01. As of November 12, 2002 (the effective date of 
+AD 2002-20-07 R1), those ADs were effectively superseded (cancelled) 
+and thus no further action is required in regard to those ADs.
+
+Request To Change List of Affected ADs
+
+    Southwest Airlines also requests that AD 97-14-04, amendment 39-
+10061 (62 FR 35068, June 30, 1997), be added to the list of ADs in 
+Table 1 of the NPRM.
+    We agree. Our intent was to retain all requirements of AD 2002-20-
+07 R1. AD 97-14-04 was included in paragraph (b) of AD 2002-20-07 R1. 
+However, we inadvertently omitted it from Table 1 in paragraph (b) of 
+the NPRM. Doing the action required by paragraph (f) or (h) of this AD 
+ends the requirements of AD 97-14-04 and the other ADs identified in 
+Table 1 of this AD. We have revised Table 1 accordingly.
+
+Request To Revise the Applicability
+
+    Southwest Airlines requests that the applicability of the NPRM be 
+revised to affect Model 737-600, -700, -700C, -800 and -900 series 
+airplanes (i.e., 737 next generation airplanes), line numbers 1 through 
+1947 only (no change requested for affected Model 737-100 through -500 
+series airplanes). Southwest Airlines states that the effectivity of 
+Boeing Alert Service Bulletin 737-27A1279, dated June 20, 2006; and 
+Boeing Alert Service Bulletin 737-27A1280, dated May 25, 2006; indicate 
+that 737 next generation airplanes with line numbers 1948 or higher 
+have an enhanced rudder control system with the improved rods already 
+installed. Southwest Airlines also states that it is a hardship to 
+require AD reporting on airplanes that have been modified in 
+production.
+    We do not agree with Southwest Airlines to exclude airplanes on 
+which an enhanced rudder control system with new input control rods has 
+been installed in production from the applicability of this AD. 
+Paragraph (j) of this AD states, ``As of the effective date of this AD, 
+no person may install an input control rod, P/N 251A3495-1, on any 
+airplane.'' All Model 737 airplanes, including those in production now 
+and in the future, are subject to this requirement. Therefore, we have 
+determined that the applicability of the AD is correct as proposed.
+
+Request To Exclude Certain Airplanes From Paragraph (g) of the NPRM
+
+    Southwest Airlines requests that paragraph (g) be revised to 
+exclude airplanes for which maintenance records can conclusively show 
+that the suspect rods have not been installed. Southwest Airlines 
+states that some airplanes have had control rods replaced or modified 
+with the latest kits.
+    We partially agree. We agree with Southwest Airlines that no 
+further work is required by paragraph (g) for airplanes on which the 
+input control rods have been replaced in accordance with paragraph 
+(g)(4) of this AD. We also find that no further work is required by 
+paragraph (h) for airplanes on which the input control rods have been 
+installed in accordance with paragraph (h) of this AD. We have 
+determined that those actions adequately address the identified unsafe 
+condition of this AD related to the input
+
+[[Page 4628]]
+
+control rods. However, we do not agree to revise this AD. Operators are 
+given credit for work previously done by the means of the phrase in the 
+``Compliance'' section of the AD that states, ``* * * unless the 
+actions have already been done.'' Therefore, in the case of this AD, if 
+the actions required by paragraph (g)(4) or (h) of this AD (i.e., 
+replacement of input control rods or installation of a new rudder 
+control system) have been done in accordance with the service 
+information identified in Table 4 or 5 of this AD, respectively, before 
+the effective date of this AD, this AD does not require those actions 
+to be repeated.
+
+Request To Delete Reference to Certain Group Configurations
+
+    AirTran Airways supports the proposed actions described in the 
+NPRM, but points out a discrepancy between the NPRM and a referenced 
+service bulletin. AirTran Airways notes that paragraph (g)(1)(iii) of 
+the NPRM is applicable to airplanes identified as Group 1, 
+Configuration 1, and Group 2, Configurations 1 and 2, in Boeing Alert 
+Service Bulletin 737-27A1280, dated May 25, 2006. AirTran Airways 
+states that the service bulletin does not contain any configurations 
+for Group 2.
+    From this comment, we infer that AirTran Airways is requesting that 
+we delete the reference to Configurations 1 and 2 for Group 2 specified 
+in paragraphs (g)(1)(iv), (g)(2)(i), and (g)(2)(ii) of this AD 
+(paragraph (g)(1)(iii) in the NPRM). We agree and have revised this AD 
+accordingly.
+
+Request To Delete Concurrent Requirements
+
+    Southwest Airlines states that it is impossible to install the 
+enhanced rudder system without doing the concurrent requirements in 
+paragraph (i) of the NPRM. Southwest Airlines notes that each of the 
+service bulletins identified in Table 5 of the NPRM, except ``[Boeing] 
+[S]ervice [B]ulletin 737-55-1042,'' is listed in the initial release of 
+the primary service bulletins identified in Table 4 of the NPRM. 
+Southwest Airlines believes it is impossible to trim the spar as 
+illustrated in the primary service bulletins unless the trim was 
+previously accomplished per ``[Boeing] [S]ervice [B]ulletin 737-55-
+1042.'' Southwest Airlines also believes that the NPRM validates this 
+by not requiring rework other than for the discrepant control rods.
+    From this comment, we infer that Southwest Airlines is requesting 
+that the concurrent requirements specified in paragraph (i) of the NPRM 
+be deleted. Since Boeing Service Bulletin 737-55-1042 describes 
+procedures unrelated to the subject of this AD, we also infer that 
+Southwest Airlines meant to refer to Boeing Service Bulletin 737-55-
+1052, Revision 1, dated August 5, 2004 (referred to in paragraph 
+(i)(2)(iv) of this AD as a concurrent requirement). We do not agree 
+with Southwest Airlines to delete the concurrent requirements of this 
+AD. Our current policy specifies that service information must be 
+``published'' (i.e., incorporation by reference (IBR)) if the AD 
+mandates a method of compliance that is contained only in the 
+referenced service information. As in the case of this AD, the 
+concurrent requirement actions specified in Table 6 of the AD are 
+contained only in the service information identified in that table, not 
+in the primary service information identified in Table 5 of this AD. 
+Therefore, we have made no change to this AD in this regard.
+
+FAA's Determination and Requirements of This AD
+
+    The unsafe condition described previously is likely to exist or 
+develop on other airplanes of the same type design. For this reason, we 
+are issuing this AD to supersede AD 2002-20-07 R1. This AD supersedes 
+AD 2002-20-07 R1 and retains the requirements of the existing AD. This 
+AD also requires accomplishing the actions specified in the applicable 
+service information identified previously, except as discussed under 
+``Differences Between the AD and Certain Service Information.'' For 
+certain airplanes, this AD also requires suspending a certain Master 
+Minimum Equipment List item, until all improperly heat-treated input 
+control rods are replaced.
+
+Differences Between the AD and Certain Service Information
+
+    For certain Model 737-600, -700, -700C, -800, and -900 series 
+airplanes on which the suspect input control rod of the standby rudder 
+PCU was installed during production, the compliance times for the 
+following actions required by this AD are different (i.e., shorter 
+intervals) than those specified in Boeing Alert Service Bulletin 737-
+27A1279, dated June 20, 2006; and Boeing Alert Service Bulletin 737-
+27A1280, dated May 25, 2006:
+    <bullet> For the operational tests of the standby hydraulic 
+actuation system: This AD specifies an initial compliance time of 
+within 110 flight hours or 7 days after the effective date of this AD, 
+whichever occurs later, and repetitive intervals of 110 flight hours or 
+7 days, whichever occurs later, whereas Boeing Alert Service Bulletin 
+737-27A1280 specifies an initial compliance time of within 60 days and 
+repetitive intervals of 500 flight hours.
+    <bullet> For the replacement of the input control rod of the 
+standby rudder PCU: This AD specifies a compliance time of within 90 
+days after the effective date of this AD whereas Boeing Alert Service 
+Bulletin 737-27A1279 specifies a compliance time of 24 months.
+    As discussed previously in the ``Discussion'' section of this AD, 
+the proposed compliance times for these actions may not detect and 
+correct failure of the input control rod of the standby rudder PCU in a 
+timely manner. While we do not yet have data on the growth rate of 
+these cracks, we believe the revised compliance times described 
+previously are adequate to ensure safety without imposing undue burdens 
+on air commerce. In developing appropriate compliance times for these 
+actions in this AD, we considered the safety implications, parts 
+availability, and normal maintenance schedules for the timely 
+accomplishment of the operational tests and replacements. In 
+consideration of these items, as well as the reported failures of the 
+input control rods in service, we have determined that the compliance 
+times in this AD will ensure an acceptable level of safety and allow 
+the actions to be done during scheduled maintenance intervals for most 
+affected operators.
+
+Changes to NPRM
+
+    As a result of the differences between the AD and certain service 
+information described previously, we have revised the applicable 
+compliance times in this AD and changed certain paragraph identifiers 
+and tables and added others.
+    In certain places in the NPRM, we referred to the incorrect year of 
+the issuance date of Boeing Alert Service Bulletin 737-27A1280. The 
+correct issuance date is May 25, 2006, not May 25, 2005. We have 
+corrected this error in this AD.
+
+FAA's Determination of the Effective Date
+
+    Regarding the reduced compliance times described previously, an 
+unsafe condition exists that requires the immediate adoption of this 
+AD; therefore, providing notice and opportunity for public comment 
+before the AD is issued is impracticable, and good cause exists to make 
+this AD effective in less than 30 days.
+
+Comments Invited
+
+    Regarding the reduced compliance times described previously, this 
+AD is a final rule that involves requirements that affect flight safety 
+and was not
+
+[[Page 4629]]
+
+preceded by notice and an opportunity for public comment; however, we 
+invite you to submit any relevant written data, views, or arguments 
+regarding this AD. Send your comments to an address listed in the 
+ADDRESSES section. Include ``Docket No. FAA-2006-26323; Directorate 
+Identifier 2006-NM-150-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of the AD that might suggest a need 
+to modify it.
+    We will post all comments we receive, without change, to <a href="http://lldms.dot.gov">http://lldms.dot.gov</a>, including any personal information you provide. We will 
+also post a report summarizing each substantive verbal contact with FAA 
+personnel concerning this AD. Using the search function of that Web 
+site, anyone can find and read the comments in any of our dockets, 
+including the name of the individual who sent the comment (or signed 
+the comment on behalf of an association, business, labor union, etc.). 
+You may review the DOT's complete Privacy Act Statement in the Federal 
+Register published on April 11, 2000 (65 FR 19477-78), or you may visit 
+<a href="http://dms.dot.gov">http://dms.dot.gov</a>.
+
+Examining the Docket
+
+    You may examine the AD docket on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a>, or in person at the Docket Management Facility office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The Docket Management Facility office (telephone (800) 647-
+5227) is located on the plaza level of the Nassif Building at the DOT 
+street address stated in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after the Docket Management System 
+receives them.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that the regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends part 39 of the Federal Aviation Regulations (14 CFR part 
+39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+removing amendment 39-12940 (67 FR 67518, November 6, 2002) and adding 
+the following new airworthiness directive (AD):
+
+2007-03-07 Boeing: Amendment 39-14918. Docket No. FAA-2006-26323; 
+Directorate Identifier 2006-NM-150-AD.
+
+Effective Date
+
+    (a) This AD becomes effective February 16, 2007.
+
+Affected ADs
+
+    (b) This AD affects the ADs specified in paragraphs (b)(1), 
+(b)(2), and (b)(3) of this AD.
+    (1) This AD supersedes AD 2002-20-07 R1.
+    (2) For airplanes on which the actions required by paragraph (f) 
+of this AD have been done before the effective date of this AD: 
+Doing the actions in paragraph (f) of this AD ends the requirements 
+of the ADs listed in Table 1 of this AD.
+    (3) For airplanes on which the actions required by paragraph (f) 
+of this AD have not been done before the effective date of this AD: 
+Doing the actions in paragraph (h) of this AD ends the requirements 
+of the ADs listed in Table 1 of this AD.
+
+                           Table 1.--Other ADs
+------------------------------------------------------------------------
+                          AD--                              Amendment--
+------------------------------------------------------------------------
+97-09-15 R1.............................................        39-10912
+97-14-04................................................        39-10061
+99-11-05................................................        39-11175
+2000-22-02 R1...........................................        39-11948
+------------------------------------------------------------------------
+
+Applicability
+
+    (c) This AD applies to all Boeing Model 737-100, -200, -200C, -
+300, -400, -500, -600, -700, -700C, -800 and -900 series airplanes, 
+certificated in any category.
+
+Unsafe Condition
+
+    (d) This AD results from a report of a fractured rod end of an 
+input control rod of the main rudder power control unit (PCU) and a 
+subsequent report of a fractured rod end of the input control rod of 
+the standby rudder PCU. We are issuing this AD to prevent failure of 
+one of the two input control rods of the main rudder PCU, which, 
+under certain conditions, could result in reduced controllability of 
+the airplane; and to prevent failure of any combination of two input 
+control rods of the main rudder PCU and/or standby rudder PCU, which 
+could cause an uncommanded rudder hardover event and result in loss 
+of control of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Requirements of AD 2002-20-07 R1
+
+Installation
+
+    (f) Except as provided by paragraphs (h) and (i) of this AD: 
+Within 6 years after November 12, 2002 (the effective date of AD 
+2002-20-07), do the actions required by paragraphs (f)(1) and (f)(2) 
+of this AD, in accordance with a method approved by the Manager, 
+Seattle Aircraft Certification Office (ACO), FAA.
+    (1) Install a new rudder control system that includes new 
+components such as an aft torque tube, hydraulic actuators, and 
+associated input control rods, and additional wiring throughout the 
+airplane to support failure annunciation of the rudder control 
+system in the flight deck. The system also must incorporate two 
+separate inputs, each with an override mechanism, to two separate 
+servo valves on the main rudder PCU; and an input to the standby PCU 
+that also will include an override mechanism.
+
+[[Page 4630]]
+
+    (2) Make applicable changes to the adjacent systems to 
+accommodate the new rudder control system.
+
+New Requirements of This AD
+
+For Certain Airplanes: Tests, Suspension of Certain Master Minimum 
+Equipment List Item, Replacements, Inspection, and Corrective Actions
+
+    (g) For airplanes on which the actions required by paragraph (f) 
+of this AD have been done before the effective date of this AD: Do 
+the actions in paragraphs (g)(1) through (g)(4) of this AD, as 
+applicable.
+    (1) At the applicable times listed in paragraph 1.E., 
+``Compliance,'' of the applicable service bulletin specified in 
+Table 2 of this AD; except, where the service bulletin specifies a 
+compliance time from the date on the service bulletin, this AD 
+requires compliance within the specified compliance time after the 
+effective date of this AD: Do the tests specified in Table 2 of this 
+AD, until all applicable actions required by paragraph (g)(4) of 
+this AD have been done in accordance with the applicable service 
+bulletin specified in Table 4 of this AD. Do all applicable 
+corrective actions specified in Table 2 of this AD before further 
+flight.
+
+            Table 2.--Repetitive Tests for Certain Airplanes
+------------------------------------------------------------------------
+                                                     In accordance with
+         For model--                  Do--           the accomplishment
+                                                      instructions of--
+------------------------------------------------------------------------
+(i) 737-100, -200, and -200C  The ``Rudder Main     Boeing Alert Service
+ series airplanes identified   Power Control Unit    Bulletin 737-
+ as Group 1, Configuration     Force Fight Test,''   27A1281, dated June
+ 1, in the service bulletin.   the ``Standby         14, 2006.
+                               Rudder Actuator
+                               Shutoff Valve
+                               Test,'' and any
+                               applicable
+                               corrective action.
+(ii) 737-300, -400, and -500  The ``Rudder Main     Boeing Alert Service
+ series airplanes identified   Power Control Unit    Bulletin 737-
+ as Group 2, Configuration     Force Fight Test,''   27A1281, dated June
+ 1, in the service bulletin.   the ``Standby         14, 2006.
+                               Rudder Actuator
+                               Shutoff Valve
+                               Test,'' and any
+                               applicable
+                               corrective action.
+(iii) 737-600, -700, -700C, - The ``Rudder Main     Boeing Alert Service
+ 800, and -900 series          Power Control Unit    Bulletin 737-
+ airplanes identified as       Force Fight Monitor   27A1280, dated May
+ Group 1, Configuration 1,     Test,'' the           25, 2006.
+ in the service bulletin.      ``Operational Test
+                               of the Standby
+                               Hydraulic Actuation
+                               System,'' and any
+                               applicable
+                               corrective action.
+(iv) 737-600, -700, -700C, -  The ``Rudder Main     Boeing Alert Service
+ 800, and -900 series          Power Control Unit    Bulletin 737-
+ airplanes identified as       Force Fight Monitor   27A1280, dated May
+ Group 2 in the service        Test,'' and any       25, 2006.
+ bulletin.                     applicable
+                               corrective action.
+------------------------------------------------------------------------
+
+    (2) At the applicable times listed in Table 3 of this AD, do the 
+``Operational Test of the Standby Hydraulic Actuation System,'' and 
+any applicable corrective action, until all applicable actions 
+required by paragraph (g)(4) of this AD have been done in accordance 
+with the applicable service bulletin specified in Table 4 of this 
+AD. The actions must be done in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 737-27A1280, dated May 
+25, 2006. Do all applicable corrective actions before further 
+flight.
+
+                          Table 3.--Repetitive Operational Tests for Certain Airplanes
+----------------------------------------------------------------------------------------------------------------
+                                                                  Do the ``Operational
+                                          On which the input      Test of the Standby     And repeat the test at
+             For model--                  control rod of the      Hydraulic Actuation        intervals not to
+                                         standby rudder PCU--          System''--                exceed--
+----------------------------------------------------------------------------------------------------------------
+(i) 737-600, -700, -700C, -800, and -  Has not been replaced    Within 110 flight hours  110 flight hours or 7
+ 900 series airplanes identified as     as required by           or 7 days after the      days, whichever occurs
+ Group 2 in the service bulletin.       paragraph (g)(4)(v) of   effective date of this   later.
+                                        this AD.                 AD, whichever occurs
+                                                                 later.
+(ii) 737-600, -700, -700C, -800, and - Has been replaced as     Within 60 days after     500 flight hours.
+ 900 series airplanes identified as     required by paragraph    the effective date of
+ Group 2 in the service bulletin.       (g)(4)(v) of this AD.    this AD.
+----------------------------------------------------------------------------------------------------------------
+
+    (3) As of the effective date of this AD, do not use the Master 
+Minimum Equipment List Item 27-21, ``STBY RUD ON light,'' until all 
+applicable actions required by paragraph (g)(4) of this AD are done.
+    (4) At the applicable time specified in Table 4 of this AD, do 
+the replacement(s) and inspection, as applicable, specified in that 
+table. Do all applicable corrective actions specified in Table 4 of 
+this AD before further flight. Doing all applicable actions ends the 
+requirements of paragraphs (g)(1) through (g)(3) of this AD.
+
+          Table 4.--Replacement of Input Control Rods, Inspection, and Corrective Action, as Applicable
+----------------------------------------------------------------------------------------------------------------
+                                                                                                And do the
+                                           Do the following                                 replacement(s) and
+             For model--                     action(s)--          In accordance with--        inspection, as
+                                                                                               applicable--
+----------------------------------------------------------------------------------------------------------------
+(i) 737-100, -200, and -200C series    Replace both input       Part 2 of the            Within 24 months after
+ airplanes identified as Groups 1       control rods of the      Accomplishment           the effective date of
+ through 9, Configuration 3, in the     main rudder PCU with     Instructions of Boeing   this AD.
+ service bulletin.                      new input control rods.  Service Bulletin 737-
+                                                                 27-1252, Revision 3,
+                                                                 dated May 12, 2006.
+
+[[Page 4631]]
+
+ 
+(ii) 737-300, -400, and -500 series    Replace both input       Part 2 of the            Within 24 months after
+ airplanes identified as Groups 1       control rods of the      Accomplishment           the effective date of
+ through 19, Configuration 3, in the    main rudder PCU with     Instructions of Boeing   this AD.
+ service bulletin.                      new input control rods.  Service Bulletin 737-
+                                                                 27-1255, Revision 3,
+                                                                 dated May 10, 2006.
+(iii) 737-600, -700, -700C, -800, and  Replace both input       Part 2 of the            Within 24 months after
+ -900 series airplanes identified as    control rods of the      Accomplishment           the effective date of
+ Groups 1 through 20, Configuration     main rudder PCU with     Instructions of Boeing   this AD.
+ 3, in the service bulletin.            new input control        Service Bulletin 737-
+                                        rods, inspect the        27-1253, Revision 3,
+                                        input control rod of     dated May 12, 2006.
+                                        the standby rudder PCU
+                                        to determine if part
+                                        number (P/N) 251A3495-
+                                        1 is installed, and do
+                                        any corrective action.
+(iv) 737-600, -700, -700C, -800, and - Replace both input       The Accomplishment       Within 24 months after
+ 900 series airplanes identified as     control rods of the      Instructions of Boeing   the effective date of
+ Group 1 in the service bulletin.       main rudder PCU with     Alert Service Bulletin   this AD.
+                                        new input control rods.  737-27A1279, dated
+                                                                 June 20, 2006.
+(v) 737-600, -700, -700C, -800, and -  Replace the input        The Accomplishment       Within 90 days after
+ 900 series airplanes identified as     control rod of the       Instructions of Boeing   the effective date of
+ Group 1 in the service bulletin.       standby rudder PCU       Alert Service Bulletin   this AD.
+                                        with a new input         737-27A1279, dated
+                                        control rod.             June 20, 2006.
+----------------------------------------------------------------------------------------------------------------
+
+For Certain Other Airplanes: Install New Rudder Control System Per 
+Service Information
+
+    (h) For airplanes on which the actions required by paragraph (f) 
+of this AD have not been done before the effective date of this AD: 
+As of the effective date of this AD, use the applicable service 
+bulletin specified in Table 5 of this AD to do the actions required 
+by paragraph (f) of this AD at the time specified in that paragraph.
+
+   Table 5.--Service Bulletins for Installation of New Rudder Control
+                                 System
+------------------------------------------------------------------------
+                                                       Do the actions
+                                                         required by
+         For model--             Identified as--      paragraph (f) of
+                                                         this AD in
+                                                      accordance with--
+------------------------------------------------------------------------
+(1) 737-100, -200, and -200C  Groups 1 through 9,   Part 1 of the
+ series airplanes.             Configurations 1      Accomplishment
+                               and 2, in the         Instructions of
+                               service bulletin.     Boeing Service
+                                                     Bulletin 737-27-
+                                                     1252, Revision 3,
+                                                     dated May 12, 2006.
+(2) 737-300, -400, and -500   Groups 1 through 19,  Part 1 of the
+ series airplanes.             Configurations 1      Accomplishment
+                               and 2, in the         Instructions of
+                               service bulletin.     Boeing Service
+                                                     Bulletin 737-27-
+                                                     1255, Revision 3,
+                                                     dated May 10, 2006.
+(3) 737-600, -700, -700C, -   Groups 1 through 20,  Part 1 of the
+ 800, and -900 series          Configurations 1      Accomplishment
+ airplanes.                    and 2, in the         Instructions of
+                               service bulletin.     Boeing Service
+                                                     Bulletin 737-27-
+                                                     1253, Revision 3,
+                                                     dated May 12, 2006.
+------------------------------------------------------------------------
+
+    (i) Before or concurrently with the requirements of paragraph 
+(h) of this AD, do the actions specified in Table 6 of this AD.
+
+                Table 6.--Before/Concurrent Requirements
+------------------------------------------------------------------------
+                                                     In accordance with
+ Before or concurrently with   Do these actions--    the accomplishment
+ the actions specified in--                           instructions of--
+------------------------------------------------------------------------
+(1) Paragraph (h)(1) of this  (i) Remove the        Boeing Service
+ AD.                           rudder position       Bulletin 737-22-
+                               sensor of the         1042, Revision 1,
+                               automatic flight      dated April 5,
+                               control system.       1985.
+                              (ii) Replace the      Boeing 737 Service
+                               rudder feel and       Bulletin 27-1026,
+                               centering assembly    dated January 15,
+                               with a new all-       1971.
+                               mechanical unit.
+                              (iii) Install the     Boeing Service
+                               rudder pressure       Bulletin 737-
+                               reducer and yaw       27A1206, Revision
+                               damper coupler.       3, dated December
+                                                     14, 2000.
+                              (iv) Install          Boeing Service
+                               provisional wires     Bulletin 737-27-
+                               for rudder system     1246, Revision 1,
+                               enhancement.          including Appendix
+                                                     A, dated February
+                                                     21, 2002.
+                              (v) Replace the P5-3  Boeing Service
+                               panel with a new      Bulletin 737-27-
+                               panel.                1263, Revision 1,
+                                                     dated September 25,
+                                                     2003.
+                              (vi) Replace the      Smiths Aerospace
+                               input lever for the   Actuation Systems
+                               auxiliary rudder      Service Bulletin
+                               power control         1150-27-05A, dated
+                               package with a new    August 28, 2003.
+                               input lever.
+
+[[Page 4632]]
+
+ 
+(2) Paragraph (h)(2) of this  (i) Install           Boeing Service
+ AD.                           provisional wires     Bulletin 737-27-
+                               for rudder system     1246, Revision 1,
+                               enhancement.          including Appendix
+                                                     A, dated February
+                                                     21, 2002.
+                              (ii) Replace the P5-  Boeing Service
+                               3 panel with a new    Bulletin 737-27-
+                               panel.                1264, Revision 1,
+                                                     dated April 3,
+                                                     2003.
+                              (iii) Install a new   Boeing Service
+                               yaw damper coupler.   Bulletin 737-
+                                                     27A1206, Revision
+                                                     3, dated December
+                                                     14, 2000.
+                              (iv) Inspect the      Boeing Service
+                               trailing edge beam    Bulletin 737-55-
+                               on the vertical fin   1052, Revision 1,
+                               and rework if         dated August 5,
+                               necessary.            2004.
+                              (v) Replace the       Smiths Aerospace
+                               input lever for the   Actuation Systems
+                               auxiliary rudder      Service Bulletin
+                               power control         1150-27-05A, dated
+                               package with a new    August 28, 2003.
+                               input lever.
+(3) Paragraph (h)(3) of this  (i) Install           Boeing Service
+ AD.                           provisional wires     Bulletin 737-27-
+                               for rudder system     1247, Revision 1,
+                               enhancement.          dated July 25,
+                                                     2002.
+                              (ii) Replace the P5-  Boeing Service
+                               3 panel with a new    Bulletin 737-27-
+                               panel.                1262, dated
+                                                     December 19, 2002.
+                              (iii) Relocate the    Boeing Alert Service
+                               wire bundle routing   Bulletin 737-
+                               in the vertical       27A1239, dated
+                               stabilizer.           January 11, 2001.
+------------------------------------------------------------------------
+
+Parts Installation
+
+    (j) As of the effective date of this AD, no person may install 
+an input control rod, P/N 251A3495-1, on any airplane.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (k)(1) The Manager, Seattle ACO, FAA, has the authority to 
+approve AMOCs for this AD, if requested in accordance with the 
+procedures found in 14 CFR 39.19.
+    (2) Before using any AMOC approved in accordance with Sec.  
+39.19 on any airplane to which the AMOC applies, notify the 
+appropriate principal inspector in the FAA Flight Standards 
+Certificate Holding District Office.
+    (3) Except as provided by paragraph (j) of this AD: AMOCs 
+approved previously in accordance with AD 2002-20-07 R1 are approved 
+as AMOCs for the corresponding provisions of paragraphs (f) and (h) 
+of this AD.
+
+Material Incorporated by Reference
+
+    (l) You must use the applicable service bulletin specified in 
+Table 7 of this AD to perform the actions that are required by this 
+AD, unless the AD specifies otherwise. Boeing Service Bulletin 737-
+22-1042, Revision 1, dated April 5, 1985, contains the following 
+effective pages:
+
+------------------------------------------------------------------------
+                                  Revision level
+           Page Nos.              shown on page      Date shown on page
+------------------------------------------------------------------------
+1-7, 9........................  1................  April 5, 1985.
+8.............................  Original.........  July 1, 1983.
+------------------------------------------------------------------------
+
+The Director of the Federal Register approved the incorporation by 
+reference of these documents in accordance with 5 U.S.C. 552(a) and 
+1 CFR part 51. Contact Boeing Commercial Airplanes, P.O. Box 3707, 
+Seattle, Washington 98124-2207, for a copy of this service 
+information. You may review copies at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+National Archives and Records Administration (NARA). For information 
+on the availability of this material at NARA, call 202-741-6030, or 
+go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+                                  Table 7.--Material Incorporated by Reference
+----------------------------------------------------------------------------------------------------------------
+         Boeing Service Bulletin                   Revision level                          Date
+----------------------------------------------------------------------------------------------------------------
+Boeing Alert Service Bulletin 737-27A1239  Original.....................  January 11, 2001.
+ Boeing Alert Service Bulletin 737-        Original.....................  June 20, 2006.
+ 27A1279.
+ Boeing Alert Service Bulletin 737-        Original.....................  May 25, 2006.
+ 27A1280.
+ Boeing Alert Service Bulletin 737-        Original.....................  June 14, 2006.
+ 27A1281.
+ Boeing Alert Service Bulletin 737-22-     1............................  April 5, 1985.
+ 1042.
+ Boeing Alert Service Bulletin 737-        3............................  December 14, 2000.
+ 27A1206.
+ Boeing Alert Service Bulletin 737-27-     1............................  February 21, 2002.
+ 1246, including Appendix A.
+ Boeing Alert Service Bulletin 737-27-     1............................  July 25, 2002.
+ 1247.
+ Boeing Alert Service Bulletin 737-27-     3............................  May 12, 2006.
+ 1252.
+ Boeing Alert Service Bulletin 737-27-     3............................  May 12, 2006.
+ 1253.
+ Boeing Alert Service Bulletin 737-27-     3............................  May 10, 2006.
+ 1255.
+ Boeing Alert Service Bulletin 737-27-     Original.....................  December 19, 2002.
+ 1262.
+ Boeing Alert Service Bulletin 737-27-     1............................  September 25, 2003.
+ 1263.
+ Boeing Alert Service Bulletin 737-27-     1............................  April 3, 2003.
+ 1264.
+ Boeing Alert Service Bulletin 737-55-     1............................  August 5, 2004.
+ 1052.
+ Boeing 737 Alert Service Bulletin 27-     Original.....................  January 15, 1971.
+ 1026.
+Smiths Aerospace Actuation Systems         Original.....................  August 28, 2003.
+ Service Bulletin 1150-27-05A.
+----------------------------------------------------------------------------------------------------------------
+
+
+
+[[Page 4633]]
+
+    Issued in Renton, Washington, on January 25, 2007.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. E7-1496 Filed 1-31-07; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

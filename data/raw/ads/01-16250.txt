@@ -1,0 +1,638 @@
+<html>
+<head>
+<title>Federal Register, Volume 66 Issue 127 (Monday, July 2, 2001)</title>
+</head>
+<body><pre>
+[Federal Register Volume 66, Number 127 (Monday, July 2, 2001)]
+[Rules and Regulations]
+[Pages 34802-34806]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 01-16250]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-CE-09-AD; Amendment 39-12300; AD 2001-13-18]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Raytheon Aircraft Company Beech Models 
+45 (YT-34), A45 (T-34A, B-45), and D45 (T-34B) Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document supersedes Airworthiness Directive (AD) 99-12-
+02, which currently requires flight and operating limitations on 
+Raytheon Aircraft Corporation (Raytheon) Beech Models 45 (YT-34), A45 
+(T-34A, B-45), and D45 (T-34B) airplanes. AD 99-12-02 resulted from a 
+report of an in-flight separation of the right wing on a Raytheon Beech 
+Model A45 (T-34A) airplane. The AD was issued as an interim action 
+until the development of FAA-approved inspection procedures. Raytheon 
+has developed procedures to inspect the wing spar assemblies of the 
+above-referenced airplanes. This AD requires repetitive inspections of 
+the wing spar assembly for cracks with replacement of any wing spar 
+assembly found cracked (unless the spar assembly has a crack indication 
+in the filler strip where the direction of the crack is toward the 
+outside edge of the filler strip). This AD also includes a reporting 
+requirement of the results of the initial inspection and maintains the 
+flight and operating restrictions required by AD 99-12-02 until 
+accomplishment of the initial inspection. The actions specified by this 
+AD are intended to prevent wing spar failure caused by fatigue cracks 
+in the wing spar assemblies and ensure the operational safety of the 
+above-referenced airplanes.
+
+DATES: This AD becomes effective on August 16, 2001.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the regulations as of 
+August 16, 2001.
+
+ADDRESSES: You may get the service information referenced in this AD 
+from Raytheon Aircraft Company, P.O. Box 85, Wichita, Kansas 67201-
+0085; telephone: (800) 625-7043 or (316) 676-4556. You may examine this 
+information at FAA, Central Region, Office of the Regional Counsel, 
+Attention: Rules Docket No. 2000-CE-09-AD, 901 Locust, Room 506, Kansas 
+City, Missouri 64106; or at the Office of the Federal Register, 800 
+North Capitol Street, NW, suite 700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Paul Nguyen, Aerospace Engineer, FAA, 
+Wichita Aircraft Certification Office, 1801 Airport Road, Mid-Continent 
+Airport, Wichita, Kansas 67209; telephone: (316) 946-4125; facsimile: 
+(316) 946-4407.
+
+SUPPLEMENTARY INFORMATION:
+
+Events Leading to the Issuance of This AD
+
+    Has FAA taken any action to this point? In-flight separation of the 
+right wing on a Raytheon Beech Model A45 (T34A) airplane caused FAA to 
+issue AD 99-12-02, Amendment 39-11193 (64 FR 31689, June 14, 1999). 
+This AD requires:
+
+--Incorporating flight and operating limitations that restrict the 
+airplanes
+
+[[Page 34803]]
+
+to normal category operation and prohibit them from acrobatic and 
+utility category operations;
+--Limiting the flight load factor to 0 to 2.5 G; and
+--Limiting the maximum airspeed to 175 miles per hour (mph) (152 
+knots).
+
+    AD 99-12-02 was issued as an interim action until the development 
+of FAA-approved inspection procedures.
+    What has happened since AD 99-12-02 to initiate this action? 
+Raytheon has developed procedures to inspect the wing spar assemblies 
+on Raytheon Beech Models 45 (YT-34), A45 (T-34A, B-45), and D45 (T-34B) 
+airplanes. We have reviewed and approved the technical aspects of these 
+procedures.
+    To address this issue, FAA issued a notice of proposed rulemaking 
+(NPRM) to supersede AD 99-12-02. This NPRM was published in the Federal 
+Register on May 5, 2000 (65 FR 26149). The NPRM proposed to supersede 
+AD 99-12-02 with a new AD that would require:
+
+--Repetitively inspecting the wing spar assemblies for cracks and 
+replacing any cracked wing spar assembly. A crack indication in the 
+filler strip is allowed if the direction of the crack is toward the 
+outside edge of the filler strip;
+--Reporting the results of the initial inspection; and
+--Maintaining the flight and operating restrictions that AD 99-12-02 
+currently requires until accomplishing the initial inspection and 
+possible replacement proposed in this AD.
+
+    The flight and operating restrictions that AD 99-12-02 currently 
+requires may be changed after inspection of the wing spar assemblies, 
+and the wing spar assembly either is replaced, is crack free, or only 
+has a crack indication in the filler strip where the direction of the 
+crack is toward the outside edge of the filler strip.
+    Was the public invited to comment? The FAA encouraged interested 
+persons to participate in the making of this amendment. At the request 
+of several commenters, we issued an NPRM to extend the comment period 
+from July 7, 2000, to October 15, 2000. This document was published in 
+the Federal Register on July 5, 2000 (65 FR 41381). A summary of the 
+comments received on both of these documents follow, along with our 
+responses.
+
+Comment Issue No. 1: Incorporate Alternative Methods of Compliance 
+Into the Final Rule AD Action
+
+    What is the commenters' concern? The FAA received brief summaries 
+of two requests for alternative methods of compliance to the actions in 
+the proposed AD. Several commenters request that we incorporate each of 
+these alternative methods of compliance into the final rule as a 
+compliance option to the AD. A brief description of each alternative 
+method of compliance follows:
+
+--A proposal from the T-34 Technical Committee consists of 
+accomplishing Raytheon SB 57-3329 as a one-time action (as long as no 
+cracks are found) and cold working the boltholes. This would allow the 
+airplanes to be operated at their original operating criteria; and
+--A proposal from the T-34 Association consists of complying with parts 
+of Raytheon SB 57-3329 and replacing the front spars with spars from 
+Baron (55 and 58 series) airplanes as terminating action.
+
+    What is FAA's response to the concern? The brief summaries of these 
+alternative methods of compliance do not contain sufficient data for us 
+to consider them to provide an acceptable level of safety at the 
+present time. If and when each of these groups submits the appropriate 
+documentation, we will evaluate each proposal to see if it meets the 
+safety intent of the AD. We will then approve any proposal that meets 
+this criteria as an AMOC to the AD.
+    We are not changing the final rule as a result of these comments.
+
+Comment Issue No. 2: Extend the Comment Period a Second Time
+
+    What is the commenters' concern? Several commenters request an 
+extension to the comment period in order to have more time to finalize 
+alternative methods of compliance.
+    What is FAA's response to the concern? As discussed previously, FAA 
+extended the comment period to give the public an additional 60 days to 
+respond. The comment period on the extension ended October 15, 2000. We 
+have accepted late comments since that time. We have determined that 
+the safety of the affected airplanes outweighs the necessity for 
+waiting any longer for the completion of alternative methods of 
+compliance, especially in light that it has been over 6 months since 
+the comment period for the extension ended.
+    We are not changing the final rule as a result of these comments.
+
+Comment Issue No. 3: Allow the Operating Restrictions and 
+Limitations Required by AD 99-12-02 Instead of the Proposed 
+Repetitive Inspections
+
+    What is the commenters' concern? Several commenters request that 
+they be allowed to continue to implement the operating restrictions and 
+limitations that are currently required by AD 99-12-02 rather than be 
+required to accomplish the proposed repetitive inspections. These 
+commenters state that the fastener removal process could cause more 
+damage to the spars and the bolthole eddy current inspection method is 
+subjective. For example, the commenters reference a recent inspection 
+on 5 of the affected airplanes where the eddy current inspection 
+revealed cracks in the front spar. According to the commenter, Raytheon 
+then validated the inspection results and found no cracks in the front 
+spars.
+    What is FAA's response to the concern? The FAA does not concur that 
+the implementation of the flight and operating restrictions that are 
+currently required by AD 99-12-02 should be an option to accomplishing 
+this AD. We recognize that the fastener removal process could cause 
+damage to the spars. However, the safety implications of allowing an 
+airplane to continue operation with a cracked spar far outweigh the 
+possible damage the fastener removal process could cause.
+    We established the current flight restrictions that AD 99-12-02 
+requires as a temporary safety solution until procedures were developed 
+that could determine the condition of the wing spar assemblies of the 
+affected airplanes. Once a crack develops, it can continue to grow 
+through cyclic loads such as maneuvers or gusts, even while the 
+airplane is operating under the current flight and operating 
+restrictions. The only way we can ensure that the affected airplanes do 
+not have cracked wing spar assemblies is through the accomplishment of 
+this inspection and any necessary wing spar assembly replacement.
+    We also recognize that the Raytheon inspection procedure has the 
+potential of indicating cracks when there are none. Again, the safety 
+implications of allowing an airplane to continue operation with a 
+cracked spar far outweigh the possibility of a false crack indication 
+from the inspection.
+    We are not changing the final rule as a result of these comments.
+
+Comment Issue No. 4: Return the Affected Airplanes to Their 
+Original Flight Limitations and Limit the AD to Those Airplanes in 
+Air Combat Operations
+
+    What is the commenters' concern? Several commenters state that only 
+those airplanes that are utilized in air combat operations are subject 
+to the fatigue stress that warrants this AD action. The commenters 
+request that
+
+[[Page 34804]]
+
+FAA exempt those airplanes that do not fly in these operations.
+    Two other commenters state that the proposed AD is not necessary 
+and recommend that we withdraw AD 99-12-02. These commenters also 
+recommend closely monitoring the operations of air combat since they 
+believe that is the reason for the fatigue damage to the wings of the 
+affected airplanes.
+    What is FAA's response to the concern? Although we concur that air 
+combat operations reduces the fatigue life of the wing spars of the 
+affected airplane, fatigue problems can also exist for airplanes 
+involved in acrobatic maneuvers, not just air combat operations. 
+Therefore, we have determined that the AD is necessary for all of the 
+airplanes referenced in the NPRM to address the unsafe condition.
+    We are not changing the final rule as a result of these comments.
+
+Comment Issue No. 5: Change the Inspection Requirements
+
+    What is the commenters' concern? Several commenters provided 
+information on the need for both initial and repetitive inspections. 
+Specifically they are as follows:
+
+--One commenter states that a one-time inspection in accordance with 
+the service bulletin is sufficient;
+--Four commenters recommend that FAA require only a visual inspection 
+to locate displaced rivets, signs of fatigue, unusual wear, any stress 
+related material, or corrosion. These commenters recommend this 
+inspection to coincide with annual or 100-hour time-in-service (TIS) 
+inspections;
+--Six commenters recommend repetitive inspections at intervals of 500 
+hours TIS or 5 years, whichever occurs first. These commenters 
+recommend more intense inspections for airplanes flown in high stress 
+conditions;
+--One commenter recommends repetitive inspections at intervals of 200 
+hours TIS;
+--One commenter recommends no repetitive inspections if the airplane is 
+found crack-free during the initial inspection; and
+--Another commenter recommends no repetitive inspections or at the very 
+least repetitive inspections at 1,000-hour TIS intervals. This 
+commenter also suggests more stringent inspection requirements when 
+cracks are found to monitor the crack growth.
+
+    What is FAA's response to the concern? We do not concur with any of 
+these requests. Our analysis shows that the 80-hour TIS repetitive 
+inspection interval is necessary to detect cracks at the earliest time 
+before they progress to a point of failure. As discussed previously, we 
+have data that shows fatigue problems for airplanes involved in 
+acrobatic maneuvers as well as air combat operations.
+    However, we are changing the compliance time of the initial 
+inspection to ``within the next 80 hours time-in-service (TIS) after 
+the effective date of this AD or within 12 months after the effective 
+date of this AD, whichever occurs later'' instead of ``* * * whichever 
+occurs first.'' This will give operators of high-usage airplanes 12 
+months to accomplish the inspection and will give those operators who 
+do not operate 80 hours TIS in a year more time to comply. All 
+operators must maintain the flight and operating restrictions required 
+by AD 99-12-02 until the initial inspection.
+
+Comment Issue No. 6: Either Limit the Affected Airplanes to Utility 
+Category Operation or Exclude Those Airplanes Only Operating in 
+Utility Category
+
+    What is the commenters' concern? One commenter requests that, since 
+the Model D45 (T-34B) airplanes are operated in the Utility category 
+and not the Acrobatic category, the AD should not apply to these 
+airplanes. Another commenter recommends that FAA require all affected 
+airplanes to operate according to Utility category operating 
+requirements after accomplishing the initial inspection.
+    What is FAA's response to the concern? We do not concur with these 
+requests. We can neither exempt the Model D-45 (T-34B) airplanes from 
+the AD nor can we change the operational category of all of the 
+affected airplanes because the wings of the Model A45 (T-34A, B-45) are 
+interchangeable with wings of the Model D45 (T-34B) airplanes. Field 
+experience reveals that the wings of these airplanes have been 
+interchanged. We have no assurance that reliable records exist of wing 
+interchange between these airplanes. Therefore, we have determined 
+that, if we incorporated these requests, an unsafe condition could 
+exist or develop on these airplanes.
+    We are not changing the final rule as a result of these comments.
+
+Comment Issue No. 7: Correct the Airspeed Indicator Glass 
+Modification Information in the AD
+
+    What is the commenters' concern? One commenter requests that FAA 
+change the information from the modification to the red radial line on 
+the airspeed indicator glass from 225 miles per hour (mph) to 252 mph. 
+This commenter also states that the word ``edge'' should be added after 
+the word ``outside'' in the fourth bullet in paragraph (e)(4)(iv)(A) of 
+the NPRM.
+    What is FAA's response to the concern? We concur with these 
+changes. Since these are the type-certificated operating limitations, 
+we are not repeating these in the final rule.
+
+Comment Issue No. 8: Withdraw the NPRM and AD 99-12-02
+
+    What is the commenters' concern? Several commenters state that FAA 
+should not only withdraw the NPRM, but should also withdraw AD 99-12-
+02. The commenters believe that we have no justification for issuing 
+either of these regulatory documents.
+    What is FAA's response to the concern? We do not concur with these 
+comments. Our decision to issue AD 99-12-02 was based on our analysis 
+and examination of all available data concerning an in-flight 
+separation of the right wing on a Raytheon Beech Model A45 (T-34A) 
+airplane. Our decision to issue the NPRM was based on the development 
+of inspection procedures that when accomplished would allow the 
+airplane to operate in accordance with the original flight and 
+operating restrictions. As discussed earlier in this document, we have 
+determined that the unsafe condition is addressed by:
+
+--Repetitively inspecting the wing spar assembly for cracks and 
+replacing any wing spar assembly found cracked (unless the spar 
+assembly has a crack indication in the filler strip where the direction 
+of the crack is toward the outside edge of the filler strip); and
+--Continuing the flight and operating restrictions required by AD 99-
+12-02 until the initial inspection is accomplished.
+
+    We are not making any changes to the final rule based on these 
+comments.
+
+FAA's Determination and Provisions of the AD
+
+    What is FAA's Final Determination on this Issue? After careful 
+review of all available information related to the subject presented 
+above, we have determined that air safety and the public interest 
+require the adoption of the rule as proposed except for the change in 
+the initial inspection compliance time and minor editorial corrections. 
+We determined that this compliance time change and the minor editorial 
+corrections:
+
+--Will not change the meaning of the AD; and
+Will not add any additional burden upon the public than was already
+
+[[Page 34805]]
+
+proposed (the compliance time change actually reduces the burden of 
+when the inspection must be accomplished).
+
+    Why is the compliance of the initial inspection in hours time-in-
+service (TIS) and calendar time? We have established the compliance 
+time of the initial inspection at the next 80 hours TIS or 12 months 
+with the prevalent one being that which occurs later. This will give 
+operators of high-usage airplanes 12 months to accomplish the 
+inspection and will give those operators who do not operate 80 hours 
+TIS in a year more time to comply. All operators must maintain the 
+flight and operating restrictions required by AD 99-12-02 until the 
+initial inspection. We have determined that the dual compliance time 
+will ensure that the safety issue is addressed in a timely manner 
+without inadvertently grounding any of the affected airplanes.
+    How many airplanes does this AD impact? The FAA estimates that this 
+AD affects 476 airplanes in the U.S. registry.
+    What is the cost impact of the initial inspection on owners/
+operators of the affected airplanes? We estimate that it will take 
+approximately 241 workhours per airplane to accomplish the initial 
+inspection, at an average labor rate of $60 an hour. Based on these 
+figures, FAA estimates the cost impact of the initial inspection on 
+U.S. operators at $6,882,960, or $14,460 per airplane.
+    What about the cost of repetitive inspections and replacements? The 
+figures above only take into account the cost of the initial inspection 
+and do not take into account the cost of repetitive inspections or the 
+cost to replace a cracked wing spar assembly. We have no way of 
+determining the number of repetitive inspections each owner/operator 
+will incur over the life of an affected airplane or the number of 
+airplanes that will have a cracked wing spar(s) and need replacement.
+    The cost of each repetitive inspection will be $1,860 per airplane 
+(31 workhours  x  $60 per hour).
+    Raytheon no longer produces wings spars for the affected airplanes. 
+If a wing spar is found cracked, you will have to install an FAA-
+approved wing spar configuration in order to continue to operate the 
+airplane. For cost estimate purposes, we are using information on 
+installing a Raytheon Beech 55 or 58 series airplane wing spar on a 
+Raytheon Beech Model A45 airplane in accordance with Supplemental Type 
+Certificate (STC) No. SA5521NM. Nogle and Black Aviation, Inc., owns 
+this STC. The cost to replace a cracked wing spar through this STC will 
+be $14,100 (160 workhours  x  $60 per hour plus $4,500 for parts). The 
+airplane will still be subject to the inspection requirements in this 
+AD.
+
+Regulatory Impact
+
+    Does this AD impact various entities? The regulations adopted 
+herein will not have a substantial direct effect on the States, on the 
+relationship between the national government and the States, or on the 
+distribution of power and responsibilities among the various levels of 
+government. Therefore, it is determined that this final rule does not 
+have federalism implications under Executive Order 13132.
+    Does this AD involve a significant rule or regulatory action? For 
+the reasons discussed above, I certify that this action (1) is not a 
+``significant regulatory action'' under Executive Order 12866; (2) is 
+not a ``significant rule'' under DOT Regulatory Policies and Procedures 
+(44 FR 11034, February 26, 1979); and (3) will not have a significant 
+economic impact, positive or negative, on a substantial number of small 
+entities under the criteria of the Regulatory Flexibility Act. A copy 
+of the final evaluation prepared for this action is contained in the 
+Rules Docket. A copy of it may be obtained by contacting the Rules 
+Docket at the location provided under the caption ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. FAA amends Sec. 39.13 by removing Airworthiness Directive (AD) 
+99-12-02, Amendment 39-11193 (64 FR 31689, June 14, 1999), and by 
+adding a new AD to read as follows:
+
+2001-13-18  Raytheon Aircraft Company: Amendment 39-12300; Docket 
+No. 2000-CE-09-AD, Supersedes AD 99-12-02, Amendment 39-11193.
+
+    (a) What airplanes are affected by this AD? This AD applies to 
+Beech Models 45 (YT-34), A45 (T-34A, B-45), and D45 (T-34B) 
+airplanes, all serial numbers, certificated in any category.
+    (b) Who must comply with this AD? Anyone who wishes to operate 
+any of the above airplanes must comply with this AD.
+    (c) What problem does this AD address? The actions specified by 
+this AD are intended to detect and correct cracks in the wing spar 
+assemblies and ensure the operational safety of the above-referenced 
+airplanes.
+    (d) What actions must I accomplish to address this problem? To 
+address this problem, you must maintain the actions of AD 99-12-02 
+(superseded by this AD) that are outlined in paragraphs (d)(1), 
+(d)(2), and (d)(3) of this AD, including all subparagraphs, until 
+you accomplish the initial inspection required in paragraph (d)(5) 
+of this AD (paragraphs d(1)-(d)(4) are actions retained from AD 99-
+12-02, and paragraphs (d)(5)-(d)(7) on actions new to this AD:
+
+------------------------------------------------------------------------
+                                                          In accordance
+            Action                       When                 with
+------------------------------------------------------------------------
+    (1) Accomplish the          All actions required    Not Applicable.
+     following placard           prior to further
+     requirements:               flight after July 9,
+    (i) Fabricate two placards   1999 (the effective
+     using letters of at least   date of AD 99-12-02),
+     \1/10\-inch in height       unless already
+     with each consisting of     accomplished
+     the following words:
+     ``Never exceed speed, Vne-
+     175 MPH (152 knots) IAS;
+     Normal Acceleration (G)
+     Limits 0, and +2.5;
+     ACROBATIC MANEUVERS
+     PROHIBITED.
+    (ii) Install these
+     placards on the airplane
+     instrument panels (one on
+     the front panel and one
+     on the rear panel) next
+     to the airspeed
+     indicators within the
+     pilot's clear view.
+    (iii) Insert a copy of
+     this AD into the
+     Limitations Section on
+     the Airplane Flight
+     Manual (AFM).
+
+[[Page 34806]]
+
+ 
+(2) Modify each airspeed
+ indicator glass by
+ accomplishing the following:
+    (i) Place a red radial      All actions required    Not Applicable.
+     line on each indicator      within 10 hours time-
+     glass at 175 miles per      in-service (TIS)
+     hour (mph) (152 knots).     after July 9, 1999
+                                 (the effective date
+                                 of AD 99-12-02),
+                                 unless already
+                                 accomplished
+    (ii) Place a white
+     slippage index mark
+     between each airspeed
+     indicator glass and case
+     to visually verify that
+     the glass has not rotated.
+(3) Mark the outside surface
+ of the ``g'' meters with
+ lines of approximately \1/16\-
+ inch by \3/16\-inch, as
+ follows:
+    (i) A red line at 0 and     All actions required    Not Applicable.
+     2.5; and.                   within 10 hours time-
+                                 in-service (TIS)
+                                 after July 9, 1999
+                                 (the effective date
+                                 of AD 99-12-02),
+                                 unless already
+                                 accomplished
+    (ii) A white slippage mark
+     between each ``g'' meter
+     glass and case to
+     visually verify that the
+     glass has not rotated.
+(4) The actions required by     Upon accomplishment of  Raytheon
+ paragraph (d)(1), (d)(2), and   the initial             Aircraft
+ (d)(3) are no longer required   inspection required     Mandatory
+ after the initial inspection    in paragraph (d)(5)     Service
+ required in paragraph (d)(5)    of this AD, unless      Bulletin No. SB
+ of this AD is accomplished.     already accomplished    57-3329,
+                                                         Issued:
+                                                         February, 2000.
+(5) Inspect the wing spar       Initially inspect       Raytheon
+ assemblies for cracks           within the next 80      Aircraft
+                                 hours time-in-service   Mandatory
+                                 (TIS) after August      Service
+                                 16, 2001 (the           Bulletin No. SB
+                                 effective date of       57-3329,
+                                 this AD) or within 12   Issued:
+                                 months after August     February, 2000.
+                                 16, 2001 (the
+                                 effective date of
+                                 this AD), whichever
+                                 occurs later, unless
+                                 already accomplished.
+                                 Inspect thereafter at
+                                 intervals not to
+                                 exceed 80 hours TIS
+(6) Replace any cracked wing    Prior to further        The applicable
+ spar assembly. A crack          flight after the        maintenance
+ indication in the filler        required inspection     manual.
+ strip is allowed if the         where the cracked
+ direction of the crack is       wing spar assembly is
+ toward the outside edge of      found
+ the filler strip. If the
+ direction of the crack is
+ toward the inside edge of the
+ filler strip or any crack is
+ found in any other area, you
+ must replace the cracked wing
+ spar assembly
+(7) Submit a report to FAA      Within 10 days after    Page 58 through
+ that describes the damage       the initial             60 of Raytheon
+ found on the wing spar. Use     inspection or within    Aircraft
+ the chart on pages 58 through   10 days after August    Mandatory
+ 60 of Raytheon Aircraft         16, 2001 (the           Service
+ Mandatory Service Bulletin      effective date of       Bulletin No. SB
+ No. SB 57-3329, Issued:         this AD), whichever     57-3329,
+ February, 2000                  occurs later, unless    Issued:
+                                 already accomplished    February, 2000.
+    (i) Submit this report
+     even if no cracks are
+     found.
+    (ii) Submit this report to
+     FAA at the address found
+     in paragraph (f) of this
+     AD.
+------------------------------------------------------------------------
+
+    (e) Can I comply with this AD in any other way? You may use an 
+alternative method of compliance or adjust the compliance time if:
+    (1) Your alternative method of compliance provides an equivalent 
+level of safety; and
+    (2) The Manager, Wichita Aircraft Certification Office (ACO), 
+approves your alternative. Submit your request through an FAA 
+Principal Maintenance Inspector, who may add comments and then send 
+it to the Manager, Wichita ACO.
+
+    Note: This AD applies to each airplane identified in paragraph 
+(a) of this AD, regardless of whether it has been modified, altered, 
+or repaired in the area subject to the requirements of this AD. For 
+airplanes that have been modified, altered, or repaired so that the 
+performance of the requirements of this AD is affected, the owner/
+operator must request approval for an alternative method of 
+compliance in accordance with paragraph (e) of this AD. The request 
+should include an assessment of the effect of the modification, 
+alteration, or repair on the unsafe condition addressed by this AD; 
+and, if you have not eliminated the unsafe condition, specific 
+actions you propose to address it.
+
+    (3) The one alternative method of compliance approved in 
+accordance with AD 99-12-02, which is superseded by this AD, is 
+approved as an alternative method of compliance with this AD.
+    (f) Where can I get information about any already-approved 
+alternative methods of compliance? Contact Paul Nguyen, Aerospace 
+Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport 
+Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 
+946-4125; facsimile: (316) 946-4407.
+    (g) What if I need to fly the airplane to another location to 
+comply with this AD? FAA can issue a special flight permit under 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate your airplane to a location where 
+you can accomplish the requirements of this AD.
+    (h) Are any service bulletins incorporated into this AD by 
+reference? You must accomplish the actions required by this AD in 
+accordance with Raytheon Aircraft Mandatory Service Bulletin No. SB 
+57-3329, Issued: February, 2000. The Director of the Federal 
+Register approved this incorporation by reference under 5 U.S.C. 
+552(a) and 1 CFR part 51. You can get copies from Raytheon Aircraft 
+Corporation, P.O. Box 85, Wichita, Kansas 67201-0085. You can look 
+at copies at FAA, Central Region, Office of the Regional Counsel, 
+901 Locust, Room 506, Kansas City, Missouri, or at the Office of the 
+Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+    (i) Does this AD action affect any existing AD actions? This 
+amendment supersedes AD 99-12-02, Amendment 39-11193.
+    (j) When does this amendment become effective? This amendment 
+becomes effective on August 16, 2001.
+
+    Issued in Kansas City, Missouri, on June 22, 2001.
+Michael Gallagher,
+Manager, Small Airplane Directorate, Aircraft Certification Service.
+[FR Doc. 01-16250 Filed 6-29-01; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

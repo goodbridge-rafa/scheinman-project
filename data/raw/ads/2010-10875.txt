@@ -1,0 +1,524 @@
+<html>
+<head>
+<title>Federal Register, Volume 75 Issue 94 (Monday, May 17, 2010)</title>
+</head>
+<body><pre>
+[Federal Register Volume 75, Number 94 (Monday, May 17, 2010)]
+[Rules and Regulations]
+[Pages 27424-27427]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2010-10875]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2009-1066; Directorate Identifier 2009-NM-028-AD; 
+Amendment 39-16284; AD 2010-10-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Model 747-100, 747-
+100B, 747-100B SUD, 747-200B, 747-300, 747SR, and 747SP Series 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD), which applies to certain Model 747 airplanes. That AD currently 
+requires repetitive inspections to detect cracking in certain fuselage 
+skin lap joints, and repair if necessary. This new AD expands the 
+inspection area in the existing AD, adds a modification of certain lap 
+joints, and adds certain post-repair inspections of the lap joints. 
+Accomplishing the modification ends the repetitive inspections required 
+by the existing AD for the length of lap joint that is modified. This 
+AD results from a structural review of affected skin lap joints for 
+widespread fatigue damage. We are issuing this AD to prevent fatigue 
+cracking in certain lap joints, which could result in rapid 
+depressurization of the airplane.
+
+DATES: This AD becomes effective June 21, 2010.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of June 21, 2010.
+    On July 13, 1994 (59 FR 30277, June 13, 1994), the Director of the 
+Federal Register approved the incorporation by reference of certain 
+other publications listed in the AD.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1, fax 206-766-5680; e-mail <a href="/cdn-cgi/l/email-protection#e48981ca868b81878b89a4868b818d8a83ca878b89"><span class="__cf_email__" data-cfemail="3d5058135f52585e52507d5f525854535a135e5250">[email&#160;protected]</span></a>; 
+Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (telephone 800-647-5527) is the Document Management 
+Facility, U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Ivan Li, Aerospace Engineer, Airframe 
+Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 1601 Lind 
+Avenue, SW., Renton, Washington 98057-3356; telephone (425) 917-6437; 
+fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that supersedes AD 94-12-04, Amendment 39-
+8932 (59 FR 30277, June 13, 1994). The existing AD applies to certain 
+Model 747 airplanes. That NPRM was published in the Federal Register on 
+November 18, 2009 (74 FR 59488). That NPRM proposed to continue to 
+require repetitive inspections to detect cracking in certain fuselage 
+skin lap joints, and repair if necessary. That NPRM also proposed to 
+expand the inspection area in the existing AD, add a modification of 
+certain lap joints, and add certain post-repair inspections of the lap 
+joints. That NPRM specified that accomplishing the modification would 
+end the repetitive inspections required by the existing AD for the 
+length of lap joint that is modified.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments that have been 
+received on the NPRM.
+
+Request for Certain Clarifications
+
+    Boeing asks that we provide the following clarifications:
+    <bullet> Include language in paragraph (c) of the NPRM which 
+specifies that airplanes having line number 629, 635, 637, 650, 666, 
+667, 673, 675, 683, 713, 750, or 810 are Group 5 airplanes. Boeing 
+states that after Boeing Service Bulletin 747-53A2367, Revision 3, 
+dated January 15, 2009, was released, it was determined that these 
+airplanes do not have a lower lobe air stair door and should have been 
+included in Group 5, not Group 10.
+    We agree with Boeing's request for the reason provided. The 
+airplane grouping is incorrect in Boeing Alert Service Bulletin 747-
+53A2367, Revision 2, dated October 30, 2008, and Boeing Service 
+Bulletin 747-53A2367, Revision 3, dated January 15, 2009. Therefore, we 
+have added a new Note 1 after paragraph (c) of this AD to clarify the 
+correct airplane grouping for airplanes having the identified line 
+numbers.
+    <bullet> Change the term ``Delegation Option Authorization'' (DOA) 
+to ``Organization Designation Authorization'' (ODA) throughout the 
+NPRM.
+    We agree. Boeing Commercial Airplanes has received an Organization 
+Designation Authorization (ODA), which replaces the previous 
+designation as a Delegation Option Authorization (DOA) holder. We have 
+changed paragraph (m)(3) of this AD to add delegation of authority to 
+Boeing Commercial Airplanes ODA to approve an alternative method of 
+compliance for any repair required by this AD.
+    <bullet> Change the Discussion section of the NPRM to note that AD 
+2009-04-16, Amendment 39-15822 (74 FR 8737, February 26, 2009), 
+supersedes AD 2008-10-15, Amendment 39-15522 (73 FR 29042, May 20, 
+2008). Although we agree that AD 2009-04-16 superseded AD 2008-10-15, 
+the discussion section of the NPRM is not carried over to this final 
+rule. Therefore, we have made no change to the AD in this regard.
+
+[[Page 27425]]
+
+    <bullet> Change the terminating action language specified in 
+paragraph (j) of the NPRM to add the following at the end of the last 
+sentence in that paragraph: ``* * * for a period of 15,000 flight 
+cycles. Additional work is required for continued operation beyond 
+15,000 flight-cycles after the modification.'' Boeing states that a 
+post-modification inspection is specified in a note following Table 2 
+of paragraph 1.E. of Boeing Service Bulletin 747-53A2367, Revision 3, 
+dated January 15, 2009.
+    We do not agree with Boeing's request. The note following Table 2 
+of paragraph 1.E. of the service bulletin specifies that additional 
+work is required for continued operation beyond 15,000 flight cycles 
+after the modification, and that Boeing must be contacted for 
+instructions. Considering the compliance time of 30,000 total flight 
+cycles for the modification, and the compliance time for additional 
+work, we have determined that rulemaking on the undefined additional 
+work is not necessary at this time. We will consider future rulemaking 
+once the additional work is defined. We have made no change to the AD 
+in this regard.
+    <bullet> Add a new paragraph (j)(1) to the NPRM to state that at 
+all lap joint areas not covered by the modification required by 
+paragraph (j) of this AD, a lap joint modification must be installed at 
+35,000 total flight cycles. Boeing states that the NPRM should reflect 
+the structural modification point (SMP) for all lap splices not 
+modified by Boeing Service Bulletin 747-53A2367, Revision 3, dated 
+January 15, 2009, as stated on page 26, section 1.D., Note 7, of that 
+service bulletin.
+    We do not agree with Boeing's request. Notes in the Description 
+section of a service bulletin are considered informational only. In 
+addition, the subject note specifies modification of all lap joints not 
+covered by the modification specified in Boeing Service Bulletin 747-
+53A2367. The compliance time specified in that note in Boeing Service 
+Bulletin 747-53A2367, Revision 3, dated January 15, 2009, is 35,000 
+total flight cycles, and Boeing is not planning to provide engineering 
+drawings for that modification. Modification of those lap joints is not 
+included in this AD. We will consider future rulemaking when 
+modification procedures are available. We have made no change to the AD 
+in this regard.
+
+Explanation of Change Made to This AD
+
+    We have changed this AD to identify the legal name of the 
+manufacturer as published in the most recent type certificate data 
+sheet for the affected airplane models.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously. We also determined that 
+these changes will not increase the economic burden on any operator or 
+increase the scope of the AD.
+
+Explanation of Change to Costs of Compliance
+
+    After the NPRM was issued, we reviewed the figures we have used 
+over the past several years to calculate AD costs to operators. To 
+account for various inflationary costs in the airline industry, we find 
+it necessary to increase the labor rate used in these calculations from 
+$80 per work hour to $85 per work hour. The cost impact information, 
+below, reflects this increase in the specified hourly rate.
+
+Costs of Compliance
+
+    There are 209 airplanes of the affected design in the worldwide 
+fleet. This AD affects about 69 airplanes of U.S. registry.
+    The actions that are required by AD 94-12-04 and retained in this 
+AD take about 14 work hours per airplane, at an average labor rate of 
+$85 per work hour. Based on these figures, the estimated cost of the 
+currently required actions is $1,190 per airplane, per inspection 
+cycle.
+    The new Area 2 inspections take up to 477 work hours per airplane, 
+depending on airplane configuration, at an average labor rate of $85 
+per work hour. Based on these figures, the estimated cost of the new 
+inspections specified in this AD for U.S. operators is up to 
+$2,797,605, or up to $40,545 per airplane, per inspection cycle.
+    The new modification takes about 171 work hours per airplane, at an 
+average labor rate of $85 per work hour. Required parts cost per 
+airplane will be minimal. Based on these figures, the estimated cost of 
+the new actions specified in this AD for U.S. operators is $1,002,915, 
+or $14,535, per airplane.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+removing Amendment 39-8932 (59 FR 30277, June 13, 1994) and by adding 
+the following new airworthiness directive (AD):
+
+
+[[Page 27426]]
+
+
+2010-10-05 The Boeing Company: Amendment 39-16284. Docket No. FAA-
+2009-1066; Directorate Identifier 2009-NM-028-AD.
+
+Effective Date
+
+    (a) This AD becomes effective June 21, 2010.
+
+Affected AD
+
+    (b) This AD supersedes AD 94-12-04, Amendment 39-8932.
+
+Applicability
+
+    (c) This AD applies to The Boeing Company Model 747-100, 747-
+100B, 747-100B SUD, 747-200B, 747-300, 747SR, and 747SP series 
+airplanes, certificated in any category, as identified in Boeing 
+Service Bulletin 747-53A2367, Revision 3, dated January 15, 2009.
+
+    Note 1:  Airplanes having line number 629, 635, 637, 650, 666, 
+667, 673, 675, 683, 713, 750, or 810 are Group 5 airplanes.
+
+Subject
+
+    (d) Air Transport Association (ATA) of America Code 53: 
+Fuselage.
+
+Unsafe Condition
+
+    (e) This AD results from a structural review of affected skin 
+lap joints for widespread fatigue damage. The Federal Aviation 
+Administration is issuing this AD to prevent fatigue cracking in 
+certain lap joints, which could result in rapid depressurization of 
+the airplane.
+
+Compliance
+
+    (f) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Restatement of Requirements of AD 94-12-04, With Revised Service 
+Information
+
+Repetitive Inspections
+
+    (g) For airplanes identified in Boeing Service Bulletin 747-53-
+2367, dated December 18, 1991: Prior to the accumulation of 22,000 
+full pressure flight cycles (or, if the external skin panel of an 
+affected lap joint has been replaced, prior to the accumulation of 
+22,000 full pressure flight cycles since skin replacement), or 
+within 1,000 landings after July 13, 1994 (the effective date of AD 
+94-12-04), whichever occurs later, perform an external surface high 
+frequency eddy current (HFEC) inspection of the skin around the 
+upper row of fasteners, in accordance with the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53-2367, dated December 
+18, 1991; Boeing Service Bulletin 747-53-2367, Revision 1, dated 
+January 27, 1994; Boeing Alert Service Bulletin 747-53A2367, 
+Revision 2, dated October 30, 2008; or Boeing Service Bulletin 747-
+53A2367, Revision 3, dated January 15, 2009. As of the effective 
+date of this AD, only Revision 3 may be used.
+    (1) If no crack is found, repeat the inspection thereafter at 
+intervals not to exceed 3,000 full pressure flight cycles until the 
+inspections required by paragraph (h) of this AD are done.
+    (2) If any crack is found, accomplish paragraphs (g)(2)(i) and 
+(g)(2)(ii) of this AD.
+    (i) Prior to further flight, perform an open hole HFEC 
+inspection to detect cracking in the upper row fastener holes 
+between the adjacent frames, in accordance with the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53-2367, dated December 
+18, 1991; Boeing Service Bulletin 747-53-2367, Revision 1, dated 
+January 27, 1994; Boeing Alert Service Bulletin 747-53A2367, 
+Revision 2, dated October 30, 2008; or Boeing Service Bulletin 747-
+53A2367, Revision 3, dated January 15, 2009. Prior to further 
+flight, repair any crack found, in accordance with a method approved 
+by the Manager, Seattle Aircraft Certification Office (ACO), FAA.
+    Note 2: Guidance on repairing cracking can be found in Chapter 
+53-30-03 of the Boeing 747 Structural Repair Manual.
+    (ii) Repeat the inspection required by paragraph (g) of this AD 
+thereafter at intervals not to exceed 3,000 full pressure flight 
+cycles until the inspections required by paragraph (h) of this AD 
+are done.
+
+New Requirements of This AD
+
+Repetitive Inspections/Investigative and Corrective Actions
+
+    (h) For all airplanes: Do initial and repetitive HFEC 
+inspections for cracks of lap joints in Sections 41, 42, 44, and 46, 
+by doing all the actions, including all applicable related 
+investigative and corrective actions, specified in the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2367, 
+Revision 3, dated January 15, 2009, except as provided by paragraph 
+(l) of this AD. Do the inspections at the applicable times specified 
+in paragraph 1.E. of Boeing Service Bulletin 747-53A2367, Revision 
+3, dated January 15, 2009, except as required by paragraph (k) of 
+this AD. Do all applicable related investigative and corrective 
+actions before further flight. Accomplishing the inspections 
+required by this paragraph ends the repetitive inspections required 
+by paragraph (g) of this AD. Do the actions required by paragraph 
+(h) of this AD until the modification required by paragraph (j) of 
+this AD is done.
+    (i) For areas on which a lap joint repair was installed and the 
+repair doubler is greater than or equal to 40 inches long: Do 
+initial and repetitive internal HFEC inspections for cracks, as 
+required by paragraph (h) of this AD, by doing all the applicable 
+actions, including applicable corrective actions, specified in the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2367, 
+Revision 3, dated January 15, 2009, except as provided by paragraph 
+(l) of this AD. Do the inspection and corrective actions at the 
+times specified in paragraph 1.E. of Boeing Service Bulletin 747-
+53A2367, Revision 3, dated January 15, 2009, except as required by 
+paragraph (k) of this AD.
+
+Terminating Action
+
+    (j) Before the accumulation of 30,000 total flight cycles or 
+within 3,000 flight cycles after the effective date of this AD, 
+whichever occurs later: Modify the applicable lap joints in Sections 
+41 and 42 by doing all the actions specified in the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53A2367, Revision 3, 
+dated January 15, 2009, except as required by paragraph (l) of this 
+AD. Accomplishing this modification terminates the repetitive 
+inspection requirements of this AD for the length of lap joint that 
+is modified.
+
+Exceptions to Boeing Service Bulletin 747-53A2367, Revision 3, Dated 
+January 15, 2009
+
+    (k) Where Boeing Service Bulletin 747-53A2367, Revision 3, dated 
+January 15, 2009, specifies compliance times ``from the date on the 
+original issue of this service bulletin [12/18/91],'' this AD 
+requires compliance within the specified compliance time after July 
+13, 1994 (the effective date of AD 94-12-04). Where Boeing Service 
+Bulletin 747-53A2367, Revision 3, dated January 15, 2009, specifies 
+compliance times ``after the date on Revision 2 of this service 
+bulletin [10/30/08],'' this AD requires compliance within the 
+specified compliance time after the effective date of this AD.
+    (l) Where Boeing Service Bulletin 747-53A2367, Revision 3, dated 
+January 15, 2009, specifies to contact Boeing for repair or 
+modification instructions: Before further flight, repair or modify 
+using a method approved in accordance with the procedures specified 
+in paragraph (m) of this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (m)(1) The Manager, Seattle ACO, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. Send information to ATTN: Ivan Li, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle ACO, 1601 Lind Avenue, SW., 
+Renton, Washington 98057-3356; telephone (425) 917-6437; fax (425) 
+917-6590. Or, e-mail information to <a href="/cdn-cgi/l/email-protection#8eb7a3cfc0c3a3ddebeffafae2eba3cfcdc1a3cfc3c1cda3dcebfffbebfdfafdcee8efefa0e9e1f8"><span class="__cf_email__" data-cfemail="20190d616e6d0d73454154544c450d61636f0d616d6f630d7245515545535453604641410e474f56">[email&#160;protected]</span></a>.
+    (2) To request a different method of compliance or a different 
+compliance time for this AD, follow the procedures in 14 CFR 39.19. 
+Before using any approved AMOC on any airplane to which the AMOC 
+applies, notify your principal maintenance inspector (PMI) or 
+principal avionics inspector (PAI), as appropriate, or lacking a 
+principal inspector, your local Flight Standards District Office. 
+The AMOC approval letter must specifically reference this AD.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) AMOCs approved previously in accordance with AD 94-12-04 are 
+approved as alternative methods of compliance with the corresponding 
+requirements of this AD.
+
+Material Incorporated by Reference
+
+    (n) You must use the service information specified in Table 1 of 
+this AD, as applicable, to do the actions required by this AD, 
+unless the AD specifies otherwise.
+
+[[Page 27427]]
+
+
+
+                                 Table 1--All Material Incorporated by Reference
+----------------------------------------------------------------------------------------------------------------
+               Document                               Revision                               Date
+----------------------------------------------------------------------------------------------------------------
+Boeing Alert Service Bulletin 747-      2..................................  October 30, 2008.
+ 53A2367.
+Boeing Service Bulletin 747-53-2367...  Original...........................  December 18, 1991.
+Boeing Service Bulletin 747-53-2367...  1..................................  January 27, 1994.
+Boeing Service Bulletin 747-53A2367...  3..................................  January 15, 2009.
+----------------------------------------------------------------------------------------------------------------
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the Boeing service information 
+specified in Table 2 of this AD under 5 U.S.C. 552(a) and 1 CFR part 
+51.
+
+             Table 2--New Material Incorporated by Reference
+------------------------------------------------------------------------
+           Document               Revision               Date
+------------------------------------------------------------------------
+Boeing Alert Service Bulletin             2  October 30, 2008.
+ 747-53A2367.
+Boeing Service Bulletin 747-              3  January 15, 2009.
+ 53A2367.
+------------------------------------------------------------------------
+
+    (2) The Director of the Federal Register previously approved the 
+incorporation by reference of the Boeing service information 
+contained in Table 3 of this AD on July 13, 1994 (59 FR 30277, June 
+13, 1994).
+
+                             Table 3--Material Previously Incorporated by Reference
+----------------------------------------------------------------------------------------------------------------
+               Document                               Revision                               Date
+----------------------------------------------------------------------------------------------------------------
+Boeing Service Bulletin 747-53-2367...  Original...........................  December 18, 1991.
+Boeing Service Bulletin 747-53-2367...  1..................................  January 27, 1994.
+----------------------------------------------------------------------------------------------------------------
+
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 
+206-544-5000, extension 1, fax 206-766-5680; e-mail 
+<a href="/cdn-cgi/l/email-protection#6b060e4509040e0804062b09040e02050c45080406"><span class="__cf_email__" data-cfemail="3a575f1458555f5955577a58555f53545d14595557">[email&#160;protected]</span></a>; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, 
+Washington. For information on the availability of this material at 
+the FAA, call 425-227-1221.
+    (5) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on April 27, 2010.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2010-10875 Filed 5-14-10; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,367 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 65 (Tuesday, April 5, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 65 (Tuesday, April 5, 2022)]
+[Rules and Regulations]
+[Pages 19619-19621]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-07085]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2021-1063; Project Identifier MCAI-2021-00826-T; 
+Amendment 39-21987; AD 2022-06-21]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2018-09-
+09, which applied to certain Airbus Model A318 and A319 series 
+airplanes; all Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes; and all Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes. AD 2018-09-09 required modifying the holes of the 
+upper cleat to upper stringer attachments at certain areas of the left- 
+and right-hand wings. Since the FAA issued AD 2018-09-09, additional 
+affected configurations were identified and, for certain airplanes, it 
+was determined that additional modification work and revised compliance 
+times are necessary. This AD retains the requirements of AD 2018-09-09 
+and adds airplanes, requires different compliance times for certain 
+airplane configurations, and, for certain airplanes, requires 
+additional modifications or reduces compliance times, as specified in a 
+European Union Aviation Safety Agency (EASA) AD, which is incorporated 
+by reference. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective May 10, 2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of May 10, 
+2022.
+
+ADDRESSES: For material incorporated by reference (IBR) in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email <a href="/cdn-cgi/l/email-protection#94d5d0e7d4f1f5e7f5baf1e1e6fbe4f5baf1e1"><span class="__cf_email__" data-cfemail="f2b3b681b297938193dc9787809d8293dc9787">[email&#160;protected]</span></a>; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>. You may view this material at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available in the AD 
+docket at
+
+[[Page 19620]]
+
+<a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. 
+FAA-2021-1063.
+
+Examining the AD Docket
+
+    You may examine the AD docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by 
+searching for and locating Docket No. FAA-2021-1063; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, the 
+mandatory continuing airworthiness information (MCAI), any comments 
+received, and other information. The address for Docket Operations is 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+Large Aircraft Section, FAA, International Validation Branch, 2200 
+South 216th St., Des Moines, WA 98198; telephone 206-231-3223; email 
+<a href="/cdn-cgi/l/email-protection#b9cad8d7d3d8c097cbd8d5d1d8d7f9dfd8d897ded6cf"><span class="__cf_email__" data-cfemail="592a3837333820772b3835313837193f3838773e362f">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2021-0167, dated July 14, 2021 (EASA 
+AD 2021-0167) (also referred to as the MCAI), to correct an unsafe 
+condition for certain Airbus SAS Model A318-111, -112, -121, and -122 
+airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes; Model A320-211, -212, -214, -215, -216, -231, -232, and -233 
+airplanes; and Model A321-111, -112, -131, -211, -212, -213, -231, and 
+-232 airplanes. Model A320-215 airplanes are not certificated by the 
+FAA and are not included on the U.S. type certificate data sheet; this 
+AD therefore does not include those airplanes in the applicability.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2018-09-09, Amendment 39-19266 (83 FR 
+19925, May 7, 2018; corrected May 15, 2018 (83 FR 22354)) (AD 2018-09-
+09). AD 2018-09-09 applied to certain Airbus Model A318 and A319 series 
+airplanes; all Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes; and all Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes. The NPRM published in the Federal Register on 
+December 21, 2021 (86 FR 72195). The NPRM was prompted by a report 
+indicating that additional affected configurations were identified to 
+be subject to widespread fatigue damage and, for certain airplanes, it 
+was determined that additional modification work (such as, for certain 
+configurations, oversizing certain additional holes, replacing a 
+certain fastener with a corrosion-resistant fastener, or cleat refit 
+and sealant procedure) or revised compliance times are necessary. The 
+NPRM proposed to retain the requirements of AD 2018-09-09 and add 
+airplanes, require different compliance times for certain airplane 
+configurations, and, for certain airplanes, require additional 
+modifications or reduce compliance times, as specified in EASA AD 2021-
+0167.
+    The FAA is issuing this AD to prevent fatigue cracking in the 
+stringer attachment holes of the wings, which could result in reduced 
+structural integrity of the wings. See the MCAI for additional 
+background information.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from two commenters, Air Line Pilots 
+Association, International (ALPA), and United Airlines, who supported 
+the NPRM without change.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Except for minor editorial changes, this AD is adopted as 
+proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator. Accordingly, the FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2021-0167 specifies procedures for modifying the stringer 
+attachments at rib 2 through rib 7 of the left- and right-hand wings. 
+The modification includes oversizing the holes, doing an eddy current 
+inspection of the affected holes for damage, and repairing damage. EASA 
+AD 2021-0167 also specifies additional work for airplanes on which the 
+modification actions were accomplished using certain service 
+information. This material is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,446 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                              Cost per
+                Action                        Labor cost         Parts cost    product    Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD 2018-09-09..  125 work-hours x $85 per     $26,260     $36,885  $41,901,360 (1,136
+                                        hour = $10,625.                                   airplanes).
+New actions..........................  125 work-hours x $85 per       1,520      12,145  $17,561,670.
+                                        hour = $10,625.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition actions or the additional work for 
+certain previously modified airplanes, as specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+[[Page 19621]]
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2018-09-09, Amendment 39-19266 
+(83 FR 19925, May 7, 2018; corrected May 15, 2018 (83 FR 22354)); and
+0
+b. Adding the following new AD:
+
+2022-06-21 Airbus SAS: Amendment 39-21987; Docket No. FAA-2021-1063; 
+Project Identifier MCAI-2021-00826-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective May 10, 2022.
+
+(b) Affected ADs
+
+    This AD replaces AD 2018-09-09, Amendment 39-19266 (83 FR 19925, 
+May 7, 2018; corrected May 15, 2018 (83 FR 22354)).
+
+(c) Applicability
+
+    This AD applies to Airbus SAS airplanes identified in paragraphs 
+(c)(1) through (4) of this AD, certificated in any category, as 
+identified in European Union Aviation Safety Agency (EASA) AD 2021-
+0167, dated July 14, 2021 (EASA AD 2021-0167).
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Reason
+
+    This AD was prompted by a report that additional affected 
+configurations were identified to be subject to widespread fatigue 
+damage at certain stringer attachments and, for certain airplanes, 
+it was determined that additional modification work is necessary. 
+The FAA is issuing this AD to prevent fatigue cracking in the 
+stringer attachment holes of the wings, which could result in 
+reduced structural integrity of the wings.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2021-0167.
+
+(h) Exceptions to EASA AD 2021-0167
+
+    (1) Where EASA AD 2021-0167 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) The ``Remarks'' section of EASA AD 2021-0167 does not apply 
+to this AD.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the Large Aircraft Section, International Validation Branch, send it 
+to the attention of the person identified in paragraph (j) of this 
+AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#fbc2d6baada8d6bab2a9d6ccc8cbd6bab6b4b8bb9d9a9ad59c948d"><span class="__cf_email__" data-cfemail="576e7a1601047a161e057a6064677a161a18141731363679303821">[email&#160;protected]</span></a>. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(j) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, Large Aircraft Section, FAA, International 
+Validation Branch, 2200 South 216th St., Des Moines, WA 98198; 
+telephone 206-231-3223; email <a href="/cdn-cgi/l/email-protection#592a3837333820772b3835313837193f3838773e362f"><span class="__cf_email__" data-cfemail="e69587888c879fc894878a8e8788a6808787c8818990">[email&#160;protected]</span></a>.
+
+ (k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2021-0167, 
+dated July 14, 2021.
+    (ii) [Reserved]
+    (3) For EASA AD 2021-0167, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+<a href="/cdn-cgi/l/email-protection#adece9deedc8ccdecc83c8d8dfc2ddcc83c8d8"><span class="__cf_email__" data-cfemail="56171225163337253778332324392637783323">[email&#160;protected]</span></a>; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+<a href="/cdn-cgi/l/email-protection#6107134f080f1211040215080e0f210f0013004f060e17"><span class="__cf_email__" data-cfemail="660014480f0815160305120f0908260807140748010910">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on March 10, 2022.
+Ross Landes,
+Deputy Director for Regulatory Operations, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2022-07085 Filed 4-4-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

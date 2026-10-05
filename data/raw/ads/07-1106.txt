@@ -1,0 +1,501 @@
+<html>
+<head>
+<title>Federal Register, Volume 72 Issue 47 (Monday, March 12, 2007)</title>
+</head>
+<body><pre>
+[Federal Register Volume 72, Number 47 (Monday, March 12, 2007)]
+[Rules and Regulations]
+[Pages 10909-10918]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 07-1106]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2006-25105; Directorate Identifier 2006-CE-33-AD; 
+Amendment 39-14982; AD 2007-06-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Raytheon Aircraft Company Beech Models 
+45 (YT-34), A45 (T-34A, B-45), and D45 (T-34B) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) that 
+supersedes AD 62-24-01, which applies to all Raytheon Aircraft Company 
+(RAC) Beech Models 45 (YT-34), A45 (T-34A, B45), and D45 (T-34B) 
+airplanes. AD 62-24-01 currently requires you to repetitively inspect, 
+using the dye penetrant method, the front and rear horizontal 
+stabilizer spars for cracks and replace any cracked stabilizer. Since 
+we issued AD 62-24-01, we determined that using the dye penetrant 
+inspection method may not detect cracks before the crack grows to a 
+critical length and causes failure of the horizontal stabilizer spars. 
+Therefore, we are requiring the surface eddy current inspection method 
+to detect cracks in the horizontal stabilizer spars. Consequently, this 
+AD retains the actions required in AD 62-24-01 and changes the required 
+inspection method from dye penetrant to surface eddy current. We are 
+issuing this AD to prevent failure of the front and/or rear horizontal 
+stabilizer spars caused by fatigue cracks. This failure could result in 
+stabilizer separation and loss of control of the airplane.
+
+DATES: This AD becomes effective on April 16, 2007.
+
+ADDRESSES: To view the AD docket, go to the Docket Management Facility, 
+U.S. Department of Transportation, 400 Seventh Street, SW., Nassif 
+Building, Room PL-401, Washington, DC 20590-001 or on the Internet at 
+<a href="http://dms.dot.gov">http://dms.dot.gov</a>. The docket number is FAA-2006-25105; Directorate 
+Identifier 2006-CE-33-AD.
+
+FOR FURTHER INFORMATION CONTACT: T.N. Baktha, Aerospace Engineer, FAA, 
+Wichita Aircraft Certification Office, 1801 Airport Road, Mid-Continent 
+Airport, Wichita, Kansas 67209; telephone: (316) 946-4155; fax: (316) 
+946-4107.
+
+SUPPLEMENTARY INFORMATION: 
+
+[[Page 10910]]
+
+Discussion
+
+    On July 24, 2006, we issued a proposal to amend part 39 of the 
+Federal Aviation Regulations (14 CFR part 39) to include an AD that 
+would apply to all RAC Beech Models 45 (YT-34), A45 (T-34A, B45), and 
+D45 (T-34B) airplanes. That proposal was published in the Federal 
+Register as a notice of proposed rulemaking (NPRM) on July 31, 2006 (71 
+FR 43075). The NPRM proposed to supersede AD 62-24-01 with a new AD 
+that would retain the actions required in AD 62-24-01 and only change 
+the inspection procedure from the dye penetrant method to the surface 
+eddy current method.
+
+Comments
+
+    We provided the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+and FAA's response to each comment:
+
+Comment Issue No. 1: Change the Compliance Time for the Initial 
+Inspection
+
+    Larry Bierma, Joe Enzminger, John Aldous, Michael Vadeboncoeur, 
+John Rippinger, William E. Mayher, Dan Thomas, and Victor Barrett state 
+that the inspection compliance in the proposed AD is a duplication of 
+the inspection for those who have done the eddy current inspection 
+recently as part of compliance with an alternative method of compliance 
+(AMOC) to AD 2004-25-51.
+    The commenters state that requiring another eddy current inspection 
+within 6 months after the effective date of this AD would be 
+unnecessary and economically burdensome for those who have already done 
+it. The commenters request credit for the last inspection done in 
+compliance with an AMOC to AD 2004-25-51 as compliance for the initial 
+inspection required in the proposed AD.
+    We have rewritten the compliance time to give full credit for 
+previously accomplished eddy current inspections done in the area 
+affected by this AD.
+
+Comment Issue No. 2: AD Is Not Necessary
+
+    Michael Vadeboncoeur, John Aldous, Mike Talbot, Eric Evans, Earle 
+Parks, Floyd Stilwell, Dan Thomas, Stephen Baksa, William Beitler, and 
+Terrance Brennan state that, since the time AD 62-24-01 was issued, 
+there have not been any accidents as a result of cracks in the 
+horizontal stabilizer. The commenters request the proposed AD be 
+withdrawn.
+    The commenters also request that stabilizer spars modified by Parks 
+Industries supplemental type certificate (STC) either be exempt from 
+the inspections or the inspection interval be increased to 1,000 hours 
+TIS.
+    We do not agree with the commenters. In 2005, 148 of the affected 
+airplanes were eddy current inspected. Cracks in the stabilizer spars 
+and/or spar webs were found on 6 of these airplanes, which required the 
+spars to be replaced. If no eddy current inspections had been done, 
+those cracks may have grown and reached critical crack lengths, which 
+could have compromised the integrity of the spar structure.
+    In order to increase the inspection interval or eliminate the spar 
+inspections, we need supporting engineering analysis data regarding 
+fatigue life, crack growth rate, etc. We have not received such data 
+for the spars modified by the Parks Industries STC.
+    If we receive engineering analysis data that supports increasing 
+the inspection intervals or eliminating the inspections, we may take 
+additional rulemaking action at that time.
+    We are not changing the final rule AD action based on these 
+comments.
+
+Comment Issue No. 3: Retain the Dye Penetrant Inspection From AD 62-24-
+01
+
+    Floyd Stilwell, Earle Parks, and Terrance Brennan state that the 
+surface eddy current inspection is expensive and inconvenient. 
+Qualified technicians to do the surface eddy current inspections have 
+to be brought to the repair station from other parts of the country, 
+which contributes to the expense of doing the eddy current inspection. 
+The commenters request retaining the dye penetrant inspection.
+    We do not agree with the commenters. AD 2001-13-18 R1 currently 
+requires owners/operators of all Beech Models 45 (YT-34), A45 (T-34A, 
+B-45), and D45 (T-34B) airplanes to do repetitive 80-hour TIS eddy 
+current inspections of the wing spar assemblies and other components 
+following Raytheon Aircraft Mandatory Service Bulletin No. SB 57-3329, 
+Part II, Page 3/65, Issued: February, 2000. If the wing spar and 
+stabilizer spar inspections are properly planned, these two inspections 
+could be done at the same time. This planning would eliminate any extra 
+expenses.
+    We have reason to believe that damage tolerance analysis of the 
+stabilizer spar is being conducted by some owners. This may result in 
+additional rulemaking action that could eliminate the inspection or 
+increase the inspection interval. Until that time, AMOCs for this AD 
+may be approved, if requested using the procedures found in 14 CFR 
+39.19.
+    We are not changing the final rule AD action based on these 
+comments.
+
+Comment Issue No. 4: Surface Eddy Current Inspection Method Unwarranted
+
+    Dan Thomas, William Beitler, Floyd Stilwell, William Mayher, and 
+Mike Talbot state that the eddy current inspection method is no better 
+than the dye penetrant method for detecting cracks. The level of safety 
+will not be enhanced by changing the inspection methods. Further, the 
+eddy current method could produce false positives and the frequent 
+inspections could also incur damage to the stabilizer spar. The 
+commenters request the method of inspection be at the owner's/
+operator's option.
+    We do not agree with the commenters. The eddy current inspection 
+method is a more sensitive inspection process. The dye penetrant 
+inspection method at times could completely miss detecting the cracks.
+    All inspection methods have some inherent drawbacks. Eddy current 
+inspection methods detect small surface cracks better than dye 
+penetrant methods, and eddy current inspection methods are also capable 
+of detecting subsurface cracks. Detection of cracks early is a definite 
+advantage. Eddy current inspection methods could occasionally produce 
+false positives; however, this could be avoided if cracks are confirmed 
+by repeatable flaw indications.
+    If the inspections required by this AD are carefully done by 
+qualified technicians, any damage to the spars could be prevented.
+    The 500-hour TIS repetitive inspection interval is a long interval 
+between inspections for this type of airplane, which normally will take 
+place once in 5 years or longer in most cases; therefore, we do not 
+consider this inspection requirement as frequent.
+    We are not changing the final rule AD action based on this comment.
+
+Conclusion
+
+    We have carefully reviewed the available data and determined that 
+air safety and the public interest require adopting the AD as proposed 
+except for minor editorial corrections. We have determined that these 
+minor corrections:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+[[Page 10911]]
+
+Costs of Compliance
+
+    We estimate that this AD affects 475 airplanes in the U.S. 
+registry.
+    We estimate the following costs to accomplish each inspection:
+
+----------------------------------------------------------------------------------------------------------------
+                                                                                  Total cost per   Total cost on
+                  Labor cost                               Parts cost                airplane     U.S. operators
+----------------------------------------------------------------------------------------------------------------
+8 work-hours x $80 per hour = $640............  Not applicable..................            $640        $304,000
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary horizontal 
+stabilizer replacements that will be required based on the results of 
+the inspection. We have no way of determining the number of airplanes 
+that may need this replacement:
+
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Total cost per
+                            Labor cost                                       Parts cost              airplane
+----------------------------------------------------------------------------------------------------------------
+4 work-hours x $80 per hour = $320................................                        $3,500          $3,820
+----------------------------------------------------------------------------------------------------------------
+
+Cost Difference Between This AD and AD 62-24-01
+
+    The only difference between this AD and AD 62-24-01 is the change 
+of inspection method. There may be some minimal additional cost 
+involved in doing the eddy current inspection because of possible 
+equipment rentals necessary. No additional actions are being required. 
+We have determined that this AD action does not increase the cost 
+impact over that already required by AD 62-24-01.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106 describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this AD.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a summary of the costs to comply with this AD (and 
+other information as included in the Regulatory Evaluation) and placed 
+it in the AD Docket. You may get a copy of this summary by sending a 
+request to us at the address listed under ADDRESSES. Include ``Docket 
+No. FAA-2006-25105; Directorate Identifier 2006-CE-33-AD'' in your 
+request.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the Federal Aviation Administration amends part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+62-24-01, Amendment 39-508, and adding the following new AD:
+
+    2007-06-01 Raytheon Aircraft Company: Amendment 39-14982; Docket 
+No. FAA-2006-25105; Directorate Identifier 2006-CE-33-AD.
+
+Effective Date
+
+    (a) This AD becomes effective on April 16, 2007.
+
+Affected ADs
+
+    (b) This AD supersedes AD 62-24-01, Amendment 39-508.
+
+Applicability
+
+    (c) This AD affects the following airplane models and serial 
+numbers that are certificated in any category:
+
+------------------------------------------------------------------------
+                                                              Serial
+                          Model                               numbers
+------------------------------------------------------------------------
+Beech 45 (YT-34)........................................             All
+Beech A45 (T34A, B-45)..................................             All
+Beech D45 (T-34B).......................................             All
+------------------------------------------------------------------------
+
+Unsafe Condition
+
+    (d) This AD results from our determination that the surface eddy 
+current inspection method should be used in place of the dye penetrant 
+inspection method currently required in AD 62-24-01. We are issuing 
+this AD to prevent failure of the front and/or rear horizontal 
+stabilizer spars caused by fatigue cracks. This failure could result in 
+stabilizer separation and loss of control of the airplane.
+
+Compliance
+
+    (e) Using the surface eddy current inspection procedures outlined 
+in the appendix of this AD, inspect the front and rear horizontal 
+stabilizer spars between the butt rib and the inboard end for cracks, 
+unless already done, as follows:
+    (1) If the last inspection of the front and rear horizontal 
+stabilizer spars was done using the surface eddy current method (or 
+FAA-approved equivalent method) to show compliance with
+
+[[Page 10912]]
+
+AD 62-24-01 and/or to show compliance with the alternative method of 
+compliance (AMOC) to AD 2004-25-51: Repetitively inspect thereafter at 
+intervals not to exceed 500 hours time-in-service (TIS).
+    (2) If the last inspection of the front and rear horizontal 
+stabilizer spars required by AD 62-24-01 was done using the dye 
+penetrant method: Inspect initially as presented in the table below and 
+repetitively thereafter at intervals not to exceed 500 hours TIS:
+
+------------------------------------------------------------------------
+                    If                                  Then
+------------------------------------------------------------------------
+(i) Less than 200 hours TIS have passed     Inspect at whichever of the
+ since the last inspection required by AD    following occurs later:
+ 62-24-01:
+                                            (A) Upon accumulating 200
+                                             hours TIS since the last
+                                             inspection required by AD
+                                             62-24-01; or
+                                            (B) Within the next 6 months
+                                             after April 16, 2007. (the
+                                             effective date of this AD).
+(ii) If 200 hours TIS or more have passed   Inspect at whichever of the
+ since the last inspection required by AD-   following occurs first,
+ 24-01:                                      unless paragraph
+                                             (e)(2)(iii) of this AD
+                                             applies, as specified
+                                             below:
+                                            (A) At the next repetitive
+                                             inspection required by AD
+                                             62-24-01; or
+                                            (B) Within the next 6 months
+                                             after April 16, 2007 (the
+                                             effective date of this AD).
+(iii) If paragraph (e)(2)(ii) results in    Inspect within the next 30
+ the initial surface eddy current            days after April 16, 2007.
+ inspection becoming mandatory within 30     (the effective date of this
+ days after the effective date of this AD:   AD).
+------------------------------------------------------------------------
+
+Alternative Methods of Compliance (AMOCs)
+
+    (f) The Manager, Wichita Aircraft Certification Office, FAA, ATTN: 
+T.N. Baktha, Aerospace Engineer, 1801 Airport Road, Mid-Continent 
+Airport, Wichita, Kansas 67209; telephone: (316) 946-4155; fax: (316) 
+946-4107, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19.
+    (g) AMOCs approved for AD 62-24-01 are approved for this AD.
+
+Appendix to AD 2007-06-01
+
+Surface Eddy Current Inspection Procedure
+
+    Note: This surface eddy current inspection procedure is based on 
+T-34 Spar Corporation TSC 3506, Rev C, dated May 10, 2005. The T-34 
+Spar Corporation is allowing the use of this procedure to be 
+included in this Airworthiness Directive. Alternative methods of 
+compliance procedures will be allowed, if approved by the Wichita 
+Aircraft Certification Office and requested using the procedures 
+found in 14 CFR 39.19.
+
+    Purpose: This procedure is to be used to detect cracks in the 
+inner and outer spars of the front and rear spar assemblies of 
+Raytheon Aircraft Company Beech Models 45 (YT-34), A45 (T-34A, B-
+45), and D45 (T-34B) airplane stabilizers outside of the steel 
+bushings in the attach holes.
+    Area To Be Inspected: To access the area of inspection, remove 
+the stabilizer from the airplane. The areas to be inspected include 
+the forward and aft surfaces of the inner and outer front and rear 
+spars of the horizontal stabilizers in the areas surrounding each of 
+the attach holes.
+    Preparing the Area for Inspection: Thoroughly clean area to be 
+inspected with solvent (acetone or equivalent) as required until no 
+signs of dirt, grime, or oil remain on the front and rear spars from 
+the closeout former inboard on the forward and aft surfaces of the 
+spars.
+    Surfaces to be inspected should be smooth and corrosion-free. 
+Any loss of thickness due to corrosion below material thickness 
+tolerance is cause for rejection of the structure. An ultrasonic 
+tester may be used to determine if material thickness has been 
+compromised.
+    Equipment Requirements: Nortec Stavely 2000D Eddy Current Tester 
+or equivalent.
+    Probe: 50-500 KHz, shielded, absolute, 0.071'' diameter (0.090 
+max. diameter), right angle, pencil style, surface probe, 5 long, 
+\1/2\'' drop or equivalent. Use 0.025'' notch (beyond head) for 
+calibration
+    Personal Requirements: Technicians with Eddy Current, Level II 
+or Level III per one of the following specifications: ATA 
+specification 105, SNT-TC-1A, or NAS-410 (MIL-std 410E).
+    Methods: Typical Set-up Parameters:
+    Frequency-350 KHz, Gain Vertical-75 dB, Horizontal-69 dB, Drive-
+Mid, Filters- Lo Pass-30, Hi Pass-0, Lift off-Horizontal to the 
+left, adjust as required. The most reliable indication (minimum of 
+1\1/2\ to 2 graticules) of the smallest observable flaw in the 
+coupon (see the attached Figures) occurs from the notch extending 
+0.025'' past the edge of the nominal fastener head (total notch 
+length of 0.100'' from the edge of the nominal hole). Install 
+appropriate aluminum guide pin into bushing such that the edge of 
+the guide pin is flush with the edge of the bushing. Using the pin 
+(see the attached Figures) as a guide, circle the area surrounding 
+the steel bushing with the probe and adjacent area (approximately 
+\1/4\'') to inspect for cracks. Inspect forward and aft surfaces 
+surrounding bushings of each spar.
+
+    Note: T-34 Spar Corporation, 2800 Airport Road, Hanger A, Ada, 
+Oklahoma, 74820 is a source for these coupons and pin.
+
+    Accept/Reject Criteria: Any repeatable flaw indication is cause 
+for rejection in accordance with the procedure. In the event that 
+any crack is detected, describe the flaw in detail providing sketch 
+as needed and send the information to the Wichita ACO.
+    Documentation Requirements: Record inspection findings in the 
+aircraft logbook.
+BILLING CODE 4910-13-P
+
+[[Page 10913]]
+
+[GRAPHIC] [TIFF OMITTED] TR12MR07.003
+
+
+[[Page 10914]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR12MR07.004
+
+
+[[Page 10915]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR12MR07.005
+
+
+[[Page 10916]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR12MR07.006
+
+
+[[Page 10917]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR12MR07.007
+
+
+
+[[Page 10918]]
+
+
+    Issued in Kansas City, Missouri, on March 5, 2007.
+Kim Smith,
+Manager, Small Airplane Directorate, Aircraft Certification Service.
+[FR Doc. 07-1106 Filed 3-9-07; 8:45 am]
+BILLING CODE 4910-13-C
+
+
+</pre></body>
+</html>

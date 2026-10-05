@@ -1,0 +1,58 @@
+{
+ "fields": [
+  {
+   "field_id": "spec_7050_plate",
+   "value": "AMS 4050",
+   "snippet": "Specification . . . . . . . . . AMS 4050",
+   "page": 626
+  },
+  {
+   "field_id": "temper_7050_plate",
+   "value": "T7451",
+   "snippet": "Temper . . . . . . . . . . . . . T7451",
+   "page": 626
+  },
+  {
+   "field_id": "first_range_thickness_in",
+   "value": "0.250-1.500",
+   "snippet": "Thickness, in. . . . . . . . . . 0.250-1.500 | Basis: A B",
+   "page": 626
+  },
+  {
+   "field_id": "ftu_L_A_ksi",
+   "value": "74",
+   "snippet": "Ftu, ksi: L . . . 74a (column 0.250-1.500, Basis A)",
+   "page": 626
+  },
+  {
+   "field_id": "fty_L_A_ksi",
+   "value": "64",
+   "snippet": "Fty, ksi: L . . . 64b (column 0.250-1.500, Basis A)",
+   "page": 626
+  },
+  {
+   "field_id": "ftu_ST_A_ksi",
+   "value": null,
+   "snippet": "Ftu, ksi: ST . . . ... (column 0.250-1.500, Basis A prints only dots)",
+   "page": 626
+  },
+  {
+   "field_id": "fbru_2p0_A_ksi",
+   "value": "140",
+   "snippet": "Fbru, ksi: (e/D = 2.0) . . . 140 (column 0.250-1.500, Basis A)",
+   "page": 626
+  },
+  {
+   "field_id": "e_modulus_ksi",
+   "value": "10.3",
+   "snippet": "E, 10^3 ksi . . . . . . . . . . 10.3",
+   "page": 626
+  },
+  {
+   "field_id": "density_lb_in3",
+   "value": "0.102",
+   "snippet": "Physical Properties: ω, lb/in.3 . . . 0.102",
+   "page": 626
+  }
+ ]
+}

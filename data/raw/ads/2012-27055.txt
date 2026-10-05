@@ -1,0 +1,434 @@
+<html>
+<head>
+<title>Federal Register, Volume 77 Issue 221 (Thursday, November 15, 2012)</title>
+</head>
+<body><pre>
+[Federal Register Volume 77, Number 221 (Thursday, November 15, 2012)]
+[Rules and Regulations]
+[Pages 68050-68052]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2012-27055]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-0488; Directorate Identifier 2011-NM-106-AD; 
+Amendment 39-17244; AD 2012-22-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A300 B4-600 and A300 B4-600R, Model A300, and Model A310 
+series airplanes. This AD was prompted by reports of fatigue cracking 
+in the crossbeams at the junction of the actuator beam of the lower 
+deck cargo door. This AD requires repetitive inspections of the 
+crossbeams of certain fuselage frames, and repair if necessary. We are 
+issuing this AD to detect and correct cracking of the crossbeams at the 
+junction of the actuator beam of the lower deck cargo door, which could 
+result in failure to withstand ultimate load conditions, and consequent 
+reduced structural integrity of the airplane.
+
+DATES: This AD is effective December 20, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of December 20, 
+2012.
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> or in person at the U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, Washington 98057-3356; telephone (425) 
+227-2125; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+That NPRM published in the Federal Register on May 22, 2012 (77 FR 
+30228). That NPRM proposed to correct an unsafe condition for the 
+specified products. The Mandatory Continuing Airworthiness Information 
+(MCAI) states:
+
+    Some operators have reported cracked crossbeams at the junction 
+with the lower deck cargo door actuator beam. The investigation 
+results indicate that these cracks initiated in the fastener hole, 
+propagated in a vertical direction and were due to fatigue.
+    This condition, if not corrected, could lead, in case of cracks 
+propagation in a crossbeam (upper and lower web), to the floor grid 
+being unable to withstand ultimate load condition.
+For the reasons described above, this [European Aviation Safety 
+Agency (EASA)] AD requires repetitive [high frequency eddy current] 
+inspections [for cracks] of certain crossbeams including those 
+previously repaired by the Structure Repair Manual (SRM) or Repair 
+Approval Sheet (RAS).
+
+The required actions include repairing any cracking. As an option, 
+modifying the crossbeams terminates the repetitive inspections. You may 
+obtain further information by examining the MCAI in the AD docket.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(77 FR 30228, May 22, 2012) and the FAA's response to each comment.
+
+Request To Clarify That Freighter Airplanes Are Not Affected
+
+    UPS stated that the NPRM (77 FR 30228, May 22, 2012) does not apply 
+to its Model A300 F4-622R airplanes.
+    We infer that the commenter is asking for clarification that its 
+airplanes are not affected by the proposed requirements. Freighter 
+airplanes identified as freighters on the initial certificate of 
+airworthiness are excluded from the applicability in this AD. The loads 
+distribution via the main deck cargo loading system onto the floor grid 
+is different from passenger airplanes. In addition, the European 
+Aviation Safety Agency (EASA), which is the aviation authority for the 
+Member States of the European Community, has granted an alternative 
+method of compliance (AMOC) for Airbus airplanes converted from 
+passenger to freighter configuration by EASA supplemental type 
+certificate (STC). We have changed the applicability in paragraph (c) 
+of this AD to exclude airplanes converted by the equivalent FAA STCs 
+ST01431NY, ST00177LA-D, and ST00100NY.
+
+Request To Extend Repetitive Inspection Interval/Eliminate Compliance 
+Time for Corrective Action
+
+    FedEx asked that the repetitive inspection interval specified in 
+paragraph (g) of the NPRM (77 FR 30228, May 22, 2012), be extended from 
+600 flight cycles to within 1,500 flight cycles or 24 months after the 
+effective date of the AD, whichever occurs first. FedEx stated that the 
+current repetitive inspection interval is ten times more frequent than 
+the 6,000-flight-cycle interval in the existing airworthiness 
+limitations items and maintenance review board requirements. FedEx 
+added that these maintenance program items have been performed 
+regularly at FedEx and have yielded few findings. FedEx noted that this 
+extension will coincide with its regular maintenance check schedule.
+    FedEx also stated that paragraph (g)(2) of the NPRM (77 FR 30228, 
+May 22, 2012) specifies that, if a prior repair has
+
+[[Page 68051]]
+
+been done on the crossbeam, the corrective action requires 
+accomplishing a repair within 600 flight cycles after the effective 
+date of the AD. This places an additional burden on operators by 
+mandating replacement of the crossbeam.
+    We disagree with the requests to extend the compliance time for the 
+repetitive inspections and to eliminate the compliance time for the 
+corrective action. Based on the data provided by Airbus, we determined 
+that repetitive intervals of 600 flight hours and doing the repair 
+before the accumulation of 10,000 total flight cycles since first 
+flight of the airplane, or within 600 flight cycles after the effective 
+date of this AD, whichever occurs later, is appropriate to address the 
+identified unsafe condition. In developing an appropriate compliance 
+time for these actions, we considered the urgency associated with the 
+subject unsafe condition, the manufacturer's recommendations, and the 
+practical aspect of accomplishing the required actions within a period 
+of time that corresponds to the normal scheduled maintenance for most 
+affected operators. In addition, our compliance time corresponds with 
+the compliance time of the parallel AD issued by EASA. Under the 
+provisions of paragraph (j)(1) of this AD, we will consider requests 
+for approval of an extension of the compliance time if sufficient data 
+are submitted to substantiate that the new compliance time would 
+provide an acceptable level of safety. We have not changed the AD in 
+this regard.
+
+Product Identification Correction
+
+    We have changed the product identification in this AD to specify 
+``Airbus.'' We inadvertently listed ``The Boeing Company'' in the 
+product identification section of the NPRM (77 FR 30228, May 22, 2012).
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously. We also determined that 
+these changes will not increase the economic burden on any operator or 
+increase the scope of the AD.
+
+Costs of Compliance
+
+    Based on the service information, we estimate that this AD affects 
+about 152 products of U.S. registry. We also estimate that it will take 
+about 1 work-hour per product to comply with the basic requirements of 
+this AD. The average labor rate is $85 per work-hour. Based on these 
+figures, we estimate the cost of the AD on U.S. operators to be 
+$12,920, or $85 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2012-22-08 Airbus: Amendment 39-17244; Docket No. FAA-2012-0488; 
+Directorate Identifier 2011-NM-106-AD.
+
+(a) Effective Date
+
+    This AD is effective December 20, 2012.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus Model A300 B2-1A, B2-1C, B2K-3C, B2-
+203, B4-2C, B4-103, and B4-203 airplanes; Model A300 B4-601, B4-603, 
+B4-620, and B4-622 airplanes; Model A300 B4-605R and B4-622R 
+airplanes; and Model A310-203, -204, -221, -222, -304, -322, -324, 
+and -325 airplanes; certificated in any category; except those 
+airplanes identified in paragraph (c)(1), (c)(2), (c)(3), and (c)(4) 
+of this AD.
+    (1) Airplanes on which Airbus Service Bulletin A300-53-6166 
+(Airbus Modification 13434) has been embodied in service (for Model 
+A300 B4-600 and A300 B4-600R series airplanes).
+    (2) Airplanes on which Airbus Service Bulletin A300-53-0389 
+(Airbus Modification 13434) has been embodied in service (for Model 
+A300 series airplanes).
+    (3) Airplanes on which Airbus Service Bulletin A310-53-2133 
+(Airbus Modification 13434) has been embodied in service (for Model 
+A310 series airplanes).
+    (4) Airplanes modified by FAA Supplemental Type Certificate 
+(STC) ST01431NY, ST00177LA-D, or ST00100NY, as applicable.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53: Fuselage.
+
+(e) Reason
+
+    This AD was prompted by reports of fatigue cracking in the 
+crossbeams at the junction of the actuator beam of the lower deck 
+cargo door. We are issuing this AD to detect and correct cracking of 
+the crossbeams at the junction of the actuator beam of the lower 
+deck cargo door, which could result in failure to withstand ultimate 
+load conditions, and consequent reduced structural integrity of the 
+airplane.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+(g) Repetitive High Frequency Eddy Current Inspections
+
+    (1) For airplanes on which the crossbeams at frames (FR) 22/23 
+and FR 61/62 have not
+
+[[Page 68052]]
+
+been repaired as specified in an Airbus structural repair manual or 
+repair approval sheet as of the effective date of this AD: Before 
+the accumulation of 10,000 total flight cycles since first flight of 
+the airplane, or within 600 flight cycles after the effective date 
+of this AD, whichever occurs later, perform a high frequency eddy 
+current (HFEC) inspection for cracking of the crossbeam fuselage 
+frame stations FR 22/23 and FR 61/62, in accordance with the 
+Accomplishment Instructions of the applicable service bulletin 
+identified in paragraph (g)(1)(i), (g)(1)(ii), or (g)(1)(iii) of 
+this AD. Repeat the inspection thereafter at intervals not to exceed 
+600 flight cycles until the modification specified in paragraph (i) 
+of this AD has been done.
+    (i) Airbus Mandatory Service Bulletin A300-53-0390, dated 
+January 15, 2010 (for Model A300 series airplanes).
+    (ii) Airbus Mandatory Service Bulletin A310-53-2134, dated 
+January 15, 2010 (for Model A310 series airplanes).
+    (iii) Airbus Mandatory Service Bulletin A300-53-6168, dated 
+January 15, 2010 (for Model A300-600 series airplanes).
+    (2) For airplanes on which the crossbeams at FR 22/23 and FR 61/
+62 have been repaired as specified in an Airbus structural repair 
+manual or repair approval sheet as of the effective date of this AD: 
+Before the accumulation of 10,000 total flight cycles since first 
+flight of the airplane, or within 600 flight cycles after the 
+effective date of this AD, whichever occurs later, repair in 
+accordance with a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA) (or its delegated agent).
+
+(h) Corrective Action
+
+    If any crack is found during any inspection required by 
+paragraph (g) of this AD: Before further flight, repair any crack 
+using a method approved by the Manager, International Branch, ANM-
+116; or EASA (or its delegated agent).
+
+(i) Optional Terminating Action
+
+    Modifying the crossbeam fuselage frame stations FR 22/23 and FR 
+61/62, including doing rotating probe inspections for cracks of 
+fastener holes, in accordance with the Accomplishment Instructions 
+of the applicable service bulletin identified in paragraph (i)(1), 
+(i)(2), or (i)(3) of this AD, and repairing any crack using a method 
+approved by the Manager, International Branch, ANM-116; or EASA (or 
+its delegated agent); terminates the repetitive inspections required 
+by paragraph (g)(1) of this AD.
+    (1) Airbus Service Bulletin A300-53-0389, Revision 02, dated 
+April 27, 2011 (for Model A300 series airplanes).
+    (2) Airbus Service Bulletin A310-53-2133, Revision 02, dated 
+April 27, 2011 (for Model A310 series airplanes).
+    (3) Airbus Service Bulletin A300-53-6166, Revision 01, dated May 
+21, 2010 (for Model A300-600 series airplanes).
+
+(j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Dan Rodina, 
+Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, Washington 
+98057-3356; telephone (425) 227-2125; fax (425) 227-1149. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#b58c98f4fbf89884848398f4f8faf698e7f0e4e0f0e6e1e6f5d3d4d49bd2dac3"><span class="__cf_email__" data-cfemail="8eb7a3cfc0c3a3bfbfb8a3cfc3c1cda3dccbdfdbcbdddaddcee8efefa0e9e1f8">[email&#160;protected]</span></a>. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office. The AMOC approval letter must specifically reference this 
+AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to assure the product 
+is airworthy before it is returned to service.
+
+(k) Related Information
+
+    Refer to EASA Airworthiness Directive 2011-0086, dated May 12, 
+2011; and the service information identified in paragraphs (k)(1), 
+(k)(2), (k)(3), (k)(4), (k)(5), and (k)(6) of this AD, for related 
+information.
+    (1) Airbus Mandatory Service Bulletin A300-53-0390, dated 
+January 15, 2010.
+    (2) Airbus Mandatory Service Bulletin A300-53-6168, dated 
+January 15, 2010.
+    (3) Airbus Mandatory Service Bulletin A310-53-2134, dated 
+January 15, 2010.
+    (4) Airbus Service Bulletin A300-53-0389, Revision 02, dated 
+April 27, 2011.
+    (5) Airbus Service Bulletin A300-53-6166, Revision 01, dated May 
+21, 2010.
+    (6) Airbus Service Bulletin A310-53-2133, Revision 02, dated 
+April 27, 2011.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Airbus Mandatory Service Bulletin A300-53-0390, dated 
+January 15, 2010.
+    (ii) Airbus Mandatory Service Bulletin A300-53-6168, dated 
+January 15, 2010.
+    (iii) Airbus Mandatory Service Bulletin A310-53-2134, dated 
+January 15, 2010.
+    (iv) Airbus Service Bulletin A300-53-0389, Revision 02, dated 
+April 27, 2011.
+    (v) Airbus Service Bulletin A300-53-6166, Revision 01, dated May 
+21, 2010.
+    (vi) Airbus Service Bulletin A310-53-2133, Revision 02, dated 
+April 27, 2011.
+    (3) For service information identified in this AD, contact 
+Airbus SAS--EAW (Airworthiness Office), 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 44 51; email <a href="/cdn-cgi/l/email-protection#1c7d7f7f73697268327d756e6b736e687431797d6f5c7d756e7e696f327f7371"><span class="__cf_email__" data-cfemail="91f0f2f2fee4ffe5bff0f8e3e6fee3e5f9bcf4f0e2d1f0f8e3f3e4e2bff2fefc">[email&#160;protected]</span></a>; 
+Internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (4) You may review copies of the referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, Washington. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on October 24, 2012.
+Kalene C. Yanamura,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-27055 Filed 11-14-12; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

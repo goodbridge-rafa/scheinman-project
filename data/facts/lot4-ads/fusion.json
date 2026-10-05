@@ -1,0 +1,415 @@
+{
+ "date": "2026-08-30",
+ "events": {
+  "00-13445": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "00-14436": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "other",
+   "mechanism_class": "wear",
+   "series": "unknown"
+  },
+  "00-19816": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "radius_or_fillet",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "00-19817": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "lug",
+   "mechanism_class": null,
+   "series": "unknown"
+  },
+  "00-23583": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "00-25151": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "none_stated",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "00-29497": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "00-31451": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "none_stated",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "00-4568": {
+   "alloy_as_stated": "7075 aluminum",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "7xxx"
+  },
+  "00-951": {
+   "alloy_as_stated": "Inconel or stainless steel",
+   "feature_class": null,
+   "mechanism_class": "stress_corrosion_cracking",
+   "series": "unknown"
+  },
+  "01-16200": {
+   "alloy_as_stated": null,
+   "feature_class": "none_stated",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "01-21749": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "radius_or_fillet",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "01-26951": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "chord",
+   "mechanism_class": "corrosion",
+   "series": "unknown"
+  },
+  "01-26952": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "skin_panel",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "02-15937": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "02-3848": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "none_stated",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "02-6201": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "03-226": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "other",
+   "mechanism_class": "other",
+   "series": "unknown"
+  },
+  "03-6262": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "03-7747": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "none_stated",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "04-15373": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "skin_panel",
+   "mechanism_class": "corrosion",
+   "series": "unknown"
+  },
+  "05-19144": {
+   "alloy_as_stated": "7075-T6511",
+   "feature_class": "none_stated",
+   "mechanism_class": "fracture_or_crack_unspecified",
+   "series": "7xxx"
+  },
+  "05-4410": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "06-2849": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "none_stated",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "07-1106": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "07-1715": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2011-4467": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2012-18627": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2012-21533": {
+   "alloy_as_stated": "7079 aluminum",
+   "feature_class": "chord",
+   "mechanism_class": "stress_corrosion_cracking",
+   "series": "7xxx"
+  },
+  "2012-22529": {
+   "alloy_as_stated": null,
+   "feature_class": "other",
+   "mechanism_class": "stress_corrosion_cracking",
+   "series": "unknown"
+  },
+  "2012-28434": {
+   "alloy_as_stated": null,
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2013-10006": {
+   "alloy_as_stated": null,
+   "feature_class": "web",
+   "mechanism_class": "fracture_or_crack_unspecified",
+   "series": "unknown"
+  },
+  "2013-10797": {
+   "alloy_as_stated": null,
+   "feature_class": "radius_or_fillet",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2014-30132": {
+   "alloy_as_stated": null,
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2016-00949": {
+   "alloy_as_stated": null,
+   "feature_class": null,
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2016-05249": {
+   "alloy_as_stated": null,
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2016-08539": {
+   "alloy_as_stated": "7079 aluminum",
+   "feature_class": "chord",
+   "mechanism_class": "stress_corrosion_cracking",
+   "series": "7xxx"
+  },
+  "2016-18708": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "radius_or_fillet",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2016-21146": {
+   "alloy_as_stated": "aluminum alloy",
+   "feature_class": null,
+   "mechanism_class": "fracture_or_crack_unspecified",
+   "series": "unknown"
+  },
+  "2016-23261": {
+   "alloy_as_stated": "steel base member and the aluminum side members",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2016-31188": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2017-01824": {
+   "alloy_as_stated": "none_stated",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2017-18908": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": null,
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2018-01197": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": null,
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2019-15518": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": null,
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2019-28465": {
+   "alloy_as_stated": null,
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2020-12821": {
+   "alloy_as_stated": "aluminum alloy",
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2022-10952": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2023-02986": {
+   "alloy_as_stated": "2014-T6 aluminum forging",
+   "feature_class": "chord",
+   "mechanism_class": "fatigue_cracking",
+   "series": "2xxx"
+  },
+  "2023-10624": {
+   "alloy_as_stated": null,
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "2025-17026": {
+   "alloy_as_stated": null,
+   "feature_class": "none_stated",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "E7-24855": {
+   "alloy_as_stated": null,
+   "feature_class": "radius_or_fillet",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "E7-9396": {
+   "alloy_as_stated": "7050-T7451 aluminum alloy",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "7xxx"
+  },
+  "E8-20091": {
+   "alloy_as_stated": "cast 356 aluminum",
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "E8-21125": {
+   "alloy_as_stated": "aluminum alloy",
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "E8-4674": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": null,
+   "mechanism_class": null,
+   "series": "unknown"
+  },
+  "E8-9058": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "fastener_hole",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  },
+  "E8-970": {
+   "alloy_as_stated": null,
+   "feature_class": null,
+   "mechanism_class": "other",
+   "series": "unknown"
+  },
+  "E9-17122": {
+   "alloy_as_stated": null,
+   "feature_class": "skin_panel",
+   "mechanism_class": null,
+   "series": "unknown"
+  },
+  "E9-18220": {
+   "alloy_as_stated": "aluminum",
+   "feature_class": "other",
+   "mechanism_class": "fatigue_cracking",
+   "series": "unknown"
+  }
+ },
+ "inputs": {
+  "merged": "data/facts/lot4-ads/merged.json",
+  "note": "only double-agreed facts feed fusion; flagged blanks never do; support requires the rule's quantity to be evidenced by the event's feature class (2026-08-30 audit fix)",
+  "rules": "data/rules/seed_rules.json"
+ },
+ "support": {
+  "R-0001": {
+   "count": 2,
+   "documents": [
+    "00-4568",
+    "E7-9396"
+   ]
+  },
+  "R-0002": {
+   "count": 16,
+   "documents": [
+    "00-13445",
+    "00-4568",
+    "02-15937",
+    "03-6262",
+    "07-1106",
+    "07-1715",
+    "2012-18627",
+    "2012-28434",
+    "2016-05249",
+    "2016-23261",
+    "2016-31188",
+    "2017-01824",
+    "2022-10952",
+    "2023-10624",
+    "E7-9396",
+    "E8-9058"
+   ]
+  },
+  "R-0003": {
+   "count": 0,
+   "documents": []
+  },
+  "R-0004": {
+   "count": 0,
+   "documents": []
+  },
+  "R-0005": {
+   "count": 2,
+   "documents": [
+    "01-26952",
+    "2013-10006"
+   ]
+  }
+ }
+}

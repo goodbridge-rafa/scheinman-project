@@ -1,0 +1,78 @@
+{
+ "facts": [
+  {
+   "field_id": "bus_definition",
+   "value": "BUS is the maximum stress withstood by a bearing specimen.",
+   "unit": "text",
+   "snippet": "1.4.7.1 Bearing Yield and Ultimate Stresses (BYS or Fbry) and (BUS or Fbru) — BUS is the maximum stress withstood by a bearing specimen.",
+   "page": 24,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "bys_offset_factor",
+   "value": "0.02",
+   "unit": "ratio of pin diameter",
+   "snippet": "BYS is computed from a bearing stress-deformation curve by drawing a line parallel to the initial slope at an offset of 0.02 times the pin diameter.",
+   "page": 24,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "ed_low_caution",
+   "value": "Bearing values for e/D of 1.5 are not intended for designs of e/D < 1.5.",
+   "unit": "text",
+   "snippet": "Bearing values for e/D of 1.5 are not intended for designs of e/D < 1.5. Bearing values for e/D < 1.5 must be substantiated by adequate",
+   "page": 24,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "spec_7075_sheet",
+   "value": "AMS 4045 and AMS-QQ-A-250/12",
+   "unit": "text",
+   "snippet": "Specification . . . AMS 4045 and AMS-QQ-A-250/12",
+   "page": 673,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "t6_thinnest_range_in",
+   "value": "0.008-0.011",
+   "unit": "in",
+   "snippet": "Form . . . Sheet | Temper . . . T6 and T62 | Thickness, in. . . . 0.008-0.011 | Basis . . . S",
+   "page": 673,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "modulus_e_ksi",
+   "value": "10.3",
+   "unit": "10^3 ksi",
+   "snippet": "E, 10^3 ksi . . . 10.3",
+   "page": 673,
+   "agreement": "both extractors, blind, identical after normalization"
+  }
+ ],
+ "blanks": [
+  {
+   "field_id": "ed_ratios_tabulated",
+   "reason": "extractors disagree",
+   "candidate_a": "e/D = 1.5 and 2.0",
+   "candidate_b": "1.5 and 2.0"
+  },
+  {
+   "field_id": "t6_thinnest_ftu_L_A_ksi",
+   "reason": "neither extractor found it",
+   "candidate_a": null,
+   "candidate_b": null
+  },
+  {
+   "field_id": "t6_thinnest_fty_L_A_ksi",
+   "reason": "neither extractor found it",
+   "candidate_a": null,
+   "candidate_b": null
+  },
+  {
+   "field_id": "t6_thinnest_fcy_L_A_ksi",
+   "reason": "neither extractor found it",
+   "candidate_a": null,
+   "candidate_b": null
+  }
+ ]
+}

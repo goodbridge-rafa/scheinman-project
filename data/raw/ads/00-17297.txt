@@ -1,0 +1,687 @@
+<html>
+<head>
+<title>Federal Register, Volume 65 Issue 135 (Thursday, July 13, 2000)</title>
+</head>
+<body><pre>
+[Federal Register Volume 65, Number 135 (Thursday, July 13, 2000)]
+[Rules and Regulations]
+[Pages 43223-43228]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 00-17297]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 99-NM-192-AD; Amendment 39-11815; AD 2000-14-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747 Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment supersedes an existing airworthiness directive 
+(AD), applicable to certain Boeing Model 747 series airplanes, that 
+currently requires a one-time inspection to determine the part number 
+of the fuel shutoff spar valve for the outboard engines. That AD also 
+requires replacement of certain valves with new valves, or modification 
+of the spar valve body assembly, and various follow-on actions. This 
+amendment adds new requirements to accomplish those actions on 
+additional airplanes; and requires a one-time inspection of the 
+maintenance records of certain airplanes to determine if the fuel 
+shutoff spar valve for the outboard engines has ever been replaced, and 
+various follow-on actions. This amendment is prompted by reports 
+indicating that, due to high fuel pressure, certain fuel system 
+components of the outboard engines have failed. The actions specified 
+by this AD are intended to prevent such high fuel pressure, which could 
+result in failure of the fuel system components; this situation could 
+result in fuel leakage, and, consequently, lead to an engine fire.
+
+DATES: Effective August 17, 2000.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of August 17, 2000.
+    The incorporation by reference of certain other publications, as 
+listed in the regulations, was approved previously by the Director of 
+the Federal Register as of November 20, 1998 (63 FR 55517, October 16, 
+1998).
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, 
+Washington 98124-2207; or ITT Aerospace Controls, 28150 Industry Drive, 
+Valencia, California 91355. This information may be examined at the 
+Federal Aviation Administration (FAA), Transport Airplane Directorate, 
+Rules Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+Office of the Federal Register, 800 North Capitol Street, NW., suite 
+700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Dionne M. Krebs, Aerospace Engineer, 
+Propulsion Branch, ANM-140S, FAA, Transport Airplane Directorate, 
+Seattle Aircraft Certification Office, 1601 Lind Avenue, SW., Renton, 
+Washington 98055-4056; telephone (425) 227-2250; fax (425) 227-1181.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) by superseding AD 98-21-29, 
+amendment 39-10837 (63 FR 55517, October 16, 1998); which is applicable 
+to Boeing Model 747-100, -200, -300, -400, 747SP, and 747SR series 
+airplanes, having line numbers 629 through 1006 inclusive, and powered 
+by General Electric or Rolls-Royce engines; was published in the 
+Federal Register on November 26, 1999 (64 FR 66419). The action 
+proposed to continue to require a one-time inspection to determine the 
+part number of the fuel shutoff spar valve for the outboard engines, 
+replacement of certain valves with new valves or modification of the 
+spar valve body assembly, and various follow-on actions. The action 
+proposed to add new requirements to accomplish those actions on 
+additional airplanes; and require a one-time inspection of the 
+maintenance records of certain airplanes to determine if the fuel 
+shutoff spar valve for the outboard engines has ever been replaced, and 
+various follow-on actions.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Support for the Proposal
+
+    Three commenters concur with the intent of the proposed rule.
+
+Request to Clarify Airplanes Subject to Paragraph (e)
+
+    Two commenters request that paragraph (e) of the proposed rule be 
+revised to clarify that it applies to all affected airplanes (as 
+identified in Boeing Service Bulletin 747-28A2199, Revision 2, dated 
+July 8, 1999). One
+
+[[Page 43224]]
+
+commenter points out that paragraph (d) of the proposed rule instructs 
+operators to check maintenance records on airplanes having line numbers 
+1 through 628 inclusive, to determined if the left-and right-hand 
+outboard fuel shutoff spar valves have been replaced. If either valve 
+has been replaced, paragraph (d)(2) instructs operators to accomplish 
+paragraph (e) for that valve. However, paragraph (e) does not state 
+that it applies to airplanes having line numbers 1 through 628. The 
+commenter states that this has been confusing for several operators. 
+The other commenter points out that paragraph (e) of the proposed rule 
+addresses airplanes having line numbers 1 through 1006 inclusive 
+powered by General Electric (GE) or Rolls-Royce engines, but paragraph 
+(a) also refers to airplanes having line numbers 629 through 1006 
+inclusive powered by GE or Rolls-Royce engines. Paragraphs (a) and (e) 
+require similar actions. The commenter states that this could result in 
+unnecessary duplicate inspections for some airplanes.
+    The FAA concurs with the commenters' request for clarification of 
+the airplanes subject to paragraph (e) of this AD. The intent of this 
+AD is that airplanes having line numbers 1 through 628 inclusive that 
+had or may have had fuel shutoff spar valves replaced are subject to 
+paragraph (e) of this AD, as specified in paragraph (d) of this AD. In 
+addition, airplanes having line numbers 629 through 1006 inclusive 
+powered by Pratt & Whitney engines are also subject to the requirements 
+in paragraph (e). As pointed out by the commenter, the actions 
+described in paragraph (e) are equivalent to those required by 
+paragraph (a); therefore, the FAA has revised this final rule to remove 
+the airplanes having line numbers 629 through 1006 powered by GE or 
+Rolls-Royce engines from the applicability of paragraph (e) of this AD. 
+To address the commenters' request, paragraphs (d)(1) and (d)(2) of 
+this AD have been revised as follows:
+    <bullet> Paragraph (d)(1) reads, ``If the maintenance record 
+inspection establishes that neither valve has been replaced, no further 
+action is required by this AD.
+    <bullet> Paragraph (d)(2) reads, ``If either valve has been 
+replaced, or if the maintenance record inspection does not clearly 
+establish that neither valve has been replaced, prior to further 
+flight, accomplish paragraph (e)(1), (e)(2), or (e)(3), as 
+applicable.''
+    <bullet> Paragraph (e) reads, ``For airplanes having line numbers 
+629 through 1006 inclusive and powered by Pratt & Whitney engines, or 
+for airplanes having line numbers 1 through 628 inclusive on which a 
+fuel shutoff spar valve has been, or may have been, replaced: * * *.''
+
+Request to Refer to Wet Motor Leak Check
+
+    One commenter requests that, if the FAA finds it necessary to 
+require a fuel leak check of the engine, the requirement should refer 
+specifically to a wet motor leak check. The commenter points out that 
+paragraphs (b) and (c), including ``NOTE 3,'' of the proposed rule 
+specify accomplishment of a leak check per Aircraft Maintenance Manual 
+(AMM) procedures or per Boeing Service Bulletin 747-28A2199, Revision 
+2. The applicable AMM procedures describe an idle leak check, while the 
+service bulletin describes a wet motor leak check. The commenter also 
+notes that paragraphs (f) and (g) of the proposed rule specify a leak 
+check in accordance with the service bulletin (that is, a wet motor 
+leak check).
+    The FAA does not concur with the commenter's request. The FAA 
+recognizes that the idle leak checks identified in ``NOTE 3'' and the 
+wet motor leak check identified in the service bulletin are not 
+identical. However, because both checks involve the pressurization of 
+the fuel lines and components between the fuel shutoff spar valve and 
+the engine fuel shutoff valve, either check meets the intent of the 
+requirement. Therefore, the FAA finds that paragraphs (b) and (c) of 
+this AD are acceptable as written because they allow either type of 
+check. Also, the FAA has determined that it is appropriate to add a new 
+``NOTE 4'' to this final rule, to state that the idle leak checks are 
+acceptable for compliance with the actions specified in paragraphs (f) 
+and (g) of this AD. (All subsequent ``NOTES'' have been renumbered 
+accordingly.)
+
+Request to Expand Applicability of Proposed AD
+
+    One commenter requests that the FAA expand the applicability of the 
+proposed AD to include all Model 747 series airplanes delivered prior 
+to the effective date of the AD. The commenter states that Model 747 
+series airplanes with line numbers higher than 1006 may have improper 
+fuel shutoff spar valves installed. The commenter's rationale is that, 
+although the proper valves were installed during production, it is 
+possible that, during maintenance, one of the original valves has been 
+replaced with an improper valve.
+    The FAA does not concur with the commenter's request. The airplane 
+manufacturer has informed the FAA that, at the time the airplane having 
+line number 1007 was delivered, the engineering drawings (including 
+drawing notes regarding spare parts) limited the fuel shutoff spar 
+valve installed at the outboard engine positions to an acceptable part 
+number (S343T003-40). Therefore, operators have not been allowed to 
+replace a fuel shutoff spar valve installed at the outboard position 
+with an earlier fuel shutoff spar valve since delivery on Model 747 
+series airplanes with line number 1007 and subsequent. No change to the 
+final rule is necessary in this regard.
+
+Request to Extend Compliance Time
+
+    Several commenters request extension of the compliance time. Two 
+commenters request that the compliance time be extended from 18 to 36 
+months; another requests a compliance time of four years for Model 747-
+100 and -200 series airplanes and six years for Model 747-400 series 
+airplanes. The commenters state that an extension would allow operators 
+to schedule the inspection during airplane checks when internal access 
+to the fuel tanks is available. One commenter states that the 18-month 
+compliance time would force it to perform unscheduled fuel tank 
+entries. Another commenter notes that, due to the reduced 
+interchangeability of valves having part numbers 60B92406-(x), 
+additional spare valves will be required, or all valves will have to be 
+upgraded to the latest configuration on an attrition basis.
+    The FAA infers that the commenters are referring to the compliance 
+time for the one-time inspection to determine the part number of fuel 
+shutoff spar valve for the left- and right-hand outboard engines. The 
+FAA does not concur with the commenters' requests to extend the 
+compliance time. In the final rule for AD 98-21-29, which this AD 
+supersedes, the FAA agreed to extend the compliance time from 12 to 18 
+months to allow the inspection to be accomplished during a regularly 
+scheduled maintenance visit for the majority of the affected fleet. 
+This would allow airplanes to be inspected at a location where special 
+equipment and trained personnel would be readily available, if 
+necessary. A compliance time of 18 months corresponds to most 
+operators' scheduled ``C''-checks and, therefore, accommodates the 
+majority of operators' maintenance schedules while not adversely 
+affecting flight safety. Because the compliance time has already been 
+extended in this way, the FAA has determined that it is inappropriate 
+to extend it further. No change to the final rule is necessary in this 
+regard.
+
+[[Page 43225]]
+
+Request to Make Restatement of Requirements Consistent With New 
+Requirements
+
+    One commenter requests that paragraph (a)(1) of the proposed AD be 
+revised to be consistent with paragraph (e)(2) of the proposed AD. The 
+commenter notes that paragraph (a) of the proposed rule instructs 
+operators to inspect the part number of the left- and right-hand 
+outboard fuel shutoff (spar) valves on airplanes having line numbers 
+629 through 1006 inclusive powered by General Electric (GE) or Rolls-
+Royce engines, and paragraph (a)(1) identifies the acceptable fuel 
+shutoff spar valve part number as S343T003-43. The commenter also notes 
+that paragraph (e)(2) of the proposed rule lists additional modified 
+valve part numbers that are acceptable for installation. The commenter 
+suggests that paragraph (a)(1) be revised to be consistent with 
+paragraph (e)(2) with regard to acceptable part numbers.
+    The FAA does not concur with the commenter's request. The FAA 
+infers that the part number in paragraph (a)(1) to which the commenter 
+refers is S343T003-40 (not S343T003-43). The FAA acknowledges that the 
+restatement of requirements of AD 98-21-29 in paragraph (a) of the 
+proposed rule identifies fuel shutoff spar valve part number S343T003-
+40 only, though paragraph (e)(2) lists other acceptable part numbers. 
+The additional part numbers in paragraph (e)(2) have been included in 
+this AD because the FAA incorporated an existing approved alternative 
+method of compliance (AMOC) to AD 98-21-29 into this AD. Because 
+paragraphs (a), (b), and (c) of this AD are a restatement of the 
+requirements of AD 98-21-29 (and are labeled as such), the FAA finds 
+that it is unnecessary and potentially confusing to operators to 
+incorporate the part numbers referenced in paragraph (e)(2) of this AD 
+into paragraph (a)(1) of this AD. No change to the final rule is 
+necessary in this regard.
+
+Request to Eliminate Requirement for Fuel Leak Check
+
+    One commenter requests that the fuel leak check specified in 
+paragraphs (b), (c), (f), and (g) of the proposed rule be eliminated. 
+The commenter states that a fuel leak check of the engine, as 
+identified in these paragraphs, is not necessary. The commenter 
+acknowledges that the leak checks are intended to identify damage to 
+components between the fuel shutoff spar valve and the engine fuel 
+shutoff valve, resulting from a fuel overpressure condition. The 
+commenter states that all known in-service occurrences of the failure 
+of components associated with this AD have been ``ultimate'' failures 
+and not ``fatigue-type'' failures. The commenter asserts that a fuel 
+leak would be evident upon engine installation, when a fuel leak check 
+is required as part of post-installation tests, or during normal in-
+service operation.
+    The FAA does not concur with the commenter's request. The FAA 
+acknowledges that a fuel leak may become evident upon engine 
+installation, during a post-installation fuel leak check, or during 
+normal operation. However, because the unsafe condition associated with 
+this AD is fuel leakage that could result in an engine fire, the FAA 
+considers it necessary to verify the integrity of any replaced fuel 
+shutoff spar valves and fuel system components that may have been 
+previously exposed to high-pressure fuel. In the case of design 
+deficiencies that could lead to engine fires, the FAA considers it 
+necessary to prevent such events from occurring on in-service 
+airplanes. Therefore, no change to the final rule is necessary in this 
+regard.
+
+Request to Revise Cost Estimate
+
+    Two commenters request that the FAA revise the cost impact estimate 
+in the proposed rule to reflect the estimate of 75 work hours given in 
+Boeing Service Bulletin 747-28A2199, Revision 2. One of the commenters 
+points out that, for Model 747-100, -200, and -300 series airplanes, a 
+removable rib must be taken out to gain access to the fuel shutoff spar 
+valves. The other commenter states that the estimate in the proposal is 
+considerably too low and does not include the work hours or cost of 
+materials necessary for modification of the valves, which the commenter 
+estimates to be 3 work hours and $200 per valve.
+    The FAA does not concur with the commenters' request. The cost 
+impact information in AD rulemaking actions describes only the 
+``direct'' costs of the specific actions required by this AD. The cost 
+information typically does not include incidental costs, such as the 
+time required to gain access and close up, planning time, or time 
+necessitated by other administrative actions. The FAA recognizes that, 
+in accomplishing the requirements of any AD, operators may incur 
+``incidental'' costs in addition to the ``direct'' costs. Because 
+incidental costs may vary significantly from operator to operator, they 
+are almost impossible to calculate.
+    With regard to the comment that the proposed rule does not account 
+for the time necessary to modify each valve, the proposed rule only 
+requires installation of a fuel shutoff spar valve with an acceptable 
+part number. Though operators may choose to modify a discrepant fuel 
+shutoff spar valve to create an acceptable part, the AD does not 
+actually require this modification. Therefore, the cost of the 
+modification is not included in the cost impact estimate. No change to 
+the final rule is necessary in this regard.
+
+Request to Confirm AMOC Approval
+
+    One commenter requests that the FAA confirm that AMOC's approved 
+for AD 98-21-29 will be acceptable for compliance with the proposed 
+rule. The commenter has previously received FAA approval of an AMOC for 
+AD 98-21-29.
+    The FAA concurs that AMOC's previously approved in accordance with 
+AD 98-21-29 are approved for compliance with paragraphs (a), (a)(1), 
+(a)(2), (a)(2)(i), (b), and (c) of this AD. Paragraph (h)(2) of the 
+proposed rule, and this final rule, states this approval. No change to 
+the final rule is necessary in this regard.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 987 Model 747 series airplanes of the 
+affected design in the worldwide fleet. The FAA estimates that 208 
+airplanes of U.S. registry will be affected by this AD.
+    The one-time inspection to determine the part number of the valve 
+that is currently required by AD 98-21-29 and retained in this AD 
+affects approximately 59 airplanes of U.S. registry, and takes 
+approximately 4 work hours per airplane to accomplish, at an average 
+labor rate of $60 per work hour. Based on these figures, the cost 
+impact of this currently required inspection on U.S. operators is 
+estimated to be $14,160, or $240 per airplane.
+    Should an operator be required to accomplish the one-time 
+inspection to detect leaks and cracks (after replacement of the valve 
+or modification of the assembly) that is currently required by AD 98-
+21-29 and retained in this AD, it will take approximately 16
+
+[[Page 43226]]
+
+work hours per airplane, at an average labor rate of $60 per work hour. 
+Based on these figures, the cost impact of this inspection is estimated 
+to be $960 per airplane.
+    The new one-time inspection of the maintenance records of the 
+airplane that is required by this AD action affects approximately 149 
+airplanes of U.S. registry, and takes approximately 2 work hours per 
+airplane to accomplish, at an average labor rate of $60 per work hour. 
+Based on these figures, the cost impact of this required inspection on 
+U.S. operators is estimated to be $17,880, or $120 per airplane.
+    The cost impact figures discussed above are based on assumptions 
+that no operator has yet accomplished any of the requirements of this 
+AD action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted.
+    Should an operator elect to modify the valve body assembly of the 
+fuel system rather than replace a discrepant valve, it would take 
+approximately 20 work hours per airplane, at an average labor rate of 
+$60 per work hour. Required parts would cost approximately $404 (2 
+kits) per airplane. Based on these figures, the cost impact of this 
+modification is estimated to be $1,604 per airplane.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by removing amendment 39-10837 (63 FR 
+55517, October 16, 1998), and by adding a new airworthiness directive 
+(AD), amendment 39-11815, to read as follows:
+2000-14-06 Boeing: Docket 99-NM-192-AD. Amendment 39-11815. 
+Supersedes AD 98-21-29, Amendment 39-10837.
+
+    Applicability: Model 747 series airplanes, line numbers 1 
+through 1006 inclusive, certificated in any category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (h)(1) 
+of this AD. The request should include an assessment of the effect 
+of the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent high fuel pressure in components between the fuel 
+shutoff spar valve and the engine fuel shutoff valve, which could 
+result in failure of the fuel system components, lead to fuel 
+leakage, and, consequently, lead to a possible engine fire, 
+accomplish the following:
+
+Restatement of Actions Required By AD 98-21-29, Amendment 39-10837:
+
+One-Time Inspection
+
+    (a) For airplanes having line numbers 629 through 1006 inclusive 
+and powered by General Electric or Rolls-Royce engines: Within 18 
+months after November 20, 1998 (the effective date of AD 98-21-29, 
+amendment 39-10837), perform a one-time inspection to determine the 
+part number of the fuel shutoff spar valve for the left-and right-
+hand outboard engines, in accordance with Boeing Alert Service 
+Bulletin 747-28A2199, dated August 1, 1996; Boeing Service Bulletin 
+747-28A2199, Revision 1, dated October 1, 1998; or Boeing Service 
+Bulletin 747-28A2199, Revision 2, dated July 8, 1999.
+
+Replacement
+
+    (1) If a valve having part number (P/N) S343T003-40 (ITT P/N 
+125334D-1) is installed, no further action is required by this AD.
+    (2) If a valve having P/N S343T003-40 (ITT P/N 125334D-1) is not 
+installed, prior to further flight, accomplish either paragraph 
+(a)(2)(i) or (a)(2)(ii) of this AD.
+    (i) Replace the valve with a new valve, in accordance with the 
+service bulletin.
+    Prior to further flight following accomplishment of the 
+replacement, align the valve(s), perform a check to detect leaks, 
+and correct any discrepancy, in accordance with the service 
+bulletin. Or
+    (ii) Modify the valve body assembly of the fuel system in 
+accordance with ITT
+    Service Bulletin SB125120-28-01, ITT Service Bulletin SB107970-
+28-01, and ITT Service Bulletin SB125334-28-01; all dated July 15, 
+1996.
+
+Inspection
+
+    (b) For airplanes having line numbers 629 through 1006 inclusive 
+and powered by General Electric or Rolls-Royce engines: Except as 
+provided in paragraph (c) of this AD, prior to further flight 
+following accomplishment of paragraph (a)(2) of this AD, perform a 
+one-time general visual inspection to detect fuel leaks of the 
+components between the fuel shutoff spar valve and the engine fuel 
+shutoff valve on all four engines, in accordance with the applicable 
+section that pertains to Rolls-Royce RB211 series engines or General 
+Electric CF6-80C and CF6-45/50 series engines in Chapter 71 of the 
+Boeing 747 Airplane Maintenance Manual (AMM), or Boeing Service 
+Bulletin 747-28A2199, Revision 2, dated July 8, 1999. If any leak is 
+detected, prior to further flight, replace the part with a 
+serviceable part. No further action is required by this AD.
+
+    Note 2: For the purposes of this AD, a general visual inspection 
+is defined as:
+
+    ``A visual examination of an interior or exterior area, 
+installation, or assembly to detect obvious damage, failure, or 
+irregularity. This level of inspection is made under normally 
+available lighting conditions such as daylight, hangar lighting, 
+flashlight, or drop-light, and may require removal or
+
+[[Page 43227]]
+
+opening of access panels or doors. Stands, ladders, or platforms may 
+be required to gain proximity to the area being checked.''
+    (c) For airplanes having line numbers 629 through 1006 
+inclusive, powered by General Electric or Rolls-Royce engines, and 
+having maintenance records that positively demonstrate that the 
+inboard engines have never been located in the outboard position:
+    Prior to further flight following accomplishment of paragraph 
+(a)(2) of this AD, perform a one-time general visual inspection to 
+detect fuel leaks of the components between the fuel shutoff spar 
+valve and the engine fuel shutoff valve on the outboard engines 
+only, in accordance with the applicable section that pertains to 
+Rolls-Royce RB211 series engines or General Electric CF6-80C and 
+CF6-45/50 series engines in Chapter 71 of the Boeing 747 AMM, or 
+Boeing Service Bulletin 747-28A2199, Revision 2, dated July 8, 1999. 
+If any leak is detected, prior to further flight, replace the part 
+with a serviceable part. No further action is required by this AD.
+
+    Note 3: Accomplishment of the actions specified in AMM 71-00-00/
+501, Test No. 2, ``Fuel and Oil Leak Check,'' for Rolls-Royce RB211 
+series engines, and AMM 71-00-00/501, Test No. 3, ``Ground Test--
+Idle Leak Check ( or Idle Power),'' for General Electric CF6-80C and 
+CF6-45/50 series engines, is acceptable for compliance with the 
+actions specified by paragraphs (b) and (c) of this AD.
+
+New Actions Required By This AD:
+
+Inspection
+
+    (d) For airplanes having line numbers 1 through 628 inclusive: 
+Within 18 months after the effective date of this AD, perform a one-
+time inspection of the maintenance records of the airplane to 
+determine if the fuel shutoff spar valve for the left-and right-hand 
+outboard engines has ever been replaced, in accordance with Boeing 
+Service Bulletin 747-28A2199, Revision 2, dated July 8, 1999.
+    (1) If the maintenance record inspection establishes that 
+neither valve has been replaced, no further action is required by 
+this AD.
+    (2) If either valve has been replaced, or if the maintenance 
+record inspection does not clearly establish that neither valve has 
+been replaced, prior to further flight, accomplish paragraph (e)(1), 
+(e)(2), or (e)(3), as applicable.
+    (e) For airplanes having line numbers 629 through 1006 inclusive 
+and powered by Pratt & Whitney engines, or for airplanes having line 
+numbers 1 through 628 inclusive on which a fuel shutoff spar valve 
+has been, or may have been, replaced: Within 18 months after the 
+effective date of this AD, perform a one-time inspection to 
+determine the part number of the fuel shutoff spar valve for the 
+left-and right-hand outboard engines, as applicable, in accordance 
+with Boeing Alert Service Bulletin 747-28A2199, dated August 1, 
+1996; Boeing Service Bulletin 747-28A2199, Revision 1, dated October 
+1, 1998; or Boeing Service Bulletin 747-28A2199, Revision 2, dated 
+July 8, 1999.
+
+Replacement
+
+    (1) If a valve having P/N S343T003-40 (ITT P/N 125334D-1) is 
+installed, no further action is required by this AD.
+    (2) If a valve having P/N 60B92406-161 (ITT P/N 125334-1), P/N 
+60B92406-81 (ITT P/N 125120-1), or P/N 60B92406-201 (ITT P/N 107970-
+1) is installed, accomplish either paragraph (f) or (g) of this AD, 
+as applicable.
+    (3) If a valve having P/N S343T003-40 (ITT P/N 125334D-1), P/N 
+60B92406-161 (ITT P/N 125334-1), P/N 60B92406-81 (ITT P/N 125120-1), 
+or P/N 60B92406-201 (ITT P/N 107970-1) is not installed, prior to 
+further flight, accomplish either paragraph (e)(3)(i) or (e)(3)(ii), 
+and either paragraph (f) or (g) of this AD, as applicable.
+    (i) Replace the valve with a new valve, in accordance with the 
+service bulletin. Prior to further flight following accomplishment 
+of the replacement, align the valve(s), perform a check to detect 
+leaks, and correct any discrepancy, in accordance with the service 
+bulletin. Or
+    (ii) Modify the valve body assembly of the fuel system in 
+accordance with ITT
+    Service Bulletin SB125120-28-01, ITT Service Bulletin SB107970-
+28-01, and ITT Service Bulletin SB125334-28-01; all dated July 15, 
+1996.
+
+Inspection
+
+    (f) Expect as provided in paragraph (g) of this AD, prior to 
+further flight following accomplishment of paragraph (e) of this AD, 
+perform a one-time general visual inspection to detect fuel leaks of 
+the components between the fuel shutoff spar valve and the engine 
+fuel shutoff valve on all four engines, in accordance with Boeing 
+Service Bulletin 747-28A2199, Revision 2, dated July 8, 1999. If any 
+leak is detected, prior to further flight, replace the part with a 
+serviceable part.
+    (g) For airplanes having maintenance records that positively 
+demonstrate that the inboard engines have never been located in the 
+outboard position: Prior to further flight following accomplishment 
+of paragraph (e) of this AD, perform a one-time general visual 
+inspection to detect fuel leaks of the components between the fuel 
+shutoff spar valve and the engine fuel shutoff valve on the outboard 
+engines only, in accordance with Boeing Service Bulletin 747-
+28A2199, Revision 2, dated July 8, 1999. If any leak is detected, 
+prior to further flight, replace the part with a serviceable part.
+
+    Note 4: Accomplishment of the actions specified in AMM 71-00-00/
+501, Test No. 2, ``Fuel and Oil Leak Check,'' for Rolls-Royce RB211 
+series engines, and AMM 71-00-00/501, Test No. 3, ``Ground Test--
+Idle Leak Check (or Idle Power),'' for General Electric CF6-80C and 
+CF6-45/50 series engines, is acceptable for compliance with the 
+actions specified by paragraphs (f) and (g) of this AD.
+
+Alternative Methods of Compliance
+
+    (h)(1) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle Aircraft Certification 
+Office (ACO), FAA, Transport Airplane Directorate. Operators shall 
+submit their requests through an appropriate FAA Principal 
+Maintenance Inspector, who may add comments and then send it to the 
+Manager, Seattle ACO.
+    (2) Alternative methods of compliance, approved previously in 
+accordance with AD 98-21-29, amendment 39-10837, are approved as 
+alternative methods of compliance with paragraph (a), (a)(1), 
+(a)(2), (a)(2)(i), (b), and (c) of this AD.
+
+    Note 5: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Seattle ACO.
+
+Special Flight Permits
+
+    (i) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (j) Except as provided by paragraphs (b) and (c) of this AD, the 
+actions shall be done in accordance with Boeing Alert Service 
+Bulletin 747-28A2199, dated August 1, 1996; Boeing Service Bulletin 
+747-28A2199, Revision 1, dated October 1, 1998; Boeing Service 
+Bulletin 747-28A2199, Revision 2, dated July 8, 1999; ITT Service 
+Bulletin SB125120-28-01, dated July 15, 1996; ITT Service Bulletin 
+SB107970-28-01, dated July 15, 1996; or ITT Service Bulletin 
+SB125334-28-01, dated July 15, 1996; as applicable.
+    (1) The incorporation by reference of Boeing Service Bulletin 
+747-28A2199,
+
+[[Page 43228]]
+
+Revision 1, dated October 1, 1998; and Boeing Service Bulletin 747-
+28A2199, Revision 2, dated July 8, 1999; is approved by the Director 
+of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR 
+part 51.
+    (2) The incorporation by reference of Boeing Alert Service 
+Bulletin 747-28A2199, dated August 1, 1996; ITT Service Bulletin 
+SB125120-28-01, dated July 15, 1996; ITT Service Bulletin SB107970-
+28-01, dated July 15, 1996; and ITT Service Bulletin SB125334-28-01, 
+dated July 15, 1996; was approved previously by the Director of the 
+Federal Register as of November 20, 1998 (63 FR 55517, October 16, 
+1998).
+    (3) Copies may be obtained from Boeing Commercial Airplane 
+Group, P.O. Box 3707, Seattle, Washington 98124-2207; or ITT 
+Aerospace Controls, 28150 Industry Drive, Valencia, California 
+91355. Copies may be inspected at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+Office of the Federal Register, 800 North Capitol Street, NW., suite 
+700, Washington, DC.
+
+Effective Date
+
+    (k) This amendment becomes effective on August 17, 2000.
+
+    Issued in Renton, Washington, on July 3, 2000.
+Vi L. Lipki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 00-17297 Filed 7-12-00; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre></body>
+</html>

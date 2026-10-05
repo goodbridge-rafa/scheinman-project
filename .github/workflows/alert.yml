@@ -1,0 +1,30 @@
+name: SCHEINMAN alert
+
+# The alarm bell. The counter watches itself on a Cloudflare cron and calls this
+# workflow when a job died or stalled; the run fails on purpose, because a failed
+# workflow is what sends the owner an e-mail (Settings > Notifications > Actions,
+# "Only notify for failed workflows"). GitHub's own scheduled runs are best
+# effort and cannot be the only alarm (lesson 022).
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: What the counter found
+        required: true
+        type: string
+
+permissions: {}
+
+jobs:
+  ring:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Say what is wrong and fail so the e-mail goes out
+        env:
+          REASON: ${{ inputs.reason }}
+        run: |
+          echo "$REASON"
+          echo "Open https://scheinman.example.com/archive to see which part, and"
+          echo "the analyze workflow run in this repository for the engine run."
+          exit 1

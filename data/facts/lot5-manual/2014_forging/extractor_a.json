@@ -1,0 +1,52 @@
+{
+ "fields": [
+  {
+   "field_id": "spec_2014_die_forging",
+   "value": "AMS 4133, AMS-A-22771, and AMS-QQ-A-367",
+   "snippet": "Specification . . . . . AMS 4133, AMS-A-22771, and AMS-QQ-A-367",
+   "page": 335
+  },
+  {
+   "field_id": "tempers_printed",
+   "value": "T6; T652",
+   "snippet": "Temper . . . . . . . . . T6a | T652",
+   "page": 335
+  },
+  {
+   "field_id": "first_range_thickness_in",
+   "value": "≤ 1.000",
+   "snippet": "Thicknessb, in. . . . . ≤ 1.000 | 1.001-2.000 | 2.001-3.000 | 3.001-4.000",
+   "page": 335
+  },
+  {
+   "field_id": "t6_ftu_L_A_ksi",
+   "value": "65",
+   "snippet": "Ftu, ksi: L . . . . . . . . . . . . 65 67 (A B, ≤ 1.000, T6)",
+   "page": 335
+  },
+  {
+   "field_id": "t6_fty_L_A_ksi",
+   "value": "56",
+   "snippet": "Fty, ksi: L . . . . . . . . . . . . 56 59 (A B, ≤ 1.000, T6)",
+   "page": 335
+  },
+  {
+   "field_id": "t6_fbru_2p0_A_ksi",
+   "value": "123",
+   "snippet": "Fbru,e ksi: (e/D = 2.0) . . . 123 127 (A B, ≤ 1.000, T6)",
+   "page": 335
+  },
+  {
+   "field_id": "e_modulus_ksi",
+   "value": "10.5",
+   "snippet": "E, 103 ksi . . . . . . . 10.5",
+   "page": 335
+  },
+  {
+   "field_id": "density_lb_in3",
+   "value": "0.101",
+   "snippet": "Physical Properties: ω, lb/in.3 . . . . . . . 0.101",
+   "page": 335
+  }
+ ]
+}

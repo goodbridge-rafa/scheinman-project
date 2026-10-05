@@ -1,0 +1,817 @@
+<html>
+<head>
+<title>Federal Register, Volume 78 Issue 90 (Thursday, May 9, 2013)</title>
+</head>
+<body><pre>
+[Federal Register Volume 78, Number 90 (Thursday, May 9, 2013)]
+[Rules and Regulations]
+[Pages 27010-27015]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2013-10006]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-1068; Directorate Identifier 2011-NM-073-AD; 
+Amendment 39-17443; AD 2013-09-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding two existing airworthiness directives (AD) 
+that apply to certain The Boeing Company Model 737-100, -200, -200C, -
+300, -400, and -500 series airplanes. Those ADs, for certain airplanes, 
+currently require repetitive inspections of the flap track of the wing 
+outboard flap, and corrective actions if necessary; and eventual rework 
+of the flap track assembly and rear spar attachments. For certain 
+airplanes, this new AD adds repetitive inspections, scheduled 
+overhauls, correct alignment during installation, and repetitive 
+maintenance of the flap track, and corrective actions if necessary. 
+This new AD also adds airplanes to the applicability. This AD was 
+prompted by reports that the work sequence and procedures used during 
+installation of replacement tracks could cause loose or cracked tracks. 
+We are issuing this AD to detect and correct cracking and damage in the 
+flap track, which could cause loss of the outboard trailing edge flap 
+and consequent reduced controllability of the airplane.
+
+DATES: This AD is effective June 13, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of June 13, 
+2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of April 
+22, 2002 (67 FR 11891, March 18, 2002).
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+January 2, 2001 (65 FR 78913, December 18, 2000).
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may review copies of the referenced service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, WA. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Nancy Marsh, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-6440; fax 
+425-917-6590; email: <a href="/cdn-cgi/l/email-protection#caa4aba4a9b3e4a7abb8b9a28aacababe4ada5bc"><span class="__cf_email__" data-cfemail="91fff0fff2e8bffcf0e3e2f9d1f7f0f0bff6fee7">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2000-25-07, Amendment 39-12041 (65 FR 78913, 
+December 18, 2000); and AD 2002-05-07, Amendment 39-12675 (67 FR 11891, 
+March 18, 2002). Those ADs apply to the specified products, and require 
+repetitive inspections of the flap track of the wing outboard flap, and 
+corrective actions if necessary; and eventual rework of the flap track 
+assembly and rear spar attachments. The NPRM published in the Federal 
+Register on October 10, 2012 (77 FR 61542). The NPRM proposed to retain 
+all requirements of AD 2000-25-07 and AD 2002-05-07. For certain 
+airplanes, the NPRM proposed to add repetitive inspections, scheduled 
+overhauls, correct alignment during installation, and repetitive 
+maintenance of the flap track, and corrective actions if necessary. 
+This new AD also adds airplanes to the applicability.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(77 FR 61542, October 10, 2012) and the FAA's response to each comment.
+
+Concurrence
+
+    Boeing and United concurred with the content of the NPRM (77 FR 
+61542, October 10, 2012).
+
+Request To Change Text of Paragraph (p)(3) of the NPRM (77 FR 61542, 
+October 10, 2012)
+
+    Alaska Airlines requested that we change the text of paragraph 
+(p)(3) of the NPRM (77 FR 61542, October 10, 2012) to revise the 
+descriptions of the inspection locations to be similar to the 
+instructions included in Boeing 737 Non Destructive Test (NDT) Manual 
+Part 6, 57-50-06. The commenter suggested that the existing wording in 
+paragraph (p)(3) of the NPRM contradicts the instructions specified in 
+Boeing 737 NDT Manual Part 6, 57-50-06.
+    We disagree with the request to change the text of paragraph (p)(3) 
+of this AD. The inspections specified in paragraph (p)(3) of this AD 
+must be done in accordance with paragraph 3.B.3., ``Inspection--Track 
+Webs and Flanges,'' of the Accomplishment Instructions of Boeing 
+Service Bulletin 737-57A1271, Revision 3, dated February 13, 2012. The 
+instructions for accomplishing the eddy current inspection required by 
+paragraph (p)(3) of this AD are detailed in Boeing 737 NDT Manual Part 
+6, 57-50-06, which is an additional source of guidance. There is no 
+contradiction in the instructions. No change has been made to the AD in 
+this regard.
+
+Request for Revised Service Information
+
+    Southwest Airlines requested that Boeing Service Bulletin 737-
+57A1271, Revision 3, dated February 13, 2012, be revised to add missing 
+necessary data to support the rework requirements of paragraphs (s) and 
+(t) of the NPRM (77 FR 61542, October 10, 2012) for flap track part 
+number (P/N) 65C34809-3. The commenter stated that paragraphs (s) and 
+(t) of the NPRM require doing the corrective actions in accordance with 
+Boeing Service Bulletin 737-57A1271, Revision 3, dated February 13, 
+2012. The commenter also stated that Boeing Service Bulletin 737-
+57A1271, Revision 3, dated February 13, 2012, provides repair data, but 
+the commenter noted that not all repair data are provided for flap 
+track P/N 65C34809-3. The commenter added that Boeing
+
+[[Page 27011]]
+
+Overhaul Manual 57-53-15, Figure 614, ``Supplemental Track Overhaul 
+Instructions,'' should be revised to add minimum allowable dimensions 
+T1 through T4, W, and maximum allowable hole diameters d1, d2, and d3 
+for flap track P/N 65C34809-3.
+    We disagree that any revised service information is necessary to 
+comply with the requirements of this AD. While the repair data for flap 
+track P/N 65C34809-3 is less extensive than for other tracks, the 
+information provided in Boeing Service Bulletin 737-57A1271, Revision 
+3, dated February 13, 2012, is adequate for this part. Since that flap 
+track has improved finishes, it is not expected to wear in the same way 
+as the other parts. If this flap track requires repair or rework that 
+exceeds the data currently provided, then operators may request 
+approval of new repair and rework limits in accordance with paragraph 
+(y) of this AD. No change has been made to the AD in this regard.
+
+Request To Extend Compliance Time
+
+    Sky King, Inc. requested that we extend the compliance time from 
+180 days to 24 months for airplanes with flap tracks that are 
+undocumented or did not previously require inspection by AD 2000-25-07, 
+Amendment 39-12041 (65 FR 78913, December 18, 2000); or AD 2002-05-07, 
+Amendment 39-12675 (67 FR 11891, March 18, 2002). The commenter stated 
+that extending the compliance time as requested will allow the operator 
+to inspect the flap tracks at a more convenient interval, such as a 
+scheduled ``C-check'' maintenance interval.
+    We disagree with the request to extend the compliance time. The 
+initial inspection compliance time of 180 days was selected to address 
+potential safety issues on flap tracks that have not been inspected in 
+accordance with AD 2000-25-07, Amendment 39-12041 (65 FR 78913, 
+December 18, 2000); or AD 2002-05-07, Amendment 39-12675 (67 FR 11891, 
+March 18, 2002). The commenter provided no data to support a request to 
+extend the compliance time for these airplanes.
+    In developing an appropriate compliance time for this AD, we 
+considered not only the safety implications, but the manufacturer's 
+recommendations and the practical aspect of accomplishing the 
+inspection within an interval of time that corresponds to typical 
+scheduled maintenance for affected operators. We consider that U.S. 
+operators have had ample time to consider initiating the actions 
+specified in Boeing Service Bulletin 737-57A1271, Revision 3, dated 
+February 13, 2012, cited in the NPRM (77 FR 61542, October 10, 2012), 
+which this AD ultimately requires. Under the provisions of paragraph 
+(y) of this AD, however, we will consider requests for adjustments to 
+the compliance time if data are submitted to substantiate that such an 
+adjustment would provide an acceptable level of safety. No change has 
+been made to the AD in this regard.
+
+Effect of Supplemental Type Certificate (STC) for Winglet
+
+    Aviation Partners Boeing stated that the installation of winglets 
+per STC ST01219SE (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/2C6E3DBDDD36F91C862576A4005D64E2?OpenDocument&Highlight=st01219se">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/2C6E3DBDDD36F91C862576A4005D64E2?OpenDocument&Highlight=st01219se</a>) does 
+not affect the accomplishment of the manufacturer's service 
+instructions.
+    We have added paragraph (c)(2) to this AD to state that 
+installation of STC ST01219SE does not affect the ability to accomplish 
+the actions required by this AD. Therefore, for airplanes on which STC 
+ST01219SE is installed, a ``change in product'' alternative method of 
+compliance (AMOC) approval request is not necessary to comply with the 
+requirements of 14 CFR 39.17. For all other AMOC requests, the operator 
+must request approval in accordance with the procedures specified in 
+paragraph (y) of this AD.
+
+Other Changes to the AD
+
+    We have removed table 1 to paragraph (g) from this AD; instead, we 
+have included the subject part numbers in paragraphs (g)(4)(i) through 
+(g)(4)(x) of this AD. This change does not affect the intent of that 
+paragraph.
+    We have revised the second to last sentence in paragraph (p) of 
+this AD to add references to paragraphs (l) and (m) of this AD. 
+Performing the inspections required by paragraph (p) of this AD 
+terminates the requirements of paragraphs (g), (j), (l), (m), and (n) 
+of this AD.
+    We have revised paragraph (s) of this AD to clarify the 
+requirements for a damaged or corroded anti-fret strip.
+    We have revised paragraph (x)(3) of this AD to correct the service 
+bulletin citation to Boeing Service Bulletin 737-57A1271, Revision 2, 
+dated January 17, 2011.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (77 FR 61542, October 10, 2012) for correcting the unsafe 
+condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (77 FR 61542, October 10, 2012).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 570 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                    Cost per        Number of
+                    Action                                Labor cost               Parts cost        product        airplanes     Cost on U.S. operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Detailed visual inspection [retained actions   6 work-hours x $85 per hour =                 $0            $510             290                $147,900.
+ from existing AD 2000-25-07, Amendment 39-     $510.
+ 12041 (65 FR 78913, December 18, 2000)].
+Detailed visual, HFEC, and ultrasonic          4 work-hours x $85 per hour =                  0            $340           1,100                $374,000.
+ inspections [retained actions from existing    $340.
+ AD 2002-05-07, Amendment 39[dash]12675 (67
+ FR 11891, March 18, 2002)].
+
+[[Page 27012]]
+
+ 
+Detailed and eddy current inspections [new     82 work-hours x $85 per hour =                 0      $6,970 per             570           $3,972,900 per
+ actions].                                      $6,970 per inspection cycle.                         inspection                        inspection cycle.
+                                                                                                          cycle
+Overhaul [new action]........................  70 work-hours x $85 per hour =            20,000     $25,950 per             570          $14,791,500 per
+                                                $5,950 per overhaul cycle.                       overhaul cycle                          overhaul cycle.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for labor cost for repair, and parts cost for repair and 
+replacement for the on-condition actions specified in this AD. The 
+labor cost of the replacement is $1,360 (16 work-hours x $85 per hour). 
+We have no way of determining the number of aircraft that might need 
+these repairs/replacements.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2000-25-07, Amendment 39-12041 (65 FR 78913, December 18, 2000); and AD 
+2002-05-07, Amendment 39-12675 (67 FR 11891, March 18, 2002); and 
+adding the following new AD:
+
+2013-09-02 The Boeing Company: Amendment 39-17443; Docket No. FAA-
+2012-1068; Directorate Identifier 2011-NM-073-AD.
+
+(a) Effective Date
+
+    This AD is effective June 13, 2013.
+
+(b) Affected ADs
+
+    This AD supersedes ADs 2000-25-07, Amendment 39-12041 (65 FR 
+78913, December 18, 2000); and 2002-05-07, Amendment 39-12675 (67 FR 
+11891, March 18, 2002).
+
+(c) Applicability
+
+    (1) This AD applies to all The Boeing Company Model 737-100, -
+200, -200C, -300, -400, and -500 series airplanes, certificated in 
+any category.
+    (2) Installation of Supplemental Type Certificate (STC) 
+ST01219SE (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/2C6E3DBDDD36F91C862576A4005D64E2?OpenDocument&Highlight=st01219se">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/2C6E3DBDDD36F91C862576A4005D64E2?OpenDocument&Highlight=st01219se</a>) 
+does not affect the ability to accomplish the actions required by 
+this AD. Therefore, for airplanes on which STC ST01219SE is 
+installed, a ``change in product'' alternative method of compliance 
+(AMOC) approval request is not necessary to comply with the 
+requirements of 14 CFR 39.17.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 57, Wings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports that the work sequence and 
+procedures used during installation of replacement tracks installed 
+in accordance with AD 2000-25-07, Amendment 39-12041 (65 FR 78913, 
+December 18, 2000); or AD 2002-05-07, Amendment 39-12675 (67 FR 
+11891, March 18, 2002); could cause loose or cracked tracks. We are 
+issuing this AD to detect and correct cracking and damage in the 
+flap track, which could cause loss of the outboard trailing edge 
+flap and consequent reduced controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Repetitive Inspections
+
+    This paragraph restates the inspections required by paragraph 
+(a) of AD 2000-25-07, Amendment 39-12041 (65 FR 78913, December 18, 
+2000), with added references to a terminating action. For Model 737-
+100, -200, and -200C series airplanes on which the left- or right-
+hand inboard flap tracks of the wing outboard flap have a part 
+number (P/N) listed in paragraphs (g)(4)(i) through (g)(4)(x) of 
+this AD: Do a detailed visual inspection to detect damage 
+(corrosion, cracking) of the aft end of the left- and right-hand 
+inboard flap tracks of the wing outboard flap, per Boeing All 
+Operator Message (AOM) M-7200-00-01854, dated July 27, 2000, at the 
+latest of the times specified in paragraphs (g)(1), (g)(2), and 
+(g)(3) of this AD. Repeat the inspection thereafter at intervals not 
+to exceed 1,200 flight cycles. Accomplishing the requirements of 
+paragraph (p) of this AD terminates the requirements of this 
+paragraph.
+    (1) Within 30 days after January 2, 2001 (the effective date of 
+AD 2000-25-07, Amendment 39-12041 (65 FR 78913, December 18, 2000)).
+    (2) Within 1,200 flight cycles after the last documented 
+inspection or overhaul of the aft end of each flap track.
+    (3) Before the accumulation of 15,000 total flight cycles.
+
+[[Page 27013]]
+
+    (4) Boeing flap tracks subject to this AD are identified in 
+paragraphs (g)(4)(i) through (g)(4)(x) of this AD.
+    (i) P/N 65-46428-9.
+    (ii) P/N 65-46428-15.
+    (iii) P/N 65-46428-17.
+    (iv) P/N 65-46428-19.
+    (v) P/N 65-46428-21.
+    (vi) P/N 65-46428-23.
+    (vii) P/N 65-46428-25.
+    (viii) P/N 65-46428-27.
+    (ix) P/N 65-46428-33.
+    (x) P/N 65-46428-35.
+
+(h) Retained Definition
+
+    This paragraph restates the definition specified by Note 2 of AD 
+2000-25-07, Amendment 39-12041 (65 FR 78913, December 18, 2000). For 
+the purposes of this AD, a detailed visual inspection is defined as: 
+``An intensive visual examination of a specific structural area, 
+system, installation, or assembly to detect damage, failure, or 
+irregularity. Available lighting is normally supplemented with a 
+direct source of good lighting at an intensity deemed appropriate by 
+the inspector. Inspection aids such as a mirror, magnifying lenses, 
+etc., may be used. Surface cleaning and elaborate access procedures 
+may be required.''
+
+(i) Retained Corrective Actions
+
+    This paragraph restates the corrective actions required by 
+paragraph (b) of AD 2000-25-07, Amendment 39-12041 (65 FR 78913, 
+December 18, 2000), with added reference to the Boeing Commercial 
+Airplanes Organization Designation Authorization (ODA). If any 
+damage (corrosion, cracking) is detected during any inspection 
+required by paragraph (g) of this AD, before further flight, repair 
+or rework the flap track per the ``Repair and Rework Instructions'' 
+specified in Boeing AOM M-7200-00-01854, dated July 27, 2000. Where 
+that AOM specifies that the manufacturer may be contacted for 
+disposition of certain corrective actions (i.e., repair and/or 
+rework of the flaps), this AD requires such repair and/or rework to 
+be done using a method approved by the Manager, Seattle Aircraft 
+Certification Office (ACO), FAA; or using data meeting the type 
+certification basis of the airplane approved by a Boeing Company 
+designated engineering representative (DER) or the Boeing Commercial 
+Airplanes ODA that has been authorized by the Manager, Seattle ACO, 
+to make such findings. For a repair method to be approved by the 
+ODA, the repair must meet the certification basis of the airplane, 
+and the approval must specifically refer to this AD. For a repair 
+method to be approved by the Manager, Seattle ACO, as required by 
+this paragraph, the Manager's approval letter must specifically 
+reference this AD.
+
+(j) Retained Initial Inspections
+
+    This paragraph restates the initial inspections required by 
+paragraph (a) of AD 2002-05-07, Amendment 39-12675 (67 FR 11891, 
+March 18, 2002), with added references to terminating action. For 
+Model 737-100, -200, and -200C series airplanes with line numbers 
+(L/N) 1 through 869 inclusive, and those airplanes with L/Ns 870 
+through 1585 inclusive, which either still have their original flap 
+tracks or which have had the original flap tracks replaced with 
+certain tracks as specified in Boeing Service Bulletin 737-57A1249, 
+Revision 1, including Appendix A, dated June 1, 2000; except 
+airplanes on which any replacement flap tracks were installed as 
+specified in Boeing Service Bulletin 737-57-1203, dated November 15, 
+1990, or production equivalent: Within 6 months after April 22, 2002 
+(the effective date of AD 2002-05-07, Amendment 39-12675 (67 FR 
+11891, March 18, 2002)), accomplish the requirements of paragraphs 
+(j)(1) and (j)(2) of this AD, according to Boeing Service Bulletin 
+737-57A1249, Revision 1, including Appendix A, dated June 1, 2000. 
+Accomplishing the requirements of paragraph (p) of this AD 
+terminates the requirements of this paragraph.
+    (1) Perform a detailed visual inspection for discrepancies 
+(e.g., corrosion, or missing, damaged, or migrated anti-fret strips 
+and tapered shims) of the rear spar attachments of the flap tracks.
+    (2) Perform detailed visual, high frequency eddy current (HFEC), 
+and ultrasonic inspections for cracking in the upper flange of the 
+inboard track of each outboard flap at the rear spar attachments.
+
+(k) Retained Credit for Certain Previous Actions
+
+    This paragraph restates the credit for certain previously 
+accomplished actions specified by Note 3 of AD 2002-05-07, Amendment 
+39-12675 (67 FR 11891, March 18, 2002). This paragraph provides 
+credit for the actions specified in paragraphs (j), (l), (m), and 
+(n) of this AD, if those actions were performed before the effective 
+date of this AD using Boeing Alert Service Bulletin 737-57A1249, 
+including Appendix A, dated December 16, 1999, which is not 
+incorporated by reference in this AD.
+
+(l) Retained Repetitive Inspections of the Rear Spar Attachment of the 
+Flap Tracks and Upper Flange of the Inboard Track of Each Outboard Flap 
+at the Rear Spar Attachments
+
+    This paragraph restates the repetitive inspections required by 
+paragraph (b) of AD 2002-05-07, Amendment 39-12675 (67 FR 11891, 
+March 18, 2002). For airplanes subject to the requirements of 
+paragraph (j) of this AD: If no discrepancy is found during any 
+inspection required by paragraph (j) of this AD, thereafter, repeat 
+the inspections specified in paragraph (j) of this AD at intervals 
+not to exceed 9 months, until the actions required by paragraph (m) 
+or (p) of this AD have been accomplished.
+
+(m) Retained Rework
+
+    This paragraph restates the rework required by paragraph (c) of 
+AD 2002-05-07, Amendment 39-12675 (67 FR 11891, March 18, 2002). For 
+airplanes subject to the requirements of paragraph (j) of this AD: 
+At the applicable time specified in paragraph (m)(1) or (m)(2) of 
+this AD, accomplish rework of the flap track assembly and aft flap 
+track attachments (including removal of the flap track; a detailed 
+visual inspection for a missing, damaged, or migrated anti-fret 
+strip and tapered shim of the rear spar attachments of the flap 
+track; replacement of the anti-fret strip with a new aluminum anti-
+fret strip (or installation of an aluminum strip if no strip is 
+installed), as applicable; replacement of the tapered shim with a 
+new shim (or installation of a shim if no shim is installed); eddy 
+current and ultrasonic inspections for fatigue cracking of the flap 
+tracks; a detailed visual inspection for corrosion of the flap 
+tracks; and rework of attachment holes), including replacement of 
+the flap tracks, as applicable, by accomplishing all actions 
+specified in Part II of the Accomplishment Instructions of Boeing 
+Service Bulletin 737-57A1249, Revision 1, including Appendix A, 
+dated June 1, 2000. Do these actions according to the Accomplishment 
+Instructions of Boeing Service Bulletin 737-57A1249, Revision 1, 
+including Appendix A, dated June 1, 2000, except as provided by 
+paragraph (o) of this AD. Accomplishment of the actions required by 
+this paragraph terminates the repetitive inspections required by 
+paragraph (l) of this AD. Accomplishing the requirements of 
+paragraph (p) of this AD terminates the requirements of this 
+paragraph.
+    (1) If no discrepancy is found during any inspection required by 
+paragraph (j) or (l) of this AD: Do the rework within 24 months 
+after April 22, 2002 (the effective date of AD 2002-05-07, Amendment 
+39-12675 (67 FR 11891, March 18, 2002)).
+    (2) If any discrepancy is found during any inspection required 
+by paragraph (j) or (l) of this AD: Do the rework prior to further 
+flight.
+
+(n) Retained Repetitive Inspections of the Upper Flange of the Inboard 
+Track of Each Outboard Flap at the Rear Spar Attachments
+
+    This paragraph restates the repetitive inspections required by 
+paragraph (d) of AD 2002-05-07, Amendment 39-12675 (67 FR 11891, 
+March 18, 2002). For Model 737-100, -200, -200C, -300, -400, and -
+500 series airplanes, except airplanes on which any replacement flap 
+tracks were installed as specified in Boeing Service Bulletin 737-
+57-1203, dated November 15, 1990, or production equivalent: At the 
+applicable time specified in paragraph (n)(1) or (n)(2) of this AD, 
+and thereafter at least every 24 months, perform detailed visual, 
+HFEC, and ultrasonic inspections for cracking in the upper flange of 
+the inboard track of each outboard flap at the rear spar 
+attachments, according to Part I of the Accomplishment Instructions 
+of Boeing Service Bulletin 737-57A1249, Revision 1, including 
+Appendix A, dated June 1, 2000. Accomplishing the requirements of 
+paragraph (p) of this AD terminates the requirements of this 
+paragraph.
+    (1) For airplanes subject to paragraph (m) of this AD, do the 
+inspections within 10 years after accomplishment of the rework 
+according to paragraph (m) of this AD.
+    (2) For airplanes other than those identified in paragraph 
+(n)(1) of this AD, do the inspections within 10 years since the 
+airplane's date of manufacture, or within 6 months after April 22, 
+2002 (the effective date of AD 2002-05-07, Amendment 39-12675 (67 FR 
+11891, March 18, 2002)), whichever occurs later.
+
+[[Page 27014]]
+
+(o) Retained Repair Instructions and Exception to Procedures in Service 
+Information
+
+    This paragraph restates the repair instructions and exception to 
+procedures required by paragraph (e) of AD 2002-05-07, Amendment 39-
+12675 (67 FR 11891, March 18, 2002). If any discrepancy is found 
+during any action required by paragraph (j), (l), or (m) of this AD, 
+and Boeing Service Bulletin 737-57A1249, Revision 1, including 
+Appendix A, dated June 1, 2000, specifies to contact Boeing for 
+appropriate action; or if any discrepancy is found during 
+inspections according to paragraph (n) of this AD: Prior to further 
+flight, repair according to a method approved by the Manager, 
+Seattle ACO, FAA; or according to data meeting the type 
+certification basis of the airplane approved by a Boeing DER or 
+Boeing Company ODA, that has been authorized by the Manager, Seattle 
+ACO, to make such findings. For a repair method to be approved by 
+the ODA, the repair must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD. For a 
+repair method to be approved by the Manager, Seattle ACO, as 
+required by this paragraph, the approval letter must specifically 
+reference this AD.
+
+(p) New Inspection of Flap Track Web and Flanges
+
+    For all airplanes: At the times specified in paragraph (q) of 
+this AD, do the inspections specified in paragraphs (p)(1), (p)(2), 
+(p)(3), and (p)(4) of this AD, and do all applicable corrective 
+actions, in accordance with paragraph 3.B.3., ``Inspection--Track 
+Webs and Flanges,'' of the Accomplishment Instructions of Boeing 
+Service Bulletin 737-57A1271, Revision 3, dated February 13, 2012, 
+except as required by paragraphs (r) and (v) of this AD. Performing 
+these inspections terminates the requirements of paragraphs (g), 
+(j), (l), (m), and (n) of this AD. Do all applicable corrective 
+actions before further flight.
+    (1) Detailed inspection for damage (cracks, nicks, corrosion 
+pits, galling, pieces broken off) and stop-drill repairs along the 
+full length of the upper and lower flanges of the flap track.
+    (2) Detailed inspection for damage, cracking, and stop-drill 
+repairs along the full length of the track webs.
+    (3) Eddy current inspection for damage (including cracking) of 
+the flap track web and flanges.
+    (4) Inspection to determine the part number of the flap track 
+assembly.
+
+(q) New Compliance Time
+
+    At the latest of the applicable times specified in paragraphs 
+(q)(1), (q)(2), and (q)(3) of this AD, do the actions required by 
+paragraph (p) of this AD.
+    (1) Within 96 months since the flap track was new or overhauled, 
+or prior to the accumulation of 15,000 flight cycles on the flap 
+track since new or overhauled, whichever occurs first.
+    (2) Within 180 days after the effective date of this AD.
+    (3) Within 24 months after the most recent inspection was 
+performed using Part 1 of the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 737-57A1249, including Appendix A, dated 
+December 16, 1999; or Boeing Service Bulletin 737-57A1249, Revision 
+1, including Appendix A, dated June 1, 2000.
+
+(r) New Replacement
+
+    If, during any inspection required by paragraph (p) of this AD, 
+any flap track assembly having P/N 65-46428-31 or 65-46428-33 is 
+found, before further flight, replace the flap track assembly with a 
+new or serviceable flap track assembly, in accordance with the 
+Accomplishment Instructions of Boeing Service Bulletin 737-57A1271, 
+Revision 3, dated February 13, 2012, except as required by paragraph 
+(v) of this AD.
+
+(s) New Inspections of Flap-to-Wing Attachment if Repairs Are Done or 
+if No Damage Is Found in Flap Track Web and Flanges
+
+    For airplanes on which no damage is found in the flanges or the 
+web during any inspection required by paragraph (p) of this AD; and 
+for airplanes on which a repair is done during any corrective action 
+required by paragraph (p) of this AD: Before further flight, do the 
+inspections specified in paragraphs (s)(1) through (s)(4) of this 
+AD, and do all applicable related investigative and corrective 
+actions, in accordance with paragraphs 3.B.4., ``Inspection--With 
+Track-to-Wing Attachment Assembled,'' and 3.B.5., ``Inspection--With 
+Track-to-Wing Attachment Disassembled,'' of the Accomplishment 
+Instructions of Boeing Service Bulletin 737-57A1271, Revision 3, 
+dated February 13, 2012, except as required by paragraph (v) of this 
+AD. If, during the inspection required by paragraph (s)(1) of this 
+AD, an anti-fret strip is not found installed, before further 
+flight, do the related investigative actions specified in the 
+Accomplishment Instructions of Boeing Service Bulletin 737-57A1271, 
+Revision 3, dated February 13, 2012. If, during the inspection 
+required by paragraph (s)(1) of this AD, an anti-fret strip is found 
+with signs of damage or corrosion, before further flight, do all 
+applicable corrective actions, including making and installing a new 
+anti-fret strip, in accordance with paragraph 3.B.5., ``Inspection--
+With Track-to-Wing Attachment Disassembled,'' of the Accomplishment 
+Instructions of Boeing Service Bulletin 737-57A1271, Revision 3, 
+dated February 13, 2012, except as required by paragraph (v) of this 
+AD. Do all applicable related investigative and corrective actions 
+before further flight.
+    (1) Detailed inspection for signs of movement between the 
+tapered shim and anti-fret strip, installation of the anti-fret 
+strip, and corrosion of the tapered shim and anti-fret strip.
+    (2) Detailed inspection for signs of movement, cracks and 
+corrosion of the area where the track is attached to the wing rear 
+spar.
+    (3) High frequency eddy current inspection for cracking of the 
+outboard edge of the track adjacent to the outboard attach bolt.
+    (4) Ultrasonic inspection for cracking of the inner edge of the 
+track adjacent to the outboard attach bolt.
+
+(t) New Overhaul
+
+    Within 10,000 flight cycles on the flap track or 48 months, 
+whichever occurs first, after accomplishing the inspection required 
+by paragraph (p) of this AD: Do an overhaul of the flap track, in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 737-57A1271, Revision 3, dated February 13, 2012, except as 
+required by paragraph (v) of this AD. Repeat the overhaul thereafter 
+at intervals not to exceed 20,000 flight cycles on the flap track or 
+96 months, whichever occurs first.
+
+(u) New Post-Overhaul Inspections
+
+    For airplanes on which any overhaul required by paragraph (t) of 
+this AD is done: Do the inspections specified in paragraph (p) of 
+this AD within 10,000 flight cycles on the flap track or 48 months 
+after the most recent overhaul, whichever occurs first. Repeat the 
+inspections specified in paragraph (p) of this AD thereafter at 
+intervals not to exceed 10,000 flight cycles on the flap track or 48 
+months, whichever occurs first; except that if an overhaul required 
+by paragraph (t) of this AD is done, do the next inspection within 
+10,000 flight cycles or 48 months, whichever occurs first, after the 
+overhaul.
+
+(v) Service Information Exception
+
+    Where Boeing Service Bulletin 737-57A1271, Revision 3, dated 
+February 13, 2012, specifies to contact Boeing for appropriate 
+action: Before further flight, repair using a method approved in 
+accordance with the procedures specified in paragraph (y) of this 
+AD.
+
+(w) New Parts Installation Prohibition
+
+    As of the effective date of this AD, no person may install a 
+flap track assembly, P/N 65-46428-31 or 65-46428-33, on any 
+airplane.
+
+(x) New Credit for Previous Actions in Paragraphs (p) Through (t) of 
+This AD
+
+    This paragraph provides credit for the actions specified in 
+paragraphs (p) through (t) of this AD, if those actions were 
+performed before the effective date of this AD using the service 
+bulletin specified in paragraph (x)(1), (x)(2), or (x)(3) of this 
+AD.
+    (1) Boeing Alert Service Bulletin 737-57A1271, dated September 
+11, 2003, which is not incorporated by reference in this AD.
+    (2) Boeing Service Bulletin 737-57A1271, Revision 1, dated July 
+30, 2008, which is not incorporated by reference in this AD.
+    (3) Boeing Service Bulletin 737-57A1271, Revision 2, dated 
+January 17, 2011, which is not incorporated by reference in this AD.
+
+(y) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle ACO, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+ACO, send it to the
+
+[[Page 27015]]
+
+attention of the person identified in the Related Information 
+section of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#95acb8d4dbd8b8c6f0f4e1e1f9f0b8d4d6dab8d4d8dad6b8c7f0e4e0f0e6e1e6d5f3f4f4bbf2fae3"><span class="__cf_email__" data-cfemail="01382c404f4c2c52646075756d642c40424e2c404c4e422c5364707464727572416760602f666e77">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by The 
+Boeing Commercial Airplanes ODA that has been authorized by the 
+Manager, Seattle ACO, to make those findings. For a repair method to 
+be approved, the repair must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+    (4) AMOCs approved previously in accordance with ADs 2000-25-07, 
+Amendment 39-12041 (65 FR 78913, December 18, 2000); and 2002-05-07, 
+Amendment 39-12675 (67 FR 11891, March 18, 2002); are approved as 
+AMOCs for the corresponding requirements of this AD.
+
+(z) Related Information
+
+    For more information about this AD, contact Nancy Marsh, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft 
+Certification Office, 1601 Lind Avenue SW., Renton, WA 98057-3356; 
+phone: 425-917-6440; fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#4d232c232e3463202c3f3e250d2b2c2c632a223b"><span class="__cf_email__" data-cfemail="036d626d607a2d6e6271706b436562622d646c75">[email&#160;protected]</span></a>.
+
+(aa) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+June 13, 2013.
+    (i) Boeing Service Bulletin 737-57A1271, Revision 3, dated 
+February 13, 2012.
+    (ii) Reserved.
+    (4) The following service information was approved for IBR on 
+April 22, 2002 (67 FR 11891, March 18, 2002).
+    (i) Boeing Service Bulletin 737-57A1249, Revision 1, including 
+Appendix A, dated June 1, 2000.
+    (ii) Reserved.
+    (5) The following service information was approved for IBR on 
+January 2, 2001 (65 FR 78913, December 18, 2000).
+    (i) Boeing All Operator Message M-7200-00-01854, dated July 27, 
+2000.
+    (ii) Reserved.
+    (6) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (7) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (8) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on April 19, 2013.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-10006 Filed 5-8-13; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

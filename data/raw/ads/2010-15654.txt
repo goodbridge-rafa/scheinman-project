@@ -1,0 +1,821 @@
+<html>
+<head>
+<title>Federal Register, Volume 75 Issue 126 (Thursday, July 1, 2010)</title>
+</head>
+<body><pre>
+[Federal Register Volume 75, Number 126 (Thursday, July 1, 2010)]
+[Rules and Regulations]
+[Pages 38001-38007]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2010-15654]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2008-0981; Directorate Identifier 2008-NM-073-AD; 
+Amendment 39-16352; AD 2010-14-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Model 747 Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD), which applies to certain Model 747 airplanes. That AD currently 
+requires repetitive inspections of the body station (BS) 2598 bulkhead, 
+and corrective actions if necessary. That AD also currently requires a 
+terminating modification for certain repetitive inspections and a post-
+modification inspection of the modified area. This new AD continues to 
+require those actions using revised service information. For certain 
+airplanes, this AD requires new repetitive inspections, an interim 
+modification, and post-interim modification inspections. For certain 
+airplanes, this AD requires replacing any previously repaired aft inner 
+chord and reinstalling the terminating modification. For airplanes that 
+are converted to the Model 747-400 large cargo freighter (LCF) 
+configuration, this new AD reduces the threshold and repeat intervals 
+of certain post-modification inspections. For all airplanes, this new 
+AD also requires certain inspections of the upper aft outer chords and 
+diagonal brace attachment fittings, flanges, and rods to continue after 
+the terminating modification. This AD results from reports of cracked 
+aft inner chords on airplanes after certain requirements of the 
+existing AD were done. We are issuing this AD to prevent fatigue 
+cracking of the BS 2598 bulkhead structure, which could result in 
+inability of the structure to carry horizontal stabilizer flight loads, 
+and loss of controllability of the airplane.
+
+DATES: This AD becomes effective August 5, 2010.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of August 5, 
+2010.
+    On April 13, 2006 (71 FR 12125, March 9, 2006), the Director of the 
+Federal Register approved the incorporation by reference of certain 
+other publications listed in the AD.
+
+[[Page 38002]]
+
+    On October 27, 2003 (68 FR 54990, September 22, 2003), the Director 
+of the Federal Register approved the incorporation by reference of a 
+certain other publication listed in the AD.
+    On August 16, 2001 (66 FR 36443, July 12, 2001), the Director of 
+the Federal Register approved the incorporation by reference of a 
+certain other publication listed in the AD.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, P. 
+O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1; fax 206-766-5680; e-mail <a href="/cdn-cgi/l/email-protection#1e737b307c717b7d71735e7c717b777079307d7173"><span class="__cf_email__" data-cfemail="204d450e424f45434f4d60424f45494e470e434f4d">[email&#160;protected]</span></a>; 
+Internet  <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (telephone 800-647-5527) is the Document Management 
+Facility, U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Ivan Li, Aerospace Engineer, Airframe 
+Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 1601 Lind 
+Avenue, SW., Renton, Washington 98057-3356; telephone (425) 917-6437; 
+fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA issued a supplemental notice of proposed rulemaking (NPRM) 
+to amend 14 CFR part 39 to include an AD that supersedes AD 2006-05-06, 
+Amendment 39-14503 (71 FR 12125, March 9, 2006). The existing AD 
+applies to certain Model 747 airplanes. That supplemental NPRM was 
+published in the Federal Register on February 24, 2010 (75 FR 8279). 
+That supplemental NPRM proposed to continue to require repetitive 
+inspections of the body station (BS) 2598 bulkhead, and corrective 
+actions if necessary; and a terminating modification for the repetitive 
+inspections and a post-modification inspection of the modified area; 
+using revised service information. For certain airplanes, the 
+supplemental NPRM proposed to require new repetitive inspections, an 
+interim modification, and post-interim modification inspections. For 
+certain airplanes, the supplemental NPRM also proposed to require 
+replacing any previously repaired aft inner chord and reinstalling the 
+terminating modification. The supplemental NPRM proposed to reduce the 
+threshold and repeat intervals of certain post-modification inspections 
+for airplanes that are converted to the Model 747-400 large cargo 
+freighter (LCF) configuration. For all airplanes, the supplemental NPRM 
+proposed that certain inspections of the upper aft outer chords and 
+diagonal brace attachment fittings, flanges, and rods continue after 
+the terminating modification.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments that have been 
+received on the supplemental NPRM.
+
+Support for the Supplemental NPRM
+
+    Boeing concurs with the contents of the supplemental NPRM.
+
+Request To Delay the AD Pending Revised Service Information
+
+    All Nippon Airways requests that we delay issuing the AD until 
+Boeing revises Service Bulletin 747-53A2427 to Revision 6 (we referred 
+to Boeing Service Bulletin 747-53A2427, Revision 5, dated October 1, 
+2009, in the supplemental NPRM as the appropriate source of service 
+information for certain actions). All Nippon Airways explains that it 
+has asked Boeing to clarify an alternate material and filler thickness, 
+which it asserts were not reflected in Boeing Service Bulletin 747-
+53A2427, Revision 5, dated October 1, 2009. All Nippon Airways also 
+state that Boeing will make the necessary changes in Revision 6 of 
+Boeing Service Bulletin 747-53A2427. All Nippon Airways states that not 
+including this information in the AD will be a burden on operators, 
+causing them to request alternative methods of compliance (AMOCs) once 
+the supplemental NPRM is mandated.
+    We do not agree to delay this AD until additional service 
+information is issued. We do not consider that further delaying this 
+action until after the release of the manufacturer's planned service 
+bulletin is warranted, since sufficient information currently exists to 
+accomplish the applicable required actions within the specified 
+compliance time. However, under the provisions of paragraph (x) of the 
+final rule, we will consider requests for approval of an AMOC if 
+sufficient data are submitted to substantiate that the change would 
+provide an acceptable level of safety. We have not changed the AD in 
+this regard.
+
+Request for Clarification of Certain Requirements
+
+    Japan Airlines requests that we clarify the requirements specified 
+in paragraph (q)(2)(ii) of the supplemental NPRM. Japan Airlines states 
+that the inspection description specified in that paragraph is not 
+clear, because Boeing Alert Service Bulletin 747-53A2473, Revision 2, 
+dated August 28, 2009, contains many inspections. Therefore, Japan 
+Airlines suggests that we use the same wording between the supplemental 
+NPRM and the service information, that we add the table number 
+containing the requirement in the service information into the 
+supplemental NPRM, and that we more clearly state the purpose of the 
+inspection in the supplemental NPRM.
+    We recognize that the actions specified in Boeing Alert Service 
+Bulletin 747-53A2473, Revision 2, dated August 28, 2009, and this AD 
+are complex. We point out that the wording used in this AD was taken 
+directly from Boeing Alert Service Bulletin 747-53A2473, Revision 2, 
+dated August 28, 2009. Operators should note that paragraph (q)(2)(ii) 
+of this AD must be read in concert with paragraph (q)(2) of this AD. 
+The content of paragraph (q)(2)(ii) of this AD was meant to clarify the 
+content of paragraph (q)(2) of this AD, which contains more detailed 
+information. However, while there is no table number to associate with 
+the requirements specified in paragraph (q)(2)(ii) of this AD, we can 
+refer to the specific paragraph(s) of the Accomplishment Instructions 
+of the service information, which contain the required actions. We have 
+revised paragraphs (q)(2)(i) and (q)(2)(ii) of this AD to specify the 
+applicable paragraph of the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 747-53A2473, Revision 2, dated August 28, 2009, for 
+accomplishing the required actions specified in those paragraphs. 
+Because the purpose of the inspection provided in paragraph (q)(2)(ii) 
+of this AD is provided in paragraph (q)(2) of this AD, we find that no 
+additional clarification is necessary in that regard.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments that have been received, and determined that air safety and 
+the public interest require adopting the AD with the changes described 
+previously. We have determined that these changes will
+
+[[Page 38003]]
+
+neither increase the economic burden on any operator nor increase the 
+scope of the AD.
+
+Explanation of Change to Costs of Compliance
+
+    Since issuance of the supplemental NPRM, we have increased the 
+labor rate used in the Costs of Compliance from $80 per work-hour to 
+$85 per work-hour. The Costs of Compliance information, below, reflects 
+this increase in the specified hourly labor rate.
+
+Costs of Compliance
+
+    There are about 998 airplanes of the affected design in the 
+worldwide fleet. The following table provides the estimated costs for 
+U.S. operators to comply with this AD. The average labor rate is $85 
+per work hour.
+
+                                      Table--Estimated Costs of Compliance
+----------------------------------------------------------------------------------------------------------------
+                                                                                Number of U.S.-
+            Action                 Work          Parts            Cost per        registered       Fleet cost
+                                  hours                           airplane         airplanes
+----------------------------------------------------------------------------------------------------------------
+Surface high frequency eddy             2  None.............  $170, per                    162  $27,540, per
+ current (HFEC) inspections                                    inspection                        inspection
+ (required by AD 2006-05-06)                                   cycle.                            cycle.
+ and open-hole HFEC
+ inspections (new required
+ action).
+Detailed inspections (required          2  None.............  170, per                     162  27,540, per
+ by AD 2006-05-06).                                            inspection                        inspection
+                                                               cycle.                            cycle.
+Terminating modification              126  $52,218..........  62,928..........             162  10,194,336
+ (partially required by AD
+ 2006-05-06; additional
+ modification requirements in
+ this new action).
+Interim modification (new               4  $4,000...........  4,340...........             162  703,080
+ required action).
+Replacement of previously               2  None.............  170.............             162  27,540
+ repaired aft inner chords
+ (new required action).
+Support Frame upper Corner              8  None.............  680.............             162  110,160
+ Fastener Inspection (new
+ required action).
+Post-modification inspection            4  None.............  340.............             162  55,080
+ (new required action).
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+removing Amendment 39-14503 (71 FR 12125, March 9, 2006) and by adding 
+the following new airworthiness directive (AD):
+
+2010-14-07 The Boeing Company: Amendment 39-16352. Docket No. FAA-
+2008-0981; Directorate Identifier 2008-NM-073-AD.
+
+Effective Date
+
+    (a) This AD becomes effective August 5, 2010.
+
+[[Page 38004]]
+
+Affected ADs
+
+    (b) This AD supersedes AD 2006-05-06, Amendment 39-14503.
+
+Applicability
+
+    (c) This AD applies to The Boeing Company Model 747-100, 747-
+100B, 747-100B SUD, 747-200B, 747-200C, 747-200F, 747-300, 747-400, 
+747-400D, 747-400F, 747SR, and 747SP series airplanes, certificated 
+in any category, line numbers 1 though 1307 inclusive.
+
+Subject
+
+    (d) Air Transport Association (ATA) of America Code 53: 
+Fuselage.
+
+Unsafe Condition
+
+    (e) This AD results from reports of cracked aft inner chords on 
+airplanes after certain requirements of the existing AD were done. 
+We are issuing this AD to prevent fatigue cracking of the body 
+station (BS) 2598 bulkhead structure, which could result in 
+inability of the structure to carry horizontal stabilizer flight 
+loads, and loss of controllability of the airplane.
+
+Compliance
+
+    (f) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Restatement of Requirements of AD 2006-05-06
+
+Repetitive High Frequency Eddy Current (HFEC) Inspections of the 
+Bulkhead Frame Supports
+
+    (g) Before the accumulation of 10,000 total flight cycles, or 
+within 1,000 flight cycles after August 16, 2001 (the effective date 
+of AD 2001-14-07, Amendment 39-12318, which was superseded by AD 
+2006-05-06), whichever occurs later: Do an open-hole HFEC inspection 
+to find cracking of the bulkhead frame support under the hinge 
+support fittings of the horizontal stabilizer on the left and right 
+sides at BS 2598, in accordance with Figure 2 of the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53A2449, Revision 1, 
+dated May 24, 2001; or Revision 2, dated March 14, 2002. Repeat the 
+inspection after that at intervals not to exceed 3,000 flight 
+cycles. Inspections accomplished before August 16, 2001, per Boeing 
+Alert Service Bulletin 747-53A2449, dated June 8, 2000, are 
+considered acceptable for compliance with the applicable inspection 
+specified in this paragraph.
+
+Repair of Any Cracked Bulkhead Frame Support
+
+    (h) If any cracking is found during any inspection required by 
+paragraph (g) of this AD, before further flight, repair using a 
+method approved in accordance with the procedures specified in 
+paragraph (x) of this AD.
+
+Repetitive Inspections of Inner Chords, Frame Support Fitting, and 
+Splice Fitting
+
+    (i) Do a surface HFEC inspection of the forward and aft inner 
+chords, the frame support, and the splice fitting of the forward 
+inner chord of the upper corners of the station 2598 bulkhead to 
+find cracking, in accordance with the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 747-53A2427, Revision 2, dated October 
+5, 2000; Revision 3, dated September 27, 2001; or Boeing Service 
+Bulletin 747-53A2427, Revision 5, dated October 1, 2009; at the 
+latest of the times specified in paragraphs (i)(1) and (i)(2) of 
+this AD, as applicable. Repeat the inspection after that at 
+intervals not to exceed 1,500 flight cycles. After the effective 
+date of this AD, Boeing Service Bulletin 747-53A2427, Revision 5, 
+dated October 1, 2009, must be used.
+    (1) For airplanes having line numbers 1 through 1241 inclusive:
+    (i) Before the accumulation of 6,000 total flight cycles.
+    (ii) Within 500 flight cycles after August 28, 2001 (the 
+effective date of AD 2001-15-03, Amendment 39-12337, which was 
+superseded by AD 2006-05-06).
+    (iii) For airplanes inspected before August 28, 2001, in 
+accordance with Boeing Alert Service Bulletin 747-53A2427, dated 
+December 17, 1998 (including inspections of the splice fitting); or 
+Revision 1, dated October 28, 1999: Within 1,500 flight cycles after 
+accomplishment of the last inspection done in accordance with the 
+original service bulletin or Revision 1, as applicable.
+    (2) For airplanes having line numbers 1242 through 1307 
+inclusive:
+    (i) Before the accumulation of 16,000 total flight cycles.
+    (ii) Within 500 flight cycles after August 28, 2001.
+    (iii) For airplanes inspected before August 28, 2001, in 
+accordance with Boeing Alert Service Bulletin 747-53A2427, dated 
+December 17, 1998 (including inspections of the splice fitting), or 
+Revision 1, dated October 28, 1999: Within 1,500 flight cycles after 
+accomplishment of the last inspection done in accordance with Boeing 
+Alert Service Bulletin 747-53A2427, dated December 17, 1998; or 
+Revision 1, dated October 28, 1999; as applicable.
+
+Repair of Any Cracked Inner Chord, Frame Support, or Splice Fitting
+
+    (j) If any cracking is found during the inspections required by 
+paragraph (i) of this AD, before further flight, repair in 
+accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 747-53A2427, Revision 2, dated October 5, 2000; 
+Revision 3, dated September 27, 2001; or Boeing Service Bulletin 
+747-53A2427, Revision 5, dated October 1, 2009. After the effective 
+date of this AD, Boeing Service Bulletin 747-53A2427, Revision 5, 
+dated October 1, 2009, must be used. Where Boeing Alert Service 
+Bulletin 747-53A2427, Revision 2, dated October 5, 2000; Revision 3, 
+dated September 27, 2001; or Boeing Service Bulletin 747-53A2427, 
+Revision 5, dated October 1, 2009; specifies that the manufacturer 
+may be contacted for disposition of certain repair conditions, 
+before further flight, repair using a method approved in accordance 
+with the procedures specified in paragraph (x) of this AD.
+
+Repetitive Detailed Inspections of BS 2598 Bulkhead
+
+    (k) Before the accumulation of 10,000 total flight cycles, or 
+within 1,000 flight cycles after October 27, 2003 (the effective 
+date of AD 2003-19-08, Amendment 39-13311, which was superseded by 
+AD 2006-05-06), whichever is later: Do a detailed inspection of the 
+BS 2598 bulkhead for discrepancies (cracking, elongated fastener 
+holes) of the areas specified in paragraphs (k)(1) and (k)(2) of 
+this AD, in accordance with the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 747-53A2467, dated July 26, 2001; or 
+Boeing Service Bulletin 747-53A2467, Revision 1, dated April 28, 
+2005. Repeat the inspections after that at intervals not to exceed 
+3,000 flight cycles, except as required by paragraph (m) of this AD. 
+Doing the modification specified in paragraph (m) or (q) of this AD 
+terminates the inspection of the area specified in paragraph (k)(1) 
+of this AD.
+    (1) The lower aft inner chords.
+    (2) The upper aft outer chords, and the diagonal brace 
+attachment fittings, flanges, and rods.
+
+    Note 1:  For the purposes of this AD, a detailed inspection is 
+``an intensive examination of a specific item, installation, or 
+assembly to detect damage, failure, or irregularity. Available 
+lighting is normally supplemented with a direct source of good 
+lighting at an intensity deemed appropriate. Inspection aids such as 
+mirrors magnifying lenses, etc. may be necessary. Surface cleaning 
+and elaborate procedures may be required.''
+
+Repair of Any Cracked BS 2598 Bulkhead
+
+    (l) If any discrepancy is found during any inspection required 
+by paragraph (k) of this AD: Before further flight, repair in 
+accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 747-53A2467, dated July 26, 2001; or Boeing Service 
+Bulletin 747-53A2467, Revision 1, dated April 28, 2005. If Boeing 
+Alert Service Bulletin 747-53A2467, dated July 26, 2001; or Boeing 
+Service Bulletin 747-53A2467, Revision 1, dated April 28, 2005; 
+specifies to contact Boeing for appropriate action: Before further 
+flight, repair using a method approved in accordance with the 
+procedures specified in paragraph (x) of this AD.
+
+Terminating Modification With New Compliance Time for Certain 
+Airplanes for the Inspection Specified in Paragraph (k)(2) of This 
+AD
+
+    (m) Except as provided by paragraph (q) of this AD: Before the 
+accumulation of 20,000 total flight cycles, or within 48 months 
+after April 13, 2006 (the effective date of AD 2006-05-06), 
+whichever occurs later, modify the bulkhead by doing all applicable 
+actions including surface and open-hole HFEC inspections for 
+cracking of the upper forward inner chords, aft inner chords, upper 
+splice fittings, and frame support fittings, as specified in the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53-2473, 
+dated March 24, 2005; Revision 1, dated February 20, 2007; or Boeing 
+Alert Service Bulletin 747-53A2473, Revision 2, dated August 28, 
+2009. Repair any cracks
+
+[[Page 38005]]
+
+before further flight, in accordance with Boeing Service Bulletin 
+747-53-2473, dated March 24, 2005; Revision 1, dated February 20, 
+2007; or Boeing Alert Service Bulletin 747-53A2473, Revision 2, 
+dated August 28, 2009. Where Boeing Service Bulletin 747-53-2473, 
+dated March 24, 2005; Revision 1, dated February 20, 2007; or Boeing 
+Alert Service Bulletin 747-53A2473, Revision 2, dated August 28, 
+2009; specifies that the manufacturer may be contacted for 
+disposition of certain repair conditions: Before further flight, 
+repair the cracks using a method approved in accordance with the 
+procedures specified in paragraph (x) of this AD. Accomplishment of 
+the modification terminates the requirements of paragraphs (g), (i), 
+and (k)(1) of this AD. After the effective date of this AD, Boeing 
+Alert Service Bulletin 747-53A2473, Revision 2, dated August 28, 
+2009, must be used for the actions specified in this paragraph. For 
+airplanes that are converted to the Model 747-400 Large Cargo 
+Freighter (LCF) configuration, repeat the inspection specified in 
+paragraph (k)(2) of this AD thereafter at intervals not to exceed 
+1,800 flight cycles.
+
+Post-Modification Inspection and Repair
+
+    (n) Except as provided by paragraphs (q) and (r) of this AD: 
+Within 20,000 flight cycles after doing the modification required by 
+paragraph (m) of this AD, inspect the BS 2598 bulkhead for cracks, 
+and repair any cracks before further flight, in accordance with a 
+method approved by the Manager, Seattle Aircraft Certification 
+Office (ACO).
+
+New Requirements of This AD
+
+Terminating Repair for Repetitive Surface HFEC Inspections
+
+    (o) As of the effective date of this AD, accomplishing the aft 
+inner chord repair required by paragraph (j) of this AD in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 747-53A2427, Revision 5, dated October 1, 2009, ends the 
+repetitive surface HFEC inspections required by paragraph (i) of 
+this AD for that side of the bulkhead only.
+
+Replacement of Previously Repaired Aft Inner Chord and 
+Reinstallation of Terminating Modification
+
+    (p) For airplanes on which the terminating modification required 
+by paragraph (m) of this AD has been done in accordance with Boeing 
+Service Bulletin 747-53-2473, dated March 24, 2005: Within 1,500 
+flight cycles after doing the modification, or within 1,000 flight 
+cycles after the effective date of this AD, whichever occurs later, 
+do a one-time general visual inspection for repairs installed 
+previously on the left and right side aft inner chords. For 
+airplanes with previously installed repairs, before further flight, 
+do rework (i.e., replace any previously repaired aft inner chord 
+with a new aft inner chord and reinstall the terminating 
+modification), using a method approved in accordance with the 
+procedures specified in paragraph (x) of this AD.
+
+Revised Terminating Modification
+
+    (q) Doing the applicable modification required by paragraph 
+(q)(1) or (q)(2) of this AD at the applicable time terminates the 
+requirements of paragraph (m) of this AD and the repetitive 
+inspections required by paragraphs (g), (i), and (k)(1) of this AD. 
+For airplanes that are converted to the Model 747-400 LCF 
+configuration, the inspection specified in paragraph (k)(2) of this 
+AD must be repeated thereafter at intervals not to exceed 1,800 
+flight cycles.
+    (1) For airplanes on which the terminating modification required 
+by paragraph (m) of this AD has not been done as of the effective 
+date of this AD: Before the accumulation of 20,000 total flight 
+cycles, or within 18 months after the effective date of this AD, 
+whichever occurs later, modify the bulkhead, in accordance with the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 747-
+53A2473, Revision 2, dated August 28, 2009; except that where Boeing 
+Alert Service Bulletin 747-53A2473, Revision 2, dated August 28, 
+2009, specifies to contact Boeing for modification data, the 
+modification data must be approved in accordance with the procedures 
+specified in paragraph (x) of this AD, and the modification must be 
+done within the times specified in this paragraph.
+    (2) For airplanes on which the terminating modification required 
+by paragraph (m) of this AD has been done in accordance with Boeing 
+Service Bulletin 747-53-2473, dated March 24, 2005; or Revision 1, 
+dated February 20, 2007; as of the effective date of this AD: Within 
+1,000 flight cycles after the effective date of this AD, or within 
+1,500 flight cycles after doing the modification, whichever occurs 
+later, do a general visual inspection of the applicable areas 
+specified in paragraph (q)(2)(i) and (q)(2)(ii) of this AD to 
+determine if certain fasteners are installed, and, before further 
+flight, do all applicable related investigative and corrective 
+actions, in accordance with the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 747-53A2473, Revision 2, dated August 
+28, 2009; except where Boeing Alert Service Bulletin 747-53A2473, 
+Revision 2, dated August 28, 2009, specifies to contact Boeing for 
+repair or rework data, the data must be approved in accordance with 
+the procedures specified in paragraph (x) of this AD and the repair 
+or rework must be done before further flight.
+    (i) For airplanes modified in accordance with Boeing Service 
+Bulletin 747-53-2473, dated March 24, 2005: Inspect the upper 
+forward inner chord, frame support fitting, and splice fitting, in 
+accordance with paragraph 3.B.7.d. of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 747-53A2473, Revision 
+2, dated August 28, 2009.
+    (ii) For airplanes modified in accordance with Boeing Service 
+Bulletin 747-53-2473, Revision 1, dated February 20, 2007: Inspect 
+the frame web and upper shear deck aft side, and the upper forward 
+inner chord, frame support fitting, and splice fitting, in 
+accordance with paragraphs 3.B.7.c and 3.B.7.d of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 747-53A2473, Revision 
+2, dated August 28, 2009.
+
+Post-Modification Inspection and Repair
+
+    (r) For airplanes on which the terminating modification has been 
+done in accordance with paragraph (m) or (q) of this AD: Perform 
+post-modification inspections of the BS 2598 bulkhead for cracking, 
+in accordance with Parts 1, 2, and 3 of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 747-53A2473, Revision 
+2, dated August 28, 2009. Do the inspections at the applicable times 
+specified in Tables 6 through 9 of paragraph 1.E., ``Compliance,'' 
+of Boeing Alert Service Bulletin 747-53A2473, Revision 2, dated 
+August 28, 2009; except where Boeing Alert Service Bulletin 747-
+53A2473, Revision 2, dated August 28, 2009, specifies a compliance 
+time after the date of that service bulletin, this AD requires 
+compliance within the specified compliance time after the effective 
+date of this AD. If any cracking is found during any inspection 
+required by this paragraph, before further flight, repair using a 
+method approved in accordance with the procedures specified in 
+paragraph (x) of this AD. Repeat the inspections thereafter at the 
+applicable times specified in Tables 6 through 9 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 747-53A2473, 
+Revision 2, dated August 28, 2009. Accomplishing the applicable 
+inspections required by this paragraph terminates the requirements 
+of paragraph (n) of this AD.
+
+Open-Hole HFEC Inspection(s) and Terminating Repair
+
+    (s) For airplanes on which the terminating modification required 
+by paragraph (m) or (q) of this AD has not been done: Do an initial 
+open-hole HFEC inspection to detect cracks in the bulkhead splice 
+fitting, frame support fitting, and forward and aft inner chords on 
+the left and right sides of the BS 2598 bulkhead, in accordance with 
+the Accomplishment Instructions of Boeing Service Bulletin 747-
+53A2427, Revision 5, dated October 1, 2009. Do the initial 
+inspection at the applicable time specified in Table 1 or 3 of 
+paragraph 1.E., ``Compliance,'' of Boeing Service Bulletin 747-
+53A2427, Revision 5, dated October 1, 2009; except where Boeing 
+Service Bulletin 747-53A2427, Revision 5, dated October 1, 2009, 
+specifies a compliance time after the date on that service bulletin, 
+this AD requires compliance within the specified compliance time 
+after the effective date of this AD.
+    (1) If no crack is detected, repeat the open-hole HFEC 
+inspection thereafter at intervals not to exceed 1,500 flight 
+cycles.
+    (2) If any crack is detected, before further flight, repair it 
+in accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 747-53A2427, Revision 5, dated October 1, 2009; except 
+where Boeing Service Bulletin 747-53A2427, Revision 5, dated October 
+1, 2009, specifies to contact Boeing for appropriate action, before 
+further flight, repair the crack using a method approved in 
+accordance with the procedures specified in paragraph (x) of this 
+AD. Accomplishing the aft inner chord repair in accordance with the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2427, 
+Revision 5, dated October 1, 2009, ends the repetitive surface and 
+open-hole HFEC inspections required by paragraphs (i) and (s)(1), 
+respectively, of this AD for that side of the bulkhead only.
+
+[[Page 38006]]
+
+Interim Modification
+
+    (t) For Group 1 airplanes, as identified in Boeing Service 
+Bulletin 747-53A2427, Revision 5, dated October 1, 2009, on which 
+the repair required by paragraph (j) or (s)(2) of this AD has not 
+been done; and on which the terminating modification required by 
+paragraph (m) or (q) of this AD has not been done: Before the 
+accumulation of 12,000 total flight cycles, or within 1,500 flight 
+cycles after the effective date of this AD, whichever occurs later, 
+install the interim modification for the aft inner chords, in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 747-53A2427, Revision 5, dated October 1, 2009. 
+Accomplishing the interim modification ends the repetitive surface 
+and open-hole HFEC inspections required by paragraphs (i) and 
+(s)(1), respectively, of this AD.
+
+Post-Interim Modification/Repair Repetitive Surface and Open-Hole 
+HFEC Inspections
+
+    (u) For airplanes on which the interim modification required by 
+paragraph (t) of this AD has been done or the repair required by 
+paragraph (j) or (s)(2) of this AD has been done; and on which the 
+terminating modification required by paragraph (m) or (q) of this AD 
+has not been done: At the applicable times specified in Table 1, 2, 
+or 3 of paragraph 1.E., ``Compliance,'' of Boeing Service Bulletin 
+747-53A2427, Revision 5, dated October 1, 2009, do a surface HFEC 
+inspection to detect cracks on the forward side (unmodified area) of 
+the bulkhead, and open-hole and surface HFEC inspections to detect 
+cracks in the modified or repaired area, in accordance with the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2427, 
+Revision 5, dated October 1, 2009. Repeat the open-hole and surface 
+HFEC inspections thereafter at intervals not to exceed 1,500 flight 
+cycles, until the modification required by paragraph (q) of this AD 
+is done, as applicable; except that for airplanes on which the 
+repair of any cracked aft inner chord has been done on only one side 
+of the bulkhead in accordance with the applicable requirements 
+specified in paragraph (j) or (s)(2) of this AD, the repetitive 
+surface and open-hole HFEC inspections required by paragraphs (i) 
+and (s)(1), respectively, of this AD must continue to be done for 
+the other side of the bulkhead.
+
+Repair of Any Cracked Inner Chord, Splice Fitting, or Frame Support 
+Fitting
+
+    (v) If any crack is detected during any surface or open-hole 
+HFEC inspection required by paragraph (u) of this AD, before further 
+flight, repair any cracked inner chord, splice fitting, or frame 
+support fitting, in accordance with the Accomplishment Instructions 
+of Boeing Service Bulletin 747-53A2427, Revision 5, dated October 1, 
+2009; except where Boeing Service Bulletin 747-53A2427, Revision 5, 
+dated October 1, 2009, specifies to contact Boeing for appropriate 
+action, before further flight, repair the crack using a method 
+approved in accordance with the procedures specified in paragraph 
+(x) of this AD.
+
+Actions Accomplished According to Previous Issue of Service Bulletin
+
+    (w) Inspections, interim modification, and repairs accomplished 
+before the effective date of this AD in accordance with Boeing Alert 
+Service Bulletin 747-53A2427, Revision 4, dated March 6, 2008, are 
+considered acceptable for compliance with the corresponding action 
+specified paragraphs (i), (j), (s), (t), (u), and (v) of this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (x)(1) The Manager, Seattle ACO, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. Send information to ATTN: Ivan Li, Aerospace 
+Engineer, Airframe Branch, ANM-120S, FAA, Seattle ACO, 1601 Lind 
+Avenue SW., Renton, Washington 98057-3356; telephone (425) 917-6437; 
+fax (425) 917-6590. Information may be e-mailed to: <a href="/cdn-cgi/l/email-protection#6b52462a252646380e0a1f1f070e462a2824462a26242846390e1a1e0e181f182b0d0a0a450c041d"><span class="__cf_email__" data-cfemail="b58c98f4fbf898e6d0d4c1c1d9d098f4f6fa98f4f8faf698e7d0c4c0d0c6c1c6f5d3d4d49bd2dac3">[email&#160;protected]</span></a>.
+    (2) To request a different method of compliance or a different 
+compliance time for this AD, follow the procedures in 14 CFR 39.19. 
+Before using any approved AMOC on any airplane to which the AMOC 
+applies, notify your principal maintenance inspector (PMI) or 
+principal avionics inspector (PAI), as appropriate, or lacking a 
+principal inspector, your local Flight Standards District Office. 
+The AMOC approval letter must specifically reference this AD.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by Boeing 
+Commercial Airplanes Organization Designation Authorization (ODA) 
+that has been authorized by the Manager, Seattle ACO, to make those 
+findings. For a repair method to be approved, the repair must meet 
+the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) AMOCs approved previously in accordance with AD 2006-05-06 
+are approved as AMOCs for the corresponding provisions of this AD.
+
+Material Incorporated by Reference
+
+    (y) You must use the service information contained in Table 1 of 
+this AD, as applicable, to do the actions required by this AD, 
+unless the AD specifies otherwise.
+
+             Table 1--All Material Incorporated by reference
+------------------------------------------------------------------------
+            Document                   Revision              Date
+------------------------------------------------------------------------
+Boeing Alert Service Bulletin     Original..........  July 26, 2001.
+ 747-53A2467.
+Boeing Alert Service Bulletin     2.................  August 28, 2009.
+ 747-53A2473.
+Boeing Service Bulletin 747-      5.................  October 1, 2009.
+ 53A2427.
+Boeing Service Bulletin 747-      1.................  May 24, 2001.
+ 53A2449.
+Boeing Service Bulletin 747-      2.................  March 14, 2002.
+ 53A2449.
+Boeing Service Bulletin 747-      1.................  April 28, 2005.
+ 53A2467.
+------------------------------------------------------------------------
+
+     (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information contained in 
+Table 2 of this AD under 5 U.S.C. 552(a) and 1 CFR part 51.
+
+             Table 2--New Material Incorporated by Reference
+------------------------------------------------------------------------
+              Document                 Revision            Date
+------------------------------------------------------------------------
+Boeing Alert Service Bulletin 747-             2  August 28, 2009.
+ 53A2473.
+Boeing Service Bulletin 747-53A2427            5  October 1, 2009.
+------------------------------------------------------------------------
+
+     (2) On April 13, 2006 (71 FR 12125, March 9, 2006), the 
+Director of the Federal Register approved the incorporation by 
+reference of Boeing Service Bulletin 747-53A2449, Revision 2, dated 
+March 14, 2002; and Boeing Service Bulletin 747-53A2467, Revision 1, 
+dated April 28, 2005.
+    (3) On October 27, 2003 (68 FR 54990, September 22, 2003), the 
+Director of the Federal Register approved the incorporation by 
+reference of Boeing Alert Service Bulletin 747-53A2467, dated July 
+26, 2001.
+    (4) On August 16, 2001 (66 FR 36443, July 12, 2001), the 
+Director of the Federal Register approved the incorporation by 
+reference of
+
+[[Page 38007]]
+
+Boeing Service Bulletin 747-53A2449, Revision 1, dated May 24, 2001.
+    (5) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 
+206-544-5000, extension 1; fax 206-766-5680; e-mail 
+<a href="/cdn-cgi/l/email-protection#d8b5bdf6bab7bdbbb7b598bab7bdb1b6bff6bbb7b5"><span class="__cf_email__" data-cfemail="573a327935383234383a173538323e39307934383a">[email&#160;protected]</span></a>; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (6) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, 
+Washington. For information on the availability of this material at 
+the FAA, call 425-227-1221.
+    (7) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on June 17, 2010.
+Robert D. Breneman,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2010-15654 Filed 6-30-10; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

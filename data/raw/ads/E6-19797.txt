@@ -1,0 +1,399 @@
+<html>
+<head>
+<title>Federal Register, Volume 71 Issue 227 (Monday, November 27, 2006)</title>
+</head>
+<body><pre>
+[Federal Register Volume 71, Number 227 (Monday, November 27, 2006)]
+[Rules and Regulations]
+[Pages 68432-68434]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E6-19797]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2006-24814; Directorate Identifier 2006-NM-093-AD; 
+Amendment 39-14833; AD 2006-24-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 767 Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Boeing Model 767 airplanes. This AD requires repetitive detailed and 
+high frequency eddy current (HFEC) inspections of the station (STA) 
+1809.5 bulkhead for cracking and corrective actions if necessary. This 
+AD results from fatigue cracks found in the forward outer chord and 
+horizontal inner chord at STA 1809.5. We are issuing this AD to detect 
+and correct cracking in the bulkhead structure at STA 1809.5, which 
+could result in failure of the bulkhead structure for carrying the 
+flight loads of the horizontal stabilizer, and consequent loss of 
+controllability of the airplane.
+
+DATES: This AD becomes effective January 2, 2007.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of January 2, 
+2007.
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Management Facility, U.S. 
+Department of Transportation, 400 Seventh Street, SW., Nassif Building, 
+Room PL-401, Washington, DC.
+    Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for service information identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: Wayne Lockett, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone (425) 
+917-6447; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Examining the Docket
+
+    You may examine the airworthiness directive (AD) docket on the 
+Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Management 
+Facility office between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The Docket Management Facility office 
+(telephone (800) 647-5227) is located on the plaza level of the Nassif 
+Building at the street address stated in the ADDRESSES section.
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that would apply to all Boeing Model 767 
+airplanes. That NPRM was published in the Federal Register on May 22, 
+2006 (71 FR 29275). That NPRM proposed to require repetitive detailed 
+and high frequency eddy current (HFEC) inspections of the station (STA) 
+1809.5 bulkhead for cracking and corrective actions if necessary.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Support for the NPRM
+
+    Boeing and Continental Airlines agree with the NPRM, while the Air 
+Transport Association (ATA) agrees with the intent of the NPRM.
+
+Request To Add Terminating Action
+
+    The Air Transport Association (ATA) of America, on behalf of Delta 
+Airlines, requests that we revise the NPRM to allow accomplishment of 
+certain actions in the applicable Boeing structural repair manual (SRM) 
+as terminating action for the repetitive inspections. Although the NPRM 
+proposes to require accomplishing the SRM repair only if cracking is 
+found, Delta would like to accomplish the SRM repair at its next heavy 
+maintenance visit, regardless of inspection findings. Delta also 
+requests that, if the SRM repair is accomplished before finding any 
+cracking, certain actions called out in the SRM, such as cutting out 
+damaged areas and installing filler, not be required as part of the 
+terminating action.
+    We agree to revise the requirements of this AD. The repetitive 
+actions required by this AD may be terminated by accomplishing certain 
+actions in Repair 9 or Repair 10, both dated April 15, 2006, of Chapter 
+53-80-08 of Boeing 767-200 SRM, Document D634T201; Boeing 767-300 SRM, 
+Document
+
+[[Page 68433]]
+
+D634T210; Boeing 767-300F SRM, Document D634T215; or Boeing 767-400 
+SRM, Document D634T225; as applicable. Operators should note that to 
+maintain the type certification of the airplane after accomplishing the 
+SRM repair, the supplemental inspections specified in the SRM must also 
+be accomplished. These supplemental inspections are outside of the 
+requirements of this AD. We have added a new paragraph (h) to this AD 
+to provide an optional terminating action.
+    Repair 9 describes procedures for repairing a forward outer chord 
+between S-4 and S-8 and doing repetitive supplemental inspections. The 
+supplemental inspections are a (1) Detailed inspection of the repair 
+angles, fillers, skin bulkhead web and visible parts of the bulkhead 
+outer chord, and a 2.0-inch-wide zone around the repair internally and 
+externally and (2) low frequency eddy current inspection of the forward 
+outer chord internally through a certain angle. Repair 10 describes 
+procedures for repairing a horizontal inner chord at approximately 
+water line (WL) 257 and buttock line (BL) 28 and doing repetitive 
+supplemental inspections. The supplemental inspection is a detailed 
+inspection of the repair angles, fillers, visible parts of the bulkhead 
+inner chord, adjacent structure, and a 2.0-inch-wide zone around the 
+repair internally.
+
+Request for Credit for Previously Accomplished Repairs
+
+    The ATA, on behalf of Delta Airlines, also requests that we add a 
+note stating that repairs accomplished previously in accordance with 
+the applicable SRM, as referenced by Boeing Alert Service Bulletin 767-
+53A0131, dated March 30, 2006, terminate the requirements of this AD. 
+Delta states that neither the NPRM nor the service bulletin addresses 
+SRM repairs accomplished before the effective date of this AD. Delta 
+also states if no note is added to the NPRM, an operator may feel 
+obliged to obtain an alternative method of compliance (AMOC) for 
+previously accomplished repairs.
+    We agree to provide credit for a previously accomplished repair if 
+the repair was done after finding cracking. Accomplishment of Repair 9 
+for a forward outer chord or Repair 10 for a horizontal inner chord 
+before the effective date of this AD, in accordance with the applicable 
+SRM, is acceptable for compliance with the inspections and corrective 
+actions required by paragraph (f) of this AD for that area only. 
+Operators must accomplish all of the actions in Repair 9 or Repair 10, 
+as applicable. We have added a new paragraph (i) to this AD to provide 
+credit.
+
+Request To Provide Repair Data
+
+    The ATA, on behalf of US Airways, requests that, before we issue 
+the AD, Boeing either revise Alert Service Bulletin 767-53A0131 to 
+include instructions for repairing cracking, or include them in the 
+SRM. US Airways states that the service bulletin does not contain 
+instructions for repairing cracking found in the fuselage skin; 
+instead, the service bulletin specifies contacting Boeing for repair 
+instructions. (The service bulletin and referenced SRMs only contain 
+instructions to repair cracking found in a forward outer chord or 
+horizontal inner chord.) The commenter states that providing the FAA-
+approved repair data will reduce the administrative burden between an 
+operator and the Boeing Commercial Airplanes Delegation Option 
+Authorization Organization, regarding repair approvals. The commenter 
+also states that providing the repair data would expedite repairs and 
+return airplanes to revenue service in a timely manner.
+    We do not agree to publish FAA-approved repair data for cracking 
+found in the fuselage skin. We acknowledge that the service bulletin 
+and applicable SRM do not contain instructions to repair fuselage skin 
+cracking. However, the time needed to develop and approve fuselage skin 
+repairs would delay addressing the unsafe condition in the forward 
+outer chord and horizontal inner chord of the STA 1809.5 bulkhead. To 
+delay this action would be inappropriate, since we have determined that 
+an unsafe condition exists and that inspections and repair, if 
+necessary, must be conducted to ensure continued safety. We have not 
+revised this AD in this regard.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 903 airplanes of the affected design in the 
+worldwide fleet. This AD affects about 405 airplanes of U.S. registry. 
+The required actions take about 12 work hours per airplane, at an 
+average labor rate of $80 per work hour. Based on these figures, the 
+estimated cost of the AD for U.S. operators is $388,800, or $960 per 
+airplane, per inspection cycle.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+[[Page 68434]]
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+adding the following new airworthiness directive (AD):
+
+2006-24-04 Boeing: Amendment 39-14833. Docket No. FAA-2006-24814; 
+Directorate Identifier 2006-NM-093-AD.
+
+Effective Date
+
+    (a) This AD becomes effective January 2, 2007.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to all Boeing Model 767-200, -300, -300F, 
+and -400ER series airplanes, certificated in any category.
+
+Unsafe Condition
+
+    (d) This AD results from fatigue cracks found in the forward 
+outer chord and horizontal inner chord at station (STA) 1809.5. We 
+are issuing this AD to detect and correct cracking in the bulkhead 
+structure at STA 1809.5, which could result in failure of the 
+bulkhead structure for carrying the flight loads of the horizontal 
+stabilizer, and consequent loss of controllability of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Repetitive Inspections and Corrective Actions
+
+    (f) Before the accumulation of 15,000 total flight cycles, or 
+within 3,000 flight cycles after the effective date of this AD, 
+whichever is later: Do the detailed and high frequency eddy current 
+(HFEC) inspections for cracking as specified in Parts 1, 2, 3, and 4 
+of the Accomplishment Instructions of Boeing Alert Service Bulletin 
+767-53A0131, dated March 30, 2006; and do all corrective actions 
+before further flight; by accomplishing all the actions specified in 
+the Accomplishment Instructions of Boeing Alert Service Bulletin 
+767-53A0131, dated March 30, 2006, except as provided by paragraph 
+(g) of this AD. Repeat the inspections thereafter at intervals not 
+to exceed 6,000 flight cycles. Accomplishing the corrective action 
+for the inspections specified in Part 1, 2, 3, or 4 of the service 
+bulletin, as applicable, terminates the repetitive inspections for 
+that area only.
+
+Exception to Service Bulletin
+
+    (g) If any cracking is found in the skin or in any structure 
+other than the forward outer chord or horizontal inner chord, during 
+any inspection required by this AD, and Boeing Alert Service 
+Bulletin 767-53A0131, dated March 30, 2006, specifies to contact 
+Boeing for appropriate action: Before further flight, repair the 
+cracking using a method approved in accordance with the procedures 
+specified in paragraph (j) of this AD.
+
+Optional Terminating Action
+
+    (h) If no cracking is found during the most recent detailed and 
+HFEC inspections for a specified area as required by paragraph (f) 
+of this AD: Modification of a specified area according to a method 
+approved by the Manager, Seattle Aircraft Certification Office 
+(ACO), FAA, terminates the repetitive inspections required by 
+paragraph (f) of this AD for that area only. For a forward outer 
+chord, one approved method is accomplishment of the actions in Steps 
+4.A through 4.C and 4.G through 4.P of Repair 9, dated April 15, 
+2006, of Chapter 53-80-08 of the Boeing 767-200 Structural Repair 
+Manual (SRM), Document D634T201; Boeing 767-300 SRM, Document 
+D634T210; Boeing 767-300F SRM, Document D634T215; or Boeing 767-400 
+SRM, Document D634T225; as applicable. For a horizontal inner chord, 
+one approved method is accomplishment of the actions in Steps 4.A, 
+4.B, and 4.F through 4.P of Repair 10, dated April 15, 2006, of 
+Chapter 53-80-08 of the Boeing 767-200 SRM, Document D634T201; 
+Boeing 767-300 SRM, Document D634T210; Boeing 767-300F SRM, Document 
+D634T215; or Boeing 767-400 SRM, Document D634T225; as applicable.
+
+Credit for Previously Accomplished Repairs
+
+    (i) Repair of a forward outer chord done before the effective 
+date of this AD in accordance with Repair 9, dated April 15, 2006, 
+of Chapter 53-80-08 of the Boeing 767-200 SRM, Document D634T201; 
+Boeing 767-300 SRM, Document D634T210; Boeing 767-300F SRM, Document 
+D634T215; or Boeing 767-400 SRM, Document D634T225; as applicable; 
+is acceptable for compliance with the requirements of paragraph (f) 
+of this AD for that area only. Repair of a horizontal inner chord 
+before the effective date of this AD in accordance with Repair 10, 
+dated April 15, 2006, of Chapter 53-80-08 of the Boeing 767-200 SRM, 
+Document D634T201; Boeing 767-300 SRM, Document D634T210; Boeing 
+767-300F SRM, Document D634T215; or Boeing 767-400 SRM, Document 
+D634T225; as applicable; is acceptable for compliance with the 
+requirements of paragraph (f) of this AD for that area only.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (j)(1) The Manager, Seattle ACO, FAA, has the authority to 
+approve AMOCs for this AD, if requested in accordance with the 
+procedures found in 14 CFR 39.19.
+    (2) Before using any AMOC approved in accordance with Sec.  
+39.19 on any airplane to which the AMOC applies, notify the 
+appropriate principal inspector in the FAA Flight Standards 
+Certificate Holding District Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an 
+Authorized Representative for the Boeing Commercial Airplanes 
+Delegation Option Authorization Organization, who has been 
+authorized by the Manager, Seattle ACO, to make those findings. For 
+a repair method to be approved, the repair must meet the 
+certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+
+Material Incorporated by Reference
+
+    (k) You must use Boeing Alert Service Bulletin 767-53A0131, 
+dated March 30, 2006, to perform the actions that are required by 
+this AD, unless the AD specifies otherwise. The Director of the 
+Federal Register approved the incorporation by reference of this 
+document in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. 
+Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for a copy of this service information. You 
+may review copies at the Docket Management Facility, U.S. Department 
+of Transportation, 400 Seventh Street, SW., Room PL-401, Nassif 
+Building, Washington, DC; on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a>; or 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at the NARA, call 
+(202) 741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on November 9, 2006.
+Kalene C. Yanamura,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+ [FR Doc. E6-19797 Filed 11-24-06; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

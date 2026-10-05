@@ -1,0 +1,56 @@
+{
+  "source": "data/raw/MIL-HDBK-5J.pdf",
+  "pages": [24, 673],
+  "fields": [
+    {
+      "field_id": "bus_definition",
+      "question": "On PDF page 24, section 1.4.7.1: the verbatim sentence defining BUS (bearing ultimate stress).",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "bys_offset_factor",
+      "question": "On PDF page 24, section 1.4.7.1: the offset factor (times the pin diameter) used to compute BYS from the bearing stress-deformation curve. Report the number as printed.",
+      "expected_unit": "ratio of pin diameter"
+    },
+    {
+      "field_id": "ed_ratios_tabulated",
+      "question": "On PDF page 24, section 1.4.7.1: for which e/D ratios are bearing design properties tabulated? Report exactly as printed (e.g. '1.5 and 2.0' if that is what is printed).",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "ed_low_caution",
+      "question": "On PDF page 24, section 1.4.7.1: the verbatim sentence (or clause) stating what is required or cautioned for bearing values at e/D ratios below the tabulated ones, if such a sentence is printed on this page.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "spec_7075_sheet",
+      "question": "On PDF page 673, Table 3.7.6.0(b1) header: the specification(s) listed for 7075 aluminum alloy sheet and plate. Report exactly as printed.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "t6_thinnest_range_in",
+      "question": "On PDF page 673, Table 3.7.6.0(b1): for temper T6 sheet, the THINNEST thickness range column header, in inches, exactly as printed.",
+      "expected_unit": "in"
+    },
+    {
+      "field_id": "t6_thinnest_ftu_L_A_ksi",
+      "question": "On PDF page 673, Table 3.7.6.0(b1): Ftu, L (longitudinal) direction, A basis, for T6 sheet in that same thinnest thickness range column. Number as printed.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t6_thinnest_fty_L_A_ksi",
+      "question": "On PDF page 673, Table 3.7.6.0(b1): Fty, L direction, A basis, for T6 sheet in that same thinnest thickness range column. Number as printed.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t6_thinnest_fcy_L_A_ksi",
+      "question": "On PDF page 673, Table 3.7.6.0(b1): Fcy, L direction, A basis, for T6 sheet in that same thinnest thickness range column. Number as printed. If the table prints no A/B basis split for Fcy in this column, report the single printed L value.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "modulus_e_ksi",
+      "question": "On PDF page 673, Table 3.7.6.0(b1): the tension modulus of elasticity E, in 10^3 ksi, as printed in the physical-properties block of the table.",
+      "expected_unit": "10^3 ksi"
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+<html>
+<head>
+<title>Federal Register, Volume 83 Issue 61 (Thursday, March 29, 2018)</title>
+</head>
+<body><pre>
+[Federal Register Volume 83, Number 61 (Thursday, March 29, 2018)]
+[Rules and Regulations]
+[Pages 13387-13395]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2018-05019]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2017-0902; Product Identifier 2016-NM-188-AD; Amendment 
+39-19224; AD 2018-06-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+[[Page 13388]]
+
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2004-03-07, 
+which applied to certain Airbus Model A320-111, -211, -212, and -231 
+series airplanes. AD 2004-03-07 required repetitive inspections for 
+fatigue cracking around the fasteners attaching the pressure panel to 
+the flexible bracket at a certain frame (FR), adjacent to the 
+longitudinal beams on the left and right sides of the airplane; and 
+repair as necessary. This new AD retains certain requirements of AD 
+2004-03-07, expands the applicability, and requires an inspection of 
+the fastener holes on the pressure panel and modification or repair as 
+applicable. This AD was prompted by fatigue tests which revealed 
+cracking around the fasteners attaching the pressure panel to the 
+flexible bracket, and by the discovery of additional cracks under the 
+longitudinal beams at locations that are not included in the inspection 
+area required by AD 2004-03-07. We are issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective May 3, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of May 3, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of March 
+15, 2004 (69 FR 5907, February 9, 2004).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 44 51; email <a href="/cdn-cgi/l/email-protection#dbbab8b8b4aeb5aff5bab2a9acb4a9afb3f6bebaa89bbab2a9b9aea8f5b8b4b6"><span class="__cf_email__" data-cfemail="ee8f8d8d819b809ac08f879c99819c9a86c38b8f9dae8f879c8c9b9dc08d8183">[email&#160;protected]</span></a>; internet 
+<a href="http://www.airbus.com">http://www.airbus.com</a>. You may view this referenced service information 
+at the FAA, Transport Standards Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2017-
+0902.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2017-
+0902; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (telephone 800-
+647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone 206-231-3223; fax 206-231-
+3398.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2004-03-07, Amendment 39-13451 (69 FR 5907, 
+February 9, 2004) (``AD 2004-03-07''). AD 2004-03-07 applied to certain 
+Airbus Model A320-111, -211, -212, and -231 series airplanes. The NPRM 
+published in the Federal Register on October 6, 2017 (82 FR 46729). The 
+NPRM was prompted by fatigue tests which revealed cracking around the 
+fasteners attaching the pressure panel to the flexible bracket at FR 
+36, adjacent to the longitudinal beams on the left and right sides of 
+the airplane, and by the discovery of additional cracks under the 
+longitudinal beams at locations that are not included in the inspection 
+area required by AD 2004-03-07. The NPRM proposed to continue to 
+require certain requirements of AD 2004-03-07. The NPRM also proposed 
+to expand the applicability and require an inspection of the fastener 
+holes on the pressure panel between FR 35 and FR 36 under the 
+longitudinal beam and modification or repair as applicable. We are 
+issuing this AD to detect and correct fatigue cracking around the 
+fasteners attaching the pressure panel to the flexible bracket at the 
+FR 36 adjacent to the longitudinal beams, which could result in reduced 
+structural integrity of the airplane and possible rapid decompression 
+of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2016-0206, dated October 13, 2016; corrected 
+October 14, 2016 (referred to after this as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for certain Airbus Model A318 and Model A319 series 
+airplanes, Model A320-211, -212, -214, -231, -232, and -233 airplanes, 
+and Model A321-111, -112, -131,-211, -21-, 213, -231, and -232 
+airplanes. The MCAI states:
+
+    During fatigue tests, cracks were found around the fasteners 
+connecting the pressure panel with the flexible bracket at fuselage 
+frame (FR) 36, adjacent to the longitudinal beams on left-hand (LH) 
+and right-hand (RH) sides.
+    This condition, if not detected and corrected, could impair the 
+structural integrity of the aeroplane.
+    To address this unsafe condition, DGAC [Direction 
+G[eacute]n[eacute]rale de l'Aviation Civile] France issued [French] 
+AD 2000-531-155(B) [which corresponds with FAA AD 2004-03-07] to 
+require repetitive inspections of the longitudinal beams of the FR 
+36 pressure panel and, depending on findings, the accomplishment of 
+a repair.
+    Since that [French] AD was issued, additional cracks have been 
+found under the beams, but in locations not covered by the required 
+inspections. Fatigue and damage tolerance analyses were performed, 
+the results of which indicated that all the holes in the pressure 
+panel above all the longitudinal beams have to be cold worked.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of DGAC France AD 2000-531-155(B), which is superseded, 
+extends the applicability to all A320 family aeroplanes and requires 
+[a special detailed inspection of the fastener holes on the pressure 
+panel between FR35 and FR36 under the longitudinal beam and] 
+modification [or repair] of all the affected holes.
+    This [EASA] AD is republished to correct the number of the 
+superseded DGAC AD.
+
+    You may examine the MCAI in the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2017-
+0902.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Request To Remove Reporting Requirement
+
+    United Airlines (UAL) requested that we omit paragraph (k)(2)(ii) 
+of the proposed AD, which would require operators to report any 
+findings of cracking that exceeded the limits specified in Airbus 
+Service Bulletin A320-53-1264, Revision 01, excluding Appendix 01, 
+dated July 4, 2016, from the proposed AD. UAL stated that paragraph 
+(k)(2)(ii) of the proposed AD is confusing and unjustified because 
+there is no explanation for why it is required when it was not included 
+in EASA AD 2016-0206. UAL stated the requirement to report findings in 
+paragraph (k)(2)(ii) is redundant with the actions of paragraph 
+(k)(2)(i) of the proposed AD. UAL noted that for the
+
+[[Page 13389]]
+
+crack repair specified in paragraph (k)(2)(i) of the proposed AD, the 
+findings would be reported. UAL suggested the paragraph (k)(2)(ii) of 
+the proposed AD required using an unconventional means to report 
+findings that might require additional procedures and training specific 
+to the proposed AD. UAL also stated that restricting reporting to a 
+website may cause issues if the sender does not have access and that 
+Airbus Service Bulletin A320-53-1264, Revision 01, excluding Appendix 
+01, dated July 4, 2016, lists alternative options for reporting, like 
+email, fax, or mail.
+    We agree to remove the reporting requirement specified in paragraph 
+(k)(2)(ii) of the proposed AD from this AD. Neither Airbus Service 
+Bulletin A320-53-1264, Revision 01, excluding Appendix 01, dated July 
+4, 2016, nor the MCAI specifically includes reporting to a website as 
+specified in paragraph (k)(2)(ii) of the proposed AD. We note that 
+Airbus Service Bulletin A320-53-1264, Revision 01, excluding Appendix 
+01, dated July 4, 2016, does include reporting within the required for 
+compliance (RC) procedure for the repair, which indicates that 
+reporting would be required regardless of whether reporting was called 
+out in the MCAI. We also verified with EASA that reporting should be 
+done as defined in the service information. However, we have determined 
+that a specific reporting requirement is not necessary. As stated by 
+the commenter, operators will report findings to obtain the repair, 
+which is specified in paragraph (k)(2)(i) of the proposed AD. We have 
+removed paragraphs (k)(2)(i) and (k)(2)(ii) from this AD and revised 
+paragraph (k)(2) of this AD to include the information that was in 
+paragraph (k)(2)(i) of the proposed AD. We have also added paragraph 
+(n) to this AD to specify that reporting is not required for this AD 
+and redesignated the subsequent paragraphs accordingly.
+
+Request To Refer to Latest Service Information
+
+    Two commenters requested that we refer to the latest service 
+information. UAL requested that we update paragraph (k) of the proposed 
+AD to use Airbus Service Bulletin A320-53-1264, Revision 02, dated 
+March 14, 2017, which corrects an error with the fastener lengths for 
+part number (P/N) EN6115K3. We infer that UAL intended to refer to 
+Airbus Service Bulletin A320-53-1240, Revision 02, dated March 14, 
+2017, because there is no Revision 02 for Airbus Service Bulletin A320-
+53-1264, and because P/N EN6115K3 is referenced in Airbus Service 
+Bulletin A320-53-1240, Revision 02, dated March 14, 2017. Airbus 
+requested that we refer to Airbus Service Bulletin A320-53-1240, 
+Revision 02, dated March 14, 2017, in the proposed AD.
+    We agree to refer to the latest service information in this AD. In 
+addition to Airbus Service Bulletin A320-53-1240, Revision 02, dated 
+March 14, 2017, we have also reviewed Airbus Service Bulletin A320-53-
+1263, Revision 02, excluding Appendix 01 and including Appendix 02, 
+dated December 6, 2017, which updates kit information and figures among 
+other minor changes. We have revised paragraph (k)(1) of this AD 
+accordingly. We have also provided credit for Airbus Service Bulletin 
+A320-53-1240, Revision 01, dated April 4, 2016; and Airbus Service 
+Bulletin A320-53-1263, Revision 01, dated February 29, 2016; in 
+paragraphs (o)(3)(ii) and (o)(3)(iv) of this AD, respectively.
+
+Request To Include Additional Airplane Models in the Applicability
+
+    Airbus requested that Model A320-215 and Model A320-216 airplanes 
+be in included in the applicability of the proposed AD. The commenter 
+noted that these airplane models are included in the MCAI.
+    We do not agree with the commenter's request. We have not certified 
+Model A320-215 airplanes for operation in the U.S., and therefore, we 
+did not include that model in the applicability of this AD. We did not 
+include Model A320-216 airplanes in the applicability of this AD 
+because the MCAI was already added to the required airworthiness action 
+list (RAAL) for Model A320-216 airplanes. We have not changed this AD 
+in this regard.
+
+Request To Revise Service Bulletin Descriptions in the Related Service 
+Information Under 1 CFR Part 51 Paragraph in the Preamble of the NPRM
+
+    Airbus stated that the proposed AD identifies the means of 
+inspection, i.e., rototest inspection, using three different wordings 
+in the descriptions of the service bulletins specified in the Related 
+Service Information under 1 CFR part 51 paragraph in the preamble of 
+the NPRM. Airbus also stated that Service Bulletin A320-53-1240, 
+Revision 02, dated March 14, 2017, no longer contains a rototest 
+inspection requirement. In addition, Airbus noted that Service Bulletin 
+A320-53-1240, Revision 02, dated March 14, 2017, does not contain 
+repair instructions. We infer the commenter is requesting that we 
+revise the service bulletin descriptions in the Related Service 
+Information under 1 CFR part 51 paragraph in the preamble of the NPRM.
+    We acknowledge the description of the rototest inspection is 
+different for each service bulletin specified in the Related Service 
+Information under 1 CFR part 51 paragraph in the preamble of the NPRM. 
+In the NPRM, we matched the description of the inspection as given in 
+each service bulletin specified in the Related Service Information 
+under 1 CFR part 51 paragraph. We have revised the description of 
+Airbus Service Bulletin A320-53-1240, Revision 02, dated March 14, 
+2017, to remove the reference to an inspection and repair.
+
+Request To Clarify What Prompted the Proposed AD
+
+    Airbus requested that we revise paragraph (e) of the proposed AD to 
+clarify that the proposed AD was prompted by a report of cracking in an 
+additional area. Airbus stated that paragraph (e) of the proposed AD 
+describes only the fatigue test results that prompted AD 2004-03-07.
+    We agree to revise paragraph (e) of this AD for clarity. This AD 
+was prompted by the original report of cracking and the additional 
+report. We have revised paragraph (e) of this AD to include the 
+additional cracking that prompted the issuance of this AD.
+
+Request To Revise Repair Language in Paragraph (k)(2)(i) of the 
+Proposed AD
+
+    Airbus requested that we revise the language in paragraph (k)(2)(i) 
+of the proposed AD, which specifies to repair any cracking in 
+accordance with Airbus Service Bulletin A320-53-1264, Revision 01, 
+excluding Appendix 01, dated July 4, 2016. Airbus stated that this 
+service information does not provide direct repair instructions and 
+instead specifies to contact Airbus.
+    We agree to clarify the language in paragraph (k)(2) of this AD 
+(which corresponds with paragraph (k)(2)(i) of the proposed AD). 
+Paragraph (k)(2) of this AD also specifies that where Airbus Service 
+Bulletin A320-53-1264, Revision 01, excluding Appendix 01, dated July 
+4, 2016, specifies to contact Airbus for appropriate action, and 
+specifies that action as ``RC'' (Required for Compliance), operators 
+must request approval of repair instructions using a method approved in 
+accordance with the procedures specified in paragraph (p)(2) of this 
+AD, and accomplish the repair accordingly within the compliance time 
+specified in those instructions. We have not changed this AD in this 
+regard.
+
+[[Page 13390]]
+
+Request To Include Wording From the MCAI in Paragraph (m)(1)(iii) of 
+the Proposed AD
+
+    Airbus requested that we revise paragraph (m)(1)(iii) of the 
+proposed AD. Airbus stated the wording is similar to paragraph (9) of 
+the MCAI except that the important wording ``in accordance with Airbus 
+approved instructions that identify the repair as technically 
+equivalent to the accomplishment of Airbus SB A320-53-1240 or SB A320-
+53-1263'' is omitted.
+    We disagree with the commenter's request. The intent of paragraph 
+(m)(1)(iii) of this AD is to obtain corrective actions from the 
+manufacturer that are approved by the FAA, EASA, or Airbus's EASA 
+Design Organization Approval (DOA). These approved instructions will 
+provide an equivalent level of safety. We have not changed this AD in 
+this regard.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A320-53-1029, Revision 01, 
+including Appendix 01, dated April 29, 2002. The service information 
+describes procedures for repairing cracking.
+    Airbus has also issued Service Bulletin A320-53-1240, Revision 01, 
+dated April 4, 2016; and A320-53-1240, Revision 02, dated March 14, 
+2017, which describe procedures for modifying the pressure panel above 
+the left and right longitudinal beams, by cold working the attachment 
+holes under the longitudinal beam at FR 36 for airplanes on which no 
+cracking was found. Service Bulletin A320-53-1240, Revision 01, dated 
+April 4, 2016 also includes related investigative action (e.g., high 
+frequency eddy current (rototest) inspection of all the removed 
+fastener holes) and corrective actions (e.g., repair). These documents 
+are distinct since they are different revision levels.
+    Airbus has also issued Service Bulletin A320-53-1263, Revision 01, 
+dated February 29, 2016; and A320-53-1263, Revision 02, excluding 
+Appendix 01 and including Appendix 02, dated December 6, 2017, which 
+describe procedures for modifying the pressure panel above the left and 
+right longitudinal beams, including related investigative actions 
+(e.g., eddy current rotating probe inspection of the fastener holes) 
+and corrective actions (e.g., repair), by adding a doubler and a 
+filler, and cold expansion of the holes under the longitudinal beam at 
+FR 36 for airplanes on which cracking was found. These documents are 
+distinct because they are different revision levels.
+    Airbus has also issued Service Bulletin A320-53-1264, Revision 01, 
+excluding Appendix 01, dated July 4, 2016. The service information 
+describes procedures for a special detailed inspection (rotating probe) 
+for cracking of the fastener holes on the pressure panel between FR 35 
+and FR 36 under the longitudinal beam and repair of any crack.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 737 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                     Labor cost          Parts cost     Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection [Retained from AD     Up to 2 work-hours x                 $0  Up to $170 per      Up to $125,290 per
+ 2004-03-07].                     $85 per hour = $170                      inspection cycle.   inspection cycle.
+                                  per inspection cycle.
+Inspection [new proposed         13 work-hours x $85 per              $0  $1,105............  $814,385.
+ requirement].                    hour = $1,105.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary modifications 
+that will be required based on the results of the inspection. We have 
+no way of determining the number of aircraft that might need these 
+modifications:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+               Action                         Labor cost                Parts cost           Cost per product
+----------------------------------------------------------------------------------------------------------------
+Modification.......................  Up to 213 work-hours x $85   Up to $8,510..........  Up to $26,615.
+                                      per hour = $18,105.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that will enable us to provide 
+a cost estimate for the on-condition repairs specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C.
+
+[[Page 13391]]
+
+In accordance with that order, issuance of ADs is normally a function 
+of the Compliance and Airworthiness Division, but during this 
+transition period, the Executive Director has delegated the authority 
+to issue ADs applicable to transport category airplanes to the Director 
+of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive 
+(Airworthiness Directive (AD) 2004-03-07, Amendment 39-13451 (69 FR 
+5907, February 9, 2004), and adding the following new AD:
+
+2018-06-04 Airbus: Amendment 39-19224; Docket No. FAA-2017-0902; 
+Product Identifier 2016-NM-188-AD.
+
+(a) Effective Date
+
+    This AD is effective May 3, 2018.
+
+(b) Affected ADs
+
+    This AD replaces AD 2004-03-07, Amendment 39-13451 (69 FR 5907, 
+February 9, 2004) (``AD 2004-03-07'').
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes identified in paragraphs 
+(c)(1) through (c)(4) of this AD, certificated in any category, 
+except for airplanes on which Airbus Modification 151574 was 
+embodied in production.
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A320-211, -212, -214, -231, -232, and -233 airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by fatigue tests which revealed cracking 
+around the fasteners attaching the pressure panel to the flexible 
+bracket at frame (FR) 36, adjacent to the longitudinal beams on the 
+left and right sides of the airplane, and by the discovery of 
+additional cracks under the longitudinal beams at locations that are 
+not included in the inspection area required by AD 2004-03-07. We 
+are issuing this AD to detect and correct fatigue cracking around 
+the fasteners attaching the pressure panel to the flexible bracket 
+at the FR 36 adjacent to the longitudinal beams, which could result 
+in reduced structural integrity of the airplane and possible rapid 
+decompression of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Inspection and Follow-on Actions, With No Changes
+
+    This paragraph restates the requirements of paragraphs (a) and 
+(b) of AD 2004-03-07, with no changes.
+    (1) For Model A320-211, -212, and -231 series airplanes having 
+serial numbers 0002 through 0107 inclusive, except those airplanes 
+on which Airbus Modification 21202/K1432 has been incorporated in 
+production, or on which Airbus Service Bulletin A320-53-1029, 
+Revision 01, including Appendix 01, dated April 29, 2002, has been 
+incorporated in service: Prior to the accumulation of 30,000 total 
+flight cycles, do a rotating probe inspection on airplanes with a 
+center fuel tank, or a detailed inspection on airplanes without a 
+center fuel tank, to detect cracking around the fasteners that 
+attach the pressure panel to the flexible bracket at FR 36, adjacent 
+to the longitudinal beams on the left and right sides of the 
+airplane, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-53-1030, Revision 01, excluding 
+Appendix 01, dated May 21, 2002.
+    (2) If no crack is detected by the inspection required by 
+paragraph (g)(1) of this AD, repeat the applicable inspection 
+thereafter at intervals not to exceed 6,000 flight cycles for 
+airplanes without a center fuel tank, and at intervals not to exceed 
+18,000 flight cycles for airplanes with a center fuel tank.
+
+(h) Retained Corrective Actions, With Specific Delegation Approval 
+Language
+
+    This paragraph restates the requirements of paragraphs (c) and 
+(d) of AD 2004-03-07, with specific delegation approval language.
+    (1) If any crack is detected during any inspection required by 
+paragraph (g)(1) of this AD, before further flight, repair the 
+affected structure by accomplishing all applicable actions in 
+accordance with paragraphs 3.B. through 3.E. of the Accomplishment 
+Instructions of Airbus Service Bulletin A320-53-1030, Revision 01, 
+excluding Appendix 01, dated May 21, 2002. Repeat the applicable 
+inspection thereafter at intervals not to exceed 6,000 flight cycles 
+for airplanes without a center fuel tank, and at intervals not to 
+exceed 18,000 flight cycles for airplanes with a center fuel tank. 
+For any area where cracking is repaired, the repair constitutes 
+terminating action for the repetitive inspection of that area.
+    Note 1 to paragraph (h)(1) of this AD: Airbus Service Bulletin 
+A320-53-1030 references Airbus Service Bulletin A320-53-1029, 
+Revision 01, including Appendix 01, dated April 29, 2002, as an 
+additional source of service information for certain repairs.
+    (2) If Airbus Service Bulletin A320-53-1030, Revision 01, 
+excluding Appendix 01, dated May 21, 2002, specifies to contact the 
+manufacturer for appropriate action: Before further flight, repair 
+using a method approved in accordance with the procedures specified 
+in paragraph (p)(2) of this AD.
+
+(i) Retained Optional Terminating Action, With Revised Compliance 
+Language
+
+    This paragraph restates the requirements of paragraph (e) of AD 
+2004-03-07, with revised compliance language, to provide optional 
+terminating action for paragraphs (g) and (h) of this AD. For Model 
+A320-211, -212, and -231 series airplanes having serial numbers 0002 
+through 0107 inclusive, except those airplanes on which Airbus 
+Modification 21202/K1432 has been incorporated in production, or 
+Airbus Service Bulletin A320-53-1029, Revision 01, including 
+Appendix 01, dated April 29, 2002, has been incorporated in service: 
+Modification, before the effective date of this AD, of the structure 
+around the fasteners that attach the pressure panel to the flexible 
+bracket at FR 36, adjacent to the longitudinal beams on the left and 
+right sides of the airplane, by accomplishing all applicable actions 
+in accordance with paragraphs 3.A. through 3.E. of the 
+Accomplishment Instructions of Airbus Service Bulletin A320-53-1029, 
+Revision 01, including Appendix 01, dated April 29, 2002, 
+constitutes terminating action for the actions required by 
+paragraphs (g) and (h) of this AD.
+
+(j) New Requirement of This AD: Inspection
+
+    For all airplanes, except for airplanes identified in paragraph 
+(l) of this AD: At the applicable time specified in table 1 to 
+paragraph (j) of this AD, do a special detailed inspection for 
+cracking of the fastener holes
+
+[[Page 13392]]
+
+on the pressure panel between FR 35 and FR 36 under the longitudinal 
+beam, in accordance with the Accomplishment Instructions of Airbus 
+Service Bulletin A320-53-1264, Revision 01, excluding Appendix 01, 
+dated July 4, 2016.
+[GRAPHIC] [TIFF OMITTED] TR29MR18.007
+
+[GRAPHIC] [TIFF OMITTED] TR29MR18.008
+
+
+[[Page 13393]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR29MR18.009
+
+[GRAPHIC] [TIFF OMITTED] TR29MR18.010
+
+(k) On-Condition Actions
+
+    (1) If, during any inspection required by paragraph (j) of this 
+AD, no cracking is found, or cracking is found that is within the 
+limits specified in Airbus Service Bulletin A320-53-1264, Revision 
+01, excluding Appendix 01, dated July 4, 2016: Before further 
+flight, modify the pressure panel above the left and right 
+longitudinal beams, including doing all applicable related 
+investigative and corrective actions, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-53-1240, 
+Revision 02, dated March 14, 2017; or Service Bulletin A320-53-1263, 
+Revision 02, excluding
+
+[[Page 13394]]
+
+Appendix 01 and including Appendix 02, dated December 6, 2017, as 
+applicable. Do all related investigative and corrective actions 
+before further flight. Where Airbus Service Bulletin A320-53-1240, 
+Revision 02, dated March 14, 2017; or Service Bulletin A320-53-1263, 
+Revision 02, excluding Appendix 01 and including Appendix 02, dated 
+December 6, 2017; specify to contact Airbus for appropriate action: 
+Before further flight, accomplish the repair using a method approved 
+in accordance with the procedures specified in paragraph (p)(2) of 
+this AD.
+    (2) If, during any inspection required by paragraph (j) of this 
+AD, any cracking is found that exceeds the limits specified in 
+Airbus Service Bulletin A320-53-1264, Revision 01, excluding 
+Appendix 01, dated July 4, 2016: Before further flight, repair any 
+cracking in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-53-1264, Revision 01, excluding 
+Appendix 01, dated July 4, 2016. Where Airbus Service Bulletin A320-
+53-1264, Revision 01, excluding Appendix 01, dated July 4, 2016, 
+specifies to contact Airbus for appropriate action, and specifies 
+that action as ``RC'' (Required for Compliance), before further 
+flight, request approval of repair instructions using a method 
+approved in accordance with the procedures specified in paragraph 
+(p)(2) of this AD, and accomplish the repair accordingly within the 
+compliance time specified in those instructions. If no compliance 
+time is defined in the repair instructions, accomplish the repair 
+before further flight.
+
+(l) Actions for Certain Airplanes
+
+    For Model A319 and Model A320 series airplanes on which the 
+actions specified in Airbus Service Bulletin A320-57-1193 have been 
+embodied and the airplane has accumulated 33,000 flight cycles or 
+66,000 flight hours or more since the airplane's first flight on the 
+effective date of this AD: Within 30 days after the effective date 
+of this AD, contact the Manager, International Section, Transport 
+Standards Branch FAA; or the European Aviation Safety Agency (EASA); 
+or Airbus's EASA Design Organization Approval (DOA) for approved 
+repair instructions and within the compliance time specified in 
+those instructions, accomplish the repair accordingly. If approved 
+by the DOA, the approval must include the DOA-authorized signature. 
+If no compliance time is defined in the repair instructions, 
+accomplish the repair before the next flight.
+
+(m) Terminating Action for Repetitive Inspections
+
+    (1) Modification of an airplane as specified in paragraph 
+(m)(1)(i), (m)(1)(ii), or (m)(1)(iii) of this AD constitutes 
+terminating action for the repetitive inspection required by 
+paragraph (g)(2) of this AD for that airplane only.
+    (i) Modification of an airplane as required by paragraph (k)(1) 
+of this AD.
+    (ii) Modification of an airplane prior to the effective date of 
+this AD, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-53-1240, Revision 01, dated April 4, 
+2016; or Airbus Service Bulletin A320-53-1263, Revision 01, dated 
+February 29, 2016; as applicable.
+    (iii) Modification of an airplane using instructions obtained in 
+accordance with the procedures specified in paragraph (p)(2) of this 
+AD.
+    (2) Repair of an airplane as required by paragraph (k)(2) of 
+this AD constitutes terminating action for the repetitive 
+inspections required by paragraph (g)(2) of this AD for that 
+airplane, unless specified otherwise in the repair instructions 
+approved by the Manager, International Section, Transport Standards 
+Branch, FAA; or EASA; or Airbus's EASA DOA. If approved by the DOA, 
+the approval must include the DOA-authorized signature.
+
+(n) No Reporting Requirement
+
+    Although Airbus Service Bulletin A320-53-1264, Revision 01, 
+excluding Appendix 01, dated July 4, 2016, specifies to submit 
+certain information to the manufacturer, and specifies that action 
+as ``RC'' (Required for Compliance), this AD does not include that 
+requirement.
+
+(o) Credit for Previous Actions
+
+    (1) This paragraph provides credit for actions required by 
+paragraphs (g) and (h)(1) of this AD, if those actions were 
+performed before March 15, 2004 (the effective date of AD 2004-03-
+07) using Airbus Service Bulletin A320-53-1030, dated January 5, 
+2000; or Airbus Service Bulletin A320-53-1029, dated January 5, 
+2000.
+    (2) This paragraph provides credit for actions required by 
+paragraph (j) of this AD, if those actions were performed before the 
+effective date of this AD using Airbus Service Bulletin A320-53-
+1264, dated March 19, 2015.
+    (3) This paragraph provides credit for actions required by 
+paragraph (k)(1) of this AD, if those actions were performed before 
+the effective date of this AD using the applicable service 
+information specified in paragraphs (o)(3)(i) through (o)(3)(iv) of 
+this AD, for that airplane only.
+    (i) Airbus Service Bulletin A320-53-1240, dated March 19, 2015.
+    (ii) Airbus Service Bulletin A320-53-1240, Revision 01, dated 
+April 4, 2016.
+    (iii) Airbus Service Bulletin A320-53-1263, dated March 19, 
+2015.
+    (iv) Airbus Service Bulletin A320-53-1263, Revision 01, dated 
+February 29, 2016.
+    (4) This paragraph provides credit for actions required by 
+paragraph (m)(1)(ii) of this AD if those actions were performed 
+before the effective date of this AD using Airbus Service Bulletin 
+A320-53-1240, dated March 19, 2015; or Service Bulletin A320-53-
+1263, dated March 19, 2015.
+
+(p) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to the attention of 
+the person identified in paragraph (q)(2) of this AD. Information 
+may be emailed to: <a href="/cdn-cgi/l/email-protection#efd6c2aea1a2c2deded9c2aea2a0acc2bdaabebaaabcbbbcaf898e8ec1888099"><span class="__cf_email__" data-cfemail="477e6a06090a6a7676716a060a08046a15021612021413140721262669202831">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Section, Transport Standards 
+Branch, FAA; or the European Aviation Safety Agency (EASA); or 
+Airbus's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraphs (k)(2) and (n) of this AD: If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(q) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2016-0206, dated October 13, 2016; corrected October 
+14, 2016; for related information. This MCAI may be found in the AD 
+docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching 
+for and locating Docket No. FAA-2017-0902.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+206-231-3223; fax 206-231-3398.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (r)(5) and (r)(6) of this AD.
+
+(r) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+May 3, 2018.
+    (i) Airbus Service Bulletin A320-53-1029, Revision 01, including 
+Appendix 01, dated April 29, 2002.
+    (ii) Airbus Service Bulletin A320-53-1240, Revision 01, dated 
+April 4, 2016.
+    (iii) Airbus Service Bulletin A320-53-1240, Revision 02, dated 
+March 14, 2017.
+
+[[Page 13395]]
+
+    (iv) Airbus Service Bulletin A320-53-1263, Revision 01, dated 
+February 29, 2016.
+    (v) Airbus Service Bulletin A320-53-1263, Revision 02, excluding 
+Appendix 01 and including Appendix 02, dated December 6, 2017.
+    (vi) Airbus Service Bulletin A320-53-1264, Revision 01, 
+excluding Appendix 01, dated July 4, 2016.
+    (4) The following service information was approved for IBR on 
+March 15, 2004 (69 FR 5907, February 9, 2004).
+    (i) Airbus Service Bulletin A320-53-1030, Revision 01, excluding 
+Appendix 01, dated May 21, 2002.
+    (ii) Reserved.
+    (5) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email <a href="/cdn-cgi/l/email-protection#fb9a9898948e958fd59a92898c94898f93d69e9a88bb9a9289998e88d5989496"><span class="__cf_email__" data-cfemail="026361616d776c762c636b70756d70766a2f67637142636b706077712c616d6f">[email&#160;protected]</span></a>; internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (6) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on March 2, 2018.
+Michael Kaszycki,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2018-05019 Filed 3-28-18; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,531 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 7 (Wednesday, January 11, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 7 (Wednesday, January 11, 2017)]
+[Rules and Regulations]
+[Pages 3140-3143]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-31188]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-6428; Directorate Identifier 2015-NM-119-AD; 
+Amendment 39-18764; AD 2016-26-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 787-8 airplanes. This AD was prompted by 
+reports indicating that certain wing side-of-body upper stringer 
+fittings have been installed with faying surface mismatch beyond the 
+allowed machining tolerance. This AD requires inspections of certain 
+stringer fittings, replacement if necessary, and replacement of certain 
+fasteners. We are issuing this AD to address the unsafe condition on 
+these products.
+
+DATES: This AD is effective February 15, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of February 15, 
+2017.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740; telephone 562-797-1717; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. 
+You may view this referenced service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For information 
+on the availability of this material at the FAA, call 425-227-1221. It 
+is also available on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by 
+searching for and locating Docket No. FAA-2016-6428.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2016-
+6428; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Allen Rauschendorfer, Aerospace 
+Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft 
+Certification Office (ACO), 1601 Lind Avenue SW., Renton, WA 98057-
+3356; phone: 425-917-6487; fax: 425-917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#44252828212a6a36253137272c212a202b36222136042225256a232b32"><span class="__cf_email__" data-cfemail="65040909000b4b17041016060d000b010a17030017250304044b020a13">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain The Boeing Company 
+Model 787-8 airplanes. The NPRM published in the Federal Register on 
+May 11, 2016 (81 FR 29206) (``the NPRM''). The NPRM was prompted by 
+reports indicating that certain wing side-of-body upper stringer 
+fittings have been installed with faying surface mismatch beyond the 
+allowed machining tolerance. The NPRM proposed to require inspection of 
+certain stringer fittings for faying surface mismatch common to the 
+side-of-body rib chord, replacement if necessary, and replacement of 
+the clearance fit fasteners common to the side-of-body fittings and 
+upper side-of-body rib chord with tapered sleeve bolts. We are issuing 
+this AD to prevent an unacceptable reduction of the fatigue life in the 
+upper side-of-body rib chord. Associated fatigue cracks can reduce the 
+structural capability of the upper side-of-body t-chord to a point 
+where it cannot sustain limit load, which could adversely affect the 
+structural integrity of the airplane.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Request To Reference Revised Service Information
+
+    United Airlines (UA) and All Nippon Airways (ANA) asked that we 
+revise the NPRM to reference Boeing Alert Service Bulletin B787-81205-
+SB570018-00, Issue 002, because Boeing Alert Service Bulletin B787-
+81205-SB570018-00, Issue 001, dated July 1, 2015, is currently being 
+revised by Boeing. UA and ANA added that by including the revised 
+service information for accomplishing the specified actions, requests 
+for alternative methods of compliance (AMOCs) will be reduced.
+    We do not agree because the revised service information is not yet 
+released. In an AD, we cannot refer to service information that does 
+not exist because doing so violates Office of the Federal Register 
+(OFR) regulations for approval of materials incorporated by reference 
+in rules. To allow operators to use service information issued after 
+publication of an AD, either we must supersede the AD to reference 
+specific service information, or operators must request approval to use 
+the new service information as an AMOC for the AD under the provisions 
+of paragraph (j) of this AD. We consider addressing the unsafe 
+condition as soon as possible a necessity. We might consider issuing a 
+global AMOC if revised service information is approved. We have not 
+changed this AD in this regard.
+
+Request for Clarification of the Reason for the AD
+
+    Boeing asked that we clarify that the proposed AD was prompted by 
+reports indicating that the wing side-of-body stringer fittings that 
+were installed with a faying surface mismatch beyond allowed tolerances 
+were the upper stringer fittings.
+    We agree that clarification of the language describing what 
+prompted the AD is necessary. We have changed the SUMMARY section of 
+this final rule, as well as paragraph (e) of this AD, to
+
+[[Page 3141]]
+
+include ``upper'' before ``stringer fittings.''
+
+Request for Clarification of Certain Language in the Discussion Section
+
+    Boeing asked that we clarify the Discussion section of the NPRM, 
+which stated that the faying surface mismatch produces a gouge. Boeing 
+requested that we revise this wording to indicate that a gouge produced 
+from a faying surface mismatch is a possibility, not a certainty.
+    We do not agree that the description in the Discussion section of 
+the NPRM is inaccurate, because excessive cutter mismatch will produce 
+a gouge in the mating surface eventually. In addition, the Discussion 
+section of NPRMs is not fully repeated in final rules. Therefore, we 
+have not changed this AD in this regard.
+
+Request for Clarification of Corrective Actions
+
+    Boeing asked that we clarify the description of the corrective 
+actions in the ``Related Service Information under 1 CFR part 51'' 
+section of the NPRM by distinguishing certain conditions associated 
+with the various corrective actions.
+    We agree that clarification of the language is necessary. The 
+``Related Service Information under 1 CFR part 51'' section in an AD 
+simply describes the various actions in the service information; it 
+does not describe the detailed requirements with specific corrective 
+actions for specific inspection findings. Therefore, we have changed 
+that section in this final rule to simply list the different actions 
+provided in Boeing Alert Service Bulletin B787-81205-SB570018-00, Issue 
+001, dated July 1, 2015.
+
+Request for Clarification of Certain Language in FAA's Determination 
+Section
+
+    Boeing asked that the word ``other'' be removed from the ``FAA's 
+Determination'' section of the NPRM, which specifies that the unsafe 
+condition ``is likely to exist or develop in other products of the same 
+type design.'' Boeing stated that the unsafe condition resulted from a 
+quality escapement applicable to specific line numbers, and therefore 
+is not likely to develop in other products of the same type design 
+(i.e., the entire 787-8 fleet).
+    We do not agree to remove the word ``other'' from the specified 
+sentence. In 14 CFR 39.5, which defines the reason for issuing ADs, it 
+states that an AD addresses ``a product'' when the unsafe condition is 
+likely to exist or develop in ``other products'' of the same type 
+design. The product addressed by an AD refers to the airplane(s) 
+associated with the incident or specific findings that prompted the AD. 
+In this case, the ``other products'' extends to Model 787-8 airplanes 
+that are identified in paragraph (c) of this AD--that is, airplanes 
+identified in Boeing Alert Service Bulletin B787-81205-SB570018-00, 
+Issue 001, dated July 1, 2015--not the entire fleet. We have not 
+changed this AD in this regard.
+
+Request for Clarification of Compliance Time
+
+    Boeing asked that we change the compliance time wording in 
+paragraph (g) of the proposed AD for clarification by referring to 
+Boeing Alert Service Bulletin B787-81205-SB570018-00, Issue 001, dated 
+July 1, 2015, instead of specifying the actual compliance time.
+    We do not agree with the request. Paragraph (g) of the proposed AD 
+(which is retained in this final rule) provides the compliance time 
+(before the accumulation of 18,000 total flight cycles, or within 13 
+years after the effective date of this AD, whichever occurs first) 
+because the Accomplishment Instructions of the service information do 
+not provide a compliance time for the inspection. We have not changed 
+this AD regarding this issue.
+
+Request for Clarification of Type of Inspections and Applicable 
+Corrective Actions
+
+    Boeing asked that we clarify the description of the inspections 
+specified in paragraphs (g)(1), (g)(2), and (g)(3) of the proposed AD 
+as follows: (1) Do a detailed inspection for a machine mismatch 
+condition of the stringer 1 fitting faying surface; (2) Do a detailed 
+inspection of the faying surface of the aluminum T-chord common to 
+stringer 1 fitting for fretting damage; and (3) Do an eddy current 
+inspection for cracking of the fastener holes common to stringer 
+fittings 1 and 5 through 11. Boeing stated that this will more closely 
+match the information and sequence of the inspections specified in the 
+referenced service information.
+    We agree with the commenter's request to clarify the inspection 
+language specified in paragraphs (g)(1), (g)(2), and (g)(3) of this AD, 
+for the reasons provided. We have clarified those paragraphs 
+accordingly.
+    Boeing asked that we revise paragraph (h) of the proposed AD to 
+clarify the corrective actions. The commenter defined four corrective 
+actions (which are also defined in the service information).
+    We agree with the commenter's request in part. We do not agree to 
+clarify the corrective actions because the actions described by the 
+commenter are for the inspections required by paragraph (g) of this AD, 
+and are clearly specified in Boeing Alert Service Bulletin B787-81205-
+SB570018-00, Issue 001, dated July 1, 2015. Those corrective actions 
+are identified in paragraph (g) of this AD as, simply, ``corrective 
+actions,'' and are further defined by reference to Boeing Alert Service 
+Bulletin B787-81205-SB570018-00, Issue 001, dated July 1, 2015. 
+However, we do agree to change the title of paragraph (h) of this AD to 
+specify ``Modification, Inspection, and Repair'' to encompass the 
+requirements specified in paragraph (h) of this AD.
+
+Request for Clarification of RC Steps
+
+    To ensure that all provisions within the RC steps for contacting 
+Boeing are captured, Boeing requested that we revise paragraph (i) of 
+the proposed AD to refer to repair of the ``applicable condition'' 
+instead of just ``cracking.''
+    We do not agree with the commenter's request. Boeing Alert Service 
+Bulletin B787-81205-SB570018-00, Issue 001, dated July 1, 2015, 
+specifies contacting Boeing if there is a crack; corrective actions for 
+other discrepancies are provided within the service information.
+    Boeing also asked that we add the following exception in paragraph 
+(i) of the proposed AD:
+
+    Additionally, where Boeing Alert Service Bulletin B787-81205-
+SB570018-00, Issue 001, dated July 1, 2015, specifies a compliance 
+time ``after the original issue date of this service bulletin,'' 
+this AD requires compliance within the specified compliance time 
+after the effective date of this AD.
+
+    We do not agree to include the compliance time exception. As 
+explained previously, the compliance times in this AD are defined using 
+specific times instead of referring to the service information. 
+Therefore, there are no exceptions to the service information regarding 
+the compliance times in this AD. We have not changed this AD regarding 
+this issue.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+
+[[Page 3142]]
+
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Boeing Alert Service Bulletin B787-81205-SB570018-00, 
+Issue 001, dated July 1, 2015. The service information describes 
+procedures for inspection of the left and right hand side stringer 1 
+fittings for faying surface mismatch common to the side-of-body rib 
+chord, replacement of the stringer 1 fitting, and removal and 
+replacement of the clearance fit fasteners common to the side-of-body 
+fittings and upper side-of-body rib chord with tapered sleeve bolts 
+from stringer 5 to stringer 11. This service information is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 5 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                             Cost per      Cost on U.S.
+                 Action                                             Labor cost                              Parts cost        product        operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Inspections and modification...........  144 work-hours x $85 per hour = $12,240........................        $100,079        $112,319        $561,595
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary corrective 
+action for fretting damage or cutter mismatch based on the results of 
+the inspection. We have no way of determining the number of aircraft 
+that might need these corrective actions:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+              Action                                 Labor cost                     Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Repair for fretting damage or      9 work-hours x $85 per hour = $765...........              $0            $765
+ cutter mismatch.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that enables us to provide cost 
+estimates for the crack repair specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-26-06 The Boeing Company: Amendment 39-18764; Docket No. FAA-
+2016-6428; Directorate Identifier 2015-NM-119-AD.
+
+(a) Effective Date
+
+    This AD is effective February 15, 2017.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 787-8 airplanes, 
+certificated in any category, as identified in Boeing Alert Service 
+Bulletin B787-81205-SB570018-00, Issue 001, dated July 1, 2015.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports indicating that certain wing 
+side-of-body upper stringer fittings have been installed with faying 
+surface mismatch beyond the allowed machining tolerance. We are 
+issuing this AD to prevent an unacceptable reduction of the fatigue 
+life in the upper side-of-body rib chord. Associated fatigue cracks 
+can reduce the structural capability of the upper side-of-body t-
+chord to a point where it cannot sustain limit load, which could
+
+[[Page 3143]]
+
+adversely affect the structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspection and Corrective Actions
+
+    Before the accumulation of 18,000 total flight cycles, or within 
+13 years after the effective date of this AD, whichever occurs 
+first, do the inspections specified in paragraphs (g)(1), (g)(2), 
+and (g)(3) of this AD, and all applicable corrective actions, in 
+accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin B787-81205-SB570018-00, Issue 001, dated July 1, 
+2015, except as required by paragraph (i) of this AD. Do all 
+applicable corrective actions before further flight.
+    (1) Do a detailed inspection for a machine mismatch condition of 
+the stringer 1 fitting faying surface.
+    (2) Do a detailed inspection of the faying surface of the 
+aluminum T-chord common to the stringer 1 fitting for fretting 
+damage.
+    (3) Do an eddy current inspection for cracking of the fastener 
+holes common to stringer fitting 1 and stringer fittings 5 through 
+11.
+
+(h) Modification, Inspection, and Repair
+
+    Concurrently with accomplishment of the requirements of 
+paragraph (g) of this AD: Modify the stringer fitting fasteners, and 
+do an eddy current inspection for cracking of the fastener holes, in 
+accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin B787-81205-SB570018-00, Issue 001, dated July 1, 
+2015. If any crack is found, before further flight, repair using a 
+method approved in accordance with the procedures specified in 
+paragraph (j) of this AD.
+
+(i) Exception to Service Information Specifications
+
+    Where Boeing Alert Service Bulletin B787-81205-SB570018-00, 
+Issue 001, dated July 1, 2015, specifies to contact Boeing for 
+repair of cracking: Before further flight, repair the cracking using 
+a method approved in accordance with the procedures specified in 
+paragraph (j) of this AD.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (k)(1) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#8cb5a1cdc2c1a1dfe9edf8f8e0e9a1cdcfc3a1cdc1c3cfa1dee9fdf9e9fff8ffcceaededa2ebe3fa"><span class="__cf_email__" data-cfemail="6c55412d2221413f090d18180009412d2f23412d21232f413e091d19091f181f2c0a0d0d420b031a">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by the Boeing Commercial Airplanes Organization 
+Designation Authorization (ODA) that has been authorized by the 
+Manager, Seattle ACO, to make those findings. To be approved, the 
+repair method, modification deviation, or alteration deviation must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) Except as required by paragraph (i) of this AD: For service 
+information that contains steps that are labeled as Required for 
+Compliance (RC), the provisions of paragraphs (j)(4)(i) and 
+(j)(4)(ii) apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. An AMOC is required for any deviations to RC steps, 
+including substeps and identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(k) Related Information
+
+    For more information about this AD, contact Allen 
+Rauschendorfer, Aerospace Engineer, Airframe Branch, ANM-120S, FAA, 
+Seattle Aircraft Certification Office (ACO), 1601 Lind Avenue SW., 
+Renton, WA 98057-3356; phone: 425-917-6487; fax: 425-917-6590; 
+email: <a href="/cdn-cgi/l/email-protection#cbaaa7a7aea5e5b9aabeb8a8a3aea5afa4b9adaeb98badaaaae5aca4bd"><span class="__cf_email__" data-cfemail="e1808d8d848fcf938094928289848f858e93878493a1878080cf868e97">[email&#160;protected]</span></a>.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Service Bulletin B787-81205-SB570018-00, Issue 
+001, dated July 1, 2015.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Contractual & Data Services 
+(C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740; 
+telephone 562-797-1717; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on December 15, 2016.
+Victor Wicklund,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-31188 Filed 1-10-17; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

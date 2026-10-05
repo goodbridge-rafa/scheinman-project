@@ -1,0 +1,904 @@
+<html>
+<head>
+<title>Federal Register, Volume 75 Issue 164 (Wednesday, August 25, 2010)</title>
+</head>
+<body><pre>
+[Federal Register Volume 75, Number 164 (Wednesday, August 25, 2010)]
+[Rules and Regulations]
+[Pages 52255-52263]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2010-20555]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2010-0827; Directorate Identifier 2010-CE-029-AD; 
+Amendment 39-16412; AD 2010-17-18]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Air Tractor, Inc. Models AT-802 and AT-
+802A Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) to 
+supersede AD 2010-13-08, which applies to all Air Tractor, Inc. (Air 
+Tractor) Models AT-802 and AT-802A airplanes. AD 2010-13-08 currently 
+requires you to repetitively inspect (using the eddy current method) 
+the two outboard fastener holes in both of the wing main spar lower 
+caps at the center splice joint for cracks and repair or replace any 
+cracked spar cap. Since we issued 2010-13-08, we evaluated service 
+information issued by Air Tractor and determined we need to add 
+inspections, add modifications, and change the safe life for certain 
+serial number (SN) ranges. Consequently, this AD would retain the 
+actions of AD 2010-13-08 and would add inspections, add modifications, 
+and change the safe life for certain SN ranges. We are issuing this AD 
+to detect and correct cracks in the wing main spar lower cap at the 
+center splice joint, which could result in failure of the spar cap and 
+lead to wing separation and loss of control of the airplane.
+
+DATES: This AD becomes effective on September 9, 2010.
+    On September 9, 2010, the Director of the Federal Register approved 
+the incorporation by reference of Snow Engineering Co. Service Letter 
+<greek-i>80GG, revised December 21, 2005; Snow Engineering Co. Service 
+Letter <greek-i>284, dated October 4, 2009; Snow Engineering Co. 
+Service Letter <greek-i>281, dated August 1, 2009; Snow Engineering Co. 
+Service Letter <greek-i>245, dated April 25, 2005; Snow Engineering Co. 
+Drawing Number 20995, Sheet 3, dated November 25, 2005; Snow 
+Engineering Co. Drawing Number 20995, Sheet 2, Rev. D., dated November 
+25, 2005; and Snow Engineering Co. Drawing Number 20975, Sheet 4, Rev. 
+A., dated January 7, 2009, listed in this AD.
+    As of April 21, 2006 (71 FR 19994, April 19, 2006), the Director of 
+the Federal Register approved the incorporation by reference of Snow 
+Engineering Co. Service Letter <greek-i>240, dated September 30, 2004; 
+and Snow Engineering Co. Process Specification <greek-i>197, page 1, 
+revised June 4, 2002; pages 2 through 4, dated February 23, 2001; and 
+page 5, dated May 3, 2002, listed in this AD.
+    We must receive any comments on this AD by October 12, 2010.
+
+ADDRESSES: Use one of the following addresses to comment on this AD.
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the instructions for submitting comments.
+    <bullet> Fax: (202) 493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC 20590.
+    <bullet> Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC 20590, between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays.
+    To get the service information identified in this AD, contact Air 
+Tractor, Inc., P.O. Box 485, Olney, Texas 76374; telephone: (940) 564-
+5616; fax: (940) 564-5612; E-mail: <a href="/cdn-cgi/l/email-protection#b7d6dec5dad6dedbf7d6dec5c3c5d6d4c3d8c599d4d8da"><span class="__cf_email__" data-cfemail="a1c0c8d3ccc0c8cde1c0c8d3d5d3c0c2d5ced38fc2cecc">[email&#160;protected]</span></a>; Internet: 
+<a href="http://www.airtractor.com">http://www.airtractor.com</a>.
+    To view the comments to this AD, go to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. 
+The docket number is FAA-2010-0827; Directorate Identifier 2010-CE-029-
+AD.
+
+FOR FURTHER INFORMATION CONTACT: Andrew McAnaul, Aerospace Engineer, 
+ASW-150 (c/o MIDO-43), 10100 Reunion Place, Suite 650, San Antonio, 
+Texas 78216; telephone: (210) 308-3365; facsimile: (210) 308-3370.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    Since 2000, we have issued several ADs related to the wing spar 
+inspection and safe life on Air Tractor AT-400, AT-500, AT-600, and AT-
+800 series airplanes.
+    In 2001, we issued AD 2001-10-04, Amendment 39-12230 (66 FR 27014, 
+May 16, 2001) to lower the safe life for the wing lower spar cap on Air 
+Tractor AT-400, AT-500, and AT-800 series airplanes. This AD allowed 
+for inspection (using eddy current methods) of the wing lower spar cap 
+for airplanes that were at or over the lower safe life and for which 
+parts were not available. Later that same year, we revised that AD to 
+remove AT-800 series airplanes from the applicability that were 
+equipped with the factory-supplied computerized fire gate (part number 
+80540) and engaged in full-time firefighting.
+    In 2002, we issued AD 2002-11-05, Amendment 39-12766 (67 FR 37967, 
+May 31, 2002) that retained the actions for the AT-802 series airplanes 
+and further reduced the safe life for certain AT-400 series airplanes 
+and certain AT-500 series airplanes that either incorporate or have 
+incorporated Marburger winglets.
+    After receiving reports of fatigue cracking found on three Model 
+AT-802A airplanes that were below the reduced safe life established in 
+AD 2001-10-04, we issued AD 2006-08-09, Amendment 39-14565 (71 FR 
+27794, May 12, 2006). AD 2006-08-09 required repetitively inspecting 
+the two outboard fastener holes in both of the wing main spar lower 
+caps at the center splice joint for cracks and repairing or replacing 
+any cracked spar cap.
+    After issuing AD 2006-08-09, we determined the need to clarify the 
+affected SN applicability. Models AT-
+
+[[Page 52256]]
+
+802 and AT-802A share a common SN range. Sometimes service information 
+listed only one of the models with a starting or ending SN within a SN 
+range, depending on which model was produced with that specific SN, 
+even though the service information applied to both models. We 
+superseded AD 2006-08-09 and issued AD 2010-13-08, Amendment 39-16339 
+(75 FR 35616, June 23, 2010) to retain the actions from AD 2006-08-09, 
+clarify serial number applicability, and add an option of modifying the 
+wing main spar lower caps to extend the safe life limit.
+    After completing fatigue analysis on Models AT-802 and AT-802A 
+airplanes, Air Tractor issued service information that adds 
+inspections, adds modifications, and changes the safe life for certain 
+SN ranges. Since we issued 2010-13-08, we evaluated this new service 
+information and determined the need to add inspections, add 
+modifications, and change the safe life for certain SN ranges.
+    This condition, if not corrected, could result in failure of the 
+spar cap and lead to wing separation and loss of control of the 
+airplane.
+
+Relevant Service Information
+
+    We reviewed the following service information from Snow Engineering 
+Co.:
+    <bullet> Service Letter <greek-i>80GG, revised December 21, 2005;
+    <bullet> Service Letter <greek-i>284, dated October 4, 2009;
+    <bullet> Service Letter <greek-i>281, dated August 1, 2009;
+    <bullet> Service Letter <greek-i>245, dated April 25, 2005;
+    <bullet> Service Letter <greek-i>240, dated September 30, 2004;
+    <bullet> Process Specification <greek-i>197, page 1, revised June 
+4, 2002; pages 2 through 4, dated February 23, 2001; and page 5, dated 
+May 3, 2002;
+    <bullet> Drawing Number 20995, Sheet 3, dated November 25, 2005;
+    <bullet> Drawing Number 20995, Sheet 2, Rev. D., dated November 25, 
+2005; and
+    <bullet> Drawing Number 20975, Sheet 4, Rev. A., dated January 7, 
+2009.
+    The service information describes procedures for the following 
+actions:
+    <bullet> Inspection (repetitively) of the two outboard fastener 
+holes in both of the wing main spar lower caps at the center splice 
+joint for cracks;
+    <bullet> Repair or replacement of any cracked spar cap; and
+    <bullet> Modification option to extend the safe life limit.
+
+FAA's Determination and Requirements of This AD
+
+    We are issuing this AD because we evaluated all the information and 
+determined the unsafe condition described previously is likely to exist 
+or develop on other products of the same type design. This AD requires 
+you to repetitively inspect (using the eddy current method) the two 
+outboard fastener holes in both of the wing main spar lower caps at the 
+center splice joint for cracks and repair or replace any cracked spar 
+cap.
+
+FAA's Determination of the Effective Date
+
+    Since an unsafe condition exists that requires the immediate 
+adoption of this AD, we determined that notice and opportunity for 
+public comment before issuing this AD are impracticable, and that good 
+cause exists for making this amendment effective in fewer than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and an opportunity for 
+public comment. We invite you to send any written relevant data, views, 
+or arguments regarding this AD. Send your comments to an address listed 
+under the ADDRESSES section. Include the docket number ``FAA-2010-0827; 
+Directorate Identifier 2010-CE-029-AD'' at the beginning of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of the AD. We will consider 
+all comments received by the closing date and may amend the AD in light 
+of those comments.
+    We will post all comments we receive, without change, to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive concerning this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+[[Page 52257]]
+
+Regulatory Flexibility Determination
+
+    The Regulatory Flexibility Act of 1980 (Pub. L. 96-354) (RFA) 
+establishes as a principle of regulatory issuance that agencies shall 
+endeavor, consistent with the objective of the rule and of applicable 
+statutes, to fit regulatory and informational requirements to the scale 
+of the businesses, organizations, and governmental jurisdictions 
+subject to regulation.
+    To achieve that principle, the RFA requires agencies to solicit and 
+consider flexible regulatory proposals and to explain the rationale for 
+their actions. The RFA covers a wide-range of small entities, including 
+small businesses, not-for-profit organizations, and small governmental 
+jurisdictions.
+    Agencies must perform a review to determine whether a proposed or 
+final rule will have a significant economic impact on a substantial 
+number of small entities. In accordance with Section 608 of the 
+Regulatory Flexibility Act, an agency head may waive or delay 
+completion of some or all of the requirements of Section 603 by 
+providing a written finding that this final rule is being promulgated 
+in response to an emergency that makes compliance or timely compliance 
+with the provisions of Section 603 impracticable.
+    We are performing a review to determine whether this final rule AD 
+action will have a significant economic impact on a substantial number 
+of small entities. However, the immediate safety of flight conditions 
+of this AD action make compliance with the provisions of Section 603 
+impracticable. Our justification for immediate adoption of this rule, 
+and therefore of impracticability, is stated in FAA's Justification and 
+Determination of the Effective Date. After we determine whether this 
+final rule AD action has a significant economic impact on a substantial 
+number of small entities or not, we will publish in the Federal 
+Register our determination and, if required, our final regulatory 
+flexibility analysis.
+
+Examining the AD Docket
+
+    You may examine the AD docket that contains the AD, the regulatory 
+evaluation, any comments received, and other information on the 
+Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket 
+Management Facility between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The Docket Office (telephone (800) 647-5527) 
+is located at the street address stated in the ADDRESSES section. 
+Comments will be available in the AD docket shortly after receipt.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2010-13-08, Amendment 39-16339 (75 FR 35616, June 23, 2010), and by 
+adding a new AD to read as follows:
+
+2010-17-18 Air Tractor, Inc.: Amendment 39-16412; Docket No. FAA-
+2010-0827; Directorate Identifier 2010-CE-029-AD.
+
+Effective Date
+
+    (a) This AD becomes effective on September 9, 2010.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2010-13-08; Amendment 39-16339.
+
+Applicability
+
+    (c) This AD affects Models AT-802 and AT-802A airplanes, all 
+serial numbers (SNs) beginning with -0001, that are:
+    (1) Certificated in any category;
+    (2) Engaged in agricultural dispersal operations, including 
+those airplanes that have been converted from fire fighting to 
+agricultural dispersal or airplanes that convert between fire 
+fighting and agricultural dispersal;
+    (3) Not equipped with the factory-supplied computerized fire 
+gate (part number (P/N) 80540); and
+    (4) Not engaged in only full-time fire fighting.
+
+Subject
+
+    (d) Air Transport Association of America (ATA) Code 57: Wings.
+
+Unsafe Condition
+
+    (e) This AD results from our determination that we need to 
+require the actions in the new service information to add 
+inspections, add modifications, and change the safe life for certain 
+SN ranges. We are issuing this AD to detect and correct cracks in 
+the wing main spar lower cap at the center splice joint, which could 
+result in failure of the spar cap and lead to wing separation and 
+loss of control of the airplane.
+
+Compliance
+
+    (f) To address this problem for Models AT-802 and AT-802A 
+airplanes, SNs -0001 through -0091, you must do the following, 
+unless already done:
+
+                                  Table 1--Actions, Compliance, and Procedures
+----------------------------------------------------------------------------------------------------------------
+               Actions                             Compliance                            Procedures
+----------------------------------------------------------------------------------------------------------------
+(1) Eddy current inspect for cracks   Initially inspect upon accumulating   Follow Snow Engineering Co. Process
+ the center splice joint outboard      1,700 hours time-in-service (TIS)     Specification <greek-i>197, page 1,
+ two fastener holes in both the left   or within the next 50 hours TIS       revised June 4, 2002; pages 2
+ and right wing main spar lower        after April 21, 2006 (the effective   through 4, dated February 23, 2001;
+ caps.                                 date of AD 2006-08-09), whichever     and page 5, dated May 3, 2002.
+                                       occurs later, and repetitively
+                                       thereafter at intervals not to
+                                       exceed 800 hours TIS. If, before
+                                       September 9, 2010 (the effective
+                                       date of this AD), you installed the
+                                       center splice plate and extended 8-
+                                       bolt splice blocks, use the
+                                       inspection compliance times found
+                                       in paragraph (f)(5) of this AD.
+
+[[Page 52258]]
+
+ 
+(2) If you find any cracks as a       Before further flight after the       Follow Snow Engineering Co. Service
+ result of any inspection required     inspection where a crack was found.   Letter <greek-i>284, dated October
+ in paragraph (f)(1) of this AD, do    If, before the airplane reaches a     4, 2009; Snow Engineering Co.
+ the following actions:                total of 3,200 hours TIS, you         Process Specification <greek-i>197,
+(i) For cracks that can be repaired,   repair your airplane following        page 1, revised June 4, 2002; pages
+ repair the airplane by doing the      paragraph (f)(2)(i) of this AD, you   2 through 4, dated February 23,
+ following actions:                    must do the eddy current              2001; and page 5, dated May 3,
+(A) Install center splice plate, P/N   inspections following the             2002; Snow Engineering Co. Drawing
+ 20997-2, and extended 8[dash]bolt     compliance times found in paragraph   Number 20995, Sheet 2, Rev. D.,
+ splice blocks, P/N 20985-1 & -2,      (f)(5) of this AD. If, at 3,200       dated November 25, 2005; and Snow
+ and cold-work the lower spar cap      hours TIS or after, you repair your   Engineering Co. Service Letter
+ fastener holes; and                   airplane following paragraph          <greek-i>240, dated September 30,
+(B) Eddy current inspect for cracks    (f)(2)(i) of this AD, this repair     2004.
+ the center splice joint outboard      terminates the inspection
+ two fastener holes in both the left   requirements of paragraph (f)(1) of
+ and right wing main spar lower        this AD.
+ caps. This eddy current inspection
+ is required as part of the
+ modification and is separate from
+ the inspections required in
+ paragraph (f)(1) of this AD.
+(ii) For cracks that cannot be
+ repaired by incorporating the
+ modification specified above, do
+ the actions to replace the lower
+ spar caps and associated parts
+ listed following the procedures
+ identified in paragraph (f)(3) of
+ this AD.
+(3) Replace the wing main spar lower  (i) Do the replacement at whichever   Follow Snow Engineering Co. Service
+ caps, the web plates, the center      of the following compliance times     Letter <greek-i>284, dated October
+ joint splice blocks and hardware,     occurs first:                         4, 2009; Snow Engineering Co.
+ and the wing attach angles and       (A) Before further flight when         Service Letter <greek-i>80GG,
+ hardware, and install the steel web   cracks are found that cannot be       revised December 21, 2005; Snow
+ splice plate. This replacement        repaired by incorporating the         Engineering Co. Drawing Number
+ terminates the repetitive             modification in paragraph (f)(2)(i)   20975, Sheet 4, Rev. A, dated
+ inspections required in paragraph     of this AD; or                        January 7, 2009.
+ (f)(1) of this AD.                   (B) Before or when the airplane
+                                       reaches the wing main spar lower
+                                       cap safe life of a total of 4,100
+                                       hours TIS or within the next 50
+                                       hours TIS after September 9, 2010
+                                       (the effective date of this AD),
+                                       whichever occurs later.
+                                      (ii) After this replacement the new
+                                       spar safe life is 11,700 hours TIS.
+                                       If, before September 9, 2010 (the
+                                       effective date of this AD), an
+                                       airplane main spar lower cap was
+                                       replaced with P/N 21083-1/-2, the
+                                       spar safe life for that P/N spar
+                                       cap is 8,000 hours TIS until the
+                                       main spar lower cap is replaced
+                                       with P/N 21118-1/-2. The new spar
+                                       safe life for P/N 21118-1/-2 is
+                                       11,700 hours.
+                                      (iii) To extend the initial 4,100
+                                       hours TIS safe life of the wing
+                                       main spar lower cap to a total of
+                                       8,000 hours TIS, you may
+                                       incorporate the optional
+                                       modification specified in paragraph
+                                       (f)(4) of this AD.
+(4) To extend the safe life of the    Modify at whichever of the following  Follow Snow Engineering Co. Service
+ wing main spar lower cap to a total   compliance times occurs first:        Letter <greek-i>284, dated October
+ of 8,000 hours TIS, you may          (A) Before further flight after any    4, 2009; Snow Engineering Co.
+ incorporate the following optional    inspection required in paragraph      Process Specification <greek-i>197,
+ modification. This modification       (f)(1) of this AD where a crack is    page 1, revised June 4, 2002; pages
+ terminates the repetitive             found. If you modify your airplane    2 through 4, dated February 23,
+ inspections required in paragraph     before the airplane reaches a total   2001; and page 5, dated May 3,
+ (f)(1) of this AD, unless you         of 3,200 hours TIS to repair cracks   2002; Snow Engineering Co. Drawing
+ performed the modification before     as required in paragraph (f)(2)(i)    Number 20995, Sheet 2, Rev. D.,
+ the airplane reaches a total of       of this AD, you must do the eddy      dated November 25, 2005; and Snow
+ 3,200 hours TIS to repair cracks:     current inspections following the     Engineering Co. Service Letter
+(i) Install center splice plate, P/N   compliance times found in paragraph   <greek-i>240, dated September 30,
+ 20997-2, and extended 8[dash]bolt     (f)(5) of this AD.                    2004.
+ splice blocks, P/N 20985-1 & -2,
+ and cold-work the lower spar cap
+ fastener holes; and
+
+[[Page 52259]]
+
+ 
+(ii) Eddy current inspect for cracks  (B) Between 3,200 hours TIS and
+ the center splice joint outboard      4,100 hours TIS.
+ two fastener holes in both the left
+ and right wing main spar lower
+ caps. This eddy current inspection
+ is required as part of the
+ modification and is separate from
+ the inspections required in
+ paragraph (f)(1) of this AD.
+----------------------------------------------------------------------------------------------------------------
+
+     (5) If, before September 9, 2010 (the effective date of this 
+AD) or as a result of performing the repair for cracks following 
+paragraph (f)(2) of this AD, you installed the center splice plate 
+and extended 8-bolt splice blocks, use the following table for 
+compliance times to do the eddy current inspections required in 
+paragraph (f)(1) of this AD. If you find any cracks as a result of 
+any inspection following the compliance times in the following 
+table, you must do the replacement action in paragraph (f)(2)(ii) of 
+this AD:
+
+            Table 2--Eddy Current Inspection Compliance Times
+------------------------------------------------------------------------
+                                                    Repetitively inspect
+                                                        thereafter at
+  Condition of the airplane     Initially inspect     intervals not to
+                                                           exceed
+------------------------------------------------------------------------
+(i) If the airplane has       When the airplane     1,200 hours TIS
+ already had the center        reaches a total of    until the 8,000
+ splice plate and extended     2,400 hours TIS       hours TIS spar
+ 8[dash]bolt splice blocks     after the             replacement time.
+ installed at or after 3,200   modification or
+ hours TIS but the fastener    within the next 100
+ holes have not been cold      days after
+ worked, at any time you may   September 9, 2010
+ cold work the fastener        (the effective date
+ holes to terminate the        of this AD),
+ repetitive inspection         whichever occurs
+ requirements of this          later.
+ paragraph.
+(ii) Before reaching 3,200    When the airplane     1,200 hours TIS.
+ hours TIS, the airplane had   reaches a total of    Upon reaching 4,800
+ the center splice plate and   2,400 hours TIS       hours TIS after the
+ extended 8-bolt splice        after the             modification,
+ blocks already installed      modification or       inspect
+ but the fastener holes have   within the next 100   repetitively
+ not been cold worked.         days after            thereafter at
+                               September 9, 2010     intervals not to
+                               (the effective date   exceed 600 hours
+                               of this AD),          TIS until the 8,000
+                               whichever occurs      hours TIS spar
+                               later.                replacement time.
+(iii) Before reaching 3,200   When the airplane     600 hours TIS until
+ hours TIS, the airplane had   reaches a total of    the 8,000 hours TIS
+ the center splice plate and   4,800 hours TIS       spar replacement
+ extended 8-bolt splice        after the             time.
+ blocks installed and the      modification or
+ fastener holes have been      within the next 100
+ cold worked.                  days after
+                               September 9, 2010
+                               (the effective date
+                               of this AD),
+                               whichever occurs
+                               later.
+------------------------------------------------------------------------
+
+     (g) To address this problem for AT-802 and AT-802A airplanes, 
+SNs -0092 through -0101, you must do the following, unless already 
+done:
+
+                                  Table 3--Actions, Compliance, and Procedures
+----------------------------------------------------------------------------------------------------------------
+               Actions                             Compliance                            Procedures
+----------------------------------------------------------------------------------------------------------------
+(1) Eddy current inspect for cracks   Initially inspect upon accumulating   Follow Snow Engineering Co. Service
+ the center splice joint outboard      1,700 hours TIS or within the next    Letter <greek-i>284, dated October
+ two fastener holes in both the left   50 hours TIS after September 9,       4, 2009; and Snow Engineering Co.
+ and right wing main spar lower        2010 (the effective date of this      Process Specification <greek-i>197,
+ caps.                                 AD), whichever occurs later, and      page 1, revised June 4, 2002; pages
+                                       repetitively thereafter at            2 through 4, dated February 23,
+                                       intervals not to exceed 800 hours     2001; and page 5, dated May 3,
+                                       TIS. If the center splice plate, P/   2002.
+                                       N 20994-2, is installed as           ....................................
+                                       specified in paragraph (g)(4) of
+                                       this AD, do the repetitive
+                                       inspections at intervals not to
+                                       exceed 2,000 hours TIS.
+(2) If you find any cracks as a       Before further flight after the       Follow Snow Engineering Co. Service
+ result of any inspection required     inspection where a crack was found.   Letter <greek-i>284, dated October
+ by paragraph (g)(1) of this AD, do                                          4, 2009; and Snow Engineering Co.
+ the following actions. This repair                                          Process Specification <greek-i>197,
+ modification terminates the                                                 page 1, revised June 4, 2002; pages
+ repetitive inspections required in                                          2 through 4, dated February 23,
+ paragraph (g)(1) of this AD:                                                2001; and page 5, dated May 3,
+(i) For cracks that can be repaired,                                         2002, Snow Engineering Co. Service
+ repair the airplane by doing the                                            Letter <greek-i>281, dated August
+ following actions:                                                          1, 2009; and Snow Engineering Co.
+(A) Install the 9-bolt splice blocks                                         Drawing Number 20995, Sheet 3,
+ and cold-work the lower spar cap                                            dated November 25, 2005.
+ fastener holes;
+
+[[Page 52260]]
+
+ 
+(B) Eddy current inspect for cracks
+ the center splice joint outboard
+ two fastener holes in both the left
+ and right wing main spar lower
+ caps. This eddy current inspection
+ is required as part of the repair
+ and is separate from the
+ inspections required in paragraph
+ (g)(1) of this AD; and
+(C) Install the center splice plate,
+ P/N 20994-2, per paragraph (g)(4)
+ if not already installed.
+(ii) For cracks that cannot be
+ repaired by doing the actions in
+ paragraph (g)(2)(i) of this AD,
+ replace the lower spar caps and
+ associated parts listed following
+ the procedures identified in
+ paragraph (g)(3) of this AD.
+(3) Replace the wing main spar lower   (i) Do the replacement at whichever  Follow Snow Engineering Co. Service
+ caps, the web plates, the center      of the following compliance times     Letter <greek-i>284, dated October
+ joint splice blocks and hardware,     occurs first:                         4, 2009; Snow Engineering Co.
+ and the wing attach angles and       (A) Before further flight when         Service Letter <greek-i>80GG,
+ hardware, and install the steel web   cracks are found that cannot be       revised December 21, 2005; Snow
+ splice plate. This replacement        repaired by incorporating the         Engineering Co. Drawing Number
+ terminates the repetitive             modification in paragraph (g)(2)(i)   20975, Sheet 4, Rev. A, dated
+ inspections required in paragraph     of this AD; or                        January 7, 2009.
+ (g)(1) of this AD.                   (B) Before or when the airplane
+                                       reaches the wing main spar lower
+                                       cap safe life of a total of 4,100
+                                       hours TIS or within the next 50
+                                       hours TIS after September 9, 2010
+                                       (the effective date of this AD),
+                                       whichever occurs later.
+                                      (ii) To extend the initial 4,100
+                                       hours TIS safe life of the wing
+                                       main spar lower cap to a total of
+                                       8,000 hours TIS, you may
+                                       incorporate the optional
+                                       modification specified in paragraph
+                                       (g)(4) of this AD.
+                                      (iii)After replacement of the old
+                                       spar with the new lower spar cap, P/
+                                       N 21118-1/-2, the new spar safe
+                                       life is 11,700 hours TIS.
+(4) To extend the safe life of the    Before the airplane reaches a total   Follow Snow Engineering Co. Service
+ wing main spar lower cap to a total   of 4,100 hours TIS. After             Letter <greek-i>284, dated October
+ of 8,000 hours TIS, you may           installation of the center splice     4, 2009; Snow Engineering Co.
+ incorporate the following optional    plate, P/N 20994-2, do the            Process Specification <greek-i>197,
+ modification:                         repetitive inspections required in    page 1, revised June 4, 2002; pages
+(i) Install center splice plate, P/N   paragraph (g)(1) at intervals not     2 through 4, dated February 23,
+ 20994-2, if not already installed     to exceed 2,000 hours TIS. If as of   2001; and page 5, dated May 3,
+ as part of a repair, and cold-work    September 9, 2010 (the effective      2002; Snow Engineering Co. Drawing
+ the lower spar cap fastener holes;    date of this AD) you have already     Number 20975, Sheet 4, Rev. A.,
+ and                                   exceeded the 4,100 hours TIS          dated January 7, 2009; and Snow
+(ii) Eddy current inspect for cracks   threshold for extending the safe      Engineering Co. Service Letter
+ the center splice joint outboard      life to 8,000 hours TIS, you may be   <greek-i>245, dated April 25, 2005.
+ two fastener holes in both the left   eligible for an alternative method
+ and right wing main spar lower        of compliance following paragraph
+ caps. This eddy current inspection    (m) in this AD.
+ is required as part of the
+ modification and is separate from
+ the inspections required in
+ paragraph (g)(1) of this AD.
+(5) If you find any cracks as a       Before further flight after the       Follow Snow Engineering Co. Service
+ result of any repetitive inspection   inspection where a crack was found.   Letter <greek-i>284, dated October
+ required by paragraph (g)(4) of                                             4, 2009; and Snow Engineering Co.
+ this AD, do the following actions.                                          Process Specification <greek-i>197,
+ This repair modification terminates                                         page 1, revised June 4, 2002; pages
+ the repetitive inspections required                                         2 through 4, dated February 23,
+ in paragraph (g)(4) of this AD:                                             2001; and page 5, dated May 3,
+(i) For cracks that can be repaired,                                         2002, Snow Engineering Co. Service
+ repair the airplane by doing the                                            Letter <greek-i>281, dated August
+ following actions:                                                          1, 2009; and Snow Engineering Co.
+(A) Install the 9-bolt splice blocks                                         Drawing Number 20995, Sheet 3,
+ and cold-work the lower spar cap                                            dated November 25, 2005.
+ fastener holes; and
+
+[[Page 52261]]
+
+ 
+(B) Eddy current inspect for cracks
+ the center splice joint outboard
+ two fastener holes in both the left
+ and right wing main spar lower
+ caps. This eddy current inspection
+ is required as part of the repair
+ and is separate from the
+ inspections required in paragraph
+ (g)(1) of this AD.
+(ii) For cracks that cannot be
+ repaired by doing the actions in
+ paragraph (g)(5)(i) of this AD,
+ replace the lower spar caps and
+ associated parts listed following
+ the procedures identified in
+ paragraph (g)(3) of this AD.
+----------------------------------------------------------------------------------------------------------------
+
+    (h) To address this problem for AT-802 and AT-802A airplanes, 
+SNs -0102 through -0178, you must do the following, unless already 
+done:
+
+                                  Table 4--Actions, Compliance, and Procedures
+----------------------------------------------------------------------------------------------------------------
+               Actions                             Compliance                            Procedures
+----------------------------------------------------------------------------------------------------------------
+(1) Do an initial eddy current        Before the airplane reaches a total   Follow Snow Engineering Co. Process
+ inspection for cracks of the center   of 5,500 hours TIS or within the      Specification <greek-i>197, page 1,
+ splice joint outboard two fastener    next 50 hours TIS after September     revised June 4, 2002; pages 2
+ holes in both the left and right      9, 2010 (the effective date of this   through 4, dated February 23, 2001;
+ wing main spar lower caps. After      AD), whichever occurs later.          and page 5, dated May 3, 2002; Snow
+ this initial inspection, you may do                                         Engineering Co. Service Letter
+ the optional cold-working of the                                            <greek-i>245, dated April 25, 2005;
+ lower spar cap fastener holes to                                            and Snow Engineering Co. Service
+ increase the hours TIS between                                              Letter <greek-i>284, dated October
+ repetitive inspections required in                                          4, 2009.
+ paragraph (h)(2) of this AD.
+(2) Repetitively eddy current          (i) For fastener holes that are      Follow Snow Engineering Co. Process
+ inspect for cracks the center         cold-worked: After the initial        Specification <greek-i>197, page 1,
+ splice joint outboard two fastener    inspection, repetitively thereafter   revised June 4, 2002; pages 2
+ holes in both the left and right      inspect at intervals not to exceed    through 4, dated February 23, 2001;
+ wing main spar lower caps.            2,200 hours TIS.                      and page 5, dated May 3, 2002; Snow
+                                      (ii) For fastener holes not cold-      Engineering Co. Service Letter
+                                       worked: After the initial             <greek-i>284, dated October 4,
+                                       inspection, repetitively thereafter   2009; and (optional) Snow
+                                       inspect at intervals not to exceed    Engineering Co. Service Letter
+                                       1,100 hours TIS.                      <greek-i>245, dated April 25, 2005.
+(3) If you find any cracks as a       Before further flight after the       Follow Snow Engineering Co. Service
+ result of any inspection required     inspection where a crack was found.   Letter <greek-i>281, dated August
+ by paragraphs (h)(1) and (h)(2) of                                          1, 2009; and Snow Engineering Co.
+ this AD, do the following actions.                                          Drawing Number 20995, Sheet 3,
+ This modification terminates the                                            dated November 25, 2005.
+ repetitive inspections required in
+ paragraph (h)(1) and (h)(2) of this
+ AD:
+(i) For cracks that can be repaired,
+ repair the airplane by doing the
+ following actions:
+(A) Install the 9-bolt splice blocks
+ and cold-work the lower spar cap
+ fastener holes; and
+(B) Eddy current inspect for cracks
+ the center splice joint outboard
+ two fastener holes in both the left
+ and right wing main spar lower
+ caps. This eddy current inspection
+ is required as part of the repair
+ and is separate from the
+ inspections required in paragraphs
+ (h)(1) and (h)(2) of this AD.
+(ii) For cracks that cannot be
+ repaired by doing the actions in
+ paragraph (h)(3)(i) of this AD,
+ replace the lower spar caps and
+ associated parts listed following
+ the procedures in paragraph (h)(4)
+ of this AD.
+
+[[Page 52262]]
+
+ 
+(4) Replace the wing main spar lower  (i) Do the replacement at whichever   Follow Snow Engineering Co. Service
+ caps, the web plates, the center      of the following compliance times     Letter <greek-i>284, dated October
+ joint splice blocks and hardware,     occurs first:                         4, 2009; Snow Engineering Co.
+ and the wing attach angles and       (A) Before further flight when         Service Letter <greek-i>80GG,
+ hardware, and install the steel web   cracks are found that cannot be       revised December 21, 2005; Snow
+ splice plate. This replacement        repaired by incorporating the         Engineering Co. Drawing Number
+ terminates the repetitive             repair in paragraph (h)(3)(i) of      20975, Sheet 4, Rev. A, dated
+ inspections required in paragraphs    this AD; or                           January 7, 2009.
+ (h)(1) and (h)(2) of this AD.        (B) Before or when the airplane
+                                       reaches the wing main spar lower
+                                       cap safe life of a total of 8,000
+                                       hours TIS or within the next 50
+                                       hours TIS after September 9, 2010
+                                       (the effective date of this AD),
+                                       whichever occurs later.
+                                         (ii) After this replacement the
+                                          new spar safe life is 11,700
+                                          hours TIS.
+----------------------------------------------------------------------------------------------------------------
+
+    (i) To address this problem for AT-802 and AT-802A airplanes, 
+SNs -0179 through -0269, you must do the following, unless already 
+done:
+
+                                  Table 5--Actions, Compliance, and Procedures
+----------------------------------------------------------------------------------------------------------------
+               Actions                             Compliance                            Procedures
+----------------------------------------------------------------------------------------------------------------
+Replace the wing main spar lower      By the 8,000 hours TIS safe-life or   Follow Snow Engineering Co. Service
+ caps, the web plates, the center      within the next 50 hours TIS after    Letter <greek-i>284, dated October
+ joint splice blocks and hardware,     September 9, 2010 (the effective      4, 2009; Snow Engineering Co.
+ and the wing attach angles and        date of this AD), whichever occurs    Service Letter <greek-i>80GG,
+ hardware, and install the steel web   later. After this replacement the     revised December 21, 2005; Snow
+ splice plate.                         subsequent new spar safe life is      Engineering Co. Drawing Number
+                                       11,700 hours TIS.                     20975, Sheet 4, Rev. A, dated
+                                                                             January 7, 2009.
+----------------------------------------------------------------------------------------------------------------
+
+    (j) To address this problem for AT-802 and AT-802A airplanes, 
+SNs -0270 and subsequent, you must do the following, unless already 
+done:
+
+                                  Table 6--Actions, Compliance, and Procedures
+----------------------------------------------------------------------------------------------------------------
+               Actions                             Compliance                            Procedures
+----------------------------------------------------------------------------------------------------------------
+Replace the wing main spar lower      By the 11,700 hours TIS safe-life or  Follow Snow Engineering Co. Service
+ caps, the web plates, the center      within the next 50 hours TIS after    Letter <greek-i>284, dated October
+ joint splice blocks and hardware,     September 9, 2010 (the effective      4, 2009; Snow Engineering Co.
+ and the wing attach angles and        date of this AD), whichever occurs    Service Letter <greek-i>80GG,
+ hardware, and install the steel web   later. After this replacement the     revised December 21, 2005; Snow
+ splice plate.                         subsequent new spar safe life is      Engineering Co. Drawing Number
+                                       11,700 hours TIS.                     20975, Sheet 4, Rev. A, dated
+                                                                             January 7, 2009.
+----------------------------------------------------------------------------------------------------------------
+
+     (k) Report any crack from any inspection required in paragraphs 
+(f), (g), or (h) of this AD within 10 days after the cracks are 
+found on the form in Figure 1 of this AD.
+    (1) Send your report to Andrew McAnaul, Aerospace Engineer, ASW-
+150 (c/o MIDO-43), 10100 Reunion Place, Suite 650, San Antonio, 
+Texas 78216; telephone: (210) 308-3365; facsimile: (210) 308-3370.
+    (2) The Office of Management and Budget (OMB) approved the 
+information collection requirements contained in this regulation 
+under the provisions of the Paperwork Reduction Act and assigned OMB 
+Control Number 2120-0056.
+
+Special Permit Flight
+
+    (l) Under 14 CFR part 39.23, we are allowing special flight 
+permits for the purpose of compliance with this AD under the 
+following conditions:
+    (1) Only operate in day visual flight rules (VFR).
+    (2) Ensure that the hopper is empty.
+    (3) Limit airspeed to 135 miles per hour (mph) indicated 
+airspeed (IAS).
+    (4) Avoid any unnecessary g-forces.
+    (5) Avoid areas of turbulence.
+    (6) Plan the flight to follow the most direct route.
+
+                     AD 2010-17-18 INSPECTION REPORT
+                    [REPORT ONLY IF CRACKS ARE FOUND]
+------------------------------------------------------------------------
+ 
+------------------------------------------------------------------------
+                           General Information
+------------------------------------------------------------------------
+1. Inspection Performed By:          2. Phone:
+------------------------------------------------------------------------
+3. Aircraft Model:                   4. Aircraft Serial Number:
+------------------------------------------------------------------------
+5. Engine Model Number:              6. Aircraft Total Hours TIS:
+------------------------------------------------------------------------
+
+[[Page 52263]]
+
+ 
+7. Wing Total Hours TIS:             8. Lower Spar Cap Hours TIS:
+------------------------------------------------------------------------
+                   Previous Inspection/Repair History
+------------------------------------------------------------------------
+9. Has the lower spar cap been       If yes, an inspection has occurred:
+ inspected (eddy[dash]current, dye   Date:------------------------
+ penetrant, magnetic particle, or    Inspection Method:------------
+ ultrasound) before?                 Lower Spar Cap TIS:------------
+[squ] Yes [squ] No                   Cracks found? [squ] Yes [squ] No
+------------------------------------------------------------------------
+10. Has there been any major repair  If yes, specify (Description and
+ or alteration performed to the       hours TIS):
+ spar cap?
+[squ] Yes [squ] No
+------------------------------------------------------------------------
+                      Inspection for AD 2010-17-18
+------------------------------------------------------------------------
+11. Date of AD inspection:           11a. Cracks found:
+    Inspection Results:              [squ] Left Hand [squ] Right Hand
+------------------------------------------------------------------------
+11b. Crack Length:------------       11c. Does drilling hole to next
+                                      larger size remove all traces of
+                                      the crack(s)?
+    Location:------------            [squ] Yes [squ] No
+------------------------------------------------------------------------
+12d. Corrective Action Taken:
+------------------------------------------------------------------------
+Mail report (only if you find any cracks as a result of the inspection
+  for AD 2010-17-18) to: Andrew McAnaul, Aerospace Engineer, ASW-150 (c/
+  o MIDO-43), 10100 Reunion Place, Suite 650, San Antonio, Texas 78216;
+  telephone: (210) 308-3365; facsimile: (210) 308-3370.
+Figure 1
+
+Alternative Methods of Compliance (AMOCs)
+
+    (m) The Manager, Fort Worth Airplane Certification Office, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. Send information to ATTN: Andy 
+McAnaul, Aerospace Engineer, ASW-150, FAA San Antonio MIDO-43, 10100 
+Reunion Pl., Ste. 650, San Antonio, Texas 78216, phone: (210) 308-
+3365, fax: (210) 308-3370. Before using any approved AMOC on any 
+airplane to which the AMOC applies, notify your appropriate 
+principal inspector (PI) in the FAA Flight Standards District Office 
+(FSDO), or lacking a PI, your local FSDO.
+    (n) AMOCs approved for AD 2010-13-08 are not approved for this 
+AD.
+
+Material Incorporated by Reference
+
+    (o) You must use Snow Engineering Co. Service Letter 
+<greek-i>80GG, revised December 21, 2005; Snow Engineering Co. 
+Service Letter <greek-i>284, dated October 4, 2009; Snow Engineering 
+Co. Service Letter <greek-i>281, dated August 1, 2009; Snow 
+Engineering Co. Service Letter <greek-i>245, dated April 25, 2005; 
+Snow Engineering Co. Service Letter <greek-i>240, dated September 
+30, 2004; Snow Engineering Co. Process Specification <greek-i>197, 
+page 1, revised June 4, 2002; pages 2 through 4, dated February 23, 
+2001; and page 5, dated May 3, 2002; Snow Engineering Co. Drawing 
+Number 20995, Sheet 3, dated November 25, 2005; Snow Engineering Co. 
+Drawing Number 20995, Sheet 2, Rev. D., dated November 25, 2005; and 
+Snow Engineering Co. Drawing Number 20975, Sheet 4, Rev. A., dated 
+January 7, 2009, to do the actions required by this AD, unless the 
+AD specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of Snow Engineering Co. Service Letter 
+<greek-i>80GG, revised December 21, 2005; Snow Engineering Co. 
+Service Letter <greek-i>284, dated October 4, 2009; Snow Engineering 
+Co. Service Letter <greek-i>281, dated August 1, 2009; Snow 
+Engineering Co. Service Letter <greek-i>245, dated April 25, 2005; 
+Snow Engineering Co. Drawing Number 20995, Sheet 3, dated November 
+25, 2005; Snow Engineering Co. Drawing Number 20995, Sheet 2, Rev. 
+D., dated November 25, 2005; and Snow Engineering Co. Drawing Number 
+20975, Sheet 4, Rev. A., dated January 7, 2009, under 5 U.S.C. 
+552(a) and 1 CFR part 51.
+    (2) On April 21, 2006 (71 FR 19994, April 19, 2006), the 
+Director of the Federal Register approved the incorporation by 
+reference of Snow Engineering Co. Service Letter <greek-i>240, dated 
+September 30, 2004; and Snow Engineering Co. Process Specification 
+<greek-i>197, page 1, revised June 4, 2002; pages 2 through 4, dated 
+February 23, 2001; and page 5, dated May 3, 2002.
+    (3) For service information identified in this AD, contact Air 
+Tractor, Inc., P.O. Box 485, Olney, Texas 76374; telephone: (940) 
+564-5616; fax: (940) 564-5612; E-mail: <a href="/cdn-cgi/l/email-protection#eb8a8299868a8287ab8a82999f998a889f8499c5888486"><span class="__cf_email__" data-cfemail="47262e352a262e2b07262e35333526243328356924282a">[email&#160;protected]</span></a>; 
+Internet: <a href="http://www.airtractor.com">http://www.airtractor.com</a>.
+    (4) You may review copies of the service information 
+incorporated by reference for this AD at the FAA, Central Region, 
+Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 
+64106. For information on the availability of this material at the 
+Central Region, call (816) 329-3768.
+    (5) You may also review copies of the service information 
+incorporated by reference for this AD at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Kansas City, Missouri on August 11, 2010.
+John Colomy,
+Acting Manager, Small Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2010-20555 Filed 8-24-10; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "E8-21125": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Because of metallurgical analysis results of the fatigue cracks in the aluminum alloy cylinder heads, and also the history of the head separation hours-in-service, the probability of a head separation is greater with the subject cylinder assemblies running past the time-between-overhaul time.",
+     "value": "aluminum alloy"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent loss of engine power due to cracks at the head-to-barrel interface in the cylinder assemblies and possible engine failure caused by separation of a cylinder head, which could result in loss of control of the aircraft.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD requires initial and repetitive visual inspections and compression tests to detect cracks at the head-to-barrel interface, replacement of cylinder assemblies found cracked, and replacement of certain cylinder assemblies, at new reduced times-in-service.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Because of metallurgical analysis results of the fatigue cracks in the aluminum alloy cylinder heads, and also the history of the head separation hours-in-service, the probability of a head separation is greater with the subject cylinder assemblies running past the time-between-overhaul time.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires initial and repetitive visual inspections and compression tests to detect cracks at the head-to-barrel interface, replacement of cylinder assemblies found cracked, and replacement of certain cylinder assemblies, at new reduced times-in-service. ... (o) Repair or replace the engine cylinder assembly before further flight if the cause of the low gauge reading in paragraph (m) of this AD is from leaking intake or exhaust valves, or from leaking piston rings.",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "E8-4674": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD also requires eventual replacement of any existing aluminum support fitting on each wing with a steel fitting, and modification of the aft attachment of the actuator.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking due to fatigue and stress corrosion of the support fittings of the Krueger flap actuator.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent cracking of the support fittings, which could result in fracturing of the actuator attach lugs, separation of the actuator from the support fitting, severing of the hydraulic lines, resultant loss of hydraulic fluids, and consequent reduced controllability of the airplane.",
+     "value": "lug"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking due to fatigue and stress corrosion of the support fittings of the Krueger flap actuator.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections to detect cracking of the support fittings of the Krueger flap actuators, and corrective actions if necessary. This AD also requires eventual replacement of any existing aluminum support fitting on each wing with a steel fitting, and modification of the aft attachment of the actuator.",
+     "value": "repetitive_inspection;replacement;modification"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "E8-9058": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "(1) Models AT-300, AT-301, AT-302, and AT-400A airplanes, all serial numbers, that have aluminum spar caps;",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to prevent fatigue cracks from occurring in the wing lower spar cap before the established safe life is reached.",
+     "value": "wing_spar"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "eddy-current inspect the left and right wing spar lower cap outboard holes for cracks",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Fatigue cracks in the wing lower spar cap, if not detected and corrected, could result in failure of the spar cap and lead to wing separation and loss of control.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Consequently, this AD retains the wing spar lower cap replacement and reporting requirements from AD 2003-06-01 and adds a repetitive eddy-current inspection.",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) This AD supersedes AD 2003-06-01, Amendment 39-13088.",
+     "value": "AD 2003-06-01, Amendment 39-13088"
+    }
+   ]
+  },
+  "E8-970": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "Some taperlocks used in the wing-to-fuselage junction at rib 1 were found to be non-compliant with the applicable specification, resulting in a loss of pre-tension in the fasteners.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Some taperlocks used in the wing-to-fuselage junction at rib 1 were found to be non-compliant with the applicable specification, resulting in a loss of pre-tension in the fasteners.",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Some taperlocks used in the wing-to-fuselage junction at rib 1 were found to be non-compliant with the applicable specification, resulting in a loss of pre-tension in the fasteners. In such conditions, the structural integrity of the aircraft could be affected.",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This Airworthiness Directive mandates a repetitive internal inspection of the lower stiffeners, and a repetitive external inspection of the lower panels in center and outer wing box at level of rib 1 junction. ... The corrective action includes contacting Airbus for repair instructions and repair if any crack is found.",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "E9-17122": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Accomplishment of the replacement of the stainless steel chafing plates with new chafing plates made of aluminum alloy, in accordance with Airbus Service Bulletin A310-53-2070, Revision 02, dated November 8, 2000; or the original issue, dated October 3, 1994; constitutes terminating action for the repetitive inspections required by paragraph (f) of this AD.",
+     "value": "stainless steel"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "That AD currently requires repetitive inspections of the fuselage skin to detect corrosion or fatigue cracking around and under the chafing plates of the wing root; repetitive inspections for fatigue cracking of frame 39, stringer 35; and corrective actions if necessary.",
+     "value": "fuselage_skin"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "That AD currently requires repetitive inspections of the fuselage skin to detect corrosion or fatigue cracking around and under the chafing plates of the wing root; repetitive inspections for fatigue cracking of frame 39, stringer 35; and corrective actions if necessary.",
+     "value": "skin_panel"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct fatigue cracks and corrosion around and under the chafing plates of the wing root, which could result in reduced structural integrity of the airplane.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "That AD currently requires repetitive inspections of the fuselage skin to detect corrosion or fatigue cracking around and under the chafing plates of the wing root; repetitive inspections for fatigue cracking of frame 39, stringer 35; and corrective actions if necessary. ... Prior to further flight, repair in accordance with a method approved by the Manager, International Branch, ANM-116, FAA, Transport Airplane Directorate.",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) This AD supersedes AD 2004-14-06.",
+     "value": "AD 2004-14-06"
+    }
+   ]
+  },
+  "E9-18220": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The proposed AD does state that the cylinder assemblies have an investment cast aluminum head.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracks in the area of the exhaust valve and separation of cylinder heads from the barrels of SAP cylinder assemblies with certain part numbers.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracks in the area of the exhaust valve and separation of cylinder heads from the barrels of SAP cylinder assemblies with certain part numbers.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Because the cylinder assemblies failed with a separation condition from propagation of metal fatigue cracks, we determined that this failure condition is a direct safety hazard to the airplane.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires initial and repetitive inspections and compression tests to detect cracks in those cylinders with more than 750 flight hours (FH) time-in-service (TIS). ... replace the SAP cylinder head assembly at the first TBO after the effective date of this AD.",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "value": "none"
+    }
+   ]
+  }
+ }
+}

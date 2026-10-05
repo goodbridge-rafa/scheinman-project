@@ -1,0 +1,377 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 140 (Monday, July 22, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 140 (Monday, July 22, 2024)]
+[Rules and Regulations]
+[Pages 58962-58964]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-16012]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-1891; Project Identifier AD-2023-00612-R; 
+Amendment 39-22774; AD 2024-12-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Centerpointe Aerospace Inc. Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Centerpointe Aerospace Inc. (Centerpointe) Model S-58BT, S-58DT, S-
+58ET, S-58FT, S-58HT, and S-58JT helicopters. This AD was prompted by 
+an indication of a crack on the angle gearbox mount (AGBM). This AD 
+requires repetitively performing a fluorescent penetrant inspection 
+(FPI) of the AGBM at specified time intervals and, depending on the 
+results, removing the AGBM from service. The FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+DATES: This AD is effective August 26, 2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of August 26, 
+2024.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2023-1891; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For Centerpointe Aerospace service information identified 
+in this AD, contact Centerpointe Aerospace Inc., 279 Blackland Road, 
+Fate, TX 75189; phone: (972) 636-9601; email: 
+<a href="/cdn-cgi/l/email-protection#5e112e3b2c3f2a3731302d1e3f28302c3b2d312b2c3d3b2d703d3133"><span class="__cf_email__" data-cfemail="1f506f7a6d7e6b7670716c5f7e69716d7a6c706a6d7c7a6c317c7072">[email&#160;protected]</span></a>; website: <a href="http://californiahelicopter.com">californiahelicopter.com</a>.
+    <bullet> You may view this service information at the FAA, Regional 
+Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, Fort 
+Worth, TX 76177. For information on the availability of this material 
+at the FAA, call (817) 222-5110. It is also available at 
+<a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2023-1891.
+
+FOR FURTHER INFORMATION CONTACT: Jacob Fitch, Aviation Safety Engineer, 
+FAA, 10101 Hillwood Pkwy., Fort Worth, TX 76177; phone: (817) 222-4130; 
+email: <a href="/cdn-cgi/l/email-protection#89e3e8eae6eba7efe0fdeae1c9efe8e8a7eee6ff"><span class="__cf_email__" data-cfemail="3c565d5f535e125a55485f547c5a5d5d125b534a">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Centerpointe Model 
+S-58BT, S-58DT,
+    S-58ET, S-58FT, S-58HT, and S-58JT helicopters. The NPRM published 
+in the Federal Register on October 3, 2023 (88 FR 68002). The NPRM was 
+prompted by fatigue cracking that was found on a Model S-58BT 
+helicopter during a preflight inspection. The fatigue cracking was 
+found in the angle supports and cross-members forming the edges of the 
+AGBM. Due to their similarity to the Model S-58BT helicopter, the FAA 
+determined that Centerpointe Model S-58DT, S-58ET, S-58FT, S-58HT, and 
+S-58JT helicopters are also affected by the same unsafe condition. In 
+the NPRM, the FAA proposed to require repetitive FPIs of the AGBM for a 
+crack. The FAA is issuing this AD to address the unsafe condition on 
+these products.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from one commenter, Midwest Helicopter 
+Airways, Inc. (Midwest). Midwest disagrees with the FAA's determination 
+of the unsafe condition in the proposed AD and opines that a 
+supplemental enhanced visual inspection in addition to inspections 
+performed on the AGBM during routine maintenance is sufficient. The 
+following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Request To Change the Unsafe Condition
+
+    Midwest stated its opinion that the root cause for the failure of 
+the AGBM structural member was not a result of fatigue cracking, but 
+was due to improper installation, routing, or securing of an electrical 
+wire. Midwest submitted photos sent from a
+
+[[Page 58963]]
+
+representative of Centerpointe Aerospace to current S-58T operators 
+that show abrasions in several locations on the failed angle support 
+structure. According to Midwest, these abrasion marks look to be the 
+result of a wire shown in the photos not properly routed or secured, 
+that began to wear into the structural member. Several abrasions can be 
+seen in the photo just above the crack with a larger abrasion being 
+directly at the crack of the structure. Midwest stated that the chafing 
+marks shown in the photos indicate improper installation, routing, or 
+securing of an electrical wire and other damage from unsecured wiring 
+and advises that wire installation requirements regarding chafing on 
+the airframe are specified in the Acceptable Methods, Techniques, and 
+Practices Aircraft Inspection and Repair, FAA Advisory Circular 43.13-
+1B Chg. I, Chapter 11, Section 8, Paragraph 11.96(q), which states: 
+``Ensure that wires and cables are routed in such a manner that chafing 
+will not occur against the airframe or other components.''
+    The FAA disagrees with the comments regarding the cause of the 
+unsafe condition as evidence shows that fatigue and not chafing is the 
+root cause of the crack found on the AGBM. Additionally, there are 
+other likely crack initiation points in the structure of the cracked 
+AGBM leg that can be seen in other photos. The FAA did not change this 
+AD as a result of this comment.
+
+Comment Regarding Compliance With the Service Information
+
+    Midwest's second comment pertains to compliance with the proposed 
+AD to perform the procedures specified in Centerpointe Aerospace 
+Service Bulletin No. 58B75, dated April 26, 2023 (SB58B75). Midwest 
+states that the proposed AD would require specific procedures to be 
+performed which are outlined in SB58B75; that compliance with the SB 
+would require replacement of the AGBM assembly, if the affected part is 
+cracked; and that replacing the AGBM would remove privileges the 
+maintenance organization and technicians have under their 
+certifications and repair abilities. Midwest further states that 
+SB58B75 does not provide guidance with regards to blending of material, 
+removal of corrosion, or limitations for repair of the AGBM. 
+Additionally, Midwest states that SB58B75 requires a qualified engineer 
+to provide guidance, without explanation of what qualifications must be 
+obtained to determine airworthiness. Midwest then states that SB58B75 
+does not address preparation of the structure for the inspection to be 
+completed and that this would potentially cause delays in service and 
+additional costs to operators. Instead of compliance with SB58B75, 
+Midwest suggests thoroughly cleaning and conducting a visual inspection 
+for damage to the mounting structure including gouges, dents, 
+deformity, chafing, loose fasteners, and corrosion. If gouging or 
+chafing, caused by plumbing or wiring, are evident, Midwest suggests 
+taking action to remove or reposition the cause of the discrepancy and 
+evaluate the discrepancy of the mount for limitations of wear. In 
+addition, Midwest suggests an enhanced visual inspection using a 10-
+power magnification device and a bright light to identify potential 
+cracks; primarily inspecting the areas around the fastener holes and 
+attaching hardware. Subsequently, if this visual or enhanced inspection 
+results in a suspected crack, Midwest suggests verifying using an FPI, 
+as specified in SB58B75. Additionally, Midwest states based on the 
+historical data of the S-58T helicopters, that the AGBM is a durable 
+structure, and this unsafe condition is unlikely to exist or develop on 
+any S-58T or similar model helicopter.
+    The FAA would like to clarify that this AD refers to SB58B75 for 
+the locations of the eight inspection areas only. The AD requires 
+performing an FPI of the areas shown in figures in SB58B75 by a Level 
+II or Level III inspector certified in the FAA-acceptable standards for 
+nondestructive inspection personnel; it is understood that the 
+accomplishment of the FPI must be done with acceptable procedures. An 
+alternative method of compliance (AMOC) under the provisions of 
+paragraph (h) of this AD may be requested. The FAA did not change this 
+AD as a result of this comment.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, this 
+AD is adopted as proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed SB58B75, which specifies procedures for 
+repetitively performing an FPI and reporting the results to the 
+manufacturer. This service information is reasonably available because 
+the interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Differences Between This AD and the Service Information
+
+    Where the service information specifies that the initial FPI be 
+performed within 120 days after receipt of the service information, 
+this AD requires the initial FPI to be performed within 250 hours time-
+in-service. The service information specifies reporting the results of 
+the FPI to the manufacturer, whereas this AD does not.
+    Where the service information requires compliance with the 
+Procedures in the Accomplishment Instructions specified in the service 
+bulletin, this AD requires accomplishing the Required Actions specified 
+in paragraph (g) of this AD using standard procedures and Figures 1A 
+and 1B of the Accomplishment Instructions of the service bulletin.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 14 helicopters of U.S. 
+registry. Labor rates are estimated at $85 per work-hour. Based on 
+these numbers, the FAA estimates the following costs to comply with 
+this AD.
+    Performing an FPI of the AGBM takes about 5 work-hours and parts 
+cost $150 for an estimated cost of $575 per helicopter, and $8,050 for 
+the U.S. fleet, per inspection cycle.
+    If necessary, replacing an AGBM takes about 41 work-hours and parts 
+cost are approximately $30,000, for an estimated cost of $33,485 per 
+helicopter.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+[[Page 58964]]
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2024-12-10 Centerpointe Aerospace Inc.: Amendment 39-22774; Docket 
+No. FAA-2023-1891; Project Identifier AD-2023-00612-R.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 26, 2024.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Centerpointe Aerospace Inc. Model S-58BT, 
+S-58DT, S-58ET, S-58FT, S-58HT, and S-58JT helicopters, certificated 
+in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code: 6300, Main Rotor 
+Drive System.
+
+(e) Unsafe Condition
+
+    This AD was prompted by the discovery of a fatigue crack on the 
+angle gearbox mount (AGBM). The FAA is issuing this AD to detect 
+fatigue cracking of the AGBM. The unsafe condition, if not 
+addressed, could lead to loss of the angle gearbox, resulting in 
+loss of main rotor drive and subsequent loss of control of the 
+helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within 250 hours time-in-service (TIS) after the effective 
+date of this AD, and thereafter at intervals not to exceed 250 hours 
+TIS, perform a fluorescent penetrant inspection (FPI) to inspect for 
+any crack on the AGBM in the eight areas depicted in the 
+Accomplishment Instructions, Figures 1A and 1B, of Centerpointe 
+Aerospace Service Bulletin No. 58B75, dated April 26, 2023. This FPI 
+must be accomplished by a Level II or Level III inspector certified 
+in the FAA-acceptable standards for nondestructive inspection 
+personnel.
+    (2) If there is any crack, before further flight, remove the 
+AGBM from service.
+
+(h) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Central Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the certification office, send it to the 
+attention of the person identified in paragraph (i) of this AD and 
+email to: <a href="/cdn-cgi/l/email-protection#77363a38343711161659101801"><span class="__cf_email__" data-cfemail="6d2c20222e2d0b0c0c430a021b">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(i) Additional Information
+
+    For more information about this AD, contact Jacob Fitch, 
+Aviation Safety Engineer, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 
+76177; phone: (817) 222-4130; email: <a href="/cdn-cgi/l/email-protection#b6dcd7d5d9d498d0dfc2d5def6d0d7d798d1d9c0"><span class="__cf_email__" data-cfemail="9df7fcfef2ffb3fbf4e9fef5ddfbfcfcb3faf2eb">[email&#160;protected]</span></a>.
+
+(j) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Centerpointe Aerospace Service Bulletin No. 58B75, dated 
+April 26, 2023.
+    (ii) [Reserved]
+    (3) For Centerpointe Aerospace service information identified in 
+this AD, contact Centerpointe Aerospace Inc., 279 Blackland Road, 
+Fate, TX 75189; phone: (972) 636-9601; email: 
+<a href="/cdn-cgi/l/email-protection#8bc4fbeef9eaffe2e4e5f8cbeafde5f9eef8e4fef9e8eef8a5e8e4e6"><span class="__cf_email__" data-cfemail="723d02170013061b1d1c013213041c0017011d07001117015c111d1f">[email&#160;protected]</span></a>; website: <a href="http://californiahelicopter.com">californiahelicopter.com</a>.
+    (4) You may view this service information at the FAA, Office of 
+the Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 
+6N-321, Fort Worth, TX 76177. For information on the availability of 
+this material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a> or email <a href="/cdn-cgi/l/email-protection#4127336f282f3231242235282e2f012f2033206f262e37"><span class="__cf_email__" data-cfemail="7e180c5017100d0e1b1d0a1711103e101f0c1f50191108">[email&#160;protected]</span></a>.
+
+    Issued on July 16, 2024.
+James D. Foltz,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-16012 Filed 7-19-24; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

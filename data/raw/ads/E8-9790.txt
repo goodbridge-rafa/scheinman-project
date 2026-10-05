@@ -1,0 +1,662 @@
+<html>
+<head>
+<title>Federal Register, Volume 73 Issue 88 (Tuesday, May 6, 2008)</title>
+</head>
+<body><pre>
+[Federal Register Volume 73, Number 88 (Tuesday, May 6, 2008)]
+[Rules and Regulations]
+[Pages 24858-24864]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E8-9790]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2008-0490; Directorate Identifier 2008-SW-26-AD; 
+Amendment 39-15509; AD 2008-10-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bell Helicopter Textron Model 204B, 
+205A, 205A-1, 205B, 210, 212, 412, 412CF, and 412EP Helicopters
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD) for 
+the specified Bell Helicopter Textron (Bell) model helicopters. This 
+action requires certain checks and inspections of each tail rotor blade 
+assembly (T/R blade) at specified intervals and repairing or replacing, 
+as applicable, any unairworthy T/R blade. This amendment is prompted by 
+three failures of a T/R blade occurring during flight and a recent 
+incident of a cracked T/R blade discovered during a scheduled visual 
+inspection. The actions specified in this AD are intended to detect 
+damage to a T/R blade that could lead to cracking of a T/R blade and 
+subsequent loss of control of the helicopter.
+
+DATES: Effective May 21, 2008.
+    Comments for inclusion in the Rules Docket must be received on or 
+before July 7, 2008.
+
+ADDRESSES: Use one of the following addresses to submit comments on 
+this AD:
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the instructions for submitting comments.
+    <bullet> Fax: 202-493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC 20590.
+    <bullet> Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC 20590, between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays.
+    You may get the service information identified in this AD from Bell 
+Helicopter Textron, Inc., P.O. Box 482, Fort Worth, Texas 76101, 
+telephone (817) 280-3391, fax (817) 280-6466.
+    Examining the Docket: You may examine the docket that contains the
+
+[[Page 24859]]
+
+AD, any comments, and other information on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>, or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The Docket Operations office (telephone (800) 647-5527) is 
+located in Room W12-140 on the ground floor of the West Building at the 
+street address stated in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Michael Kohner, Aviation Safety 
+Engineer, FAA, Rotorcraft Directorate, Rotorcraft Certification Office, 
+Fort Worth, Texas 76193-0170, telephone (817) 222-5447, fax (817) 222-
+5783.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend 14 CFR part 39 to 
+include an AD for the specified model helicopters was published in the 
+Federal Register as Docket No. FAA-2006-26219, Directorate Identifier 
+2004-SW-49-AD on November 2, 2006 (71 FR 64484). That Notice of 
+Proposed Rulemaking (NPRM) was prompted by eight reports of fatigue 
+cracking of T/R blades installed on Bell Model 212 and 412 helicopters 
+(three failures on the Bell Model 212 and five failures on the Bell 
+Model 412) with a blade assembly, part number (P/N) 212-010-750-009, -
+105, and -107. Six of the cracks initiated between blade stations 30 to 
+33.5; one crack initiated at blade station 21.9; and one crack 
+initiated at blade station 27.6. Three of these T/R blades failed 
+during flight and all were installed on Bell Model 412 series 
+helicopters. In one of the in-flight failures, the T/R blade failed due 
+to a fatigue crack that initiated in the blade skin from a nick .060 
+inches long by .008 inches deep. The initial damage was above the 
+maximum allowable damage limit for the blade skin provided in the 
+maintenance manual. That failed blade had accumulated 1,478 hours time-
+in-service (TIS). In another in-flight failure, a section of the T/R 
+blade separated from the helicopter during cruise flight at 5,500 feet. 
+The helicopter was reported to have violently turned down and to the 
+left. The helicopter ``leveled out'' at approximately 1,000 feet before 
+setting down in the water. The blade failed due to a cracked stainless 
+steel leading edge spar that originated from a corrosion pit .001 
+inches deep. The corrosion area extended .003 inches along the surface 
+of the origin location. That blade had accumulated 4,643 hours TIS. In 
+the third in-flight failure, sanding on the spar and chem-milling was 
+found during a post-accident investigation. The crack had initiated at 
+blade station 21.9 and the blade had accumulated 1,232 hours TIS. Also, 
+the following blades were found cracked:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                 Blade        Crack
+                Model                     Year     P/N 212-010-   Hours TIS     station       length      Initial damage part      Initial damage size
+                                                       750-                      (in.)        (in.)             and type
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+212.................................         1973          -009        3,224         32.2          6.5  Skin--Corrosion........  .030 in. wide.
+212.................................         1985          -009          279         31.5         13.0  Spar--Manufacturing      .090 in. wide.
+                                                                                                         Notch.
+212.................................         1991          -105          423         30.8          8.0  Skin--Non Sharp Dent...  .75 in. long.
+412.................................         1990          -009        3,876         27.6          8.0  Skin--Corrosion........  Unknown.
+412.................................         1996          -105        1,235         30.0          8.3  Skin--Scratch..........  .45 in. long by .005
+                                                                                                                                  in. deep.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    The NPRM proposed to require the following interim actions until 
+either a more rigorous inspection is developed or a new blade that is 
+more damage tolerant is designed:
+    <bullet> Before each start of the engines, visually checking each 
+T/R blade for a crack;
+    <bullet> Within 25 hours TIS or 15 days, whichever occurs first, 
+and thereafter at intervals not to exceed 25 hours TIS or 15 days, 
+whichever occurs first, cleaning and visually inspecting each T/R blade 
+for a crack, corrosion, nick, scratch, or dent using a 3-power or 
+higher magnifying glass and a bright light;
+    <bullet> If certain damage is found, inspecting for a crack or 
+corrosion using a 10-power or higher magnifying glass and measuring the 
+depth of any damage; and
+    <bullet> Before further flight, replacing any cracked T/R blade and 
+repairing or replacing any otherwise unairworthy T/R blade.
+    Since the issuance of that NPRM, we were notified that a crack was 
+found on another T/R blade, P/N 212-010-750-105 FM, installed on a Bell 
+Model 412EP helicopter. The crack was discovered while the helicopter 
+was on the ground during a scheduled visual inspection. The T/R blade 
+is now being examined at the manufacturer's field investigation lab. 
+The crack is located approximately in the center of the TR blade span 
+and extends across the majority of the chord. The T/R blade had 
+accumulated 2,076 hours TIS. Because P/N 212-010-750-105 FM was not 
+included in the applicability of the NPRM, and because a crack growth 
+analysis using the striation count data from one of the failed T/R 
+blades predicted a crack propagation rate of approximately 77 hours TIS 
+from damage initiation to blade failure, we will withdraw that NPRM and 
+issue this AD as a Final rule; request for comments. This AD contains 
+the proposed requirements from the NPRM; however, we've included 
+additional P/Ned blades and made other changes based on the comments to 
+the NPRM. In response to the NPRM we received several comments from 4 
+commenters; the manufacturer, the Canadian National Defence 
+Headquarters, and 2 individuals.
+    Two commenters suggest changing the compliance time for the 
+proposed actions. One of the commenters suggests changing the proposed 
+initial inspection from 25 hours TIS or 15 days to 25 hours TIS or 30 
+days and changing the recurring inspection from 25 hours TIS or 15 days 
+to 25 hours TIS or 30 days. The other commenter believes that a visual 
+inspection before the first flight of each day would be adequate and 
+that a limit of 10 hours between visual inspections in any one day 
+could be added. The same commenter states that it is not always 
+practical (e.g. carrying a suitable safe ladder for conducting an 
+adequate inspection and carry passengers) and might also be hazardous 
+(e.g. doing an inspection from an offshore oil field platform where 
+there is no ladder or stand available or where there is restricted 
+space and the possibility of high wind speeds) to do a visual 
+inspection before each engine start. Finally, one commenter, the 
+manufacturer, states that it is impractical to require inspection of 
+the T/R blades before each flight or engine start unless we are 
+referring to a ground-level visual inspection because a ladder, which 
+is not available in the field, would be required for a hands-on 
+inspection. It recommends an
+
+[[Page 24860]]
+
+inspection in accordance with the maintenance manual. The manufacturer 
+further recommends an inspection for more than just ``cracks'', that 
+is, any damage beyond limits in accordance with the published schedule 
+and requirements in the maintenance manual.
+    We concur with the recommendation to change the initial and 
+recurring inspections from 25 hours TIS or 15 days to 25 hours TIS or 
+30 days. The 15-day interval was originally proposed because a 
+corrosion pit was the initiation point for one of the failures and that 
+interval is consistent with FAA advisory material relating to the 
+detection of corrosion. Since the proposal was published, we have 
+reevaluated the need for the interval and determined that a 30-day 
+interval is adequate for this inspection and the AD is revised 
+accordingly. We do not concur that a visual inspection before the first 
+flight of each day would be adequate and that a limit of 10 hours 
+between visual inspections in any one day should be added. 
+Additionally, we do not agree with the manufacturer that a 60-day 
+interval would be appropriate because of the quick degradation in the 
+T/R blade strength. However, we do agree that it is not always 
+practical to require a detailed visual inspection of the T/R blades 
+using a ladder before each flight or engine start. The proposed owner/
+operator (pilot) check was only intended to be a ``walk around'' check 
+to detect any large cracks. Although the Canadian commenter states that 
+their inspection from the ground is not considered effective, we have 
+received reports that two cracked blades were discovered during checks 
+performed from the ground. The initial and recurring inspections 
+performed by a mechanic are detailed, up-close inspections.
+    One commenter also suggests that instead of requiring a mandatory 
+daily log book entry stating compliance with the AD that ``the blade 
+inspection be made a required preflight checklist item with no daily 
+log book entry required.'' If a logbook entry is required, the 
+commenter suggests that it be a separate entry made at the time the 25 
+hour is signed off. We have determined that this critical check needs 
+to be mandated. This determination is based on the critical nature of 
+this failure and that the length of a crack is predicted to grow 
+quickly once it is detectable based on the service history of these T/R 
+blades. All required inspections, including the pilot checks 
+specifically approved by this AD, must be recorded at the time they are 
+performed. That recording evidences that the required AD actions have 
+been performed. If it is not recorded, the aircraft is not in 
+compliance with the AD and is unairworthy.
+    In addition to comments regarding the inspection times and types, 
+the manufacturer provided other comments to the NPRM. Those comments 
+and our responses follow:
+
+------------------------------------------------------------------------
+                Comment                              Response
+------------------------------------------------------------------------
+The AD lists a 1991 Model 212 with a     The cracked T/R blade in
+ .75'' crack * * * that Bell questions    question is found in the FAA
+ since they have no conclusive            service difficulty database.
+ technical data on it. They also          An approximate 8-inch crack
+ question our references to a 77 hour     was found in the T/R blade
+ crack propagation from striation count   installed on a Bell Model 212
+ and state that the 77 hour value is      helicopter during a daily
+ actually from a crack growth analysis    inspection. The crack was
+ that simply includes striation count     located 20.25 inches inboard
+ data. Bell also states that they are     from the tip of the T/R blade
+ aware of only 4, not 8, existing         running through a .75 inch
+ M205Bs that are of FAA certified         long smooth dent. The part
+ configuration.                           number of the T/R blade was
+                                          212-010-750-105 with a total
+                                          time of 423 hours.
+                                         We agree with the comment about
+                                          the reference to the 77 hour
+                                          crack propagation and the
+                                          number of existing M205B
+                                          helicopters and have revised
+                                          this AD accordingly.
+The listed tail rotor dash numbers       While the standard Model 204B
+ appear to be incorrect. The Model 204B   helicopter may not use this
+ does not use the 212-010-750 tail        particular T/R blade, the 212-
+ rotor blade and there also appears to    010-750 T/R blade may be on a
+ be several of the later dash numbers     modified Model 204B helicopter
+ missing from various models.             that does use this blade. To
+                                          assure that we have covered
+                                          all affected blades, the
+                                          applicability now encompasses
+                                          all affected dash-numbered T/R
+                                          blades.
+Recommend changing areas called out for  Agree with this change and have
+ special attention to Stations 25.0 to    revised this AD accordingly.
+ 35.0 (both sides) for damage/corrosion
+ and include inboard blade butt area
+ surrounding balance weights/screws for
+ cracks.
+There have not been eight reported       A crack in a blade makes that
+ failures, there have been three. All     blade unable to safely perform
+ others are reported cracks in the        its intended function. Thus,
+ blade skin, not ``failures.'' The term   there are now 9 T/R blades
+ ``failure'' can be misleading.           that meet that criteria.
+Bell objects to our statement in the     As we understand this objection
+ NPRM that ``The requirements of the      by the manufacturer, it
+ proposed AD would be interim actions     believes that a redesigned
+ until either a more rigorous             blade is unnecessary and that
+ inspection is developed or a new blade   the current inspections are
+ that is more damage tolerant is          adequate. We do not agree.
+ designed.'' Bell states ``Although we    Based on the fracture
+ are in concept discussions with DND,     analysis, once the crack
+ completion and certification of this     reaches a size that is
+ blade is many months away and could be   detectable by inspection, it
+ misleading to the commercial             is predicted to grow quickly.
+ community.''                             Therefore, for the affected T/
+                                          R blades, it is critical to
+                                          find a crack or damage that
+                                          could lead to a crack at the
+                                          earliest opportunity. The
+                                          service history of these
+                                          affected T/R blades has shown
+                                          that the current inspections
+                                          are inadequate to reveal these
+                                          cracks before blade failure.
+                                          One T/R blade failed and
+                                          another one cracked because of
+                                          manufacturing damage on the
+                                          inside of the T/R blade. That
+                                          damage was not initially
+                                          detectable by external
+                                          inspection. Another T/R blade
+                                          failed during flight due to
+                                          cracking that initiated from a
+                                          corrosion pit in the leading
+                                          edge spar that was too small
+                                          to be readily detected.
+                                          Therefore, replacing the
+                                          affected T/R blades with a
+                                          redesigned, more damage-
+                                          tolerant T/R blade is
+                                          anticipated as terminating
+                                          action for the requirements of
+                                          this AD.
+------------------------------------------------------------------------
+
+    Another commenter, the Canadian National Defence Headquarters, 
+views the proposed actions as a ``good first step'' but offers several 
+recommendations. Those recommendations and our responses follow:
+
+[[Page 24861]]
+
+
+
+------------------------------------------------------------------------
+             Recommendation                          Response
+------------------------------------------------------------------------
+``Promulgate to other aviation           Our standard practice is to
+ regulation agencies worldwide because    send our ADs to aviation
+ there are many more airframes affected   authorities with which we have
+ than the `388 helicopters of U.S.        a bilateral agreement. In
+ registry'.''                             turn, it is then at their
+                                          discretion whether or not to
+                                          follow up with similar action.
+Adjust the inspection frequency as a     We agree that the risk of
+ function of the operations               incurring damage in the T/R
+ environment, e.g., a 12.5 hours          blade would be less for those
+ inspection frequency using the 10x       helicopters operated on paved
+ magnification (noting that deployments   landing fields versus ``harsh
+ of small numbers of aircraft take the    & rough'' landing fields.
+ minimum support equipment required)      Defining and enforcing such an
+ visual inspection for operations using   inspection interval, however,
+ ``harsh & rough'' landing fields and     would be difficult because
+ an interval of 25 hours inspection for   helicopters operate in so many
+ paved landing fields.                    varied environments. We
+                                          believe the commet to use a 10-
+                                          power magnifying glass may be
+                                          a typographical error because
+                                          the Canadian National Defense
+                                          uses a 2-power magnifying
+                                          glass and a good source of
+                                          light every 12.5 hours TIS for
+                                          the visual inspection of the T/
+                                          R blades on their Model 412CF
+                                          helicopters. Regardless, we
+                                          have determined that a 25-hour
+                                          TIS inspection using a 3x or
+                                          higher magnifying glass is
+                                          best for the overall safe
+                                          operation of these helicopters
+                                          in the U.S.
+Specify that the visual check be         We do not believe that further
+ carried out by an appropriately          information regarding who can
+ qualified person.                        carry out this visual check is
+                                          necessary. The visual check is
+                                          only intended to detect a
+                                          large-scale crack and we
+                                          believe an owner/operator
+                                          (pilot) is qualified to
+                                          perform this ``walk-around''
+                                          function.
+Define what constitutes a ``bright       The illumination levels are
+ light''.                                 historically not given for
+                                          visual inspections that are
+                                          mandated by an AD. We believe
+                                          what constitutes a bright
+                                          light can be adequately
+                                          determined by the individuals
+                                          who are qualified to do the
+                                          inspection. We also did not
+                                          want to create additional
+                                          calibration and recordkeeping
+                                          requirements.
+Implement damage mapping as a means to   Inspection of the T/R blade
+ increase detectability of new damage     records and recording any
+ and decrease the maintenance burden.     damage found within the repair
+                                          limits are in the maintenance
+                                          instructions for the T/R blade
+                                          inspection on the applicable
+                                          helicopters. These steps are
+                                          currently in the applicable
+                                          maintenance procedures.
+                                          Operators are free to
+                                          implement such mapping if they
+                                          believe it will reduce their
+                                          maintenance burden.
+Carry out a Type 1, Method C, Level III  We believe the requirement to
+ dye-penetrant inspection in cases        use of a 10-power magnifying
+ where difficulties are encountered in    glass is adequate.
+ determining the presence of a crack by
+ visual inspection.
+------------------------------------------------------------------------
+
+    We have reviewed the following Bell documents:
+    <bullet> Operations Safety Notice OSN 205-02-37, OSN 205B-02-10, 
+OSN 212-02-39, OSN 412-02-25, OSN 412CF-02-05, and OSN UH-1H-II-02-3, 
+dated August 27, 2002. These Operations Safety Notices apply to all 
+owners and operators of Bell 205, 205B, 212, 412, 412CF, and UH-1H-II 
+helicopters and were written to remind operators of the following:
+    <bullet> The importance of accomplishing a complete inspection of 
+the T/R blades at specified inspection intervals;
+    <bullet> That the blades must be cleaned in order to perform an 
+adequate visual inspection to determine their condition; and
+    <bullet> That maintenance manuals and component repair and overhaul 
+manuals are to be consulted for damage limits and repair criteria as 
+required.
+    <bullet> Alert Service Bulletin No. 412CF-03-20, dated February 6, 
+2003, which applies to Model 412CF helicopters and provides 
+instructions for doing a visual inspection of certain T/R blades 
+immediately and every 25 hours TIS in accordance with the Model 412CF 
+maintenance manual and instructions for sending the affected tail rotor 
+blade to DND ``Calgary Supply Center'' for refinishing and 
+reidentification.
+    <bullet> Bell Maintenance Document C-12-146-000/MF-001, Mod 4, 
+dated February 12, 2004, which applies to Model 412CF helicopters and 
+specifies a tail rotor blade damage records check and a visual 
+inspection for dents, nicks, cracks, paint chips, or blisters using a 
+2-power magnifying glass and a good source of light in specified areas 
+of the tail rotor blades (reference 64-00-00, section 64-38, page 42).
+    This unsafe condition is likely to exist or develop on other 
+helicopters of these same type designs. Therefore, this AD is being 
+issued to detect damage to a T/R blade that could lead to cracking of a 
+T/R blade and subsequent loss of control of the helicopter. This AD 
+requires:
+    <bullet> Before each start of the engines, visually checking each 
+T/R blade for a crack. An owner/operator (pilot) holding at least a 
+private pilot certificate may perform this visual check and must enter 
+compliance with paragraph (a) of this AD into the aircraft maintenance 
+records in accordance with 14 CFR 43.11 and 91.417(a)(2)(v). A pilot 
+may do this check because it requires no special tools and can be 
+performed equally well by a pilot or a mechanic.
+    <bullet> Within 25 hours TIS or 30 days, whichever occurs first, 
+unless accomplished previously, and thereafter at intervals not to 
+exceed 25 hours TIS or 30 days, whichever occurs first, cleaning and 
+visually inspecting the T/R blade skins, leading edge spar, doublers, 
+grip plates, and trailing edge for a crack, corrosion (may be indicated 
+by blistering, peeling, flaking, bubbling, or cracked paint) and any 
+other damage (including a nick, scratch, or dent) using a 3x or higher 
+magnifying glass.
+    <bullet> If certain damage is found, inspecting the affected area 
+using a 10-power or higher magnifying glass and measuring the depth of 
+the damage.
+    <bullet> Before further flight, repairing or replacing, as 
+applicable, any unairworthy T/R blade. The short compliance time 
+involved is required because a cracked or damaged T/R blade creates an 
+unsafe condition that can adversely affect the structural integrity and 
+controllability of the helicopter. Therefore the required actions 
+within the specified short time intervals require that this AD be 
+issued immediately.
+    Since a situation exists that requires the immediate adoption of 
+this regulation, it is found that notice and opportunity for prior 
+public comment hereon are impracticable, and that good cause exists for 
+making this amendment effective in less than 30 days.
+    We estimate that this AD will affect 384 helicopters of U.S. 
+registry. There
+
+[[Page 24862]]
+
+are approximately 184 Model 205A and 205A-1 helicopters, 4 Model 205B 
+helicopters, 101 Model 212 helicopters, 80 Model 412, 412CF, and 412EP 
+helicopters, and 15 modified Model 204B helicopters. Each visual check 
+will take .125 hours, each visual inspection will take .5 hours, and 6 
+hours to remove and replace each T/R blade assembly, if necessary. The 
+average labor rate is $80. Replacement parts will cost $11,243 for each 
+T/R blade assembly. Based on these figures, the estimated cost impact 
+of the AD for all of the affected models will be $1,828,855 assuming an 
+average of 600 hours TIS per year for each helicopter resulting in 365 
+visual checks, 24 inspections, and 5 T/R blade assembly replacements 
+for the total fleet.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements that affect 
+flight safety and was not preceded by notice and an opportunity for 
+public comment; however, we invite you to submit any written data, 
+views, or arguments regarding this AD. Send your comments to an address 
+listed under ADDRESSES. Include ``Docket No. FAA-2008-0490; Directorate 
+Identifier 2008-SW-26-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of the AD. We will consider all 
+comments received by the closing date and may amend the AD in light of 
+those comments.
+    We will post all comments we receive, without change, to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact 
+with FAA personnel concerning this AD. Using the search function of our 
+docket Web site, you can find and read the comments to any of our 
+dockets, including the name of the individual who sent the comment. You 
+may review the DOT's complete Privacy Act Statement in the Federal 
+Register published on April 11, 2000 (65 FR 19477-78).
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national Government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that the regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared an economic evaluation of the estimated costs to comply 
+with this AD. See the AD docket to examine the economic evaluation.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. Section 39.13 is amended by adding a new airworthiness directive to 
+read as follows:
+
+2008-10-03 Bell Helicopter Textron: Amendment 39-15509. Docket No. 
+FAA-2008-0490; Directorate Identifier 2008-SW-26-AD.
+
+Applicability
+
+    The following model helicopters, with the specified tail rotor 
+blade assembly (T/R blade) installed, certificated in any category:
+
+------------------------------------------------------------------------
+                                         With T/R blade, part number (P/
+            Helicopter model                            N)
+------------------------------------------------------------------------
+204B, 205A, 205A-1, 212, 412, 412CF,     212-010-750-(all dash numbers).
+ and 412EP.
+205B...................................  212-010-750-(all dash numbers).
+                                         212-015-501-(all dash numbers).
+210....................................  210-010-001-(all dash numbers).
+                                         212-010-750-(all dash numbers).
+------------------------------------------------------------------------
+
+Compliance
+
+    Required as indicated.
+    To detect any damage in a T/R blade, prevent cracking of a T/R 
+blade leading to failure from static overload, and subsequent loss 
+of control of the helicopter, accomplish the following:
+    (a) Before each start of the engines, visually check both sides 
+of each T/R blade for a crack. An owner/operator (pilot) holding at 
+least a private pilot certificate may perform this visual check and 
+must enter compliance with this paragraph into the aircraft 
+maintenance records in accordance with 14 CFR 43.11 and 
+91.417(a)(2)(v).
+    (b) Within 25 hours time-in-service (TIS) or 30 days, whichever 
+occurs first, unless accomplished previously, and thereafter at 
+intervals not to exceed 25 hours TIS or 30 days, whichever occurs 
+first:
+    (1) Clean each T/R blade by hand using a mild degreaser and 
+water to remove soot and grime on both sides of the blade using a 
+coarse, loosely woven cotton cloth in a spanwise direction. Use a 
+cloth with a color that contrasts with the color of the T/R blade so 
+that a snag will be visible.
+    (2) Using a 3-power or higher magnifying glass and a bright 
+light, visually inspect the T/R blade skins, leading edge spar, 
+doublers, grip plates, and trailing edge for a crack, corrosion (may 
+be indicated by blistering, peeling, flaking, bubbling, or cracked 
+paint) and any other damage (including a nick, scratch, or dent). 
+See Figure 1 of this AD. Pay particular attention to both sides of 
+the T/R blade in the area located 16 to 26 inches from the T/R blade 
+tip (blade station 25 to 35--the T/R blade tip is located at blade 
+station 51) and to the inboard blade butt area near the attachment 
+of the external balance weights
+
+[[Page 24863]]
+
+and screws. Also pay particular attention to any blade surface that 
+was snagged by the cloth, as that may be an indication of a crack or 
+paint chip that could lead to corrosion.
+BILLING CODE 4910-13-P
+[GRAPHIC] [TIFF OMITTED] TR06MY08.182
+
+BILLING CODE 4910-13-C
+
+[[Page 24864]]
+
+    (3) If any blistering, peeling, flaking, bubbling, or cracked 
+paint is detected, remove the paint from the affected area and 
+visually inspect the affected area for corrosion or a crack using a 
+10-power or higher magnifying glass. If any corrosion is found, 
+measure the depth of the corrosion (a digital optical micrometer is 
+one tool that can be used for this measurement).
+    (4) If a nick, scratch, or dent is found, visually inspect for a 
+crack using a 10-power or higher magnifying glass and measure the 
+depth of the damage (a digital optical micrometer is one tool that 
+can be used for this measurement).
+    (c) Before further flight:
+    (1) Replace any T/R blade that has a crack with an airworthy 
+blade.
+    (2) Replace any T/R blade that has any corrosion, nick, scratch, 
+dent, or other damage that exceeds any maximum repair limit with an 
+airworthy blade.
+
+    Note 1: The maximum repair limits are specified in the 
+applicable maintenance manual.
+
+    (3) Repair or replace with an airworthy blade any T/R blade that 
+has any corrosion, nick, scratch, dent or other damage that is 
+within the maximum repair limits.
+
+    Note 2: The repair procedures are specified in the applicable 
+maintenance manual and component repair and overhaul manuals.
+
+    (d) To request a different method of compliance or a different 
+compliance time for this AD, follow the procedures in 14 CFR 39.19. 
+Contact the Manager, Rotorcraft Certification Office, Rotorcraft 
+Directorate, FAA, ATTN: Michael Kohner, Aviation Safety Engineer, 
+Fort Worth, Texas 76193-0170, telephone (817) 222-5447, fax (817) 
+222-5783, for information about previously approved alternative 
+methods of compliance.
+    (e) This amendment becomes effective on May 21, 2008.
+
+    Issued in Fort Worth, Texas, on April 22, 2008.
+Mark R. Schilling,
+Acting Manager, Rotorcraft Directorate, Aircraft Certification Service.
+[FR Doc. E8-9790 Filed 5-5-08; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

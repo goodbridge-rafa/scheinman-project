@@ -1,0 +1,595 @@
+<html>
+<head>
+<title>Federal Register, Volume 78 Issue 159 (Friday, August 16, 2013)</title>
+</head>
+<body><pre>
+[Federal Register Volume 78, Number 159 (Friday, August 16, 2013)]
+[Rules and Regulations]
+[Pages 49915-49918]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2013-19862]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-1321; Directorate Identifier 2011-NM-147-AD; 
+Amendment 39-17528; AD 2013-15-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding airworthiness directive (AD) 2004-15-07, 
+for certain Airbus Model A310 series airplanes. AD 2004-15-07 required 
+repetitive inspections for fatigue cracking of the area around the 
+fasteners of the landing plate of the aileron access doors of the 
+bottom skin panel of the wings, and related corrective action. AD 2004-
+15-07 also provided for an optional terminating action to end the 
+repetitive inspections. This new AD reduces the initial inspection 
+compliance time and intervals, and provides additional terminating 
+action options. This AD was prompted by a reassessment of a previous 
+fatigue threshold and inspection interval, which resulted in a 
+determination that reduced inspection thresholds and intervals for 
+accomplishment of the tasks are necessary. We are issuing this AD to 
+detect and correct fatigue cracking of the area around the fasteners of 
+the landing plate of the aileron access doors and the bottom skin panel 
+of the wings, which could result in reduced structural integrity of the 
+wings.
+
+DATES: This AD becomes effective September 20, 2013.
+    The Director of the Federal Registe approved the incorporation by 
+reference of certain publications listed in this AD as of September 20, 
+2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of August 
+31, 2004 (69 FR 44592, July 27, 2004).
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> or in person at the U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone (425) 227-2125; 
+fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+The NPRM was published in the Federal Register on February 5, 2013 (78 
+FR 8054), and proposed to supersede AD 2004-15-07, Amendment 39-13741 
+(69 FR 44592, July 27, 2004). The NPRM proposed to correct an unsafe 
+condition for the specified products. The European Aviation Safety 
+Agency (EASA), which is the Technical Agent for the Member States of 
+the European Community, has issued EASA Airworthiness Directive 2011-
+0125, dated June 30, 2011 (referred to after this as ``the MCAI''), to 
+correct an unsafe condition for the specified products. The MCAI 
+states:
+
+    DGAC [Direction G[eacute]n[eacute]rale de l'Aviation Civile] 
+France issued AD 2003-242(B) [which corresponds to FAA AD 2004-15-
+07, Amendment 39-13741 (69 FR 44592, July 27, 2004)] to require an 
+inspection programme for aeroplanes with pre- and post-Airbus 
+modification 05106 configurations (Airbus SB A310-57-2004) in order 
+to detect any crack located on the trailing edge of the wing bottom 
+skin No. 2 panel of the all-speed-aileron servo control bay. A crack 
+at this location, if not detected and corrected, would propagate 
+towards the wing rear spar and ultimately into the wing fuel tank 
+area. Undetected cracks would affect the structural integrity of the 
+[left hand] LH and/or [right hand] RH wing.
+    Since issuance of DGAC France AD 2003-242(B) [which corresponds 
+to FAA AD 2004-15-07, Amendment 39-13741 (69 FR 44592, July 27, 
+2004)], a reassessment of the previous fatigue threshold and 
+inspection interval has been completed. As a result of the 
+reassessment, the inspection thresholds and intervals for 
+accomplishment of the tasks as defined in Airbus SB A310-57-2082 
+have been adjusted and reduced. Airbus SB A310-57-2082 Revision 03 
+has been published, in which the compliance time periods for these 
+inspection thresholds and intervals have been amended.
+    For the reasons stated above, this [EASA] AD retains the 
+requirements of the DGAC France AD 2003-242(B) [which corresponds to 
+FAA AD 2004-15-07, Amendment 39-13741 (69 FR 44592, July 27, 2004)], 
+which is superseded, and requires implementation of the amended 
+inspection programme.
+
+Corrective action includes doing a permanent repair (installing a 
+repair plate and new landing plates), a temporary repair (crack-stop 
+drilling and application of a protective coating) followed by 
+repetitive inspections until a permanent repair is done, and a repair 
+approved by the FAA or EASA (or its delegated agent). This AD also adds 
+optional permanent repairs.
+    The initial inspection compliance times are dependent on the 
+configuration (modification status, repair status, and crack length), 
+and type of use (short range, long range, and normal). For airplanes 
+without temporary repairs, the initial inspection compliance time 
+ranges between 2,000 total flight cycles or 10,200 total flight hours, 
+whichever occurs first; and 12,000 total flight cycles or 24,000 total 
+flight hours, whichever occurs first. If the total flight cycles or 
+total flight hours compliance time has been exceeded, the initial 
+inspection compliance time (grace period) ranges between 200 flight 
+cycles or 1,000 flight hours, to within 1,000 flight cycles or 2,800 
+flight hours, whichever occurs first.
+    For airplanes with temporary repairs, the initial inspection 
+compliance time is dependent on crack length and ranges between 7 
+flight cycles or 35 flight hours, whichever occurs first, since the 
+repair; to within 100 flight cycles or 200 flight hours, whichever 
+occurs first, since the repair.
+    For airplanes with a temporary repair, the compliance time for 
+completing the permanent repair ranges between 35 flight cycles or 175 
+flight hours, whichever occurs first, after completing the temporary 
+repair; to within 500 flight cycles or 1,000 flight hours,
+
+[[Page 49916]]
+
+whichever occurs first, after completing the temporary repair.
+    You may obtain further information by examining the MCAI in the AD 
+docket.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comment received.
+
+Request To Change Service Information Reference
+
+    FedEx stated that paragraph (n)(1)(iii) in the NPRM (78 FR 8054, 
+February 5, 2013) should refer to Airbus Mandatory Service Bulletin 
+A310-57-2082, Revision 02, dated October 17, 2008, instead of Airbus 
+Service Bulletin A310-57-2082, dated June 11, 2002. FedEx noted that 
+paragraph (n)(1)(i) also refers to Airbus Service Bulletin A310-57-
+2082, dated June 11, 2002.
+    We agree to change the reference, and have changed paragraph 
+(n)(1)(iii) in this AD accordingly.
+
+Conclusion
+
+    We reviewed the available data, including the comment received, and 
+determined that air safety and the public interest require adopting the 
+AD with the changes described previously--and minor editorial changes. 
+We have determined that these changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (78 FR 8054, February 5, 2013) for correcting the unsafe 
+condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 8054, February 5, 2013).
+
+Costs of Compliance
+
+    We estimate that this AD will affect about 58 products of U.S. 
+registry.
+    The actions that were required by AD 2004-15-07, Amendment 39-13741 
+(69 FR 44592, July 27, 2004), and are retained in this AD take about 2 
+work-hours per product, at an average labor rate of $85 per work hour. 
+Based on these figures, the estimated cost of the currently required 
+actions is $170 per product.
+    We estimate that it will take about 4 work-hours per product to 
+comply with the new basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD to the U.S. operators to be $19,720, or $340 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD. We 
+have no way of determining the number of products that may need these 
+actions.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The street address for 
+the Docket Operations office (telephone (800) 647-5527) is in the 
+ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2004-15-07, Amendment 39-13741 (69 FR 44592, July 27, 2004), and adding 
+the following new AD:
+
+2013-15-12 Airbus: Amendment 39-17528. Docket No. FAA-2012-1321; 
+Directorate Identifier 2011-NM-147-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) becomes effective September 
+20, 2013.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2004-15-07, Amendment 39-13741 (69 FR 
+44592, July 27, 2004).
+
+(c) Applicability
+
+    This AD applies to Airbus Model A310-203, -204, -221, -222, -
+304, -322, -324, and -325 airplanes, certificated in any category, 
+all serial numbers; except for airplanes identified in paragraphs 
+(c)(1) and (c)(2) of this AD.
+    (1) Airplanes that have been modified in service according to 
+Airbus Service Bulletin A310-57-2081 or during production by Airbus 
+modification 12525.
+    (2) Airplanes that have been repaired according to Airbus Repair 
+Inspection R573-49243 or R573-49237.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Reason
+
+    This AD was prompted by a reassessment of the previous fatigue 
+threshold and inspection interval specified in AD 2004-15-07, 
+Amendment 39-13741 (69 FR 44592, July 27, 2004), which resulted in a 
+determination that reduced inspection thresholds and intervals for 
+accomplishment of the tasks are necessary. We are issuing this AD to 
+detect and correct fatigue cracking of the area around the fasteners 
+of the landing plate of the aileron access doors and the bottom skin 
+panel of the wings, which could result in reduced structural 
+integrity of the wings.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the
+
+[[Page 49917]]
+
+compliance times specified, unless the actions have already been 
+done.
+
+(g) Retained Repetitive Inspections for Airplanes Without Airbus 
+Modification 5106
+
+    This paragraph restates the requirements of paragraph (a) of AD 
+2004-15-07, Amendment 39-13741 (69 FR 44592, July 27, 2004). For 
+airplanes on which Airbus Modification 5106 (Airbus Service Bulletin 
+A310-57-2004, Revision 2, dated March 5, 1990, which is not 
+incorporated by reference in this AD) has not been done as of August 
+31, 2004 (the effective date of AD 2004-15-07): Within 2,000 flight 
+cycles after August 31, 2004 (the effective date of AD 2004-15-07), 
+or within 3,000 flight cycles after the last inspection done per 
+paragraph (k) of AD 98-26-01, Amendment 39-10942 (63 FR 69179, 
+December 16, 1998), whichever is first; do a high frequency eddy 
+current (HFEC) inspection for cracking of the area around the 
+fasteners of the landing plate of the wing bottom skin panel No. 2 
+of the left and right wings. Do the inspection per the 
+Accomplishment Instructions of Airbus Service Bulletin A310-57-2082, 
+dated June 11, 2002. If no cracking is found, repeat the inspection 
+thereafter at intervals not to exceed 1,900 flight cycles, until 
+accomplishment of the terminating action specified in paragraph (j) 
+of this AD. Accomplishment of the inspection required by paragraph 
+(k) of this AD terminates the requirements of paragraph (g) of this 
+AD.
+
+(h) Retained Repetitive Inspection for Airplanes With Airbus 
+Modification 5106
+
+    This paragraph restates the requirements of paragraph (b) of AD 
+2004-15-07, Amendment 39-13741 (69 FR 44592, July 27, 2004). For 
+airplanes on which Airbus Modification 5106 has been done as of 
+August 31, 2004 (the effective date of AD 2004-15-07): Do the HFEC 
+inspection required by paragraph (g) of this AD at the applicable 
+time specified in paragraph (h)(1), (h)(2), (h)(3), or (h)(4) of 
+this AD. If no cracking is found, repeat the inspection thereafter 
+at intervals not to exceed 1,900 flight cycles, until accomplishment 
+of the terminating action specified in paragraph (j) of this AD. 
+Accomplishment of the inspection required by paragraph (k) of this 
+AD terminates the requirements of paragraph (h) of this AD.
+    (1) For airplanes that have accumulated fewer than 17,000 total 
+flight cycles since the date of issuance of the original 
+Airworthiness Certificate or the date of issuance of the original 
+Export Certificate of Airworthiness, whichever is first, as of 
+August 31, 2004 (the effective date of AD 2004-15-07, Amendment 39-
+13741 (69 FR 44592, July 27, 2004)): Inspect prior to the 
+accumulation of 18,000 total flight cycles.
+    (2) For airplanes that have accumulated 17,000 or more total 
+flight cycles, but fewer than 19,001 total flight cycles since the 
+date of issuance of the original Airworthiness Certificate or the 
+date of issuance of the original Export Certificate of 
+Airworthiness, whichever is first, as of August 31, 2004 (the 
+effective date of AD 2004-15-07, Amendment 39-13741 (69 FR 44592, 
+July 27, 2004)): Inspect within 2,000 flight cycles after August 31, 
+2004 (the effective date of AD 2004-15-07).
+    (3) For airplanes that have accumulated 19,001 or more total 
+flight cycles, but fewer than 21,001 total flight cycles since the 
+date of issuance of the original Airworthiness Certificate or the 
+date of issuance of the original Export Certificate of 
+Airworthiness, whichever is first, as of August 31, 2004 (the 
+effective date of AD 2004-15-07, Amendment 39-13741 (69 FR 44592, 
+July 27, 2004)): Inspect with 1,200 flight cycles after August 31, 
+2004 (the effective date of AD 2004-15-07).
+    (4) For airplanes that have accumulated 21,001 or more total 
+flight cycles since the date of issuance of the original 
+Airworthiness Certificate or the date of issuance of the original 
+Export Certificate of Airworthiness, whichever is first, as of 
+August 31, 2004 (the effective date of AD 2004-15-07, Amendment 39-
+13741 (69 FR 44592, July 27, 2004)): Inspect within 500 flight 
+cycles after August 31, 2004 (the effective date of AD 2004-15-07).
+
+(i) Retained Corrective Action
+
+    This paragraph restates the requirements of paragraph (c) of AD 
+2004-15-07, Amendment 39-13741 (69 FR 44592, July 27, 2004). If any 
+cracking is found during any inspection required by paragraph (g) or 
+(h) of this AD: Before further flight, do the actions required by 
+either paragraph (i)(1) or (i)(2) of this AD.
+    (1) Do a permanent repair of the area by doing the applicable 
+corrective actions per the Accomplishment Instructions of Airbus 
+Service Bulletin A310-57-2082, dated June 11, 2002. Accomplishment 
+of the permanent repair terminates the repetitive inspections 
+required by this AD for the repaired area only.
+    (2) Do the terminating action specified in paragraph (j) of this 
+AD.
+
+(j) Retained Optional Terminating Action, With New Service Information 
+and New Options
+
+    This paragraph restates the optional terminating action 
+information specified in paragraph (d) of AD 2004-15-07, Amendment 
+39-13741 (69 FR 44592, July 27, 2004), with new service information 
+and new options. Modification of the landing plate of the aileron 
+access doors of the wing bottom skin panel No. 2 of the left and 
+right wings by doing all the actions, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A310-57-2081, 
+dated June 11, 2002; or Airbus Service Bulletin A310-57-2081, 
+Revision 03, dated October 13, 2010; or by doing the repair in 
+accordance with Airbus Repair Instruction R573-49243, Revision C, 
+dated July 16, 2003; or Airbus Repair Instruction R573-49237, 
+Revision D, dated July 16, 2003; which terminates the requirements 
+of this AD. Where Airbus Service Bulletin A310-57-2081, dated June 
+11, 2002; and Airbus Service Bulletin A310-57-2081, Revision 03, 
+dated October 13, 2010; specify contacting the manufacturer for 
+disposition of certain repair conditions that might be associated 
+with the modification procedure, this AD requires that the repair be 
+done in accordance with a method approved by either the Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA; 
+the Direction G[eacute]n[eacute]rale de l'Aviation Civile (DGAC) (or 
+its delegated agent); or the European Aviation Safety Agency (EASA) 
+(or its delegated agent).
+
+(k) New Inspections, Related Investigative Actions, and Corrective 
+Actions
+
+    Except as specified in paragraph (m)(1) of this AD, at the 
+applicable time specified in Paragraph 1.E., ``Compliance,'' of 
+Airbus Mandatory Service Bulletin A310-57-2082, Revision 03, dated 
+November 15, 2010: Do an HFEC inspection to detect cracking of the 
+area around the fasteners of the landing plate of the wing bottom 
+skin panel No. 2 of the left and right wings; and do all applicable 
+corrective actions; in accordance with the Accomplishment 
+Instructions of Airbus Mandatory Service Bulletin A310-57-2082, 
+Revision 03, dated November 15, 2010, except as required by 
+paragraph (m)(2) of this AD. Do all applicable corrective actions 
+before further flight. Repeat the inspection of the area around the 
+fasteners of the landing plate of the wing bottom skin panel number 
+2 of the left and right wings thereafter at the applicable 
+intervals, including the compliance times for post temporary repair 
+inspections, specified in Paragraph 1.E., ``Compliance,'' of Airbus 
+Mandatory Service Bulletin A310-57-2082, Revision 03, dated November 
+15, 2010, except as specified in paragraph (m)(3) of this AD. The 
+temporary repair of cracks, as identified in Airbus Mandatory 
+Service Bulletin A310-57-2082, Revision 03, dated November 15, 2010, 
+does not constitute terminating action for the repetitive 
+inspections required by this AD. Accomplishment of the inspection 
+required by this paragraph terminates the requirements of paragraphs 
+(g) and (h) of this AD. Doing the modification specified in 
+paragraph (j) of this AD terminates the repetitive inspections 
+required by this paragraph.
+
+(l) New Permanent Repair
+
+    For airplanes on which the temporary repair as specified in 
+Airbus Mandatory Service Bulletin A310-57-2082 has been done: Within 
+the applicable time specified in Paragraph 1.E., ``Compliance,'' of 
+Airbus Mandatory Service Bulletin A310-57-2082, Revision 03, dated 
+November 15, 2010, do the permanent repair, in accordance with the 
+Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A310-57-2082, Revision 03, dated November 15, 2010, except as 
+provided by paragraph (m)(2) of this AD.
+
+(m) New Exceptions to Service Information
+
+    (1) Where Paragraph 1.E., ``Compliance,'' of Airbus Mandatory 
+Service Bulletin A310-57-2082, Revision 03, dated November 15, 2010, 
+specifies a compliance time ``from receipt of this service 
+bulletin,'' this AD requires compliance within the specified 
+compliance time after the effective date of this AD.
+    (2) Where Airbus Mandatory Service Bulletin A310-57-2082, 
+Revision 03, dated November 15, 2010, specifies to contact Airbus 
+for repair: Before further flight, repair the crack using a method 
+approved by either
+
+[[Page 49918]]
+
+the Manager, International Branch, ANM-116; or EASA (or its 
+delegated agent).
+    (3) Where Paragraph 1.E., ``Compliance,'' of Airbus Mandatory 
+Service Bulletin A310-57-2082, Revision 03, dated November 15, 2010, 
+specifies to contact Airbus for inspection intervals, this AD 
+requires using an inspection interval approved by either the 
+Manager, International Branch, ANM-116; or EASA (or its delegated 
+agent).
+
+(n) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions required by 
+paragraphs (k) and (l) of this AD, if those actions were performed 
+before the effective date of this AD using the service information 
+specified in paragraph (n)(1)(i), (n)(1)(ii), or (n)(1)(iii) of this 
+AD.
+    (i) Airbus Service Bulletin A310-57-2082, dated June 11, 2002.
+    (ii) Airbus Service Bulletin A310-57-2082, Revision 01, dated 
+August 22, 2003, which is not incorporated by reference in this AD.
+    (iii) Airbus Mandatory Service Bulletin A310-57-2082, Revision 
+02, dated October 17, 2008, which is not incorporated by reference 
+in this AD.
+    (2) This paragraph provides credit for the modification of the 
+landing plate of the aileron access doors of the wing bottom skin 
+panel No. 2 of the left and right wings required by paragraph (j) of 
+this AD, if those actions were performed before the effective date 
+of this AD using the service information specified in paragraph 
+(n)(2)(i) or (n)(2)(ii) of this AD (which is not incorporated by 
+reference in this AD), except where this service information 
+specifies contacting the manufacturer for disposition of certain 
+repair conditions that might be associated with the modification 
+procedure, this AD requires that the repair be done in accordance 
+with a method approved by either the Manager, International Branch, 
+ANM-116; or the EASA (or its delegated agent).
+    (i) Airbus Service Bulletin A310-57-2081, Revision 01, dated 
+February 26, 2003, which is not incorporated by reference in this 
+AD.
+    (ii) Airbus Service Bulletin A310-57-2081, Revision 02, dated 
+October 18, 2007, which is not incorporated by reference in this AD.
+
+(o) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, has the authority to approve AMOCs 
+for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the International 
+Branch, send it to ATTN: Dan Rodina, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone (425) 227-
+2125; fax (425) 227-1149. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#546d79151a19796565627915191b17790611050111070007143235357a333b22"><span class="__cf_email__" data-cfemail="3c05117d7271110d0d0a117d71737f116e796d69796f686f7c5a5d5d125b534a">[email&#160;protected]</span></a>. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office. The AMOC approval letter must 
+specifically reference this AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to assure the product 
+is airworthy before it is returned to service.
+    (3) Previously Approved AMOCS: AMOCs approved previously in 
+accordance with AD 2004-15-07, Amendment 39-13741 (69 FR 44592, July 
+27, 2004), are approved as AMOCs for the corresponding provisions of 
+this AD.
+
+(p) Related Information
+
+    (1) Refer to MCAI EASA Airworthiness Directive 2011-0125, dated 
+June 30, 2011, for related information.
+    (2) Service information identified in this AD that is not 
+incorporated by reference may be obtained at the address specified 
+in paragraphs (q)(5) and (q)(6) of this AD.
+
+(q) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+September 20, 2013.
+    (i) Airbus Mandatory Service Bulletin A310-57-2082, Revision 03, 
+dated November 15, 2010.
+    (ii) Airbus Repair Instruction R573-49237, Revision D, dated 
+July 16, 2003.
+    (iii) Airbus Repair Instruction R573-49243, Revision C, dated 
+July 16, 2003.
+    (iv) Airbus Service Bulletin A310-57-2081, Revision 03, dated 
+October 13, 2010.
+    (4) The following service information was approved for IBR on 
+August 31, 2004 (69 FR 44592, July 27, 2004).
+    (i) Airbus Service Bulletin A310-57-2081, dated June 11, 2002.
+    (ii) Airbus Service Bulletin A310-57-2082, dated June 11, 2002.
+    (5) For service information identified in this AD, contact 
+Airbus SAS--EAW (Airworthiness Office), 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 44 51; email <a href="/cdn-cgi/l/email-protection#86e7e5e5e9f3e8f2a8e7eff4f1e9f4f2eeabe3e7f5c6e7eff4e4f3f5a8e5e9eb"><span class="__cf_email__" data-cfemail="8beae8e8e4fee5ffa5eae2f9fce4f9ffe3a6eeeaf8cbeae2f9e9fef8a5e8e4e6">[email&#160;protected]</span></a>; 
+Internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (6) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, 
+call 425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on July 22, 2013.
+Stephen P. Boyd,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-19862 Filed 8-15-13; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

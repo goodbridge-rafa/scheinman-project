@@ -1,0 +1,36 @@
+{
+  "source": "data/raw/ads/E7-9396.txt",
+  "pages": [1],
+  "fields": [
+    {
+      "field_id": "material",
+      "question": "In the AD text file: the material of the affected structural part, exactly as the document states it (the most specific alloy/temper the text names for the cracked parts).",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "component",
+      "question": "In the AD text file: the structural component where cracking was found, as named by the document.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "failure_mechanism",
+      "question": "In the AD text file: the failure mechanism the document reports (the kind of damage and its nature).",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "affected_feature",
+      "question": "In the AD text file: the geometric feature the required inspections target (what detail of the part must be inspected).",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "corrective_action_class",
+      "question": "In the AD text file: the class of corrective action the AD requires (for example: repetitive inspections, one-time inspection, replacement, modification). As stated by the document.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "supersedes_claim",
+      "question": "In the AD text file: does the document state that it supersedes or amends a previous AD or amendment? If yes, report the exact identifier(s) as printed; if the text contains no such statement, answer null.",
+      "expected_unit": "text"
+    }
+  ]
+}

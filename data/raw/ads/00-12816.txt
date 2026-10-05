@@ -1,0 +1,486 @@
+<html>
+<head>
+<title>Federal Register, Volume 65 Issue 103 (Friday, May 26, 2000)</title>
+</head>
+<body><pre>
+[Federal Register Volume 65, Number 103 (Friday, May 26, 2000)]
+[Rules and Regulations]
+[Pages 34069-34072]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 00-12816]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 98-NM-99-AD; Amendment 39-11739; AD 2000-10-15]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A320 Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment supersedes two existing airworthiness 
+directives (AD), applicable to certain Airbus Model A320 series 
+airplanes, that currently require modification of the rear spar web of 
+the wing and cold expansion of certain attachment holes for the forward 
+pintle fitting and certain holes at the actuating cylinder anchorage of 
+the main landing gear (MLG). This amendment adds a requirement for 
+repetitive inspections to detect fatigue cracking in certain areas of 
+the rear spar of the wing, and corrective action, if necessary. This
+
+[[Page 34070]]
+
+amendment also provides for optional terminating action for the 
+requirements of this AD. This amendment is prompted by issuance of 
+mandatory continuing airworthiness information by a foreign civil 
+airworthiness authority. The actions specified by this AD are intended 
+to detect and correct fatigue cracking, which may lead to reduced 
+structural integrity of the wing and the MLG.
+
+DATES: Effective June 30, 2000.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of June 30, 2000.
+    The incorporation by reference of certain other publications was 
+approved previously by the Director of the Federal Register as of June 
+11, 1993 (58 FR 27923, May 12, 1993), and February 14, 1994 (59 FR 
+1903, January 13, 1994).
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Airbus Industrie, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Norman B. Martenson, Manager, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2110; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) by superseding AD 93-08-15, 
+amendment 39-8563 (58 FR 27923, May 12, 1993), and AD 93-25-13, 
+amendment 39-8777 (59 FR 1903, January 13, 1994), which are both 
+applicable to certain Airbus Model A320 series airplanes, was published 
+in the Federal Register on February 10, 2000 (65 FR 6566). The action 
+proposed to continue to require modification of the wing rear spar web 
+and cold expansion of certain attachment holes for the forward pintle 
+fitting and certain holes at the actuating cylinder anchorage of the 
+MLG. The AD proposed to add a requirement for repetitive ultrasonic 
+inspections to detect fatigue cracking in certain areas of the wing 
+rear spar, and repair of cracking. The AD also proposed to provide for 
+optional terminating action for the inspections proposed by this AD.
+
+Comments Received
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Support for the Proposal
+
+    One commenter concurs with the proposed AD. Another commenter 
+states that Airbus Production Modification 24591 is installed on its 
+airplanes; therefore, it is not affected by the proposed AD.
+
+Inspection Threshold for Certain Airplanes
+
+    One commenter requests that the proposed AD be revised to allow 
+``Group 2'' airplanes to accomplish the initial inspection of the wing 
+rear spar within 12,000 flight cycles after accomplishment of Airbus 
+Service Bulletin A320-57-1060. The commenter defines ``Group 1'' 
+airplanes as manufacturer's serial numbers (MSN) 002 through 021, on 
+which Airbus Service Bulletins A320-57-1004 and A320-57-1060 are 
+accomplished as retrofit. ``Group 2'' airplanes are defined as MSN's 
+022 through 051, on which Airbus Modification 20740 (equivalent to 
+A320-57-1004) has been accomplished in production, and Airbus Service 
+Bulletin A320-57-1060 as retrofit.
+    The commenter notes that ``Group 1'' airplanes are granted 12,000 
+flight cycles after accomplishment of A320-57-1060, yet ``Group 2'' 
+airplanes are required to undergo inspection prior to accumulation of 
+17,300 total flight cycles, regardless of when modification per A320-
+57-1060 was accomplished. The commenter states that ``Group 1'' and 
+``Group 2'' airplanes are in the same configuration and will have a 
+similar fatigue life; therefore, both should have the same inspection 
+threshold.
+    The FAA does not concur. Although the FAA acknowledges that ``Group 
+1'' and ``Group 2'' airplanes may be in a similar modification 
+configuration, the design configuration of these airplanes is 
+different. ``Group 1'' airplanes are composed of Model A320-100 series 
+airplanes, and ``Group 2'' airplanes are composed of Model A320-200 
+series airplanes. Model A320-200 series airplanes are equipped with a 
+center fuel tank (not installed on Model A320-100 series airplanes) 
+that increases the airplanes' weight. For this reason, it is necessary 
+that ``Group 2'' airplanes be inspected for cracking prior to 
+accumulation of 17,300 total flight cycles, regardless of when Service 
+Bulletin A320-57-1060 is accomplished. No change is made to the final 
+rule.
+
+Terminating Modification for Certain Airplanes
+
+    One commenter requests that modification in accordance with Airbus 
+Service Bulletin A320-57-1089 be considered as terminating action to 
+all inspection requirements if accomplished prior to the initial 
+inspection interval, or to repetitive inspections if accomplished after 
+the initial inspection interval. The commenter states that terminating 
+action credit is allowed under paragraph (e) of the proposed AD only if 
+accomplished prior to 12,000 total flight cycles. The commenter states 
+that accomplishment of the terminating modification includes a non-
+destructive test inspection of the inner rear spar at each hole 
+location. Since this inspection during the modification will ensure 
+that the inner rear spar is free of defects, terminating action to the 
+follow-on inspection requirements should also be provided.
+    The FAA notes that terminating modification to the inspection 
+requirements of the AD is already provided for in paragraph (e) of the 
+proposed AD, and considers that clarification of the provisions for 
+terminating modification is necessary. As stated in the second sentence 
+of paragraph (e) of the AD, the threshold of 12,000 total flight cycles 
+is required only if modification per Service Bulletin A320-57-1089 is 
+chosen in lieu of accomplishing the modifications required by 
+paragraphs (a) and (b) of the AD. However, the modification also 
+constitutes acceptable terminating action for the ultrasonic inspection 
+requirements of the AD, as stated in the first sentence of paragraph 
+(e) of the AD. Paragraph (e) has been revised to more clearly specify 
+the terminating action provisions of the AD.
+
+Cost Estimate for Terminating Modification
+
+    Two commenters request that the proposed AD be revised to provide 
+correct cost estimates for the optional modification described in 
+Airbus Service Bulletin A320-57-1089. The commenters state that the 
+service bulletin lists the labor cost as 980 work hours, yet the 
+proposed AD provides an estimate of 750 work hours.
+    The FAA acknowledges that the service bulletin estimate specifies 
+additional work hours (for access and close) that are not included in 
+the proposed AD. However, the cost impact information in an AD 
+typically describes only the ``direct'' costs of
+
+[[Page 34071]]
+
+specific actions, and does not include incidental costs, such as the 
+time required to gain access and close up; planning time; or time 
+necessitated by other administrative actions. Because incidental costs 
+may vary significantly from operator to operator, they are almost 
+impossible to calculate. Additionally, since this is an optional 
+modification, operators may choose not to incur such costs, or may 
+minimize costs by accomplishing the modification during scheduled 
+maintenance. No change is made to the final rule.
+
+Additional Changes to the AD
+
+    To clarify actions for airplanes on which modifications have been 
+installed in production and those on which service bulletins have been 
+accomplished as retrofit, the FAA has revised paragraph (c)(2) of the 
+AD to refer to certain modifications as ``Airbus Production 
+Modification * * *.'' Additionally, a heading has been included to 
+specify the actions required by paragraphs (c) and (d) of the AD.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 126 airplanes of U.S. registry that will be 
+affected by this AD.
+    It takes approximately 60 work hours per airplane to accomplish the 
+modification of the rear spar web of the wing, as required by AD 93-08-
+15 and retained in this AD, at an average labor rate of $60 per work 
+hour. Based on these figures, the total cost impact of the modification 
+on U.S. operators is estimated to be $3,600 per airplane.
+    It takes approximately 600 work hours per airplane to accomplish 
+the cold expansion of certain holes associated with the MLG, as 
+required by AD 93-25-13 and retained in this AD, at an average labor 
+rate of $60 per work hour. Required parts are provided by the 
+manufacturer at no cost to the operators. Based on these figures, the 
+total cost impact of the cold expansion on U.S. operators is estimated 
+to be $36,000 per airplane.
+    The new inspection that is required by this new AD will take 
+approximately 24 work hours per airplane to accomplish, at an average 
+labor rate of $60 per work hour. Based on these figures, the cost 
+impact of the new requirements of this AD on U.S. operators is 
+estimated to be $181,440, or $1,440 per airplane, per inspection cycle.
+    The cost impact figures discussed above are based on assumptions 
+that no operator has yet accomplished any of the requirements of this 
+AD action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted.
+    Should an operator elect to accomplish the optional terminating 
+action specified in this AD, it would take approximately 750 work 
+hours, at an average labor rate of $60 per work hour. The required 
+parts would cost $27,036; $30,595; or $32,727; depending on the 
+airplane configuration. Based on these figures, the cost per airplane 
+of the optional terminating action provided by this AD is estimated to 
+be $72,036; $75,595; or $77,727.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by removing amendments 39-8563 (58 FR 
+27923, May 12, 1993) and 39-8777 (59 FR 1903, January 13, 1994), and by 
+adding a new airworthiness directive (AD), amendment 39-11739, to read 
+as follows:
+
+2000-10-15  Airbus Industrie: Amendment 39-11739. Docket 98-NM-99-
+AD. Supersedes AD 93-08-15, Amendment 39-8563; and AD 93-25-13, 
+Amendment 39-8777.
+    Applicability: Model A320 series airplanes, certificated in any 
+category, except those on which Airbus Modification 24591 (Airbus 
+Service Bulletin A320-57-1089, dated December 22, 1996; Revision 01, 
+dated April 17, 1997; or Revision 02, dated November 6, 1998) has 
+been accomplished.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+otherwise modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (f)(1) 
+of this AD. The request should include an assessment of the effect 
+of the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To detect and correct fatigue cracking in certain areas of the 
+rear spar of the wing, which may lead to reduced structural 
+integrity of the wing and the main landing gear (MLG), accomplish 
+the following:
+
+Restatement of Actions Required by AD 93-08-15
+
+    (a) For airplanes having manufacturer's serial numbers (MSN) 003 
+through 008 inclusive, and 010 through 021 inclusive: Prior to the 
+accumulation of 12,000 total flight cycles, or within 500 flight 
+cycles after June 11, 1993 (the effective date of AD 93-08-15, 
+amendment 39-8563), whichever occurs later, modify the inner rear 
+spar web of the wing in accordance with Airbus Service Bulletin 
+A320-57-1004, Revision 1, dated September 24, 1992, or Revision 2, 
+dated June 14, 1993.
+
+Restatement of Actions Required by AD 93-25-13
+
+    (b) For airplanes having MSN's 002 through 051 inclusive: Prior 
+to the accumulation of 12,000 total flight cycles, or within 2,000 
+flight cycles after February 14, 1994 (the effective date of AD 93-
+25-13,
+
+[[Page 34072]]
+
+amendment 39-8777), whichever occurs later, accomplish the 
+requirements of paragraphs (b)(1) and (b)(2) of this AD in 
+accordance with Airbus Service Bulletin A320-57-1060, dated December 
+8, 1992; or Revision 2, dated December 16, 1994.
+    (1) Perform a cold expansion of all the attachment holes for the 
+forward pintle fitting of the MLG, except for the holes that are for 
+taper-lok bolts.
+    (2) Perform a cold expansion of the holes at the actuating 
+cylinder anchorage of the MLG.
+
+    Note 2: Accomplishment of the cold expansion in accordance with 
+Airbus Service Bulletin A320-57-1060, Revision 1, dated April 26, 
+1993, is also acceptable for compliance with the requirements of 
+paragraph (b) of this AD.
+
+New Actions Required by This AD
+
+Ultrasonic Inspections and Corrective Action
+
+    (c) For all airplanes: Perform an ultrasonic inspection to 
+detect cracking of the rear spar of the wing, in accordance with 
+Airbus Service Bulletin A320-57-1088, Revision 02, dated July 29, 
+1999; at the applicable time specified by paragraph (c)(1) or (c)(2) 
+of this AD. Repeat the inspection thereafter at intervals not to 
+exceed 3,600 flight cycles.
+    (1) For airplanes on which the actions specified by Airbus 
+Service Bulletin A320-57-1004, Revision 2, dated June 14, 1993, or 
+earlier version; and Airbus Service Bulletin A320-57-1060, Revision 
+02, dated December 16, 1994, or earlier version; have been 
+accomplished: Perform the inspection of all applicable fastener 
+holes within 12,000 flight cycles after accomplishment of the 
+service bulletins, or within 750 flight cycles after the effective 
+date of this AD, whichever occurs later.
+    (2) For airplanes on which the actions specified by Airbus 
+Production Modification 20740 and Airbus Service Bulletin A320-57-
+1060, Revision 2, dated December 16, 1994, or earlier version, have 
+been accomplished; or on which Airbus Production Modifications 
+20740, 20741, and 20796 have been accomplished: Perform the 
+inspections at the locations and applicable times specified by 
+paragraphs (c)(2)(i) and (c)(2)(ii) of this AD.
+    (i) Perform the inspection of left and right fastener holes 52 
+to 55, 82, 83, 87, and 88; located in the rear spar of the wing; 
+prior to the accumulation of 17,300 total flight cycles, or within 
+750 flight cycles after the effective date of this AD, whichever 
+occurs later. If any cracking is found, prior to further flight, 
+accomplish the requirements of paragraph (c)(2)(ii) of this AD.
+    (ii) Except as required by paragraph (c)(2)(i) of this AD: 
+Perform the inspection of all fastener holes located in the rear 
+spar of the wing that are not identified in paragraph (c)(2)(i) of 
+this AD prior to the accumulation of 20,000 total flight cycles, or 
+within 200 flight cycles after the effective date of this AD, 
+whichever occurs later.
+
+    Note 3: Accomplishment of the actions specified by Airbus 
+Service Bulletin A320-57-1088, dated September 30, 1996, or Revision 
+01, dated September 17, 1997, prior to the effective date of this AD 
+is acceptable for compliance with the requirements of the initial 
+inspection required by paragraph (c) of this AD.
+
+    (d) If any crack is found during any inspection required by 
+paragraph (c) of this AD: Prior to further flight, repair in 
+accordance with a method approved by either the Manager, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate; 
+or the Direction Generale de l'Aviation Civile (DGAC) (or its 
+delegated agent). For a repair method to be approved by the Manager, 
+International Branch, ANM-116, as required by this paragraph, the 
+Manager's approval letter must specifically reference this AD.
+
+Optional Terminating Action
+
+    (e) Modification of all specified fastener holes in the rear 
+spar of the wing in accordance with Airbus Service Bulletin A320-57-
+1089, dated December 22, 1996; Revision 01, dated April 17, 1997; or 
+Revision 02, dated November 6, 1998; constitutes terminating action 
+for the ultrasonic inspections required by paragraph (c) of this AD. 
+Such modification, if accomplished prior to the accumulation of 
+12,000 total flight cycles, also constitutes terminating action for 
+the actions required by paragraphs (a) and (b) of this AD.
+
+Alternative Methods of Compliance
+
+    (f)(1) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, International Branch, ANM-116. 
+Operators shall submit their requests through an appropriate FAA 
+Principal Maintenance Inspector, who may add comments and then send 
+it to the Manager, International Branch, ANM-116.
+    (2) Alternative methods of compliance, approved previously in 
+accordance with AD 93-25-13; amendment 39-8777, are approved as 
+alternative methods of compliance with this AD.
+
+    Note 4: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the International Branch, ANM-116.
+
+Special Flight Permits
+
+    (g) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (h) Except as required by paragraph (d) of the AD, the actions 
+shall be done in accordance with Airbus Service Bulletin A320-57-
+1004, Revision 1, dated September 24, 1992; Airbus Service Bulletin 
+A320-57-1004, Revision 2, dated June 14, 1993; Airbus Service 
+Bulletin A320-57-1060, dated December 8, 1992; Airbus Service 
+Bulletin A320-57-1060, Revision 2, dated December 16, 1994; or 
+Airbus Service Bulletin A320-57-1088, Revision 02, including 
+Appendix 01, dated July 29, 1999; as applicable. Airbus Service 
+Bulletin A320-57-1004, Revision 2, dated June 14, 1993, contains the 
+following list of effective pages:
+
+----------------------------------------------------------------------------------------------------------------
+                                             Revision level shown on
+                 Page No.                              page                        Date shown on page
+----------------------------------------------------------------------------------------------------------------
+1, 4, 12, 14, 17-20, 22, 23, 28, 29......  2..........................  June 14, 1993.
+15.......................................  1..........................  September 24, 1992.
+2, 3, 5-11, 13, 16, 21, 24-27, 30........  Original...................  July 9, 1991.
+----------------------------------------------------------------------------------------------------------------
+
+    (1) The incorporation by reference of Airbus Service Bulletin 
+A320-57-1004, Revision 2, dated June 14, 1993; Airbus Service 
+Bulletin A320-57-1060, Revision 2, dated December 16, 1994; and 
+Airbus Service Bulletin A320-57-1088, Revision 02, including 
+Appendix 01, dated July 29, 1999; is approved by the Director of the 
+Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 
+51.
+    (2) The incorporation by reference of Airbus Service Bulletin 
+A320-57-1004, Revision 1, dated September 24, 1992, was approved 
+previously by the Director of the Federal Register as of June 
+11,1993 (58 FR 27923, May 12, 1993).
+    (3) The incorporation by reference of Airbus Service Bulletin 
+A320-57-1060, dated December 8, 1992, was approved previously by the 
+Director of the Federal Register as of February 14, 1994 (59 FR 
+1903, January 13, 1994).
+    (4) Copies may be obtained from Airbus Industrie, 1 Rond Point 
+Maurice Bellonte, 31707 Blagnac Cedex, France. Copies may be 
+inspected at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the Office of the Federal 
+Register, 800 North Capitol Street, NW., suite 700, Washington, DC.
+
+    Note 5: The subject of this AD is addressed in French 
+airworthiness directive 1999-264-135(B), dated June 30, 1999.
+
+    (i) This amendment becomes effective on June 30, 2000.
+
+
+    Issued in Renton, Washington, on May 16, 2000.
+Donald L. Riggin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 00-12816 Filed 5-25-00; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre></body>
+</html>

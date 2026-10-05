@@ -1,0 +1,2006 @@
+<html>
+<head>
+<title>Federal Register, Volume 81 Issue 155 (Thursday, August 11, 2016)</title>
+</head>
+<body><pre>
+[Federal Register Volume 81, Number 155 (Thursday, August 11, 2016)]
+[Rules and Regulations]
+[Pages 52975-52991]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-18708]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-0002; Directorate Identifier 2011-NE-42-AD; 
+Amendment 39-18610; AD 2016-16-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Continental Motors, Inc. Reciprocating 
+Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Continental Motors, Inc., (CMI) San Antonio (formerly known as 
+Airmotive Engineering Corp. (AEC)), replacement parts manufacturer 
+approval (PMA) cylinder assemblies marketed by Engine Components 
+International Division (ECi). On July 17, 2015, AEC was purchased by 
+CMI and is now operating as ``Continental Motors--San Antonio.'' These 
+cylinder assemblies are used on all CMI model -520 and -550 
+reciprocating engines, and on all other CMI engine models approved for 
+the use of model -520 and -550 cylinder assemblies, such as the CMI 
+model -470 when modified by supplemental type certificate (STC). This 
+AD was prompted by reports of multiple cylinder head-to-barrel 
+separations and cracked and leaking aluminum cylinder heads. This AD 
+requires removal of the affected cylinder assemblies, including 
+overhauled cylinder assemblies, according to a phased removal schedule. 
+We are issuing this AD to prevent failure of the cylinder assemblies, 
+which could lead to failure of the engine, in-flight shutdown, and loss 
+of control of the airplane.
+
+DATES: This AD is effective September 15, 2016.
+
+ADDRESSES: For service information identified in this AD, contact 
+Continental Motors, Inc., San Antonio, 9503 Middlex Drive, San Antonio, 
+TX 78217; phone: 210-820-8100; Internet: <a href="http://www.continentalsanantonio.com">http://www.continentalsanantonio.com</a>. You may view this service information
+
+[[Page 52976]]
+
+at the FAA, Engine & Propeller Directorate, 1200 District Avenue, 
+Burlington, MA. For information on the availability of this material at 
+the FAA, call 781-238-7125. It is also available on the Internet at 
+<a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. 
+FAA-2012-0002.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2012-
+0002; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Document Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Jurgen E. Priester, Aerospace 
+Engineer, Delegation Systems Certification Office, FAA, Rotorcraft 
+Directorate, 10101 Hillwood Parkway, Fort Worth, TX 76177; phone: 817-
+222-5190; fax: 817-222-5785; email: <a href="/cdn-cgi/l/email-protection#600a151207050e4e054e1012090513140512200601014e070f16"><span class="__cf_email__" data-cfemail="6a001f180d0f04440f441a18030f191e0f182a0c0b0b440d051c">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+August 12, 2013--NPRM
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain CMI San Antonio 
+replacement PMA cylinder assemblies marketed by ECi. These assemblies 
+are used on CMI model -520 and -550 reciprocating engines, and all 
+other CMI engine models approved for the use of models -520 and -550 
+cylinder assemblies such as the CMI model -470 when modified by STC. 
+The NPRM published in the Federal Register on August 12, 2013 (78 FR 
+48828) (referred to herein after as the ``August 12, 2013, NPRM''). The 
+August 12, 2013, NPRM proposed to require initial and repetitive 
+inspections, immediate replacement of cracked cylinder assemblies, and 
+replacement of cylinder assemblies at reduced times-in-service (TIS) 
+since new. The August 12, 2013, NPRM also proposed to prohibit the 
+installation of affected cylinder assemblies into any engine.
+
+September 26, 2013-March 12, 2014--Posting Technical Documents/
+Extension of Comment Period/Initial Regulatory Flexibility Analysis 
+(IRFA)
+
+    We received several hundred comments to our August 12, 2013, NPRM. 
+In response to this high-level of public interest, we undertook several 
+actions to help the public understand and provide further comment on 
+our proposed rule. These actions included:
+    <bullet> Extending the comment period to the August 12, 2013, NPRM;
+    <bullet> publishing an IRFA; and
+    <bullet> adding several technical documents that were posted to 
+Docket No. FAA-2012-0002 (see Addresses section of this final rule for 
+information on locating the docket) on September 20, 2013.
+    Documents added to the docket include:
+    (1) FAA Safety Recommendations 08.365, 08.366, and 11.216, which 
+were written against the subject ECi cylinder assemblies;
+    (2) NTSB Safety Recommendation A-12-7, also written against the 
+subject ECi cylinder assemblies;
+    (3) The original ECi AD worksheet for 2011-NE-42-AD, which 
+documents the reasons for the proposed rule;
+    (4) A list of separations of ECi cylinder assemblies;
+    (5) A white paper \1\ on failures of ECi cylinders by the FAA Chief 
+Scientific and Technical Adviser (CSTA) for Engine Dynamics;
+---------------------------------------------------------------------------
+
+    \1\ An authoritative report that informs readers about a complex 
+issue.
+---------------------------------------------------------------------------
+
+    (6) Figures showing ECi Dome Separation Failures;
+    (7) A briefing on ``ECi Cylinder Head Failures on Continental IO 
+520 & 550 Engines''; and
+    (8) FAA Policy Memorandum on ``Risk Assessment for Reciprocating 
+Engine Airworthiness Directives,'' dated May 24, 1999.
+    We notified the public of these actions on September 26, 2013, via 
+the Federal Register (78 FR 59293). In that notification, we extended 
+the comment period for the August 12, 2013, NPRM to December 11, 2013. 
+This extension allowed the public additional time to comment on our 
+August 12, 2013, NPRM and the additional information we had added to 
+the docket.
+    We also determined that we needed to add to the docket a detailed 
+regulatory flexibility analysis to estimate the effects of the proposed 
+rule on small business entities. We published an Initial Regulatory 
+Flexibility Analysis in Docket FAA-2012-0002 on March 12, 2014 (79 FR 
+13924).
+
+September 3-4, 2014--Challenge Team's Review of August 12, 2013, NPRM
+
+    Because the response to our August 12, 2013, NPRM was so negative--
+we received over 500 comments, most disagreeing with the NPRM--we 
+established a Challenge Team to review our proposed AD. The Challenge 
+Team was an independent, multi-disciplinary team, consisting of three 
+FAA CSTAs, FAA Aircraft Certification Service (AIR) managers, and other 
+FAA technical experts from all four Directorates.
+    The Challenge Team reviewed the technical information that formed 
+the basis for our proposed AD and the public comments we had received 
+concerning our proposal. The CSTA for Aircraft Safety Analysis also 
+independently computed a new risk assessment using the earlier failure 
+reports, and the additional failure reports that we received from the 
+public as comments to our August 12, 2013, NPRM.
+    Based on their review of this data and the new risk assessment of 
+failures of affected cylinder assemblies, the Challenge Team determined 
+that an AD was still required. But, they suggested changes to make 
+compliance less aggressive and substantially reduce cost. Their 
+recommended changes included revising the compliance schedule in favor 
+of a phased removal schedule, clarifying that overhauled cylinder 
+assemblies are included in the proposed phased removal schedule, 
+eliminating the reporting requirement for removed cylinder assemblies, 
+and removing the requirement for initial and repetitive inspection.
+
+January 8, 2015--First Supplemental Notice of Proposed Rulemaking 
+(SNPRM)
+
+    We adopted the Challenge Team's recommendations, and we then 
+published them as an SNPRM in the Federal Register on January 8, 2015 
+(80 FR 1008) (referred to herein after as the ``January 8, 2015, 
+SNPRM''). The January 8, 2015, SNPRM proposed to modify the schedule 
+for removal of the affected cylinder assemblies, added that overhauled 
+affected cylinder assemblies be removed within 80 hours, eliminated a 
+reporting requirement, and removed a requirement for initial and 
+repetitive inspections.
+    We also responded in our January 8, 2015, SNPRM, to the several 
+hundred comments that we received to the August 12, 2013, NPRM. Many of 
+these comments were repetitious, so we grouped the comments and 
+provided our responses to the different groups,
+
+[[Page 52977]]
+
+depending on the nature of the comment. For example, some comments 
+claimed that airplanes can operate safely with a separated cylinder 
+head; others suggested that pilot error was causing cylinder head 
+separations; and others recommended adopting less stringent compliance 
+requirements. Each of these groups received our response to the group's 
+comment.
+
+June 9, 2015--Meeting With National Transportation Safety Board (NTSB)
+
+    The NTSB, in its comments to our August 12, 2013, NPRM; January 8, 
+2015, SNPRM; and in its Safety Recommendation A-12-07, did not fully 
+support our approach to resolving the unsafe condition that is the 
+subject of this final rule. Therefore, we met with the NTSB on June 9, 
+2015 to understand the technical basis for their recommendation and 
+their technical objections to our proposed AD. At this meeting, we 
+presented the NTSB the technical information upon which we based our AD 
+as amended. Information that was reviewed included failure reports, the 
+risk assessment by the FAA's CSTA for Aircraft Safety Analysis, FAA 
+safety recommendations, and the data supporting our conclusion that 
+field inspections had an insufficient probability of cylinder failure 
+detection.
+    The NTSB noted in this meeting that Safety Recommendation A-12-7, 
+and the NTSB's comments to the August 12, 2013, NPRM and the January 8, 
+2015, SNPRM, were based on the information available to them at that 
+time. The NTSB also indicated it would reassess its recommendation and 
+comments to our proposed rule based on the presentations and the 
+supporting data that we had presented.
+
+June 23, 2015--Additional Technical Documents Posted
+
+    We received additional comments to our August 12, 2013, NPRM and 
+our January 8, 2015, SNPRM, requesting that we provide additional 
+information that supports this AD. Commenters also requested that we 
+identify the data that we relied on in drafting this AD and to explain 
+why that data supported our conclusion that an unsafe condition exists. 
+Based on these comments, we concluded that further additional public 
+participation in our proposed AD was appropriate. Specifically, we 
+concluded that we would post to the docket the additional technical 
+information responsive to the comments. So, on June 23, 2015, we posted 
+the additional technical information to Docket No. FAA-2012-0002 (see 
+ADDRESSES section of this final rule for information on locating the 
+docket). These documents provide further technical rationale for this 
+AD. This additional technical information included:
+    (1) The risk analysis process conducted by the FAA's CSTA for 
+Aircraft Safety Analysis--referenced in Docket No. FAA-2012-0002 as the 
+``Proposed Airworthiness Directive for ECi Cylinders Risk Analysis 
+Process,'' referred to herein as the ``risk analysis'';
+    (2) A risk analysis using the Small Airplane Risk Analysis (SARA) 
+methods used by the FAA's Small Airplane Directorate (SAD)--referenced 
+in Docket No. FAA-2012-0002 as ``SARA Worksheet Systems/Propulsion'';
+    (3) A June 2011, presentation by AEC to the FAA concerning its ECi 
+cylinder assemblies;
+    (4) A list of ECi cylinder assembly failure reports consisting of 
+only those reports where both cylinder serial number and time in 
+service are included in the reports;
+    (5) A list of additional failures of ECi cylinder assemblies 
+reported by a maintenance organization; and
+    (6) AEC Technical Report 1102-13, dated April 30, 2011.
+
+August 28, 2015--2nd SNPRM
+
+    We published a second SNPRM in the Federal Register on August 28, 
+2015 (80 FR 52212, referred to herein after as the ``August 28, 2015, 
+SNPRM''). The August 28, 2015, SNPRM retained the compliance 
+requirements proposed by the January 8, 2015, SNPRM. We published the 
+August 28, 2015, SNPRM to provide the public a final opportunity to 
+comment on the proposed AD and the additional technical documentation 
+we had added to the docket on June 23, 2015.
+    Also, since many commenters had cited NTSB support for their 
+positions, we wanted to clarify our rationale for disagreeing with the 
+compliance actions proposed by the NTSB in its Safety Recommendation A-
+12-7, and the NTSB's comments to the August 12, 2013, NPRM and the 
+January 8, 2015, SNPRM.
+    The NTSB did submit a final comment to our August 28, 2015, SNPRM, 
+that was posted to the docket on November 23, 2015. In the NTSB's final 
+comment, the NTSB indicated that it now considers that our proposed 
+compliance actions satisfy the intent of Safety Recommendation A-12-7. 
+The information we covered with the NTSB, including copies of FAA 
+presentations to the NTSB, were subsequently posted to Docket No. FAA-
+2012-0002 (see ADDRESSES section of this final rule for information on 
+locating the docket) on April 6, 2016.
+
+Comments
+
+Introduction
+
+    We have, through the August 12, 2013, NPRM; the September 26, 2013, 
+posting of additional information; our extension of the August 12, 
+2013, NPRM comment period; the January 8, 2015, SNPRM; and August 28, 
+2015, SNPRM, given the public the opportunity to participate in 
+developing this AD. The public, as noted already, has participated 
+deeply in this rule making; providing hundreds of comments.
+    This final rule includes our responses to any previously 
+unaddressed comments to the August 12, 2013, NPRM and to the January 8, 
+2015, SNPRM, that we may have left without response, and to the August 
+28, 2015, SNPRM.
+    To organize comments and facilitate their review, we again grouped 
+like comments and responses. These groupings in this final rule's 
+comments section are:
+    (1) Comments to withdraw or revise the SNPRMs for technical 
+reasons--these comments, and the resulting groupings, were similar to 
+those we used in responding to the August 12, 2013, NPRM. They include, 
+for example, requests to withdraw the SNPRM because the commenters 
+claim that ECi cylinder assemblies are not unsafe; airplanes can 
+operate safely with a separated cylinder head; or the root cause of 
+cylinder failure is unknown.
+    (2) Comments to the FAA's risk assessment processes and policies--
+these comments generally asserted that the SNPRMs should be withdrawn 
+because the FAA had not appropriately followed its risk assessment 
+processes and policies in determining that the failure of ECi cylinder 
+assemblies represents an unsafe condition.
+    (3) Comments to the FAA's rulemaking processes--these comments 
+generally requested that the SNPRMs be withdrawn, alleging that the FAA 
+had failed to follow its rulemaking processes and was adopting a rule 
+that is ``arbitrary and capricious.''
+    (4) Comments to the cost of compliance--these comments indicated 
+that the cost of compliance to this AD was higher than the FAA has 
+estimated and will have a substantial effect on small entities.
+    (5) Administrative comments--these were generally comments that did 
+not pertain to the substance of this AD, such as requests for names and 
+phone numbers of FAA personnel involved in this rulemaking.
+    (6) Support for the SNPRMs--these were comments in support of 
+issuing the SNPRMs.
+
+[[Page 52978]]
+
+A. Comments To Withdraw or Revise the SNPRMs for Technical Reasons
+
+Request To Withdraw the SNPRMs Because ECi Cylinder Assemblies Are Not 
+Unsafe
+    Comment. Several organizations and individuals, commenting to the 
+August 12, 2013, NPRM, commented also to the January 8, 2015, and 
+August 28, 2015, SNPRMs, that the affected ECi cylinder assemblies have 
+an equivalent, or lower, failure rate than that of cylinder assemblies 
+manufactured by the original equipment manufacturer (OEM). The 
+commenters also indicated that there have been no failures of ECi 
+cylinder assemblies in the last 3 years. These commenters request the 
+FAA withdraw this AD because they believe that the ECi cylinder 
+assemblies are not unsafe.
+    Response. We disagree. The rate of separation for the affected ECi 
+cylinder assemblies is at least 32 times greater than that of OEM 
+cylinder assemblies over the same period. Although there are 
+approximately four times as many OEM cylinder assemblies in service 
+than ECi cylinder assemblies, the ECi cylinder assemblies suffered more 
+cylinder head separations than OEM cylinder assemblies since 2004. This 
+data is available for review in Docket No. FAA-2012-0002 (see ADDRESSES 
+section of this final rule for information on locating the docket). In 
+addition, we have continued to receive field reports of failures of the 
+affected cylinders in the past three years. We did not withdraw the 
+August 28, 2015, SNPRM.
+    Comment. Commenters also questioned the validity of the data that 
+the FAA used to justify the proposed AD.
+    Response. We interpret the comment as suggesting that the data used 
+to justify the rule is not valid. We disagree. We used warranty reports 
+from ECi and RAM Aircraft, which is a major overhauler of CMI engines, 
+STC holder for an increased horsepower version of the affected model 
+engine, and the largest user of the affected ECi cylinders. We also 
+used service difficulty reports (SDRs), and other field service reports 
+regarding ECI cylinder separations. We did not withdraw the August 28, 
+2015, SNPRM.
+    Comment. The IPL Group LLC (IPL Group) commented that the FAA has 
+mischaracterized ``quality enhancements'' in production as ``design 
+changes.'' IPL Group noted that ECi had applied experience gained 
+during manufacturing, as well as through service feedback, to make 
+quality improvements in production and the changes made to the design 
+data were not due to design deficiencies.
+    Response. We disagree. We correctly stated that ECi has made 
+increases in the dome transition radius through cylinder serial number 
+33697, and has made incremental increases in the head-to-barrel 
+interference fit at least through cylinder serial number 61177 (see 
+Airmotive Engineering Technical Report 1102-13) to address the two 
+identified inherent design deficiencies associated with the effected 
+cylinder assemblies. These changes are design changes. We did not 
+withdraw the August 28, 2015, SNPRM.
+    Comment. RAM Aircraft commented that when it submitted its December 
+9, 2013, comment, it calculated the likelihood of a cylinder 
+separation. RAM Aircraft indicated it provided a significant amount of 
+data that proves that the likelihood of a cylinder separation is 
+``extremely remote.'' RAM commented that at that time their data showed 
+one cylinder separation for every: 21,808 multi-engine aircraft flight 
+hours, or 172 average years of active service; and 42,057 single engine 
+aircraft flight hours, or 455 average years of active service. Further, 
+that the fleet of aircraft using the cylinders subject to the January 
+8, 2015, SNPRM have continued to fly for an additional 14 months since 
+December 9, 2013. RAM Aircraft indicated that there is no doubt that 
+both the 21,808 multi-engine aircraft flight hour number, and the 
+42,057 single engine aircraft flight hour number, would both be now 
+much larger, thereby, further reducing the likelihood of a cylinder 
+separation.
+    Response. We disagree. RAM Aircraft's data does not substantiate 
+its claimed failure rate. Without knowing the total number of hours 
+flown on all affected cylinders, it is not possible to accurately 
+calculate an hours-based failure rate. This data is not available for 
+general aviation aircraft. We, therefore, find RAM Aircraft's estimate 
+to be unreliable. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. RAM Aircraft also indicated that a statement by the FAA in 
+the January 8, 2015, SNPRM regarding numbers of failures of affected 
+cylinder assemblies was grossly misleading. RAM Aircraft assumes that 
+the FAA is referring to reports entered via the SDR system. RAM 
+Aircraft indicated that it has provided evidence in an earlier comment 
+that not every piece of information in the SDR system can be taken at 
+face value. With respect to this SNPRM, RAM suggested that it is very 
+important to distinguish between the ``SNPRM failure modes'' 
+(quotations not in original comment) and other types of ``nuisance'' 
+cracks that are common occurrences in all manufacturer's air-cooled 
+aircraft cylinders. The SNPRM failure modes do not include cracks 
+between spark plug holes, valve seats, injector ports, etc. There is no 
+doubt that the ``hundreds of failures'' referenced by the FAA were 
+never researched to determine which were of the SNPRM failure mode and 
+which were of the ``nuisance'' variety.
+    Response. We disagree. Our response in the January 8, 2015, SNRPM 
+is not misleading. On the contrary, under-reporting of cylinder 
+assembly cracks in the SDR system further reinforces the need for this 
+AD. Further, the FAA did not include the SDR failure reports referred 
+to by the commenter as of the ``nuisance'' variety in the list of 
+separations that were used to substantiate the need for this AD. We did 
+not base this AD on nuisance cracks in the affected cylinder 
+assemblies. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. One commenter stated that the separated cylinders that 
+were determined to be the precipitating root cause events for the two 
+fatal accidents cited by the FAA in the January 8, 2015, SNPRM were 
+overhauled cylinders, so they therefore should not be considered in the 
+determination as to whether or not the proposed corrective action 
+should be implemented.
+    Response. We disagree. The ECi cylinder heads, P/N AEC 65385, of 
+the separated cylinder assemblies that precipitated the two referenced 
+fatal accidents were of the same type design and within the same 
+affected cylinder assembly serial number range as are used in new ECi 
+cylinder assemblies. The cast and then machined aluminum cylinder head 
+shrink band region has the predominant features that define the final 
+interference fit of the overall cylinder assembly, not the steel 
+barrel. This is further supported by the fact that the design changes 
+that ECi made to the interference fit were accomplished by modification 
+of the cylinder head. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. Danbury Holdings commented that the FAA should withdraw 
+the August 28, 2015 SNPRM because the FAA failed to establish that the 
+affected product, i.e., the ECi cylinder assemblies, do not meet the 
+established minimum safety standards established by 14 CFR part 33.
+    Response. We disagree. The operational history of the affected ECi 
+cylinder assemblies established that the affected ECi cylinder 
+assemblies present an unacceptable compromise to safety, an unsafe 
+condition, when installed in operating aircraft engines. We did not 
+withdraw the August 28, 2015, SNPRM.
+
+[[Page 52979]]
+
+    Comment. Danbury Holdings also stated that the ``same unsafe 
+condition'' that is addressed by this AD is present in the cylinders of 
+all manufacturers and that the FAA failed to consider similar failures 
+of the OEM cylinders.
+    Response. We disagree. The affected ECi PMA cylinders have 
+separated at a significantly higher rate than the OEM cylinders over 
+the same service period since the ECi PMA cylinders entered service. 
+ECi itself identified two root causes for the separations. See AEC 
+Technical Report 1102-13 in Docket No. FAA-2012-0002 (see ADDRESSES 
+section of this final rule for information on locating the docket) 
+which recommends withdrawal from service of the affected ECi cylinders. 
+We compared the number of separations of these affected ECi PMA 
+cylinders to the number of OEM separations over the same service 
+period, since the ECi PMA cylinders entered service in meaningful 
+numbers. Over the same period of time the affected ECi PMA cylinders 
+and OEM cylinders were in service, the ECi cylinders experienced eight 
+times the number of OEM separations, even though only one-quarter as 
+many ECI cylinders were in service as the OEM's. Further, the SDR 
+database does not reveal similar separation rates or similar failure 
+modes for OEM cylinders. Therefore, we have no reason to regard the OEM 
+cylinder assemblies as subject to the same or similar unsafe condition. 
+We did not withdraw the August 28, 2015, SNPRM.
+Request To Withdraw the SNPRMs Because Airplanes Can Operate Safely 
+With a Separated Cylinder Head
+    Comment. Several commenters indicated that we should not issue this 
+AD because airplanes can continue to operate safely even after a 
+cylinder head separation.
+    Response. We disagree. An in-flight cylinder head separation is an 
+unsafe condition that presents multiple secondary effects. For example, 
+in-flight fire and loss of aircraft control. Accident data confirms 
+that separated cylinders have also been a precipitating event in fatal 
+accidents. Therefore, the safety consequences represented by a cylinder 
+head separation in flight are significant, and represent an unsafe 
+condition appropriate for an AD. We did not withdraw the August 28, 
+2015, SNPRM.
+    Comment. Several commenters added that airplane engines are 
+designed and certified to safely operate with one failed cylinder.
+    Response. We disagree. Applicants are not required to show that 
+their engines are designed to operate with one cylinder failed or with 
+a separated cylinder, nor that doing so constitutes safe operation of 
+an engine. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. Danbury Aerospace commented that the docket contains 
+evidence from RAM Aircraft that valid and verifiable testing 
+establishes that a head-to-barrel separation results in less than 20 
+percent power loss to the engine.
+    Response. We disagree. The RAM Aircraft testing that is included in 
+Docket FAA-2012-0002 only quantified the horsepower output per 
+cylinder. The RAM Aircraft testing was of an uninstalled engine in a 
+test cell and RAM Aircraft did not attempt to assess the impact of 
+reduced engine horsepower output on airplane level performance. We 
+estimate that a 20% reduction in engine horsepower on a single-engine 
+airplane results in a nearly 40% reduction in aircraft rate of climb, 
+which is a hazardous condition. It is also a potentially hazardous 
+condition for twin-engine airplanes due to the resultant asymmetric 
+thrust condition. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. Danbury Aerospace indicated that FAA guidance material 
+does not define this condition as ``hazardous'' in the certification 
+process.
+    Response. We interpret the comment to be that the FAA has no 
+definition of hazardous event that includes loss of one cylinder in a 
+six-cylinder engine, within the engine certification regulations (14 
+CFR part 33). We agree. The certification process does not define 
+``hazardous events.'' The FAA establishes through the engine 
+certification process the minimum standards that an engine needs to 
+meet to be considered airworthy. For example, Sec.  33.19 establishes 
+durability standards that are designed to minimize the development of 
+an unsafe condition between overhaul periods. These minimum safety 
+standards must also be met by PMA parts, either through establishing 
+identicality or through test and computation. FAA Policy PS-ANE100-
+1997-00001, provides guidance for the certification of PMA applications 
+for reciprocating engine critical, highly stressed or complex parts, 
+including, but not limited to crankshafts and cylinder heads. We did 
+not withdraw the August 28, 2015, SNPRM.
+    Comment. RAM Aircraft commented that it has run tests that 
+substantiate and document the power loss as a ``minor power loss'' in 
+the event of a cylinder separation.
+    Response. We interpret the comment to be that any power loss from 
+cylinder head separation is only minor. We disagree. The loss of one 
+cylinder's power would equate to approximately a 17 to 20% reduction in 
+engine horsepower output. Further, loss of a cylinder at critical 
+phases of flight, for example, during climb-out where like here, the 
+failure is at increased probability of occurring, produces a power loss 
+sufficient to result in a 40% reduction in airplane rate of climb. This 
+would constitute a hazardous condition during a critical phase of 
+flight like departure/climb. We did not withdraw the August 28, 2015, 
+SNPRM.
+    Comment. RAM Aircraft suggested that this minor power loss would be 
+classified as a ``minor hazard,'' based on guidance from the FAA's 
+``Policy Statement on Risk Assessment for Reciprocating Engine 
+Airworthiness Directives'' (PS-ANE100-1999-00006). According to the FAA 
+policy statement, minor hazards are candidates for AD action only when 
+the probability of the event is very high.
+    Response. We disagree. FAA policy classifies service problems that 
+do not result in a significant power loss, such as a partial power 
+loss, rough running, pre-ignition, backfire, single magneto failures, 
+as ``minor.'' We found that cylinder separations results in a 17 to 20% 
+reduction in engine horsepower output results in an approximately 40% 
+reduction in airplane excess power, which translates into a 40% 
+reduction in airplane rate of climb. This constitutes a hazardous 
+condition that is not a ``minor hazard.'' We did not change this AD 
+based on this comment.
+    Comment. RAM Aircraft commented that Appendix VI of the SAD 
+Airworthiness Directives Manual Supplement includes examples of 
+conditions that potentially have a ``minor'' affect. The loss of one 
+engine (multi-engine aircraft) is listed as a condition with a 
+``minor'' effect. Given the ``minor'' effect of the loss of one engine 
+and the likelihood of the cylinder separation being extremely remote, 
+then this AD should not be issued against multi-engine aircraft.
+    Response. We disagree. By comparing the risk analysis computed by 
+the CSTA for Aircraft Safety Analysis with either the Small Airplane 
+Risk Analysis guidelines used by the SAD or the Engine and Propeller 
+Directorate (E&PD) Continued Airworthiness Assessment Process (CAAP) 
+Handbook guidelines, demonstrates that an AD is needed for both single 
+and twin-engine aircraft. We did not withdraw the August 28, 2015, 
+SNPRM.
+    Comment. RAM Aircraft commented that they are not aware of any 
+substantiated fact of a ``fire,'' or any other significant consequence 
+of a
+
+[[Page 52980]]
+
+cylinder head separation. Further, RAM Aircraft noted that in its May 
+12, 2014, comment, it had documented the research it had done to refute 
+the ``rumor'' of a fire resulting from a cylinder head separation of an 
+ECi cylinder.
+    Response. We disagree. RAM Aircraft itself submitted data to the 
+FAA indicating that a fire could occur from cylinder head separation. 
+FAA requested to see that information. FAA's subsequent visit to RAM 
+Aircraft confirmed that a failed cylinder caused an in-flight fire on a 
+Cessna 414 airplane. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. Danbury Aerospace cited FAA documents that indicate that 
+the design of an aircraft engine, for reciprocating engines, should 
+incorporate mitigating features. For example, Danbury quoted SAD 
+Standards Staff (ACE-110) Memorandum, dated May 6, 1986, and an E&PD 
+Standards Staff (ANE-110) memorandum, dated May 24, 1997.
+    Response. We agree. However, the regulatory requirement for a 
+designer to mitigate a possible reciprocating engine failure prior to 
+certification is different than correcting an unsafe condition found to 
+exist after certification. This AD addresses an unsafe condition--
+cylinder head separation, found after certification. A regulatory 
+requirement to mitigate in the aircraft design an engine failure is not 
+the subject of this AD. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. IPL Group commented that we were misusing the term 
+``catastrophic'' when describing the effects of potential cylinder 
+failures.
+    Response. We disagree. As to the use of ``catastrophic,'' we did 
+not use the term in the August 12, 2013, NPRM, the two SNPRMs, or in 
+this final rule AD. We did not change the August 28, 2015, SNPRM based 
+on this comment.
+    Comment. IPL Group argued that a cylinder head separation does not 
+cause an unsafe event and that there is ``zero evidence'' in Docket No. 
+FAA-2012-0002 to support the showing that a failed cylinder causes an 
+unsafe condition.
+    Response. We disagree. Cylinder separations can cause partial or 
+complete engine failure which can cause a subsequent loss of power and 
+control of the airplane. Loss of control of the airplane may result in 
+the loss of the airplane and injuries or death. Additionally, we note 
+the NTSB has stated that cylinder head separations could result in a 
+loss of control of the airplane (see NTSB's comment to ``Docket No FAA-
+2008-0052; Directorate Identifier 2008-NE-01-AD, dated September 25, 
+2009''). We did not withdraw the August 28, 2015, SNPRM.
+    Comment. Danbury Holdings commented that the FAA had not provided 
+any information to substantiate the FAA's position that cylinder 
+separations have a ``significant'' effect on airplane safety or that 
+cylinder separations would result in a fire.
+    Response. We disagree. The impact of a cylinder separation in-
+flight is an unacceptable compromise to safety. To clarify this point, 
+we changed the AD to use ``unacceptable.'' We disagree that cylinder 
+head separations might not result in fire. Cylinder separations can 
+result in engine failure and/or fire. As an example, on November 29, 
+1987, a Piper PA-46 airplane experienced a cylinder head separation 
+followed by an in-flight fire. We did not withdraw the August 28, 2015, 
+SNPRM.
+    Comment. Danbury Holdings also stated that the FAA did not issue a 
+similar AD against the OEM cylinder assemblies because the OEM 
+manufactured more such cylinder assemblies.
+    Response. We disagree. The FAA did not mandate actions similar to 
+those specified in this AD against the OEM cylinders because the OEM 
+cylinders do not have the inherent design deficiencies that the ECi PMA 
+cylinders have. Also, the service history of the OEM cylinders 
+indicates that the OEM separation rate is approximately 32 times lower 
+than the ECi cylinders. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. Danbury Holdings further commented that ADs are never 
+justified for any cylinder manufacturer.
+    Response. We interpret the comment as suggesting that we should not 
+issue an AD when engine design deficiencies related to cylinders are 
+found. We disagree. Cylinders are engine parts whose structural failure 
+can result in a degradation to or total loss of, engine power output, 
+and loss of control of an airplane. Cylinder separations aloft can also 
+cause an in-flight fire. We will exercise our regulatory arm to issue 
+ADs when we determine doing so is necessary to resolve an unsafe 
+condition in a product. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. Danbury Aerospace commented that 14 CFR part 33.43 
+requires assessment of crankshaft vibration for one cylinder not firing 
+because the condition is not an engine failure event condition.
+    Response. We disagree. As we noted in our January 8, 2015, SNPRM, 
+14 CFR part 33 does not require continued safe operation following a 
+cylinder separation or following any other engine structural failure. 
+Section 33.43(d), addressing the engine vibration survey of Sec.  
+33.43(a), requires assessment of crankshaft vibration for an engine 
+that has one cylinder that ``is not firing.'' We require vibration 
+testing with a critical cylinder inoperative because it is a failure 
+condition where stresses may exceed the endurance limit of the 
+crankshaft material. We need to know the speed ranges where the 
+excessive stresses occur so operational information may be provided to 
+flight crews so they can avoid these speed ranges when a cylinder is 
+inoperative. We did not withdraw the August 28, 2015, SNPRM.
+Request To Withdraw the SNPRMs Because Root Cause of Cylinder Failure 
+Is Unknown
+    Comment. Several commenters indicated that the FAA has failed to 
+identify the root cause(s) of cylinder head separations.
+    Response. We disagree. We have identified the root cause of 
+cylinder failure as design deficiencies inherent in the affected ECi 
+cylinder assemblies. These ECi cylinder assemblies have two inherent 
+design deficiencies: Insufficient dome radius and insufficient head-to-
+barrel interference fit. These design deficiencies are identified in 
+AEC Technical Report 1102-13, dated April 30, 2011, that we posted to 
+Docket No. FAA-2012-0002 (see ADDRESSES section of this final rule for 
+information on locating the docket). We did not withdraw the SNPRMs.
+    Comment. Danbury Aerospace commented that root cause analysis is 
+absolutely essential to determining compliance with regulations and if 
+an unsafe condition has been created. Therefore the agency has not 
+properly identified the unsafe condition.
+    Response. We disagree. We identified the unsafe condition in the 
+engine: Cylinder head separation. The purpose of this AD is to correct 
+that unsafe condition. We also identified that cylinder head 
+separations are due to at least two inherent design deficiencies. All 
+cylinders prior to S/N 33697 have insufficient dome transition radius, 
+and all cylinders prior to S/N 61177 insufficient head-to-barrel 
+interference fit. ECi characterized both of these as ``inherent design 
+deficiencies'' in its AEC Technical Report 1102-13. We did not withdraw 
+the August 28, 2015, SNPRM.
+
+[[Page 52981]]
+
+Request To Withdraw the SNPRMs Because Pilot Error Is Causing Cylinder 
+Head Separations
+    Comment. Danbury Aerospace and Danbury Holdings commented that 
+cylinder head separations involving the ECi cylinder assemblies 
+affected by this AD were caused by excessive CHTs, presumably caused 
+pilot error, rather than by design deficiencies of the cylinder 
+assemblies.
+    One operator observed that operators who use the ECi cylinder 
+assemblies and operate them within limits and with good instrumentation 
+are not having issues. This operator noted that everyone, with the 
+exception of the FAA, believes that overheating beyond CHT limits by 
+operators has a direct effect on cylinder head separation.
+    Response. We disagree. Although pilot error may cause excessive 
+CHT, we have no data to suggest it is the cause of the unsafe condition 
+that is the subject of this AD. If pilot error results in excessive 
+CHT, which leads to cylinder head separation, then we would expect to 
+see similar damage in engines with other than ECi cylinder assemblies 
+installed where the pilots exceeded the same limitation(s). However, we 
+do not have any such data. Also, we have no evidence that either 
+intentional or inadvertent exceedance of CHT limits has caused cylinder 
+separation. Further ECi identified several design deficiencies in AEC 
+Technical Report 1102-13, dated April 30, 2011.We did not withdraw the 
+SNPRMs.
+Request To Withdraw the SNPRMs Because of the Risk of Maintenance 
+Errors
+    Comment. Several commenters commented that the FAA should withdraw 
+the SNPRMs because the removal and replacement of affected cylinder 
+assemblies before time between overhaul (TBO) would result in 
+maintenance errors that would adversely affect safety. For example, IPL 
+Group indicated that replacement of the cylinder assemblies would 
+likely result in events of main bearings losing clamp-up and turning, 
+resulting in cylinder through-bolt and flange stud failures, which 
+would likely result in total engine failure.
+    Response. We disagree. Our regulatory framework presumes that 
+maintenance will be performed correctly by experienced personnel 
+authorized by the FAA to return aircraft to service in an airworthy 
+condition. Further, we have not observed any negative effects on safety 
+due to removal of these cylinder assemblies during maintenance. Also, 
+cylinder removal and replacement is a maintenance action addressed in 
+engine maintenance manuals. We did not withdraw the SNPRMs.
+Request To Justify 80-Hour Removal Requirement for Overhauled Cylinder 
+Assemblies
+    Comment. Danbury Aerospace and Danbury Holdings requested that the 
+FAA provide evidence (including engineering analysis) supporting its 
+conclusion that overhauled cylinder assemblies should be removed within 
+80 hours after the effective date.
+    Response. We interpret the comment to be that the commenters 
+disagree that the phased removal plan required by this AD is 
+appropriate. We disagree. This AD mandates a phased removal of affected 
+cylinders with the intent to retire all affected cylinders by initial 
+TBO. The FAA recognizes that some cylinders in service may already have 
+exceeded their initial TBO. Metal fatigue damage is cumulative, and the 
+longer a cylinder head remains in service, the more likely it will fail 
+due to one of the inherent design deficiencies. Overhauled cylinders 
+have likely experienced more load and temperature cycles than lower 
+time cylinders and the total time in service since new of overhauled 
+cylinders often cannot be determined. Our determination of 80 hours is 
+supported by our Challenge Team's findings and our risk analysis that 
+we uploaded to FAA Docket No. FAA-2012-0002 (see Addresses section of 
+this final rule for information on locating the docket). We did not 
+change this AD based on this comment.
+    Comment. Danbury Aerospace and Danbury Holdings also stated that 
+the FAA had not substantiated that the overhaul of a cylinder does not 
+reduce the existing fatigue damage that a cylinder may have incurred 
+while in service.
+    Response. We disagree. Fatigue strength of metal alloys operated at 
+high temperatures continuously decreases with cycles until failure. 
+This is particularly true for aluminum alloys, including the aluminum 
+alloy used to cast cylinder heads. Metallic structural elements that 
+are operated at high temperatures are more susceptible to time 
+dependent fatigue. The overhaul of a cylinder assembly does not reverse 
+the fatigue damage that had been previously accumulated in the aluminum 
+cylinder head casting. We did not change the AD based on this comment.
+Request To Revise Applicability
+    Comment. Danbury Holdings commented that the FAA has no evidence 
+that all cylinders through S/N 61176 are at risk for separation in the 
+first thread due to insufficient head-to-barrel interference fit.
+    Response. We disagree. The SDR database and other field reports 
+document instances of first-thread failures of cylinders manufactured 
+to design data applicable to all cylinders prior to S/N 61177. For this 
+reason, all cylinders through S/N 61176 are subject to the corrective 
+actions of this AD. We did not change this AD based on this comment.
+    Comment. One commenter stated that he has an O-470 engine converted 
+by P. Ponk Aviation to the equivalent of an O-520 engine. He indicated 
+that those engines should not be affected by this AD.
+    Response. We disagree. The affected S/N cylinders are installed on 
+-470 engines, as well as the -520 and -550 engine models. Any engine 
+that uses one of these affected cylinders is at risk. We have received 
+at least one report of a separation of these affected S/N cylinders on 
+-470 engines. Although the unmodified -470 engines have lower engine 
+horsepower output, their brake mean effective pressure (BMEP) is 
+actually higher than that of the -520 and -550 engines. BMEP is 
+proportional to the ratio of horsepower per cubic inch of displacement. 
+Therefore, the actual operating stresses in the same cylinder wall are 
+even higher when these same cylinders are installed in an unmodified -
+470 engines than it would be for either the -520 or the -550 engines. 
+The P. Ponk Aviation STC increases the displacement of the unmodified -
+470 engine to -520 cubic inches by installing the -520 cylinders on the 
+-470 engine. Given that no valid sensitivity analysis exists showing 
+the relationship of BMEP to fatigue life of these cylinders, and since 
+the crack propagation rate is also unknown, we have included all the -
+470 engines, including those modified by the P. Ponk Aviation STC, in 
+the effectivity of this AD. We did not change this AD based on this 
+comment.
+Request To Adopt Less Stringent Compliance Requirements
+    Comment. AOPA, RAM Aircraft, as well as operators and private 
+citizens, requested that we adopt less stringent requirements than 
+those in the proposed AD. The commenters indicated that the affected 
+cylinder assemblies should be inspected at regular intervals, but 
+removed at TBO. For example, one
+
+[[Page 52982]]
+
+commenter suggested recurring inspections every 60 hours. Several 
+commenters cited the NTSB in support of its recommendation. RAM 
+Aircraft commented that the FAA may be jumping to conclusions by 
+eliminating these inspections. RAM Aircraft noted that the failure of a 
+compression/soap test to detect a particular crack in a cylinder 
+assembly on several occasions does not mean that the test will fail to 
+detect cracked cylinders on most occasions. By their very nature and 
+design compromises, i.e., steel barrels to contain the forces of 
+combustion combined with lighter cylinder head alloys to reduce weight 
+so that aircraft engines have commercial viability and value, and the 
+harsh conditions, altitudes, and temperatures in which they operate, 
+reciprocating aircraft engine cylinders will inevitably crack. RAM 
+Aircraft indicated that there is no question but that some cylinders 
+are going to crack, and that therefore, they must be properly operated, 
+maintained, and inspected.
+    Response. We disagree. Repetitive inspections until TBO, as 
+suggested by the commenters, do not adequately address the unsafe 
+condition in this particular case. Repetitive inspections would not 
+detect cracks until they have already progressed completely across the 
+cylinder head wall thickness.
+    Several operators and mechanics have reported that they 
+successfully passed the compression/soap test with a partially 
+separated cylinder. Others have reported that they successfully passed 
+the compression/soap test and then experienced an in-flight separation 
+before the next scheduled 50-hour inspection.
+    Therefore, we conclude that these tests are not sufficiently 
+reliable. Also, engine overhaul is not a requirement for all operators. 
+Therefore, tying the proposed recurrent inspection to engine overhaul 
+would not resolve the unsafe condition. Based on its comment to the 
+August 28, 2015, SNPRM, we know that the NTSB now considers this rule 
+consistent with the rationale they have provided in the past in support 
+of NTSB Safety Recommendation A-12-7 regarding these affected cylinder 
+assemblies (Reference NTSB Comment FAA-2012-0002-0653, dated September 
+24, 2015 in Docket FAA-2012-0002). We did not change this AD based on 
+this comment.
+    Comment. One commenter indicated it was incorrect to apply the same 
+requirement to remove the cylinders at specified intervals to different 
+CMI engine models. He noted, for example, that the TSIO-520-J engine 
+that is allowed to produce 36 inches of manifold pressure and 310 
+horsepower will produce less stress on a cylinder head than a TSIO-520-
+NB engine that is allowed 41 inches of manifold pressure and 325 
+horsepower, as installed on a Cessna 414 airplane.
+    Response. We disagree. Service history indicates that the affected 
+cylinder assemblies have cracked on -470, -520, and -550 engine models. 
+The AD, therefore, applies to all affected CMI -470, -520 and -550 
+engine models. We have no engineering analysis or test data to justify 
+varying compliance times by engine model or applying the corrective 
+actions of this AD to only the higher power engines. We did not change 
+this AD based on this comment.
+    Comment. Danbury Aerospace observed that the average number of 
+cylinder assemblies, P/N AEC 631397, in the serial number range in the 
+January 8, 2015, SNPRM that are still in operation have less than 500 
+hours left to TBO. Danbury Aerospace indicated that the early removal 
+of these cylinders is not justified by a statistical analysis developed 
+in accordance with the E&PD CAAP Handbook.
+    Response. We disagree. We do not know the exact number of total 
+hours TIS for each affected cylinder assembly. We have no data to 
+support the claim that the existing fleet of cylinder assemblies 
+already has accumulated 1,200 or more hours TIS. Service history also 
+shows that most of the separations occurred well before initial TBO. 
+Therefore, removal of the affected cylinder assemblies before TBO is 
+appropriate. We did not change this AD based on this comment.
+    Comment. Danbury Holdings commented that the FAA had not provided 
+evidence that there have been separations within the originally 
+proposed 50-hour recurrent compression test/soap inspection interval.
+    Response. We disagree. We received several field reports of 
+cylinder separations occurring within 50 hours of passing either the 
+originally proposed 50-hour recurrent compression test/soap inspection 
+in the August 12, 2013, NPRM. SDR report No. SQP2011F00000 was 
+submitted by a part 135 operator who operated a Cessna T210N with an 
+affected ECi cylinder assembly installed. The operator reported that on 
+September 9, 2011, that affected ECI cylinder head separated at the 5th 
+cooling fin on-head. At the time of the failure, the engine and failed 
+cylinder had 817.6 hours time since overhaul/time since new, and its 
+last compression check inspection was at 19.2 hrs. prior. Other field 
+reports also document separated cylinders (for example, see SDR Report 
+2010FA0000179) that recently passed the compression test/soap 
+inspections. We did not change this AD based on this comment.
+    Comment. One commenter commented that, based on his experience, ECi 
+has an aluminum head cracking issue and that these cylinders seem to 
+crack more than CMI cylinders. The commenter further indicated that he 
+believed the number of cylinder failures is underreported in the SDR 
+database. The commenter further noted that in his 30 plus years of 
+aircraft maintenance experience, he has never seen a cylinder failure 
+rate this high. The commenter welcomed an AD that requires these 
+cylinders to be inspected at around 100 hours and the reports of cracks 
+sent to an FAA database.
+    Response. We note the comment. We agree that the ECi failure rate 
+is much higher than the OEM failure rate over the same field service 
+period and that cylinder cracks are under-reported. For example, many 
+of the RAM failures listed in the docket were not reported under the 
+SDR system or as required by 14 CFR 21.3. We did not change this AD 
+based on this comment.
+    Comment. RAM Aircraft commented that, based on its previous 
+comments, the FAA should withdraw the SNPRMs. RAM Aircraft recommended 
+that the FAA consider education and requiring inspections of all 
+reciprocating airplane engine cylinders on the terms and conditions the 
+FAA determines to be appropriate.
+    Response. We disagree. Our analysis indicates that an AD is 
+required to resolve the unsafe condition presented by installed 
+affected ECi cylinder assemblies. We did not withdraw the SNPRMs based 
+on this comment.
+    Comment. One commenter suggested that users of a JPI or other 
+engine monitoring system should be subject to a different compliance 
+interval.
+    Response. We disagree. As noted previously, the root cause of these 
+cylinder failures are design deficiencies. The affected cylinders may 
+fail without overtemping. Therefore, use of an engine monitoring system 
+like JPI would be insufficient to detect the unsafe condition. We did 
+not change this AD based on this comment.
+Request To Use Mandatory Service Bulletin Instead of This AD
+    Comment. One commenter requested that the FAA use a mandatory 
+service bulletin instead of this AD to implement corrective action.
+    Response. We disagree. Requiring a manufacturer to issue a 
+mandatory service bulletin is outside the scope of
+
+[[Page 52983]]
+
+the FAA's authority. We did not change this AD based on this comment.
+
+B. Comments to the FAA's Risk Assessment Processes and Polices
+
+Request That the FAA Follow Its Own Risk Assessment Policies and 
+Guidance
+    Comment. Multiple commenters, including Danbury Aerospace, Danbury 
+Holdings, and the Aeronautical Repair Station Association (ARSA) 
+commented that the FAA did not follow its own risk assessment policies 
+and guidance, such as FAA Order 8110.107A, Monitor Safety/Analyze Data 
+(MSAD), dated October 1, 2012, and FAA Order 8040.4A, Safety Risk 
+Management Policy, dated April 30, 2012, and the E&PD CAAP Handbook, 
+dated September 23, 2010.
+    Response. We interpret this comment as a comment that we failed to 
+follow FAA Order 8110.107A, FAA Order 8040.4A, and the CAAP Handbook. 
+We disagree. We performed the process as required by FAA Order 
+8110.107A, Monitor Safety/Analyze Data (MSAD), dated October 1, 2012, 
+to analyze data and determine corrective action for continued 
+operational safety issues. We acquired the failure event data from the 
+MSAD, SDR, NTSB databases, ECi, and outside sources. We conducted a 
+hazard criteria analysis where we filtered the data to identify 
+relevant events. We performed a qualitative preliminary risk assessment 
+and determined that this safety problem required corrective action. We 
+performed risk analyses in conjunction with the E&PD risk assessment 
+criteria. We identified that the ECi model separations have two 
+inherent design deficiencies: Insufficient dome radius and insufficient 
+head-to-barrel interference fit. Finally, we coordinated with our 
+Corrective Action Review Board, which determined and agreed to the 
+proposed corrective action in our August 12, 2013, NPRM.
+    Later, as part of the Challenge Team's meeting in September, 2014, 
+the CSTA for Aircraft Safety performed a risk analysis that confirmed 
+the need for this AD and shaped its compliance plan. We compared the 
+results of the CSTA's risk analysis to the guidelines used by the SAD 
+in its SARA and to the guidelines in the E&PD's CAAP Handbook and 
+determined that an AD is required.
+    FAA Order 8040.4A requires a risk assessment methodology as 
+outlined in the Order. FAA Order 8040.4A notes that the safety risk is 
+a composite of two factors: The potential ``severity'' or worst 
+possible consequence(s) or outcome of an adverse event that is assumed 
+to occur, and also the expected frequency of occurrence or likelihood 
+of occurrence (failure rate) for that specific adverse event. Each of 
+these factors is assessed independent of the other and then entered as 
+separate inputs into a risk matrix that yields an overall level of risk 
+for the event.
+    We performed the risk assessment required by FAA Order 8040.4A and 
+concluded that this AD was necessary. Therefore, our August 12, 2013, 
+NPRM, as revised by the January 8, 2015 SNPRM, and as republished on 
+August 28, 2015, are consistent with FAA Order 8040.4A, FAA Order 
+8110.107A, and the CAAP Handbook. We did not change this AD based on 
+this comment.
+    Comment. Commenters, including Danbury Holdings, commented that the 
+FAA should not have included the failure rate of the affected ECi 
+cylinders in the FAA risk assessments that were used to substantiate 
+the need for the corrective actions in this AD. Danbury Holdings 
+indicated that the failure rate is irrelevant to the unsafe condition.
+    Response. We disagree. We did not use the failure rate in the risk 
+analysis, however, we used the number of reported failures. A risk 
+analysis involves using past data; both successful operation as well as 
+failures (including cracks), to develop a relationship between part 
+parameters, including age and usage, and risk of failure. Therefore, 
+our use of failures was appropriate in this risk analysis. We did not 
+change this AD based on this comment.
+    Comment. Danbury Aerospace commented that the FAA ignored its own 
+standards for what constitutes an unsafe condition and therefore has 
+failed to identify one.
+    Response. We disagree. The FAA followed its standard risk analysis 
+processes in determining that the unsafe condition represented by the 
+affected ECi cylinder assemblies exists. 14 CFR part 39 prescribes that 
+we issue an AD when an unsafe condition exists in a product and that 
+condition is likely to exist or develop in other products of the same 
+type design. We did not change this AD based on this comment.
+    Comment. Danbury Holdings commented that the basis for the FAA's 
+risk analysis is seriously flawed because the unsafe condition must be 
+the basis for the failure, not one unsubstantiated fatality.
+    Response. We disagree. The unsafe condition in the engine presented 
+by the presence of affected ECi cylinders is the basis of this AD. We 
+did not change this AD based on this comment.
+    Comment. Danbury Holdings further commented that the FAA had failed 
+to establish a connection between the cylinder separation issue 
+addressed by this AD and the official reports of the two fatal 
+accidents that the FAA references.
+    Response. We disagree. Reports by the Bahamas Department of Civil 
+Aviation and the NTSB establish that these accidents in the Bahamas and 
+in Swanzey, New Hampshire involved separated ECi cylinders (see Report 
+AAIPU# A10-01312 and NTSB Accident Report No. NYC02FA178, 
+respectively). We have determined that the separation of the affected 
+ECi cylinder assemblies represents an unsafe condition. We are not 
+required to establish any further connection with these accidents. We 
+did not change this AD based on this comment.
+    Comment. Danbury Holdings added that the FAA should not have 
+included the fatal accident in the Bahamas in the FAA's risk 
+assessments because the NTSB full narrative for that accident 
+(ERA11WA008) made no mention of a cylinder separation.
+    Response. We interpret the comment as the fatal accident in the 
+Bahamas is not relevant to this AD. We disagree. As noted in the 
+previous comment response, we have determined that the separation of 
+the affected ECi cylinder assemblies, as occurred in the accident in 
+the Bahamas, represents an unsafe condition. We did not change this AD.
+    Comment. Danbury Holdings also stated that the root cause of the 
+other fatal accident, the Swanzey, New Hampshire, accident (see NTSB 
+Accident Report No. NYC02FA178) that the FAA included in its risk 
+assessments was unsafe and improper operation of the airplane by the 
+pilot not cylinder separation.
+    Response. We disagree. As noted in the preceding comment 
+discussion, we have determined that the separation of the affected ECi 
+cylinder assemblies, as occurred in the accident in Swanzey, New 
+Hampshire, represents an unsafe condition and is therefore relevant to 
+this AD. We did not change this AD based on this comment.
+    Comment. Danbury Aerospace added that the accident in the Bahamas 
+should not be included in the FAA's risk analysis because: (1) It did 
+not concern a U.S.-registered aircraft and therefore cannot be used in 
+this rulemaking; (2) loss of control and uncontrolled flight was cited 
+as the cause; and (3) even if the accident could be included, it does 
+not meet hazard level thresholds required for rulemaking.
+    Response. The commenter presents three comments, which have three 
+parts. We disagree with all three parts. As to part one, the Bahamas 
+accident involved a U.S.-type certificated product, an engine with 
+affected ECi cylinders
+
+[[Page 52984]]
+
+installed. Therefore, the product is the proper subject of this AD. As 
+to part two, the accident involved an engine with an ECI cylinder 
+separation, a failure of a part of the engine, during flight. A 
+cylinder separation during flight represents an unsafe condition in the 
+engine. Therefore, our action in issuing this AD is appropriate. As to 
+the part three, the cylinder failure presented a hazard to the engine 
+and an unsafe condition, and therefore, meets the threshold for an AD. 
+The need for this AD was confirmed by comparing the result of the risk 
+analysis to the guidelines in the SAD's SARA and the E&PD's CAAP 
+Handbook. We did not change this AD based on this comment.
+Request That the FAA Define Guidelines Used To Define an Unsafe 
+Condition
+    Comment. Danbury Holdings commented that the FAA had not defined 
+the guidelines that it used to establish the existence of an unsafe 
+condition.
+    Response. We interpret the comment to be a request to identify what 
+guidance defines an unsafe condition. The comment therefore, is not to 
+the technical merits of this AD, but a request for general guidance. As 
+such, a response is unnecessary per the Administrative Procedures Act 
+(APA), and we recommend that the commenter seek his answer through a 
+direct request to the FAA Aircraft Certification Service or Flight 
+Standards Division. We did not change this AD based on this comment.
+Request To Withdraw the August 28, 2015, SNPRM Because Supporting 
+Documents Do Not Support Issuing This AD
+    Comment. Danbury Holdings commented that the documents provided by 
+the FAA in Docket No. FAA-2012-0002 do not support issuance of this AD. 
+The supporting documents referred to by Danbury Holdings are: (1) The 
+risk analysis conducted by the FAA's CSTA for Aircraft Safety Analysis; 
+(2) a risk analysis using the Small Airplane Risk Analysis (SARA) 
+methods; (3) a June 2011, presentation by Airmotive Engineering to the 
+FAA concerning its ECi cylinder assemblies; (4) a list of ECi cylinder 
+assembly failure reports consisting of only those reports where both 
+cylinder serial number and time in service are included in the reports; 
+(5) a list of additional failures of ECi cylinder assemblies reported 
+by a maintenance organization; and (6) Airmotive Engineering 
+Corporation Technical Report 1102-13, dated April 30, 2011.
+    Response. We disagree. The supporting documents that Danbury 
+Holdings referred to, identified above, support that the FAA followed 
+its process and were used to help determine that an unsafe condition 
+exists. We have also uploaded additional documents to Docket No. FAA-
+2012-0002 on June 23, 2015 (see ADDRESSES section of this final rule 
+for information on locating the docket).
+    The risk analysis performed by the FAA's CSTA for Aircraft Safety 
+Analysis, recommends removal and replacement of the affected ECi 
+cylinder assemblies as specified in this AD. The SARA applied to 
+failures of ECi cylinder assemblies confirms that an AD is necessary. 
+AEC Technical Report 1102-13 states that a root cause for the first 
+thread separations was an inherent design deficiency in the form of 
+insufficient head-to-barrel design interference fit. AEC Technical 
+Report 1102-13 recommended withdrawing these cylinder assemblies from 
+service. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. Danbury Holdings commented that that the FAA's risk 
+analyses and other technical information were ``flawed, improperly 
+applied, and replete with unsubstantiated conclusions.''
+    Response. The commenter failed to provide any examples of FAA 
+technical information that was flawed, improperly applied, or replete 
+with unsubstantiated conclusions. Without those details, we are unable 
+to consider the comment as having technical merit. Accordingly, we 
+interpret the comment as a general objection to the need for the AD. We 
+disagree. Our Challenge Team applied the risk assessments by the FAA's 
+CSTA for Aircraft Safety Analysis, against the SAD's SARA guidelines 
+and the E&PD's CAAP guidelines and independently concluded that an AD 
+is required to mitigate the unsafe condition presented by installed 
+affected ECi cylinder assemblies. We presented both risk assessments in 
+Docket No. FAA-2012-0002 (see ADDRESSES section of this final rule for 
+information on locating the docket). We did not change this AD based on 
+this comment.
+    Comment. Danbury Holdings commented that it found no relationship 
+between the risk analysis using SARA methods and any analysis or 
+conclusion provided by the agency in this rulemaking. We interpret 
+Danbury Holding's comment as suggesting that no relationship exists 
+between the risk analysis using SARA methods and any analysis or 
+conclusion provided by the agency in this rulemaking.
+    Response. We disagree. In comments to the August 12, 2013, NPRM 
+some commenters requested that we use the SARA to determine if an AD 
+was warranted. We used the SARA, and it confirmed the need for an AD. 
+We did not change this AD based on this comment.
+    Comment. Danbury Holdings commented that RAM Aircraft had 
+concluded, through its own risk analysis, that ``the probability of a 
+cylinder separation is extremely remote'' and that ``historical data 
+and information thus far evident leads to the conclusion that there has 
+been no physical discomfort to pilots or passengers and no damage to 
+any aircraft as a result of the subject cylinders.''
+    Response. We interpret the comment as two parts; first, that our 
+risk assessment reached a wrong conclusion, and second, that a cylinder 
+head separation does not result in any discomfort to pilots or 
+passengers, or damage to the aircraft. We disagree. FAA Order 8040.4A, 
+``Safety Risk Management Policy'', dated April 30, 2012, FAA Order 
+8110.107A, ``Monitor Safety/Analyze Data,'' and the guidance in Engine 
+& Propeller Directorate memorandum ``Risk Assessment for Reciprocating 
+Engine Airworthiness Directives,'' PS-ANE-100-1999-00006, dated May 24, 
+1999, direct how we do a risk assessment.
+    We analyze safety risk, per FAA Order 8040.4A, as a composite of 
+two factors: The potential ``severity'' or worst possible 
+consequence(s) or outcome of an adverse event that is assumed to occur, 
+and also the ``expected frequency of occurrence'' for that specific 
+adverse event. FAA Order 8040.4A directs us to assess both factors 
+independently, then enter each as separate inputs into a risk matrix. 
+The matrix yields an overall level of risk for the event. The overall 
+risk is then categorized as either ``Unacceptable Risk,'' ``Acceptable 
+Risk with Mitigation,'' or ``Acceptable Risk.'' The corrective 
+action(s), if any, is driven by the assessed overall risk. Table C-1 of 
+Appendix C of FAA Order 8040.4A defines five levels of severity and 
+Table C-2 defines five levels of event frequency that are used in the 
+determination of composite risk.
+    The FAA classification for the ``severity'' of an engine cylinder 
+head separation event, per FAA Order 8040.4A, is ``hazardous'' for both 
+single-engine and light-twin airplanes for several reasons. Cylinder 
+head separations can significantly reduce the power of the airplane 
+such that under some conditions it may not be able to safely takeoff 
+and climb out. It could
+
+[[Page 52985]]
+
+also create a dangerous asymmetric thrust condition for twin-engine 
+airplanes. If the separation occurs in cruise flight, the airplane may 
+have insufficient excess power to continue safe flight at any altitude. 
+Cylinder head separations have also caused in-flight fires. These are 
+all unsafe conditions that warrant a ``hazardous'' severity level for 
+risk assessment purposes.
+    Table C-2 in FAA Order 8040.4A defines ``extremely improbable'' as 
+``So unlikely that it is not expected to occur, but it is not 
+impossible.'' It defines ``extremely remote'' as ``Expected to occur 
+rarely.'' It defines ``Remote'' as ``Expected to occur infrequently.'' 
+It defines ``probable'' as ``Expected to occur often.'' Finally, it 
+defines ``frequent'' as ``expected to occur routinely.''
+    Service history failure reports indicate that in a population of 
+43,000 cylinders, that 1 of every 1,000 cylinders could separate on 
+average; either in the dome radius or the first thread. A single-engine 
+airplane has six of these cylinders, so the actual risk of a separation 
+of any one of those six cylinders for any given airplane is 6/1,000: 1 
+of every 166 engines. Similarly, a twin-engine airplane will have 12 
+cylinders, so the risk of experiencing a separation of one cylinder on 
+a twin-engine aircraft is twice that of a single engine, 12/1,000, 1 of 
+every 83 twin-engine airplanes that use these model cylinders.
+    Separation event under-reporting occurs. This is evidenced by RAM 
+Aircraft's submittal of 23 additional reported failures of the subject 
+ECi cylinders after the August 12, 2013 NPRM was issued. Photos of 
+these failures are available in Docket No. FAA-2012-0002 (see ADDRESSES 
+section of this final rule for information on locating the docket). The 
+calculated separation rate, therefore, is likely higher than what we 
+used in our analysis. Also based on service experience, we expect more 
+ECi cylinder head separations in the future. Therefore, we concluded 
+that the most appropriate assessment for the frequency of occurrence 
+for these cylinder separations is ``Remote C''; ``Expected to occur 
+infrequently.''
+    Figure C-1 of FAA Order 8040.4A is a risk matrix that yields an 
+overall risk based on the severity classification and the assessed 
+frequency of occurrence. Using the FAA severity classification of 
+``hazardous'' and the FAA assessed frequency of occurrence ``Remote 
+C'', yields an overall risk that is ``unacceptable.'' The corrective 
+actions required by this final rule AD are based on and consistent with 
+this overall risk assessment.
+    We, therefore, disagree with claims by RAM Aircraft and other 
+commenters that a cylinder head separation will have a negligible 
+effect on airplane safety. Also, several documented in-flight fires 
+were precipitated by a cylinder head separation. We did not change this 
+AD based on this comment.
+    Comment. Danbury Holdings also commented that AEC Technical Report 
+1102-13 was ``disavowed'' by AEC [now CMI San Antonio] since it was 
+obtained under questionable circumstances and has since been proven 
+incorrect given its predictions did not come to fruition.
+    Response. We disagree. AEC originally provided the analysis to the 
+FAA when it was considering a service bulletin for the affected ECi 
+cylinder assemblies. ECi requested the FAA return or destroy ECi 
+Technical Report 1102-13 after they learned the FAA was considering an 
+AD. We found the data in this report useful in our determination of an 
+unsafe condition. We did not change this AD based on this comment.
+    Comment. Danbury Holdings commented that the FAA has not 
+substantiated that the affected ECi cylinder assemblies have separated 
+at 32 times the rate of the OEM cylinders. Danbury Holdings stated that 
+the FAA had not provided any supporting documentation to substantiate 
+the FAA's estimate that the OEM has produced approximately 4 times as 
+many cylinders as ECi did over the same period of time. Danbury 
+Holdings further commented that that the FAA ignores separations of 
+other cylinder manufacturers.
+    Response. We disagree. We uploaded supporting information, 
+including service history, to Docket No. FAA-2012-0002 (see ADDRESSES 
+section of this final rule for information on locating the docket). We 
+determined the comparative failure rate of affected ECi cylinders to 
+OEM cylinders through comparing the service history of ECi cylinders to 
+the OEM's since ECi received their PMA. That service history shows that 
+the affected ECi cylinders have had approximately eight times as many 
+separations over the same period of time as that of the OEM cylinders; 
+since ECi received its PMA. We compared the affected ECi cylinder 
+production rates from ECi, to that of the OEM since ECi received its 
+PMA. From ECi's and the OEM's production information, we concluded that 
+the OEM has produced approximately four times as many cylinders as ECi 
+since ECi received its PMA. This yields a normalized failure rate that 
+is approximately 8 (comparative cylinder failure rate) x 4 (comparative 
+production rate), which showed an overall failure rate 32 times higher 
+for ECi cylinders.
+    Since we first published that rate information, we subsequently 
+learned of more failures of affected ECi cylinders. Those additional 
+failures would, if included, increase the ECi failure rate. We did not 
+update the failure rate to higher than 32 times that of the OEM's 
+because it did not affect our decision regarding this AD. We did not 
+change this AD based on this comment.
+    The FAA has also issued ADs against other cylinder manufacturers, 
+including mandating early retirement of cylinders to preclude cracking 
+and separation. For example, ADs 2014-05-29 and 2007-04-19R1 both apply 
+to certain Superior Air Parts cylinder assemblies. We did not change 
+this AD based on this comment.
+    Comment. Danbury Holdings also commented that the FAA failed to 
+place all information in its purview into the docket and that the 
+agency had failed to link its analyses to verifiable data.
+    Response. We disagree. As previously noted, we have uploaded the 
+relevant documents used in the decision-making process of this AD in 
+Docket No. FAA-2012-0002 (see ADDRESSES section of this final rule for 
+information on locating the docket). Our analysis shows that the FAA's 
+actions are based on the data that we included in the docket. Our 
+analysis is therefore linked to ``verifiable data.'' We did not change 
+this AD based on this comment.
+    Comment. Danbury Holdings commented that the FAA had failed to 
+provide any evidence that cylinder separations have resulted in engine 
+failures, in-flight shutdowns, and/or loss of control of an airplane 
+and that the agency had included accidents that were not the direct 
+result of a cylinder separation.
+    Response. We disagree. A cylinder separating from its engine is an 
+engine failure. We did not change this AD based on this comment.
+    Comment. RAM Aircraft commented that it assumes that the failures 
+of ECi cylinder assemblies shown in the supporting document titled 
+``ECi AD--Additional Failures Reported by RAM Aircraft'' are based on 
+letters RAM Aircraft sent to the FAA in 2013. RAM Aircraft, therefore, 
+commented that this is not new information since the issuance of the 
+January 8, 2015, SNPRM. Also, of the 38 photographs of damaged cylinder 
+assemblies, RAM Aircraft noted that only 23 failures actually represent 
+ECi cylinder assemblies.
+    Response. We partially agree. First, we agree that the failed 
+cylinder
+
+[[Page 52986]]
+
+assemblies identified in the supporting document ``ECi AD--Additional 
+Failures Reported by RAM Aircraft'' do not represent new information 
+since the issuance of the January 8, 2015, SNPRM. These failures are 
+not represented in the SDR database but are consistent with our view 
+that failures of these cylinder assemblies are under-reported.
+    Second, we agree that some of the cylinder photographs uploaded to 
+the docket are not cylinder assemblies affected by this AD. The FAA 
+sent a letter to RAM Aircraft specifically requesting any information 
+that RAM Aircraft had relative to failures of ECi cylinder assemblies, 
+P/N AEC 631397, after we learned of possible failures that had not been 
+reported as required by 14 CFR 21.3. RAM Aircraft responded to this 
+request with the photographs and data that we uploaded into Docket FAA-
+2012-0002 (see ADDRESSES section of this final rule for information on 
+locating the docket). These photographs did not have any effect on our 
+decision to issue this AD. We did not change this AD based on this 
+comment.
+Request To Describe FAA's Validation Process
+    Comment. Danbury Holdings requested that the FAA provide a 
+description of the validation process that was used for each of the 
+cylinder separations that the FAA used to substantiate the need for 
+this AD.
+    Response. We interpret this comment as a request for identification 
+of how we found out about the failures of ECi cylinder assemblies. We 
+found out about the ECi cylinder assembly failures from the FAA SDR 
+database and warranty information at ECi and RAM Aircraft, and failure 
+reports from operators. Many of the operator SDR reports contained 
+detailed information describing the nature and specific location of the 
+separation. The findings of ECi Technical Report 1102-13 agreed with 
+the original failure reports. We did not change this AD based on this 
+comment.
+
+C. Comments to the FAA's Rulemaking Processes
+
+Request To Follow the APA
+    Comment. IPL Group, RAM Aircraft, and Danbury Holdings commented 
+that the FAA had failed to follow the requirements of the APA when it 
+dispositioned previous comments to the August 12, 2013, NPRM, and the 
+January 8, 2015, SNPRM. IPL Group indicated that the FAA had, for 
+example, summarily discounted previous comments, failed to conduct 
+appropriate investigations of the failed cylinder assemblies, and 
+mischaracterized hazard levels in the proposed ADs.
+    RAM Aircraft also commented that its previous comments were 
+dispositioned in general categories in the January 8, 2015, SNPRM. RAM 
+Aircraft, however, does not believe that the specifics of its comments 
+were adequately or properly responded to, as required by the APA.
+    Response. We disagree. The commenters failed to provide any 
+examples of where we failed to comply with the APA in our handling of 
+comments to the August 12, 2013, NPRM, and by extension, the January 8, 
+2015, and August 25, 2015, SNPRMs. We have in our responses to the NPRM 
+and the SNPRMs, and herein in this final rule, fully responded to all 
+comments, including those comments concerning our investigation of the 
+unsafe condition, hazard levels, and conclusions.
+    We carefully considered all comments we received. In our January 8, 
+2015, SNPRM and August 28, 2015, SNPRM, we responded to several hundred 
+comments that we had received. Many were substantively the same and, 
+therefore, as previously discussed we grouped them into several 
+categories and answered the comments by category. The commenters have 
+not indicated what, if anything, is improper about doing so nor how 
+doing as we did might have violated the requirements of the APA. In 
+this final rule, we responded to all remaining comments. We again used 
+categories to group and answer comments that were similar if not 
+identical. As to improperly recognizing affected ECi cylinder 
+assemblies, we based our applicability of this AD on the reports of 
+failure provided by ECi, the manufacturer, the reports required by 14 
+CFR that form the basis for the SDR, and the reports of the commenters 
+themselves. We did not change this AD based on this comment.
+Request To Withdraw the SNPRMs Because They Are Arbitrary and 
+Capricious
+    Comment. Danbury Holdings and ARSA referred to the proposed rule as 
+``arbitrary and capricious'' because it does not apply equally to 
+cylinder assemblies manufactured by the OEM. Danbury Holdings observed 
+that the OEM's cylinders also separate and that the FAA has singled out 
+ECi with this AD action.
+    Response. We disagree. The FAA is not mandating similar corrective 
+actions against the OEM's cylinders because OEM service history data is 
+different. Our review of OEM service history indicates that OEM 
+cylinder assembly failures, unlike ECi cylinder assembly failures, are 
+not traceable to any specific design or manufacturing anomaly. In 
+contrast, the ECi PMA cylinder separations are traceable to design 
+deficiencies, which ECi itself identified in ECi Technical Report 1102-
+13. We did not find the ECi cylinder assembly design deficiencies in 
+cylinder assemblies produced by any other manufacturer. Further, ECi's 
+failure rate is some 32 times greater than the OEM's. We did not change 
+this AD based on this comment.
+    Comment. ARSA also indicated the rule is arbitrary and capricious 
+because the FAA has failed to ``examine the relevant data and 
+articulate a satisfactory explanation for its action including a 
+`rational connection between the facts found and the choice made.'' 
+Further, ARSA cites the APA as requiring federal agencies to allow 
+meaningful public participation in the rulemaking process and provide a 
+``statement of basis and purpose'' justifying a rule's issuance.'' ARSA 
+notes the obligation of the FAA to demonstrate a sound factual basis 
+for the issuance of a rule by specifically disclosing to interested 
+parties the material upon which a prospective rule would be fashioned.
+    Response. We disagree. Beyond its generalized allegation, the 
+commenter did not identify any examples of agency shortcoming. We 
+examined the relevant data, including the failure rate of the ECi 
+assemblies, the ECi cylinder assembly design deficiencies, and the 
+consequences to the engine and airplane when an ECi cylinder assembly 
+failed. We reviewed and applied the applicable FAA Orders and policies.
+    The agency therefore, has articulated a satisfactory explanation 
+for its action including a ``rational connection between the facts 
+found and the choice made.''
+    We provided the public several opportunities to participate in this 
+rule making; through extending the comment period and the two 
+supplemental notices with their comment periods. For example, we first 
+published an NPRM on August 12, 2013 (78 FR 48828), then published an 
+extension of the comment period on September 26, 2013 (78 FR 59293) to 
+allow the public additional time to comment on the proposed rule. We 
+then issued a notice of availability of an initial regulatory 
+flexibility analysis on March 12, 2014 (79 FR 13924). We reviewed the 
+over 500 comments to the proposed rule that we had received, determined 
+that we needed to review how we proposed to address the unsafe 
+condition, formed a team to review the technical basis of the
+
+[[Page 52987]]
+
+proposed rule, the numerous public comments, and the additional failure 
+information provided by commenters to the NPRM. Through this team we 
+confirmed that an AD is needed to correct the unsafe condition 
+represented by the subject cylinder assemblies installed in aircraft 
+engines, but that we could do so through a lengthier compliance 
+interval. We published that revised compliance interval in our January 
+8, 2015, SNPRM.
+    After publication of the January 8, 2015, SNRPM, we issued the 
+August 28, 2015, SNPRM to allow us to explain the rationale for this AD 
+action. We also added several documents to Docket No. FAA-2012-0002 
+(see ADDRESSES section of this final rule for information on locating 
+the docket), including the risk analyses by our CSTA for Aircraft 
+Safety Analysis, and one using SARA methods, and various technical 
+documents that list failures of ECi cylinder assemblies. For each of 
+the documents we published, we allowed the public an opportunity to 
+provide comments. We did not change this AD based on this comment.
+    Comment. ARSA also commented that presentation of relevant comments 
+is further stymied by the agency's conclusory and unsupported responses 
+to the NPRM submissions. ARSA commented that the agency stated that it 
+was irrelevant that the root cause of the cylinder failures is unknown 
+and that it ``disagreed'' that pilot error was a factor.
+    Response. We disagree. The purpose of this AD is to remove an 
+unsafe condition in aircraft engines, not to identify root cause of 
+cylinder failure(s). This AD resolves the unsafe condition by removing 
+the affected cylinder assemblies from service in the engine models 
+listed in this AD. We did not change this AD based on this comment.
+    Comment. Danbury Holdings also commented that the FAA had not 
+provided substantiation for a change in the design requirement that 
+ensures safe operation with one inoperative cylinder.
+    Response. The comment is not germane to this AD. We direct the 
+commenter to the regulations relevant to design requirements, as found 
+in 14 CFR. We did not withdraw the August 28, 2015, SNPRM.
+    Comment. Danbury Holdings commented that the FAA has admitted that 
+the SDR database is problematic and that the FAA picked and chose data 
+to fit a conclusion.
+    Response. We disagree. The SDR database reflects input received 
+from field reporting. The SDR database may not reflect all service 
+difficulty problems with affected ECI cylinder assemblies, but what 
+information it contains indicates the need for this AD. Moreover, the 
+SDR database is only one tool in our decision-making process. We did 
+not change this AD based on this comment.
+    Comment. Several commenters commented that the FAA should withdraw 
+the January 8, 2015, SNPRM because it unfairly targets ECi.
+    Response. We disagree. This AD does not ``target'' ECi, the PMA 
+manufacturer of the affected cylinder assemblies. The AD resolves an 
+unsafe condition in a product. We did not change this AD based on this 
+comment.
+Request To Substantiate That This AD Does Not Affect Airplanes Operated 
+by Federal or State Agencies
+    Comment. Danbury Holdings commented that the FAA had not provided 
+documentation to substantiate that no affected airplanes are operated 
+by federal or state agencies.
+    Response. The comment is not relevant to whether this AD is 
+necessary to resolve the unsafe condition presented by the engine with 
+the affected ECi cylinders installed. We did not change this AD based 
+on this comment.
+Request To Substantiate That Airplanes Operating in Alaska Are Not 
+Affected
+    Comment. Danbury Holdings stated that the FAA had not provided 
+documentation that substantiates that remote locations of Alaska are 
+not served by airplanes affected by this AD.
+    Response. The comment is not relevant to the technical basis for 
+this AD. Further we state that this AD will not affect intrastate 
+aviation in Alaska to the extent that it justifies making a regulatory 
+distinction. We did not change this AD based on this comment.
+Request To Send Proposed Rule to Office of Information and Regulatory 
+Affairs (OIRA) and Small Business Administration (SBA)
+    Comment. Danbury Aerospace commented that per Executive Order 
+(E.O.) No. 13272, the FAA should provide the draft rule to the OIRA in 
+the Office of Management and Budget (OMB) under E.O. No. 12866 and to 
+the SBA's Chief Counsel for Advocacy.
+    Response. We partially agree. We do not agree that this rule meets 
+the criteria of a significant regulatory action under E.O. 12866. 
+Therefore, we did not provide the draft rule to the OMB. We agree that 
+the rule has a significant effect on a substantial number of small 
+entities. We, therefore, provided a copy of the rule to the SBA's Chief 
+Counsel for Advocacy for comment. We received no comments from the SBA.
+
+D. Comments to the Cost of This AD
+
+Request To Revise and Provide Supporting Data for Number of Affected 
+Cylinder Assemblies and Engines
+    Comment. Danbury Aerospace and RAM Aircraft indicated that the FAA 
+has under-estimated the numbers of airplanes and engines affected and 
+up to 11,000 aircraft may be affected based on the aircraft registry, 
+or otherwise hasn't provided the data it used to determine the affected 
+population of engines and cylinders.
+    Response. We disagree in part. We do not agree that 11,000 aircraft 
+may be affected by this AD, or that we haven't provided the data used 
+to determine the affected populations. Not all aircraft and engines on 
+the aircraft registry use the affected ECi cylinder assemblies. 
+Further, the commenter hasn't provided any factual basis for its 
+assumption that all aircraft on the aircraft registry use ECi cylinder 
+assemblies.
+    We agree that we could better estimate the number of engines 
+affected by this AD. We again reviewed our estimate. We now estimate 
+that approximately 6,200 engines are affected by this AD. That number 
+is based on our initial estimate of approximately 43,000 affected 
+cylinder assemblies produced by ECi from 2002 to 2011. This number is 
+supported by AEC Technical Report 1102-13, dated April 30, 2011. We 
+then reduced 43,000 by our estimated number of cylinder assemblies that 
+would have been removed from service.
+    Our review indicates that approximately 6,000 of the 43,000 
+cylinder assemblies would have been retired from service by the time of 
+the publication of this AD. Therefore, we estimate 37,000 cylinder 
+assemblies may be in service, as of June 1, 2016. We divided this 
+number by 6 cylinders per engine to give us an estimated 6,167 engines 
+in service. To increase the conservatism of our cost estimate, we 
+rounded this figure to 6,200 engines. We revised our cost estimate to 
+reflect these updated calculations.
+Request To Revise the Number of Labor Hours to Perform This AD
+    Comment. A few commenters, including IPL Group, indicated that the 
+number of hours to replace 6 cylinders would be greater than the 18 
+hours that we estimated in our costs of compliance.
+    Response. We agree. In the August 12, 2013, NPRM, and the January 
+8, 2015, and August 28, 2015, SNPRM, we
+
+[[Page 52988]]
+
+estimated 18 work hours. Although the commenters did not provide data 
+to support increasing the number of work hours, we held discussions 
+with manufacturers regarding the number of hours they would allow to 
+perform this work. Based on these more recent discussions, we revised 
+our estimate for the number of work hours to replace 6 cylinder 
+assemblies to 32 hours.
+Request To Revise Cost of Replacing a Cylinder Assembly in This AD
+    Comment. Danbury Aerospace, Danbury Holdings, RAM Aircraft, and IPL 
+Group commented that the cost of a cylinder assembly, as calculated by 
+the FAA, does not accurately represent replacement costs. The 
+commenters indicated that the FAA's use of ``pro-rated cost'' allows a 
+vast underestimation of actual expenses that would be incurred by 
+owners. The agency must at least provide sound reasoning and facts 
+supporting the assertion that the pro-rated cost ``more accurately 
+reflects'' replacement cost. IPL Group further commented that a ``pro-
+rated value'' is inconsistent with FAA policy and the Regulatory 
+Flexibility Act.
+    Response. We disagree in part. Industry, including ECi, uses pro-
+rated cost in its cost estimates. For example, ECi, in its MSB 05-8, 
+Revision No. 1, dated December 29, 2005, used a similar time in service 
+based pro-rated cost calculation to determine the discounted cost to 
+operators for replacement cylinders, instead of providing the cylinders 
+to the operators at no cost. Further, we typically use pro-rated cost 
+for larger, turbofan engines when life-limited parts are involved. 
+Operators of those engines are typically airlines and other large 
+operators. Pro rata estimating therefore, is an acceptable method of 
+estimating cost.
+    We agree however, that engines with affected ECi cylinders 
+installed may be installed on airplanes owned by individual operators 
+in the general aviation community, who are less familiar with the 
+concept of pro-rated costs to ADs. In consequence, we revised our 
+estimate to use the full replacement cost of each cylinder assembly 
+even though this will likely result in an over-estimate of the total 
+cost of this AD. We, therefore, used the replacement cost of 6 cylinder 
+assemblies in this final rule. This resulted in an increase from $4,202 
+in the SNPRMs to $11,520 in this final rule.
+Request To Include Additional Costs in the Overall Cost Estimate
+    Comment. IPL Group and Danbury Aerospace requested that we add 
+additional costs to our overall cost estimate. IPL Group indicated that 
+the FAA should include costs for loss of use of the aircraft, test 
+flight, and break-in expenses. Danbury Aerospace commented that we 
+should account for loss of overhauled assemblies as replacement items 
+and new costs associated strictly with their replacement.
+    Response. We disagree. In constructing our cost estimate, we 
+followed the guidance of the FAA's Airworthiness Directives Manual, 
+FAA-IR-M-8040.1C, dated May 17, 2010, which states ``Do not state any 
+costs beyond initial work-hours and parts costs. . . .'' The additional 
+costs cited by the commenters are not appropriate to our cost 
+estimates. We did not change this AD based on this comment.
+Request To Withdraw the SNPRMs Because of Excessive Overall Cost
+    Comment. Several commenters commented that the FAA should withdraw 
+the January 8, 2015, SNPRM and the August 28, 2015, SNPRMs because the 
+FAA has underestimated the cost of compliance of this AD. These 
+commenters represented that the true cost is too high and that the FAA 
+has ignored the broader impact of this AD on industry. Most commenters 
+failed to provide any data to support these claims, however, IPL Group 
+provided some calculations to show that the total cost of this AD 
+should be somewhere between $168,666,625 and $320,360,156.
+    Response. We disagree. We considered the impact that this AD would 
+have on operators. As explained in response to the comments above, we 
+increased our estimates of inspection costs, labor costs, and 
+replacement costs of the cylinder assemblies. Although we increased our 
+cost estimate, we still conclude that the unsafe condition represented 
+by the affected cylinder assemblies requires an AD. We did not withdraw 
+the SNPRMs based on this comment.
+Request To Substantiate Record-Keeping and Time Estimates
+    Comment. Danbury Holdings also stated that the FAA had not provided 
+documentation to substantiate its estimated record keeping cost and 
+time estimates.
+    Response. We agree in part. We interpret this comment as a 
+reference to both time spent on checking log books and reporting 
+requirements. We withdrew our reporting requirement when we published 
+the January 8, 2015, SNPRM, so we have no need to account for that 
+cost. We added an inspection cost in this final rule for the time 
+operators spend determining if they own an ECi cylinder assembly 
+affected by this AD. The Costs of Compliance section now states ``We 
+estimate 0.5 hours will be needed to check log books to determine if an 
+engine is affected by this AD.''
+
+E. Administrative Comments
+
+Request To Clarify Address
+    Comment. The Continental Motors Group commented that the business 
+at the address and telephone number listed in the August 28, 2015, 
+SNPRM (9503 Middlex Drive, San Antonio, Texas 78217, Phone 210-820-
+8101) is now that of Continental Motors Inc., San Antonio. Continental 
+Motors Group also indicated that the associated company Web site 
+(<a href="http://www.eci.aero/pages/tech_svcpubs.aspx">http://www.eci.aero/pages/tech_svcpubs.aspx</a>) listed in the August 28, 
+2015, SNPRM is not functional at this time.
+    Response. We agree. We updated the address and Web site information 
+listed in the ADDRESSES and ``Related Information'' sections of this 
+AD.
+Request To Provide Names of Those Involved in the AD Process
+    Comment. Danbury Aerospace and Danbury Holdings commented that the 
+FAA should provide the names and technical positions of each of the 
+members of the multi-disciplinary/multi-directorate team that were 
+involved in the review of this service difficulty problem, along with 
+the dates, locations, and minutes for any meetings that were held.
+    Response. We disagree. The names and positions of personnel 
+associated with reviewing this AD are not necessary to the public's 
+participation in the development of this AD. We did not change this AD 
+based on this comment.
+
+F. Support for the SNPRM
+
+    Comment. The NTSB commented that it believes that the August 28, 
+2015, SNPRM will satisfy the intent of NTSB Safety Recommendation A-12-
+7. An individual commenter indicated that he had reviewed the SDR 
+database and determined that the separation rate of ECi cylinder 
+assemblies is approximately 10 times the rate of OEM cylinder 
+assemblies.
+    Response. We note the comment.
+
+[[Page 52989]]
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD as proposed.
+
+Costs of Compliance
+
+    We estimate that this AD affects about 6,200 CMI model IO-520, 
+TSIO-520, IO-550, and IOF-550 reciprocating engines and all other CMI 
+engine models approved for the use of CMI models -520 and -550 cylinder 
+assemblies (such as the CMI model -470 when modified by STC), installed 
+on airplanes of U.S. registry. The average labor rate is $85 per hour. 
+We estimate 0.5 hours will be needed to check log books to determine if 
+an engine is affected by this AD. We estimate that about 32 hours will 
+be required to replace all six cylinder assemblies of an engine during 
+overhaul. We estimate the cost of replacement of six cylinder 
+assemblies to be, on average, about $11,520 per engine. Based on these 
+figures, we estimate the total cost of this AD to U.S. operators to 
+change all ECi cylinder assemblies to be $88,551,500.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Flexibility Determination
+
+    The Regulatory Flexibility Act of 1980 (RFA) establishes ``as a 
+principle of regulatory issuance that agencies shall endeavor, 
+consistent with the objective of the rule and of applicable statutes, 
+to fit regulatory and informational requirements to the scale of the 
+business, organizations, and governmental jurisdictions subject to 
+regulation.'' To achieve that principle, the RFA requires agencies to 
+solicit and consider flexible regulatory proposals and to explain the 
+rationale for their actions. The RFA covers a wide range of small 
+entities, including small businesses, not-for-profit organizations, and 
+small governmental jurisdictions.
+    Agencies must perform a review to determine whether a proposed or 
+final rule will have a significant economic impact on a substantial 
+number of small entities. If the agency determines that it will, the 
+agency must prepare a regulatory flexibility analysis as described in 
+the Act. The FAA determined that this rule will have a significant 
+economic impact on a substantial number of small entities and, 
+accordingly, as required by Section 603(a) of the RFA, the FAA prepared 
+and published an initial regulatory flexibility analysis (IRFA) (79 FR 
+13924, March 12, 2014) as part of the NPRM (79 FR 48828, August 12, 
+2013) and initial SNPRM (80 FR 1008, January 8, 2015) for this rule. 
+For the second SNPRM, the FAA inadvertently stated that there would be 
+no significant impact on a substantial number of entities. We also 
+omitted the IRFA from the second SNPRM because we thought republication 
+unnecessary as costs had not changed and the IRFA had already been 
+published in the first SNPRM. In addition to the IRFA, Section 604 of 
+the RFA also requires an agency to publish a final regulatory 
+flexibility analysis (FRFA) in the Federal Register when issuing a 
+final rule.
+    With this FRFA we correct our misstatement in the second SNPRM and 
+restate our previous conclusions for the NPRM and in the first SNPRM 
+that the rule will have a significant impact on a substantial number of 
+small entities. Accordingly, in the following section we undertake the 
+regulatory flexibility analysis.
+
+Final Regulatory Flexibility Analysis
+
+    Under Section 604(a) of the RFA, the Final analysis must address:
+    (1) Statement of the need for, and objectives of, the rule.
+    This final rule AD was prompted by failure reports of multiple 
+cylinder head-to-barrel separations and cracked and leaking aluminum 
+cylinder heads. This AD will apply to certain CMI San Antonio 
+replacement PMA cylinder assemblies marketed by ECi, used on the CMI 
+model -520 and -550 reciprocating engines, and all other engine models 
+approved for the use of CMI model -520 and -550 cylinder assemblies 
+such as the CMI model -470 when modified by STC.
+    (2) Statement of the significant issues raised by the public 
+comments in response to the initial regulatory flexibility analysis, a 
+statement of the assessment of the agency of such issues, and a 
+statement of any changes made in the proposed rule as a result of such 
+comments.
+    Danbury Holdings commented that the FAA had not provided the raw 
+data that was used in the IRFA. We note that the provision of raw data 
+is not required by the FAA's rulemaking procedures or orders.
+    In response to comments about problems with the repetitive 
+compression/soap test proposed by the NPRM, the FAA agrees that these 
+tests do not always reliably detect a cracked cylinder of this failure 
+mode and therefore the costs associated with such tests outweigh the 
+safety benefits. In the January 8, 2015 SNPRM the FAA removed the 
+requirement for repetitive compression/soap inspection tests.
+    The FAA received comments questioning the reduction of the 
+estimated number of smaller air service businesses (in addition to the 
+estimated 609 small part 135 operators) that would be affected by the 
+rule, from 5,000 in the IRFA to 2,000 in the January 8, 2015, SNPRM. We 
+note that in both cases the FAA stated that a substantial number of 
+small entities would be affected. Given the lack of available data, the 
+FAA is unable to make an accurate estimate of the number of smaller air 
+service businesses that will be affected by this rule, but acknowledges 
+that this number is substantial. In addition to the 609 small part 135 
+operators, we therefore estimate in this final rule that the number of 
+smaller air service businesses affected is substantial.
+    After publication of the NPRM and after publication of each of the 
+two SNPRMs, we also received comments from small businesses concerning 
+understated compliance costs. Some commenters stated that the labor 
+rate and the hours required to replace an affected engine's cylinders 
+are underestimated. We agree with this comment in part and have 
+increased our estimate of the labor hours required to replace an 
+affected engine's six cylinder assemblies from 18 to 32 hours, with a 
+corresponding labor cost increase from $1,530 to $2,720.
+    In response to comments we have also increased our cost of 
+materials estimate from a loss-of-service estimate of $4,202 to the 
+full cost to replace all six cylinders, which has increased to $11,520. 
+Our estimate of the total cost to replace all six cylinders has 
+therefore increased from $5,732 to $14,240.
+    After publication of the August 28, 2015, SNPRM, we received 
+negative comments concerning the inadvertent change from our original 
+determination of a significant economic impact on a
+
+[[Page 52990]]
+
+substantial number of small entities in the IRFA (and the January 8, 
+2015, SNPRM) to a determination of no significant impact on a 
+substantial number of small entities. As noted in the introductory 
+section, we are correcting this oversight in this FRFA.
+    (3) The response of the agency to any comments filed by the Chief 
+Counsel for Advocacy of the Small Business Administration in response 
+to the proposed rule, and a detailed statement of any change made to 
+the proposed rule in the final rule as a result of the comments.
+    The SBA did not submit comments.
+    (4) Description and an estimated number of small entities to which 
+the final rule will apply.
+    Of the 610 part 135 operators we found to be affected by this rule, 
+we identified 609 that meet the Small Business Administration (SBA) 
+definition of a small entity (entities with 1,500 or fewer employees) 
+that will be affected by this final rule. On this basis alone, we 
+conclude that the final rule will affect a substantial number of small 
+entities. In addition, we estimate that a substantial, but undetermined 
+number of smaller air services businesses will be affected by this 
+final rule. The FAA is unaware of the assets or financial resources of 
+these businesses. The affected part 135 and smaller air services fly 
+fixed wing aircraft; employ less than 1,500 employees; and conduct a 
+variety of air services such as fly passengers and cargo for hire.
+    (5) Description of the record keeping and other compliance 
+requirements of the final rule.
+Record Keeping Requirement
+    The FAA estimates 0.5 hours will be needed to check log books to 
+determine if an engine is affected by this AD. At a wage rate of $85 
+per hour, the estimated cost will be $42.50 per engine. As the affected 
+small part 135 operators have between one and 88 affected airplanes, 
+the costs of this requirement range from $42.50 to $3740 per part 135 
+operator.
+Compliance Requirement To Replace Cylinder Assemblies of Affected 
+Engines
+    This AD applies to certain CMI model IO-520, TSIO-520, IO-550, and 
+IOF-550 reciprocating engines and all other engine models approved for 
+the use of CMI models -520 and -550 cylinder assemblies (such as the 
+CMI model -470 when modified by STC), installed on airplanes of U.S. 
+registry. For the affected engines the AD requires replacement of the 
+cylinder assemblies at reduced times-in-service.
+    As noted above our estimate of the total cost to replace all six 
+cylinders has increased from $5,732 to $14,240. As the number of 
+airplanes held by affected small part 135 operators ranges from one to 
+88, the costs of required cylinder assembly replacement per operator 
+range from about $14.2 thousand to about $1.3 million.
+    To determine whether compliance costs will have a significant 
+economic impact, we measured the cost of replacing cylinder assemblies 
+of affected engines relative to the value of the affected airplanes 
+held by the small part 135 operators. The estimated asset value of the 
+affected airplanes held by the small part 135 operators ranges from 
+$22,000 to $19.6 million. We find that the cost of replacing cylinder 
+assemblies relative to affected airplane asset value is greater than 5 
+percent for 468 of the 609 affected small part 135 operators.\2\ We 
+therefore conclude that the final rule will have a significant economic 
+impact on a substantial number of small entities.
+---------------------------------------------------------------------------
+
+    \2\ This assessment does not take into account record keeping 
+requirement costs. These costs, however, are minor and do not affect 
+our assessment of the number of small part 121 operators 
+significantly impacted by the final rule.
+---------------------------------------------------------------------------
+
+    (6) Steps the agency has taken to minimize the significant economic 
+impact on small entities consistent with the stated objectives of 
+applicable statutes, including a statement of the factual, policy, and 
+legal reasons for selecting the alternative adopted in the final rule 
+and why each one of the other significant alternatives to the rule 
+considered by the agency which affect the impact on small entities was 
+rejected.
+    In response to comments about problems with repetitive compression/
+soap test, the FAA agrees that these tests do not always reliably 
+detect a cracked cylinder of this failure mode and the costs associated 
+with such tests outweigh the safety benefit. The FAA removed that 
+requirement for repetitive compression/soap inspection tests. We also 
+considered these following alternatives:
+    (a) Do nothing--This option is not acceptable due to the number of 
+failures of ECi cylinder head assemblies and the consequences of the 
+failures.
+    (b) Periodic inspections only (no forced removals)--Though the NTSB 
+recommended this option in its comments to the NPRM (August 12, 2013, 
+78 FR 48828), the service history has shown that such inspections may 
+not reliably detect existing cracks and the rate of crack growth to 
+separation is unknown and variable. The NTSB also submitted a later 
+comment, in response to the August 28, 2015, SNPRM, that the revised 
+rule as adopted in this final rule, meets the intent of its Safety 
+Recommendations A-12-7.
+    (c) Forced removal with periodic inspections--Periodic inspections 
+may not reliably detect cracks and even with removal the rate of crack 
+growth to separation is unknown and variable. Forced removal is the 
+only remaining option.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction, and
+    (4) Will have a significant economic impact, positive or negative, 
+on a substantial number of small entities under the criteria of the 
+Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-16-12 Continental Motors, Inc. (formerly Teledyne Continental 
+Motors, Inc., formerly Continental): Amendment 39-18610; Docket No. 
+FAA-2012-0002; Directorate Identifier 2011-NE-42-AD.
+
+(a) Effective Date
+
+    This AD is effective September 15, 2016.
+
+(b) Affected ADs
+
+    None.
+
+[[Page 52991]]
+
+(c) Applicability
+
+    This AD applies to all Continental Motors, Inc. (CMI) model -520 
+and -550 reciprocating engines, and to all other CMI engine models 
+approved for the use of model -520 and -550 cylinder assemblies such 
+as the CMI model -470 when modified by supplemental type certificate 
+(STC), with Continental Motors Inc., San Antonio (formerly Airmotive 
+Engineering Corp.), replacement parts manufacturer approval (PMA) 
+cylinder assemblies, marketed by Engine Components International 
+Division (hereinafter referred to as ECi), part number (P/N) AEC 
+631397, with ECi Class 71 or Class 76, serial number (S/N) 1 through 
+S/N 61176, installed.
+
+(d) Unsafe Condition
+
+    This AD was prompted by multiple failure reports of cylinder 
+head-to-barrel separations and cracked and leaking aluminum cylinder 
+heads. We are issuing this AD to prevent failure of the cylinder 
+assemblies, which could lead to failure of the engine, in-flight 
+shutdown, and loss of control of the airplane.
+
+(e) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+    (1) Review the engine maintenance records to determine if any 
+affected cylinder assemblies are installed.
+    (2) If you cannot determine based on review of engine 
+maintenance records if any affected cylinder assemblies are 
+installed, comply with paragraph (e)(4) of this AD.
+    (3) If you do not have any of the affected ECi cylinder 
+assemblies installed on your engine, no further action is required.
+    (4) Cylinder Identification and Serial Number Location
+    (i) Check the cylinder assembly P/N and Class number. The ECi 
+cylinder assembly, P/N AEC 631397, Class 71 or Class 76, is stamped 
+on the bottom flange of the cylinder barrel. Guidance on the P/N and 
+Class number description and location can be found in ECi Service 
+Instruction No. 99-8-1, Revision 9, dated February 23, 2009.
+    (ii) If you cannot see the cylinder assembly P/N when the 
+cylinder assembly is installed on the engine, you may use the 
+following alternative method of identification:
+    (A) Remove the cylinder assembly rocker box cover.
+    (B) Find the letters ECi, cast into the cylinder head between 
+the valve stems.
+    (C) Check the cylinder head casting P/N. Affected cylinder 
+assemblies have the cylinder head casting, P/N AEC 65385, cast into 
+the cylinder head between the valve stems.
+    (D) Find the cylinder assembly S/N as specified in paragraphs 
+(e)(4)(iii) or (e)(4)(iv) of this AD, as applicable.
+    (iii) For ECi cylinder assemblies, P/N AEC 631397, manufactured 
+through 2008, find the cylinder assembly S/N stamped on the intake 
+port boss two inches down from the top edge of the head.
+    (iv) For ECi cylinder assemblies, P/N AEC 631397, manufactured 
+on or after January 1, 2009, find the cylinder assembly S/N stamped 
+just below the top edge of the head on the exhaust port side.
+    (5) Removal From Service
+    (i) For any affected cylinder assembly with 680 or fewer 
+operating hours time-in-service (TIS) since new on the effective 
+date of this AD, remove the cylinder assembly from service before 
+reaching 1,000 operating hours TIS since new.
+    (ii) For any affected cylinder assembly with more than 680 
+operating hours TIS since new and 1,000 or fewer operating hours TIS 
+since new on the effective date of this AD, remove the cylinder 
+assembly from service within the next 320 operating hours TIS or 
+within 1,160 operating hours TIS since new, whichever occurs first.
+    (iii) For any affected cylinder assembly with more than 1,000 
+operating hours TIS since new on the effective date of this AD, 
+remove the cylinder assembly from service within the next 160 
+operating hours or at next engine overhaul, whichever occurs first.
+    (iv) For any affected cylinder assembly that has been 
+overhauled, remove the cylinder assembly from service within the 
+next 80 operating hours TIS after the effective date of this AD.
+
+(f) Installation Prohibitions
+
+    After the effective date of this AD:
+    (1) Do not repair, or reinstall onto any engine, any cylinder 
+assembly removed per this AD.
+    (2) Do not install any affected ECi cylinder assembly that has 
+been overhauled, into any engine.
+    (3) Do not install any engine that has one or more affected 
+overhauled ECi cylinder assemblies, onto any aircraft.
+    (4) Do not return to service any aircraft that has an engine 
+installed with an ECi cylinder assembly subject to this AD, if the 
+cylinder assembly has 1,000 or more operating hours TIS.
+
+(g) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, Delegation Systems Certification Office or Fort 
+Worth Aircraft Certification Office, may approve AMOCs for this AD. 
+Use the procedures found in 14 CFR 39.19 to make your request.
+
+(h) Related Information
+
+    (1) For more information about this AD, contact Jurgen E. 
+Priester, Aerospace Engineer, Delegation Systems Certification 
+Office, FAA, Rotorcraft Directorate, 10101 Hillwood Parkway, Fort 
+Worth, TX 76177; phone: 817-222-5190; fax: 817-222-5785; email: 
+<a href="/cdn-cgi/l/email-protection#92f8e7e0f5f7fcbcf7bce2e0fbf7e1e6f7e0d2f4f3f3bcf5fde4"><span class="__cf_email__" data-cfemail="375d424550525919521947455e52444352457751565619505841">[email&#160;protected]</span></a>.
+    (2) For ECi Service Instruction No. 99-8-1, Revision 9, dated 
+February 23, 2009, which is not incorporated by reference in this 
+AD, contact Continental Motors--San Antonio, 9503 Middlex Drive, San 
+Antonio, TX 78217; phone: 210-820-8101; Internet: <a href="http://www.continentalsanantonio.com">http://www.continentalsanantonio.com</a>.
+    (3) You may view this service information at the FAA, Engine & 
+Propeller Directorate, 1200 District Avenue, Burlington, MA. For 
+information on the availability of this material at the FAA, call 
+781-238-7125.
+
+(i) Material Incorporated by Reference
+
+    None.
+
+
+    Issued in Burlington Massachusetts, on July 19, 2016.
+Colleen M. D'Alessandro,
+Manager, Engine & Propeller Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-18708 Filed 8-10-16; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

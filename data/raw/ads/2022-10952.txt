@@ -1,0 +1,541 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 99 (Monday, May 23, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 99 (Monday, May 23, 2022)]
+[Rules and Regulations]
+[Pages 31125-31129]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-10952]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2022-0146; Project Identifier AD-2021-00449-R; 
+Amendment 39-22054; AD 2022-11-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Sikorsky Aircraft Corporation 
+Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2020-26-
+13, which applied to certain Sikorsky Aircraft Corporation (Sikorsky) 
+Model S-92A helicopters. AD 2020-26-13 required establishing the life 
+limit for certain part-numbered horizontal stabilizer root fittings FWD 
+(forward root fittings) and certain part-numbered stabilizer strut 
+fittings. AD 2020-26-13 also required repetitively inspecting certain 
+parts, and depending on the inspection results, removing parts from 
+service. Finally AD 2020-26-13 prohibited installing certain stabilizer 
+assemblies on any helicopter. Since the FAA issued AD 2020-26-13, the 
+manufacturer notified the FAA that due to an error in the service 
+information, certain part numbers in AD 2020-26-13 are incorrect. Also, 
+the FAA determined that additional inspections are required to address 
+the unsafe condition. This AD retains certain requirements and the 
+prohibition for installing certain stabilizer assemblies on any 
+helicopter from AD 2020-26-13, corrects certain part numbers, and 
+requires additional repetitive inspections. The actions of this AD are 
+intended to address an unsafe condition on these products.
+
+DATES: This AD is effective June 27, 2022.
+
+[[Page 31126]]
+
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of February 1, 
+2021 (85 FR 84201, December 28, 2020).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Sikorsky's Engineering Group at Sikorsky Aircraft Corporation, 
+124 Quarry Road, Trumbell, CT 06611, United States; phone: (800) 946-
+4337; email: <a href="/cdn-cgi/l/email-protection#7f081c0c201c0a0c0b200c1a0d09161c1a201a111851180d520c16143f13121c10511c1012"><span class="__cf_email__" data-cfemail="a4d3c7d7fbc7d1d7d0fbd7c1d6d2cdc7c1fbc1cac38ac3d689d7cdcfe4c8c9c7cb8ac7cbc9">[email&#160;protected]</span></a>; website: 
+<a href="http://www.sikorsky360.com">www.sikorsky360.com</a>. You may view this service information at the FAA, 
+Office of the Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., 
+Room 6N-321, Fort Worth, TX 76177. For information on the availability 
+of this material at the FAA, call (817) 222-5110. It is also available 
+at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. 
+FAA-2022-0146.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> in Docket No. FAA-2022-0146; or in person at Docket 
+Operations between 9 a.m. and 5 p.m., Monday through Friday, except 
+Federal holidays. The AD docket contains this AD, any service 
+information that is incorporated by reference, any comments received, 
+and other information. The address for Docket Operations is U.S. 
+Department of Transportation, Docket Operations, M-30, West Building 
+Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 
+20590.
+
+FOR FURTHER INFORMATION CONTACT: Dorie Resnik, Aerospace Engineer, 
+Aviation Safety Section, Boston ACO Branch, Compliance & Airworthiness 
+Division, 1200 District Avenue, Burlington, MA 01803; telephone (781) 
+238-7693; email <a href="/cdn-cgi/l/email-protection#ecd5c1adbabfc1ada5bec1aeadafa3c1afa3bfac8a8d8dc28b839a"><span class="__cf_email__" data-cfemail="01382c4057522c4048532c4340424e2c424e52416760602f666e77">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2020-26-13, Amendment 39-21368 (85 FR 
+84201, December 28, 2020) (AD 2020-26-13). AD 2020-26-13 applied to 
+Sikorsky Model S-92A helicopters with forward root fitting part number 
+(P/N) 92209-07111-101 or 92070-20125-101; or stabilizer strut fitting 
+P/N 92209-07404-041, 92209-07403-041, or 92070-20117-041 installed on 
+horizontal stabilizer assembly (stabilizer assembly) P/N 92070-20117-
+045, 92070-20117-046, 92070-20125-041, 92070-20125-042, 92070-20125-
+043, 92070-20125-044, 92205-07400-043, or 92205-07400-045. The NPRM 
+published in the Federal Register on February 23, 2022 (87 FR 10115). 
+The NPRM was prompted by the discovery that incorrect P/Ns were 
+identified in the Applicability and the Required Actions paragraphs of 
+AD 2020-26-13. Additionally, after the FAA issued AD 2020-26-13, 
+Sikorsky notified the FAA that an additional repetitive inspection of 
+certain parts of the stabilizer strut assembly is required to prevent 
+the unsafe condition. Finally, after the FAA issued AD 2020-26-13, 
+Sikorsky requested and the FAA approved a global Alternative Method of 
+Compliance (AMOC) to allow only removing parts from service that are 
+cracked, corroded, or have fretting, deformation, or wear rather than 
+require removing the upper and lower support strut rod ends, including 
+lug and conical fitting and both upper and lower attachment fittings on 
+the stabilizer from service.
+    In the NPRM, the FAA proposed to expand the applicability of AD 
+2020-26-13 by adding an additional part-numbered stabilizer assembly. 
+The NPRM also proposed to correct paragraph (g)(4) of the Required 
+Actions so that the installation of the titanium stabilizer strut 
+fitting is terminating action for the 50-hour time-in-service (TIS) 
+inspections of the aluminum stabilizer strut fitting. The NPRM also 
+proposed to require an additional repetitive inspection of certain 
+parts of the stabilizer strut assembly. Finally, the NPRM proposed to 
+incorporate the FAA approved global AMOC.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comments from Sikorsky stating that in the 
+section titled ``Actions Since AD 2020-26-13 Was Issued'' of the NPRM, 
+the part number specified (92070-20117-04) is incorrect and should be 
+92070-20117-041. The FAA acknowledges this comment; however, the part 
+number is not used in the ``Background'' section of this final rule. In 
+light of this, the commenter's request no longer applies.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety requires adopting the AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, and 
+any other changes described previously, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    This AD continues to require S-92 Maintenance Manual, SA S92A-AMM-
+000, Temporary Revision (TR) 55-33, dated March 24, 2020 (TR 55-33), 
+which the Director of the Federal Register approved for incorporation 
+by reference as of February 1, 2021 (85 FR 84201, December 28, 2020).
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Other Related Service Information
+
+    The FAA reviewed S-92 Maintenance Manual SA S92A-AWL-000, TR No. 4-
+58, dated October 2, 2017 (TR 4-58), and S-92 Maintenance Manual SA 
+S92A-AWL-000, TR No. 4-66 dated November 20, 2019 (TR 4-66). This 
+service information revises Task 4-00-00-200-000, Table 1 Replacement 
+Schedule, dated November 30, 2015. Both TR 4-58 and 4-66 revise the 
+Airworthiness Limitations Schedule by removing certain part-numbered 
+components, introducing new part-numbered components, and establishing 
+replacement intervals and recurring inspections for the forward root 
+fitting and the horizontal stabilizer strut fitting. TR 4-58 also 
+specifies inspecting the horizontal stabilizer and attaching hardware 
+at a recurring interval of 250 hours TIS.
+
+Differences Between This AD and the Service Information
+
+    The service information requires returning affected parts to a 
+Sikorsky specialist; this AD does not.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 82 helicopters of U.S. 
+registry. Labor costs are estimated at $85 per work-hour. Based on 
+these numbers, the FAA estimates the following costs to comply with 
+this AD.
+    Visually inspecting the stabilizer assembly and attached hardware 
+takes about 3 work-hours for an estimated cost of $255 per helicopter 
+and $20,910 for the U.S. fleet per inspection cycle.
+    If required, replacing a hat bushing and both upper fittings and 
+lower fittings takes about 1 work-hour and parts cost about $10,000 for 
+an estimated cost of $10,085 per replacement.
+
+[[Page 31127]]
+
+    If required, replacing the upper and lower support strut rod ends, 
+including lug and conical fitting, takes about 1 work-hour and parts 
+cost about $10,000 for an estimated cost of $10,085 per replacement.
+    If required, replacing Mylar washers takes about 0.5 work-hour and 
+parts cost about $76 for an estimated cost of $119 per replacement.
+    If required, performing a fluorescent penetrant inspection takes 
+about 3 work-hours for an estimated cost of $255 per inspection.
+    If required, replacing a stabilizer assembly takes about 6 work-
+hours and parts cost about $312,000 for an estimated cost of $312,510 
+per replacement.
+    If required, replacing a forward root fitting takes about 10 work-
+hours and parts cost about $25,000 for an estimated cost of $25,850 per 
+replacement.
+    If required, replacing a stabilizer strut fitting takes about 10 
+work-hours and parts cost about $10,000 for an estimated cost of 
+$10,850 per replacement.
+    If required, replacing a forward root fitting and an aft attachment 
+fitting takes about 20 work-hours and parts cost about $50,000 for an 
+estimated cost of $51,700 per replacement.
+    If required, removing wear or corrosion and applying corrosion 
+preventative compound takes about 0.5 work-hour and parts cost a 
+nominal amount for an estimated cost of $43 per action.
+    If required, replacing a stabilizer attachment bolt and barrel nut 
+set takes about 1 work-hour and parts cost about $500 for an estimated 
+cost of $585 per replacement.
+    If required, replacing a fastener takes about 0.1 work-hour and 
+parts cost a nominal amount for an estimated cost of $9 per fastener.
+    If required, removing the abrasion-resistant Teflon coating to 
+inspect each forward and aft attachment fitting mating surface takes 
+about 5 work-hours for an estimated cost of $425 per inspection.
+    If required, applying alodine or equivalent and applying abrasion-
+resistant Teflon coating takes about 5 work hours with minimal parts 
+cost for an estimated cost of $425 per application.
+    According to Sikorsky, some of the costs of this AD may be covered 
+under warranty, thereby reducing the cost impact on affected 
+individuals. The FAA does not control warranty coverage for affected 
+individuals. As a result, the FAA has included all costs in this cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA has determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive AD 2020-26-13, Amendment 39-21368 
+(85 FR 84201, December 28, 2020); and
+0
+b. Adding the following new airworthiness directive:
+
+2022-11-04 Sikorsky Aircraft Corporation: Amendment 39-22054; Docket 
+No. FAA-2022-0146; Project Identifier AD-2021-00449-R.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective June 27, 2022.
+
+(b) Affected ADs
+
+    This AD replaces AD 2020-26-13, Amendment 39-21368 (85 FR 84201, 
+December 28, 2020) (AD 2020-26-13).
+
+(c) Applicability
+
+    This AD applies to Sikorsky Aircraft Corporation Model S-92A 
+helicopters, certificated in any category, with the following 
+installed: Horizontal stabilizer root fitting FWD (forward root 
+fitting) part number (P/N) 92209-07111-101 or 92070-20125-101; or 
+stabilizer strut fitting P/N 92209-07403-041 or 92070-20117-041 
+installed on horizontal stabilizer assembly (stabilizer assembly) P/
+N 92070-20117-045, 92070-20117-046, 92070-20125-041, 92070-20125-
+042, 92070-20125-043, 92070-20125-044, 92205-07400-043, 92205-07400-
+045, or 92205-07400-047.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code: 5510, Horizontal 
+Stabilizer Structure.
+
+(e) Unsafe Condition
+
+    This AD was prompted by incidents of fatigue cracks in a forward 
+root fitting and life limit recalculations for forward root fitting 
+P/N 92209-07111-101 and 92070-20125-101. The FAA is issuing this AD 
+to prevent a forward root fitting from remaining in service beyond 
+its life limit, detect fatigue cracking in a forward root fitting, 
+and prevent increased load and stress cracking in the stabilizer 
+root fitting aft. The unsafe condition, if not addressed, could 
+result in failure of a stabilizer root fitting, separation of the 
+stabilizer assembly from the helicopter, and subsequent loss of 
+control of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within 50 hours time-in-service (TIS) after the effective 
+date of this AD:
+    (i) Determine the total hours TIS of the forward root fitting P/
+N 92209-07111-101 or 92070-20125-101. If the total hours TIS of the 
+forward root fitting is unknown, use the total hours TIS of the 
+stabilizer assembly instead.
+    (A) If the forward root fitting has accumulated 7,900 or more 
+total hours TIS, before further flight, remove the forward root 
+fitting from service.
+    (B) If the forward root fitting has accumulated less than 7,900 
+total hours TIS,
+
+[[Page 31128]]
+
+before exceeding 7,900 total hours TIS, remove the forward root 
+fitting from service.
+    (ii) Thereafter following paragraph (g)(1)(i) of this AD, remove 
+the forward root fitting from service before accumulating 7,900 
+total hours TIS.
+    (iii) For stabilizer assemblies with stabilizer strut fitting P/
+N 92070-20117-041 installed, perform the following actions:
+    (A) Determine the total hours TIS of stabilizer strut fitting P/
+N 92070-20117-041.
+    (B) If the stabilizer strut fitting has accumulated 19,100 or 
+more total hours TIS, before further flight, remove the stabilizer 
+strut fitting from service.
+    (C) If the stabilizer strut fitting has accumulated less than 
+19,100 total hours TIS, before exceeding 19,100 total hours TIS, 
+remove the stabilizer strut fitting from service.
+    (iv) Thereafter following paragraph (g)(1)(iii) of this AD, 
+remove the stabilizer strut fitting from service before accumulating 
+19,100 total hours TIS.
+    (2) For helicopters with stabilizer strut fitting P/N 92070-
+20117-041 or 92209-07403-041 installed, within 50 hours TIS after 
+the effective date of this AD and thereafter at intervals not to 
+exceed 50 hours TIS:
+    (i) Remove the support strut and using a cheese cloth (or 
+similar cloth) and isopropyl alcohol, clean the upper and lower 
+support strut rod ends, horizontal stabilizer attachment fitting, 
+and the tail rotor pylon attachment fitting.
+    (ii) If installed, visually inspect the surface of each Mylar 
+washer P/N 92070-20117-104 (Mylar washer). The surface should be 
+smooth and continuous. If there is any visible damage such as any 
+tear or scrape, remove the Mylar washer from the peelable-ply washer 
+P/N 92070-20117-105 (peelable-ply washer) and remove the Mylar 
+washer from service as follows:
+    (A) Dampen a low-lint cloth with 3M 6041 adhesive remover and 
+place on the top of the Mylar washer.
+    (B) Allow the adhesive remover to soften the Mylar washer and 
+peel the Mylar washer back.
+    (C) Repeat with more solvent until the Mylar washer and adhesive 
+are removed.
+    (D) Clean the peelable-ply washer with cheese cloth moistened 
+with isopropyl alcohol and adhere a new Mylar washer to the 
+peelable-ply washer.
+    Note 1 to paragraph (g)(2)(ii): Stabilizer assembly P/Ns 92070-
+20125-041, 92070-20125-042, 92070-20125-043, and 92070-20125-044 do 
+not utilize the Mylar washer. The inspection of the Mylar washer is 
+not required on helicopters with stabilizer assembly P/N 92070-
+20125-041, 92070-20125-042, 92070-20125-043, or 92070-20125-044 
+installed.
+    (iii) Using a 10X or higher power magnifying glass, a 
+flashlight, and a mirror, visually inspect the hat bushing and both 
+upper fittings and lower fittings for a crack, corrosion, fretting, 
+deformation, and wear. If there is a crack, corrosion, fretting, 
+deformation, or wear on any part, before further flight, remove the 
+part from service.
+    (iv) Using a 10X or higher power magnifying glass, a flashlight, 
+and a mirror, visually inspect both upper and lower support strut 
+rod ends, including each lug and conical fitting, and both upper and 
+lower attachment fittings on the stabilizer and pylon including the 
+bushings for a crack, corrosion, fretting, deformation, and wear. If 
+there is a crack, corrosion, fretting, deformation, or wear on any 
+part, before further flight, remove the part from service.
+    (3) Within 250 hours TIS or one year, whichever occurs first 
+after the effective date of this AD, and thereafter at intervals not 
+to exceed 250 hours TIS or one year, whichever occurs first:
+    (i) Remove the stabilizer assembly and visually inspect each 
+stabilizer attachment bolt and barrel nut set for corrosion, a 
+crack, and damage to the threads. For the purposes of this 
+inspection, damage may be indicated by uneven threads, missing 
+threads, or cross-threading.
+    (A) If there is corrosion within allowable limits, before 
+further flight, treat for corrosion in accordance with FAA-approved 
+procedures.
+    (B) If there is corrosion that exceeds allowable limits, or a 
+crack, or damage to the threads, before further flight, remove the 
+bolt and barrel nut set from service.
+    (ii) Inspect the forward root fitting and the aft attachment 
+fitting by:
+    (A) Gaining access to the inside of the horizontal stabilizer.
+    (B) Using Brulin Cleaner SD 1291 (or equivalent) and a low-lint 
+cloth, remove all traces of sealing compound, oil, and dirt from the 
+stabilizer mounting surfaces.
+    (C) Using a 10X or higher magnifying glass, inspect for any 
+crack, wear, and corrosion.
+    (1) If there is a crack, before further flight, remove the 
+affected forward root fitting and the affected aft attachment 
+fitting from service.
+    (2) If there is wear or corrosion that exceeds allowable limits, 
+before further flight, remove the affected forward root fitting and 
+the affected aft attachment fitting from service.
+    (3) If there is wear or corrosion within allowable limits, 
+before further flight, treat for corrosion in accordance with FAA-
+approved procedures.
+    (D) Visually inspect each attachment fitting bolt hole and 
+fastener hole for a crack, wear, and corrosion.
+    (1) If there is a crack, before further flight, remove the 
+affected forward root fitting and the affected aft attachment 
+fitting from service.
+    (2) If there is wear or corrosion that exceeds allowable limits, 
+before further flight, remove the affected forward root fitting and 
+the affected aft attachment fitting from service.
+    (3) If there is wear or corrosion within allowable limits, 
+before further flight, treat for corrosion in accordance with FAA 
+approved procedures.
+    (E) Inspect for loose or working fasteners. If there is a loose 
+or working fastener, before further flight, remove the fastener from 
+service.
+    (iii) As an alternative means to inspect for cracks in 
+paragraphs (g)(3)(i) and (ii) of this AD, perform a florescent 
+penetrant inspection (FPI).
+    (iv) Visually inspect each forward and aft attachment fitting 
+mating surface for wear of the abrasion-resistant Teflon coating and 
+degradation. For the purposes of this inspection, degradation may be 
+indicated by fretting. Refer to Figure 204, of S-92 Maintenance 
+Manual, SA S92A-AMM-000, Temporary Revision 55-33, Task 55-11-01-
+210-004, dated March 24, 2020 (TR 55-33), for a depiction of the 
+area to be inspected. For the purposes of this inspection, wear may 
+be indicated by less than 100% coverage of the abrasion-resistant 
+Teflon coating. If there is wear to the abrasion-resistant Teflon 
+coating or degradation, before further flight:
+    (A) Chemically strip the abrasion-resistant Teflon coating from 
+the entire mounting pad in accordance with paragraph 7.A.(7)(a) of 
+TR 55-33.
+    (B) FPI or eddy current inspect for a crack. If there is a 
+crack, before further flight, remove the stabilizer assembly from 
+service.
+    (C) If there is no crack, treat the affected area by applying 
+alodine or equivalent. Apply abrasion-resistant Teflon coating in 
+accordance with paragraphs 7.A.(7)(d) through (e) of TR 55-33.
+    (4) Installing stabilizer strut fitting P/N 92209-07404-041 is a 
+terminating action for the requirements in paragraph (g)(2) of this 
+AD.
+    (5) As of the effective date of this AD, do not install 
+stabilizer assembly P/N 92205-07400-043, 92205-07400-045, or 92205-
+07400-047 on any helicopter.
+
+(h) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Boston ACO Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or local Flight Standards District 
+Office, as appropriate. If sending information directly to the 
+manager of the certification office, send it to the attention of the 
+person identified in paragraph (i) of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(i) Related Information
+
+    For more information about this AD, contact Dorie Resnik, 
+Aerospace Engineer, Boston ACO Branch, 1200 District Avenue, 
+Burlington, Massachusetts 01803; telephone 781-238-7693; email <a href="/cdn-cgi/l/email-protection#231a0e6275700e626a710e6162606c0e606c70634542420d444c55"><span class="__cf_email__" data-cfemail="10293d5146433d5159423d5251535f3d535f43507671713e777f66">[email&#160;protected]</span></a>.
+
+(j) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+February 1, 2021 (85 FR 84201, December 28, 2020).
+
+[[Page 31129]]
+
+    (i) S-92 Maintenance Manual, SA S92A-AMM-000, Temporary Revision 
+(TR) 55-33, dated March 24, 2020.
+    (ii) [Reserved]
+    (4) For Sikorsky Aircraft Corporation service information 
+identified in this AD, contact Sikorsky's Engineering Group at 
+Sikorsky Aircraft Corporation, 124 Quarry Road, Trumbell, CT 06611, 
+United States; phone: (800) 946-4337; email: 
+<a href="/cdn-cgi/l/email-protection#611602123e021412153e120413170802043e040f064f06134c12080a210d0c020e4f020e0c"><span class="__cf_email__" data-cfemail="017662725e627472755e726473776862645e646f662f66732c72686a416d6c626e2f626e6c">[email&#160;protected]</span></a>; website: <a href="http://www.sikorsky360.com">www.sikorsky360.com</a>.
+    (5) You may view this service information at FAA, Office of the 
+Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-
+321, Fort Worth, TX 76177. For information on the availability of 
+this material at the FAA, call (817) 222-5110.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email: <a href="/cdn-cgi/l/email-protection#274155094e4954574244534e4849674946554609404851"><span class="__cf_email__" data-cfemail="2543570b4c4b56554046514c4a4b654b4457440b424a53">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on May 16, 2022.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2022-10952 Filed 5-20-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

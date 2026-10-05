@@ -1,0 +1,564 @@
+<html>
+<head>
+<title>Federal Register, Volume 78 Issue 221 (Friday, November 15, 2013)</title>
+</head>
+<body><pre>
+[Federal Register Volume 78, Number 221 (Friday, November 15, 2013)]
+[Rules and Regulations]
+[Pages 68693-68697]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2013-27091]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-0426; Directorate Identifier 2011-NM-087-AD; 
+Amendment 39-17659; AD 2013-23-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 737-600, -700, -800, -900, and -900ER series 
+airplanes. This AD was prompted by reports that certain seat track 
+bolts were found with severed head bolts due to fatigue. This AD 
+requires replacing titanium seat track bolts with corrosion resistant 
+steel (CRES) bolts, repetitive inspections for cracking of the splice 
+strap and forward seat track holes, and related investigative and 
+corrective actions if necessary. This AD also provides an optional 
+terminating action for the repetitive inspections. We are issuing this 
+AD to detect and correct missing or severed bolt heads, which, if not 
+corrected, could result in the inability of the seat track to carry 
+passenger loads, which could cause the seats to detach from the seat 
+track, resulting in possible injury to passengers during an emergency 
+landing or survivable crash.
+
+DATES: This AD is effective December 20, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of December 20, 
+2013.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, Washington. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9
+
+[[Page 68694]]
+
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this AD, the regulatory evaluation, any comments 
+received, and other information. The address for the Docket Office 
+(phone: 800-647-5527) is Document Management Facility, U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sarah Piccola, Aerospace Engineer, 
+Cabin Safety and Environmental Systems Branch, ANM-150S, FAA, Seattle 
+Aircraft Certification Office (ACO), 1601 Lind Avenue SW., Renton, WA 
+98057-3356; phone: 425-917-6483; fax: 425-917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#f2819380939adc829b91919d9e93b2949393dc959d84"><span class="__cf_email__" data-cfemail="7d0e1c0f1c15530d141e1e12111c3d1b1c1c531a120b">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+The NPRM published in the Federal Register on May 8, 2012 (77 FR 
+26993). The NPRM proposed to require replacing titanium seat track 
+bolts with CRES bolts, repetitive inspections for cracking of the 
+splice strap and forward seat track holes, and related investigative 
+and corrective actions if necessary. The NPRM also proposed to provide 
+an optional terminating action for the repetitive inspections.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(77 FR 26993, May 8, 2012), and the FAA's response to each comment. 
+Boeing and United Airlines supported the NPRM.
+
+Request To Revise Costs of Compliance Section
+
+    American Airlines (American) requested that we revise the Costs of 
+Compliance section of the NPRM (77 FR 26993, May 8, 2012). American 
+explained that, since it alone operates 113 airplanes that are affected 
+by the NPRM, several hundred airplanes should be affected.
+    We agree with the request to revise the Costs of Compliance section 
+of this final rule because there was an error in the number of affected 
+airplanes identified in the Costs of Compliance section of NPRM (77 FR 
+26993, May 8, 2012). We have updated the number of airplanes from 168 
+to 973 in the Costs of Compliance section of this final rule 
+accordingly.
+    Although we have revised the cost calculation, there is no change 
+to the actual number of airplanes affected by this final rule. This 
+final rule refers to Boeing Special Attention Service Bulletin 737-53-
+1296, dated January 11, 2011, for affected airplanes. The effectivity 
+of Boeing Special Attention Service Bulletin 737-53-1296, dated January 
+11, 2011, is correct. The number of affected airplanes identified in 
+the Costs of Compliance section of this final rule now reflects the 
+number of airplanes of U.S. registry listed in the effectivity of 
+Boeing Special Attention Service Bulletin 737-53-1296, dated January 
+11, 2011.
+
+Request To Revise Compliance Time
+
+    American requested that we revise the initial compliance time for 
+replacing titanium seat track bolts with CRES bolts from 7,000 total 
+flight cycles or within 24 months, to 8,000 total flight cycles or 
+within 60 months (whichever occurs later) after the effective date of 
+this AD. American stated that extending this compliance time would 
+enable operators who have extended their maintenance program in 
+accordance with Boeing maintenance planning documents to accomplish the 
+replacement during the first heavy maintenance visit.
+    American also asked that, if the compliance time cannot be extended 
+for all airplanes, then the compliance time should be extended for 
+certain airplanes. For example, American has found and replaced sheared 
+bolts with new bolts on airplanes having between 13,000 and 15,000 
+total flight cycles. Therefore, American concluded that the inspection 
+interval could be extended to 7,000 flight cycles from ``bolt 
+replacement'' for airplanes for which maintenance records show the seat 
+track bolts were replaced previously. In addition, American stated that 
+the fact it is finding and replacing severed seat track bolts proves 
+that this condition will be detected and corrected by operators during 
+routine maintenance.
+    We disagree with extending the initial compliance time to 8,000 
+total flight cycles or 60 months. The inspection threshold of 7,000 
+total flight cycles was established by the manufacturer at 
+approximately 90 percent of fatigue life. In developing an appropriate 
+compliance time for this action, we considered the manufacturer's 
+recommendation, the safety implications, parts availability, and 
+maintenance schedules for the timely accomplishment of the inspection.
+    Affected operators may request approval of an alternative method of 
+compliance (AMOC) for an extension of the compliance times under the 
+provisions of paragraph (j) of this final rule by submitting data 
+substantiating that the change would provide an acceptable level of 
+safety. We have not changed the final rule in regard to this issue.
+
+Request To Allow Re-Sequencing of Steps
+
+    American requested that we remove or reword the Differences Between 
+Proposed AD and Service Bulletin section of the preamble of the NPRM 
+(77 FR 26993, May 8, 2012) regarding the sentence that refers to the 
+sequence of the steps in Boeing Special Attention Service Bulletin 737-
+53-1296, dated January 11, 2011. American stated that the sentence 
+specifies operators would be required to perform the repair using the 
+sequence of steps in Boeing Special Attention Service Bulletin 737-53-
+1296, dated January 11, 2011. American stated that this language is 
+``ambiguous'' as no sections or figures in that service bulletin are 
+titled ``Repair.'' Therefore, it is unclear if the NPRM refers to the 
+entire service bulletin or only one portion.
+    American stated that the sequence of removing and installing bolts, 
+angles, or splice straps from the right side before the left side (or 
+from forward to aft instead of aft to forward) has no impact on safety 
+as long as the final installation of all parts is done in accordance 
+with Boeing Special Attention Service Bulletin 737-53-1296, dated 
+January 11, 2011. American requested that this exception to Boeing 
+Special Attention Service Bulletin 737-53-1296, dated January 11, 2011, 
+be removed or, at a minimum, re-worded to specifically state which 
+sections must be accomplished in the sequence specified in Boeing 
+Special Attention Service Bulletin 737-53-1296, dated January 11, 2011.
+    We agree that clarification is necessary. Note 1. in paragraph 
+3.A., ``General Information,'' of Boeing Special Attention Service 
+Bulletin 737-53-1296, dated January 11, 2011, specifies that ``the 
+instructions identified in Paragraph 3.B., Work Instructions, and the 
+Figure(s) give the recommended sequence of steps. The sequence of steps 
+to do this service bulletin can be changed.'' We agree that 
+accomplishing the left side before the right side or accomplishing 
+forward before aft does not have an impact on safety.
+    However, Note 1. in paragraph 3.A., ``General Information'' of 
+Boeing Special Attention Service Bulletin 737-53-1296, dated January 
+11, 2011, suggests this applies to the sequence of steps in
+
+[[Page 68695]]
+
+the figure(s), which clearly state ``in accordance with,'' in the 
+Accomplishment Instructions. When the words ``in accordance with'' are 
+included in a step in the Accomplishment Instructions, the operator 
+must follow the corresponding sequence of steps that are provided. For 
+example, if a step specifies to do a replacement ``in accordance with 
+Figure 1,'' then the steps within Figure 1 must be done in sequence. 
+This final rule does not dictate the order in which other steps are 
+performed.
+
+Statement Regarding Installation of Winglets
+
+    Aviation Partners Boeing (APB) stated that the installation of 
+winglets per supplemental type certificate (STC) ST00830SE (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/408E012E008616A7862578880060456C?OpenDocument&Highlight=st00830se">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/408E012E008616A7862578880060456C?OpenDocument&Highlight=st00830se</a>) does 
+not affect the actions specified in the NPRM (77 FR 26993, May 8, 
+2012).
+    We concur. STC ST00830SE does not affect the ability to accomplish 
+the actions required by this final rule. Therefore, for airplanes on 
+which STC ST00830SE is installed, a ``change in product'' alternative 
+method of compliance (AMOC) approval request is not necessary to comply 
+with the requirements of section 39.17 of the Federal Aviation 
+Regulations (14 CFR 39.17).
+
+Request To Include Note Regarding Access
+
+    American requested the following note be added to the NPRM (77 FR 
+26993, May 8, 2012): ``If it is necessary to remove more parts for 
+access, you can remove those parts. If you can get access without 
+removing identified parts, it is not necessary to remove all of the 
+identified parts. Jacking and shoring limitations must be observed.'' 
+American stated that this general information note is needed to remove 
+the ambiguity relating to access required to accomplish the service 
+information, and that it would provide operators additional 
+flexibility.
+    We agree that clarification is necessary. This general information 
+note was one recently added to Boeing service information to remove the 
+ambiguity. However, Boeing Special Attention Service Bulletin 737-53-
+1296, dated January 11, 2011, does not contain this note. We 
+acknowledge this information is helpful to remove the ambiguity related 
+to access required to accomplish the actions specified in Boeing 
+Special Attention Service Bulletin 737-53-1296, dated January 11, 2011. 
+We have added similar information in paragraph (g) of this final rule.
+
+Request To Revise Paragraphs (g) and (h)(2) of the NPRM (77 FR 26993, 
+May 8, 2012)
+
+    AirTran/Southwest Airlines (AirTran/Southwest) requested that we 
+revise the wording in paragraphs (g) and (h)(2) of the NPRM (77 FR 
+26993, May 8, 2012) that reads ``. . . repair in accordance with a 
+method approved by the Manager, Seattle Aircraft Certification Office 
+(ACO), FAA. For a repair method to be approved, the repair must meet 
+the certification basis of the airplane, and the approval must 
+specifically refer to this AD'' to ``. . . repair the seat track using 
+a method approved in accordance with the procedures specified in 
+paragraph (j) of this AD.'' Southwest stated that this change would 
+allow the ACO or Boeing Commercial Airplanes Organization Designation 
+Authorization (ODA) to approve the repair.
+    We agree. Paragraph (j)(3) of this AD already allows Boeing 
+Commercial Airplanes ODA to approve repairs if authorized by the 
+Seattle ACO. We have changed paragraphs (g) and (h)(2) of this final 
+rule to refer to paragraph (j) of this final rule, as requested by the 
+commenter.
+
+Request To Clarify Installation Location in Paragraphs (g) and (h)(2) 
+of the NPRM (77 FR 26993, May 8, 2012)
+
+    AirTran/Southwest requested a note be added to paragraph (i) of the 
+NPRM (77 FR 26993, May 8, 2012) to clarify the location of a splice 
+strap installation. The commenter noted an error in Boeing Special 
+Attention Service Bulletin 737-53-1296, dated January 11, 2011, in Step 
+1, ``Move,'' of Figure 10, Sheet 5 of 7; and in Step 1, ``Move,'' of 
+Figure 12, Sheet 5 of 7. AirTran/Southwest stated the splice strap 
+needs to be centered with left buttock line (LBL) 45.50 and right 
+buttock line (RBL) 45.50, respectively--not LBL 24.75.
+    We agree that clarification is necessary. The errors noted by 
+AirTran/Southwest are present in Boeing Special Attention Service 
+Bulletin 737-53-1296, dated January 11, 2011. We acknowledge that the 
+splice strap needs to be centered with LBL 45.50 and RBL 45.50, 
+respectively--not LBL 24.75. Therefore, we have added Note 1 to 
+paragraph (i) of this AD to clarify the location of a splice strap 
+installation.
+
+Request To Delay Issuance of AD
+
+    AirTran/Southwest requested a delay in the issuance of this final 
+rule until Boeing has had time to build up an adequate stock of seat 
+track bolt and splice part kits when frame replacements are required. 
+The commenter stated that Boeing currently has no kits in stock and has 
+a reorder time of 558 days. AirTran/Southwest stated that there would 
+be an economic and operational impact if Boeing has no stock of seat 
+track bolt and splice kits, or if it takes Boeing 558 days to re-stock 
+a kit.
+    We disagree with the request to delay release of this final rule. 
+Boeing has confirmed that the required kits are available to support of 
+the compliance times specified in this final rule. Should adequate 
+parts not be available approaching the end of the compliance period, 
+paragraph (j) of this final rule provides operators the opportunity to 
+request approval of an alternative compliance time if data are 
+presented that prove the alternative compliance time will provide an 
+acceptable level of safety. We have not changed this final rule in this 
+regard.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these changes:
+    <bullet> [Agr]re consistent with the intent that was proposed in 
+the NPRM (77 FR 26993, May 8, 2012), for correcting the unsafe 
+condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (77 FR 26993, May 8, 2012).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 973 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+[[Page 68696]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+               Action                         Labor cost            Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Replacement of bolts and             18 work-hours x $85 per              $1,991          $3,521      $3,425,933
+ installation of new splice strap.    hour = $1,530.
+Repetitive inspection..............  3 work-hours x $85 per hour               0             255         248,115
+                                      = $255.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for this Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2013-23-04 The Boeing Company: Amendment 39-17659; Docket No. FAA-
+2012-0426; Directorate Identifier 2011-NM-087-AD.
+
+(a) Effective Date
+
+    This AD is effective December 20, 2013.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 737-600, -700, -800, 
+-900, and -900ER series airplanes, with passenger seats installed; 
+certificated in any category; as identified in Boeing Special 
+Attention Service Bulletin 737-53-1296, dated January 11, 2011.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 53: Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports that certain seat track bolts 
+were found with severed bolt heads due to fatigue. We are issuing 
+this AD to detect and correct missing or severed bolt heads, which, 
+if not corrected, could result in the inability of the seat track to 
+carry passenger loads, which could cause the seats to detach from 
+the seat track, resulting in possible injury to passengers during an 
+emergency landing or survivable crash.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Seat Track Bolt Replacement and Splice Strap Installation
+
+    Before the accumulation of 7,000 total flight cycles, or within 
+24 months after the effective date of this AD, whichever occurs 
+later: Replace titanium seat track bolts with corrosion resistant 
+steel (CRES) bolts at both the left and right sides of buttock lines 
+24.75 and 45.50, in accordance with the Accomplishment Instructions 
+of Boeing Special Attention Service Bulletin 737-53-1296, dated 
+January 11, 2011. If a titanium seat track bolt is found missing 
+from the structure during the accomplishment of the tasks required 
+by paragraph (g) of this AD: Before further flight, do a high 
+frequency eddy current (HFEC) inspection for cracking in the 
+fastener holes and a general visual inspection of the area, 
+including the splice strap and forward seat track for damage, and 
+replace missing bolts with new or serviceable CRES bolts, in 
+accordance with the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 737-53-1296, dated January 11, 2011. If 
+cracking or damage is found: Before further flight, repair the seat 
+track using a method approved in accordance with the procedures 
+specified in paragraph (j) of this AD. If it is necessary to remove 
+more parts for access, those parts may be removed. If access can be 
+obtained without removing identified parts, it is not necessary to 
+remove all identified parts. Jacking and shoring limitations should 
+be observed.
+
+(h) Detailed and HFEC Inspections
+
+    Before the accumulation of 7,000 total flight cycles, or within 
+24 months after the effective date of this AD, whichever occurs 
+later: Do a detailed inspection and an HFEC inspection for cracking 
+in the holes common to the splice strap and forward seat track at 
+both the left and right sides of buttock lines 24.75 and 45.50, in 
+accordance with the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 737-53-1296, dated January 11, 2011. 
+Repeat the inspections thereafter at intervals not to exceed 7,000 
+flight cycles, until the actions specified in paragraph (i) of this 
+AD have been done.
+    (1) If a crack is found in the splice strap during any 
+inspection required by paragraph (h) of this AD: Before further 
+flight, replace the seat track bolts and install a new splice strap 
+part number (P/N) 146A5342-26 and retained angle at the affected 
+location, in accordance with the Accomplishment Instructions of 
+Boeing Special Attention Service Bulletin 737-53-1296, dated January 
+11, 2011.
+    (2) If a crack is found in the seat track during any inspection 
+required by paragraph (h) of this AD, and Boeing Special Attention 
+Service Bulletin 737-53-1296, dated January 11, 2011, specifies to 
+contact Boeing for appropriate action: Before further flight, repair 
+the seat track using a method approved
+
+[[Page 68697]]
+
+in accordance with the procedures specified in paragraph (j) of this 
+AD.
+
+(i) Optional Terminating Action
+
+    Replacing the titanium seat track bolts with CRES bolts on both 
+the left and right sides of buttock lines 24.75 and 45.50 at station 
+727B, and installing a new splice strap P/N 146A5342-26, in 
+accordance with the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 737-53-1296, dated January 11, 2011, 
+terminates the repetitive inspections required by paragraph (h) of 
+this AD.
+
+    Note 1 to paragraph (i) of this AD: Boeing Special Attention 
+Service Bulletin 737-53-1296, dated January 11, 2011, contains an 
+error in Step 1, ``Move,'' of Figure 10, Sheet 5 of 7; and in Step 
+1, ``Move,'' of Figure 12, Sheet 5 of 7. The splice strap needs to 
+be centered with left buttock line 45.50 and right buttock line 
+45.50, respectively-- not left buttock line 24.75, as stated in that 
+service bulletin.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (k) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#93aabed2dddebec0f6f2e7e7fff6bed2d0dcbed2dedcd0bec1f6e2e6f6e0e7e0d3f5f2f2bdf4fce5"><span class="__cf_email__" data-cfemail="d4edf9959a99f987b1b5a0a0b8b1f995979bf995999b97f986b1a5a1b1a7a0a794b2b5b5fab3bba2">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by Boeing 
+Commercial Airplanes Organization Designation Authorization (ODA) 
+that has been authorized by the Manager, Seattle ACO, to make those 
+findings. For a repair method to be approved, the repair must meet 
+the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+
+(k) Related Information
+
+    For more information about this AD, contact Sarah Piccola, 
+Aerospace Engineer, Cabin Safety and Environmental Systems Branch, 
+ANM-150S, FAA, Seattle Aircraft Certification Office (ACO), 1601 
+Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-6483; fax: 
+425-917-6590; email: <a href="/cdn-cgi/l/email-protection#9ceffdeefdf4b2ecf5fffff3f0fddcfafdfdb2fbf3ea"><span class="__cf_email__" data-cfemail="4132203320296f312822222e2d20012720206f262e37">[email&#160;protected]</span></a>.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Special Attention Service Bulletin 737-53-1296, dated 
+January 11, 2011.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P. O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 
+206-544-5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, Washington. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on November 4, 2013.
+Stephen P. Boyd,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-27091 Filed 11-14-13; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,857 @@
+<html>
+<head>
+<title>Federal Register, Volume 86 Issue 140 (Monday, July 26, 2021)</title>
+</head>
+<body><pre>
+[Federal Register Volume 86, Number 140 (Monday, July 26, 2021)]
+[Rules and Regulations]
+[Pages 39942-39949]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2021-15721]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0759; Product Identifier 2018-SW-075-AD; Amendment 
+39-21661; AD 2021-15-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Various Restricted Category Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+various restricted category helicopters, originally manufactured by 
+Bell Textron Inc. (Bell). This AD was prompted by multiple events 
+involving failure of the tail boom attach structure including the 
+bolts. This AD requires revising the existing Rotorcraft Flight Manual 
+(RFM) for your helicopter to incorporate pre-flight checks; removing 
+paint and sealant, and cleaning; repetitive inspections of structural 
+components that attach the tail boom to the fuselage; and depending on 
+the outcome of the inspections, repairing or replacing components, or 
+re-bonding the structure. The FAA is issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective August 30, 2021.
+
+ADDRESSES: For service information identified in this final rule, 
+contact: U.S. Army Materiel Command Logistics Data Analysis Center 
+(USAMC LDAC), ATTN: Equipment Publication Control Officers (EPCOs), 
+Building 3305, Redeye Road, Redstone Arsenal, AL 35898-7466; phone 
+(256) 955-7716 or 1-866-211-3367; email 
+<a href="/cdn-cgi/l/email-protection#21545240534c580f53444552554e4f440f4d4540420f4c43590f4d4e4644554c614c40484d0f4c484d"><span class="__cf_email__" data-cfemail="d6a3a5b7a4bbaff8a4b3b2a5a2b9b8b3f8bab2b7b5f8bbb4aef8bab9b1b3a2bb96bbb7bfbaf8bbbfba">[email&#160;protected]</span></a>; or at <a href="https://enterprise.armyerp.army.mil">https://enterprise.armyerp.army.mil</a>.
+    You may also contact the following, as applicable:
+    JJASPP Engineering Services, LLC, 511 Harmon Terrace, Arlington, TX 
+76010; phone: (817) 465-4495; website: <a href="http://www.jjaspp.com">www.jjaspp.com</a>.
+    Northwest Rotorcraft, LLC, 1000 85th Ave. SE, Olympia, WA 98501; 
+phone: (360) 754-7200; website: <a href="http://www.nwhelicopters.com">www.nwhelicopters.com</a>.
+    Overseas Aircraft Support, Inc., P.O. Box 898, Lakeside, AZ 85929; 
+phone (928) 368-6965; fax (928) 368-6962.
+    Richards Heavylift Helo, Inc., 1181 Osprey Nest Point, Orange Park, 
+FL 32073.
+    Rotorcraft Development Corporation, P.O. Box 430, Corvallis, MT 
+59828; phone: (207) 329-2518; email: 
+<a href="/cdn-cgi/l/email-protection#5637323b3f383f25222437223f39381624392239243524373022323320333a39263b3338227835393b"><span class="__cf_email__" data-cfemail="d9b8bdb4b0b7b0aaadabb8adb0b6b799abb6adb6abbaabb8bfadbdbcafbcb5b6a9b4bcb7adf7bab6b4">[email&#160;protected]</span></a>.
+    Southwest Florida Aviation International, Inc., 28000-A9 Airport 
+Road, Bldg. 101, Punta Gorda, FL 33982-9587.
+    Tamarack Helicopters Inc, 2849 McIntyre Rd, Stevensville, MT 59870; 
+phone: (406) 777-0144; website: <a href="http://www.tamarackhelicopters.com">www.tamarackhelicopters.com</a>.
+    WSH, LLC, 3255 S. Bodenburg LP, Palmer, AK 99645.
+    You may view the related service information at the FAA, Office of 
+the Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-
+321, Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. FAA-2019-
+0759; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD, any comments received, and other information. The street 
+address for Docket Operations is U.S. Department of
+
+[[Page 39943]]
+
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Richard R. Thomas, Aerospace Engineer, 
+Denver ACO Branch, Compliance & Airworthiness Division, FAA, 26805 East 
+68th Ave., Room 214, Denver, CO 80249; phone: (303) 342-1080; fax: 
+(303) 342-1088; email: <a href="/cdn-cgi/l/email-protection#7841553c1d160e1d0a5539110a1b0a191e0c553b1d0a0c381e1919561f170e"><span class="__cf_email__" data-cfemail="2d14006948435b485f006c445f4e5f4c4b59006e485f596d4b4c4c034a425b">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion of the NPRM
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to Model EH-1H, EH-1X, HH-
+1H, HH-1N, UH-1D, UH-1M, UH-1N, and UH-1V helicopters operating under 
+experimental airworthiness certificates; and restricted category type 
+certificated Model HH-1K, TH-1F, TH-1L, UH-1A, UH-1B without 
+Supplemental Type Certificate (STC) No. SR00026DE installed, UH-1E, UH-
+1F, UH-1H, UH-1L, and UH-1P helicopters.
+    The NPRM listed the type certificate holders for these restricted 
+category models as Arrow Falcon Exporters Inc.; AST, Inc.; Bell; 
+California Department of Forestry; Global Helicopter Technology, Inc.; 
+Hagglund Helicopters, LLC; International Helicopters, Inc.; JJASPP 
+Engineering Services, LLC; JTBAM, Inc.; Northwest Rotorcraft, LLC; Red 
+Tail Flying Services, LLC; Richards Heavylift Helo, Inc.; Robinson Air 
+Crane, Inc.; Rotorcraft Development Corporation; San Joaquin 
+Helicopters; Smith Helicopters; Southwest Florida Aviation 
+International, Inc.; Tamarack Helicopters, Inc., and West Coast 
+Fabrications.
+    The NPRM published in the Federal Register on October 31, 2019 (84 
+FR 58341). The NPRM was prompted by a series of events involving 
+failure of the tail boom attach structure on several restricted 
+category military surplus helicopters.
+    In the NPRM, the FAA proposed to require revising the existing RFM 
+for your helicopter to incorporate pre-flight checks; removing paint 
+and sealant, and cleaning structural components that attach the tail 
+boom to the fuselage; repetitive inspections of the cleaned structural 
+components; repairing scratches, nicks, gouges, tears, and corrosion 
+within allowable limits; replacing structural components with non-
+repairable damage, cracks, buckling, or distortion; removing loose, 
+missing, or smoking rivets from service; re-bonding structures with 
+dis-bonds; and removing loose bolts and self-locking nuts from service 
+and replacing them with new bolts and new self-locking nuts. The FAA is 
+issuing this AD to prevent separation of the tail boom from the 
+helicopter, and subsequent loss of control of the helicopter.
+
+Background of the NPRM
+
+    In September 2013, a tail boom separated from a UH-1B helicopter 
+engaged in logging operations, resulting in a fatal accident. The FAA 
+notes that the National Transportation Safety Board (NTSB) Final Report 
+for that accident identified the probable cause as fatigue failure of 
+the upper two tail boom attach points, which resulted in the tail boom 
+separating from the fuselage during logging operations.\1\ The NTSB 
+noted that poor maintenance throughout the helicopter's operational 
+life contributed to the accident. In addition to this accident, the FAA 
+is aware of two forced landings due to tail boom attach structure 
+failures: One in May 2014 on a UH-1H helicopter engaged in construction 
+operations, and one in August 2018 on a UH-1F helicopter engaged in 
+firefighting operations. Each of the three events involved a failure of 
+the upper left-hand (LH) tail boom attach fitting. The upper LH tail 
+boom attach point is the most heavily loaded of the four tail boom 
+attach points.
+---------------------------------------------------------------------------
+
+    \1\ The NTSB Aviation Accident Final Report for NTSB accident 
+number WPR13FA411 is available on the NTSB's website at <a href="https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88058/pdf">https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88058/pdf</a>, accessed July 1, 2021.
+---------------------------------------------------------------------------
+
+Additional Background Information
+
+    The FAA issued Special Airworthiness Information Bulletin (SAIB) 
+SW-18-29 (SAIB SW-18-29) on October 1, 2018 to alert owners and 
+operators of restricted category Bell Model HH-1K, UH-1A, UH-1B, UH-1E, 
+UH-1F, UH-1H, UH-1L, UH-1P, TH-1F, and TH-1L helicopters to failure of 
+the tail boom attach structure. SAIB SW-18-29 recommends adhering to 
+the helicopter's Instructions for Continued Airworthiness, which 
+includes a repetitive 100 hour time-in-service (TIS) inspection of the 
+tail boom attach structure on both sides of the four attach points and 
+recommends keeping the fittings on both sides of all four attach 
+points, the cap angles running forward from the fuselage side fitting, 
+and the longerons running aft from the tail boom side fitting, clean 
+and free of paint and any non-faying sealant; and inspecting for cracks 
+in the attach structure with a borescope.
+    The FAA revised SAIB SW-18-29 to SAIB SW-18-29R1, dated February 
+19, 2019 (SAIB SW-18-29R1), to alert all owners and operators to 
+clarified paint and sealant removal procedures and simplify the wording 
+of recommendations to provide clarity.
+
+Actions Since the NPRM Was Issued
+
+    Since the FAA issued the NPRM, the FAA determined it is necessary 
+to add notes in the applicability to clarify that Southwest Florida 
+Aviation International, Inc. Model SW204 and SW204HP helicopters are 
+Model UH-1B helicopters, and Model SW205 helicopters are Model UH-1H 
+helicopters. These notes have been added to clarify the Model SW204, 
+SW204HP, and SW205 designations used by Southwest Florida Aviation 
+International, Inc.
+    The FAA also made edits to clarify that an owner/operator (pilot) 
+may perform the required checks and must enter compliance with the 
+applicable paragraph of the AD into the helicopter maintenance records 
+in accordance with 14 CFR 43.9(a)(1) through (4) and 91.417(a)(2)(v). A 
+pilot may perform these checks because they involve only visual checks 
+and can be performed equally well by a pilot or a mechanic. These 
+checks are an exception to the FAA's standard maintenance regulations.
+    Also, the FAA has learned of military design improvements of the 
+UH-1H over previous variants, and further analysis of these design 
+improvements prompted extending the inspection intervals for the UH-1H 
+and SW205 helicopters when compared to Model HH-1K, TH-1F, TH-1L, UH-
+1A, UH-1B without STC No. SR00026DE installed, UH-1E, UH-1F, UH-1L, and 
+UH-1P helicopters.
+    Additionally, since the NPRM was issued, the type certificate held 
+by San Joaquin Helicopters is now held by WSH, LLC, and the type 
+certificate held by JTBAM INC., is now held by Overseas Aircraft 
+Support, Inc. This final rule reflects these changes and updates the 
+contact information to that of the new type certificate holders.
+    Since the NPRM was published, the FAA has also removed all 
+helicopter models operating under experimental airworthiness 
+certificates from this final rule. The FAA has chosen to minimize 
+regulations on experimental aircraft that do not have an FAA type 
+certificate because of the level of the safety risk on the individual 
+helicopter.
+    Further, since the NPRM was published, the FAA has removed the 
+wording, ``39-inch extended landing gear installed per STC SR01742NY''
+
+[[Page 39944]]
+
+from Figure (1) of this AD and from the required actions paragraph, 
+because other STCs may also extend the gear. The FAA also revised the 
+required actions paragraph to state ``retorque'' instead of 
+``retighten'' regarding any replaced bolt, and revised the phrase 
+``existing maintenance manual'' to instead read ``existing maintenance 
+instructions.'' The FAA updated ``attach'' and ``attachment'' wording 
+throughout the final rule as applicable.
+    The ADDRESSES paragraph has been revised to add contact information 
+for Army Publishing Directorate and to remove contact information for 
+AST, Inc., and Robinson Air Crane Inc.
+    Finally, as mentioned in the NPRM, the FAA still plans to conduct 
+additional rulemaking to address Model UH-1B helicopters with STC No. 
+SR00026DE installed.
+
+Discussion of Final Airworthiness Directive Comments
+
+    After the NPRM was published, the FAA received comments from four 
+commenters. The following presents the comments received on the NPRM 
+and the FAA's response to the comments.
+
+Support for the NPRM
+
+    Aircraft Structural Repair, Inc., supported the NPRM.
+
+Comments Requesting More Information
+
+    An individual commenter requested the FAA provide a list of active 
+short fuselage models and expressed concern about availability of 
+replacement parts.
+    The FAA estimates the U.S fleet of short fuselage models at 75 
+helicopters based on data provided by Bell and a review of FAA aircraft 
+registration records. Specific short fuselage models included in this 
+estimate are HH-1K, SW204, SW204HP, TH-1F, TH-1L, UH-1A, UH-1B without 
+STC No. SR00026DE installed, UH-1E, UH-1F, UH-1L, and UH-1P 
+helicopters. It is possible spare parts may not be readily available to 
+replace parts that fail the inspection requirements of this AD; 
+however, the FAA cannot base its AD action on whether spare parts are 
+readily available or available at all. While every effort is made to 
+avoid grounding aircraft, the FAA must address the unsafe condition.
+    An individual commenter requested the FAA provide information on 
+whether a similar AD is being considered for Bell Model 204B 
+helicopters.
+    The FAA is reviewing data to determine if this unsafe condition 
+exists on additional helicopter models and may consider additional 
+rulemaking if necessary.
+    One commenter asked if the forced landings cited in SAIB SW-18-29R1 
+involved UH-1H helicopters and if these helicopters had the following 
+STCs installed: SR01196LA, SR00929SE, SR01470SE, or SR02051LA. The 
+commenter stated these STCs add extra horsepower and tail rotor 
+authority. The commenter requested information on whether a combination 
+of these STCs allow the tail rotor control authority to exceed the 
+structural limitations of the tail boom attach fittings in response to 
+sharp tail rotor control inputs.
+    One of the helicopters forced to land as described in SAIB SW-18-
+29R1 was a UH-1H helicopter. Another helicopter was a UH-1F, which is a 
+variant of the UH-1B. The UH-1H had all four of the mentioned STCs 
+installed at the time of the forced landing. The data reviewed by the 
+FAA indicates the cause of the failure mode is fatigue. These STCs 
+alone or in combination may increase tail boom loads but those load 
+increases would only marginally increase the rate at which the tail 
+boom attach structure fatigues. The inspection intervals mandated in 
+this AD take into account this marginal increase in the rate of 
+fatigue. The FAA is not aware of any data that the occasional increased 
+loads associated with these STCs would lead directly to an exceedance 
+of structural margins in the absence of fatigue.
+
+Request for the FAA To Change the Applicability of the AD
+
+    An individual commenter requested the FAA remove Model HH-1N and 
+UH-1N helicopters from the applicability paragraph of this AD stating 
+these models have ``a completely different tail boom longeron and 
+attach fitting.''
+    The FAA agrees these models have a different tail boom attach 
+structure than the other models listed in the applicability. These 
+models have been removed from this AD.
+    Northwest Helicopters requested the FAA change the applicability to 
+remove all Model UH-1 series helicopters operating under experimental 
+exhibition (EE) airworthiness certificates and requested the FAA limit 
+the applicability to those models operating under restricted category 
+``repetitive heavy lift operations'' or those having more than 20 
+cycles per hour. Northwest Helicopters states it is unaware of any tail 
+boom attach point failure on any EE Model UH-1H helicopters.
+    The FAA agrees with the request to remove helicopters with an 
+experimental category airworthiness certificate from the applicability. 
+All helicopters with an experimental category airworthiness certificate 
+have been removed from the applicability of this AD. The FAA has chosen 
+to minimize regulations on experimental aircraft that do not have an 
+FAA type certificate. Nonetheless, the FAA recommends that operators of 
+Model UH-1 series helicopters that are listed in the applicability and 
+do not have a type certificate comply with this AD. The FAA disagrees 
+with limiting the applicability to those models operating under 
+restricted category ``repetitive heavy lift operations'' or those 
+having more than 20 cycles per hour. The FAA is not aware of any data 
+indicating that tail boom attachment failures only occur on helicopters 
+engaging in repetitive heavy lift operations or those having more than 
+20 cycles per hour.
+
+Request for the FAA To Change the Related Service Information Section 
+of the AD
+
+    One commenter requested the FAA add Bell Information Letter, GEN-
+18-138, Revision A, dated August 9, 2018 (GEN-18-138), to this AD when 
+discussing replacement of tail boom attaching bolts. The commenter 
+explained GEN-18-138 notifies owners and operators that Bell recently 
+superseded self-locking nuts part number (P/N) MS21042.
+    The FAA partially agrees. The FAA agrees that Bell superseded the 
+original series of self-locking nuts on Model HH-1K, SW204, SW204HP, 
+TH-1F, TH-1L, UH-1A, UH-1B without STC No. SR00026DE installed, UH-1E, 
+UH-1F, UH-1L, and UH-1P helicopters according to information provided 
+by Bell to the FAA. Self-locking nut P/N NAS9926-7L supersedes the 
+original self-locking nut P/N NAS679A7 for the upper LH attach point 
+and self-locking nut P/N NAS679A7 supersedes the original self-locking 
+nut P/N NAS679A6 for the other three attach points. The required 
+actions section of this AD has been revised to require the installation 
+of self-locking nut P/N NAS9926-7L or P/N NAS9926-6L whenever an attach 
+bolt is replaced. The FAA disagrees that GEN-18-138 addresses the self-
+locking nuts on helicopter models affected by this AD. The original 
+self-locking nuts mentioned in GEN-18-138 do not include the original 
+self-locking nuts on the helicopter models affected by this AD.
+
+[[Page 39945]]
+
+Request for the FAA To Change the Requirement To Use a Borescope for 
+Inspection
+
+    One commenter requested that the FAA limit the requirement to use a 
+borescope for inspection to certain helicopters models with baggage 
+compartments.
+    The FAA disagrees. The FAA inspected a Model UH-1H helicopter 
+without a baggage compartment and determined that while all of the 
+fuselage side attach structure is visible and within arm's reach, the 
+tail boom side attach structure is not. Furthermore, due to the 
+equipment in the fuselage side oil cooler bay and the confined space in 
+the tail boom, accessing the tail boom side structure is difficult. 
+Also, the upper right hand tail boom side attach structure is located 
+behind a tail rotor pitch control rod. These factors make it difficult 
+to perform a thorough inspection with only a mirror and magnification.
+
+Request for the FAA to Change the Compliance Time
+
+    Northwest Helicopters requested the FAA adjust the inspection 
+intervals to correlate with existing AD inspection intervals to 
+simplify the maintenance program for restricted category helicopters 
+other than ``repetitive heavy lift'' Model UH-1 series helicopters. 
+Northwest Helicopters stated a current AD requires inspection of the 
+main rotor blades for cracks before further flight and every 14 days or 
+25 hours TIS, whichever occurs first. Northwest Helicopters stated that 
+adopting the same intervals would allow both ADs to be completed at the 
+same time to provide convenience.
+    The FAA disagrees with the request to change the compliance time 
+for inspections required by this final rule to be consistent with the 
+compliance times for inspections required by AD 2018-02-07, Amendment 
+39-19160 (83 FR 2361, January 17, 2018) (AD 2018-02-07). AD 2018-02-07 
+requires an initial inspection within 25 hours TIS or 2 weeks, 
+whichever occurs first. Thereafter, AD 2018-02-07 requires repetitive 
+inspections within 25 hours TIS or 2 weeks, whichever occurs first. 
+This final rule requires an initial inspection within 25 hours TIS, 
+without a calendar time requirement. Thereafter, this final rule 
+requires repetitive inspections for certain helicopters within 25 hours 
+TIS. Owners or operators may choose to perform the inspections required 
+by this AD at 2 week intervals provided the inspections occur within 
+the 25 hours TIS required by this AD.
+
+Request for the FAA To Approve an Alternative Method of Compliance 
+(AMOC) to the NPRM
+
+    One individual stated an intent to submit several UH-1H 
+modifications as an AMOC explaining the modifications are less likely 
+to fail than the original structure.
+    The FAA agrees that the public may submit AMOC requests to the FAA 
+in accordance with 14 CFR 39.19.
+    One individual requested that the FAA consider the installation of 
+a modified upper LH fitting tail boom attach fitting on various model 
+helicopters per U.S. Army ``Modification Work Order (MWO 55-1520-211-
+40/1)'' as an AMOC, stating the modified attach fitting is less likely 
+to fail than the original fitting and no reported failures were noted 
+for tail booms modified per MWO 55-1520211-40/1. A second individual 
+questioned whether MWO 55-1520-211-40/1 would be considered as an AMOC.
+    The FAA disagrees that an upper LH fitting modified in accordance 
+with MWO 55-1520-211-40/1 addresses this unsafe condition. The FAA 
+reviewed Letter Report, Product Improvement Test of UH-1B Tail Boom 
+Fitting, RDT&E Project No. None, USATECOM Project No. 4-5-0101-04, 
+dated June 29, 1966, which contains an evaluation of MWO 55-1520-211-
+40/1. The FAA determined that the average total cycles accumulated on 
+UH-1B helicopters affected by this AD substantially exceeds the Army 
+evaluation test cycles. Therefore, the FAA concluded MWO 55-1520-211-
+40/1 does not adequately address the unsafe condition.
+
+Request for the FAA To Withdraw the NPRM
+
+    An individual commenter requested the FAA withdraw the NPRM. The 
+commenter explained that issuing this AD would add an unnecessary 
+burden to operators with a negligible increase in safety and the AD is 
+unnecessary based on the series of accidents and incidents discussed in 
+the NPRM. The commenter stated helicopters that are operated within 
+their operating limits and properly maintained are unlikely to 
+experience an inflight failure before cracks are detected because of 
+existing inspection guidance. The commenter also stated that in the two 
+accidents cited by the FAA, the helicopter was operated in an area not 
+conducive to proper maintenance and was engaged in logging operations, 
+which the commenter asserts are known for exceeding the helicopter's 
+torque and weight limitations.
+    The FAA disagrees with the request to withdraw the NPRM. The FAA 
+has concluded the existing maintenance instructions lack sufficient 
+detail to minimize the risk of an in-flight failure of the tail boom 
+attach structure. Further, the FAA finds the need to mandate 
+inspections through issuance of an AD to correct the unsafe condition 
+identified in this final rule.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the changes described previously. 
+These changes are consistent with the intent of the proposals in the 
+NPRM. The FAA also determined that these changes will neither increase 
+the economic burden on any operator nor increase the scope of this AD.
+
+Related Service Information
+
+    The FAA reviewed portions of the following related service 
+information:
+    <bullet> Headquarters, Department of the Army, Aviation Unit and 
+Intermediate Maintenance Instructions Model UH-1H/V/EH-1H/X 
+Helicopters, Technical Manual TM 55-1520-210-23-1, Change 42, dated 
+April 14, 2003. This service information contains tail boom hoisting/
+handling instructions; hard landing, tail rotor blade strike, and 
+sudden stoppage due to compressor stall tail boom inspection 
+requirements; tail boom removal and installation instructions including 
+attach bolt installation and tightening instructions, tail boom attach 
+fitting inspection instructions, tail boom and fuselage attach fitting 
+bolt hole wear limits, allowable tail boom attach fitting damage and 
+corrosion repair instructions; loose attach fitting fastener inspection 
+and replacement instructions; tail boom attach fitting replacement 
+instructions; classification of damage as negligible, repairable or 
+requiring replacement for tail boom structure including rivets, 
+fasteners, tail boom attach fittings, stringers, and longerons; tail 
+boom structural material specifications; allowable area for damage 
+repair of tail boom attach fittings; longeron damage limits and repair 
+criteria; and stringer repair instructions.
+    <bullet> Headquarters, Department of the Army, Aviation Unit 
+Maintenance and Aviation Intermediate Maintenance Manual for General 
+Aircraft Maintenance (Sheet Metal Shop Practices) Volume 10, Technical 
+Manual TM 1-1500-204-23-10, Change 3, dated August 20, 2004. This 
+service information contains general information pertaining to the 
+repair of aircraft structures, structural metals,
+
+[[Page 39946]]
+
+forming of replacement structure, rivets and riveting techniques, 
+airframe sheet metal repair, and sandwich construction repair.
+    <bullet> Headquarters, Department of the Army, Rotorcraft 
+Development Corporation, UH-1B Aircraft Preventive Maintenance 
+Services, Technical Manual TM 55-1520-219-PMS, Change 7, dated August 
+9, 1976. This service information contains requirements to inspect the 
+tail boom attach bolts for security and the fittings for cracks daily 
+and every 25, 50, 75, and 100 flight hours; and to inspect the tail 
+boom interior structure and longerons for damage, cracks, and corrosion 
+every 100 flight hours.
+    <bullet> Headquarters, Department of the Army, UH-1B DS and GS 
+Maintenance Manual, Technical Manual TM 55-1520-219-34, Change 9, dated 
+June 5, 1972. This service information contains instructions to remove 
+and install the tail boom; attach bolt exposed thread limits; attach 
+bolt tightening instructions with instructions for manufacturing a 
+special torque wrench extension; allowable tail boom attach fitting 
+hole diameters; damage classifications for tail boom skin, stringers 
+and longerons as negligible, reparable by patching, reparable by 
+insertion, or damage necessitating replacement; and instructions for 
+field manufacture of P/N 204-030-800-443, Tail Boom Assembly Cover.
+    <bullet> Headquarters, Department of the Army, UH-1H/V and EH-1H/X 
+Aircraft Phased Maintenance Checklist, Technical Manual TM 55-1520-210-
+PM, Change 22, dated May 8, 2002. This service information contains 
+phased inspection requirements for the tail boom interior and fuselage 
+heater compartment to check for damage, cracks, and corrosion.
+    <bullet> Headquarters, Department of the Army, UH-1H/V and EH-1H/X 
+Aircraft Preventative Maintenance Daily Inspection Checklist, Technical 
+Manual TM 55-1520-210-PMD, Change 11, dated April 11, 2003. This 
+service information contains preventative daily maintenance 
+instructions to be accomplished prior to the first flight of the day to 
+inspect for loose or missing rivets, the tail boom attachment bolts for 
+security, and tail boom attachment fittings and longerons up to 12 
+inches from the fittings for cracks.
+    <bullet> U.S. Army Aviation and Missile Command Depot Maintenance 
+Work Requirement DMWR 55-1560-222, All H-1Series Tailboom Structural 
+Assemblies, Change 6, dated June 18, 2002. This service information 
+contains descriptions of the tail boom structure and guidance 
+explaining tail boom attach fitting structural loads; tail boom 
+differences between helicopter models; required depot level 
+modifications; tail boom structure isometric figures identifying the 
+structural components; instructions to inspect the tail boom longerons 
+for dents, cracks, holes, tears, corrosion, and distortion; longeron 
+repair limits and repair instructions; instructions to inspect attach 
+fittings for cracks and hole elongation; attach fitting repair limits 
+and repair instructions; tail boom attach fitting deburr before bonding 
+to longeron instructions; and a requirement to dye penetrant inspect 
+the tail boom attach fittings.
+    For additional information about related service information, 
+please see the published NPRM.
+
+Differences Between This AD and the Service Information
+
+    This AD requires the pre-flight tail boom attachment check be 
+performed with a flashlight and the initial and recurring inspections 
+be performed with a bright light and borescope. The service information 
+does not specify any items to assist with the required checks or 
+inspections. This AD requires pushing on the tail boom while performing 
+certain inspections. The service information does not. On the fuselage 
+side, this AD requires paying particular attention to the fitting 
+sections near the rivets closest to the attach bolt, and the cap angle 
+rivets next to the fittings. On the tail boom side, this AD requires 
+paying particular attention to the fitting sections near the rivets 
+closest to the attach bolt. The service information does not single out 
+these fitting sections. This AD requires removing any cracked 
+components from service, while the service information allows stop 
+drilling of certain cracks. This AD requires removing any loose attach 
+bolts and their self-locking nuts from service and replacing them with 
+new bolts and new self-locking nuts. The service information does not 
+require replacement of any loose attach bolts.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 359 helicopters of U.S. 
+registry. The FAA estimates that operators may incur the following 
+costs in order to comply with this AD. Labor costs are estimated at $85 
+per work-hour.
+    Revising the existing RFM for your helicopter takes about 0.5 work-
+hour, for an estimated cost of $43 per helicopter and $15,437 for the 
+U.S. fleet. The pre-flight check before each flight takes about 0.25 
+work-hour, for an estimated cost of $21 per helicopter per check and 
+$7,539 for the U.S. fleet per check. The pre-flight check before first 
+flight of the day takes about 0.5 work-hour, for an estimated cost of 
+$43 per helicopter per check and $15,437 for the U.S. fleet per check.
+    Removing excess paint and sealant, and cleaning all eight tail boom 
+attach fittings takes about 5 work-hours and has a nominal materials 
+cost, for an estimated cost of $425 per helicopter per instance and 
+$152,575 for the U.S. fleet per instance.
+    Inspecting all four tail boom attach points for scratches, nicks, 
+gouges, tears, corrosion, cracks, bond separation, loose, missing, and 
+smoking rivets, buckling, distortion, attach bolt exposed threads, and 
+attach bolt movement takes about 4 work-hours, for an estimated cost of 
+$340 per helicopter per inspection and $122,060 for the U.S. fleet per 
+inspection.
+    Inspecting only the upper LH tail boom attach point for scratches, 
+nicks, gouges, tears, corrosion, cracks, bond separation, loose, 
+missing, and smoking rivets, buckling, distortion, attach bolt exposed 
+threads, and attach bolt movement takes about 0.5 work-hour, for an 
+estimated cost of $43 per helicopter per inspection.
+    The FAA cannot estimate the costs to do any allowable repair based 
+on the results of the inspections and the FAA has no way of determining 
+the number of helicopters that might need repair.
+    The FAA estimates the following costs to do any necessary 
+replacements based on the results of the inspections. The FAA has no 
+way of determining the number of helicopters that might need these 
+replacements.
+    <bullet> Replacing a tail boom attach fitting takes about 33 work-
+hours and parts cost about $1,500 for an estimated cost of $4,305.
+    <bullet> Replacing a tail boom attach fitting, longeron, and 
+doubler (longeron bond assembly) takes about 42 work-hours and parts 
+cost about $7,000 (rebuilt) or $21,270 (new) for an estimated cost of 
+$10,570 (rebuilt) or $24,840 (new parts).
+    <bullet> Replacing a fuselage attach fitting takes about 45 work-
+hours and parts cost about $1,838 for an estimated cost of $5,663.
+    <bullet> Replacing a fuselage cap angle takes about 42 work-hours 
+and parts cost about $1,827 for an estimated cost of $5,397.
+    <bullet> Replacing an attach bolt and self-locking nut takes about 
+1 work-hour and parts cost about $313 for an estimated cost of $398.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of
+
+[[Page 39947]]
+
+the FAA Administrator. Subtitle VII: Aviation Programs, describes in 
+more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2021-15-14 Various Restricted Category Helicopters: Amendment 39-
+21661; Docket No. FAA-2019-0759; Product Identifier 2018-SW-075-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 30, 2021.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to various restricted category helicopters 
+originally manufactured by Bell Textron Inc., (Bell) certificated in 
+any category, including but not limited to:
+    (1) Rotorcraft Development Corporation Model HH-1K helicopters;
+    (2) Robinson Air Crane Inc.; Rotorcraft Development Corporation; 
+and Tamarack Helicopters, Inc., Model TH-1F helicopters;
+    (3) Bell; Overseas Aircraft Support, Inc. (type certificate 
+previously held by JTBAM, Inc.); and Rotorcraft Development 
+Corporation Model TH-1L helicopters;
+    (4) Richards Heavylift Helo, Inc., Model UH-1A helicopters;
+    (5) International Helicopters, Inc.; Overseas Aircraft Support, 
+Inc.; Red Tail Flying Services, LLC; Richards Heavylift Helo, Inc.; 
+Rotorcraft Development Corporation; Southwest Florida Aviation 
+International, Inc.; and WSH, LLC (type certificate previously held 
+by San Joaquin Helicopters), Model UH-1B helicopters without 
+Supplemental Type Certificate (STC) No. SR00026DE installed;
+    Note 1 to paragraph (c)(5): Helicopters with an SW204 or SW204HP 
+designation are Southwest Florida Aviation International, Inc., 
+Model UH-1B helicopters.
+    (6) Bell; Overseas Aircraft Support, Inc.; Rotorcraft 
+Development Corporation; Smith Helicopters; and West Coast 
+Fabrications Model UH-1E helicopters;
+    (7) AST, Inc.; California Department of Forestry; Robinson Air 
+Crane, Inc.; Rotorcraft Development Corporation; and Tamarack 
+Helicopters, Inc., Model UH-1F helicopters;
+    (8) Arrow Falcon Exporters Inc.; Global Helicopter Technology, 
+Inc.; Hagglund Helicopters, LLC; JJASPP Engineering Services, LLC; 
+Northwest Rotorcraft, LLC; Overseas Aircraft Support, Inc.; Richards 
+Heavylift Helo, Inc.; Rotorcraft Development Corporation; Southwest 
+Florida Aviation International, Inc.; and Tamarack Helicopters, 
+Inc., Model UH-1H helicopters;
+    Note 2 to paragraph (c)(8): Helicopters with an SW205 
+designation are Southwest Florida Aviation International, Inc., 
+Model UH-1H helicopters.
+    (9) Bell; Overseas Aircraft Support, Inc.; and Rotorcraft 
+Development Corporation Model UH-1L helicopters; and
+    (10) Robinson Air Crane, Inc.; and Rotorcraft Development 
+Corporation Model UH-1P helicopters.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC): 5302, Rotorcraft Tail 
+Boom.
+
+(e) Unsafe Condition
+
+    This AD was prompted by multiple events involving failure of the 
+tail boom attach structure, including the bolts. The FAA is issuing 
+this AD to address fatigue cracking of tail boom attach fittings, 
+cap angles, longerons, and bolts. The unsafe condition, if not 
+addressed, could result in separation of the tail boom from the 
+helicopter and subsequent loss of control of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Before further flight, revise the limitations section of the 
+existing Rotorcraft Flight Manual (RFM) for your helicopter by 
+adding the information in Figure 1 to paragraph (g)(1) of this AD or 
+by inserting a copy of this AD. The action required by this 
+paragraph and the checks required by Figure 1 to paragraph (g)(1) of 
+this AD may be done by the owner/operator (pilot) holding at least a 
+private pilot certificate and must be entered into the aircraft 
+records showing compliance with this AD by following 14 CFR 43.9 
+(a)(1) through (4) and 14 CFR 91.417(a)(2)(v). The record must be 
+maintained as required by 14 CFR 91.417, 121.380, or 135.439.
+BILLING CODE 4910-13-P
+
+[[Page 39948]]
+
+[GRAPHIC] [TIFF OMITTED] TR26JY21.000
+
+BILLING CODE 4910-13-C
+    (2) Within 25 hours time-in-service (TIS):
+    (i) Open the oil cooler/baggage compartment door on the right 
+hand side of the helicopter to gain access to the interior of the 
+tail boom.
+    (ii) Remove paint and stray sealant and clean the eight attach 
+fittings (four on the tail boom side and four on the fuselage side). 
+Remove paint and stray sealant and clean the four cap angles, 
+forward of the fuselage fittings, for at least 12 inches from the 
+end of the fittings. Remove paint and stray sealant and clean the 
+four longerons, aft of the tail
+
+[[Page 39949]]
+
+boom fittings, for at least 12 inches from the end of the fittings. 
+It is only necessary to remove the topcoat. Primer may be left in 
+place and edge and fillet sealant may be left in place. If any 
+primer or edge or fillet sealant is removed, before further flight, 
+reapply the removed primer and sealant.
+    Note 3 to paragraph (g)(2)(ii): On some models, the baggage 
+compartment floor and net must be removed to gain access to the 
+lower fuselage attach fittings and cap angles.
+    (iii) With an additional person pushing on the tail boom at the 
+third vertical rivet line aft of the trailing edge of the elevator 
+with both hands and gradually applying and relieving pressure using 
+body weight a minimum of three times in each of the following 
+directions: Inboard pushing from the left; inboard pushing from the 
+right; and upward pushing from the bottom; and using a bright light 
+and borescope, inspect each of the four tail boom attach structures 
+for cracks, bond separation, and loose rivets. On the fuselage side, 
+inspect the fittings and the cap angles running forward from the 
+fittings, paying particular attention to the fitting sections near 
+the rivets closest to the attach bolts and the cap angle rivets next 
+to the fittings. On the tail boom side, inspect the fittings and the 
+longerons running aft from the fittings, paying particular attention 
+to the fitting sections near the rivets closest to the attach bolts. 
+Without pushing on the tail boom, and using a bright light and 
+borescope, inspect each of the four tail boom attach structures for 
+scratches, nicks, gouges, tears, corrosion, buckling, and 
+distortion, and for loose, missing, and smoking rivets. If there are 
+any scratches, nicks, gouges, tears, or corrosion within allowable 
+limits, before further flight, repair the affected components. If 
+there are any scratches, nicks, gouges, tears, or corrosion that 
+exceed allowable limits, or any cracks, buckling or distortion, or 
+loose, missing, or smoking rivets, before further flight, remove the 
+affected components from service. If there is any bond separation, 
+before further flight, re-bond the affected components.
+    Note 4 to paragraph (g)(2)(iii): It is not required to push on 
+the tail boom if it cannot be reached from ground level while 
+inspecting for cracks, bond separation, and loose rivets.
+    (iv) Inspect each of the four tail boom attach bolts for exposed 
+threads. If there is less than one full thread or more than three 
+threads exposed, before further flight, remove the bolt and self-
+locking nut from service and replace with a new bolt and new self-
+locking nut. Self-locking nuts on Model HH-1K, SW204, SW204HP, TH-
+1F, TH-1L, UH-1A, UH-1B without STC No. SR00026DE installed, and 
+Model UH-1E, UH-1F, UH-1L, and UH-1P helicopters must be replaced 
+with self-locking nut part number (P/N) NAS9926-7L at the upper 
+left-hand (LH) attach point and self-locking nut P/N NAS9926-6L at 
+the other three attach points.
+    (v) Inspect each of the four tail boom attach bolts for movement 
+by either applying the required installation torque in the 
+tightening direction only, or by inspecting for torque stripe 
+misalignment if present and attempting to rotate the bolt by hand. 
+If a bolt is under-torqued, a torque stripe is misaligned, or a bolt 
+moves, before further flight, remove the bolt and self-locking nut 
+from service and replace with a new bolt and new self-locking nut. 
+Self-locking nuts on Model HH-1K, SW204, SW204HP, TH-1F, TH-1L, UH-
+1A, UH-1B without STC No. SR00026DE installed, UH-1E, UH-1F, UH-1L, 
+and UH-1P helicopters must be replaced with self-locking nut P/N 
+NAS9926-7L at the upper LH attach point and self-locking nut P/N 
+NAS9926-6L at the other three attach points.
+    (vi) After the first flight following any bolt replacement as 
+required by paragraph (g)(iv) or (v) of this AD, retorque any 
+replaced bolt by applying torque in accordance with the existing 
+maintenance instructions for your helicopter in the tightening 
+direction only and then apply a torque stripe on the bolt head.
+    (3) For Model HH-1K, TH-1F, TH-1L, UH-1A, UH-1B without STC No. 
+SR00026DE installed, UH-1E, UH-1F, UH-1L, and UH-1P helicopters and 
+Southwest Florida Aviation International, Inc. Model SW204 and 
+SW204HP helicopters, at intervals not to exceed 25 hours TIS, 
+perform the actions required by paragraphs (g)(2)(i) through (vi) of 
+this AD, except you are only required to perform the actions on the 
+upper LH tail boom attach structure including the bolt.
+    (4) For Model HH-1K, TH-1F, TH-1L, UH-1A, UH-1B without STC No. 
+SR00026DE installed, UH-1E, UH-1F, UH-1L, and UH-1P helicopters and 
+Southwest Florida Aviation International, Inc. Model SW204 and 
+SW204HP helicopters, at intervals not to exceed 100 hours TIS, 
+perform the actions required by paragraphs (g)(2)(i) through (vi) of 
+this AD at all four tail boom attach points.
+    (5) For Model UH-1H helicopters and Southwest Florida Aviation 
+International, Inc. Model SW205 helicopters, at intervals not to 
+exceed 150 hours TIS, perform the actions required by paragraphs 
+(g)(2)(i) through (vi) of this AD on all four tail boom attach 
+points.
+
+(h) Special Flight Permit
+
+    Special flight permits are prohibited.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Denver ACO Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or local Flight Standards District 
+Office, as appropriate. If sending information directly to the 
+manager of the certification office, send it to the attention of the 
+person identified in paragraph (j) of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Related Information
+
+    For more information about this AD, contact Richard R. Thomas, 
+Aerospace Engineer, Denver ACO Branch, Compliance & Airworthiness 
+Division, FAA, 26805 East 68th Ave., Room 214, Denver, CO 80249; 
+phone: (303) 342-1080; fax: (303) 342-1088; email: <a href="/cdn-cgi/l/email-protection#d5ecf891b0bba3b0a7f894bca7b6a7b4b3a1f896b0a7a195b3b4b4fbb2baa3"><span class="__cf_email__" data-cfemail="251c0861404b53405708644c5746574443510866405751654344440b424a53">[email&#160;protected]</span></a>.
+
+    Issued on July 18, 2021.
+Ross Landes,
+Deputy Director for Regulatory Operations, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2021-15721 Filed 7-23-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

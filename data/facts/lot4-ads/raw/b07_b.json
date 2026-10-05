@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "2016-08539": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by a determination that all chord segments made of 7079 aluminum must be replaced with new, improved chord segments made of 7075 aluminum.",
+     "value": "7079 aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct stress corrosion and potential early fatigue cracking in the horizontal stabilizer, which could result in reduced structural integrity of the horizontal stabilizer.",
+     "value": "stabilizer"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do a special detailed inspection for cracking of the upper chord on the inboard end of the rear spar on both the left and right side horizontal stabilizers, from stabilizer station -13.179 to 92.55",
+     "value": "chord"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The service information describes procedures for incorporating a new cycle counting procedure, determining the material for the horizontal stabilizer rear spar chord segment, inspecting for stress corrosion cracking and fatigue cracking, repair, and replacing all chord segments made of 7079 aluminum with new, improved chord segments made of 7075 aluminum. ... We are issuing this AD to detect and correct stress corrosion and potential early fatigue cracking in the horizontal stabilizer",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "For certain airplanes, AD 2012-17-13 required using redefined flight cycle counts; determining the type of material of the horizontal stabilizer, rear spar, and upper and lower chords on the inboard and outboard ends of the rear spar; repetitively inspecting for cracking of the horizontal stabilizer components; and repairing or replacing the chord, or modifying chord segments made of 7079 aluminum, if necessary. ... This new AD adds a requirement to replace all chord segments made of 7079 aluminum with new, improved chord segments made of 7075 aluminum.",
+     "value": "repetitive_inspection;replacement;repair;modification"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012).",
+     "value": "AD 2012-17-13"
+    }
+   ]
+  },
+  "2016-18708": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by multiple failure reports of cylinder head-to-barrel separations and cracked and leaking aluminum cylinder heads.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by multiple failure reports of cylinder head-to-barrel separations and cracked and leaking aluminum cylinder heads. We are issuing this AD to prevent failure of the cylinder assemblies, which could lead to failure of the engine, in-flight shutdown, and loss of control of the airplane.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Service history failure reports indicate that in a population of 43,000 cylinders, that 1 of every 1,000 cylinders could separate on average; either in the dome radius or the first thread.",
+     "value": "radius_or_fillet"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Metal fatigue damage is cumulative, and the longer a cylinder head remains in service, the more likely it will fail due to one of the inherent design deficiencies.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires removal of the affected cylinder assemblies, including overhauled cylinder assemblies, according to a phased removal schedule. ... For the affected engines the AD requires replacement of the cylinder assemblies at reduced times-in-service.",
+     "value": "replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2016-21146": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Airbus Service Bulletin A300-57-143, Revision 2, dated July 10, 1989, which describes procedures for replacing the aft aluminum alloy brackets on the outer shroud box with new steel brackets.",
+     "value": "aluminum alloy"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracks in the aft hinge brackets of the outer shroud box that is located in the outer wing box, which were found during routine maintenance checks, and our subsequent determination that a change in inspection compliance times is needed.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Do a detailed inspection for cracks and fractures of the hinge brackets of the forward and aft outer shroud boxes, in accordance with the Accomplishment Instructions of Airbus Service Bulletin A300-57-0142, Revision 04, dated March 30, 2011; or Airbus Service Bulletin A300-57-6010, Revision 05, dated February 21, 2011; as applicable.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracks in the aft hinge brackets of the outer shroud box that is located in the outer wing box, which were found during routine maintenance checks",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Do a detailed inspection for cracks and fractures of the hinge brackets of the forward and aft outer shroud boxes ... Repeat the inspection thereafter at the applicable interval specified in paragraph (g)(1), (g)(2), or (g)(3) of this AD ... Before further flight, replace the damaged hinge bracket with a new bracket ... If any damage is found, before further flight, repair using a method approved by the Manager, International Branch, ANM-116, Transport Airplane Directorate, FAA; or the European Aviation Safety Agency (EASA); or Airbus's EASA Design Organization Approval (DOA).",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 90-11-05, Amendment 39-6603 (89-NM-223-AD) (55 FR 20129, May 15, 1990).",
+     "value": "AD 90-11-05"
+    }
+   ]
+  },
+  "2016-23261": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "accomplish an ultrasonic inspection for cracking of the steel base member and the aluminum side members' flap beam on the left-hand (LH) and right-hand (RH) sides, in accordance with the Accomplishment Instructions of Airbus Service Bulletin A300-57-0116, Revision 07, dated September 19, 2011",
+     "value": "steel base member and the aluminum side members"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct cracking of the No. 2 flap beams, which could result in rupture of the flap beams and reduced structural integrity of the airplane.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Fatigue and ``fail safe'' tests developed on a test specimen confirmed that cracks may appear and propagate from the bolt holes of the base member and the side members of flap beam No. 2.",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Fatigue and ``fail safe'' tests developed on a test specimen confirmed that cracks may appear and propagate from the bolt holes of the base member and the side members of flap beam No. 2.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "At the applicable time specified in paragraph (l)(1) or (l)(2) of this AD and, thereafter at intervals not to exceed those defined in table 3 to paragraph (l) of this AD, as applicable, accomplish an ultrasonic inspection for cracking of the steel base member and the aluminum side members' flap beam on the left-hand (LH) and right-hand (RH) sides ... If any crack is found during any inspection required by paragraph (l) of this AD: Before further flight, replace the flap beam using a method approved by the Manager, International Branch, ANM-116, Transport Airplane Directorate, FAA; or the European Aviation Safety Agency (EASA); or Airbus's EASA Design Organization Approval (DOA).",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 95-21-09, Amendment 39-9395 (60 FR 53847, October 18, 1995) (``AD 95-21-09'').",
+     "value": "AD 95-21-09"
+    }
+   ]
+  },
+  "2016-31188": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "(2) Do a detailed inspection of the faying surface of the aluminum T-chord common to the stringer 1 fitting for fretting damage.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports indicating that certain wing side-of-body upper stringer fittings have been installed with faying surface mismatch beyond the allowed machining tolerance.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "(3) Do an eddy current inspection for cracking of the fastener holes common to stringer fitting 1 and stringer fittings 5 through 11.",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent an unacceptable reduction of the fatigue life in the upper side-of-body rib chord. Associated fatigue cracks can reduce the structural capability of the upper side-of-body t-chord to a point where it cannot sustain limit load, which could adversely affect the structural integrity of the airplane.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires inspections of certain stringer fittings, replacement if necessary, and replacement of certain fasteners. ... Before the accumulation of 18,000 total flight cycles, or within 13 years after the effective date of this AD, whichever occurs first, do the inspections specified in paragraphs (g)(1), (g)(2), and (g)(3) of this AD, and all applicable corrective actions ... Concurrently with accomplishment of the requirements of paragraph (g) of this AD: Modify the stringer fitting fasteners, and do an eddy current inspection for cracking of the fastener holes ... If any crack is found, before further flight, repair using a method approved in accordance with the procedures specified in paragraph (j) of this AD.",
+     "value": "one_time_inspection;replacement;modification;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2017-01824": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct fatigue cracking in the fuselage skin around the eight fasteners securing the STA 540 bulkhead chords, which could result in rapid decompression of the cabin.",
+     "value": "fuselage_skin"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do detailed and high frequency eddy current (HFEC) inspections for cracking of the skin in the area around the eight fasteners securing the STA 540 bulkhead chords between stringers S-22 and S-23",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by a report of cracks found in the skin at body station (STA) 540 just below the left side of stringer S-22. We are issuing this AD to detect and correct fatigue cracking in the fuselage skin around the eight fasteners securing the STA 540 bulkhead chords, which could result in rapid decompression of the cabin.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "do detailed and high frequency eddy current (HFEC) inspections for cracking of the skin in the area around the eight fasteners securing the STA 540 bulkhead chords between stringers S-22 and S-23; and do all applicable related investigative and corrective actions ... repeat the detailed and HFEC inspections thereafter at the intervals specified in table 1 of paragraph 1.E., ``Compliance,'' of SASB 737-53-1294 R2 ... Before further flight, repair using a method approved in accordance with the procedures specified in paragraph (l) of this AD.",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2013-19-04, Amendment 39-17586 (78 FR 59801, September 30, 2013) (``AD 2013-19-04'').",
+     "value": "AD 2013-19-04"
+    }
+   ]
+  }
+ }
+}

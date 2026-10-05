@@ -1,0 +1,768 @@
+<html>
+<head>
+<title>Federal Register, Volume 79 Issue 52 (Tuesday, March 18, 2014)</title>
+</head>
+<body><pre>
+[Federal Register Volume 79, Number 52 (Tuesday, March 18, 2014)]
+[Rules and Regulations]
+[Pages 14982-14987]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2014-04826]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0326; Directorate Identifier 2012-NM-089-AD; 
+Amendment 39-17786; AD 2014-05-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2004-12-07 for 
+certain The Boeing Company Model 757 series airplanes equipped with 
+Rolls-Royce RB211 engines. AD 2004-12-07 required modification of the 
+nacelle strut and wing structure; and for certain airplanes, repetitive 
+detailed inspections of certain aft bulkhead fasteners for loose or 
+missing fasteners, and corrective action if necessary. For certain 
+other airplanes, AD 2004-12-07 required a one-time detailed inspection 
+of the middle gusset of the inboard side load fitting for proper 
+alignment, and realignment if necessary; a one-time eddy current 
+inspection of certain fastener holes for cracking, and repair if 
+necessary; and a detailed inspection of certain fasteners for loose or 
+missing fasteners, and replacement with new fasteners if necessary. 
+This new AD specifies a maximum compliance time limit. This AD was 
+prompted by reports indicating that the actual operational loads 
+applied to the nacelle are higher than the analytical loads that were 
+used during the initial design. We are issuing this AD to prevent 
+fatigue cracking in primary strut structure and consequent reduced 
+structural integrity of the strut.
+
+DATES: This AD is effective April 22, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of April 22, 
+2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of July 
+21, 2004 (69 FR 33561, June 16, 2004).
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+January 3, 2000 (64 FR 66370, November 26, 1999).
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone: 206-544-
+5000, extension 1; fax: 206-766-5680; Internet: <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2013-
+0326; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Nancy Marsh, Aerospace Engineer, 
+Airframe Branch, ANM-120S, Seattle Aircraft Certification Office (ACO), 
+FAA, 1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-6440; 
+fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#9fd1fef1fce6b1d2feedecf7dff9fefeb1f8f0e9"><span class="__cf_email__" data-cfemail="e0ae818e8399cead81929388a0868181ce878f96">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2004-12-07, Amendment 39-13666 (69 FR 33561, 
+June 16, 2004). AD 2004-12-07 applied to certain The Boeing Company 
+Model 757 series airplanes equipped with Rolls-Royce RB211 engines. The 
+NPRM published in the Federal Register on April 15, 2013 (78 FR 22215). 
+The NPRM was prompted by reports indicating that the actual operational 
+loads applied to the nacelle are higher than the analytical loads that 
+were used during the initial design. The NPRM proposed to retain the 
+requirements of AD 2004-12-07, which required modification of the 
+nacelle strut and wing structure; and for certain airplanes, repetitive 
+detailed inspections of certain aft bulkhead fasteners for loose or 
+missing fasteners, and corrective action if necessary. For certain 
+other airplanes, AD 2004-12-07 required a one-time detailed inspection 
+of the middle gusset of the inboard side load fitting for proper 
+alignment, and realignment if necessary; a one-time eddy current 
+inspection of certain fastener holes for cracking, and repair if 
+necessary; and a detailed inspection of certain fasteners for loose or 
+missing fasteners, and replacement with new fasteners if necessary. The 
+NPRM proposed to specify a maximum compliance time limit to modify the 
+nacelle strut and wing structure. We are issuing this AD to prevent 
+fatigue cracking in primary strut structure and consequent reduced 
+structural integrity of the strut.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(78 FR 22215, April 15, 2013) and the FAA's response to each comment.
+
+Support for the NPRM (78 FR 22215, April 15, 2013)
+
+    Boeing stated that it concurs with the contents of the NPRM (78 FR 
+22215, April 15, 2013).
+
+[[Page 14983]]
+
+Clarification of Effect of Winglet Installation
+
+    Aviation Partners Boeing stated that accomplishing the supplemental 
+type certificate (STC) ST01518SE does not affect the actions specified 
+in the NPRM (78 FR 22215, April 15, 2013).
+    We concur with the commenter. We have redesignated paragraph (c) of 
+the NPRM (78 FR 22215, April 15, 2013) as (c)(1) and added new 
+paragraph (c)(2) to this final rule to state that installation of STC 
+ST01518SE (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/48e13cdfbbc32cf4862576a4005d308b/Body/0.48A!OpenElement&FieldElemFormat=gif">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/48e13cdfbbc32cf4862576a4005d308b/Body/0.48A!OpenElement&FieldElemFormat=gif</a>) does not affect the ability to 
+accomplish the actions required by this final rule. Therefore, for 
+airplanes on which STC ST01518SE is installed, a ``change in product'' 
+alternative method of compliance (AMOC) approval request is not 
+necessary to comply with the requirements of 14 CFR 39.17.
+
+Request To Clarify Concurrent Requirements
+
+    FedEx requested that we clarify the requirements of paragraph (j) 
+of the NPRM (78 FR 22215, April 15, 2013), which specified concurrent 
+actions. FedEx explained that the NPRM requirement and paragraph 1.B., 
+of Boeing Service Bulletin 757-54-0035, Revision 6, dated December 2, 
+2011, conflict with the information in paragraph D., of Boeing Service 
+Bulletin 757-54-0035, Revision 6, dated December 2, 2011. FedEx stated 
+that paragraph D. of Boeing Service Bulletin 757-54-0035, Revision 6, 
+dated December 2, 2011, states that Boeing Service Bulletin 757-54-
+0003, Revision 1, dated August 30, 1985; and Boeing Service Bulletin 
+757-54-0028, Revision 1, dated August 25, 1994 (the concurrent actions 
+required by paragraph (j) of the NPRM); no longer need to be 
+accomplished.
+    We agree to clarify the concurrent actions. Table I of paragraph D. 
+in Boeing Service Bulletin 757-54-0035, Revision 6, dated December 2, 
+2011, is in error. We have added Note 1 to paragraph (j) of this final 
+rule, which states that paragraph D. of Boeing Service Bulletin 757-54-
+0035, Revision 6, dated December 2, 2011, incorrectly states that the 
+actions described in Boeing Service Bulletin 757-54-0003, Revision 1, 
+dated August 30, 1985; and Boeing Service Bulletin 757-54-0028, 
+Revision 1, dated August 25, 1994; no longer need to be accomplished.
+
+Request To Change When Concurrent Actions Are To Be Done
+
+    American Airlines (AAL) requested that we change paragraph (j) 
+(concurrent actions) of the NPRM (78 FR 22215, April 15, 2013), which 
+specifies doing the actions at the same time as paragraph (i) of the 
+NPRM, to specify that the concurrent actions are to be done at the same 
+time as the actions required by paragraph (g) of the NPRM. AAL stated 
+that the pylon modification action is mandated by paragraph (g) of the 
+NPRM, and paragraph (i) of the NPRM mandates only the time at which the 
+modification must be accomplished.
+    We do not agree with the commenter's request because, although the 
+requirement for the modification is first specified in paragraph (g) of 
+this final rule, which is a restatement from AD 2004-12-07, Amendment 
+39-13666 (69 FR 33561, June 16, 2004), the new requirement is in 
+paragraph (i) of this final rule. Paragraph (i) of this final rule 
+correctly references paragraph (g) of this final rule. If the 
+concurrent actions specified in paragraph (j) of this final rule are to 
+be accomplished at the same time as paragraph (g) of this final rule, 
+as the commenter suggests, that would make the requirement retroactive, 
+and would potentially put operators out of compliance. We have not 
+changed this final rule in this regard.
+
+Request for Repair Credit
+
+    AAL requested that we allow credit for repairs specified in 
+paragraph (k) of the NPRM (78 FR 22215, April 15, 2013) that are made 
+``before the effective date of this AD'' using Boeing Service Bulletin 
+757-54-0028, dated March 31, 1994; or Boeing Service Bulletin 757-54-
+0028, Revision 1, dated August 25, 1994.
+    We do not agree with the commenter's request. Paragraph (k)(1) of 
+this final rule requires that cracking be repaired using a method 
+approved by the FAA as specified in paragraph (n) of the final rule. 
+Boeing Service Bulletin 757-54-0028, dated March 31, 1994; and Boeing 
+Service Bulletin 757-54-0028, Revision 1, dated August 25, 1994; do not 
+contain procedures for repairing cracking, and only specify to contact 
+Boeing if cracking is found. We infer that the commenter is requesting 
+credit for any repair done in accordance with procedures provided by 
+Boeing or with the operator's own methods. The commenter has not 
+provided any details about any such repairs, and therefore we cannot 
+give credit for these repairs. However, under the provisions of 
+paragraph (n) of this final rule, repairs may be approved if 
+substantiating data are provided showing that the repair provides an 
+acceptable level of safety.
+    For paragraph (k)(2) of this final rule, Boeing Service Bulletin 
+757-54-0028, Revision 1, dated August 25, 1994, is already specified as 
+the appropriate source of service information for accomplishing repair 
+of the holes. In addition, since Boeing Service Bulletin 757-54-0028, 
+dated March 31, 1994, does not contain procedures for repairing holes, 
+we cannot give credit for Boeing Service Bulletin 757-54-0028, dated 
+March 31, 1994. However, under the provisions of paragraph (n) of this 
+final rule, repairs may be approved if substantiating data are provided 
+showing that the repair provides an acceptable level of safety. We have 
+not changed this final rule in this regard.
+
+Request To Clarify Inspections
+
+    AAL requested that we not require the paragraph following the 
+compliance table in paragraph l.E., ``Compliance,'' of Boeing Service 
+Bulletin 757-54-0035, Revision 6, dated December 2, 2011. AAL stated 
+that the interim inspections specified in the paragraph following the 
+compliance table in paragraph l.E., ``Compliance,'' of Boeing Service 
+Bulletin 757-54-0035, Revision 6, dated December 2, 2011, are unclear 
+and that, if required, the inspections should be specified in a new 
+(additional) paragraph.
+    We agree to clarify. Paragraphs (g) and (i) of this final rule 
+specifically require accomplishment of the modification of the strut as 
+specified in Boeing Service Bulletin 757-54-0035, Revision 6, dated 
+December 2, 2011, and do not require any interim inspections. Although 
+there are certain inspections specifically required in paragraphs (h) 
+and (j) of this final rule, there are no interim inspections specified 
+in any paragraph of this final rule. Therefore, the interim inspections 
+defined in the paragraph following the table in paragraph l.E., 
+``Compliance,'' of Boeing Service Bulletin 757-54-0035, Revision 6, 
+dated December 2, 2011, are not required by this final rule. We have 
+not changed this final rule in this regard.
+
+Request To Do Work Out of Sequence
+
+    AAL requested that we allow instructions to be worked out of 
+sequence. AAL stated that by requiring operators to adhere to the 
+sequence of steps as organized in the service information, based on the 
+strictest interpretation, it can place an undue burden on operators and 
+drive longer aircraft out-of-service time. AAL asserted that not 
+allowing instructions to be worked out of sequence prevents operators 
+from working on the wing
+
+[[Page 14984]]
+
+structure and the removed pylon structure simultaneously. AAL also 
+stated that without the leeway to work steps out of sequence, if damage 
+is encountered during a particular step, maintenance must wait for a 
+disposition and corrective action for that damage before continuing to 
+the next step.
+    We partially agree with the commenter's request. We agree with 
+revising the final rule to allow work to be accomplished on the wing 
+structure and the removed pylon structure simultaneously, and for work 
+to be accomplished on both pylons simultaneously, because no 
+detrimental effect on the airplane results from accomplishing the 
+service information in this way.
+    We disagree with allowing all service information steps to be 
+worked out of sequence. This allowance could be interpreted as allowing 
+service information steps at one pylon, or at one wing location, to be 
+performed out of sequence, which could detrimentally affect the result 
+of the modification.
+    We also disagree with stating that opposite sides of the strut can 
+be worked at different rates, as some tasks are necessary to be 
+performed in sequence. For further clarification of strut task 
+sequencing, operators may request approval of an AMOC by providing 
+additional details defining the tasks using the procedures defined in 
+paragraph (n) of this final rule.
+    We have added new paragraph (l) to this final rule, which states 
+that although Boeing Service Bulletin 757-54-0035, Revision 6, dated 
+December 2, 2011, specifies to work the wing modification before the 
+strut modification, this AD allows for the wing and strut modifications 
+to occur simultaneously. This AD also allows for both struts to be 
+modified simultaneously. We have redesignated subsequent paragraphs 
+accordingly. We have also referenced paragraph (l) in paragraphs (g) 
+and (h) of this final rule.
+
+Request To Require Only Certain Service Information Steps
+
+    AAL requested that we require only the steps in the service 
+information that are critical for safety of flight. AAL suggested that 
+only Part II, Steps 6, 7, and 9-12; Part III, Steps 4-24; Part IV, 
+Steps 3-7; and Part VI, Steps 3-16 and 19; of Boeing Service Bulletin 
+757-54-0035, Revision 6, dated December 2, 2011, should be required. 
+AAL stated that preparation and open-up and close-up instructions are 
+not necessary to mandate and can be left to operator discretion on the 
+best methods without affecting the ability to address the safety issue 
+that exists.
+    We do not agree with AAL's request. Boeing Service Bulletin 757-54-
+0035, Revision 6, dated December 2, 2011, already allows operator's 
+discretion for certain actions. Note 8 of paragraph 3.B.A., ``General 
+Information,'' of Boeing Service Bulletin 757-54-0035, Revision 6, 
+dated December 2, 2011, specifies that when the words ``refer to'' are 
+used for a procedure, operators may use an accepted alternative 
+procedure. Note 11 of paragraph 3.B.A., ``General Information,'' of 
+Boeing Service Bulletin 757-54-0035, Revision 6, dated December 2, 
+2011, specifies that for access, all the identified parts do not need 
+to be removed if you can get access without removing the identified 
+parts and that additional parts may be removed if needed.
+    However, due to the complexity of the modification to the strut, 
+certain preparation and installation steps are needed to prevent damage 
+to the strut structure, systems components, and the engine. In 
+addition, a fuel leak check is specified in Boeing Service Bulletin 
+757-54-0035, Revision 6, dated December 2, 2011, to ensure that the 
+modification and reassembly were completed and that no hidden damage 
+exists. Therefore, no changes have been made to this final rule in this 
+regard.
+    Although we have not revised this final rule, we do agree with the 
+concept of minimizing AD requirements when appropriate. The FAA worked 
+in conjunction with industry, under the Airworthiness Directives 
+Implementation Aviation Rulemaking Committee (ARC), to enhance the AD 
+system. One enhancement is a new process for annotating which steps in 
+the service information are ``required for compliance'' (RC) with an 
+AD. Differentiating these steps from other tasks in the service 
+information is expected to improve an owner's/operator's understanding 
+of AD requirements and help provide consistent judgment in AD 
+compliance. In response to the AD Implementation ARC, the FAA released 
+AC 20-176, dated December 19, 2011 (http://rgl.avs.faa.gov/Regulatory--
+and--Guidance--Library/rgAdvisoryCircular.nsf/0/
+a78cc91a47b192278625796b0075f419/$FILE/AC%2020-176.pdf); and Order 
+8110.117, dated September 12, 2012 (http://rgl.avs.faa.gov/Regulatory--
+and--Guidance--Library/rgOrders.nsf/0/984bb9eb07cdd86986257a7f0070744c/
+$FILE/Order%208110.117.pdf), which include the concept of RC. The FAA 
+has begun implementing this concept in ADs when we receive service 
+information containing RC steps. While some design approval holders 
+have implemented the RC concept, the implementation is voluntary. The 
+FAA does not intend to develop or revise AD requirements to incorporate 
+the RC concept if it is not included in the service information.
+    Contrary to AAL's statement that ADs should mandate only those 
+service bulletin provisions that are necessary to ensure safety of 
+flight, ADs generally contain requirements that are reasonably related 
+to addressing the unsafe condition, as determined by the FAA and the 
+design approval holder that developed the service bulletin. Typically, 
+operators' maintenance programs were not developed in recognition of 
+the unsafe condition that is being addressed by an AD. Whenever we 
+issue an AD, those programs had failed to prevent the unsafe condition 
+in the first place. Therefore, many provisions of ADs address aspects 
+of accomplishing the required maintenance that are necessary to prevent 
+operators from inadvertently aggravating the unsafe condition or 
+introducing new unsafe conditions.
+    For many years, the Air Transport Association (now Airlines for 
+America, A4A) has sponsored the ``Lead Airline'' program through which 
+individual airlines are provided an opportunity to prototype 
+manufacturers' draft service instructions before they are finalized. 
+One objective of this activity is to minimize the procedures included 
+in the instructions that are considered unnecessary. Therefore, when 
+the FAA receives a manufacturer's service bulletin, we recognize that 
+the procedures specified have been determined to be necessary by both 
+the manufacturer and affected operators. As in this case, the 
+instructions provided in service bulletins referenced in ADs are 
+reasonably related to addressing the unsafe condition.
+    As always, if AAL or any other operator prefers to address the 
+unsafe condition by means other than those specified in the referenced 
+service information, they may request approval for an alternative 
+method of compliance using the procedures specified in paragraph (n) of 
+this final rule, and, if approved, may use it instead of the procedures 
+specified in the service information.
+
+Request To Correct Typographical Error
+
+    AAL requested that we revise paragraph (j)(1) of the NPRM (78 FR 
+22215, April 15, 2013) to remove the extra word ``dated'' from the 
+service information citation.
+
+[[Page 14985]]
+
+    We agree to correct the typographical error and have removed the 
+extra word ``dated.''
+
+Additional Change Made to This Final Rule
+
+    The information in paragraph (l)(3) of the NPRM (78 FR 22215, April 
+15, 2013) has been separated into two paragraphs in this final rule 
+(paragraphs (m)(3) and (m)(4) of this final rule). In addition, we 
+changed the reference in paragraph (m)(3) of this final rule to refer 
+to the actions required by paragraph (j)(1) of this final rule. We also 
+changed the reference in paragraph (m)(4) to this final rule to refer 
+to the actions required by paragraph (j)(2) of this final rule. The 
+content has not been changed.
+    The information in paragraph (m)(4) of the NPRM (78 FR 22215, April 
+15, 2013) has been added to new paragraph (n)(4) of this final rule. 
+The content has not been changed.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (78 FR 22215, April 15, 2013) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 22215, April 15, 2013).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 176 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                 Action                             Labor cost              Parts cost         Cost per product             Cost on U.S. operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Modification............................  Up to 1,188 work-hours x $85                $0  Up to $100,980...........  Up to $17,772,480.
+[retained from AD 2004-12-07, Amendment    per hour = $100,980.
+ 39-13666 (69 FR 33561, June 16, 2004)].
+One-time Inspection [retained from AD     1 work-hour x $85 per hour =                 0  $85......................  $14,960.
+ 2004-12-07, Amendment 39-13666 (69 FR     $85.
+ 33561, June 16, 2004)].
+Concurrent modification [new action, 30   142 work-hours x $85 per hour                0  $12,070..................  $362,100.
+ airplanes].                               = $12,070.
+Concurrent inspection and fastener        104 work-hours x $85 per hour                0  $8,840...................  $106,080.
+ installation [new action, 12 airplanes].  = $8,840.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for this Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2004-12-07, Amendment 39-13666 (69 FR 33561, June 16, 2004), and adding 
+the following new AD:
+
+2014-05-13 The Boeing Company: Amendment 39-17786; Docket No. FAA-
+2013-0326; Directorate Identifier 2012-NM-089-AD.
+
+(a) Effective Date
+
+    This AD is effective April 22, 2014.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2004-12-07, Amendment 39-13666 (69 FR 
+33561, June 16, 2004).
+
+(c) Applicability
+
+    (1) This AD applies to The Boeing Company Model 757-200, -200PF, 
+and
+
+[[Page 14986]]
+
+-200CB series airplanes, certificated in any category, line numbers 
+1 through 735 inclusive, equipped with Rolls-Royce RB211 engines.
+    (2) Installation of Supplemental Type Certificate (STC) 
+ST01518SE (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/48e13cdfbbc32cf4862576a4005d308b/Body/0.48A!OpenElement&FieldElemFormat=gif">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/48e13cdfbbc32cf4862576a4005d308b/Body/0.48A!OpenElement&FieldElemFormat=gif</a>) does not affect the ability 
+to accomplish the actions required by this AD. Therefore, for 
+airplanes on which STC ST01518SE is installed, a ``change in 
+product'' alternative method of compliance (AMOC) approval request 
+is not necessary to comply with the requirements of 14 CFR 39.17.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 54, Nacelles/
+Pylons.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports indicating that the actual 
+operational loads applied to the nacelle are higher than the 
+analytical loads that were used during the initial design. We are 
+issuing this AD to prevent fatigue cracking in primary strut 
+structure and consequent reduced structural integrity of the strut.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Modification
+
+    This paragraph restates the requirements of paragraph (a) of AD 
+2004-12-07, Amendment 39-13666 (69 FR 33561, June 16, 2004), with 
+new service information: Modify the nacelle strut and wing structure 
+according to Boeing Service Bulletin 757-54-0035, dated July 17, 
+1997; Revision 1, dated April 15, 1999; Revision 2, dated June 13, 
+2002; or Revision 6, dated December 2, 2011; except as specified in 
+paragraph (l) of this AD; at the later of the times specified in 
+paragraph (g)(1) or (g)(2) of this AD, except as required by 
+paragraph (i) of this AD. All of the terminating actions described 
+in paragraph I.C., Table I, ``Strut Improvement Bulletins,'' on page 
+6 of Boeing Service Bulletin 757-54-0035, dated July 17, 1997; page 
+7 of Boeing Service Bulletin 757-54-0035, Revision 1, dated April 
+15, 1999; and on page 7 of Boeing Service Bulletin 757-54-0035, 
+Revision 2, dated June 13, 2002; as applicable; must be accomplished 
+prior to, or concurrently with, the accomplishment of the 
+modification of the nacelle strut and wing structure required by 
+this paragraph. After July 21, 2004 (the effective date of AD 2004-
+12-07), use only Boeing Service Bulletin 757-54-0035, Revision 2, 
+dated June 13, 2002; or Boeing Service Bulletin 757-54-0035, 
+Revision 6, dated December 2, 2011. After the effective date of this 
+AD, use only Boeing Service Bulletin 757-54-0035, Revision 6, dated 
+December 2, 2011. Accomplishment of the actions required by 
+paragraph (i) of this AD terminates the requirements of this 
+paragraph.
+    (1) Prior to the accumulation of 37,500 total flight cycles, or 
+prior to 20 years since the date of manufacture of the airplane, 
+whichever occurs first.
+    (2) Within 3,000 flight cycles after January 3, 2000 (the 
+effective date of AD 99-24-07, Amendment 39-11431 (64 FR 66370, 
+November 26, 1999)).
+
+(h) Retained Inspection and Repair
+
+    This paragraph restates the requirements of paragraph (c) of AD 
+2004-12-07, Amendment 39-13666 (69 FR 33561, June 16, 2004), with 
+new service information. For airplanes on which the modification 
+required by paragraph (g) of this AD has been done according to 
+Boeing Service Bulletin 757-54-0035, dated July 17, 1997: Within 
+15,000 flight cycles after doing the modification required by 
+paragraph (g) of this AD, or within 3 years after July 21, 2004 (the 
+effective date of AD 2004-12-07), whichever is later; do a one-time 
+detailed inspection of the middle gusset of the inboard side load 
+fitting for proper alignment, according to Part II of the 
+Accomplishment Instructions of Boeing Service Bulletin 757-54-0035, 
+Revision 1, dated April 15, 1999; or Revision 2, dated June 13, 
+2002, excluding Evaluation Form; or Boeing Service Bulletin 757-54-
+0035, Revision 6, dated December 2, 2011; except as specified by 
+paragraph (l) of this AD. If the gusset is not aligned properly: 
+Before further flight, machine the gusset to the specified angle 
+according to the Accomplishment Instructions of Boeing Service 
+Bulletin 757-54-0035, Revision 1, dated April 15, 1999; or Revision 
+2, dated June 13, 2002, excluding Evaluation Form; or Boeing Service 
+Bulletin 757-54-0035, Revision 6, dated December 2, 2011. As of the 
+effective date of this AD, use only Boeing Service Bulletin 757-54-
+0035, Revision 6, dated December 2, 2011, for accomplishing the 
+actions required by this paragraph.
+
+(i) New Compliance Time Limitation
+
+    For airplanes on which the modification of the nacelle strut and 
+wing structure required by paragraph (g) of this AD has not been 
+done as of the effective date of this AD: Do the modification 
+required by paragraph (g) of this AD at the later of the times 
+specified in paragraphs (i)(1) and (i)(2) of this AD.
+    (1) At the time specified in paragraph 1.E., ``Compliance,'' of 
+Boeing Service Bulletin 757-54-0035, Revision 6, dated December 2, 
+2011, except that where this service bulletin specifies a compliance 
+time ``from the date on Revision 4 of this service bulletin,'' this 
+AD requires compliance within the specified compliance time after 
+the effective date of this AD.
+    (2) Within 3,000 flight cycles after January 3, 2000 (the 
+effective date of AD 99-24-07, Amendment 39-11431 (64 FR 66370, 
+November 26, 1999)).
+
+(j) New Concurrent Actions
+
+    Concurrently with or prior to the accomplishment of the actions 
+required by paragraph (i) of this AD, do the actions specified in 
+paragraphs (j)(1) and (j)(2) of this AD.
+    (1) For airplanes identified in Boeing Service Bulletin 757-54-
+0003, Revision 1, dated August 30, 1985: Modify the nacelle strut 
+upper spar, in accordance with the Accomplishment Instructions of 
+Boeing Service Bulletin 757-54-0003, Revision 1, dated August 30, 
+1985.
+    (2) For airplanes identified in Boeing Service Bulletin 757-54-
+0028, Revision 1, dated August 25, 1994: Do a detailed inspection 
+and non-destructive test inspection for cracking of the lower chord, 
+mid-chord, and holes (for cracking, galling, corrosion, or damage 
+due to fastener removal), in accordance with the Accomplishment 
+Instructions of Boeing Service Bulletin 757-54-0028, Revision 1, 
+dated August 25, 1994.
+
+    Note 1 to paragraph (j) of this AD: Paragraph D. of Boeing 
+Service Bulletin 757-54-0035, Revision 6, dated December 2, 2011, 
+incorrectly states that the actions described in Boeing Service 
+Bulletin 757-54-0003, Revision 1, dated August 30, 1985; and Boeing 
+Service Bulletin 757-54-0028, Revision 1, dated August 25, 1994; no 
+longer need to be accomplished.
+
+(k) Repair
+
+    (1) If any cracking is found during any inspection required by 
+paragraph (j)(2) of this AD: Before further flight, repair the 
+cracking using a method approved in accordance with the procedures 
+specified in paragraph (n) of this AD.
+    (2) If any holes with galling, corrosion, or damage due to 
+fastener removal are found during any inspection required by 
+paragraph (j)(2) of this AD: Before further flight, repair the 
+holes, in accordance with the Accomplishment Instructions of Boeing 
+Service Bulletin 757-54-0028, Revision 1, dated August 25, 1994.
+
+(l) Work Sequence Requirement
+
+    Although Boeing Service Bulletin 757-54-0035, Revision 6, dated 
+December 2, 2011, specifies to work the wing modification before the 
+strut modification, this AD allows for the wing and strut 
+modifications to occur simultaneously. This AD also allows for both 
+struts to be modified simultaneously.
+
+(m) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions required by 
+paragraph (g) of this AD, if those actions were performed before the 
+effective date of this AD using Boeing Service Bulletin 757-54-0035, 
+Revision 4, dated June 18, 2009; or Revision 5, dated June 9, 2011; 
+which are not incorporated by reference in this AD.
+    (2) This paragraph provides credit for the actions required by 
+paragraph (h) of this AD, if those actions were performed before the 
+effective date of this AD using Boeing Service Bulletin 757-54-0035, 
+Revision 4, dated June 18, 2009; or Revision 5, dated June 9, 2011; 
+which are not incorporated by reference in this AD.
+    (3) This paragraph provides credit for the actions required by 
+paragraph (j)(1) of this AD, if those actions were performed before 
+the effective date of this AD using Boeing Service Bulletin 757-54-
+0003, dated December 14, 1984, which is not incorporated by 
+reference in this AD.
+    (4) This paragraph provides credit for the actions required by 
+paragraph (j)(2) of this AD, if those actions were performed before 
+the effective date of this AD using Boeing
+
+[[Page 14987]]
+
+Service Bulletin 757-54-0028, dated March 31, 1994, which is not 
+incorporated by reference in this AD.
+
+(n) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Certification Office (ACO), FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the ACO, send it to the attention of the 
+person identified in paragraph (o)(1) of this AD. Information may be 
+emailed to: <a href="/cdn-cgi/l/email-protection#5f66721e1112720c3a3e2b2b333a721e1c10721e12101c720d3a2e2a3a2c2b2c1f393e3e71383029"><span class="__cf_email__" data-cfemail="60594d212e2d4d33050114140c054d21232f4d212d2f234d3205111505131413200601014e070f16">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane and the approval must 
+specifically refer to this AD.
+    (4) AMOCs approved for AD 2004-12-07, Amendment 39-13666 (69 FR 
+33561, June 16, 2004), are approved as AMOCs for paragraphs (g) and 
+(h) of this AD, except for AMOCs that approved a revised compliance 
+time.
+
+(o) Related Information
+
+    (1) For more information about this AD, contact Nancy Marsh, 
+Aerospace Engineer, Airframe Branch, ANM-120S, Seattle Aircraft 
+Certification Office (ACO), FAA, 1601 Lind Avenue SW., Renton, WA 
+98057-3356; phone: 425-917-6440; fax: 425-917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#90def1fef3e9beddf1e2e3f8d0f6f1f1bef7ffe6"><span class="__cf_email__" data-cfemail="0a446b64697324476b7879624a6c6b6b246d657c">[email&#160;protected]</span></a>.
+    (2) Service information identified in this AD that is not 
+incorporated by reference may be obtained at the addresses specified 
+in paragraphs (p)(6) and (p)(7) of this AD.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+April 22, 2014.
+    (i) Boeing Service Bulletin 757-54-0003, Revision 1, dated 
+August 30, 1985.
+    (ii) Boeing Service Bulletin 757-54-0028, Revision 1, dated 
+August 25, 1994.
+    (iii) Boeing Service Bulletin 757-54-0035, Revision 6, dated 
+December 2, 2011.
+    (4) The following service information was approved for IBR on 
+July 21, 2004 (69 FR 33561, June 16, 2004).
+    (i) Boeing Service Bulletin 757-54-0035, Revision 1, dated April 
+15, 1999.
+    (ii) Boeing Service Bulletin 757-54-0035, Revision 2, dated June 
+13, 2002.
+    (5) The following service information was approved for IBR on 
+January 3, 2000 (64 FR 66370, November 26, 1999).
+    (i) Boeing Service Bulletin 757-54-0035, dated July 17, 1997.
+    (ii) Reserved.
+    (6) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; phone: 206-544-
+5000, extension 1; fax: 206-766-5680; Internet: <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (7) You may view copies of this service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, 
+call 425-227-1221.
+    (8) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on February 19, 2014.
+Jeffrey E. Duven,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-04826 Filed 3-17-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

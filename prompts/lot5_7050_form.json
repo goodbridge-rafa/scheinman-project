@@ -1,0 +1,52 @@
+{
+  "source": "data/raw/MIL-HDBK-5J.pdf",
+  "pages": [626],
+  "comment": "Lot 5a: 7050-T7451 plate, the floor-beam material named by AD E7-9396. Steered by the lot4 fusion result.",
+  "fields": [
+    {
+      "field_id": "spec_7050_plate",
+      "question": "On PDF page 626, Table 3.7.4.0(b1) header: the specification listed for 7050 aluminum alloy plate. Report exactly as printed.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "temper_7050_plate",
+      "question": "On PDF page 626, Table 3.7.4.0(b1) header: the temper printed for this plate table. Report exactly as printed.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "first_range_thickness_in",
+      "question": "On PDF page 626, Table 3.7.4.0(b1): the FIRST (leftmost) thickness range column, in inches. Report the range exactly as printed.",
+      "expected_unit": "in"
+    },
+    {
+      "field_id": "ftu_L_A_ksi",
+      "question": "On PDF page 626, Table 3.7.4.0(b1): Ftu, L direction, A basis, in that same first thickness column. Number as printed, without footnote letters.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "fty_L_A_ksi",
+      "question": "On PDF page 626, Table 3.7.4.0(b1): Fty, L direction, A basis, in that same first thickness column. Number as printed, without footnote letters.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "ftu_ST_A_ksi",
+      "question": "On PDF page 626, Table 3.7.4.0(b1): Ftu, ST direction, A basis, in that same first thickness column. Number as printed; if the cell prints only dots (no value), answer null.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "fbru_2p0_A_ksi",
+      "question": "On PDF page 626, Table 3.7.4.0(b1): Fbru for e/D = 2.0, A basis, in that same first thickness column. Number as printed.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "e_modulus_ksi",
+      "question": "On PDF page 626, Table 3.7.4.0(b1): the tension modulus of elasticity E, in 10^3 ksi, from the physical-properties block. Number as printed.",
+      "expected_unit": "10^3 ksi"
+    },
+    {
+      "field_id": "density_lb_in3",
+      "question": "On PDF page 626, Table 3.7.4.0(b1): the density (omega, lb/in.3) printed in the physical-properties block. Number as printed.",
+      "expected_unit": "lb/in^3"
+    }
+  ]
+}

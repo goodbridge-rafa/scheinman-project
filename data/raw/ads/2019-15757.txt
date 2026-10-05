@@ -1,0 +1,411 @@
+<html>
+<head>
+<title>Federal Register, Volume 84 Issue 143 (Thursday, July 25, 2019)</title>
+</head>
+<body><pre>
+[Federal Register Volume 84, Number 143 (Thursday, July 25, 2019)]
+[Rules and Regulations]
+[Pages 35814-35818]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2019-15757]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-8501; Product Identifier 2014-SW-042-AD; Amendment 
+39-19678; AD 2019-13-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Sikorsky Aircraft Corporation 
+Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Sikorsky Aircraft Corporation (Sikorsky) Model S-92A 
+helicopters. This AD was prompted by fatigue analysis indicating stress 
+concentrations, as well as the discovery of a helicopter with a crack 
+in the station (STA) 362 frame and skin. This AD requires inspecting 
+the main transmission forward and aft frame assemblies and adjacent 
+skins for a crack and loose fasteners, and establishing life limits for 
+certain frame assemblies. The FAA is issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective August 29, 2019.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Sikorsky Aircraft Corporation, Customer Service Engineering, 
+124 Quarry Road, Trumbull, CT 06611; telephone 1-800-Winged-S or 203-
+416-4299; email: <a href="/cdn-cgi/l/email-protection#fb8c9888a4988e888fa4889e898d92989ea49e959cd59c89d6889290bb97969894d5989496"><span class="__cf_email__" data-cfemail="fd8a9e8ea29e888e89a28e988f8b949e98a298939ad39a8fd08e9496bd91909e92d39e9290">[email&#160;protected]</span></a>. You may view 
+this service information at the FAA, Office of the Regional Counsel, 
+Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, Fort Worth, TX 
+76177.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> gov by searching for and locating Docket No. FAA-2016-
+8501; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Kristopher Greer, Aviation Safety 
+Engineer, Boston ACO Branch, Compliance and Airworthiness
+
+[[Page 35815]]
+
+Division, 1200 District Avenue, Burlington, Massachusetts 01803; 
+telephone (781) 238-7799; email <a href="/cdn-cgi/l/email-protection#aee5dcc7dddac1dec6cbdc80e9dccbcbdceec8cfcf80c9c1d8"><span class="__cf_email__" data-cfemail="4e053c273d3a213e262b3c60093c2b2b3c0e282f2f60292138">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Sikorsky Model 
+S-92A helicopters. The NPRM published in the Federal Register on July 
+15, 2016 (81 FR 46002). The NPRM was prompted by a fatigue analysis 
+that indicates stress concentrations may develop at the steel doublers 
+on the main transmission airframe support structure top deck, adjacent 
+to the transmission feet. Additionally, a helicopter was discovered 
+with a crack in the STA 362 frame and skin. The NPRM proposed to 
+require inspecting the main transmission forward and aft frame 
+assemblies and adjacent skins for a crack and loose fasteners, and 
+replacing or repairing any cracked part or loose fastener. The NPRM 
+also proposed to require establishing life limits for certain frame 
+assemblies.
+    The FAA issued a supplemental NPRM (SNPRM) (83 FR 66167, December 
+26, 2018) that proposed to revise the NPRM by increasing the estimated 
+costs of compliance and removing the daily inspection requirements.
+    The FAA is issuing this AD to detect a crack in a main transmission 
+airframe support structure, which could result in failure of a main 
+transmission frame and subsequent loss of control of the helicopter.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the SNPRM and the FAA's response to each comment.
+
+Request To Reference the Latest Service Information
+
+    Sikorsky requested that the FAA reference the latest revision of 
+Sikorsky S-92A-AMM-000 Maintenance Manual, Chapter 53-20-00, Task 53-
+20-00-210-003, ``Inspection of Main Transmission Airframe Support 
+Structure.''
+    The FAA agrees. The FAA has revised this final rule to reference 
+Sikorsky S-92A-AMM-000 Maintenance Manual, Chapter 53-20-00, Task 53-
+20-00-210-003, ``Inspection of Main Transmission Airframe Support 
+Structure,'' dated November 30, 2018.
+
+Request To Revise Certain Terminology in the SNPRM
+
+    Sikorsky requested that all instances of ``life limits'' be changed 
+to ``replacement intervals.'' Sikorsky stated that this terminology is 
+consistent with 14 CFR Appendix A to part 29 and the approved 
+airworthiness limitations section of the maintenance manual.
+    The FAA disagrees. The term ``life limit'' has been used in 
+previous ADs applicable to Sikorsky aircraft and is well understood by 
+the aviation industry. In addition, the use of life limit conveys the 
+mandatory nature of the replacement intervals. The FAA has not changed 
+this final rule in this regard.
+
+Request To Revise the Life Limit Hours Time-In-Service (TIS) in the 
+SNPRM
+
+    Sikorsky requested that the FAA revise the values for the life 
+limit hours TIS. Sikorsky stated that the replacement intervals for the 
+frame assembly part numbers shown in table 1 to paragraph (e)(1) of the 
+SNPRM (which is referred to as figure 1 to paragraphs (a) and (e) in 
+this final rule) increased since issuance of the NPRM. Sikorsky also 
+stated that a recent certification effort for these parts increased the 
+replacement intervals by a minimum of 7,900 hours, to as much as 17,400 
+hours, above the limits proposed in the SNPRM. Sikorsky commented that 
+incorporation of these new replacement intervals (ranging from 18,300 
+life limit hours TIS to 29,400 life limit hours TIS, as applicable) 
+will avoid unnecessary removal from service of frame assemblies and 
+avoid the need for issuance of alternate methods of compliance to 
+address differences between the life limits proposed by the SNPRM and 
+those subsequently approved by the FAA.
+    The FAA agrees. The FAA has revised the life limits in this final 
+rule for the reasons provided by the commenter because these longer 
+life limits have been approved by the FAA.
+    Sikorsky further commented that with approval of recent 
+certification work, Forward STA 328 frame assemblies that are altered 
+and changed to P/N 92070-20124-064, 92070-20124-067, 92070-20127-045, 
+92070-20124-065, 92070-20124-047, or 92070-20127-046 are no longer 
+counted from TIS of alternation. They are only counted from the 
+original frame part number initial service date instead. These part-
+numbered assemblies were proposed in the SNPRM for removal from service 
+upon accumulating 12,000 hours TIS from the alteration or 28,500 hours 
+TIS total (regardless of part number) from the total original frame 
+part number initial service date, whichever occurs first.
+    The FAA agrees and has omitted ``remove from service of upon 
+accumulating 12,000 hours TIS from the alteration'' in this final rule.
+
+Additional Changes Made in This Final Rule
+
+    The four tables in the SNPRM have been re-identified as figures in 
+this AD. The FAA has also relocated these figures to all follow 
+paragraph (a) of this AD.
+
+FAA's Determination
+
+    The FAA has reviewed the relevant information, considered the 
+comments received, and determined that an unsafe condition exists and 
+is likely to exist or develop on other helicopters of the same type 
+design and that air safety and the public interest require adopting the 
+AD requirements as proposed with the changes described previously. 
+These changes are consistent with the intent of the proposals in the 
+SNPRM and do not add any additional burden upon the public than was 
+already proposed in the SNPRM. Additionally, these changes will not 
+increase the economic burden on any operator or increase the scope of 
+the AD.
+
+Related Service Information
+
+    Sikorsky issued Alert Service Bulletin (ASB) 92-53-008, Basic 
+Issue, dated June 13, 2012 (ASB 92-53-008); ASB 92-53-009, Basic Issue, 
+dated December 6, 2012 (ASB 92-53-009); ASB 92-53-012, Basic Issue, 
+dated February 10, 2014 (ASB 92-53-012); and S-92A-AMM-000 Maintenance 
+Manual, Chapter 53-20-00, Task 53-20-00-210-003, ``Inspection of Main 
+Transmission Airframe Support Structure,'' dated November 30, 2018 
+(Task 53-20-00-210-003).
+    ASB 92-53-008 provides procedures for a one-time inspection of the 
+main transmission frames and beams for a crack, missing or loose 
+fastener or collar, damage, deformation, and corrosion. ASB 92-53-009 
+specifies, among other actions, a recurring 150-hour inspection of the 
+interior and exterior surfaces of the upper flanges and beams. ASB 92-
+53-012 specifies altering the forward and aft transmission support 
+frames by removing steel doublers, cold-working the holes, oversizing 
+the holes, trimming skin panels, and reassembling the parts with 
+interference fit fasteners in accordance with Special Service 
+Instructions 92-074-E. After this alteration, the parts are re-
+identified with a new part number. Sikorsky refers to this alteration 
+as a service life
+
+[[Page 35816]]
+
+extension program modification. Task 53-20-00-210-003 describes 
+procedures for an inspection of the main transmission airframe support 
+structure.
+
+Differences Between This AD and the Service Information
+
+    The service information recommends providing certain information to 
+Sikorsky, and this AD does not. The service information specifies 
+performing a fluorescent penetrant inspection if there is a suspected 
+crack and contacting Sikorsky if there is a crack, while this AD only 
+requires repairing or replacing any cracked part. Contacting Sikorsky 
+is not required by this AD.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 50 helicopters of U.S. 
+Registry. The FAA estimates that operators may incur the following 
+costs to comply with this AD. Labor costs are estimated at $85 per 
+work-hour.
+    The FAA estimates a minimal cost to establish and revise the life 
+limit of the frame assembly. The FAA estimates it takes 1 work-hour to 
+inspect STA 328 and 362 frames. No parts are needed for a total cost of 
+$4,250 for the U.S. fleet for each inspection per inspection cycle. If 
+a fastener is replaced, the FAA estimates the cost to be minimal. If a 
+frame is replaced, it takes 5,000 work-hours and required parts cost 
+$296,000 for a total cost of $721,000 per helicopter.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national Government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2019-13-05 Sikorsky Aircraft Corporation: Amendment 39-19678; Docket 
+No. FAA-2016-8501; Product Identifier 2014-SW-042-AD.
+
+(a) Applicability
+
+    This AD applies to Sikorsky Aircraft Corporation Model S-92A 
+helicopters, certificated in any category, with a forward station 
+(STA) 328 or aft STA 362 frame assembly with a part number (P/N) as 
+shown in Figure 1 to paragraphs (a) and (e) of this AD, Figure 2 to 
+paragraphs (a) and (e) of this AD, Figure 3 to paragraphs (a) and 
+(e)(2) of this AD, or Figure 4 to paragraphs (a) and (e)(2) of this 
+AD.
+BILLING CODE 4910-13-P
+
+[[Page 35817]]
+
+[GRAPHIC] [TIFF OMITTED] TR25JY19.000
+
+[GRAPHIC] [TIFF OMITTED] TR25JY19.001
+
+
+[[Page 35818]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR25JY19.002
+
+[GRAPHIC] [TIFF OMITTED] TR25JY19.003
+
+BILLING CODE 4910-13-C
+
+(b) Unsafe Condition
+
+    This AD defines the unsafe condition as a crack in a main 
+transmission airframe support structure. This condition could result 
+in failure of a main transmission frame and subsequent loss of 
+control of the helicopter.
+
+(c) Effective Date
+
+    This AD is effective August 29, 2019.
+
+(d) Compliance
+
+    You are responsible for performing each action required by this 
+AD within the specified compliance time unless it has already been 
+accomplished prior to that time.
+
+(e) Required Actions
+
+    (1) For helicopters with a frame assembly with a part number 
+shown in Figure 1 to paragraphs (a) and (e) of this AD or Figure 2 
+to paragraphs (a) and (e) of this AD, before further flight, remove 
+from service any part that has reached or exceeded its new life 
+limit. Forward STA 328 frame assemblies that are altered and changed 
+to P/N 92070-20124-064, 92070-20124-067, 92070-20127-045, 92070-
+20124-065, 92070-20124-047, or 92070-20127-046 must be removed from 
+service upon accumulating 28,500 hours time-in-service (TIS) total 
+(regardless of P/N) from the original frame part number initial 
+service date.
+    (2) For each frame assembly listed in Figure 1 to paragraphs (a) 
+and (e) of this AD or Figure 4 to paragraphs (a) and (e)(2) of this 
+AD with 1,801 or more hours TIS, and for each frame assembly listed 
+in Figure 2 to paragraphs (a) and (e) of this AD or Figure 3 to 
+paragraphs (a) and (e)(2) of this AD with 1,301 or more hours TIS, 
+within 150 hours TIS and thereafter at intervals not to exceed 150 
+hours TIS, do the following inspections. For guidance on performing 
+these inspections, refer to Sikorsky S-92A-AMM-000 Maintenance 
+Manual Chapter 53-20-00, Task 53-20-00-210-003, ``Inspection of Main 
+Transmission Airframe Support Structure,'' dated November 30, 2018.
+    (i) Inspect the STA 328 frame and STA 362 frame between the left 
+and right butt line (BL) 16.5 beams and inspect the area on the left 
+and right BL 16.5 beams six inches on either side of the mounting 
+pads for a crack and loose fasteners. If there is a loose fastener 
+or a crack, repair or replace any cracked part and any loose 
+fastener before further flight.
+    (ii) Inspect the STA 328 and STA 362 outboard frames, left and 
+right sides, from the BL 16.5 beam to water line 252.25 for a crack 
+and loose fasteners. If there is a loose fastener or a crack, repair 
+or replace any cracked part and any loose fastener before further 
+flight.
+
+(f) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Boston ACO Branch, FAA, may approve AMOCs for 
+this AD. Send your proposal to: Kristopher Greer, Aviation Safety 
+Engineer, Boston ACO Branch, Compliance and Airworthiness Division, 
+1200 District Avenue, Burlington, Massachusetts 01803; telephone 
+(781) 238-7799; email <a href="/cdn-cgi/l/email-protection#145f667d67607b647c71663a5366717166547275753a737b62"><span class="__cf_email__" data-cfemail="58132a312b2c3728303d2a761f2a3d3d2a183e3939763f372e">[email&#160;protected]</span></a>.
+    (2) For operations conducted under a 14 CFR part 119 operating 
+certificate or under 14 CFR part 91, subpart K, the FAA suggests 
+that you notify your principal inspector, or lacking a principal 
+inspector, the manager of the local flight standards district office 
+or certificate holding district office before operating any aircraft 
+complying with this AD through an AMOC.
+
+(g) Additional Information
+
+    Sikorsky Alert Service Bulletin (ASB) 92-53-008, Basic Issue, 
+dated June 13, 2012; ASB 92-53-009, Basic Issue, dated December 6, 
+2012; ASB 92-53-012, Basic Issue, dated February 10, 2014, Sikorsky 
+Special Service Instructions No. 92-074-E, Revision E, dated April 
+9, 2014, and Sikorsky S-92A-AMM-000 Maintenance Manual, Chapter 53-
+20-00, Task 53-20-00-210-003, ``Inspection of Main Transmission 
+Airframe Support Structure,'' dated November 30, 2018, which are not 
+incorporated by reference, contain additional information about the 
+subject of this AD. For service information identified in this AD, 
+contact Sikorsky Aircraft Corporation, Customer Service Engineering, 
+124 Quarry Road, Trumbull, CT 06611; telephone 1-800-Winged-S or 
+203-416-4299; email <a href="/cdn-cgi/l/email-protection#f6819585a995838582a9859384809f9593a9939891d89184db859f9db69a9b9599d895999b"><span class="__cf_email__" data-cfemail="8dfaeefed2eef8fef9d2fee8fffbe4eee8d2e8e3eaa3eaffa0fee4e6cde1e0eee2a3eee2e0">[email&#160;protected]</span></a>. You may 
+view this information at the FAA, Office of the Regional Counsel, 
+Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, Fort Worth, TX 
+76177.
+
+(h) Subject
+
+    Joint Aircraft System Component (JASC) Code: 5311, Fuselage 
+Main, Frame.
+
+    Issued in Fort Worth, Texas, on July 10, 2019.
+James A. Grigg,
+Acting Deputy Director for Regulatory Operations, Compliance & 
+Airworthiness Division, Aircraft Certification Service.
+[FR Doc. 2019-15757 Filed 7-24-19; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,671 @@
+<html>
+<head>
+<title>Federal Register, Volume 83 Issue 248 (Friday, December 28, 2018)</title>
+</head>
+<body><pre>
+[Federal Register Volume 83, Number 248 (Friday, December 28, 2018)]
+[Rules and Regulations]
+[Pages 67049-67053]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2018-26533]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0641; Product Identifier 2018-NM-032-AD; Amendment 
+39-19519; AD 2018-25-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2017-22-07, 
+which applied to certain Airbus SAS Model A319 series airplanes; Model 
+A320-211,-212, -214, -231, -232, and -233 airplanes; and Model A321-
+111, -112, -131, -211, -212, -213, -231, and -232 airplanes. AD 2017-
+22-07 required repetitive inspections of the frame forks, and 
+corrective actions if necessary. AD 2017-22-07 also included optional 
+modifications that constituted terminating action. This AD requires 
+modifying certain forward and aft cargo compartment doors, and related 
+investigative and corrective actions. This AD was prompted by an 
+evaluation done by the design approval holder indicating that certain 
+areas of certain cargo compartment doors are subject to widespread 
+fatigue damage, and a determination was made that a modification of the 
+frame forks must be done. We are issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective February 1, 2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of February 1, 
+2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of January 
+2, 2018 (82 FR 56158, November 28, 2017).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office--EIAS, 2 Rond Point Emile 
+Dewoitine, 31700 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: <a href="/cdn-cgi/l/email-protection#aecfcdcdc1dbc0da80cfc7dcd9c1dcdac683cbcfddeecfc7dcccdbdd80cdc1c3"><span class="__cf_email__" data-cfemail="513032323e243f257f303823263e2325397c343022113038233324227f323e3c">[email&#160;protected]</span></a>; 
+internet: <a href="http://www.airbus.com">http://www.airbus.com</a>. You may view this referenced service 
+information at the FAA, Transport Standards Branch, 2200 South 216th 
+St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available on the 
+internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating 
+Docket No. FAA-2018-0641.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2018-
+0641; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3223.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2017-22-07, Amendment 39-19087 (82 FR 56158, 
+November 28, 2017) (``AD 2017-22-07''). AD 2017-22-07 applied to 
+certain Airbus SAS Model A319 series airplanes; Model A320-211, -212, -
+214, -231, -232, and -233 airplanes; and Model A321-111, -112, -131, -
+211, -212, -213, -231, and -232 airplanes. The NPRM published in the 
+Federal Register on August 3, 2018 (83 FR 38091). The NPRM was prompted 
+by an evaluation done by the design approval holder (DAH) indicating 
+that the frame forks and outer skin on the forward and aft cargo 
+compartment doors are subject to widespread fatigue damage (WFD), and a 
+determination was made that a modification of the frame forks must be 
+accomplished. The NPRM proposed to continue to require repetitive 
+inspections of the frame forks, and corrective actions if necessary, 
+and to include optional modifications that constitute terminating 
+action. The NPRM also proposed to require modifying certain forward and 
+aft cargo compartment doors, and related investigative and corrective 
+actions. We are issuing this AD to address cracks on the frame forks 
+and outer skin on the forward and aft cargo compartment doors, which 
+could lead to reduced structural integrity and failure of the cargo 
+compartment door, possible decompression of the airplane, and injury to 
+occupants.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2018-0024, dated January 29, 2018 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus SAS 
+Model A319 series airplanes; Model A320-211, -212, -214, -216, -231, -
+232, and -233 airplanes; and Model A321-111, -112, -131, -211, -212, -
+213, -231, and -232 airplanes. The MCAI states:
+
+    During full scale fatigue test, cracks were found on frame forks 
+and outer skin on forward and aft cargo doors. To improve the 
+fatigue behaviour of the frame forks, Airbus introduced modification 
+(mod) 22948 in production, and issued inspection Service Bulletin 
+(SB) A320-52-1032 and mod SB A320-52-1042, both recommended. Since 
+those actions were taken, further improved cargo compartment doors 
+were introduced in production through Airbus mod 26213, on 
+aeroplanes having [manufacturer serial number] MSN 0759 and up.
+    In the frame of the Widespread Fatigue Damage (WFD) study, it 
+was determined that repetitive inspection are necessary for aft and 
+forward cargo compartment doors on aeroplanes that are in pre-mod 
+26213 configuration. Failure to detect cracks would reduce the cargo 
+door structural integrity.
+    This condition, if not detected and corrected, could lead to 
+cargo door failure, possibly resulting in decompression of the 
+aeroplane and injury to occupants.
+    To address this unsafe condition, Airbus issued SB A320-52-1171 
+to provide instructions for repetitive special detailed inspections 
+(SDI). This SB was later revised to correct the list of affected 
+cargo doors. Airbus also issued SB A320-52-1170, introducing a door 
+modification which would allow terminating the repetitive SDI[s].
+    Consequently, EASA issued AD 2016-0187 [which corresponds to FAA 
+AD 2017-22-07] to require repetitive SDI[s] of the affected cargo 
+doors and, depending on findings, the accomplishment of applicable 
+repairs. That [EASA] AD also included reference to SB A320-52-1170 
+as optional terminating action.
+    Since that [EASA] AD was issued, further investigations linked 
+to the WFD analysis highlighted that, to meet the WFD requirements, 
+it is necessary to require
+
+[[Page 67050]]
+
+embodiment of the terminating action modification.
+    For the reason described above, this [EASA] AD retains the 
+requirements of EASA AD 2016-0187, which is superseded, and requires 
+modification of all affected cargo doors, which constitutes 
+terminating action for the repetitive SDI[s] required by this [EASA] 
+AD.
+
+    The related investigative action is a high frequency eddy current 
+(HFEC) rotating probe inspection for cracks. Corrective actions 
+include, among other things, oversizing and cold-expanding any affected 
+holes and repair.
+    The Airbus SAS Model A320-216 was U.S. type certificated on 
+December 19, 2016. Before that date, any EASA ADs that affected Model 
+A320-216 airplanes were included on the Required Airworthiness Actions 
+List (RAAL). One or more Model A320-216 airplanes have subsequently 
+been placed on the U.S. Register, and will now be included in FAA AD 
+actions. For Model A320-216 airplanes, the requirements that correspond 
+to AD 2017-22-07 were mandated by the MCAI via the RAAL. Although that 
+RAAL requirement is still in effect, for continuity and clarity we have 
+identified Model A320-216 airplanes in paragraph (c) of this AD.
+    You may examine the MCAI in the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2018-
+0641.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+NPRM and the FAA's response to each comment.
+
+Support for the NPRM
+
+    United Airlines (UA) stated its agreement with the intent of the 
+NPRM.
+
+Request To Refer to Revised Service Information
+
+    UA asked that the NPRM reference Airbus Service Bulletin A320-52-
+1170, Revision 01, dated June 14, 2018. UA stated that this latest 
+revision only includes various updates and clarifications. Further, UA 
+pointed out that an existing alternative method of compliance (AMOC) 
+already allows this revision. UA also asked that we include credit for 
+doing previous actions using Airbus Service Bulletin A320-52-1170, 
+dated September 5, 2016.
+    We agree with the commenter's request. For the reasons provided by 
+the commenter, and because the revised service information does not 
+include any additional actions, we have updated the preamble and 
+paragraphs (j) and (k)(2) of this AD to refer to the revised service 
+information. We have also added paragraph (o)(1) to this AD to provide 
+credit for actions accomplished prior to the effective date of this AD 
+using Airbus Service Bulletin A320-52-1170, dated September 5, 2016. We 
+have redesignated subsequent paragraphs accordingly.
+
+Request To Reference Later Revisions of Service Information
+
+    UA asked that we change paragraph (h) of the proposed AD to allow 
+use of later EASA-approved service bulletins. UA stated that EASA AD 
+2018-0024, dated January 29, 2018, allows the use of later-approved 
+revisions of Airbus Service Bulletin A320-52-1170, dated September 5, 
+2016. UA added that it has an approved AMOC that allows for the use of 
+Airbus Service Bulletin A320-52-1170, Revision 01, dated June 14, 2018, 
+as well as ``all corresponding later EASA-approved service 
+information'' for accomplishing the requirements in the proposed AD.
+    We do not agree with the commenter's request. We may not refer to 
+any document that does not yet exist. In general terms, we are required 
+by Office of the Federal Register (OFR) regulations to either publish 
+the service document contents as part of the actual AD language; or 
+submit the service document to the OFR for approval as referenced 
+material, in which case we may only refer to such material in the text 
+of an AD. The AD may refer to the service document only if the OFR 
+approved it for incorporation by reference. See 1 CFR part 51. To allow 
+operators to use later revisions of the referenced document (issued 
+after publication of the AD), either we must revise the AD to reference 
+specific later revisions, or operators must request approval to use 
+later revisions as an AMOC with this AD under the provisions of 
+paragraph (q)(1) of this AD. Therefore, we made no change to this AD in 
+this regard.
+
+Request for Correction to Service Information
+
+    UA asked for approval for a correction to Appendix 02, page 1, of 
+Airbus Service Bulletin A320-52-1170, Revision 01, dated June 14, 2018. 
+UA asked that the following sentence ``For the alternate fasteners for 
+ASNA2657K3 series, refer to the next page'' be changed to ``For the 
+alternate fasteners for ASNA2657K3 series, refer to table in page 1.''
+    We acknowledge the commenter's concern. However, page 2 of Appendix 
+02, does contain a table referencing alternative fasteners; there is no 
+table on page 1 of Appendix 02. Therefore, the service information is 
+correct regarding this issue. Further, only the manufacturer may revise 
+its service information. Therefore, we have made no change to this AD 
+in this regard.
+
+Additional Change Made to This AD
+
+    We have added paragraph (o)(2) to this AD to provide credit for 
+actions accomplished prior to the effective date of this AD using 
+Airbus Service Bulletin A320-52-1042, Revision 2, dated January 14, 
+1997. As explained previously, we have redesignated subsequent 
+paragraphs accordingly.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule with the changes described previously and minor 
+editorial changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus SAS has issued Service Bulletin A320-52-1170, Revision 01, 
+dated June 14, 2018, which describes procedures for modifying all 
+affected forward and aft cargo compartment doors, including oversizing 
+and cold working of riveting for all frame forks.
+    Airbus SAS has also issued Service Bulletin A320-52-1171, Revision 
+02, dated April 10, 2017, which the Director of the Federal Register 
+approved for incorporation by reference as of January 2, 2018 (82 FR 
+56158, November 28, 2017).
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 88 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+[[Page 67051]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+             Action                    Labor cost            Parts cost      Cost per product      operators
+----------------------------------------------------------------------------------------------------------------
+Modification...................  24 work-hours x $85     Up to $240.......  Up to $2,280.....  Up to $200,640.
+                                  per hour = $2,040.
+Inspection.....................  25 work-hours x $85     $0...............  $2,125 per         $187,000 per
+                                  per hour = $2,125 per                      inspection cycle.  inspection
+                                  inspection cycle.                                             cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition repairs and replacements specified 
+in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2017-22-07, Amendment 39-19087 (82 FR 56158, November 28, 2017), and 
+adding the following new AD:
+
+2018-25-08 Airbus SAS: Amendment 39-19519; Docket No. FAA-2018-0641; 
+Product Identifier 2018-NM-032-AD.
+
+(a) Effective Date
+
+    This AD is effective February 1, 2019.
+
+(b) Affected ADs
+
+    This AD replaces AD 2017-22-07, Amendment 39-19087 (82 FR 56158, 
+November 28, 2017) (``AD 2017-22-07'').
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A319-111, -112, -113, -114, 
+-115, -131, -132, and -133 airplanes; Model A320-211, -212, -214, -
+216, -231, -232, and -233 airplanes; and Model A321-111, -112, -131, 
+-211, -212, -213, -231, and -232 airplanes; certificated in any 
+category; manufacturer serial numbers through 0758 inclusive.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 52, Doors.
+
+(e) Reason
+
+    This AD was prompted by an evaluation by the design approval 
+holder (DAH) indicating that the frame forks and outer skin on the 
+forward and aft cargo compartment doors are subject to widespread 
+fatigue damage (WFD), and a determination that a modification of the 
+frame forks must be accomplished. We are issuing this AD to address 
+cracks on the frame forks and outer skin on the forward and aft 
+cargo compartment doors, which could lead to reduced structural 
+integrity and failure of the cargo compartment door, possible 
+decompression of the airplane, and injury to occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Definition of Affected Door, With No Changes
+
+    This paragraph restates the definition in paragraph (g) of AD 
+2017-22-07, with no changes. For the purpose of this AD, an 
+``affected door'' is a forward or aft cargo compartment door, having 
+any part number listed in table 1 to paragraph (g) of this AD, 
+except a cargo compartment door on which Airbus Service Bulletin 
+A320-52-1042 or Airbus Service Bulletin A320-52-1170 is embodied.
+
+[[Page 67052]]
+
+[GRAPHIC] [TIFF OMITTED] TR28DE18.008
+
+(h) Retained Repetitive Special Detailed Inspection of Frame Forks, 
+With No Changes
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2017-22-07, with no changes. At the latest of the compliance times 
+listed in paragraphs (h)(1) through (h)(4) of this AD: Do a special 
+detailed inspection of all frame forks in the beam 4 area of any 
+affected door as defined in paragraph (g) of this AD, in accordance 
+with the Accomplishment Instructions of Airbus Service Bulletin 
+A320-52-1171, Revision 02, dated April 10, 2017, except as specified 
+in paragraphs (l) and (m) of this AD. Repeat the inspection 
+thereafter at intervals not to exceed 3,000 flight cycles. A review 
+of the airplane delivery or maintenance records is acceptable to 
+identify any affected door installed on the airplane, provided that 
+the cargo compartment door part number can be conclusively 
+determined from that review.
+    (1) Before exceeding 37,500 flight cycles since first 
+installation of the door on an airplane.
+    (2) Within 900 flight cycles after January 2, 2018 (the 
+effective date of AD 2017-22-07), without exceeding 41,950 flight 
+cycles since first installation of the door on an airplane.
+    (3) Within 50 flight cycles after January 2, 2018 (the effective 
+date of AD 2017-22-07), for a door having reached or exceeded 41,900 
+flight cycles since first installation on an airplane.
+    (4) Within 3,000 flight cycles since the last inspection of the 
+door as specified in Airbus Service Bulletin A320-52-1032.
+
+(i) Retained Corrective Actions, With No Changes
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2017-22-07, with no changes. If any crack is found during any 
+inspection required by paragraph (h) of this AD, before further 
+flight, do all applicable corrective actions in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-52-1171, 
+Revision 02, dated April 10, 2017, except as specified in paragraphs 
+(l) and (m) of this AD. Accomplishment of applicable corrective 
+actions does not constitute terminating action for the repetitive 
+inspections.
+
+(j) Terminating Modification for Repetitive Inspections
+
+    Before the accumulation of 56,300 flight cycles, but not before 
+the accumulation of 21,700 flight cycles since first installation of 
+the affected door on an airplane: Modify all affected doors of an 
+airplane, including accomplishment of all applicable related 
+investigative and corrective actions, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-52-1170, 
+Revision 01, dated June 14, 2018. Accomplishing this modification 
+constitutes terminating action for the repetitive inspections 
+specified in paragraph (h) of this AD for that airplane, provided 
+that, after modification, no affected door is re-installed on that 
+airplane.
+
+(k) Retained Optional Terminating Action, With Changes Related to 
+Compliance
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2017-22-07, with changes related to compliance.
+    (1) Modification of all affected doors of an airplane before the 
+effective date of this AD, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-52-1042, Revision 2, 
+dated January 14, 1997 (which is incorporated by reference in AD 
+2017-22-07 and is not incorporated in this AD), constitutes 
+terminating action for the repetitive inspections specified in 
+paragraph (h) of this AD and a method of compliance for the 
+modification required by paragraph (j) of this AD, for that 
+airplane, provided that, after modification, no affected door is re-
+installed on that airplane. For airplanes not previously modified 
+before the effective date of this AD, the modification required by 
+paragraph (j) of this AD must be done.
+    (2) Modification of all affected doors of an airplane including 
+accomplishment of all applicable related investigative and 
+corrective actions, if done before the effective date of this AD in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A320-52-1170, Revision 01, dated June 14, 2018, except as 
+specified in paragraph (l) of this AD, constitutes terminating 
+action for the repetitive inspections specified in paragraph (h) of 
+this AD and a method of compliance for the modification required by 
+paragraph (j) of this AD, for that airplane, provided that, after 
+modification, no affected door is re-installed on that airplane. For 
+airplanes not previously modified before the effective date of this 
+AD, the modification required by paragraph (j) of this AD must be 
+done.
+    (3) Modification of all affected doors on an airplane, in case 
+of finding damaged frame forks, as specified in an Airbus Repair 
+Design Approval Sheet (RDAS), if done before the effective date of 
+this AD and done in accordance with a method approved by the 
+Manager, International Section, Transport Standards Branch, FAA; or 
+the European Aviation Safety Agency (EASA); or Airbus SAS's EASA 
+Design Organization Approval
+
+[[Page 67053]]
+
+(DOA); constitutes terminating action for the repetitive inspection 
+specified in paragraph (h) of this AD and a method of compliance for 
+the modification required by paragraph (j) of this AD, for that 
+airplane, provided that, after modification, no affected door is re-
+installed on that airplane. For airplanes not previously modified 
+before the effective date of this AD, the modification required by 
+paragraph (j) of this AD must be done.
+
+(l) Retained Exception to Service Information, With Updated Service 
+Information
+
+    This paragraph restates the requirements of paragraph (k) of AD 
+2017-22-07, with updated service information. Where Airbus Service 
+Bulletin A320-52-1170, dated September 5, 2016; Airbus Service 
+Bulletin A320-52-1170, Revision 01, dated June 14, 2018; or Airbus 
+Service Bulletin A320-52-1171, Revision 02, dated April 10, 2017; 
+specifies to contact Airbus for appropriate action, and specifies 
+that action as ``RC'' (Required for Compliance): Before further 
+flight, accomplish corrective actions in accordance with the 
+procedures specified in paragraph (q)(2) of this AD.
+
+(m) Retained Provision: No Reporting Requirement
+
+    This paragraph restates the provision provided in paragraph (l) 
+of AD 2017-22-07, with no changes. Although Airbus Service Bulletin 
+A320-52-1171, Revision 02, dated April 10, 2017, specifies to submit 
+certain information to the manufacturer, and specifies that action 
+as ``RC,'' this AD does not include that requirement.
+
+(n) Retained Credit for Previous Actions
+
+    This paragraph restates the provisions specified in paragraph 
+(m) of AD 2017-22-07, with no changes.
+    (1) This paragraph provides credit for the actions required by 
+paragraphs (h) and (i) of this AD, if those actions were performed 
+before January 2, 2018 (the effective date of AD 2017-22-07), using 
+Airbus Service Bulletin A320-52-1171, dated October 29, 2015, 
+provided that it can be conclusively determined that any part number 
+D52371000018 was also inspected as specified in paragraph (h) of 
+this AD.
+    (2) This paragraph provides credit for the actions required by 
+paragraphs (h) and (i) of this AD, if those actions were performed 
+before January 2, 2018 (the effective date of AD 2017-22-07), using 
+Airbus Service Bulletin A320-52-1171, Revision 01, dated September 
+5, 2016.
+
+(o) New Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions required by 
+paragraphs (j) and (k)(2) of this AD, if those actions were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin A320-52-1170, dated September 5, 2016.
+    (2) This paragraph provides credit for the optional terminating 
+modification specified in paragraph (k)(1) of this AD, if those 
+actions were performed before the effective date of this AD using 
+Airbus Service Bulletin A320-52-1042, Revision 2, dated January 14, 
+1997.
+
+(p) Parts Installation Limitation
+
+    As of the effective date of this AD, no person may install, on 
+any airplane, an affected door specified in paragraph (g) of this 
+AD, unless less than 56,300 flight cycles have accumulated since 
+first installation of the door on an airplane, and unless the door 
+has been inspected in accordance with the requirements of paragraph 
+(h) of this AD and all applicable corrective actions have been done 
+in accordance with paragraph (i) of this AD.
+
+(q) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (r)(2) of this AD. Information 
+may be emailed to: <a href="/cdn-cgi/l/email-protection#d5ecf8949b98f8e4e4e3f894989a96f8879084809086818695b3b4b4fbb2baa3"><span class="__cf_email__" data-cfemail="2c15016d6261011d1d1a016d61636f017e697d79697f787f6c4a4d4d024b435a">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or the EASA; or Airbus 
+SAS's EASA DOA. If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as specified in 
+paragraphs (l) and (m) of this AD: If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(r) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2018-0024, dated January 29, 
+2018, for related information. This MCAI may be found in the AD 
+docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching 
+for and locating Docket No. FAA-2018-0641.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (s)(5) and (s)(6) of this AD.
+
+(s) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+February 1, 2019.
+    (i) Airbus Service Bulletin A320-52-1170, Revision 01, dated 
+June 14, 2018.
+    (ii) [Reserved]
+    (4) The following service information was approved for IBR on 
+January 2, 2018 (82 FR 56158, November 28, 2017).
+    (i) Airbus Service Bulletin A320-52-1171, Revision 02, dated 
+April 10, 2017.
+    (ii) [Reserved]
+    (5) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 2 Rond Point Emile Dewoitine, 
+31700 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; fax: +33 
+5 61 93 44 51; email: <a href="/cdn-cgi/l/email-protection#157476767a607b613b747c67627a67617d3870746655747c677760663b767a78"><span class="__cf_email__" data-cfemail="553436363a203b217b343c27223a27213d7830342615343c273720267b363a38">[email&#160;protected]</span></a>; internet: 
+<a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (6) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Des Moines, Washington, on November 23, 2018.
+John P. Piccola,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2018-26533 Filed 12-27-18; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

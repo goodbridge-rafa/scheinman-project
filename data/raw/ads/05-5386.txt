@@ -1,0 +1,477 @@
+<html>
+<head>
+<title>Federal Register, Volume 70 Issue 53 (Monday, March 21, 2005)</title>
+</head>
+<body><pre>
+[Federal Register Volume 70, Number 53 (Monday, March 21, 2005)]
+[Rules and Regulations]
+[Pages 13353-13356]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 05-5386]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2004-19495; Directorate Identifier 2003-NM-180-AD; 
+Amendment 39-14019; AD 2005-06-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747-100, -100B, -100B SUD, 
+-200B, and -300 Series Airplanes; and Model 747SR and 747SP Series 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD), which applies to certain Boeing Model 747-100, -100B, -100B SUD, 
+-200B, and -300 series airplanes; and Model 747SR and 747SP series 
+airplanes. That AD currently requires repetitive inspections to detect 
+fatigue cracking in the upper deck floor beams located at certain body 
+stations, and repair, if necessary. This new AD lowers the threshold 
+for the existing inspections and requires new repetitive inspections of 
+previously repaired areas, and repair if necessary. This AD is prompted 
+by the results of an additional detailed analysis that indicate fatigue 
+cracks can initiate sooner than has previously been observed. We are 
+issuing this AD to prevent failure of the upper deck floor beams at 
+certain body stations due to fatigue cracking, which could result in 
+rapid decompression and reduced controllability of the airplane.
+
+DATES: This AD becomes effective April 25, 2005.
+
+[[Page 13354]]
+
+    The incorporation by reference of a certain publication listed in 
+the AD is approved by the Director of the Federal Register as of April 
+25, 2005.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-
+2207.
+    Docket: The AD docket contains the proposed AD, comments, and any 
+final disposition. You can examine the AD docket on the Internet at 
+<a href="http://dms.dot.gov">http://dms.dot.gov</a>, or in person at the Docket Management Facility 
+office between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The Docket Management Facility office (telephone (800) 647-
+5227) is located on the plaza level of the Nassif Building at the U.S. 
+Department of Transportation, 400 Seventh Street, SW., room PL-401, 
+Washington, DC. This docket number is FAA-2004-19495; the directorate 
+identifier for this docket is 2003-NM-180-AD.
+
+FOR FURTHER INFORMATION CONTACT: Ivan Li, Aerospace Engineer, Airframe 
+Branch, ANM-120S, FAA, Transport Airplane Directorate, Seattle Aircraft 
+Certification Office, 1601 Lind Avenue, SW., Renton, Washington 98055-
+4056; telephone (425) 917-6437; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend part 39 of the 
+Federal Aviation Regulations (14 CFR Part 39) with an AD to supersede 
+AD 2000-04-17, amendment 39-11600 (65 FR 10695, February 29, 2000). The 
+existing AD applies to certain Boeing Model 747-100, -100B, -100B SUD, 
+-200B, and -300 series airplanes; and Model 747SR and 747SP series 
+airplanes. The proposed AD was published in the Federal Register on 
+November 3, 2004 (69 FR 63965), to continue to require repetitive 
+inspections to detect fatigue cracking in the upper deck floor beams 
+located at certain body stations, and repair, if necessary. The action 
+also proposed to lower the threshold for the existing repetitive 
+inspections. In addition, the action also proposed to require new 
+repetitive inspections of previously repaired areas, and repair of any 
+crack.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments that have been 
+submitted on the proposed AD.
+
+Request To Exclude Counting of Certain Flight Cycles
+
+    One commenter, the airplane manufacturer, requests that paragraph 
+(g) of the proposed AD be revised to exclude counting of flight cycles 
+with a cabin differential pressure of 2.0 pounds per square inch (psi) 
+or less when determining the number of flight cycles to be used to 
+determine the inspection compliance threshold and repeat intervals for 
+the proposed actions. The commenter notes that this would align with 
+the requirements of paragraph (c) of AD 2004-03-11, amendment 39-13455 
+(69 FR 5920, February 9, 2004). The commenter states that the fatigue 
+and crack growth behavior at the floor panel holes in the upper chord 
+of the upper deck floor beams, which are the subject of the proposed 
+AD, is caused by tension stresses in the floor beam upper chords. The 
+tension stresses in the 747 upper deck floor beams at stations 340, 
+360, and 380 are almost entirely the result of reacting load due to 
+cabin differential pressure. Thus, the commenter concludes that it is 
+technically correct to not count flights, which have a low cabin 
+differential pressure and do not significantly contribute to fatigue 
+and crack growth.
+    We do not agree with the commenter's request. Although we discussed 
+the matter of not granting credit for pressurization cycles less than 
+2.0 psi in the ``Differences Between the Proposed AD and Service 
+Bulletin'' section of the proposed AD, we find that further 
+clarification is necessary.
+    The commenter correctly notes that the requirements of paragraph 
+(c) of AD 2004-03-11 exclude counting pressurization cycles less than 
+2.0 psi. We acknowledge the commenter's technical rationale for not 
+counting the pressurization cycles less than 2.0 psi in this AD. 
+However, we do not agree with the commenter's request for the following 
+reasons:
+    <bullet> There have been several instances on other in-service 
+issues where analytical rationales, similar to that of the commenter, 
+have indicated that pressurization cycles less than 2.0 psi should not 
+be counted. However, when fleet records have been examined, the 
+airplanes engaging in such operations are having the same or greater 
+occurrences of crack findings compared to those on which all 
+pressurized flights are counted. As a result, we carefully consider 
+such matters based on all available factors, including individual 
+operators' specific maintenance programs, technical rationale, and 
+fleet experience.
+    <bullet> We have found that such provisions are applicable only to 
+a small number of operators that may not pressurize their airplanes 
+above 2.0 psi in all their flights. We have determined that the best 
+way to handle such circumstances is for operators to request an 
+alternative method of compliance (AMOC) in accordance with paragraph 
+(n) of this AD, rather than increasing the complexity of the AD by 
+addressing each operator's unique situation.
+
+Request To Allow Changing of Inspection Methods
+
+    The same commenter requests that paragraph (h) of the proposed AD 
+be revised to allow changing repetitive inspection methods in paragraph 
+(h)(1) or (h)(2) of the proposed AD no matter which inspection method 
+was used previously, provided that the corresponding repetitive 
+inspection interval of 3,000 flight cycles or 750 flight cycles, 
+respectively, is imposed. The commenter notes that this is allowed in 
+Figure 1 of Boeing Alert Service Bulletin 747-53A2431, Revision 2, 
+dated June 13, 2002 (referenced as the appropriate source of service 
+information for accomplishing the proposed actions).
+    We agree. We have determined that, after accomplishing any 
+inspection required by paragraph (h)(1) or (h)(2) of this AD, 
+accomplishing any subsequent inspection using the alternate inspection 
+method is adequate to detect cracking, provided that its corresponding 
+repetitive interval is used. We have revised paragraph (h) of this AD 
+accordingly.
+
+Changes to Delegation Authority
+
+    Boeing has received a Delegation Option Authorization (DOA). We 
+have revised certain new requirements in this final rule to delegate 
+the authority to approve an alternative method of compliance for any 
+repair required by this AD to the Authorized Representative for the 
+Boeing DOA Organization rather than the Designated Engineering 
+Representative. We have also revised certain requirements of AD 2000-
+04-17, which are retained in this final rule, to provide this 
+delegation authority as an option.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments that have been submitted, and determined that air safety and 
+the public interest require adopting the AD with the changes described 
+previously. We have determined that these changes will neither increase 
+the economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 539 Model 747-100, -100B, -100B SUD, -200B, and -
+300 series airplanes; and Model 747SR and
+
+[[Page 13355]]
+
+747SP series airplanes worldwide of the affected design. This AD will 
+affect about 168 airplanes of U.S. registry.
+    The actions that are currently required by AD 2000-04-17 and 
+retained in this AD take about 15 work hours per airplane, at an 
+average labor rate of $65 per work hour. Based on these figures, 
+estimated cost of the currently required actions is $163,800, or $975 
+per airplane, per inspection cycle.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD. See the ADDRESSES section for a location to 
+examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing amendment 39-11600 (65 FR 
+10695, February 29, 2000), and by adding the following new 
+airworthiness directive (AD):
+
+2005-06-11 Boeing: Amendment 39-14019. Docket No. FAA-2004-19495; 
+Directorate Identifier 2003-NM-180-AD.
+
+Effective Date
+
+    (a) This AD becomes effective April 25, 2005.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2000-04-17, amendment 39-11600 (65 FR 
+10695, February 29, 2000).
+
+Applicability
+
+    (c) This AD applies to Boeing Model 747-100, -100B, -100B SUD, -
+200B, and -300 series airplanes; and Model 747SR and 747SP series 
+airplanes; certificated in any category; as identified in Boeing 
+Alert Service Bulletin 747-53A2431, Revision 2, dated June 13, 2002.
+
+Unsafe Condition
+
+    (d) This AD was prompted by the results of an additional 
+detailed analysis that indicate fatigue cracks can initiate sooner 
+than has previously been observed. We are issuing this AD to prevent 
+failure of the upper deck floor beams at certain body stations (BS) 
+due to fatigue cracking, which could result in rapid decompression 
+and reduced controllability of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+New Initial Compliance Time
+
+    (f) At the earlier of the times specified in paragraphs (f)(1) 
+and (f)(2) of this AD, do the actions specified in paragraph (h) of 
+this AD.
+    (1) Before the accumulation of 28,000 total flight cycles, or 
+within 60 days after March 15, 2000 (the effective date of AD 2000-
+04-17, amendment 39-11600), whichever occurs later.
+    (2) Before the accumulation of 18,000 total flight cycles, or 
+within 1,000 flight cycles after the effective date of this AD, 
+whichever occurs later.
+
+Determining Number of Flight Cycles for Compliance Time
+
+    (g) For the purposes of calculating the compliance threshold for 
+the actions required by paragraph (f) of this AD, all pressurized 
+flight cycles, including the number of flight cycles in which cabin 
+differential pressure is at 2.0 pounds per square inch (psi) or 
+less, must be counted when determining the number of flight cycles 
+that have occurred on the airplane. Where the service bulletin and 
+this AD differ, the AD prevails.
+
+Requirements of AD 2000-04-17 and New Repair Method
+
+    (h) At the time specified in paragraph (f) of this AD, perform 
+the actions required by either paragraph (h)(1) or (h)(2) of this 
+AD. After any inspection, operators may conduct the subsequent 
+inspection using the alternate inspection method provided that its 
+corresponding repetitive inspection interval is used, rather than 
+the interval for the previous inspection method.
+    (1) Gain access to the upper deck floor beams from above the 
+upper deck floor, and perform an open-hole high frequency eddy 
+current (HFEC) inspection to detect cracking of the upper deck floor 
+beams at BS 340 and 360, and on both the left and right sides of the 
+floor beam at BS 380 between buttock lines (BL) 40 and 76; in 
+accordance with Part 1 of the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 747-53A2431, Revision 2, dated June 13, 2002.
+    (i) If no cracking is found, perform the actions required by 
+paragraph (h)(1)(i)(A), (h)(1)(i)(B), or (h)(1)(i)(C) of this AD, in 
+accordance with the alert service bulletin.
+    (A) Repeat the inspection required by paragraph (h)(1) of this 
+AD at intervals not to exceed 3,000 flight cycles.
+    (B) Modify (oversize) the floor panel attachment fastener holes 
+as specified in Figure 5 of the alert service bulletin, and repeat 
+the inspection required by paragraph (h)(1) of this AD within 10,000 
+flight cycles. Repeat the inspection at intervals not to exceed 
+3,000 flight cycles.
+    (C) Do the applicable repair procedures shown in Part 3 of the 
+Accomplishment Instructions of the alert service bulletin; except 
+where the alert service bulletin specifies to contact Boeing for 
+appropriate action, before further flight, repair in accordance with 
+paragraph (h)(1)(ii)(A) of this AD.
+    (ii) If any cracking is found, before further flight, do the 
+action specified in either paragraph (h)(1)(ii)(A) or (h)(1)(ii)(B) 
+of this AD.
+    (A) Repair in accordance with a method approved by the Manager, 
+Seattle Aircraft Certification Office (ACO), FAA, Transport Airplane 
+Directorate; or in accordance with data meeting the certification 
+basis of the airplane approved by a Boeing Company Designated 
+Engineering Representative (DER) or Authorized Representative (AR) 
+for the Boeing Delegation Option Authorization (DOA) who has been 
+authorized by the Manager, Seattle ACO to make such findings. For a 
+repair method to be approved by the
+
+[[Page 13356]]
+
+Manager, Seattle ACO, as required by this paragraph, the Manager's 
+approval letter must specifically reference this AD.
+    (B) Repair in accordance with Part 3 of the Accomplishment 
+Instructions of the alert service bulletin; except where the alert 
+service bulletin specifies to contact Boeing for appropriate action, 
+before further flight, repair in accordance with paragraph 
+(h)(1)(ii)(A) of this AD.
+    (2) Gain access to the upper deck floor beams from below the 
+upper deck floor; and perform a surface HFEC inspection to detect 
+cracking of the floor beams at BS 340 and 360, and on both the left 
+and right sides of the floor beam at BS 380 between BL 40 and 76; in 
+accordance with Part 2 of the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 747-53A2431, Revision 2, dated June 13, 2002.
+    (i) If no cracking is found, repeat the inspection required by 
+paragraph (h)(2) of this AD at intervals not to exceed 750 flight 
+cycles.
+    (ii) If any cracking is found, before further flight, do the 
+action specified in paragraph (h)(1)(ii) of this AD.
+
+New Post-Repair Inspection
+
+    (i) For areas repaired in accordance with paragraph (h)(1)(i)(C) 
+or (h)(1)(ii)(B) of this AD: Before the accumulation of the 
+applicable threshold specified in the ``New Inspection Threshold'' 
+column in Table 1 of Part 3 of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 747-53A2431, Revision 2, dated June 
+13, 2002, after accomplishing the repair; or within 1,000 flight 
+cycles after the effective date of this AD; whichever occurs later: 
+Do the actions specified in paragraphs (i)(1) through (i)(3) of this 
+AD, as applicable.
+    (1) For locations that have been repaired by oversizing the 
+fastener holes only (i.e., repair strap and/or clip not installed) 
+as shown in Part 3 of the Accomplishment Instructions of Revision 1 
+or 2 of the alert service bulletin: Perform an open-hole HFEC 
+inspection to detect cracking of the upper deck floor beams, in 
+accordance with Part 1 of the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 747-53A2431, Revision 2, dated June 13, 2002.
+    (2) For locations previously repaired as shown in Figure 8 of 
+Revision 1 or 2 of the alert service bulletin: Do an open-hole HFEC 
+inspection to detect cracks at the fastener holes of the floor panel 
+attachment and the inboard and outboard end fastener locations 
+common to the repair strap, in accordance with Part 4 of the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 747-
+53A2431, Revision 2, dated June 13, 2002.
+    (3) For locations previously repaired as shown in Figure 9 or 
+Figure 10 of Revision 1 or 2 of the alert service bulletin: Do a 
+surface HFEC inspection to detect cracks at the upper chord along 
+the edge of the trimmed surface; and perform an open-hole HFEC 
+inspection to detect cracks at the fastener holes of the floor panel 
+attachment and the inboard and outboard end fastener locations 
+common to the repair strap, in accordance with Part 4 of the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 747-
+53A2431, Revision 2, dated June 13, 2002.
+    (j) If no crack is detected during any inspection required by 
+paragraphs (i)(1) through (i)(3) of this AD, repeat the applicable 
+inspection thereafter at intervals not to exceed 3,000 flight 
+cycles.
+    (k) If any crack is detected during any inspection required by 
+paragraph (i)(1) through (i)(3) of this AD, before further flight, 
+do the action specified in paragraph (h)(1)(ii)(A) of this AD.
+    (l) For areas repaired in accordance with paragraph 
+(h)(1)(ii)(A) of this AD that do not have a post-repair inspection 
+program approved by the Manager, Seattle ACO, or according to data 
+meeting the certification basis of the airplane approved by an AR 
+for the Boeing DOA Organization who has been authorized by the 
+Manager, Seattle ACO, to make those findings: Do the actions 
+specified in paragraph (h) of this AD at the time specified in that 
+paragraph.
+
+Credit for Previous Released Alert Service Bulletin
+
+    (m) Actions accomplished before the effective date of this AD 
+per Boeing Alert Service Bulletin 747-53A2431, dated February 10, 
+2000; or Revision 1, dated March 8, 2001; are acceptable for 
+compliance with the applicable requirements of this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (n)(1) The Manager, Seattle ACO, FAA, has the authority to 
+approve AMOCs for this AD, if requested in accordance with the 
+procedures found in 14 CFR 39.19.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an AR 
+for the Boeing DOA Organization who has been authorized by the 
+Manager, Seattle ACO, to make those findings. For a repair method to 
+be approved, the repair must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+    (3) AMOCs, approved previously per AD 2000-14-17, amendment 39-
+11600, are approved as AMOCs with paragraph (h)(1)(ii)(A) of this 
+AD, provided that a post-repair inspection program has been approved 
+by the Manager, Seattle ACO, or by a Boeing Company Designated 
+Engineering Representative or an AR for the Boeing DOA Organization 
+who has been authorized by the Manager, Seattle ACO, to make those 
+findings.
+
+Material Incorporated by Reference
+
+    (o) You must use Boeing Alert Service Bulletin 747-53A2431, 
+Revision 2, dated June 13, 2002, to perform the actions that are 
+required by this AD, unless the AD specifies otherwise. The Director 
+of the Federal Register approves the incorporation by reference of 
+this document in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. 
+For copies of the service information, contact Boeing Commercial 
+Airplanes, P.O. Box 3707, Seattle, Washington 98124-2207. For 
+information on the availability of this material at the National 
+Archives and Records Administration (NARA), call (202) 741-6030, or 
+go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>. You may view the AD docket at the 
+Docket Management Facility, U.S. Department of Transportation, 400 
+Seventh Street SW, room PL-401, Nassif Building, Washington, DC.
+
+    Issued in Renton, Washington, on March 9, 2005.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 05-5386 Filed 3-18-05; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

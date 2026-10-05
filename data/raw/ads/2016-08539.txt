@@ -1,0 +1,728 @@
+<html>
+<head>
+<title>Federal Register, Volume 81 Issue 78 (Friday, April 22, 2016)</title>
+</head>
+<body><pre>
+[Federal Register Volume 81, Number 78 (Friday, April 22, 2016)]
+[Rules and Regulations]
+[Pages 23586-23591]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-08539]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-2965; Directorate Identifier 2014-NM-227-AD; 
+Amendment 39-18487; AD 2016-08-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2012-17-13, 
+which applied to certain The Boeing Company Model 707 airplanes, and 
+Model 720 and 720B series airplanes. For certain airplanes, AD 2012-17-
+13 required using redefined flight cycle counts; determining the type 
+of material of the horizontal stabilizer, rear spar, and upper and 
+lower chords on the inboard and outboard ends of the rear spar; 
+repetitively inspecting for cracking of the horizontal stabilizer 
+components; and repairing or replacing the chord, or modifying chord 
+segments made of 7079 aluminum, if necessary. For all airplanes, AD 
+2012-17-13 required inspecting certain structurally significant items, 
+and repairing discrepancies if necessary. This new AD adds a 
+requirement to replace all chord segments made of 7079 aluminum with 
+new, improved chord segments made of 7075 aluminum. This AD was 
+prompted by a determination that all chord segments made of 7079 
+aluminum must be replaced with new, improved chord segments made of 
+7075 aluminum. We are issuing this AD to detect and correct stress 
+corrosion and potential early fatigue cracking in the horizontal 
+stabilizer, which could result in reduced structural integrity of the 
+horizontal stabilizer.
+
+DATES: This AD is effective May 27, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of May 27, 
+2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of October 
+16, 2012 (77 FR 55681, September 11, 2012).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Data & Services 
+Management, 3855 Lakewood Boulevard, MC D800-0019, Long Beach, CA 
+90846-0001; telephone 206-544-5000, extension 2; fax 206-766-5683; 
+Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced 
+service information at the FAA, Transport Airplane Directorate, 1601 
+Lind Avenue SW., Renton, WA. For information on the availability of 
+this material at the FAA, call 425-227-1221. It is also available on 
+the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and 
+locating Docket No. FAA-2015-2965.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+2965; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+[[Page 23587]]
+
+
+FOR FURTHER INFORMATION CONTACT: Chandra Ramdoss, Aerospace Engineer, 
+Airframe Branch, ANM-120L, FAA, Los Angeles Aircraft Certification 
+Office (ACO), 3960 Paramount Boulevard, Lakewood, CA 90712-4137; phone: 
+562-627-5239; fax: 562-627-5210; email: <a href="/cdn-cgi/l/email-protection#2c4f444d42485e4d48595844025e4d4148435f5f6c4a4d4d024b435a"><span class="__cf_email__" data-cfemail="c8aba0a9a6acbaa9acbdbca0e6baa9a5aca7bbbb88aea9a9e6afa7be">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2012-17-13, Amendment 39-17176 (77 FR 55681, 
+September 11, 2012) (``AD 2012-17-13''). AD 2012-17-13 applied to 
+certain The Boeing Company Model 707 airplanes, and Model 720 and 720B 
+series airplanes. The NPRM published in the Federal Register on July 
+30, 2015 (80 FR 45453) (``the NPRM''). The NPRM was prompted by a 
+determination that all chord segments made of 7079 aluminum must be 
+replaced with new, improved chord segments made of 7075 aluminum. The 
+NPRM proposed to continue to require, for certain airplanes, using 
+redefined flight cycle counts, determining the type of material of the 
+horizontal stabilizer, rear spar, and upper and lower chords on the 
+inboard and outboard ends of the rear spar; repetitively inspecting for 
+cracking of the horizontal stabilizer components; and repairing or 
+replacing the chord, or modifying chord segments made from 7079 
+aluminum, if necessary. The NPRM also proposed to continue to require, 
+for all airplanes, inspecting certain structurally significant items, 
+and repairing discrepancies if necessary. The NPRM proposed to add a 
+requirement to replace all chord segments made of 7079 aluminum with 
+new, improved chord segments made of 7075 aluminum. We are issuing this 
+AD to detect and correct stress corrosion and potential early fatigue 
+cracking in the horizontal stabilizer, which could compromise the 
+structural integrity of the stabilizer.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Request To Clarify Certain Language in Paragraph (i) of the Proposed AD
+
+    Boeing asked that we clarify the description of the affected 
+components specified in paragraph (i) of the proposed AD, which is a 
+restatement of paragraph (i) of AD 2012-17-13. Boeing stated that the 
+intent of paragraph (i) of AD 2012-17-13 was to specify the inspection 
+requirements for rear spar upper inboard chord segments made from 7075 
+aluminum. Boeing added that the restatement in paragraph (i) of the 
+proposed AD specifies, ``For all airplanes with horizontal stabilizer 
+components made from 7075 . . .'' and noted that this description could 
+apply to any chord segment, not just the inboard upper. Boeing asked 
+that the description be clarified to specify ``any horizontal 
+stabilizer with a rear spar upper inboard chord segment made from 7075 
+aluminum, as determined during the inspection required by paragraph (h) 
+of this AD.''
+    We agree to clarify paragraph (i) of this AD. The inspection 
+required by paragraph (i) of this AD must be done on upper chords made 
+from 7075 aluminum that are on the inboard end of the rear spar, as 
+specified in Boeing 707 Alert Service Bulletin A3515, dated December 
+19, 2007; and Boeing 707 Alert Service Bulletin A3515, Revision 1, 
+dated October 10, 2014; which are the appropriate sources of service 
+information for accomplishing the required actions. We have revised 
+paragraph (i) of this AD to clarify the inspection requirements. No 
+additional action is necessary for operators that have already complied 
+with paragraph (i) of this AD.
+
+Request To Clarify Certain Language in Paragraph (j) of the Proposed AD
+
+    Boeing also asked that we clarify the language in the restatement 
+of actions specified in paragraph (j) of the proposed AD in order to 
+specify that the inspections in paragraph (i) of the proposed AD can 
+only be deferred for 4,000 flight cycles if the upper inboard chord is 
+replaced with a new chord. Boeing stated that changing paragraph (i) of 
+the proposed AD ensures that it is clear that the inspection can only 
+be deferred for 4,000 flight cycles if the upper inboard chord is 
+replaced.
+    We agree with the commenter for the reason provided. We have 
+changed paragraph (j) of this AD to specify ``For airplanes on which 
+the rear spar upper inner chord is replaced with a new chord . . . :''
+
+Request To Clarify Certain Language in Paragraph (q) of the Proposed AD
+
+    Boeing also asked that we clarify the language in the new actions 
+specified in paragraph (q) of the proposed AD. Boeing stated that 
+paragraph (j) of the proposed AD states when to resume the inspections 
+after the chord is replaced. Boeing added that paragraph (i) of the 
+proposed AD states the type of inspection and the repetitive inspection 
+interval. Therefore, Boeing stated that paragraph (q) of the proposed 
+AD should point to paragraph (i) of the proposed AD.
+    We agree to clarify paragraph (q) of this AD. As noted above, 
+paragraph (j) of the this AD specifies inspecting the new chord within 
+4,000 flight cycles after the chord replacement, as required by 
+paragraph (i) of this AD, and repeating the inspections thereafter at 
+the times specified in paragraph (i) of this AD. Therefore, we have 
+included similar language in paragraph (q) of this AD.
+
+Request To Clarify Service Information References
+
+    In addition, Boeing asked that we include 707 in the title for 
+``Boeing Service Bulletin 3381,'' as identified in paragraphs (k) and 
+(l) of the proposed AD, to be consistent with all the other service 
+information references in the NPRM.
+    We agree with the commenter for the reasons provided. We have 
+changed the service information references in paragraphs (k)(3)(i) and 
+(l) of this AD to specify ``Boeing 707 Service Bulletin 3381.''
+    Boeing also asked that we change the semi-colon (located between 
+the service information references) in paragraph (k)(3)(ii) of the 
+proposed AD to a comma, because it breaks up the sentence in an 
+unintended way.
+    We do not agree to change the semi-colon in paragraph (k)(3)(ii) of 
+this AD. In ADs, we use a semi-colon to separate service information 
+references, except in cases where the semi-colon between service 
+information might cause confusion, e.g., a sentence that already uses 
+semi-colons between text other than the service information. The semi-
+colon in paragraph (k)(3)(ii) of this AD does not change the intent of 
+that paragraph. We have not changed this AD in this regard.
+
+Conclusion
+
+    We reviewed the available data and determined that air safety and 
+the public interest require adopting this AD with the changes described 
+previously, and minor editorial changes. We have determined that these 
+minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Boeing 707 Alert Service Bulletin A3515, Revision 1, 
+dated October 10, 2014. The service
+
+[[Page 23588]]
+
+information describes procedures for incorporating a new cycle counting 
+procedure, determining the material for the horizontal stabilizer rear 
+spar chord segment, inspecting for stress corrosion cracking and 
+fatigue cracking, repair, and replacing all chord segments made of 7079 
+aluminum with new, improved chord segments made of 7075 aluminum. This 
+service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 10 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                             Table--Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+             Action                    Work hours              Parts         Cost per product      Fleet cost
+----------------------------------------------------------------------------------------------------------------
+Retained inspections from AD     Up to 32 work-hours x   $0...............  Up to $2,720 per   Up to $27,200 per
+ 2012-17-13.                      $85 per hour = up to                       inspection cycle.  inspection
+                                  $2,720 per inspection                                         cycle.
+                                  cycle.
+Replacement [new action].......  500 work-hours x $85    Up to $228,000     Up to $2,705,000   Up to
+                                  per work-hour =         per chord.         (up to 10 chords   $27,050,000.2
+                                  $42,500 per chord.                         per airplane) 1.
+----------------------------------------------------------------------------------------------------------------
+1 The parts for the modification could cost up to $2.28 million per airplane, depending on whether only one
+  operator is ordering the parts or multiple operators. The parts cost will go down if multiple operators order
+  parts at the same time.
+2 The number of chords which must be replaced on each specific airplane varies.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012), and 
+adding the following new AD:
+
+2016-08-11 The Boeing Company: Amendment 39-18487; Docket No. FAA-
+2015-2965; Directorate Identifier 2014-NM-227-AD.
+
+(a) Effective Date
+
+    This AD is effective May 27, 2016.
+
+(b) Affected ADs
+
+    This AD replaces AD 2012-17-13, Amendment 39-17176 (77 FR 55681, 
+September 11, 2012).
+
+(c) Applicability
+
+    This AD applies to The Boeing Company airplanes, certificated in 
+any category; identified in paragraphs (c)(1) and (c)(2) of this AD.
+    (1) Model 707 airplanes identified in Boeing 707 Alert Service 
+Bulletin A3515, Revision 1, dated October 10, 2014.
+    (2) Model 720 and 720B series airplanes identified in Boeing 707 
+Alert Service Bulletin A3516, dated April 4, 2008.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 55, Stabilizers.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a determination that all chord segments 
+made of 7079 aluminum must be replaced with new, improved chord 
+segments made of 7075 aluminum. We are issuing this AD to detect and 
+correct stress corrosion and potential early fatigue cracking in the 
+horizontal stabilizer, which could result in reduced structural 
+integrity of the horizontal stabilizer.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Flight Cycle Counting Procedure, With Revised Service 
+Information
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012), 
+with revised service information. Flight cycles, as used in this AD, 
+must be counted as defined in the service information identified in 
+paragraph (g)(1), (g)(2), or (g)(3) of this AD.
+    (1) Boeing 707 Alert Service Bulletin A3515, dated December 19, 
+2007 (for Model 707 airplanes).
+    (2) Boeing 707 Alert Service Bulletin A3515, Revision 1, dated 
+October 10, 2014 (for Model 707 airplanes).
+    (3) Boeing 707 Alert Service Bulletin A3516, dated April 4, 2008 
+(for Model 707 airplanes, and Model 720 and 720B series airplanes).
+
+[[Page 23589]]
+
+(h) Retained Determination of Material of the Components of the 
+Horizontal Stabilizer, With Revised Service Information
+
+    This paragraph restates the actions required by paragraph (h) of 
+AD 2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012), 
+with revised service information. For airplanes identified in Boeing 
+707 Alert Service Bulletin A3515, dated December 19, 2007; or Boeing 
+707 Alert Service Bulletin A3515, Revision 1, dated October 10, 
+2014: At the earlier of the times specified in paragraphs (h)(1) and 
+(h)(2) of this AD, determine the type of material of the horizontal 
+stabilizer, rear spar, upper chords, and lower chords on the inboard 
+and outboard ends of the rear spar, in accordance with Part 2 of the 
+Accomplishment Instructions of Boeing 707 Alert Service Bulletin 
+A3515, dated December 19, 2007; or Boeing 707 Alert Service Bulletin 
+A3515, Revision 1, dated October 10, 2014.
+    (1) Within 180 days after October 16, 2012 (the effective date 
+of AD 2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 
+2012)).
+    (2) Before further flight after any horizontal stabilizer is 
+replaced after October 16, 2012.
+
+(i) Retained Repetitive Inspections of 7075 Aluminum Components, With 
+Revised Service Information and Affected Component Description
+
+    This paragraph restates the actions required by paragraph (i) of 
+AD 2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012), 
+with revised service information and affected component description. 
+For airplanes with any horizontal stabilizer with a rear spar upper 
+inboard chord segment made from 7075 aluminum, as determined during 
+the inspection required by paragraph (h) of this AD: Within 180 days 
+after October 16, 2012 (the effective date of AD 2012-17-13), and 
+before further flight after any replacement of the horizontal 
+stabilizer, do a special detailed inspection for cracking of the 
+upper chord on the inboard end of the rear spar on both the left and 
+right side horizontal stabilizers, from stabilizer station -13.179 
+to 92.55, in accordance with Part 3 of the Accomplishment 
+Instructions of Boeing 707 Alert Service Bulletin A3515, dated 
+December 19, 2007; or Boeing 707 Alert Service Bulletin A3515, 
+Revision 1, dated October 10, 2014. Repeat the inspections 
+thereafter at intervals not to exceed 500 flight cycles, and before 
+further flight after any replacement of the horizontal stabilizer, 
+except as provided by paragraph (j) of this AD. If any cracking is 
+found, before further flight, either repair the cracking in 
+accordance with Part 3 of the Accomplishment Instructions of Boeing 
+707 Alert Service Bulletin A3515, dated December 19, 2007; or Boeing 
+707 Alert Service Bulletin A3515, Revision 1, dated October 10, 
+2014, except as required by paragraph (n) of this AD; or replace the 
+chord with a new chord, in accordance with Part 6 of the 
+Accomplishment Instructions of Boeing 707 Alert Service Bulletin 
+A3515, dated December 19, 2007; or Boeing 707 Alert Service Bulletin 
+A3515, Revision 1, dated October 10, 2014.
+
+(j) Retained Repetitive Inspections on Airplanes With Replaced Chord, 
+With Revised Service Information and Revised Language for Affected 
+Airplanes
+
+    This paragraph restates the actions required by paragraph (j) of 
+AD 2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012), 
+with revised service information and revised langue for affected 
+airplanes. For airplanes on which the rear spar upper inner chord is 
+replaced with a new chord in accordance with Part 6 of the 
+Accomplishment Instructions of Boeing 707 Alert Service Bulletin 
+A3515, dated December 19, 2007; or Boeing 707 Alert Service Bulletin 
+A3515, Revision 1, dated October 10, 2014: Within 4,000 flight 
+cycles after the chord replacement, inspect the new chord, as 
+required by paragraph (i) of this AD, and repeat the inspections 
+thereafter at the times specified in paragraph (i) of this AD.
+
+(k) Retained Repetitive Inspections of 7079 Aluminum Components, With 
+Revised Service Information
+
+    This paragraph restates the actions required by paragraph (k) of 
+AD 2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012), 
+with revised service information. For airplanes with horizontal 
+stabilizers that have components of the chords of the rear spar made 
+from 7079 aluminum, as determined during the inspection required by 
+paragraph (h) of this AD: Within 180 days after October 16, 2012 
+(the effective date of AD 2012-17-13), do the actions required by 
+paragraphs (k)(1), (k)(2), and (k)(3) of this AD, and repeat those 
+actions at the applicable intervals specified in paragraphs (k)(1), 
+(k)(2), and (k)(3) of this AD.
+    (1) Do a special detailed inspection for cracking of the upper 
+chord of the inboard side of the rear spar of both the left and 
+right side horizontal stabilizers from stabilizer station -13.179 to 
+92.55, in accordance with Part 3 of the Accomplishment Instructions 
+of Boeing 707 Alert Service Bulletin A3515, dated December 19, 2007; 
+or Boeing 707 Alert Service Bulletin A3515, Revision 1, dated 
+October 10, 2014. Repeat the inspection thereafter at intervals not 
+to exceed 250 flight cycles or 180 days, whichever occurs first. If 
+any cracking is found during any inspection required by this 
+paragraph, before further flight, either repair the cracking, in 
+accordance with Part 3 of the Accomplishment Instructions of Boeing 
+707 Alert Service Bulletin A3515, dated December 19, 2007; or Boeing 
+707 Alert Service Bulletin A3515, Revision 1, dated October 10, 
+2014, except as required by paragraph (n) of this AD; or replace the 
+chord with a new chord, in accordance with Part 6 of the 
+Accomplishment Instructions of Boeing 707 Alert Service Bulletin 
+A3515, dated December 19, 2007; or Boeing 707 Alert Service Bulletin 
+A3515, Revision 1, dated October 10, 2014.
+    (2) Do a high frequency eddy current inspection for cracking of 
+the web flanges of the upper and lower chords of the rear spar in 
+the left and right side horizontal stabilizers from stabilizer 
+stations 92.55 to 272.55, in accordance with Part 4 of the 
+Accomplishment Instructions of Boeing 707 Alert Service Bulletin 
+A3515, dated December 19, 2007; or Boeing 707 Alert Service Bulletin 
+A3515, Revision 1, dated October 10, 2014. Repeat the inspection 
+thereafter at intervals not to exceed 1,000 flight cycles or 180 
+days, whichever occurs first. If any cracking is found during any 
+inspection required by this paragraph, before further flight, do the 
+actions specified in paragraph (k)(2)(i) or (k)(2)(ii) of this AD.
+    (i) Determine whether the cracking meets the limits specified in 
+Part 4 of the Accomplishment Instructions of Boeing 707 Alert 
+Service Bulletin A3515, dated December 19, 2007; or Boeing 707 Alert 
+Service Bulletin A3515, Revision 1, dated October 10, 2014, and 
+whether a previous repair has been done; determine if all 7079 upper 
+and lower chord segments installed on the horizontal stabilizer have 
+had the Part II, Group 1, Preventative Modification specified in 
+Boeing 707 Service Bulletin 3356 done; and do all applicable repairs 
+and modifications, in accordance with the Accomplishment 
+Instructions of Boeing 707 Alert Service Bulletin A3515, dated 
+December 19, 2007' or Boeing 707 Alert Service Bulletin A3515, 
+Revision 1, dated October 10, 2014. Do the actions required by this 
+paragraph in accordance with Part 4 of the Accomplishment 
+Instructions of Boeing 707 Alert Service Bulletin A3515, dated 
+December 19, 2007; or Boeing 707 Alert Service Bulletin A3515, 
+Revision 1, dated October 10, 2014, except as required by paragraph 
+(n) of this AD. Do all applicable repairs and modifications before 
+further flight.
+    (ii) Replace the chord with a new chord, in accordance with Part 
+6 of the Accomplishment Instructions of Boeing 707 Alert Service 
+Bulletin A3515, dated December 19, 2007; or Boeing 707 Alert Service 
+Bulletin A3515, Revision 1, dated October 10, 2014.
+    (3) Do low frequency eddy current (LFEC) inspections for 
+cracking of the forward skin flanges of the upper and lower chords 
+of the rear spar in the left and right side horizontal stabilizers 
+from stabilizer stations -13.179 to 272.55 (for lower chords) and 
+92.55 to 272.55 (for upper chords), in accordance with Part 5 of the 
+Accomplishment Instructions of Boeing 707 Alert Service Bulletin 
+A3515, dated December 19, 2007; or Boeing 707 Alert Service Bulletin 
+A3515, Revision 1, dated October 10, 2014. Repeat the inspections 
+thereafter at intervals not to exceed 1,000 flight cycles or 180 
+days, whichever occurs first. If any cracking is found during any 
+inspection required by this paragraph, before further flight, do the 
+actions specified in either paragraph (k)(3)(i) or paragraph 
+(k)(3)(ii) of this AD.
+    (i) Repair any cracking, determine whether all 7079 upper and 
+lower chord segments installed on the horizontal stabilizer have had 
+the Part II--Preventative Modification specified in Boeing 707 
+Service Bulletin 3381 done, and do all applicable modifications, in 
+accordance with the Accomplishment Instructions of Boeing 707 Alert 
+Service Bulletin A3515, dated December 19, 2007; or Boeing 707 Alert 
+Service Bulletin A3515, Revision 1, dated October 10, 2014. Do the
+
+[[Page 23590]]
+
+actions required by this paragraph in accordance with Part 5 of the 
+Accomplishment Instructions of Boeing 707 Alert Service Bulletin 
+A3515, dated December 19, 2007; or Boeing 707 Alert Service Bulletin 
+A3515, Revision 1, dated October 10, 2014, except as required by 
+paragraph (n) of this AD. Do all applicable modifications before 
+further flight.
+    (ii) Replace the chord with a new chord, in accordance with Part 
+6 of the Accomplishment Instructions of Boeing 707 Alert Service 
+Bulletin A3515, dated December 19, 2007; or Boeing 707 Alert Service 
+Bulletin A3515, Revision 1, dated October 10, 2014.
+
+(l) Retained Modification/Chord Replacement, With Revised Service 
+Information
+
+    This paragraph restates the actions required by paragraph (l) of 
+AD 2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012), 
+with revised service information. For airplanes identified in Boeing 
+707 Alert Service Bulletin A3515, dated December 19, 2007; or Boeing 
+707 Alert Service Bulletin A3515, Revision 1, dated October 10, 
+2014, with horizontal stabilizers that have rear spar chord 
+components made from 7079 aluminum and have not had embodied the 
+modification of Part II of Boeing 707 Service Bulletin 3381, dated 
+July 25, 1980; or Boeing 707 Service Bulletin 3381, Revision 1, 
+dated July 31, 1981: Before further flight after determining the 
+type of material in accordance with paragraph (h) of this AD, modify 
+all 7079 chord segments installed on the horizontal stabilizer, in 
+accordance with Part 5 of the Accomplishment Instructions of Boeing 
+707 Alert Service Bulletin A3515, dated December 19, 2007; or Boeing 
+707 Alert Service Bulletin A3515, Revision 1, dated October 10, 
+2014; or replace the chord, in accordance with Part 6 of the 
+Accomplishment Instructions of Boeing 707 Alert Service Bulletin 
+A3515, dated December 19, 2007; or Boeing 707 Alert Service Bulletin 
+A3515, Revision 1, dated October 10, 2014.
+
+(m) Retained Supplemental Structural Inspection Document Inspections
+
+    This paragraph restates the actions required by paragraph (m) of 
+AD 2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012). 
+For all airplanes: Within 180 days or 1,000 flight cycles after 
+October 16, 2012 (the effective date of AD 2012-17-13), whichever 
+occurs first, do the inspections of the applicable structurally 
+significant items specified in and in accordance with the 
+Accomplishment Instructions of Boeing 707 Alert Service Bulletin 
+A3516, dated April 4, 2008. If any cracking is found, before further 
+flight, repair using a method approved in accordance with the 
+procedures specified in paragraph (r) of this AD. The inspections 
+required by AD 85-12-01 R1, Amendment 39-5439 (51 FR 36002, October 
+8, 1986), are still required, except, as of October 16, 2012 (the 
+effective date of AD 2012-17-13), the flight cycle interval for the 
+repetitive inspections specified in paragraph 1.E., ``Compliance,'' 
+of Boeing 707 Alert Service Bulletin A3516, dated April 4, 2008, 
+must be counted in accordance with the requirements of paragraph (g) 
+of this AD.
+
+(n) Retained Exception to Certain Service Information: Contacting FAA 
+for Crack Repair
+
+    This paragraph restates the actions required by paragraph (n) of 
+AD 2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012), 
+with revised service information. If any cracking is found during 
+any inspection required by this AD, and Boeing 707 Alert Service 
+Bulletin A3515, dated December 19, 2007; or Boeing 707 Alert Service 
+Bulletin A3515, Revision 1, dated October 10, 2014, specifies to 
+contact Boeing for appropriate action: Before further flight, repair 
+the cracking using a method approved in accordance with the 
+procedures specified in paragraph (r) of this AD.
+
+(o) Retained Exception to Certain Service Information: Nondestructive 
+Test Compliance Procedures
+
+    This paragraph restates the requirements of paragraph (o) of AD 
+2012-17-13, Amendment 39-17176 (77 FR 55681, September 11, 2012), 
+with revised service information. Where Boeing 707 Alert Service 
+Bulletin A3515, dated December 19, 2007; or Boeing 707 Alert Service 
+Bulletin A3515, Revision 1, dated October 10, 2014, specifies that 
+operators ``refer to'' nondestructive test (NDT) procedures, the 
+procedures must be done in accordance with the service information 
+identified in paragraphs (o)(1), (o)(2), and (o)(3) of this AD, as 
+applicable.
+    (1) Figure 20, ``Electrical Conductivity Measurement for 
+Aluminum,'' of Subject 51-00-00, ``Structures-General,'' of Part 6--
+Eddy Current, of the Boeing 707/720 Nondestructive Test Manual, 
+Document D6-48023, Revision 118, dated July 15, 2011.
+    (2) Subject 55-10-07, ``Horizontal Stabilizer,'' of Part 6--Eddy 
+Current, of the Boeing 707/720 Nondestructive Test Manual, Document 
+D6-48023, Revision 118, dated July 15, 2011.
+    (3) Subject 51-01-00, ``Orientation and Preparation for 
+Testing'' of Part 1--General, of the Boeing 707/720 Nondestructive 
+Test Manual, Document D6-48023, Revision 118, dated July 15, 2011.
+
+(p) Retained Parts Installation Prohibition With Revised Service 
+Information
+
+    This paragraph restates the parts installation prohibition 
+required by paragraph (p) of AD 2012-17-13, Amendment 39-17176 (77 
+FR 55681, September 11, 2012), with revised service information. As 
+of October 16, 2012 (the effective date of AD 2012-17-13, Amendment 
+39-17176 (77 FR 55681, September 11, 2012)), no person may install 
+any horizontal stabilizer assembly with any chord segment having a 
+part number other than that identified in paragraph 2.C.2. of Boeing 
+707 Alert Service Bulletin A3515, dated December 19, 2007; or Boeing 
+707 Alert Service Bulletin A3515, Revision 1, dated October 10, 
+2014, on any airplane.
+
+(q) New Replacement of 7079 Aluminum Components
+
+    Within 48 months after the effective date of this AD: Replace 
+all 7079 aluminum chord segments of the upper and lower chords 
+installed on the horizontal stabilizer with 7075 aluminum chord 
+segments, in accordance with Part 6 of the Accomplishment 
+Instructions of Boeing 707 Alert Service Bulletin A3515, Revision 1, 
+dated October 10, 2014. Within 4,000 flight cycles after 
+accomplishing the replacements required by this paragraph, inspect 
+the new chord, as required by paragraph (i) of this AD, and repeat 
+the inspections thereafter at the times specified in paragraph (i) 
+of this AD.
+
+(r) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Los Angeles Aircraft Certification Office 
+(ACO), FAA, has the authority to approve AMOCs for this AD, if 
+requested using the procedures found in 14 CFR 39.19. In accordance 
+with 14 CFR 39.19, send your request to your principal inspector or 
+local Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (s) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#8ab3a7cbc4c7a7c6cbcbc9c5a7cbc7c5c9a7d8effbffeff9fef9caecebeba4ede5fc"><span class="__cf_email__" data-cfemail="8bb2a6cac5c6a6c7cacac8c4a6cac6c4c8a6d9eefafeeef8fff8cbedeaeaa5ece4fd">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by the Boeing Commercial Airplanes Organization 
+Designation Authorization (ODA) that has been authorized by the 
+Manager, Los Angeles ACO, to make those findings. To be approved, 
+the repair method, modification deviation, or alteration deviation 
+must meet the certification basis of the airplane, and the approval 
+must specifically refer to this AD.
+    (4) AMOCs approved for AD 2012-17-13, Amendment 39-17176 (77 FR 
+55681, September 11, 2012), are approved as AMOCs for the 
+corresponding provisions of this AD.
+
+(s) Related Information
+
+    For more information about this AD, contact Chandra Ramdoss, 
+Aerospace Engineer, Airframe Branch, ANM-120L, FAA, Los Angeles ACO, 
+3960 Paramount Boulevard, Lakewood, CA 90712-4137; phone: 562-627-
+5239; fax: 562-627-5210; email: <a href="/cdn-cgi/l/email-protection#cfaca7aea1abbdaeabbabba7e1bdaea2aba0bcbc8fa9aeaee1a8a0b9"><span class="__cf_email__" data-cfemail="81e2e9e0efe5f3e0e5f4f5e9aff3e0ece5eef2f2c1e7e0e0afe6eef7">[email&#160;protected]</span></a>.
+
+(t) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing 707 Alert Service Bulletin A3515, Revision 1, dated 
+October 10, 2014.
+
+[[Page 23591]]
+
+    (ii) Reserved.
+    (3) The following service information was approved for IBR on 
+October 16, 2012 (77 FR 55681, September 11, 2012).
+    (i) Boeing 707 Alert Service Bulletin A3515, dated December 19, 
+2007.
+    (ii) Boeing 707 Alert Service Bulletin A3516, dated April 4, 
+2008.
+    (iii) Subject 51-00-00, ``Structures-General,'' Figure 20, 
+``Electrical Conductivity Measurement for Aluminum,'' of Part 6--
+Eddy Current, of the Boeing 707/720 Nondestructive Test Manual, 
+Document D6-48023, Revision 118, dated July 15, 2011. The revision 
+level of this document is identified on only the manual revision 
+Transmittal Sheet.
+    (iv) Subject 51-01-00, ``Orientation and Preparation for 
+Testing'' of Part 1--General, of the Boeing 707/720 Nondestructive 
+Test Manual, Document D6-48023, Revision 118, dated July 15, 2011. 
+The revision level of this document is identified on only the manual 
+revision Transmittal Sheet.
+    (v) Subject 55-10-07, ``Horizontal Stabilizer,'' of Part 6--Eddy 
+Current, of the Boeing 707/720 Nondestructive Test Manual, Document 
+D6-48023, Revision 118, dated July 15, 2011. The revision level of 
+this document is identified on only the manual revision Transmittal 
+Sheet.
+    (4) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+3855 Lakewood Boulevard, MC D800-0019, Long Beach, CA 90846-0001; 
+telephone 206-544-5000, extension 2; fax 206-766-5683; Internet 
+<a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (5) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on April 5, 2016.
+Suzanne Masterson,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-08539 Filed 4-21-16; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,1020 @@
+<html>
+<head>
+<title>Federal Register, Volume 77 Issue 225 (Wednesday, November 21, 2012)</title>
+</head>
+<body><pre>
+[Federal Register Volume 77, Number 225 (Wednesday, November 21, 2012)]
+[Rules and Regulations]
+[Pages 69747-69754]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2012-27636]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0722; Directorate Identifier 2010-NM-262-AD; 
+Amendment 39-17260; AD 2012-23-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Model Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding an existing airworthiness directive (AD) 
+for certain The Boeing Company Model 737-100 and -200 series airplanes. 
+The existing AD currently requires various inspections for cracks in 
+the outboard chord of the frame at body station (BS) 727 and in the 
+outboard chord of stringer (S) 18A, and repair or replacement of 
+cracked parts. This new AD adds airplanes to the applicability 
+statement in the existing AD and adds inspections for cracks in the BS 
+727 frame outboard chords and the radius of the auxiliary chord, for 
+certain airplanes. This new AD also removes the inspections of the 
+outboard chord of S-18A required by the existing AD. This AD was 
+prompted by several reports of fatigue cracking in the frame outboard 
+chord at BS 727 and in the radius of the auxiliary chord on airplanes 
+that were not affected by the existing AD. We are issuing this AD to 
+detect and correct fatigue cracking of the outboard and auxiliary 
+chords, which could result in reduced structural integrity of the 
+outboard chord and consequent rapid decompression of the airplane.
+
+DATES: This AD is effective December 26, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of December 26, 
+2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of August 
+18, 1995 (60 FR 36981, July 19, 1995).
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may review copies of the referenced service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, Washington. For information on the availability of 
+this material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Alan Pohl, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue SW., Renton, Washington 98057-3356; phone (425) 917-
+6450; fax (425) 917-6590; email <a href="/cdn-cgi/l/email-protection#8feee3eee1a1ffe0e7e3cfe9eeeea1e8e0f9"><span class="__cf_email__" data-cfemail="dcbdb0bdb2f2acb3b4b09cbabdbdf2bbb3aa">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 95-12-17, Amendment 39-9268 (60 FR 36981, July 
+19, 1995). That AD applies to the specified products. The NPRM 
+published in the Federal Register on August 5, 2011 (76 FR 47522). That 
+NPRM proposed to continue to require various inspections for cracks in 
+the outboard chord of the frame at BS 727, and repair or replacement of 
+cracked parts. That NPRM also proposed to add airplanes to the 
+applicability statement in the existing AD and add inspections for 
+cracks in the BS 727 frame outboard chords and the radius of the 
+auxiliary chord, for certain airplanes. That NPRM also proposed to 
+remove the inspections of the outboard chord of S-18A required by the 
+existing AD.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(76 FR 47522, August 5, 2011) and the FAA's response to each comment.
+
+Support for NPRM (76 FR 47522, August 5, 2011)
+
+    Europe Airpost has no objection to the NRPM (76 FR 47522, August 5, 
+2011), and noted that it has already implemented the procedures in 
+Boeing
+
+[[Page 69748]]
+
+Alert Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006, 
+into its maintenance program.
+
+Request To Remove ``Total'' From Compliance Time
+
+    Southwest Airlines (SWA) asked that paragraph (o) of the NPRM (76 
+FR 47522, August 5, 2011), which specifies the compliance time as 
+``Before the accumulation of 50,000 total flight cycles, but fewer than 
+or equal to 60,000 total flight cycles, after accomplishing the 
+modification of the outboard chord of the frame * * *'' be changed to 
+delete the word ``total.'' SWA states that this would eliminate any 
+confusion as to whether the subject inspection is to be done between 
+50,000 and 60,000 total airplane flight cycles, or between 50,000 and 
+60,000 flight cycles after the modification installation.
+    We agree with the commenter. The intent of paragraph (o) of this AD 
+is to do the inspection between 50,000 and 60,000 flight cycles after 
+accomplishing the modification. We have changed paragraph (o) of this 
+AD accordingly. In addition, for clarification, we have removed 
+``total'' from paragraphs (g), (h)(1), (h)(2), (h)(3), and (h)(4) of 
+this AD.
+
+Request To Clarify Certain Compliance Times
+
+    Boeing asked that we clarify the compliance time for the inspection 
+specified in paragraph (i)(1) of the NPRM (76 FR 47522, August 5, 
+2011). Boeing stated that paragraph (c)(1) of AD 95-12-17, Amendment 
+39-9268 (60 FR 36981, July 19, 1995), states ``Inspect prior to the 
+accumulation of 4,500 flight cycles after the effective date of this 
+AD.'' The new language in paragraph (i)(1) of the NPRM states ``Inspect 
+prior within 4,500 flight cycles after August 18, 1995.'' Boeing noted 
+that this looks like a typographical error.
+    We find that there is a terminology error in paragraph (c)(1) of 
+the existing AD 95-12-17, Amendment 39-9268 (60 FR 36981, July 19, 
+1995), and in paragraph (i)(1) of this AD. We have corrected that 
+paragraph to read: ``Inspect within 4,500 flight cycles after August 
+18, 1995 * * *.'' We have also corrected similar terminology in 
+paragraphs (i)(2), (i)(3), and (i)(4) of this AD.
+    Boeing also asked that we clarify the compliance time specified in 
+paragraph (n) of the NPRM (76 FR 47522, August 5, 2011). Boeing stated 
+that Table 3 of Boeing Alert Service Bulletin 737-53A1166, Revision 2, 
+dated May 25, 2006, specifies ``total airplane flight cycles after 
+replacement'' and paragraph (g) of the NPRM addresses previously 
+replaced frame upper outboard chords for comparison. Boeing added that 
+paragraphs (n)(1)(i) and (n)(1)(ii) of the NPRM identify the threshold 
+for a replaced frame upper outboard chord in terms of ``total flight 
+cycles,'' but Table 3 of that service bulletin identifies the threshold 
+based on cycles ``after chord replacement.''
+    We agree that the compliance time specified in paragraphs (n)(1)(i) 
+and (n)(1)(ii) of this AD should be expressed in terms of flight cycles 
+after replacement of the outboard chords, as identified in Boeing Alert 
+Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006, not total 
+flight cycles on the airplane. We have clarified the compliance time in 
+paragraphs (n)(1)(i) and (n)(1)(ii) of this AD accordingly.
+
+Request To Include Repair Instructions
+
+    Boeing asked that we include repair instructions in paragraph (o) 
+of the NPRM (76 FR 47522, August 5, 2011) for crack findings during the 
+open-hole eddy current inspection. Boeing notes that no repair 
+instructions are provided. Boeing suggests the following be added for 
+the repair: ``Except as required by paragraph (p) of this AD, if any 
+crack is found during the inspection required by this paragraph, before 
+further flight, repair in accordance with Part 3 or Part 4, as 
+applicable, of the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 737-53A1166, Revision 2, dated May 25, 2006.''
+    We agree with the commenter for the reason provided. In paragraph 
+(o) of the NPRM (76 FR 47522, August 5, 2011), we inadvertently omitted 
+the repair language specified in paragraphs (l) through (n) of the NPRM 
+from paragraph (o) of the NPRM. In the preamble of the NPRM in the 
+``Relevant Service Information'' section, we described additional 
+inspections, and repair or replacement if necessary. Boeing Alert 
+Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006, contains 
+repair instructions in Part 3 and Part 4. Therefore, we have added the 
+text ``* * * repair in accordance with Part 3 or Part 4 * * *.'' to 
+paragraph (o) of this AD. Paragraph (p) of this AD already contains a 
+reference to paragraph (o) of this AD for the exception to the repair 
+procedure.
+
+Request To Clarify Repair Instructions
+
+    Boeing asked that we clarify the repair instructions specified in 
+paragraph (l) of the NPRM (76 FR 47522, August 5, 2011) for cracks 
+found in the auxiliary chord. Boeing stated that paragraph (l) of the 
+NPRM specifies ``If any crack is found, before further flight, repair 
+in accordance with the requirements in paragraph (p) of this AD.'' 
+Boeing noted that paragraph (p) of the NPRM directs the reader to 
+paragraph (s) of the NPRM for an alternative method of compliance 
+(AMOC) if Part 3 or Part 4 of the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006, 
+cannot be accomplished. Boeing added that neither Part 3 nor Part 4 
+provide repair instructions for the auxiliary chord. Boeing added that 
+paragraph (n) of the NPRM provides clear instructions for accomplishing 
+the crack repair.
+    We acknowledge the commenter's concerns. The inspection identified 
+in paragraph (l) of this AD is required to detect cracks in the 
+auxiliary chord radius of the frame at BS 727. The inspection 
+identified in paragraph (n) of this AD is required to detect cracks in 
+the forward flange of the outboard chord at BS 727. The repair 
+instructions for those areas are specified in different parts of the 
+Accomplishment Instructions of the service information; therefore, the 
+repair identified in paragraph (n) of this AD should not refer to the 
+same repair instructions as those identified in paragraph (l) of this 
+AD. Since Parts 3 and 4 of the Accomplishment Instructions of the 
+service information do not provide repair instructions for the 
+auxiliary chord, we have clarified the repair instructions in paragraph 
+(l) of this AD by changing the reference from paragraph (p) to 
+paragraph (s) of this AD. In addition, we have removed the reference to 
+paragraph (l) from paragraph (p) of this AD for further clarification.
+
+Request To Clarify When Time-Limited Repairs Are Required for Certain 
+Airplanes
+
+    Boeing asked that we clarify when time-limited repairs, as 
+specified in paragraph (q) of the NPRM (76 FR 47522, August 5, 2011), 
+installed in accordance with Boeing Alert Service Bulletin 737-53A1166, 
+Revision 2, dated May 25, 2006, must be replaced. Boeing stated that 
+paragraph (q) of the NPRM identifies replacement for time-limited 
+repairs installed in accordance with Boeing Alert Service Bulletin 737-
+53A1166, dated June 30, 1994; or Boeing Service Bulletin 737-53A1166, 
+Revision 1, dated May 25, 1995; but does not provide a compliance time 
+for time-limited repairs installed in accordance with Boeing Alert 
+Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006. Boeing 
+added that the compliance time specified in Table 6 of Boeing Alert 
+Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006, is not to 
+exceed
+
+[[Page 69749]]
+
+4,500 flight cycles from the time of the installation.
+    We agree to clarify paragraph (q) of this AD. In the NPRM (76 FR 
+47522, August 5, 2011), we did not refer to airplanes identified in 
+Boeing Alert Service Bulletin 737-53A1166, Revision 2, dated May 25, 
+2006, as airplanes affected by paragraph (q) of this AD. However, Step 
+3.b. of ``Part 4--STA 727 Frame Outboard Chord Time-Limited Repair'' of 
+the Accomplishment Instructions of Boeing Alert Service Bulletin 737-
+53A1166, Revision 2, dated May 25, 2006, specifies doing the 
+replacement of the time-limited repair at the time specified in 
+paragraph 1.E., ``Compliance,'' of that service bulletin revision 
+(i.e., 4,500 flight cycles after the time-limited replacement). 
+Therefore, we have determined that Boeing Alert Service Bulletin 737-
+53A1166, Revision 2, dated May 25, 2006, should be added to paragraph 
+(q) of this AD as a reference for airplanes affected by that paragraph.
+
+Request To Clarify Affected Airplanes
+
+    Boeing asked that the affected airplanes be added to paragraph (j) 
+of the NPRM (76 FR 47522, August 5, 2011). Boeing stated that paragraph 
+(h) of the NPRM identifies the affected airplanes, and that paragraph 
+(j) of the NPRM has similar requirements and should match paragraph (h) 
+of the NPRM.
+    We agree that the affected airplane models should be added to 
+paragraph (j) of this AD for clarification and consistency. We have 
+changed that paragraph to include the affected airplane models.
+    Boeing also asked that we clarify paragraphs (g), (h), (i), and (j) 
+of the NPRM (76 FR 47522, August 5, 2011), by specifying that the 
+airplanes affected by those paragraphs, which are restated from AD 95-
+12-17, Amendment 39-9268 (60 FR 36981, July 19, 1995), are only those 
+Model 737-100 and -200 series airplanes having line numbers 1 through 
+999 inclusive. Boeing stated that the NPRM requirements do not 
+differentiate for Model 737-200 series airplanes having line numbers 
+beyond 999 and do not identify Model 737-200C series airplanes.
+    We agree that the restated requirements specified in this AD only 
+affect Model 737 airplanes having line numbers 1 through 999 inclusive. 
+We have added that clarification to paragraphs (g), (h), (i), and (j) 
+of this AD.
+
+Request To Clarify Affected Airplanes Relative to Supplemental 
+Structural Inspection Document (SSID) Inspections
+
+    Boeing asked that we provide clarification of certain affected 
+airplanes in paragraph (s)(5) of the NPRM (76 FR 47522, August 5, 
+2011). Boeing stated that AD 2008-08-23, Amendment 39-15477 (73 FR 
+21237, April 21, 2008), only applies to Model 737-200C series 
+airplanes. Boeing added that Boeing SSID D6-37089, Revision E, dated 
+May 1, 2007, applies to Model 737-100, -200, and -200C series 
+airplanes. Boeing also asked that we clarify that AD 2008-09-13, 
+Amendment 39-15494 (73 FR 24164, May 2, 2008), is only applicable to 
+Model 737-300, -400, and -500 series airplanes. Boeing stated that 
+paragraph (s)(5) of the NPRM refers to Boeing 737-400/500/600 SSID D6-
+82669, dated May 1, 2007, but noted that Model 737-600 is a next 
+generation (NG) airplane, not a 737 ``Classic'' airplane.
+    Boeing also asked that the structurally significant item (SSI) F-29 
+SSID inspections (which describe visual and eddy current inspections of 
+the BS 727 bulkhead outer chord) in paragraph (s)(5) of the NPRM (76 FR 
+47522, August 5, 2011) refer to Appendix A of Boeing Alert Service 
+Bulletin 737-53A1166, Revision 2, dated May 25, 2006, for consistency. 
+Boeing states that currently paragraph 1.F. of Boeing Alert Service 
+Bulletin 737-53A1166, Revision 2, dated May 25, 2006, refers to table 1 
+of Appendix A.
+    We agree that some clarifications are necessary for the reasons 
+provided by the commenter. Therefore, we have included the appropriate 
+information in paragraph (s)(5) of this AD. We clarified that AD 2008-
+08-23, Amendment 39-15477 (73 FR 21237, April 21, 2008), applies to 
+Model 737-200C series airplanes. We changed the reference to ``Boeing 
+737-400/500/600 SSID'' to the correct reference, which is ``Boeing 737-
+300/400/500 SSID.'' In addition, we added a reference to Appendix A, 
+Table 1, of Boeing Alert Service Bulletin 737-53A1166, Revision 2, 
+dated May 25, 2006, for the SSI F-29 SSID inspections.
+
+Request To Clarify Actions Required for Affected Airplanes
+
+    Boeing asked that we clarify actions to be taken for airplanes 
+affected by both the restated requirements and the new requirements of 
+the NPRM (76 FR 47522, August 5, 2011). Boeing stated that paragraphs 
+(g) through (j) of the NPRM are identified as applicable to Model 737-
+100 and -200 series airplanes; and paragraphs (m) and (n) of the NPRM 
+are applicable to airplanes identified in Tables 2 and 3, respectively, 
+of paragraph 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 
+737-53A1166, Revision 2, dated May 25, 2006. Boeing noted that Model 
+737-100 and -200 series airplanes (having line numbers 1 through 999 
+inclusive) are identified in Groups 1, 2, and 3 of that service 
+bulletin; both tables 2 and 3 of that service bulletin identify Groups 
+1, 2, and 3. Boeing added that Model 737-100 and -200 series airplanes 
+have threshold and repetitive inspection requirements from both the 
+restated and the new requirements of the NPRM.
+    We agree with the commenter that some clarification is necessary. 
+We have changed paragraphs (m) and (n) of this AD (new requirements) to 
+include the statement that accomplishing the new inspections in each 
+paragraph ends the corresponding retained inspections in paragraphs (g) 
+through (j) of this AD.
+
+Request To Clarify Revised Paragraph Identifiers
+
+    Boeing asked that we clarify the ``Revised paragraph identifiers'' 
+table in the preamble of the NPRM (76 FR 47522, August 5, 2011). Boeing 
+states that paragraph (g) of AD 95-12-17, Amendment 39-9268 (60 FR 
+36981, July 19, 1995), corresponds to the new paragraph (r) of the NPRM 
+(optional terminating action), not the new paragraph (l) of the NPRM, 
+which is related to auxiliary chord inspections. Boeing also asked that 
+we clarify that the terminating action specified in paragraphs (h) and 
+(j) of the NPRM refers to the terminating action in paragraph (r) of 
+this AD instead of paragraph (l) of this AD.
+    We agree that there is an error in the ``Revised paragraph 
+identifiers'' table in the preamble of the NPRM. Paragraph (g) of AD 
+95-12-17, Amendment 39-9268 (60 FR 36981, July 19, 1995), pertains to 
+the terminating action in paragraph (r) of this AD; however, since that 
+section of the preamble does not reappear in the final rule, no change 
+to the AD is necessary. We also agree that the terminating action 
+reference in paragraphs (h) and (j) of this AD should refer to 
+paragraph (r) of this AD. We have changed paragraphs (h) and (j) of the 
+final rule accordingly.
+
+Request To Correct Certain Paragraph References
+
+    Boeing asked that we correct the references to paragraphs (l)(1)(i) 
+and (l)(1)(ii) of the NPRM (76 FR 47522, August 5, 2011) specified in 
+paragraph (k)(1) of the NPRM to instead refer to paragraphs (k)(1)(i) 
+and (k)(1)(ii) of the
+
+[[Page 69750]]
+
+NPRM. Boeing stated that paragraph (l) of the NPRM is related to 
+auxiliary chord inspections, while paragraphs (k)(1)(i) and (k)(1)(ii) 
+of the NPRM relate to the subject crack finding in paragraph (k)(1) of 
+the NPRM.
+    We agree there is a typographical error in paragraph (k)(1) of the 
+NPRM (76 FR47522, August 5, 2011). Paragraph (l) of the NPRM does not 
+include any subparagraphs and should not have been referenced in 
+paragraph (k)(1) of the NPRM. We have corrected paragraph (k)(1) of the 
+final rule accordingly to refer to paragraph (k)(1)(i) or (k)(1)(ii) of 
+this AD.
+    In addition, we have clarified paragraph (r) of this AD by 
+referring to inspection paragraphs (g) through (o) of this AD and 
+removing references to paragraphs (p) and (q) of this AD.
+
+Clarification of Service Information Reference
+
+    We have removed the service information referenced in paragraph 
+(k)(2) of the NPRM (76 FR47522, August 5, 2011) because it is redundant 
+to the service information specified in paragraph (k) of the NPRM. 
+Paragraph (k) of the final rule specifies to accomplish (k)(1) or 
+(k)(2) of the final rule in accordance with the service information 
+specified in paragraph (k) of the final rule.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously--and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (76 FR 47522, August 5, 2011) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (76 FR 47522, August 5, 2011).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 574 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                Number of
+              Action                      Labor cost          Parts cost   Cost per  product       U.S.                Cost on U.S. operators
+                                                                                                airplanes
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Various inspections (retained      4 work-hours x $85 per             $0  $340 per inspection          296  $100,640 per inspection cycle.
+ actions from AD 95-12-17,          hour = $340 per                        cycle.
+ Amendment 39-9268 (60 FR 36981,    inspection cycle.
+ July 19, 1995)).
+Ultrasonic inspection (new         13 work-hours x $85 per             0  $1,105 per                   574  $634,270 per inspection cycle.
+ action).                           hour = $1,105 per                      inspection cycle.
+                                    inspection cycle.
+Detailed and HFEC inspections      13 work-hours x $85 per             0  $1,105 per                   574  $634,270 per inspection cycle.
+ (new actions).                     hour = $1,105 per                      inspection cycle.
+                                    inspection cycle.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary repairs that 
+would be required based on the results of the inspections. We have no 
+way of determining the number of aircraft that might need these 
+repairs:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                       Cost per
+                    Action                                    Labor cost                 Parts cost    product
+----------------------------------------------------------------------------------------------------------------
+Optional modification (retained action from AD  50 work-hours x $85 per hour = $4,250.       $3,680       $7,930
+ 95-12-17, Amendment 39-9268 (60 FR 36981,
+ July 19, 1995)).
+Repair of cracking of the outboard chord frame  514 work hours x $85 per hour =              13,586       57,276
+                                                 $42,690.
+Time-limited repair cracking of the outboard    63 work hours x $85 per hour = $5,355.        2,732        8,087
+ chord frame.
+Repair of cracking of the outboard chord......  49 work hours x $85 per hour = $4,165.        4,255        8,420
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+
+[[Page 69751]]
+
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+95-12-17, Amendment 39-9268 (60 FR 36981, July 19, 1995), and adding 
+the following new AD:
+
+2012-23-04 The Boeing Company: Amendment 39-17260; Docket No. FAA-
+2011-0722; Directorate Identifier 2010-NM-262-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective December 26, 
+2012.
+
+(b) Affected ADs
+
+    This AD supersedes AD 95-12-17, Amendment 39-9268 (60 FR 36981, 
+July 19, 1995).
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model 737-100, -200, -
+200C, -300, -400, and -500 series airplanes, certificated in any 
+category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by several reports of fatigue cracking in 
+the frame outboard chord at body station (BS) 727, and cracks in the 
+radius of the auxiliary chord on airplanes that were not affected by 
+the existing AD (60 FR 36981, July 19, 1995). We are issuing this AD 
+to detect and correct fatigue cracking of the outboard and auxiliary 
+chords, which could result in reduced structural integrity of the 
+outboard chord and consequent rapid decompression of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Initial Inspection: BS 727 Frame Chord Has Been Replaced
+
+    This paragraph restates the requirements of paragraph (a) of AD 
+95-12-17, Amendment 39-9268 (60 FR 36981, July 19, 1995), with 
+revised service information. For Model 737-100 and -200 series 
+airplanes having line numbers 1 through 999 inclusive, on which the 
+BS 727 frame upper outboard chord has been replaced as specified in 
+Boeing Service Bulletin 737-53-1088: Prior to the accumulation of 
+30,000 flight cycles since replacement of the upper outboard chord, 
+or within 4,500 flight cycles after August 18, 1995 (the effective 
+date of AD 95-12-17) whichever occurs later, perform close visual, 
+pulse echo shear wave (PESW), and high frequency eddy current (HFEC) 
+inspections to detect cracks in the outboard chord of the frame at 
+BS 727, in accordance with Part I of the Accomplishment Instructions 
+of Boeing Alert Service Bulletin 737-53A1166, dated June 30, 1994; 
+Boeing Service Bulletin 737-53A1166, Revision 1, dated May 25, 1995; 
+or Boeing Alert Service Bulletin 737-53A1166, Revision 2, dated May 
+25, 2006; as applicable. As of the effective date of this AD, use 
+only Boeing Alert Service Bulletin 737-53A1166, Revision 2, dated 
+May 25, 2006, to accomplish the actions required by this paragraph.
+
+(h) Retained Repetitive Inspections: BS 727 Frame Chord Has Been 
+Replaced
+
+    This paragraph restates the requirements of paragraph (b) of AD 
+95-12-17, Amendment 39-9268 (60 FR 36981, July 19, 1995), with 
+revised service information. For Model 737-100 and -200 series 
+airplanes having line numbers 1 through 999 inclusive, on which the 
+BS 727 frame upper outboard chord has been replaced as specified in 
+Boeing Service Bulletin 737-53-1088: Repeat the inspections required 
+by paragraph (g) of this AD at the time specified in paragraphs 
+(h)(1), (h)(2), (h)(3), and (h)(4) of this AD, as applicable, until 
+the optional terminating action described in paragraph (r) of this 
+AD is accomplished.
+    (1) If, at the time of the most recent inspection required by 
+paragraph (g) or (h) of this AD, the airplane has accumulated 27,000 
+or more flight cycles, but fewer than 50,000 flight cycles since the 
+replacement of the outboard chord: Perform the next inspection 
+within 15,000 flight cycles. Repeat the inspection thereafter at 
+intervals not to exceed 15,000 flight cycles until the airplane has 
+accumulated 50,000 or more flight cycles since the replacement of 
+the outboard chord. Do the inspections required by paragraph (h)(2) 
+of this AD at the time specified.
+    (2) If, at the time of the most recent inspection required by 
+paragraph (g) or (h) of this AD, the airplane has accumulated 50,000 
+or more flight cycles, but fewer than 60,000 flight cycles, since 
+the replacement of the outboard chord: Perform the next inspection 
+within 7,500 flight cycles. Repeat the inspection thereafter at 
+intervals not to exceed 7,500 flight cycles until the airplane has 
+accumulated 60,000 or more flight cycles since the replacement of 
+the outboard chord. Do the inspections required by paragraph (h)(3) 
+of this AD at the time specified.
+    (3) If, at the time of the most recent inspection required by 
+paragraph (g) or (h) of this AD, the airplane has accumulated 60,000 
+or more flight cycles, but fewer than 70,000 flight cycles, since 
+the replacement of the outboard chord: Perform the next inspection 
+within 5,000 flight cycles. Repeat the inspection thereafter at 
+intervals not to exceed 5,000 flight cycles until the airplane has 
+accumulated 70,000 or more flight cycles since the replacement of 
+the outboard chord. Do the inspections required by paragraph (h)(4) 
+of this AD at the time specified.
+    (4) If, at the time of the most recent inspection required by 
+paragraph (g) or (h) of this AD, the airplane has accumulated 70,000 
+or more flight cycles since replacement of the outboard chord: 
+Perform the next inspection within 3,000 flight cycles. Repeat the 
+inspection thereafter at intervals not to exceed 3,000 flight 
+cycles.
+
+(i) Retained Initial Inspection: BS 727 Frame Chord Has Not Been 
+Replaced or Only Lower Outboard Chord Has Been Replaced
+
+    This paragraph restates the requirements of paragraph (c) of AD 
+95-12-17, Amendment 39-9268 (60 FR 36981, July 19, 1995), with 
+revised service information. For Model 737-100 and -200 series 
+airplanes having line numbers 1 through 999 inclusive, on which the 
+BS 727 frame outboard chord has not been replaced, or on which only 
+the lower outboard chord has been replaced as specified in Boeing 
+Service Bulletin 737-53-1088: Perform close visual, PESW, and HFEC 
+inspections to detect cracks in the outboard chord of the frame at 
+BS 727, in accordance with Part I of the Accomplishment Instructions 
+of Boeing Alert Service Bulletin 737-53A1166, dated June 30, 1994; 
+Boeing Service Bulletin 737-53A1166, Revision 1, dated May 25, 1995; 
+or Boeing Alert Service Bulletin 737-53A1166, Revision 2, dated May 
+25, 2006; as applicable. As of the effective date of this AD, use 
+only Boeing Alert Service Bulletin 737-53A1166, Revision 2, dated 
+May 25, 2006, to accomplish the actions required by this paragraph. 
+Perform these inspections initially at the time specified in 
+paragraph (i)(1), (i)(2), (i)(3), or (i)(4) of this AD, as 
+applicable.
+    (1) For airplanes that have accumulated 27,000 or more total 
+flight cycles, but fewer than 50,000 total flight cycles, as of 
+August 18, 1995 (the effective date of AD 95-12-17, Amendment 39-
+9268 (60 FR 36981, July 19, 1995)): Inspect within 4,500 flight 
+cycles after August 18, 1995.
+    (2) For airplanes that have accumulated 50,000 or more total 
+flight cycles, but fewer than 60,000 total flight cycles, as of 
+August 18, 1995 (the effective date of AD 95-12-17, Amendment 39-
+9268 (60 FR 36981, July 19, 1995)): Inspect within 2,500 flight 
+cycles after August 18, 1995.
+    (3) For airplanes that have accumulated 60,000 or more total 
+flight cycles, but fewer than 70,000 total flight cycles as of 
+August 18, 1995 (the effective date of AD 95-12-17, Amendment 39-
+9268 (60 FR 36981, July 19, 1995)): Inspect within 1,500 flight 
+cycles after August 18, 1995.
+    (4) For airplanes that have accumulated 70,000 or more total 
+flight cycles as of August 18, 1995 (the effective date of AD 95-12-
+17, Amendment 39-9268 (60 FR 36981, July 19, 1995)): Inspect within 
+500 flight cycles or 90
+
+[[Page 69752]]
+
+days after August 18, 1995, whichever occurs first.
+
+(j) Retained Repetitive Inspections: BS 727 Frame Chord Has Been 
+Replaced or Only Lower Outboard Chord Has Been Replaced
+
+    This paragraph restates the requirements of paragraph (d) of AD 
+95-12-17, Amendment 39-9268 (60 FR 36981, July 19, 1995), with 
+revised service information. For Model 737-100 and -200 series 
+airplanes having line numbers 1 through 999 inclusive, on which the 
+BS 727 frame outboard chord has not been replaced, or on which only 
+the lower outboard chord has been replaced as specified in Boeing 
+Service Bulletin 737-53-1088: Repeat the inspections required by 
+paragraph (i) of this AD at the time specified in paragraphs (j)(1), 
+(j)(2), (j)(3), and (j)(4) of this AD, as applicable, until the 
+optional terminating action described in paragraph (r) of this AD is 
+accomplished.
+    (1) If, at the time of the most recent inspection required by 
+paragraph (i) or (j) of this AD, the airplane has accumulated 27,000 
+or more total flight cycles, but fewer than 50,000 total flight 
+cycles: Perform the next inspection within 15,000 flight cycles. 
+Repeat the inspection thereafter at intervals not to exceed 15,000 
+flight cycles until the airplane has accumulated 50,000 or more 
+total flight cycles. Do the inspections required by paragraph (j)(2) 
+of this AD at the time specified.
+    (2) If, at the time of the most recent inspection required by 
+paragraph (i) or (j) of this AD, the airplane has accumulated 50,000 
+or more total flight cycles, but fewer than 60,000 total flight 
+cycles: Perform the next inspection within 7,500 flight cycles. 
+Repeat the inspection thereafter at intervals not to exceed 7,500 
+flight cycles until the airplane has accumulated 60,000 or more 
+total flight cycles. Do the inspections required by paragraph (j)(3) 
+of this AD at the time specified.
+    (3) If, at the time of the most recent inspection required by 
+paragraph (i) or (j) of this AD, the airplane has accumulated 60,000 
+or more total flight cycles, but fewer than 70,000 total flight 
+cycles: Perform the next inspection within 5,000 flight cycles. 
+Repeat the inspection thereafter at intervals not to exceed 5,000 
+flight cycles until the airplane has accumulated 70,000 or more 
+total flight cycles. Do the inspections required by paragraph (j)(4) 
+of this AD at the time specified.
+    (4) If, at the time of the most recent inspection required by 
+paragraph (i) or (j) of this AD, the airplane has accumulated 70,000 
+or more total flight cycles: Perform the next inspection within 
+3,000 flight cycles. Repeat the inspection thereafter at intervals 
+not to exceed 3,000 flight cycles.
+
+(k) Retained Repair, Replacement, and Additional Inspections
+
+    This paragraph restates the requirements of paragraph (f) of AD 
+95-12-17, Amendment 39-9268 (60 FR 36981, July 19, 1995), with 
+revised service information. If any crack is found in the outboard 
+chord of the frame at BS 727 during any inspection required by 
+paragraphs (g) through (j) of this AD, accomplish paragraph (k)(1) 
+or (k)(2) of this AD, as applicable, in accordance with Boeing Alert 
+Service Bulletin 737-53A1166, dated June 30, 1994; Boeing Service 
+Bulletin 737-53A1166, Revision 1, dated May 25, 1995; or Boeing 
+Alert Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006; 
+as applicable. As of the effective date of this AD, use only Boeing 
+Alert Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006, 
+to accomplish the actions required by this paragraph.
+
+    Note 1 to paragraph (k) of this AD:  Boeing Alert Service 
+Bulletin 737-53A1166, dated June 30, 1994; Boeing Service Bulletin 
+737-53A1166, Revision 1, dated May 25, 1995; and Boeing Alert 
+Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006; refer 
+to either Boeing Service Bulletin 737-53-1088, dated December 14, 
+1989; or Boeing Service Bulletin 737-53-1088, Revision 1, dated May 
+25, 2006; as an additional source of guidance for procedures to 
+replace the chord.
+
+    (1) For any crack that extends from the forward edge of the 
+chord or from the forward fastener hole, but that does not extend 
+past the second fastener hole, accomplish the actions specified in 
+either paragraph (k)(1)(i) or (k)(1)(ii) of this AD. Thereafter, 
+perform initial and repetitive inspections in accordance with 
+paragraphs (g) and (h) of this AD.
+    (i) Prior to further flight, install the time limited repair. 
+Within 4,500 flight cycles or within 18 months after accomplishing 
+the time-limited repair, whichever occurs first, replace the 
+outboard chord. Or
+    (ii) Prior to further flight, replace the outboard chord.
+    (2) For any crack that extends from the forward edge of the 
+chord, or from the forward fastener hole, and that extends past the 
+second fastener hole, prior to further flight, replace the outboard 
+chord. Thereafter, perform initial and repetitive inspections in 
+accordance with paragraphs (g) and (h) of this AD.
+
+(l) New Initial and Repetitive Inspections: BS 727 Auxiliary Chord
+
+    For airplanes identified in table 5 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1166, 
+Revision 2, dated May 25, 2006: Before the accumulation of 27,000 
+total flight cycles, or within 5,000 flight cycles after the 
+effective date of this AD, whichever occurs later, do internal 
+detailed and HFEC inspections to detect cracks in the auxiliary 
+chord radius of the frame at BS 727, in accordance with Part 1 of 
+the Accomplishment Instructions of Boeing Alert Service Bulletin 
+737-53A1166, Revision 2, dated May 25, 2006. Repeat the inspections 
+thereafter at intervals not to exceed 15,000 flight cycles until the 
+optional terminating action described in paragraph (r) of this AD is 
+accomplished. If any crack is found, before further flight, repair 
+in accordance with the requirements of paragraph (s) of this AD.
+
+(m) New Initial and Repetitive Inspections: BS 727 Frame Chord Has Not 
+Been Replaced and Has Not Been Modified
+
+    For airplanes identified in table 2 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1166, 
+Revision 2, dated May 25, 2006: Do the applicable inspections 
+required by paragraph (m)(1) or (m)(2) of this AD at the time 
+specified, in accordance with Part 1 of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 737-53A1166, Revision 
+2, dated May 25, 2006. Except as required by paragraph (p) of this 
+AD, if any crack is found during any inspection required by 
+paragraph (m)(1) or (m)(2) of this AD, before further flight, repair 
+in accordance with Part 3 or Part 4 of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 737-53A1166, Revision 
+2, dated May 25, 2006, as applicable. Repeat the inspections until 
+the optional terminating action described in paragraph (r) of this 
+AD is accomplished. Accomplishing the inspections in this paragraph 
+ends the inspections required by paragraphs (i) and (j) of this AD.
+    (1) For airplanes on which the inspections specified in Boeing 
+Alert Service Bulletin 737-53A1166, dated June 30, 1994; or Boeing 
+Service Bulletin 737-53A1166, Revision 1, dated May 25, 1995; have 
+not been performed as of the effective date of this AD: Do the 
+inspections required by paragraphs (m)(1)(i) and (m)(1)(ii) of this 
+AD at the time specified.
+    (i) Before the accumulation of 27,000 total flight cycles, or 
+within 5,000 flight cycles after the effective date of this AD, 
+whichever occurs later: Do ultrasonic and surface HFEC inspections 
+to detect cracks in the forward flange of the outboard chord of the 
+frame at BS 727. Repeat the inspections thereafter at intervals not 
+to exceed 5,000 flight cycles.
+    (ii) Before the accumulation of 27,000 total flight cycles, or 
+within 10,000 flight cycles after the effective date of this AD, 
+whichever occurs later: Do an open hole eddy current inspection to 
+detect cracks in the forward flange of the outboard chord of the 
+frame at BS 727. Repeat the inspection thereafter at intervals not 
+to exceed 15,000 flight cycles.
+    (2) For airplanes on which the inspections specified in Boeing 
+Alert Service Bulletin 737-53A1166, dated June 30, 1994; or Boeing 
+Service Bulletin 737-53A1166, Revision 1, dated May 25, 1995; have 
+been performed as of the effective date of this AD: Repeat the 
+applicable inspection specified in paragraphs (m)(1)(i) and 
+(m)(1)(ii) of this AD thereafter at intervals not to exceed 5,000 
+flight cycles for the ultrasonic and surface HFEC inspections, and 
+at intervals not to exceed 15,000 flight cycles for the open hole 
+eddy current inspection.
+
+(n) New Initial and Repetitive Inspections: BS 727 Frame Chord Has Been 
+Replaced and Has Not Been Modified
+
+    For airplanes identified in table 3 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1166, 
+Revision 2, dated May 25, 2006: Do the applicable inspections 
+required by paragraph (n)(1) or (n)(2) of this AD at the time 
+specified, in accordance with Part 1 of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 737-53A1166, Revision 
+2, dated May 25, 2006. Except as required by paragraph (p) of this 
+AD, if any crack is found during any inspection required by 
+paragraph (n)(1) or (n)(2) of this AD, before
+
+[[Page 69753]]
+
+further flight, repair in accordance with Part 3 or Part 4, as 
+applicable, of the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006. Repeat 
+the inspections until the optional terminating action described in 
+paragraph (r) of this AD is accomplished. Accomplishing the 
+inspections in this paragraph ends the inspections required by 
+paragraphs (g) and (h) of this AD. The detailed and eddy current 
+inspections of the outboard chord of S-18A specified in Boeing Alert 
+Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006, are 
+not required by this AD.
+    (1) For airplanes on which the inspections specified in Boeing 
+Alert Service Bulletin 737-53A1166, dated June 30, 1994; or Boeing 
+Service Bulletin 737-53A1166, Revision 1, dated May 25, 1995; have 
+not been done as of the effective date of this AD: Do the 
+inspections required by paragraphs (n)(1)(i) and (n)(1)(ii) of this 
+AD at the time specified.
+    (i) Within 27,000 flight cycles since replacement of the upper 
+outboard chord, or within 5,000 flight cycles after the effective 
+date of this AD, whichever occurs later: Do ultrasonic, low 
+frequency eddy current, and edge HFEC inspections to detect cracks 
+in the forward flange of the outboard chord of the frame at BS 727. 
+Repeat the inspections thereafter at intervals not to exceed 5,000 
+flight cycles.
+    (ii) Within 27,000 flight cycles since replacement of the upper 
+outboard chord, or within 10,000 flight cycles after the effective 
+date of this AD, whichever occurs later: Do an open hole eddy 
+current inspection to detect cracks in the forward flange of the 
+outboard chord of the frame at BS 727. Repeat the inspections 
+thereafter at intervals not to exceed 15,000 flight cycles.
+    (2) For airplanes on which the inspections specified in Boeing 
+Alert Service Bulletin 737-53A1166, dated June 30, 1994; or Boeing 
+Service Bulletin 737-53A1166, Revision 1, dated May 25, 1995; have 
+been done as of the effective date of this AD: Repeat the applicable 
+inspection specified in paragraphs (n)(1)(i) and (n)(1)(ii) of this 
+AD thereafter at intervals not to exceed 5,000 flight cycles for the 
+ultrasonic, low frequency eddy current, and edge HFEC inspections, 
+and at intervals not to exceed 15,000 flight cycles for the open 
+hole eddy current inspection.
+
+(o) New One-Time Inspection: BS 727 Frame Chord Has Been Modified
+
+    For airplanes identified in table 4 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1166, 
+Revision 2, dated May 25, 2006: Within 60,000 flight cycles after 
+accomplishing the modification of the outboard chord of the frame at 
+BS 727 at S-18A, but no earlier than 50,000 flight cycles after 
+accomplishing the modification; do a one-time follow-on open hole 
+eddy current inspection to detect cracks in the modified chord, in 
+accordance with Part 8 of the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006. 
+Except as required by paragraph (p) of this AD, if any crack is 
+found during the inspection required by this paragraph, before 
+further flight, repair in accordance with Part 3 or Part 4, as 
+applicable, of the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006.
+
+(p) New Repairs
+
+    If any crack is found during any inspection required by 
+paragraphs (m), (n), or (o) of this AD, and the repairs specified in 
+Part 3 and Part 4 of the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 737-53A1166, Revision 2, dated May 25, 2006, cannot 
+be installed using the procedures identified in this service 
+bulletin: Before further flight, repair using a method approved in 
+accordance with the procedures specified in paragraph (s) of this 
+AD.
+
+(q) New Replacement of Time-Limited Repair
+
+    For any airplane on which a time-limited repair is installed on 
+the outboard chord of the frame at body station BS 727 as specified 
+in Boeing Alert Service Bulletin 737-53A1166, dated June 30, 1994; 
+Boeing Service Bulletin 737-53A1166, Revision 1, dated May 25, 1995; 
+or Boeing Alert Service Bulletin 737-53A1166, Revision 2, dated May 
+25, 2006: Within 4,500 flight cycles after installation of the 
+repair, or within 6 months after the effective date of this AD, 
+whichever occurs later, replace the repair in accordance with Part 9 
+of the Accomplishment Instructions of Boeing Alert Service Bulletin 
+737-53A1166, Revision 2, dated May 25, 2006.
+
+(r) New Optional Terminating Action
+
+    Accomplishment of the applicable action specified in paragraph 
+(r)(1) or (r)(2) of this AD, in accordance with Part 2 of the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 737-
+53A1166, dated June 30, 1994; Part II of the Accomplishment 
+Instructions of Boeing Service Bulletin 737-53A1166, Revision 1, 
+dated May 25, 1995; or Part 6 of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 737-53A1166, Revision 2, dated May 25, 
+2006; constitutes terminating action for the inspections required by 
+paragraphs (g) through (o) this AD.
+    (1) Installation of the preventative modification.
+    (2) Replacement of the cracked chord and installation of the 
+preventative modification.
+
+(s) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in the Related Information 
+section of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#f8c1d5b9b6b5d5ab9d998c8c949dd5b9bbb7d5b9b5b7bbd5aa9d898d9d8b8c8bb89e9999d69f978e"><span class="__cf_email__" data-cfemail="5e67731f1013730d3b3f2a2a323b731f1d11731f13111d730c3b2f2b3b2d2a2d1e383f3f70393128">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) AMOCs approved previously in accordance with AD 95-12-17, 
+Amendment 39-9268 (60 FR 36981, July 19, 1995), are approved as 
+AMOCs for the corresponding provisions of this AD.
+    (5) For airplanes identified in Tables 2, 3, and 5 of paragraph 
+1.E., ``Compliance'' of Boeing Alert Service Bulletin 737-53A1166, 
+Revision 2, dated May 25, 2006: The Manager, Seattle ACO, approves 
+the inspection methods, thresholds, and repetitive intervals defined 
+in Appendix A, Table 1, of Boeing Alert Service Bulletin 737-
+53A1166, Revision 2, dated May 25, 2006, as an AMOC for the 
+inspections of the structurally significant items (SSIs) identified 
+in paragraphs (s)(5)(i) and (s)(5)(ii) of this AD. This approval 
+applies only to SSIs F-29A and F-29B of the applicable supplemental 
+structural inspection document (SSID) and only for the portions of 
+the BS 727 outer chord that have been inspected or that have been 
+repaired or modified in accordance with Boeing Alert Service 
+Bulletin 737-53A1166, Revision 2, dated May 25, 2006. All provisions 
+of ADs 2008-08-23, Amendment 39-15477 (73 FR 21237, April 21, 2008); 
+and 2008-09-13, Amendment 39-15494 (73 FR 24164, May 2, 2008); that 
+are not specifically referenced in this paragraph remain fully 
+applicable and must be done. If operators choose this AMOC, they 
+must revise their FAA-approved maintenance or inspection program to 
+incorporate the alternative inspections in this paragraph.
+    (i) Inspections of SSIs F-29A and F-29B required by paragraphs 
+(g) and (h) of AD 2008-08-23, Amendment 39-15477 (73 FR 21237, April 
+21, 2008), which applies to Model 737-200C series airplanes (Boeing 
+737-100/200/200C SSID D6-37089, Revision E, dated May 1, 2007).
+    (ii) Inspections of SSIs F-29A and F-29B required by paragraphs 
+(g) and (h) of AD 2008-09-13, Amendment 39-15494 (73 FR 24164, May 
+2, 2008), which applies to Model 737-300, -400, and -500 series 
+airplanes (Boeing 737-300/400/500 SSID D6-82669, dated May 1, 2007).
+
+(t) Related Information
+
+    For more information about this AD, contact Alan Pohl, Aerospace 
+Engineer, Airframe Branch, ANM-120S, FAA, Seattle ACO, 1601 Lind 
+Avenue SW., Renton, Washington 98057-3356; phone: (425) 917-6450; 
+fax: (425) 917-6590; email: <a href="/cdn-cgi/l/email-protection#a9c8c5c8c787d9c6c1c5e9cfc8c887cec6df"><span class="__cf_email__" data-cfemail="72131e131c5c021d1a1e321413135c151d04">[email&#160;protected]</span></a>.
+
+(u) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+
+[[Page 69754]]
+
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+December 26, 2012.
+    (i) Boeing Alert Service Bulletin 737-53A1166, Revision 2, dated 
+May 25, 2006.
+    (ii) Reserved.
+    (4) The following service information was approved for IBR on 
+August 18, 1995 (60 FR 36981, July 19, 1995).
+    (i) Boeing Alert Service Bulletin 737-53A1166, dated June 30, 
+1994, including Addendum, approved for IBR August 18, 1995 (60 FR 
+36981, July 19, 1995).
+    (ii) Boeing Service Bulletin 737-53A1166, Revision 1, dated May 
+25, 1995, including Addendum, approved for IBR August 18, 1995 (60 
+FR 36981, July 19, 1995).
+    (5) For Boeing service information identified in this AD, 
+contact Boeing Commercial Airplanes, Attention: Data & Services 
+Management, P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; 
+telephone 206-544-5000, extension 1; fax 206-766-5680; Internet 
+<a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (6) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, Washington. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on October 16, 2012.
+John P. Piccola,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-27636 Filed 11-20-12; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

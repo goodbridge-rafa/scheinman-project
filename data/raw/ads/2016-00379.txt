@@ -1,0 +1,728 @@
+<html>
+<head>
+<title>Federal Register, Volume 81 Issue 23 (Thursday, February 4, 2016)</title>
+</head>
+<body><pre>
+[Federal Register Volume 81, Number 23 (Thursday, February 4, 2016)]
+[Rules and Regulations]
+[Pages 5889-5893]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-00379]
+
+
+
+[[Page 5889]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-1417; Directorate Identifier 2013-NM-159-AD; 
+Amendment 39-18369; AD 2016-01-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2004-20-14, 
+for all Airbus Model A300 B4-2C, B4-103, and B4-203 airplanes; and all 
+Airbus Model A300 B4-600, B4-600R, and F4-600R series airplanes. AD 
+2004-20-14 required repetitive inspections to detect cracking of the 
+splice fitting at fuselage frame (FR) 47 between stringers 24 and 26 
+(left- and right-hand sides), and corrective actions if necessary. This 
+new AD reduces the inspection compliance time and repetitive inspection 
+intervals, and adds Airbus Model A300 C4-605R Variant F airplanes to 
+the applicability. This AD was prompted by a determination that the 
+inspection compliance time and repetitive inspection interval must be 
+reduced to allow timely detection of cracks in the splice fitting at 
+fuselage FR 47. We are issuing this AD to detect and correct cracking 
+of the splice fitting at fuselage FR 47; such cracking could result in 
+reduced structural integrity of the airplane.
+
+DATES: This AD becomes effective March 10, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of March 10, 
+2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of 
+November 17, 2004 (69 FR 60809, October 13, 2004).
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;D=FAA-2015-1417; or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this final rule, contact 
+Airbus SAS, Airworthiness Office--EAW, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 
+93 44 51; email <a href="/cdn-cgi/l/email-protection#85e4e6e6eaf0ebf1abe4ecf7f2eaf7f1eda8e0e4f6c5e4ecf7e7f0f6abe6eae8"><span class="__cf_email__" data-cfemail="c3a2a0a0acb6adb7eda2aab1b4acb1b7abeea6a2b083a2aab1a1b6b0eda0acae">[email&#160;protected]</span></a>; Internet <a href="http://www.airbus.com">http://www.airbus.com</a>. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+1417.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-2125; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2004-20-14, Amendment 39-13819 (69 FR 60809, 
+October 13, 2004), which superseded AD 2001-03-14, Amendment 39-12118 
+(66 FR 10957, February 21, 2001). AD 2004-20-14 applied to all Model 
+A300 B4-600, B4-600R, and F4-600R (collectively called Model A300-600) 
+series airplanes; and all Model A300 B4 series airplanes. The NPRM 
+published in the Federal Register on May 14, 2015 (80 FR 27607). The 
+NPRM was prompted by a determination that the inspection compliance 
+time and repetitive inspection interval must be reduced to allow timely 
+detection of cracks in the splice fitting at fuselage FR 47. The NPRM 
+proposed to continue to require repetitive inspections to detect 
+cracking of the splice fitting at fuselage FR 47 between stringers 24 
+and 26 (left- and right-hand sides), and corrective actions if 
+necessary. The NPRM also proposed to reduce the inspection compliance 
+time and repetitive inspection intervals, and add Model A300 C4-605R 
+Variant F airplanes to the applicability. We are issuing this AD to 
+detect and correct cracking of the splice fitting at fuselage FR 47; 
+such cracking could result in reduced structural integrity of the 
+airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2013-0184R1, dated August 22, 2013 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Model A300 B4-
+600, B4-600R, and F4-600R (collectively called Model A300-600) series 
+airplanes; all Model A300 B4 series airplanes; and all Model A300 C4-
+605R Variant F airplanes. The MCAI states:
+
+    In order to prevent crack development in the fastener holes at 
+Frame (FR) 47 splicing joint on A300 aeroplanes, Airbus developed 
+modification (Mod) 5890 for aeroplanes in production and issued 
+corresponding Service Bulletin (SB) A300-53-0199 for aeroplanes in 
+service.
+    Subsequently, cracks were found on FR47 splice fitting between 
+stringers (STRG) 24 and 26 on A300 aeroplanes previously modified by 
+SB A300-53-0199.
+    This condition, if not detected and corrected, could reduce the 
+structural integrity of the aeroplane.
+    To address this potential unsafe condition, DGAC [Direction 
+G[eacute]n[eacute]rale de l'Aviation Civile] France issued AD 2002-
+184 <a href="http://ad.easa.europa.eu/blob/2002184tb_superseded.pdf/AD_F-2002-184_2">http://ad.easa.europa.eu/blob/2002184tb_superseded.pdf/AD_F-2002-184_2</a> [which corresponds to FAA AD 2004-20-14, Amendment 39-
+13819 (69 FR 60809, October 13, 2004)], superseding [DGAC France] AD 
+85-152-069 and [DGAC France] AD 1999-515-298 [which corresponds to 
+FAA AD 2001-03-14, Amendment 39-12118 (66 FR 10957, February 21, 
+2001)], to require repetitive High Frequency Eddy Current (HFEC) 
+rotating probe inspections of the splice fitting between STRG 24 and 
+26 and, depending on findings, corrective action(s). DGAC France AD 
+2002-184(B) expanded the applicability to A300-600 aeroplanes, which 
+have the same design.
+    Since that [DGAC France] AD was issued, a fleet survey and 
+updated Fatigue and Damage Tolerance analyses have been performed in 
+order to substantiate the second A300-600 Extended Service Goal 
+(ESG2) exercise. The results of these analyses have determined that 
+the inspection threshold and intervals for A300-600 aeroplanes must 
+be reduced to allow timely detection of these cracks and the 
+accomplishment of an applicable corrective action.
+    For the reasons described above, [EASA] AD 2013-0184 retains the 
+requirements of DGAC France AD 2002-184, which is superseded, but 
+requires accomplishment of the actions for A300-600 aeroplanes 
+within the new thresholds and intervals introduced with Revision 05 
+of Airbus SB [service bulletin] A300-53-6123 [dated August 1, 2011].
+    This [EASA] AD was revised to correct the splices Part Numbers 
+(P/N) in Table 4 of Appendix 1 of this [EASA] AD. Also, reference is 
+now made to Airbus SB A300-53-6123 Revision 06 [dated September 28, 
+2011], which corrected this mistake compared to Revision 05.
+
+    You may examine the MCAI in the AD docket on the Internet at <a href="http://www.regulations.gov/#!documentDetail">http://www.regulations.gov/#!documentDetail</a>;D=FAA-2015-1417-0002.
+
+[[Page 5890]]
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (80 
+FR 27607, May 14, 2015) and the FAA's response to each comment.
+
+Request To Revise Compliance Times To Match Service Information
+
+    United Parcel Service (UPS) and FedEx Express requested that we 
+revise the compliance times in paragraph (k) of the proposed AD (80 FR 
+27607, May 14, 2015) to match the compliance times in Airbus Service 
+Bulletin A300-53-6123, Revision 06, dated September 28, 2011, and EASA 
+AD 2013-0184R1, dated August 22, 2013.
+    We agree with the commenters' requests to revise the compliance 
+times in paragraph (k) of this AD to reflect the compliance times in 
+EASA AD 2013-0184R1, dated August 22, 2013. We have revised paragraph 
+(k) of this AD accordingly. The changes extend the inspection interval 
+and do not add an additional burden on operators.
+
+Request To Retain Inspection Intervals in AD 2004-20-14, Amendment 39-
+13819 (69 FR 60809, October 13, 2004)
+
+    UPS requested that we revise paragraph (k) of the proposed AD (80 
+FR 27607, May 14, 2015) to retain the inspection intervals in AD 2004-
+20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004), until the 
+airplanes have reached their design service goal (DSG). UPS stated that 
+acceleration of the inspection interval on airplanes that have less 
+than 33 percent of the original DSG does not enhance safety. UPS 
+explained that the proposed inspection interval reduction introduces 
+additional opportunities for fastener hole damage due to the inspection 
+process, thus increasing the risk for subsequent fatigue damage.
+    We disagree with the commenter's request. Since AD 2004-20-14, 
+Amendment 39-13819 (69 FR 60809, October 13, 2004), was issued, Airbus 
+conducted a fleet survey and an analysis to extend the DSG. In 
+consideration of this information, we determined that the inspection 
+interval and thresholds needed to be reduced to support timely 
+detection of cracks. The Airbus analysis for the extension of the DSG 
+and other data was used to determine the compliance thresholds and 
+intervals for this AD. We have not changed this AD in this regard.
+
+Request To Revise Repetitive Inspection Interval
+
+    FedEx Express requested that we revise the flight-cycle compliance 
+time in paragraph (k)(1) of the proposed AD (80 FR 27607, May 14, 2015) 
+from 2,000 flight cycles to 2,200 flight cycles so that the inspections 
+can consistently be performed at the same interval as a C-check. FedEx 
+Express stated that it considers the 2,200-flight-cycle interval to be 
+conservative. FedEx Express submitted service experience from the 
+previous inspections showing relatively few findings.
+    We do not agree with the commenter's request. The inspections are 
+dependent upon various configurations and average flight times (AFTs). 
+The commenter did not identify the applicable configuration for the 
+requested 2,200-flight-cycle interval. Operators may request approval 
+of a different interval under the provisions of paragraph (o)(1) of 
+this AD if sufficient specific information is submitted to substantiate 
+that the compliance time will provide an acceptable level of safety. We 
+have not changed this AD in this regard.
+
+Request To Remove Average Flight Time Classifications
+
+    UPS request that we revise the compliance times to remove the AFT 
+classifications. UPS stated that it considers that the inspection 
+interval difference with regard to the AFT adds a level of compliance 
+complication that does not enhance fleet safety.
+    We disagree with the commenter's request. The compliance time 
+thresholds and intervals using AFTs were developed by Airbus using 
+fleet experience and analysis. Once we issue this AD, the commenter may 
+request approval of a different interval under the provisions of 
+paragraph (o)(1) of this AD. Sufficient data must be submitted to 
+substantiate that the compliance time will provide an acceptable level 
+of safety. We have not changed this AD in this regard.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (80 FR 27607, May 14, 2015) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (80 FR 27607, May 14, 2015).
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information:
+    <bullet> Airbus Service Bulletin A300-53-0350, Revision 03, 
+including Appendix 03, dated July 26, 2007. This service bulletin 
+describes procedures for inspections to detect cracking of the splice 
+fitting at fuselage FR 47 between stringers 24 and 26, and corrective 
+actions.
+    <bullet> Airbus Service Bulletin A300-53-6123, Revision 06, dated 
+September 28, 2011. This service bulletin describes procedures for 
+inspections for cracking of the splice fitting at fuselage FR 47 
+between stringers 24 and 26, and corrective actions.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 72 airplanes of U.S. registry.
+    We also estimate that it will take up to 14 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $85,680, or $1,190 per product.
+    In addition, we estimate that any necessary follow-on actions will 
+take up to 204 work-hours and require parts costing up to $37,000, for 
+a cost of up to $54,340 per product. We have no way of determining the 
+number of aircraft that might need these actions.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+[[Page 5891]]
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;D=FAA-2015-1417; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2004-20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004), and 
+adding the following new AD:
+
+2016-01-10 Airbus: Amendment 39-18369; Docket No. FAA-2015-1417; 
+Directorate Identifier 2013-NM-159-AD.
+
+(a) Effective Date
+
+    This AD becomes effective March 10, 2016.
+
+(b) Affected ADs
+
+    This AD replaces AD 2004-20-14, Amendment 39-13819 (69 FR 60809, 
+October 13, 2004).
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes identified in paragraphs 
+(c)(1) through (c)(5) of this AD, certificated in any category, all 
+manufacturer serial numbers.
+    (1) Airbus Model A300 B4-2C, B4-103, and B4-203 airplanes.
+    (2) Airbus Model A300 B4-601, B4-603, B4-620, and B4-622 
+airplanes.
+    (3) Airbus Model A300 B4-605R and B4-622R airplanes.
+    (4) Airbus Model A300 F4-605R and F4-622R airplanes.
+    (5) Airbus Model A300 C4-605R Variant F airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a determination that the inspection 
+compliance time and repetitive inspection interval specified in AD 
+2004-20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004), must 
+be reduced to allow timely detection of cracks in the splice fitting 
+at fuselage frame (FR) 47. We are issuing this AD to detect and 
+correct cracking of the splice fitting at fuselage FR 47; such 
+cracking could result in reduced structural integrity of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Repetitive Inspections for Airplanes Defined in Airbus 
+Service Bulletin A300-53-0350, Revision 02, Dated November 12, 2002, 
+With New Service Information
+
+    This paragraph restates the requirements of paragraph (a) of AD 
+2004-20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004), with 
+new service information. For airplanes defined in Airbus Service 
+Bulletin A300-53-0350, Revision 02, dated November 12, 2002: Do a 
+high frequency eddy current (HFEC) inspection to detect cracking of 
+the splice fitting at fuselage FR 47 between stringers 24 and 26 
+(left- and right-hand sides), at the applicable times specified in 
+paragraph (g)(1) or (g)(2) of this AD. Repeat the inspection 
+thereafter at the earlier of the flight-cycle/flight-hour intervals 
+specified in the applicable column in Table 2 of Figure 1 and Sheet 
+1 of the Accomplishment Instructions of Airbus Service Bulletin 
+A300-53-0350, Revision 02, excluding Appendix 01, dated November 12, 
+2002. Do the inspections in accordance with Airbus Service Bulletin 
+A300-53-0350, Revision 02, excluding Appendix 01, dated November 12, 
+2002; or Revision 03, excluding Appendix 01, dated July 26, 2007. As 
+of the effective date of this AD, use only Airbus Service Bulletin 
+A300-53-0350, Revision 03, excluding Appendix 01, dated July 26, 
+2007.
+    (1) For airplanes that have accumulated 20,000 or more total 
+flight cycles as of November 17, 2004 (the effective date of AD 
+2004-20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004)): Do 
+the initial inspection at the later of the times specified in 
+paragraphs (g)(1)(i) and (g)(1)(ii) of this AD.
+    (i) At the earlier of the flight-cycle/flight-hour intervals 
+after November 17, 2004 (the effective date of AD 2004-20-14, 
+Amendment 39-13819 (69 FR 60809, October 13, 2004)), as specified in 
+the applicable column in Table 1 of Figure 1 and Sheet 1 of the 
+Accomplishment Instructions of Airbus Service Bulletin A300-53-0350, 
+Revision 02, excluding Appendix 01, dated November 12, 2002.
+    (ii) Within 750 flight cycles or 1,500 flight hours after 
+November 17, 2004 (the effective date of AD 2004-20-14, Amendment 
+39-13819 (69 FR 60809, October 13, 2004)), whichever is first.
+    (2) For airplanes that have accumulated fewer than 20,000 total 
+flight cycles as of November 17, 2004 (the effective date of AD 
+2004-20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004)): Do 
+the initial inspection at the later of the times specified in 
+paragraphs (g)(2)(i) and (g)(2)(ii) of this AD.
+    (i) At the earlier of the flight-cycle/flight-hour intervals 
+after November 17, 2004 (the effective date of AD 2004-20-14, 
+Amendment 39-13819 (69 FR 60809, October 13, 2004)), as specified in 
+the applicable column in Table 1 of Figure 1 and Sheet 1 of the 
+Accomplishment Instructions of Airbus Service Bulletin A300-53-0350, 
+Revision 02, excluding Appendix 01, dated November 12, 2002.
+    (ii) Within 1,800 flight cycles or 3,000 flight hours after 
+November 17, 2004 (the effective date of AD 2004-20-14, Amendment 
+39-13819 (69 FR 60809, October 13, 2004)), whichever is first.
+
+(h) Retained Repetitive Inspections for Airplanes Defined in Airbus 
+Service Bulletin A300-53-6123, Revision 02, Dated November 12, 2002, 
+With New Service Information
+
+    This paragraph restates the requirements of paragraph (b) of AD 
+2004-20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004), with 
+new service information. For airplanes defined in Airbus Service 
+Bulletin A300-53-6123, Revision 02, dated November 12, 2002: Do the 
+HFEC inspection required by paragraph (g) of this AD at the 
+applicable times specified in paragraph (h)(1) or (h)(2) of this AD. 
+Repeat the inspection thereafter at the earlier of the flight-cycle/
+flight-hour intervals specified in the applicable column in Table 2 
+of Figure 1 and Sheet 1 of the Accomplishment Instructions of Airbus 
+Service Bulletin A300-53-6123, Revision 02, excluding Appendix 01, 
+dated November 12, 2002. Do the inspections in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A300-53-6123, 
+Revision 02, excluding Appendix 01, dated November 12, 2002; or 
+Revision 06, dated September 28, 2011. Accomplishment of the actions
+
+[[Page 5892]]
+
+required by paragraph (j) of this AD terminates the requirements of 
+this paragraph.
+    (1) For airplanes that have accumulated 10,000 or more total 
+flight cycles as of November 17, 2004 (the effective date of AD 
+2004-20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004)): Do 
+the initial inspection within 750 flight cycles or 1,900 flight 
+hours after November 17, 2004, whichever is first.
+    (2) For airplanes that have accumulated fewer than 10,000 total 
+flight cycles as of November 17, 2004 (the effective date of AD 
+2004-20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004)): Do 
+the initial inspection at the later of the times specified in 
+paragraphs (h)(2)(i) and (h)(2)(ii) of this AD.
+    (i) At the earlier of the flight-cycle/flight-hour intervals 
+after November 17, 2004 (the effective date of AD 2004-2-14, 
+Amendment 39-13819 (69 FR 60809, October 13, 2004)), as specified in 
+the applicable column in Table 1 of Figure 1 and Sheet 1 of the 
+Accomplishment Instructions of Airbus Service Bulletin A300-53-6123, 
+Revision 02, excluding Appendix 01, dated November 12, 2002.
+    (ii) Within 1,500 flight cycles or 3,800 flight hours after 
+November 17, 2004 (the effective date of AD 2004-20-14, Amendment 
+39-13819 (69 FR 60809, October 13, 2004)), whichever is first.
+
+(i) Retained Repair, With Revised Repair Instructions
+
+    This paragraph restates the requirements of paragraph (c) of AD 
+2004-20-14, Amendment 39-13819 (69 FR 60809, October 13, 2004), with 
+revised repair instructions. Repair any cracking found during any 
+inspection required by paragraphs (g) and (h) this AD before further 
+flight, in accordance with Airbus Service Bulletin A300-53-0350, 
+Revision 02, excluding Appendix 01, dated November 12, 2002; or 
+Airbus Service Bulletin A300-53-6123, Revision 02, excluding 
+Appendix 01, dated November 12, 2002; as applicable. Where Airbus 
+Service Bulletin A300-53-0350, Revision 02, excluding Appendix 01, 
+dated November 12, 2002; or Airbus Service Bulletin A300-53-6123, 
+Revision 02, excluding Appendix 01, dated November 12, 2002; 
+specifies to contact Airbus in case of certain crack findings, this 
+AD requires that a repair be accomplished before further flight 
+using a method approved by the Manager, International Branch, ANM-
+116, FAA, Transport Airplane Directorate; or the Direction 
+G[eacute]n[eacute]rale de l'Aviation Civile (DGAC) (or its delegated 
+agent); or the European Aviation Safety Agency (EASA); or Airbus's 
+EASA Design Organization Approval (DOA).
+
+(j) New Requirement of this AD: Repetitive Inspections
+
+    For airplanes identified in paragraphs (c)(2) through (c)(5) of 
+this AD: At the applicable time specified in paragraph (j)(1) or 
+(j)(2) of this AD, remove the fasteners and accomplish an HFEC 
+rotating probe inspection for cracking of the splice fitting between 
+stringer 24 and 26, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A300-53-6123, Revision 06, 
+dated September 28, 2011. Repeat the inspection thereafter at the 
+applicable intervals specified in paragraphs (k)(1) through (k)(4) 
+of this AD. If no cracking is found: Before further flight after 
+each inspection, install new fasteners, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A300-53-6123, 
+Revision 06, dated September 28, 2011. Accomplishment of the initial 
+inspection required by this paragraph terminates the requirements of 
+paragraph (h) of this AD for that airplane.
+    (1) For airplanes on which Airbus Modification 5890 or the 
+actions specified in Airbus Service Bulletin A300-53-6131 have not 
+been done: At the applicable time specified in paragraphs (j)(1)(i) 
+and (j)(1)(ii) of this AD.
+    (i) For airplanes that have an average flight time (AFT) that is 
+more than 1.5 hours: At the later of the times specified in 
+paragraphs (j)(1)(i)(A) and (j)(1)(i)(B) of this AD.
+    (A) Before the accumulation of 2,500 total flight cycles or 
+5,500 total flight hours, whichever occurs first.
+    (B) Within 800 flight cycles or 1,750 flight hours, whichever 
+occurs first after the effective date of this AD.
+    (ii) For airplanes that have an AFT that is equal to or less 
+than 1.5 hours: At the later of the times specified in paragraphs 
+(j)(1)(ii)(A) and (j)(1)(ii)(B) of this AD.
+    (A) Before the accumulation of 2,700 total flight cycles or 
+4,100 total flight hours, whichever occurs first.
+    (B) Within 800 flight cycles or 1,750 flight hours, whichever 
+occurs first after the effective date of this AD.
+    (2) For airplanes that have accomplished Airbus Modification 
+5890 or have accomplished the actions specified in Airbus Service 
+Bulletin A300-53-6131: At the applicable time specified in paragraph 
+(j)(2)(i) or (j)(2)(ii) of this AD.
+    (i) For airplanes that have an AFT that is more than 1.5 hours: 
+At the later of the times specified in paragraphs (j)(2)(i)(A) and 
+(j)(2)(i)(B) of this AD.
+    (A) Before the accumulation of 6,800 total flight cycles or 
+14,700 total flight hours, whichever occurs first.
+    (B) Within 800 flight cycles or 1,750 flight hours, whichever 
+occurs first after the effective date of this AD.
+    (ii) For airplanes that have an AFT that is equal to or less 
+than 1.5 hours: At the later of the times specified in paragraphs 
+(j)(2)(ii)(A) and (j)(2)(ii)(B) of this AD.
+    (A) Before the accumulation of 7,300 total flight cycles or 
+11,000 total flight hours, whichever occurs first.
+    (B) Within 800 flight cycles or 1,750 flight hours, whichever 
+occurs first after the effective date of this AD.
+
+(k) New Requirement of This AD: Repetitive Inspection Intervals for 
+Actions Specified in Paragraph (j) of This AD
+
+    For airplanes identified in paragraphs (c)(2) through (c)(5) of 
+this AD: Repeat the inspection required by paragraph (j) of this AD 
+at the applicable time specified in paragraphs (k)(1) through (k)(4) 
+of this AD.
+    (1) For airplanes that have an AFT of more than 1.5 hours and 
+meet the applicable conditions specified in paragraphs (k)(1)(i) 
+through (k)(1)(iv) of this AD: Inspect at intervals not to exceed 
+2,000 flight cycles or 4,300 flight hours, whichever occurs first.
+    (i) Airplanes on which Airbus Modification 5890 has not been 
+accomplished.
+    (ii) Airplanes on which the actions specified in Airbus Service 
+Bulletin A300-53-6131 have not been accomplished.
+    (iii) Airplanes on which Airbus Modification 5890 has been 
+accomplished and have splice part number (P/N) A53834139-202/-203 
+installed.
+    (iv) Airplanes on which the actions specified in Airbus Service 
+Bulletin A300-53-6131 have been accomplished and have splice P/N 
+A53834139-202/-203 installed.
+    (2) For airplanes that have an AFT that is equal to or less than 
+1.5 hours and meet the applicable conditions specified in paragraphs 
+(k)(2)(i) through (k)(2)(iv) of this AD: Inspect at intervals not to 
+exceed 2,100 flight cycles or 3,200 flight hours.
+    (i) Airplanes on which Airbus Modification 5890 has not been 
+accomplished.
+    (ii) Airplanes on which the actions specified in Airbus Service 
+Bulletin A300-53-6131 have not been accomplished.
+    (iii) Airplanes on which Airbus Modification 5890 has been 
+accomplished and have splice P/N A53834139-202/-203 installed.
+    (iv) Airplanes on which the actions described in Airbus Service 
+Bulletin A300-53-6131 have been accomplished and have splice P/N 
+A53834139-202/-203 installed.
+    (3) For airplanes that have an AFT of more than 1.5 hours and 
+meet the applicable conditions specified in paragraphs (k)(3)(i) and 
+(k)(3)(ii) of this AD: Inspect at intervals not to exceed 1,600 
+flight cycles or 3,500 flight hours.
+    (i) Airplanes on which Airbus Modification 5890 has been 
+accomplished and have splice P/N A53812635-200/-201/-202/-203 
+installed.
+    (ii) Airplanes on which the actions specified in Airbus Service 
+Bulletin A300-53-6131 have been accomplished and have splice P/N 
+A53812635-200-201/-202/-203 installed.
+    (4) For the airplanes that have an AFT that is equal to or less 
+than 1.5 hours and meet the applicable conditions specified in 
+paragraphs (k)(4)(i) and (k)(4)(ii) of this AD: Inspect at intervals 
+not to exceed 1,700 flight cycles or 2,600 flight hours.
+    (i) Airplanes on which Airbus Modification 5890 has been 
+accomplished and have splice P/N A53812635-200/-201/-202/-203 
+installed.
+    (ii) Airplanes on which the actions specified in Airbus Service 
+Bulletin A300-53-6131 have been accomplished and have splice P/N 
+A53812635-200/-201/-202/-203 installed.
+
+(l) New Requirement of This AD: Corrective Actions
+
+    If, during any inspection required by paragraph (j) or (k) of 
+this AD, any crack is found: Before further flight, do the 
+applicable corrective actions, in accordance with the Accomplishment 
+Instructions of Airbus
+
+[[Page 5893]]
+
+Service Bulletin A300-53-6123, Revision 06, dated September 28, 
+2011, except as provided by paragraph (m) of this AD.
+
+(m) New Requirement of This AD: Exception to Service Information
+
+    If any crack is found during any inspection required by 
+paragraph (j) or (k) of this AD and Airbus Service Bulletin A300-53-
+6123, Revision 06, dated September 28, 2011; or Airbus Service 
+Bulletin A300-53-0350, Revision 03, dated July 26, 2007; specifies 
+to contact Airbus: Before further flight, repair the crack using a 
+method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or the EASA; or Airbus's EASA 
+DOA.
+
+(n) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (j) and (l) of this AD, if those actions were performed 
+before the effective date of this AD using the applicable service 
+information specified in paragraphs (n)(1) through (n)(6) of this 
+AD.
+    (1) Airbus Service Bulletin A300-53-0350, Revision 01, dated 
+December 18, 2001, which is not incorporated by reference in this 
+AD.
+    (2) Airbus Service Bulletin A300-53-0350, Revision 02, excluding 
+Appendix 01, dated November 12, 2002, which was incorporated by 
+reference in AD 2004-20-14, Amendment 39-13819 (69 FR 60809, October 
+13, 2004).
+    (3) Airbus Service Bulletin A300-53-6123, Revision 01, dated 
+December 18, 2001, which is not incorporated by reference in this 
+AD.
+    (4) Airbus Service Bulletin A300-53-6123, Revision 03, dated 
+August 20, 2004, which is not incorporated by reference in this AD.
+    (5) Airbus Service Bulletin A300-53-6123, Revision 04, dated 
+April 25, 2008, which is not incorporated by reference in this AD.
+    (6) Airbus Service Bulletin A300-53-6123, Revision 05, dated 
+August 1, 2011, which is not incorporated by reference in this AD.
+
+(o) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Dan Rodina, 
+Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-2125; fax 425-227-1149. Information may be 
+emailed to: <a href="/cdn-cgi/l/email-protection#efd6c2aea1a2c2deded9c2aea2a0acc2bdaabebaaabcbbbcaf898e8ec1888099"><span class="__cf_email__" data-cfemail="4c75610d0201617d7d7a610d01030f611e091d19091f181f0c2a2d2d622b233a">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or the EASA; or Airbus's EASA DOA. If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+
+(p) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) Airworthiness Directive 2013-0184R1, dated August 22, 2013, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and 
+locating Docket No. FAA-2015-1417.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (q)(5) and (q)(6) of this AD.
+
+(q) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+March 10, 2016.
+    (i) Airbus Service Bulletin A300-53-0350, Revision 03, dated 
+July 26, 2007.
+    (ii) Airbus Service Bulletin A300-53-6123, Revision 06, dated 
+September 28, 2011.
+    (4) The following service information was approved for IBR on 
+November 17, 2004 (69 FR 60809, October 13, 2004).
+    (i) Airbus Service Bulletin A300-53-6123, Revision 02, excluding 
+Appendix 01, dated November 12, 2002.
+    (ii) Reserved.
+    (5) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAW, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 44 51; email <a href="/cdn-cgi/l/email-protection#5e3f3d3d312b302a703f372c29312c2a36733b3f2d1e3f372c3c2b2d703d3133"><span class="__cf_email__" data-cfemail="553436363a203b217b343c27223a27213d7830342615343c273720267b363a38">[email&#160;protected]</span></a>; 
+Internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on December 31, 2015.
+Phil Forde,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-00379 Filed 2-3-16; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

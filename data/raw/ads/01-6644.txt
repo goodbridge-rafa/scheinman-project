@@ -1,0 +1,494 @@
+<html>
+<head>
+<title>Federal Register, Volume 66 Issue 57 (Friday, March 23, 2001)</title>
+</head>
+<body><pre>
+[Federal Register Volume 66, Number 57 (Friday, March 23, 2001)]
+[Rules and Regulations]
+[Pages 16111-16114]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 01-6644]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-NM-119-AD; Amendment 39-12150; AD 2001-06-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A330-301, -321, -322 
+Series Airplanes; and Model A340 Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to all Airbus Model A330-301, -321, and -322 series 
+airplanes, and all Model A340 series airplanes. This action requires 
+replacing, with oversize fasteners, the interference fit fasteners 
+between ribs 2 and 7 and between ribs 9 and 11; and reinforcing the 
+cover plate of the torsion box of the aft passenger/crew doors. This 
+action is necessary to prevent propagation of fatigue cracking of the 
+top wing skin and the torsion box of the aft passenger/crew doors, 
+which could lead to reduced structural capability of the airplane. This 
+action is intended to address the identified unsafe condition.
+
+DATES: Effective April 9, 2001.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of April 9, 2001.
+    Comments for inclusion in the Rules Docket must be received on or 
+before April 23, 2001.
+
+ADDRESSES: Submit comments in triplicate to the Federal Aviation 
+Administration (FAA), Transport Airplane Directorate, ANM-114, 
+Attention: Rules Docket No. 2000-NM-119-AD, 1601 Lind Avenue, SW., 
+Renton, Washington 98055-4056. Comments may be inspected at this 
+location between 9:00 a.m. and 3:00 p.m., Monday through Friday, except 
+Federal holidays. Comments may be submitted via fax to (425) 227-1232. 
+Comments may also be sent via the Internet using the following address: 
+<a href="/cdn-cgi/l/email-protection#122b3f737c7f3f7b7360717d7f7f777c66527473733c757d64"><span class="__cf_email__" data-cfemail="e7deca86898aca8e869584888a8a828993a7818686c9808891">[email&#160;protected]</span></a>. Comments sent via fax or the Internet must 
+contain ``Docket No. 2000-NM-119-AD'' in the subject line and need not 
+be submitted in triplicate. Comments sent via the Internet as attached 
+electronic files must be formatted in Microsoft Word 97 for Windows or 
+ASCII text.
+    The service information referenced in this AD may be obtained from 
+Airbus Industrie, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, 
+France. This information may be examined at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+Office of the Federal Register, 800 North Capitol Street, NW., suite 
+700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2125; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: The Direction Generale de l'Aviation Civile 
+(DGAC), which is the airworthiness authority for France, notified the 
+FAA that an unsafe condition may exist on all Airbus Model A330 and 
+A340 series airplanes. The DGAC advises that fatigue tests on the test 
+wing revealed cracks propagating from fastener holes in the top wing 
+skin and the rear spar flange between wing ribs 2 and 11. Cracks were 
+also found at the cover plate of the torsion box of the aft passenger/
+crew door at frame (FR) 73A and FR75A. These conditions, if not 
+corrected, could result in reduced structural capability of the 
+airplane.
+
+Explanation of Relevant Service Information
+
+    Airbus has issued the following service bulletins:
+
+------------------------------------------------------------------------
+         Model             Service bulletin             Actions
+------------------------------------------------------------------------
+A330..................  A330-57-3054,          Removal of the
+                         Revision 02, dated     interference fit
+                         November 22, 1999.     fasteners in the top
+                                                skin panel and rear spar
+                                                flange between rib 9 and
+                                                rib 11.
+                                               High frequency eddy
+                                                current (HFEC) rototest
+                                                inspection around the
+                                                fastener holes to detect
+                                                cracking.
+A340..................  A340-57-4061,          Drilling, reaming, and
+                         Revision 02, dated     cold expanding the
+                         November 23, 1999.     holes.
+                                               Installing oversize
+                                                interference fit
+                                                fasteners.
+A330..................  A330-57-3053,          Removal of the
+                         Revision 01, dated     interference fit
+                         June 15, 1999.         fasteners in the top
+                                                skin panel and rear spar
+                                                flange between rib 2 and
+                                                rib 7.
+                                               HFEC rototest inspection
+                                                around the fastener
+                                                holes to detect
+                                                cracking.
+A340..................  A340-57-4060,          Drilling, reaming, and
+                         Revision 01, dated     cold expanding the
+                         November 8, 1999.      holes.
+                                               Installing new
+                                                interference bolts.
+A330..................  A330-53-3054,          Reinforcement of the
+                         Revision 01, dated     cover plate of the
+                         May 17, 1999.          torsion box of the left
+                                                and right aft passenger/
+                                                crew doors, including
+                                                installing gusset
+                                                plates, cold expanding
+                                                specified drain holes,
+                                                drilling and reaming
+                                                fastener holes, and
+                                                installing oversize
+                                                fasteners.
+A340..................  A340-53-4072, dated
+                         June 29, 1998.
+------------------------------------------------------------------------
+
+    Accomplishment of the actions specified in the service bulletins is 
+intended to adequately address the identified unsafe condition. The 
+DGAC classified these service bulletins as mandatory and issued the 
+following French airworthiness directives to ensure the continued 
+airworthiness of these airplanes in France:
+
+------------------------------------------------------------------------
+       Airworthiness directive                        Date
+------------------------------------------------------------------------
+2000-124-113(B)......................  March 8, 2000.
+2000-123-138(B)......................  March 8, 2000.
+2000-122-112(B)......................  March 8, 2000.
+2000-121-137(B) R1...................  October 4, 2000.
+
+[[Page 16112]]
+
+ 
+2000-135-117(B)......................  March 22, 2000.
+2000-136-142(B)......................  March 22, 2000.
+------------------------------------------------------------------------
+
+FAA's Conclusions
+
+    These airplane models are manufactured in France and are type 
+certificated for operation in the United States under the provisions of 
+Sec. 21.29 of the Federal Aviation Regulations (14 CFR 21.19) and the 
+applicable bilateral airworthiness agreement. Pursuant to this 
+bilateral airworthiness agreement, the DGAC has kept the FAA informed 
+of the situation described above. The FAA has examined the findings of 
+the DGAC, reviewed all available information, and determined that AD 
+action is necessary for products of this type design that are 
+certificated for operation in the United States.
+
+Explanation of Requirements of the Rule
+
+    Since an unsafe condition has been identified that is likely to 
+exist or develop on other airplanes of the same type design registered 
+in the United States, this AD is being issued to prevent propagation of 
+fatigue cracking of the top wing skin and the torsion box of the aft 
+passenger/crew doors, which could lead to reduced structural capability 
+of the airplane. This AD requires replacing, with oversize fasteners, 
+the interference fit fasteners between ribs 2 and 7 and between ribs 9 
+and 11; and reinforcing the cover plate of the torsion box of the aft 
+passenger/crew doors. The actions are required to be accomplished in 
+accordance with the service bulletins described previously, except as 
+discussed below.
+
+Differences Between This AD and Relevant Service Information
+
+    Operators should note that, although the service bulletins specify 
+that the manufacturer may be contacted for disposition of certain 
+repair conditions, this AD requires the repair of those conditions to 
+be accomplished in accordance with a method approved by either the FAA, 
+or the DGAC (or its delegated agent). In light of the type of repair 
+that would be required to address the identified unsafe condition, and 
+in consonance with existing bilateral airworthiness agreements, the FAA 
+has determined that, for this AD, a repair approved by either the FAA 
+or the DGAC would be acceptable for compliance with this AD.
+
+Cost Impact
+
+    None of the airplanes affected by this action are on the U.S. 
+Register. All airplanes included in the applicability of this rule 
+currently are operated by non-U.S. operators under foreign registry; 
+therefore, they are not directly affected by this AD action. However, 
+the FAA considers that this rule is necessary to ensure that the unsafe 
+condition is addressed in the event that any of these subject airplanes 
+are imported and placed on the U.S. Register in the future.
+    Should an affected airplane be imported and placed on the U.S. 
+Register in the future, the following cost estimates to comply with the 
+requirements of this AD would apply:
+
+----------------------------------------------------------------------------------------------------------------
+                                                                                                         Per-
+   Action (specified per Airbus service               Work hours             Average     Parts cost    airplane
+                 bulletin)                                                  labor rate                   cost
+----------------------------------------------------------------------------------------------------------------
+A330-57-3054 or A340-57-4061..............  32...........................          $60       $2,080       $4,000
+A330-57-3053..............................  72...........................           60       21,540       25,860
+A340-57-4060..............................  72...........................           60        8,940       13,260
+A330-53-3054 or A340-53-4072..............  12 or 20 (depending on kit)..           60       55-488    775-1,688
+----------------------------------------------------------------------------------------------------------------
+
+Determination of Rule's Effective Date
+
+    Since this AD action does not affect any airplane that is currently 
+on the U.S. register, it has no adverse economic impact and imposes no 
+additional burden on any person. Therefore, prior notice and public 
+procedures hereon are unnecessary and the amendment may be made 
+effective in less than 30 days after publication in the Federal 
+Register.
+
+Comments Invited
+
+    Although this action is in the form of a final rule and was not 
+preceded by notice and opportunity for public comment, comments are 
+invited on this rule. Interested persons are invited to comment on this 
+rule by submitting such written data, views, or arguments as they may 
+desire. Communications shall identify the Rules Docket number and be 
+submitted in triplicate to the address specified under the caption 
+ADDRESSES. All communications received on or before the closing date 
+for comments will be considered, and this rule may be amended in light 
+of the comments received. Factual information that supports the 
+commenter's ideas and suggestions is extremely helpful in evaluating 
+the effectiveness of the AD action and determining whether additional 
+rulemaking action would be needed.
+    Submit comments using the following format:
+    <bullet> Organize comments issue-by-issue. For example, discuss a 
+request to change the compliance time and a request to change the 
+service bulletin reference as two separate issues.
+    <bullet> For each issue, state what specific change to the AD is 
+being requested.
+    <bullet> Include justification (e.g., reasons or data) for each 
+request.
+    Comments are specifically invited on the overall regulatory, 
+economic, environmental, and energy aspects of the rule that might 
+suggest a need to modify the rule. All comments submitted will be 
+available, both before and after the closing date for comments, in the 
+Rules Docket for examination by interested persons. A report that 
+summarizes each FAA-public contact concerned with the substance of this 
+AD will be filed in the Rules Docket.
+    Commenters wishing the FAA to acknowledge receipt of their comments 
+submitted in response to this rule must submit a self-addressed, 
+stamped postcard on which the following statement is made: ``Comments 
+to Docket 2000-NM-119-AD.'' The postcard will be date-stamped and 
+returned to the commenter.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy
+
+[[Page 16113]]
+
+of it may be obtained from the Rules Docket at the location provided 
+under the caption ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2001-06-03  Airbus Industrie: Amendment 39-12150. Docket 2000-NM-
+119-AD.
+
+    Applicability: All Model A330-301, -321, and -322 series 
+airplanes; and all Model A340 series airplanes; certificated in any 
+category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (c) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent the propagation of fatigue cracking of the top wing 
+skin and the torsion box of the aft passenger/crew doors, which 
+could lead to reduced structural capability of the airplane, 
+accomplish the following:
+
+Modifications
+
+    (a) Do the modifications (including reaming, drilling, and cold 
+expanding specified fastener holes; replacing fasteners; and 
+performing high frequency eddy current inspections to detect 
+cracking); as specified and at the applicable times in paragraphs 
+(a)(1), (a)(2), and (a)(3) listed in Table 1 of this AD, as follows:
+
+                                           Table 1.--Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                         Before the airplane                                Per Airbus service
+                Modify                       accumulates               For model                 bulletin
+----------------------------------------------------------------------------------------------------------------
+(1) The top wing skin and rear spar    (i)17,200 total flight   A330...................  A330-57-3054, Revision
+ flange between wing ribs 9 and 11.     cycles or 53,500 total                            02, dated November 22,
+                                        flight hours,                                     1999.
+                                        whichever occurs first.
+                                       (ii) 7,200 total flight  A340...................  A340-57-4061, Revision
+                                        cycles or 31,700 total                            02, dated November 23,
+                                        flight hours,                                     1999.
+                                        whichever occurs first.
+(2) The top wing skin and the rear     (i) 13,200 total flight  A330...................  A330-57-3053, Revision
+ spar flange between wing ribs 2 and    cycles or 41,000 total                            01, dated June 15,
+ 7.                                     flight hours,                                     1999.
+                                        whichever occurs first.
+                                       (ii) 9,100 total flight  A340, pre-Modification   A340-57-4060, Revision
+                                        cycles or 45,500 total   41300.                   01, dated November 8,
+                                        flight hours,                                     1999.
+                                        whichever occurs first.
+                                       (iii) 8,700 total        A340, post-Modification  A340-57-4060, Revision
+                                        flight cycles or         41300.                   01, dated November 8,
+                                        43,500 total flight                               1999.
+                                        hours, whichever
+                                        occurs first.
+(3) The cover plate of the torsion     (i) 10,000 total flight  A330...................  A330-53-3054, Revision
+ box of the aft passenger/crew door.    cycles.                                           01, dated May 17,
+                                                                                          1999.
+                                       (ii) 8,750 total flight  A340...................  A340-53-4072, dated
+                                        cycles.                                           June 29, 1998.
+----------------------------------------------------------------------------------------------------------------
+
+
+    Note 2: Accomplishment, prior to the effective date of this AD, 
+of a modification in accordance with a service bulletin listed in 
+Table 2 of this AD is also acceptable for compliance with the 
+applicable requirements of paragraph (a) of this AD, as follows:.
+
+
+                                Table 2.--Additional Acceptable Service Bulletins
+----------------------------------------------------------------------------------------------------------------
+                                                      Applicable service
+ Applicable paragraph of this AD         Model             bulletin          Revison level           Date
+----------------------------------------------------------------------------------------------------------------
+(a)(1)..........................  A330..............  A330-57-3054......  Original 01.......  May 29, 1998.
+                                                                                              June 3, 1999.
+                                  A340..............  A340-57-4061......  Original 01.......  May 29, 1998.
+                                                                                              October 29, 1998.
+(a)(2)..........................  A330..............  A330-57-3053......  Original..........  September 23,
+                                                                                               1998.
+                                  A340..............  A340-57-4060......  Original..........  June 3, 1999.
+(a)(3)..........................  A330..............  A330-53-3054......  Original..........  June 29, 1998.
+----------------------------------------------------------------------------------------------------------------
+
+Repair
+
+    (b) If any crack or assembly difference is found during any 
+inspection required by paragraph (a) of this AD, and the applicable 
+service bulletin specifies to contact Airbus for appropriate actopm: 
+Prior to further flight, repair in accordance with a method approved 
+by the Manager, International Branch, ANM-116, FAA, Transport 
+Airplane Directorate; or the Direction Generale de l'Aviation Civile 
+(DGAC).
+
+Alternative Methods of Compliance
+
+    (c) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, International Branch, ANM-116. 
+Operators
+
+[[Page 16114]]
+
+shall submit their requests through an appropriate FAA Principal 
+Maintenance Inspector, who may add comments and then send it to the 
+Manager, International Branch, ANM-116.
+
+    Note 3: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the International Branch, ANM-116.
+
+Special Flight Permits
+
+    (d) Special flight permits may be issued in accordance with 
+Secs. 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 
+21.197 and 21.199) to operate the airplane to a location where the 
+requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (e) Except as required by paragraph (b) of this AD: The actions 
+shall be done in accordance with the Airbus service bulletins listed 
+in Table 3 of this AD, as follows:
+
+       Table 3.--Service Bulletins for Incorporation by Reference
+------------------------------------------------------------------------
+  Service bulletin number       Revision level              Date
+------------------------------------------------------------------------
+A330-57-3054...............  02..................  Nov. 22, 1999.
+A340-57-4061...............  02..................  Nov. 23, 1999.
+A330-57-3053...............  01..................  June 15, 1999.
+A340-57-4060...............  01..................  Nov. 8, 1999.
+A330-53-3054...............  01..................  May 17, 1999.
+A340-53-4072...............  Original............  June 29, 1998.
+------------------------------------------------------------------------
+
+    This incorporation by reference was approved by the Director of 
+the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR 
+part 51. Copies may be obtained from Airbus Industrie, 1 Rond Point 
+Maurice Bellonte, 31707 Blagnac Cedex, France. Copies may be 
+inspected at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the Office of the Federal 
+Register, 800 North Capitol Street, NW., suite 700, Washington, DC.
+
+    Note 4: The subject of this AD is addressed in the French 
+airworthiness directives identified in Table 4 of this AD, as 
+follows:
+
+
+                Table 4.--French Airworthiness Directives
+------------------------------------------------------------------------
+       Airworthiness directive                        Date
+------------------------------------------------------------------------
+2000-124-113(B)......................  March 8, 2000.
+2000-123-138(B)......................  March 8, 2000.
+2000-122-112(B)......................  March 8, 2000.
+2000-121-137(B) R1...................  October 4, 2000.
+2000-135-117(B)......................  March 22, 2000.
+2000-136-142(B)......................  March 22, 2000.
+------------------------------------------------------------------------
+
+Effective Date
+
+    (f) This amendment becomes effective on April 9, 2001.
+
+    Issued in Renton, Washington, on March 12, 2001.
+Vi L. Lipski,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 01-6644 Filed 3-22-01; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

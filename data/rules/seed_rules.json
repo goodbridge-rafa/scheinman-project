@@ -1,0 +1,127 @@
+{
+  "comment": "Stage-1 seed rules, hand-extracted with full anchors on 2026-08-30 from the stored AC 43.13-1B PDF. The four AC threshold excerpts were hand-typed on 2026-08-30 and, since 2026-09-03, are checked verbatim against the stated page of the stored PDF by scheinman.provenance (tests/test_provenance.py); the event excerpts from ADs are checked against the stored Federal Register text the same way. R-0001..R-0004 cite real public-domain sources stored verbatim in data/raw/. R-0005 is an explicit test fixture for the walking skeleton and is never publishable (rules.publishable_rules keeps it out of every delivered report). The double-blind AD facts in data/facts/ give the rules their event weights (fusion); this file remains the rule base the engine loads.",
+  "rules": [
+    {
+      "rule_id": "R-0001",
+      "applies_to_material_series": [
+        "7xxx"
+      ],
+      "applies_to_loading": "cyclic",
+      "feature_type": "edge_distance",
+      "quantity": "edge_distance_over_diameter",
+      "minimum": 2.0,
+      "unit": "ratio",
+      "risk": "Fatigue cracking originating at fastener holes in 7xxx-series primary structure under cyclic loading is documented in service (ADs E7-9396 and 00-4568). The 2.0-diameter edge-distance minimum is the AC 43.13-1B repair practice for that feature; the record documents the location and the mechanism, not a measured edge distance of the cracked holes.",
+      "severity": "BLOCK",
+      "confidence": "high",
+      "threshold_anchor": {
+        "kind": "canonical_citation",
+        "source": "FAA AC 43.13-1B CHG 1 (2001-09-27), Acceptable Methods, Techniques, and Practices - Aircraft Inspection and Repair",
+        "locator": "Chapter 4 (metal structure repair, riveting), PDF page 159 of 646; original stored at data/raw/AC_43.13-1B_w-chg1.pdf (faa.gov)",
+        "excerpt": "For single row rivets, the edge distance should not be less than 2 times the diameter of the rivet and spacing should not be less than 3 times the diameter of the rivet."
+      },
+      "event_anchors": [
+        {
+          "kind": "official_event_excerpt",
+          "source": "FAA Airworthiness Directive, Federal Register document E7-9396 (2007-05-17), Boeing Model 747-400",
+          "locator": "data/raw/ads/E7-9396.txt (fetched from federalregister.gov full-text endpoint; hash-identical pilot copy also at data/raw/AD-E7-9396.txt); summary and Boeing clarification passages",
+          "excerpt": "This AD results from several reports indicating that fatigue cracking was found in upper deck floor beams made from 7000 series aluminum alloy. [...] cracking was found on airplanes with 7075-T6 upper deck floor beams, which prompted issuance of other related rulemaking [...] which include inspecting the floor beam web and chords, certain fastener holes at the intersection of the floor beam and frame"
+        },
+        {
+          "kind": "official_event_excerpt",
+          "source": "FAA Airworthiness Directive, Federal Register document 00-4568 (2000-02-29), Boeing Model 747-100, -200, and -300 Series Airplanes",
+          "locator": "data/raw/ads/00-4568.txt (fetched from federalregister.gov full-text endpoint); double-agreed facts in data/facts/lot4-ads/merged.json",
+          "excerpt": "The report also indicates that the floor beams at BS 340 and 360 are made from 7075 aluminum, a material which is more susceptible to fatigue cracking than 2024 aluminum. [...] this AD is being issued to prevent failure of the upper deck floor beams at BS 340, 360, and 380 due to fatigue cracking that originates from the upper chord fastener holes of those floor beams"
+        }
+      ],
+      "scope": "AC 43.13-1B states the 2.0-diameter edge distance for single-row riveted sheet joints. This project applies it to every round through-hole in a 7xxx plate declared under cyclic loading, as if each hole were a fastener hole. The cited ADs document fatigue cracking at fastener holes in 7xxx floor beams (7050-T7451 in E7-9396, 7075 in 00-4568); they do not state the edge distance of the cracked holes, and the repair in AD E7-9396 accepts an oversized fastener with a minimum edge margin of 1.7 D. Not for lightening, drain or pin holes."
+    },
+    {
+      "rule_id": "R-0002",
+      "applies_to_material_series": [
+        "any"
+      ],
+      "applies_to_loading": "any",
+      "feature_type": "edge_distance",
+      "quantity": "edge_distance_over_diameter",
+      "minimum": 2.0,
+      "unit": "ratio",
+      "risk": "Edge distance below the canonical single-row minimum weakens the joint regardless of loading. Fatigue events at fastener holes support the mechanism (the fusion record counts them), but a rule that claims any material and any loading is an unbounded claim no finite set of events can cover, so by policy (scheinman.fusion) it stays WARN and never blocks.",
+      "severity": "WARN",
+      "confidence": "high",
+      "threshold_anchor": {
+        "kind": "canonical_citation",
+        "source": "FAA AC 43.13-1B CHG 1 (2001-09-27), Acceptable Methods, Techniques, and Practices - Aircraft Inspection and Repair",
+        "locator": "Chapter 4 (metal structure repair, riveting), PDF page 159 of 646; original stored at data/raw/AC_43.13-1B_w-chg1.pdf (faa.gov)",
+        "excerpt": "For single row rivets, the edge distance should not be less than 2 times the diameter of the rivet and spacing should not be less than 3 times the diameter of the rivet."
+      },
+      "event_anchors": [],
+      "scope": "AC 43.13-1B states the 2.0-diameter edge distance for single-row riveted sheet joints. Applied here to every round through-hole in any plate, whatever the loading, as a fastener hole. Not for lightening, drain or pin holes."
+    },
+    {
+      "rule_id": "R-0003",
+      "applies_to_material_series": [
+        "any"
+      ],
+      "applies_to_loading": "any",
+      "feature_type": "hole",
+      "quantity": "hole_pitch_over_diameter",
+      "minimum": 3.0,
+      "unit": "ratio",
+      "risk": "Fastener spacing below the canonical single-row minimum concentrates load between adjacent holes.",
+      "severity": "WARN",
+      "confidence": "high",
+      "threshold_anchor": {
+        "kind": "canonical_citation",
+        "source": "FAA AC 43.13-1B CHG 1 (2001-09-27), Acceptable Methods, Techniques, and Practices - Aircraft Inspection and Repair",
+        "locator": "Chapter 4 (metal structure repair, riveting), PDF page 159 of 646; original stored at data/raw/AC_43.13-1B_w-chg1.pdf (faa.gov)",
+        "excerpt": "For single row rivets, the edge distance should not be less than 2 times the diameter of the rivet and spacing should not be less than 3 times the diameter of the rivet."
+      },
+      "event_anchors": [],
+      "scope": "AC 43.13-1B states the 3.0-diameter spacing for single-row riveted sheet joints. Applied here to every pair of round through-holes in any plate, on the same row or not. The ratio is the pitch over the average diameter of the two holes, a project convention: the source speaks of one rivet diameter. Not for lightening, drain or pin holes."
+    },
+    {
+      "rule_id": "R-0004",
+      "applies_to_material_series": [
+        "any"
+      ],
+      "applies_to_loading": "any",
+      "feature_type": "hole",
+      "quantity": "hole_diameter_over_thickness",
+      "minimum": 3.0,
+      "unit": "ratio",
+      "risk": "Fastener diameter below the general sizing guidance relative to sheet thickness. The guidance is approximate (about three times the thickness), so this is recorded as a note, never enforced by moving metal.",
+      "severity": "NOTE",
+      "confidence": "medium",
+      "threshold_anchor": {
+        "kind": "canonical_citation",
+        "source": "FAA AC 43.13-1B CHG 1 (2001-09-27), Acceptable Methods, Techniques, and Practices - Aircraft Inspection and Repair",
+        "locator": "Chapter 4, paragraph 4-57g (page 4-24), the sentence that refers to paragraphs 4-58g through 4-58n; PDF page 165 of 646; original stored at data/raw/AC_43.13-1B_w-chg1.pdf (faa.gov)",
+        "excerpt": "the general rule for the diameter of the rivets used to join aluminum sheets is to use a diameter approximately three times the thickness of the thicker sheet"
+      },
+      "event_anchors": [],
+      "scope": "AC 43.13-1B sizing guidance for choosing a rivet for a given sheet: a diameter of approximately three times the thicker sheet. This project reads a smaller ratio as a sizing note on the plate, never as a violation to correct."
+    },
+    {
+      "rule_id": "R-0005",
+      "applies_to_material_series": [
+        "any"
+      ],
+      "applies_to_loading": "any",
+      "feature_type": "thickness",
+      "quantity": "thickness_mm",
+      "minimum": 1.0,
+      "unit": "mm",
+      "risk": "Plate thinner than the fixture floor used to exercise the NOTE path of the skeleton.",
+      "severity": "NOTE",
+      "confidence": "low",
+      "threshold_anchor": {
+        "kind": "test_fixture",
+        "source": "scheinman test fixture",
+        "locator": "data/rules/seed_rules.json#R-0005",
+        "excerpt": "fixture threshold for skeleton tests: minimum plate thickness 1.0 mm; not a published engineering fact and never publishable"
+      },
+      "event_anchors": []
+    }
+  ]
+}

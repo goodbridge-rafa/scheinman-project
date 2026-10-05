@@ -1,0 +1,2920 @@
+<html>
+<head>
+<title>Federal Register, Volume 72 Issue 238 (Wednesday, December 12, 2007)</title>
+</head>
+<body><pre>
+[Federal Register Volume 72, Number 238 (Wednesday, December 12, 2007)]
+[Rules and Regulations]
+[Pages 70486-70508]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 07-6016]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Parts 26, 121, and 129
+
+[Docket No. FAA-2005-21693; Amendment Nos. 26-1, 121-337, 129-44]
+RIN 2120-AI32
+
+
+Damage Tolerance Data for Repairs and Alterations
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This final rule requires holders of design approvals to make 
+available to operators damage tolerance data for repairs and 
+alterations to fatigue critical airplane structure. This rule will 
+support operator compliance with the Aging Airplane Safety final rule 
+with respect to the requirement to incorporate into the maintenance 
+program, a means for addressing the adverse effects repairs and 
+alterations may have on fatigue critical structure. The intent of this 
+final rule is to ensure the continued airworthiness of fatigue critical 
+airplane structure by requiring design approval holders to support 
+operator compliance with specified damage tolerance requirements.
+
+DATES: These amendments become effective January 11, 2008.
+
+FOR FURTHER INFORMATION CONTACT: If you have technical questions about 
+this action, contact Greg Schneider, ANM-115, Airframe and Cabin 
+Safety, Federal Aviation Administration, 1601 Lind Avenue, SW., Renton, 
+Washington 98057-3356, telephone: (425-227-2116); facsimile (425-227-
+1232); e-mail <a href="/cdn-cgi/l/email-protection#9dfaeff8fab3eefef5f3f8f4f9f8efddfbfcfcb3faf2eb"><span class="__cf_email__" data-cfemail="c6a1b4a3a1e8b5a5aea8a3afa2a3b486a0a7a7e8a1a9b0">[email&#160;protected]</span></a>. Direct any legal questions to 
+Doug Anderson, ANM-7, Office of Regional Counsel, Federal Aviation 
+Administration, 1601 Lind Avenue, SW., Renton, WA 98057-3356; telephone 
+(425) 227-2166; facsimile (425) 227-1007; e-mail 
+<a href="/cdn-cgi/l/email-protection#b6f2d9c3d1dad7c598f7d8d2d3c4c5d9d8f6d0d7d798d1d9c0"><span class="__cf_email__" data-cfemail="8fcbe0fae8e3eefca1cee1ebeafdfce0e1cfe9eeeea1e8e0f9">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Authority for This Rulemaking
+
+    The FAA's authority to issue rules regarding aviation safety is 
+found in Title 49 of the United States Code. Subtitle I, Section 106 
+describes the
+
+[[Page 70487]]
+
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the agency's authority.
+    This rulemaking is promulgated under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, the FAA is charged with promoting 
+safe flight of civil aircraft in air commerce by prescribing minimum 
+standards required in the interest of safety for the design and 
+performance of aircraft; regulations and minimum standards in the 
+interest of safety for inspecting, servicing, and overhauling aircraft; 
+and regulations for other practices, methods, and procedures the 
+Administrator finds necessary for safety in air commerce. This 
+regulation is within the scope of that authority because it 
+prescribes--
+    <bullet> New safety standards for the design of transport category 
+airplanes, and
+    <bullet> New requirements necessary for safety for the design, 
+production, operation, and maintenance of those airplanes, and for 
+other practices, methods, and procedures relating to those airplanes.
+
+Table of Contents
+
+I. Executive Summary
+II. Background
+    A. Summary of the NPRM
+    1. The Proposed Rule
+    2. Related Activities
+    B. Differences Between the NPRM and the Final Rule
+    1. New Part 26 for Design Approval Holders' Airworthiness 
+Requirements
+    2. New Subparts for Airworthiness Operational Rules
+    3. Minor Conforming Changes to the Aging Airplane Safety Final 
+Rule
+    4. Other Miscellaneous Changes
+    C. Summary of Comments
+III. Discussion of the Final Rule
+    A. Overview
+    1. Final Rule
+    2. Guidance Material
+    B. Airplane Applicability and Exceptions
+    1. Airplane Certification Amendment Level
+    2. Parts 91, 125, and 135 Operations
+    3. Exception of Airplanes Not Operating in the U.S. Under Part 
+121 or 129
+    C. Fatigue Critical Structure (FCS)
+    D. Damage Tolerance Evaluation (DTE)
+    E. Damage Tolerance Inspections (DTIs)
+    F. DT Data for Repairs
+    1. Published Repair Data
+    2. Effects of Multiple Repairs
+    G. Repair Evaluation Guidelines (REGs)
+    H. DT Data for Alterations
+    I. Required Documentation
+    J. Proprietary Data
+    K. Compliance Plan
+    1. Process for Continuous Assessment of Service Information
+    2. Timing of FAA Approval
+    L. Harmonization
+    1. Foreign Authority Approval of Required Data
+    M. Enforcement
+    N. Industry and FAA Resources
+    O. Compliance Dates
+    P. Costs and Benefits
+IV. Final Regulatory Evaluation, Regulatory Flexibility 
+Determination, International Trade Impact Assessment, and Unfunded 
+Mandates Assessment
+V. The Amendments
+
+I. Executive Summary
+
+    Fatigue cracking has been a major aviation safety concern for many 
+years. Unless detected and repaired, fatigue cracks can grow to the 
+point of catastrophic failure. Since 1978 the FAA has required new 
+types of airplanes to meet damage tolerance \1\ (DT) requirements to 
+ensure their continued airworthiness. Industry has also used this 
+method successfully to develop inspection programs for older airplanes. 
+Since the 1980s, the FAA has mandated that operators of most large 
+transport airplanes carry out these programs.
+---------------------------------------------------------------------------
+
+    \1\ Damage tolerance (DT) is a method used to evaluate the crack 
+growth and residual strength characteristics of structure. Based on 
+the results, inspections or other procedures are established as 
+necessary to prevent catastrophic failures due to fatigue. Most 
+commonly, the maintenance actions developed are directed inspections 
+for fatigue cracking.
+---------------------------------------------------------------------------
+
+    While these programs have been largely effective, industry has not 
+carried out DT methods comprehensively. In particular, while these 
+programs apply to the airplane ``baseline'' structure (the airplane 
+structure as originally manufactured), they often do not apply to 
+repairs and alterations.\2\ This omission is important because 
+airplanes are subject to many repairs and alterations throughout their 
+operational lives. If fatigue cracking occurs in a repaired or altered 
+area, the results can be just as catastrophic as if it had occurred in 
+the baseline structure.
+---------------------------------------------------------------------------
+
+    \2\ Various segments of industry use the term ``modification'' 
+to define a design change. We consider this term to be synonymous 
+with the term ``alteration.'' We use both terms in this rule to mean 
+a design change that is made to an airplane.
+---------------------------------------------------------------------------
+
+    The FAA adopted the Aging Airplane Safety final rule (AASFR) \3\ in 
+early 2005. Among other things, the AASFR requires airline operators of 
+certain large transport category airplanes \4\ to implement DT-based 
+inspection programs for airplane structure; that is, structure 
+susceptible to fatigue cracking that could contribute to a catastrophic 
+failure. In this final rule, we refer to this structure as ``fatigue 
+critical structure.'' Most importantly for this rule, the AASFR 
+requires these inspection programs to ``take into account the adverse 
+effects repairs, alterations, and modifications may have on fatigue 
+cracking and the inspection of this airplane structure.''
+---------------------------------------------------------------------------
+
+    \3\ 70 FR 5518; February 2, 2005.
+    \4\ The rule applies to turbine powered airplane models with a 
+maximum type certificated passenger seating capacity of 30 or more, 
+or a maximum payload capacity of 7,500 pounds or more.
+---------------------------------------------------------------------------
+
+    With the AASFR, we now have in place the regulatory means to 
+provide for comprehensive implementation of DT methods on all large 
+transport airplanes used by air carriers. To carry out these 
+requirements fully, however, it is necessary to place corresponding 
+requirements on the holders of FAA design approvals for these 
+airplanes. Otherwise, the operators may not be able to obtain the data 
+and documents they need to comply with the AASFR. As the owners of the 
+data for these airplanes, the design approval holders \5\ (DAHs) are in 
+the best position to identify the fatigue critical structure and the 
+methods and frequency of inspections that may be needed. Therefore, 
+this final rule requires DAHs to develop and make available to 
+operators the data and documents they need to support compliance with 
+the DT requirements of the AASFR.
+---------------------------------------------------------------------------
+
+    \5\ For purposes of this rule, design approval holders (DAHs) 
+are holders of type certificates (TCs) or supplemental type 
+certificates (STCs) issued under 14 CFR part 21.
+---------------------------------------------------------------------------
+
+    Specifically, this final rule requires DAHs to develop and make 
+available the following four types of documents to operators:
+    (1) Lists of fatigue critical structure (to aid operators in 
+identifying repairs and alterations that need to be addressed for DT).
+    (2) Damage tolerance inspections to provide operators with the 
+necessary inspection times and methods for the following:
+    <bullet> Repair data published by type certificate (TC) holders.\6\
+---------------------------------------------------------------------------
+
+    \6\ Published repair data are instructions for accomplishing 
+repairs, which are published for general use in structural repair 
+manuals (SRMs) and service bulletins. These data are approved for 
+general application to a particular airplane model or airplane 
+configuration.
+---------------------------------------------------------------------------
+
+    <bullet> TC holder's future repair data not published for general 
+use.\7\
+---------------------------------------------------------------------------
+
+    \7\ This includes repairs that are developed for individual 
+airplanes at the request of an operator. These repairs are often 
+complex or unique to a particular airplane or group of airplanes 
+experiencing similar damage conditions.
+---------------------------------------------------------------------------
+
+    <bullet> Repair data developed by supplemental type certificate 
+(STC) holders.
+    <bullet> Alteration data developed by TC and STC holders.
+    (3) Damage tolerance evaluation guidelines for all other repairs 
+(to enable operators to obtain the necessary damage tolerance 
+inspections).
+    (4) Implementation schedules (to define the necessary timing for 
+performing damage tolerance
+
+[[Page 70488]]
+
+evaluations and developing damage tolerance inspections and for 
+incorporating the DT data into the operator's maintenance program).
+    This final rule transfers the responsibility for developing DT-
+based data from operators to DAHs and, therefore, has minimal to no 
+societal costs. The aviation industry as a whole would also benefit 
+because DAHs could amortize their development costs for DT data over a 
+larger fleet.
+
+II. Background
+
+A. Summary of the NPRM
+
+1. The Proposed Rule
+    On April 21, 2006, the FAA published in the Federal Register the 
+Notice of proposed rulemaking (NPRM) entitled, Damage Tolerance Data 
+for Repairs and Alterations (DAH DT Data NPRM),\8\ which is the basis 
+of this final rule.
+---------------------------------------------------------------------------
+
+    \8\ 71 FR 20574.
+---------------------------------------------------------------------------
+
+    In the DAH DT Data NPRM, the FAA proposed to require DAHs to 
+develop and make available to operators certain damage tolerance (DT) 
+data that address the adverse effects repairs, alterations, and 
+modifications may have on fatigue critical structure. These data are 
+necessary to support operator compliance with the Aging Airplane Safety 
+Final Rule (AASFR).\9\ Specifically, we proposed to require DAHs to 
+develop and make available to operators the following: (1) Lists of 
+fatigue critical structure for baseline and alteration structure; (2) 
+Damage tolerance inspections (DTIs) for existing published repair and 
+alteration data; (3) DTIs for future repair and alteration data; (4) 
+Repair evaluation guidelines (REGs) that include a process for 
+conducting airplane surveys, a process for establishing DT Data, and 
+implementation schedules for the above actions. In addition, we 
+proposed to require DAHs to develop a compliance plan for meeting these 
+four requirements and to obtain FAA approval of the plan.
+---------------------------------------------------------------------------
+
+    \9\ AASFR: 70 FR 5518; February 2, 2005. See also 70 FR 23935; 
+May 6, 2005: Aging Airplane Safety; Correcting Amendment.
+---------------------------------------------------------------------------
+
+    The NPRM contains the background and rationale for this rulemaking 
+and, except where we have made revisions in this final rule, you should 
+refer to it for that information.
+2. Related Activities
+    In July 2004, we published the Fuel Tank Safety Compliance 
+Extension (Final Rule) and Aging Airplane Program Update (Request for 
+Comments),\10\ where we informed the public of our intent to propose 
+DAH airworthiness requirements to support certain operational rules. We 
+requested comments on our proposal.
+---------------------------------------------------------------------------
+
+    \10\ 69 FR 45936; July 30, 2004.
+---------------------------------------------------------------------------
+
+    In December 2002, we published the Aging Airplane Safety Interim 
+final rule; request for comments.\11\ In February 2005, we adopted the 
+AASFR in which we responded to the comments from the interim rule and 
+made some changes to that rule. The February 2005 AASFR requires 
+affected operators to include certain damage tolerance inspections and 
+procedures in their maintenance programs by December 20, 2010. Today's 
+final rule is directly related to the AASFR in that it provides a means 
+for operators to get the data and documents they need to comply with 
+the AASFR.
+---------------------------------------------------------------------------
+
+    \11\ 67 FR 72726; December 6, 2002.
+---------------------------------------------------------------------------
+
+    In July 2005, we published a disposition of comments document,\12\ 
+in which we responded to comments to the July 2004 action. Also in July 
+2005, we published a policy statement, Safety--A Shared 
+Responsibility--New Direction for Addressing Airworthiness Issues for 
+Transport Airplanes,\13\ that explains our criteria for adopting DAH 
+requirements like those described in this final rule.
+---------------------------------------------------------------------------
+
+    \12\ 70 FR 40168; July 12, 2005: Fuel Tank Safety Compliance 
+Extension (Final Rule) and Aging Airplane Program Update (Request 
+for Comments).
+    \13\ 70 FR 40166, July 12, 2005 (PS-ANM110-7-12-2005).
+---------------------------------------------------------------------------
+
+    On April 21, 2006,\14\ along with the NPRM for this rulemaking, we 
+published a Notice of Availability (NOA) and request for comments on 
+draft AC 120-XX \15\ (Damage Tolerance Inspections for Repairs). This 
+AC included guidance related to repairs, which the Aviation Rulemaking 
+Advisory Committee's (ARAC) Airworthiness Assurance Working Group 
+(AAWG) \16\ developed.
+---------------------------------------------------------------------------
+
+    \14\ 71 FR 20750.
+    \15\ Issued as AC 120-93.
+    \16\ AAWG Member Organizations: Boeing Commercial Airplanes, 
+Federal Express (FedEx), Airbus, Air Transport Association (ATA), 
+American Airlines, British Airways, Continental Airlines, Japan 
+Airlines, Northwest Airlines, United Airlines, United Parcel Service 
+(UPS), Airborne Express, U.S. Airways, Federal Aviation 
+Administration (FAA), and European Aviation Safety Agency (EASA).
+---------------------------------------------------------------------------
+
+    On July 7, 2006, we published a notice \17\ that granted industry a 
+90-day extension to comment on the NPRM; and on February 27, 2007, we 
+published a NOA \18\ and request for comments on revised AC 120-XX,\19\ 
+which includes guidance from the AAWG on both repairs and alterations.
+---------------------------------------------------------------------------
+
+    \17\ 71 FR 38541.
+    \18\ 72 FR 8834.
+    \19\ Issued as AC 120-93.
+---------------------------------------------------------------------------
+
+B. Differences Between the NPRM and the Final Rule
+
+1. New Part 26 for Design Approval Holders' Airworthiness Requirements
+    In the NPRM (and other Aging Airplane Program rules), we placed the 
+DAH airworthiness requirements in part 25, subpart I. As we explained 
+in the recently adopted Enhanced Airworthiness Program for Airplane 
+Systems/Fuel Tank Safety final rule (EAPAS/FTS),\20\ we have placed 
+these requirements in new part 26, and we have moved the enabling 
+regulations into part 21.\21\ We determined that this was the best 
+course of action because it keeps part 25 as strictly airworthiness 
+standards for transport category airplanes, thus maintaining 
+harmonization and compatibility among the United States, Canada, and 
+the European Union regulatory systems. Providing references to part 26 
+in part 21 clarifies how the part 26 requirements will address existing 
+and future design approvals.
+---------------------------------------------------------------------------
+
+    \20\ 72 FR 63364; November 8, 2007.
+    \21\ Certification Procedures for Products and Parts.
+---------------------------------------------------------------------------
+
+    In creating new part 26, we renumbered the proposed sections of 
+part 25, subpart I and we incorporated the changes discussed in this 
+preamble. A table of this renumbering is shown below.
+---------------------------------------------------------------------------
+
+    \22\ This section, which includes an applicability table for 
+part 26, was adopted as part of the EAPAS final rule.
+    \23\ These definitions were proposed in Sec.  25.1823(b).
+
+  Table 1.--Relationship of Proposed Part 25 Subpart I to Part 26 Final
+                                  Rules
+------------------------------------------------------------------------
+            Part 26 final rules                   Proposed part 25
+------------------------------------------------------------------------
+Subpart E--Aging Airplane Safety--Damage    Subpart I--Continued
+ Tolerance Data for Repairs and              Airworthiness.
+ Alterations.
+Sec.   26.5 Applicability table...........  New.\22\
+Sec.   26.41 Definitions..................  New.\23\
+Sec.   26.43 Holders of and applicants for  Sec.   25.1823 Holders of
+ type certificates--Repairs.                 type certificates--Repairs.
+Sec.   26.45 Holders of type certificates-- Sec.   25.1825 Holders of
+ Alterations and repairs to alterations.     type certificates--
+                                             Alterations and repairs to
+                                             alterations.
+Sec.   26.47 Holders of and applicants for  Sec.   25.1827 Holders of
+ a supplemental type certificate--           and applicants for a
+ Alterations and repairs to alterations.     supplemental type
+                                             certificate--Alterations
+                                             and repairs to alterations.
+
+[[Page 70489]]
+
+ 
+Sec.   26.49 Compliance Plan..............  Sec.   25.1829 Compliance
+                                             Plan.
+------------------------------------------------------------------------
+
+2. New Subparts for Airworthiness Operational Rules
+    We discussed in the preamble to the proposed rule that we would 
+establish new subparts for airworthiness-related operational rules. 
+Since there were several other aging airplane proposals (e.g., EAPAS) 
+published around the same time, each proposal contained language that 
+established the new subparts and redesignated certain sections of those 
+rules. We said when any one of those proposals became a final rule, we 
+would remove the duplicative provisions that established the new 
+subparts and redesignated sections from the other aging airplane rules. 
+In the DAH DT Data proposal, we included regulatory text to add 
+subparts AA and B (Continued Airworthiness and Safety Improvements) to 
+include the airworthiness requirements from parts 121 and 129, 
+respectively. We also included regulatory language to redesignate the 
+section numbers in parts 121 and 129 that were moved to the new 
+subparts. However, since the EAPAS final rule was the first to be 
+codified, that final rule adopted subparts AA and B and redesignated 
+appropriate sections of parts 121 and 129. Therefore, we have removed 
+the duplicative regulatory text from this final rule.
+    To aid understanding of our discussion about the DAH DT Data rule 
+as it relates to the AASFR, we have indicated below the prior and 
+redesignated sections of parts 121 and 129 of the AASFR that include 
+DT-related requirements.
+
+------------------------------------------------------------------------
+              Prior sections                    Redesignated sections
+------------------------------------------------------------------------
+Sec.   121.370a...........................  Sec.   121.1109
+Sec.   129.16.............................  Sec.   129.109
+------------------------------------------------------------------------
+
+3. Minor Conforming Changes to the Aging Airplane Safety Final Rule
+    During the rulemaking process for the DAH DT Data rule, the FAA 
+determined that minor changes to the AASFR were needed to ensure 
+clarity of the two rules. The original wording in Sec. Sec.  121.370a 
+and 129.16 (redesignated as Sec. Sec.  121.1109 and 129.109, 
+respectively) required that changes to the certificate holder's 
+maintenance program (i.e., inclusion of DT-based inspections and 
+procedures and any revisions to them) be approved by the Aircraft 
+Certification Office (ACO) \24\ or office of the Transport Airplane 
+Directorate with oversight responsibility for the relevant type 
+certificate or supplemental type certificate, as determined by the 
+Administrator.
+---------------------------------------------------------------------------
+
+    \24\ The regulatory text in this rule refers to the ACO or 
+office of the Transport Airplane Directorate with oversight 
+responsibility for the relevant type certificate or supplemental 
+type certificate as the FAA Oversight Office.
+---------------------------------------------------------------------------
+
+    Although the ACO will approve the documentation that the DAH DT 
+Data final rule requires DAHs to submit to the FAA, the DT inspections 
+and procedures resulting from this documentation, which certificate 
+holders must incorporate into their maintenance programs, should be 
+approved by their Principal Maintenance Inspector (PMI). Therefore, we 
+revised Sec. Sec.  121.1109 and 129.109 to state that it is the PMI's 
+responsibility to review and approve changes to a certificate holder's 
+maintenance program.
+    Also, we believe the requirements in current Sec. Sec.  
+121.1109(c)(1) and 129.109(b)(1) that address DT relative to baseline 
+structure and repairs, alterations, and modifications would be clearer 
+if they were in separate paragraphs. Therefore, we revised Sec. Sec.  
+121.1109 and 129.109 to include requirements related to baseline 
+structure in Sec.  121.1109(c)(1) and Sec.  129.109(b)(1) and those 
+related to repairs, alterations, and modifications in Sec.  
+121.1109(c)(2) and Sec.  129.109(b)(2). We also made minor wording 
+changes for clarity and consistency with the new part 26 requirements 
+and Advisory Circular (AC) 120-XX,\25\ which describes an acceptable 
+means of compliance with the DAH DT Data final rule.
+---------------------------------------------------------------------------
+
+    \25\ Issued as AC 120-93.
+---------------------------------------------------------------------------
+
+4. Other Miscellaneous Changes
+    Based on comments to the proposed rule, we have revised the final 
+rule as summarized below and discussed in more detail under the 
+Discussion of the Final Rule heading.
+    We extended the compliance times for DAHs to develop the required 
+lists of fatigue critical structure. For TC holders, we extended the 
+compliance date for them to submit their lists of fatigue critical 
+baseline structure to the FAA Oversight Office for review and approval 
+from 90 to 180 days after the effective date of the final rule. We also 
+added a provision that makes it clear to future TC holders that the 
+lists of fatigue critical baseline structure must be submitted as part 
+of the type certification process.
+    In the NPRM, we proposed TC holders submit their lists of fatigue 
+critical alteration structure to the FAA Oversight Office for review 
+and approval 90 days after the effective date of the final rule. We 
+proposed 270 days for STC holders. In the final rule, we extended the 
+compliance date to 360 days after the effective date of the final rule 
+for both TC holders and STC holders to submit these lists.
+    The NPRM included a requirement for TC and STC holders to develop a 
+process to enable operators to ``establish'' damage tolerance 
+inspections (DTIs) for repairs and alterations to fatigue critical 
+baseline structure (FCBS). This final rule replaces the term 
+``establish'' with ``obtain.'' We made this change because the term 
+``obtain'' better reflects the intent of the rule and is meant to be 
+all inclusive. That is, the operator may ``obtain'' a DTI by 
+establishing it themselves, or by receiving the DTI directly from a TC 
+holder, STC holder, or a third party.
+    Section 25.1823(f)(1)(iii) (adopted as Sec.  26.43(e)(1)(iii)) 
+proposed an implementation schedule for repairs covered by the repair 
+evaluation guidelines (REGs). To clarify this proposed requirement, we 
+revised it in the final rule to specify that the implementation 
+schedule must identify the times when actions must be taken as specific 
+numbers of flight cycles, flight hours, or both.
+    We revised proposed Sec.  25.1823(f)(3) (adopted as Sec.  
+26.43(e)(3)) to remove the reference to Sec.  25.1827. That reference 
+would have required TC holders to make their REGs available to STC 
+holders. We made this change because TC holders do not need to provide 
+REGs to STC holders. However, they must provide their lists of fatigue 
+critical structure (FCS) to STC holders.
+    As discussed in more detail later in this preamble, based on 
+comments submitted to other DAH airworthiness rules, we removed some 
+provisions of the compliance plan in proposed Sec.  25.1829 (adopted as 
+Sec.  26.49). Specifically, we removed the proposed requirements in 
+Sec.  25.1829(a)(3) for DAHs to identify the intended means of 
+compliance that differ from those described in FAA advisory materials. 
+Similarly, we removed the requirement in proposed Sec.  25.1829(c) that 
+would have authorized the FAA Oversight Office to identify deficiencies 
+in a compliance plan or the DAH's implementation of the plan and to 
+require specified corrective actions to remedy those deficiencies. We 
+do not
+
+[[Page 70490]]
+
+believe removal of these requirements will adversely affect our ability 
+to facilitate DAH compliance.
+    In Sec.  25.1829(5), we proposed a requirement for including in the 
+compliance plan a process for continuous assessment of service 
+information related to structural fatigue damage. As discussed later in 
+this preamble, we have determined that existing regulations should 
+enable us to determine whether the objectives of this DAH DT Data final 
+rule are being met. Therefore, we have removed this provision from this 
+final rule.
+    In addition to the changes discussed above, we made minor changes 
+to clarify the definitions of damage tolerance inspections and 
+published repair data in proposed Sec.  25.1823 (the definitions are 
+now in Sec.  26.41). We also made other minor changes to clarify the 
+requirements in proposed Sec. Sec.  25.1823 (adopted as Sec.  26.43), 
+25.1825 (adopted as Sec.  26.45), 25.1827 (adopted as Sec.  26.47), and 
+25.1829 (adopted as Sec.  26.49).
+
+C. Summary of Comments
+
+    The FAA received multiple comments from 17 commenters, including 
+the Air Transport Association (ATA) and a collective group of certain 
+industry representatives who are members of the AAWG.\26\ In the 
+following discussion of the comments received to the proposed rule, we 
+will refer to the comments received from those industry representatives 
+of the AAWG as the ``AAWG industry representatives.'' Also, several of 
+the AAWG and the ATA member organizations sent separate comments on 
+behalf of their organizations, with some specifically expressing 
+support for the comments submitted by the AAWG industry representatives 
+and the ATA. The comments to the proposed rule covered an array of 
+topics and contained a range of responses, which we discuss more fully 
+below under the Discussion of the Final Rule heading. In general, 
+commenters supported the intent of the rule and the guidance material. 
+They also requested some changes and clarifications.
+---------------------------------------------------------------------------
+
+    \26\ AAWG industry representatives (a collective group of 
+commenters who are members of the AAWG): Boeing Commercial 
+Airplanes, Federal Express (FedEx), Airbus, American Airlines, 
+British Airways, Continental Airlines, Japan Airlines, Northwest 
+Airlines, United Airlines, United Parcel Service (UPS), Airborne 
+Express, US Airways.
+---------------------------------------------------------------------------
+
+    Many of the comments to the proposed rule concerned issues specific 
+to the Widespread Fatigue Damage (WFD) \27\ proposal. The FAA intends 
+to address the WFD-related comments in a separate action, so we will 
+not address them here.
+---------------------------------------------------------------------------
+
+    \27\ 71 FR 19928; April 18, 2006.
+---------------------------------------------------------------------------
+
+    We also received several comments about the DAH airworthiness 
+requirements. We addressed many of the same or similar comments and 
+issues in the July 2005 disposition of comments document to the Fuel 
+Tank Safety Compliance Extension (Final Rule) and Aging Airplane 
+Program Update (Request for Comments). In addition, we explained in 
+detail the need for these requirements in our July 2005 policy 
+statement. As a result, we will not revisit those comments and issues 
+here.
+
+III. Discussion of the Final Rule
+
+A. Overview
+
+1. Final Rule
+    Fatigue cracking has been a major aviation safety concern for many 
+years. Unless detected and repaired, fatigue cracks can grow to the 
+point of catastrophic failure. Since the adoption of Amendment 25-45 
+\28\ in 1978, the FAA has required new types of airplanes to meet 
+damage tolerance (DT) requirements to ensure their continued 
+airworthiness. Industry has also used this method successfully to 
+develop inspection programs for older airplanes, such as Supplemental 
+Structural Inspection Programs (SSIP). Since the 1980s, the FAA has 
+mandated that operators of most large transport airplanes carry out 
+these programs.
+---------------------------------------------------------------------------
+
+    \28\ 43 FR 46242; October 5, 1978.
+---------------------------------------------------------------------------
+
+    Although these programs have been effective for baseline structure 
+(the airplane structure as originally manufactured), industry has not 
+comprehensively implemented DT methods for repairs and alterations. For 
+airplanes certified to Amendment 25-45 and later, repairs and 
+alterations were not always evaluated for damage tolerance. This 
+omission is important because airplanes are subject to many repairs and 
+alterations throughout their operational lives. If fatigue cracking 
+occurs in a repaired or altered area, the results can be just as 
+catastrophic as if it had occurred in the baseline structure.
+    The AASFR requires airline operators of certain large transport 
+category airplanes \29\ to implement DT-based inspection programs for 
+airplane structure; that is, structure susceptible to fatigue cracking 
+that could contribute to a catastrophic failure. In today's DAH DT Data 
+final rule, we refer to this structure as ``fatigue critical 
+structure.'' Most importantly for today's DAH DT Data final rule, the 
+AASFR requires the maintenance program for the airplane include a means 
+to address the adverse effects repairs and alterations may have on 
+airplane structure.
+---------------------------------------------------------------------------
+
+    \29\ The rule applies to turbine powered airplane models with a 
+maximum type certificated passenger seating capacity of 30 more, or 
+a maximum payload capacity of 7,500 pounds or more.
+---------------------------------------------------------------------------
+
+    With the AASFR, we now have in place the regulatory means to 
+provide for comprehensive implementation of DT methods on all large 
+transport category airplanes used by air carriers operating under 14 
+CFR parts 121 and 129. To carry out these requirements fully, however, 
+we must place corresponding requirements on the holders of FAA design 
+approvals for these airplanes. Otherwise, the operators may not be able 
+to obtain the data and documents they need to comply with the AASFR. As 
+the owner of the design data for these airplanes, the DAH is in the 
+best position to identify the fatigue critical structure and the 
+methods and frequency of inspections that may be needed.
+    As indicated in our July 2005 policy statement about the shared 
+responsibility for addressing airworthiness issues, in cases where 
+operators must rely on data or documents from DAHs to comply with 
+operational rules, we will require DAHs to develop that information by 
+a specified date. This final rule includes such requirements.
+    Specifically, 14 CFR 26.43, 26.45, and 26.47 require that the TC 
+holders and STC holders develop certain information that will provide a 
+means for operators to address the adverse effects of repairs and 
+alterations. The information required by this final rule includes the 
+following:
+    <bullet> List of Fatigue Critical Structure (baseline and 
+alteration).
+    <bullet> Damage tolerance inspections (DTIs) for existing published 
+repair data and all future repair data.
+    <bullet> DTIs for all existing and future alteration data.
+    <bullet> Repair evaluation guidelines (REGs), which include--
+
+--Instructions for conducting airplane surveys;
+--Instructions an operator uses to obtain DTIs; and
+--An implementation schedule that provides timing for the above 
+actions.
+2. Guidance Material
+    The FAA has issued Advisory Circular (AC) 120-93, Damage Tolerance 
+of Repairs and Alterations, concurrently with this rule. The AC 
+provides TC and STC holders with an acceptable method of compliance 
+with this final rule. The AC, which was developed through a 
+collaborative effort between the FAA and the Aviation Rulemaking 
+Advisory Committee
+
+[[Page 70491]]
+
+(ARAC), supports operator compliance with the AASFR with respect to 
+repairs and alterations.
+    As amended by this final rule, Sec.  121.1109(c)(2) of the AASFR 
+requires operators to incorporate into their maintenance program a 
+``means'' for addressing the adverse effects that repairs and 
+alterations may have on fatigue critical structure. This AC provides 
+guidance that TC holders, STC holders, and operators can use in 
+developing a means for addressing repairs and alterations.
+    To facilitate operators' timely compliance with the AASFR for 
+repairs, the guidance material in this AC includes implementation 
+schedules that specify acceptable time frames for when operators can 
+incorporate required DT data into their maintenance programs. The 
+implementation schedules allow for a phased-in program where existing 
+repairs on the older and higher utilization airplanes are assessed 
+first, and the newer airplanes assessed as they approach their Design 
+Service Goal (DSG). This approach ensures that DTIs will be available 
+when needed for both older and newer airplanes.
+
+B. Airplane Applicability and Exceptions
+
+    This rule applies to transport category, turbine powered airplane 
+models with an original TC issued after January 1, 1958. With certain 
+exceptions, this rule applies to those airplanes that, as a result of 
+the original certification or later increase in capacity, have a 
+maximum type certificated passenger seating capacity of 30 or more or a 
+maximum payload capacity of 7,500 pounds or more. The final rule 
+differs from the proposal in that we revised the list of excepted 
+airplanes to include the Lockheed L-300, deHavilland DHC-7, and Boeing 
+707/720 airplanes. We included these airplanes on the excepted list 
+because they are not currently being operated in commercial service in 
+the U.S., and we do not expect they will be in the future.
+1. Airplane Certification Amendment Level
+    Airbus and United Parcel Service (UPS) expressed concern that the 
+requirements of this rule duplicate certain requirements of current 
+regulations.
+    Airbus said because newer airplanes like the A330/A340 and A380 
+have a state-of-the-art damage tolerance assessment for all activities 
+related to baseline structure, repairs, and alterations, the TC 
+holder's activities under proposed Sec. Sec.  25.1823(d) and (e) and 
+25.1825(c) and (d) would be ``senseless.'' It said applying the 
+proposed requirements to its newer model airplanes would offer no 
+additional safety benefit because they are already inherent in the 
+consistent application of the damage tolerance requirements in Sec.  
+25.571. It also said the proposed activities for these airplane models 
+would create an unnecessary administrative burden and would require re-
+approval of already DT-justified modifications and repairs. Airbus 
+asked the FAA to reconsider applying proposed Sec. Sec.  25.1823 and 
+25.1825 to TC holders as they relate to airplane models A330/A340/A380 
+and future Airbus models. It suggested addressing this issue under 
+proposed Sec.  25.1829 in the model-specific compliance plans.
+    UPS said if the proposed rule is adopted, it would force operators 
+to survey every airplane in their fleet to find repairs and then 
+evaluate them based on guidelines produced by TC holders. UPS believes 
+airplanes certified to comply with Amendment 25-54 or later already 
+have DT data developed for fatigue critical structure, which includes 
+certain baseline structure, as well as all repairs and alterations. UPS 
+suggested the FAA make the proposed surveys applicable only to 
+airplanes certified prior to Amendment 25-54. To accomplish this, it 
+said, the FAA should revise proposed Sec.  25.1823(a) to limit the 
+applicability to airplanes type certified to pre-Amendment 25-54 
+requirements.
+    As discussed in the NPRM, the FAA has identified several airplane 
+models certified to Amendment 25-45 or later (including airplane models 
+certified to Amendment 25-54) for which published repair data have not 
+been evaluated for DT. Therefore, unless accomplished previously, a 
+damage tolerance evaluation (DTE) needs to be accomplished for all 
+airplanes, regardless of the certification level. For those airplanes 
+certified to Amendment 25-45 or later that have had a DTE completed for 
+all published repair and alteration data, the compliance plan required 
+by Sec.  26.49 (proposed as Sec.  25.1829) should contain a statement 
+to that effect, and the TC holder will need to substantiate this 
+statement with previously approved data from their certification effort 
+to show compliance with this rule. TC holders who have already 
+substantiated compliance with DT requirements should not find 
+compliance with this rule burdensome.
+    Regarding UPS's comment, if the TC holder can substantiate 
+compliance for its repairs and alterations, it is still likely that 
+operators have installed repairs and alterations that were not designed 
+by the TC holder on many airplanes. It is also likely that many of 
+these repairs and alterations were not assessed for damage tolerance. 
+Therefore, a survey will still be necessary to identify those repairs 
+and alterations and to determine if DT data are available to support 
+operator compliance with the AASFR.
+    Bombardier noted that the proposed rule would apply only to DAHs 
+for airplanes currently operated under parts 121 or 129. It said this 
+would not change the requirement to maintain damage tolerance for all 
+airplanes originally certified as damage tolerant under Sec.  25.571 
+(Amendment 45 or later). It said it presumes these airplanes will 
+continue to be regulated under Sec.  25.1529, using AC 25.1529-1 as 
+guidance (and under Canadian Air Regulations & Airworthiness Manual 
+511.34 for Canadian DAHs). Bombardier asserted that the four DAH 
+deliverables required by proposed Sec.  25.1823 (lists of fatigue 
+critical baseline structure, damage tolerance inspections, damage 
+tolerance evaluation guidelines, and implementation schedules) are 
+already required under Sec.  25.1529 (with guidance provided in AC 
+25.1529-1) and could constitute compliance with the proposed rule.
+    We agree that TC holders and others designing repairs and 
+alterations for airplanes certificated to Amendment 25-45 or later 
+amendments will continue to be required to comply with Sec.  25.1529, 
+regardless of the types of operations conducted. For airplanes subject 
+to this DAH DT Data rule, DAHs and operators should use the guidance in 
+AC 120-93 instead of AC 25.1529-1 for repairs. Because this rule is 
+entirely consistent with Sec. Sec.  25.571 and 25.1529, DTIs that 
+comply with this rule will also comply with those sections. To the 
+extent such data have been developed previously, their compliance will 
+be simplified.
+2. Parts 91, 125, and 135 Operations
+    Transport Canada and Mr. Thomas A. Knott expressed concern that the 
+proposed rule only applies to airplanes operated under parts 121 and 
+129. Mr. Knott also stated that it leaves out airplanes operated under 
+parts 91, 125, and 135. Transport Canada expressed concern that the DAH 
+DT Data proposal and the AASFR do not apply to airplanes operated under 
+part 125 and would allow airplanes such as the B727 and B747 to operate 
+as passenger-carrying airplanes under part 125 without having to meet 
+DT or the aging airplane safety requirements.
+    As we discussed earlier in this preamble, the purpose of this rule 
+is to support parts 121 and 129 operators'
+
+[[Page 70492]]
+
+compliance with the AASFR. For the reasons discussed in the preamble to 
+the AASFR, we limited applicability of the DT requirements 
+(supplemental inspections) in that rule to certain large transport 
+airplanes that are typically operated under parts 121 or 129. For the 
+affected airplanes that are operated under parts 91, 125, or 135, their 
+utilization is much lower and the risks associated with fatigue damage 
+that the AASFR is intended to address is, therefore, also much lower. 
+Because of this, we determined it would not be cost-effective to impose 
+the AASFR's supplemental inspection requirements on parts 91, 125, or 
+135 operators.
+3. Exception of Airplanes Not Operating in the U.S. Under Part 121 or 
+129
+    Viking Air Limited said it owns seven de Havilland heritage 
+aircraft, including the DHC-5 Buffalo and DHC-7. Viking Air Limited 
+said there are about 23 DHC-5s in confirmed operation, and the DHC-7 
+has about 66 in confirmed operation. Many of those in confirmed 
+operation are used in military operations and are not subject to part 
+121 or 129. According to the FAA Registry, no DHC-5 aircraft are 
+presently registered in the U.S. Therefore, Viking proposed that the 
+DHC-5 be added as an exception under proposed Sec.  25.1823(h). Viking 
+Air Limited also said that for the DHC-7, there presently are the 
+following safety measures in place: Canadian Airworthiness Directive 
+CF-94-19R1 that mandates a Supplemental Inspection Program; CF-2005-36 
+that imposes a Structural Life Limit; and CF-98-03 that mandates the 
+Corrosion Prevention and Control Program. With these actions, the DHC-
+7, the commenter stated, has already met the intentions of aging 
+aircraft initiative for structures.
+    The FAA researched its data bases and found that the DHC-5 does not 
+have a type certificate issued by the U.S. Therefore, there is no need 
+for an exception for the DHC-5 Buffalo. Furthermore, we have determined 
+that there are no DHC-7 airplanes currently operated under part 121 or 
+U.S.-registered DHC-7 airplanes operated under part 129. For the 
+reasons discussed earlier in this preamble, we added the DHC-7, as well 
+as the Lockheed L-300 and the Boeing 707/720, to the list of excepted 
+airplanes in Sec.  26.43(g) of this final rule.
+
+C. Fatigue Critical Structure (FCS)
+
+    This final rule requires TC and STC holders to evaluate their 
+designs for baseline and alteration structure to identify FCS. They 
+must also develop lists of FCS and make the lists available to 
+operators.
+    This final rule defines fatigue critical structure as airplane 
+structure that is susceptible to fatigue cracking that could contribute 
+to a catastrophic failure, as determined under Sec.  25.571. This is 
+structure that may need special maintenance actions to manage the 
+threat of fatigue. This would be the case for structure that has the 
+potential to develop fatigue cracks that, without intervention, could 
+lead to a catastrophic failure. The fatigue evaluations are performed 
+to determine if special actions are needed and if so, to provide the 
+data needed to define the maintenance action requirements. Fatigue 
+critical structure may be part of the baseline structure or part of an 
+alteration to the baseline structure. As explained in the NPRM,\30\ by 
+referencing Sec.  25.571 in the sentence noted below, we intended to 
+rely on the many precedents established in finding compliance with this 
+section.
+
+    \30\ 71 FR 20583.
+---------------------------------------------------------------------------
+
+    Because of industry's extensive experience in showing compliance 
+with the damage tolerance requirements of Sec.  25.571, these key 
+terms [e.g., fatigue critical structure] should be readily 
+understood and applied.
+
+    To clarify how the criteria of Sec.  25.571 apply within the 
+context of this rule, we revised the definition of ``fatigue critical 
+structure'' by adding the following language: ``Fatigue critical 
+structure includes structure, which, if repaired or altered, could be 
+susceptible to fatigue cracking and contribute to a catastrophic 
+failure.''
+    Airbus, the ATA, and UPS, asked for a more detailed definition of 
+fatigue critical structure. They expressed concern that, as proposed, 
+the definition is open to varying interpretations, so it may not be 
+applied consistently across industry or across different airplane 
+models. UPS added that some STC holders do not have experience in 
+complying with Sec.  25.571. It asserted, the definition must be clear 
+so that it can be interpreted and applied in the same manner across the 
+industry.
+    The ATA and UPS said the methodology for identifying fatigue 
+critical structure should include quantitative criteria for assessing 
+the criticality of structural elements, based on a comparison of their 
+operational loads to their design limit loads or ultimate loads; and it 
+should account for load type and single- and multiple-load paths. Also, 
+the ATA said, the methodology should define what ``could contribute'' 
+means as stated in the definition of fatigue critical structure. It 
+recommended possibly using criteria similar to that in Sec.  25.1309 to 
+clarify the definition.
+    The term ``fatigue critical structure,'' as explained in the 
+proposed rule, is intended to identify the same kind of structure for 
+which applicants must perform fatigue evaluations to comply with Sec.  
+25.571.\31\ These evaluations have been required for new type 
+certificates since the adoption of Amendment 25-45 in 1978. 
+Furthermore, AC 25-571-1C, published in 1998, provides many examples of 
+the types of structural elements that should be evaluated. Therefore, 
+we believe there is little, if any, room for differing interpretations 
+of this term.
+---------------------------------------------------------------------------
+
+    \31\ Sec.  25.571(a): ``An evaluation of the strength, detail 
+design, and fabrication must show that catastrophic failure due to 
+fatigue, * * * will be avoided throughout the operational life of 
+the airplane. This evaluation must be conducted * * * for each part 
+of the structure which could contribute to a catastrophic failure 
+(such as wing, empennage, control surfaces, fuselage, engine mounts, 
+and their related primary attachments) * * *.''
+---------------------------------------------------------------------------
+
+    We believe many of the commenters' concerns result from differences 
+in the way industry has used the term ``principal structural elements'' 
+(PSEs). This term, as used in Sec.  25.571 and AC 25.571, is synonymous 
+with the term ``fatigue critical structure.'' That is, a PSE is 
+structure that needs to be evaluated to determine if special 
+maintenance actions are needed to manage fatigue. And if such actions 
+are needed, they must be defined. The meaning of PSE in Sec.  25.571 
+contrasts significantly with its usage in certain industry practices 
+that have evolved over the years.
+    For some TC and STC holders, a PSE is considered to be a specific, 
+localized area within fatigue critical structure where special, 
+directed inspections are required by an Airworthiness Directive (AD) or 
+airworthiness limitations. For example, all longitudinal skin splices 
+in a pressurized fuselage should be considered fatigue critical 
+structure if they are not immune to fatigue cracking which could lead 
+to a catastrophic failure. However, it may be reasonable to manage 
+fatigue in these splices by only performing a special directed 
+inspection on the most highly stressed area, which may only constitute 
+a small percentage of the at-risk structure.
+    Some TC and STC holders have identified the PSE as being limited to 
+this localized area. While this narrow usage of the term might be 
+acceptable within the context of specific supplemental inspection 
+documents (SID) or Airworthiness Limitations Sections (ALS), it could 
+and has led to confusion and inappropriate actions when taken out of 
+context. For this
+
+[[Page 70493]]
+
+reason, we have chosen not to use the term ``principal structural 
+element'' in this rule.
+    The purpose of requiring identification and listing of fatigue 
+critical structure under this rule is to provide operators with a tool 
+that will help in the evaluation of existing and future repairs and 
+alterations. In this context, fatigue critical structure (FCS) is any 
+structure that, if repaired or altered, could be susceptible to fatigue 
+cracking and contribute to a catastrophic failure.
+    In the case of the longitudinal skin splices discussed above, we 
+would expect that the FCS listed by the TC holder would include much 
+more structure than just, for example, the localized area that is being 
+inspected to gauge the fatigue state of all the splices. A hypothetical 
+repair applied to even the lowest stress area of the splices could 
+potentially make it more critical than the highest stressed area 
+without a repair by increasing and redistributing structural loads. The 
+result would be a repair needing its own special directed inspection to 
+prevent potentially catastrophic failure. The only way to cover this 
+contingency would be to perform a DTE.
+    As discussed above, we revised the proposed definition of FCS to 
+clarify how the criteria of Sec.  25.571 apply in the context of this 
+rule. As we stated in the NPRM, \32\ we intend for this rule to apply 
+to future type certificate holders, as well as current holders. Because 
+the list of FCS required by this rule may be more extensive than the 
+structure identified as airworthiness limitations items currently 
+developed by TC applicants, we added provisions to Sec.  26.43 
+paragraphs (a) and (e) to make it clear that the list of FCS must be 
+submitted as part of the type certification process. This requirement 
+will help ensure that, new TC holders are properly addressing DT 
+requirements in developing structural repair manuals (SRMs) and other 
+service documents for use by operators. It will also assist operators 
+in ensuring that a DTE is performed for all repairs and alterations to 
+structure identified as FCS, as required by the AASFR, from the 
+beginning of an airplane's operational life.
+---------------------------------------------------------------------------
+
+    \32\ 71 FR at 20583.
+---------------------------------------------------------------------------
+
+    Regarding the concern that STC holders may not have experience in 
+complying with Sec.  25.571, current and earlier versions of AC 25.571-
+1C provide guidance on identifying PSEs that is also applicable to 
+identification of FCS under this rule. Also, one reason this rule 
+requires a compliance plan is to ensure that TC holders, STC holders, 
+and the FAA have a common understanding of the rule's requirements, 
+including acceptable compliance methods.
+    Regarding suggestions to use quantitative methods or methodologies 
+used to comply with Sec.  25.1309, our intent is to use the same method 
+to identify FCS that is required by Sec.  25.571. Paragraph (a) of 
+Sec.  25.571 states that an evaluation must be conducted for ``each 
+part of structure that could contribute to a catastrophic failure.'' 
+Therefore, the applicant must determine which parts of structure could 
+contribute to a catastrophic failure when damaged as a result of 
+fatigue cracking. Applying a probabilistic approach to determine if and 
+when a part will contribute to a catastrophic failure has not been 
+industry practice in complying with Sec.  25.571. TC holders are 
+required under Sec.  25.571 to perform a damage tolerance evaluation on 
+structure to determine when fatigue cracking may occur. At that point 
+an inspection is performed to determine if cracking has occurred. A 
+probabilistic approach would raise many implementation questions 
+because fatigue cracking in metallic structure is a certainty and 
+detection is imperative in order to prevent catastrophic failure of 
+airplane structure. Probabilistic approaches would not be consistent 
+with our objective of facilitating timely compliance.
+
+D. Damage Tolerance Evaluation (DTE)
+
+    This rule requires TC holders and STC holders to review their 
+repair and alteration data and determine if a DTE is needed. Unless 
+previously accomplished, a DTE must be performed on all repairs and 
+alterations that affect fatigue critical structure. A DTE is a process 
+that leads to a determination of maintenance actions necessary to 
+detect or preclude fatigue cracking that could contribute to a 
+catastrophic failure. As applied to repairs and alterations, a DTE 
+includes the evaluation of the repair or alteration and the fatigue 
+critical baseline structure affected by the repair or alteration. 
+Acceptable methods for performing DTEs are described in AC 25.571-1C.
+    The maintenance actions developed as a result of a DTE may include 
+inspections, time limits for removal and replacement of repairs, 
+modification of the repair, alteration to improve its fatigue 
+characteristics, or in some cases modification of the affected FCS. The 
+type of maintenance action that is appropriate depends upon the type of 
+structure affected and the type of fatigue anticipated. For example, 
+for fatigue cracks that grow at a predictable rate and that can be 
+detected by inspections, a repetitive inspection program would be 
+acceptable. For cracks in locations that cannot be inspected and for 
+cracking that may grow too rapidly to be detected reliably, replacement 
+or modification may be necessary.
+    Section 26.43(c) requires TC holders to perform a DTE of those 
+repairs specified in their published repair data that affect fatigue 
+critical structure. Similarly, Sec. Sec.  26.45(c) and 26.47(c) require 
+TC and STC holders to perform a DTE on their FAA-approved alteration 
+data. In addition to the published repair and alteration data, this 
+final rule requires that all future repair and alteration data receive 
+a DTE to determine if inspections or other actions are necessary to 
+ensure the airworthiness of the repair or alteration. This rule also 
+requires TC holders to develop Repair Evaluation Guidelines (REGs) that 
+will enable operators to survey their airplanes to identify repairs 
+that affect fatigue critical baseline structure (FCBS) and to obtain 
+any necessary damage tolerance inspections (DTI) for those repairs. If 
+the REG directs the operator to obtain assistance from the TC holder 
+for developing the DTI, the TC holder must make such assistance 
+available.
+    As discussed below, based on comments to the NPRM, we revised the 
+proposed requirements in Sec. Sec.  25.1825(c) and 25.1827(c) (adopted 
+as Sec. Sec.  26.45(c)(1) and 26.47(c)(1), respectively)) to clarify 
+that a DTE must be performed and the DTI developed for the alteration 
+and the FCBS that is affected by the alteration.
+    Boeing and AAWG industry representatives asked that the regulatory 
+text in proposed Sec. Sec.  25.1825 and 25.1827 be revised to clarify 
+that both alteration and baseline structure need to be assessed. They 
+state that the description of the work proposed in these sections of 
+the NPRM may be interpreted to mean that DTIs only need to be developed 
+for the alteration that happens to affect FCBS. However, AAWG industry 
+representatives do not believe this is the interpretation the FAA 
+intends. AAWG industry representatives recommended that the language in 
+both Sec. Sec.  25.1825 and 25.1827 be changed to clearly say that the 
+following three components must be addressed for alterations:
+
+    1. Identification of alterations that affect baseline fatigue 
+critical structure.
+    2. Identification of the structural design details of the 
+alteration that require DTE.
+    3. Identification of the affected design details of the baseline 
+fatigue critical
+
+[[Page 70494]]
+
+structure that require a re-evaluation of their DTE.
+
+    The commenters are correct in that we did not intend for the 
+development of DTIs to be limited to the alteration structure. When a 
+DTE is performed for an alteration, the DTE must be applied to both the 
+alteration and the FCBS that is affected by the alteration. Therefore, 
+the DTI developed (as determined by the DTE) for an alteration would 
+apply to the alteration structure and to the FCBS that is affected by 
+the alteration. As stated above, we revised Sec. Sec.  25.1825(c) and 
+25.1827(c) (adopted as Sec. Sec.  26.45(c)(1) and 26.47(c)(1), 
+respectively) to clarify that for the alteration and the FCBS that is 
+affected by the alteration a DTE must be performed and the DTI 
+developed.
+    The FAA does not believe that Sec. Sec.  25.1825(c) and 25.1827(c) 
+(adopted as Sec. Sec.  26.45(c) and 26.47(c), respectively) need to be 
+revised to clarify that alterations that affect FCBS need to be 
+assessed, or to provide clarification on which structural design 
+details of an alteration would require a DTE. Sections 25.1825(c)(1) 
+(adopted as Sec.  26.45(c)(1)) and 25.1827(c)(1) (adopted as Sec.  
+26.47(c)(1)) already specify that a DTE must be performed for 
+alterations that affect FCBS. In addition, the structure of the 
+alteration that requires development of a DTI will be identified as 
+part of a DTE performed on the alteration. The DTI may need to be 
+developed for fatigue critical alteration structure or for other 
+alteration structure that may affect the FCBS. We expect that this 
+identification would be part of the DTE of the alteration.
+    Regarding the commenters' position that the proposed rule needs to 
+be revised to clarify the design details of the affected FCBS that will 
+need a re-evaluation of their DTE, the DTE of an alteration will 
+include an evaluation of the FCS that is affected by the alteration. 
+Therefore, in performing the evaluation of the affected FCBS, it must 
+be determined if new or revised DTIs need to be developed for this 
+structure. Such a determination is made as part of a DTE.
+    Mr. Thomas A. Knott, P.E., said the proposed rule ``is fine,'' 
+except it does not address repairs and modifications done under part 
+43. He said there are many alterations and repairs that were not 
+approved under an STC or developed by TC holders.
+    The FAA acknowledges that there are existing repairs and 
+alterations that were developed and installed under 14 CFR part 43 
+without involvement by DAHs. This final rule takes into account these 
+types of repairs. The guidelines the DAHs are required to develop will 
+describe procedures for operators to follow in developing DTIs for 
+repairs. For alterations affecting FCS for which no DAH is responsible, 
+the AASFR requires operators either to develop the DT data themselves 
+or contract for their development. Because there is no DAH for these 
+alterations, they may be especially problematic if the installers 
+failed to consider the fatigue characteristics of the alterations or 
+their effects on the baseline structure. Both repairs and alterations 
+will be identified and assessed as part of surveys conducted to support 
+compliance with the AASFR.
+
+E. Damage Tolerance Inspections (DTIs)
+
+    A DTI is defined in this final rule as inspections developed as a 
+result of a DTE. The DTI includes the location of the airplane 
+structure to be inspected, the inspection method, inspection procedures 
+that include acceptance and rejection criteria, and the thresholds and 
+intervals associated with those inspections. The DTI may also specify a 
+time limit when the repair or alteration needs to be replaced. As 
+discussed below, this definition reflects minor changes from the one in 
+the proposed rule.
+    Boeing asked that the FAA revise the definition of DTI. It said the 
+phrase ``and corrective maintenance actions'' could be confused with a 
+requirement to provide repair instructions or other corrective measures 
+for a condition found during an inspection. It said, historically, the 
+only instructions provided are how to accomplish the inspection 
+contained in the DTI and what action should be taken if the inspection 
+could not be accomplished. Therefore, Boeing requested that the phrase 
+``and corrective maintenance actions'' be removed from the definition 
+and replaced with the phrase, ``or a time limit when the repair needs 
+to be replaced, or both.''
+    We agree and have revised the definition in the final rule as 
+requested. The purpose of this rule is to support operators' 
+implementation of damage tolerance inspection programs, as required by 
+the AASFR. Operators already have access to information on corrective 
+actions in the form of SRMs and other documents that may be necessary 
+if the inspections reveal fatigue cracks. Therefore, it is not 
+necessary to include the phrase ``and corrective maintenance actions'' 
+in the definition of DTI.
+    Bombardier asked, with respect to inspections of repairs, that we 
+clarify the phrase ``the location of the airplane structure to be 
+inspected'' used in the DTI definition. Bombardier said it understands 
+this phrase to mean that the DTI should clearly define which regions of 
+the repair and underlying structure should be inspected and the NDT 
+(non-destructive testing) method to be used in carrying out the 
+inspection. It said the DTI should be clearly linked to the repair 
+data, which will of itself define the repair location.
+    The FAA agrees that the DTI should clearly define the areas of the 
+repair and underlying structure that should be inspected and the 
+inspection method to be applied. The DTI will be applicable to specific 
+repair data that will define the repair location. This approach is the 
+same as that currently used by TC holders in developing SRMs to comply 
+with Sec.  25.571, Amendment 25-45 and later.
+
+F. DT Data for Repairs
+
+1. Published Repair Data
+    This final rule requires TC holders to review their published 
+repair data and determine if DT data exist for the repairs or if the DT 
+data need to be developed. This final rule defines published repair 
+data as instructions for accomplishing repairs, which are published for 
+general use in SRMs and service bulletins (or equivalent types of 
+documents). As discussed below, we made minor revisions to the proposed 
+definition.
+    Boeing requested that we revise the definition of ``published 
+repair data'' to make it clearer. It recommended the following revised 
+version of the proposed definition:
+
+    Published repair data means applicable instructions for 
+accomplishing repairs, which are published for general use in 
+structural repair manuals and service bulletins (or equivalent types 
+of documents).
+
+    The FAA agrees with the recommended revision to the definition of 
+``published repair data,'' and we have revised the definition, 
+accordingly, with a minor change in wording.
+    Bombardier said a list of Structural Significant Items (primary 
+structure) is provided in the SRMs for Bombardier Regional Aircraft. It 
+urged the FAA to consider rulemaking to require the SRM to be an 
+approved document. The SRM, Bombardier commented, can then incorporate 
+all of the instructions for continuing airworthiness required by the 
+NPRM and described previously in AC 25.1529. It said this approach has 
+been used by Bombardier and Transport Canada for SRMs and component 
+maintenance manuals (CMMs) applicable to aircraft and components 
+certified as damage tolerant to Sec.  25.571 (Amendment 25-45) and 
+later.
+
+[[Page 70495]]
+
+    As explained in the NPRM, SRMs, while not required documents, are 
+FAA approved. Their purpose is to provide operators with readily 
+available sources of approved repair data. Because the operational 
+rules require that major repairs be accomplished according to FAA-
+approved data, an SRM that has not been FAA approved would not serve 
+operators' needs. The SRM, if assessed for damage tolerance under Sec.  
+25.571 (Amendment 25-45 or later Amendment), should include the 
+necessary instructions to ensure a particular repair meets the criteria 
+in AC 25.1529.
+2. Effects of Multiple Repairs
+    Mr. Glenn Davis commented that DT data should address the effects 
+of multiple repairs in close proximity on older aircraft, and future 
+inspections should be based on a ``worst case scenario of the 
+`combination effect' of the multiple repairs.'' He said the FAA might 
+consider requiring a time limit for individual or multiple repairs when 
+the repaired structure would have to be replaced, unless the applicant 
+or operator can confirm through a rational fatigue analysis, using an 
+acceptable fatigue model, that the repaired structure does not need to 
+be replaced. Mr. Davis said such a requirement could be applied to high 
+stress areas in older aircraft such as pressure bulkheads, door 
+apertures, attach fitting support structure for wings, and stabilizers.
+    The FAA agrees with Mr. Davis's comment that the DT data, 
+specifically the DTE, should take into account the close proximity of 
+repairs. AC 25.571-1C provides guidance on determining the effects of 
+multiple repairs that are in close proximity. In addition, the repair 
+assessment guideline (RAG) documents developed in support of Sec.  
+121.370 (redesignated as Sec.  121.1107)\33\ address the effects of 
+these types of repairs on the pressure vessel. The FAA believes that 
+existing guidance in AC 25-571-1C, along with guidance developed in AC 
+120-93, as part of this final rule, adequately addresses this issue.
+---------------------------------------------------------------------------
+
+    \33\ Repair Assessment for Pressurized Fuselages final rule (65 
+FR 24108; April 25, 2000).
+---------------------------------------------------------------------------
+
+G. Repair Evaluation Guidelines (REGs)
+
+    This final rule requires TC holders to develop REGs that include 
+processes operators could use to support compliance with Sec. Sec.  
+121.1109 and 129.109 for repairs that affect FCBS. The guidelines must 
+include--
+    <bullet> A process for conducting surveys of affected airplanes to 
+identify and document all existing repairs that affect FCBS;
+    <bullet> A process that will enable operators to obtain DTIs for 
+repairs that affect FCBS and for the FCBS affected by the repairs; and
+    <bullet> An implementation schedule that provides the timing for 
+conducting airplane surveys and for developing and incorporating DTIs 
+into the operator's maintenance program.
+    TC holders must submit the REGs to the FAA Oversight Office for 
+review and approval and then make them available to affected operators.
+    As discussed below, we made several minor revisions to the proposed 
+REG requirements.
+    In Sec.  25.1823(f)(1)(iii) and (f)(4) (adopted as Sec.  
+26.43(e)(1)(iii) and (e)(4)), we removed the term ``DT data'' from the 
+phrase ``DT data implementation schedule.'' We made this change because 
+the term ``DT data implementation schedule'' may be misunderstood to 
+mean the actual timing of DT inspections (thresholds and inspection 
+intervals). It was only intended to refer to the timing of major 
+process related events (i.e., survey, development of DTIs, and 
+incorporation of the DTI into the maintenance program).
+    We revised proposed Sec.  25.1823(f)(1)(iii) (adopted as Sec.  
+26.43(e)(1)(iii)) to make it clear that the implementation schedule 
+must identify the times when actions must be taken as specific numbers 
+of flight cycles, flight hours, or both. In developing its 
+recommendation regarding implementation schedules, the AAWG proposed an 
+approach that would have referenced the design service goal (DSG) for 
+determining the timing of various actions and would have allowed for 
+variability in DSGs for different airplanes of the same model, 
+depending upon actual flight lengths and other factors.
+    We agree with the AAWG that it is appropriate to allow reference to 
+DSGs in the implementation schedule to allow for industry resources to 
+be allocated for compliance when they are needed. For example, the AAWG 
+recommended that certain actions be taken when an airplane reaches \3/
+4\ DSG, before which fatigue cracking is less likely to have occurred. 
+However, allowing variability in DSG for different airplanes of the 
+same model would introduce a level of complexity and uncertainty to the 
+requirements of the operational rules that would jeopardize their 
+enforceability. Therefore, this rule requires that DSGs be stated as 
+``hard numbers.''
+    We revised Sec.  25.1823(f)(3) (adopted as Sec.  26.43(e)(3)) to 
+remove the requirement that TC holders must make REGs available to STC 
+holders. As adopted, this paragraph only requires the TC holder to make 
+the REGs available to specified operators. We made this change because 
+if STC holders have access to the TC holder's list of FCS, they will 
+not need their REGs.
+    We also revised Sec.  25.1823(f)(4) (adopted as Sec.  26.43(e)(4)). 
+The proposed paragraph reads as follows: ``If the guidelines direct the 
+operator to obtain assistance from the holder of a type certificate, 
+provide such assistance in accordance with * * *'' We revised this 
+paragraph in the final rule to replace the words ``provide such 
+assistance'' with the words ``make such assistance available.'' This 
+change makes it clear that, as with other requirements for TC holders 
+to support operators, this rule is not intended to require TC holders 
+to provide this support without compensation.
+    Boeing said proposed Sec.  25.1823(f)(3) specifies that the TC 
+holder will make available the guideline documents to various entities. 
+Boeing believes this proposed requirement is in error and the reference 
+to proposed Sec.  25.1827 should be removed from Sec.  25.1823. Section 
+25.1827 is applicable to holders of and applicants for an STC. In 
+reading Sec.  25.1827 and draft AC 120-XX,\34\ Boeing said there is no 
+need for third parties to have access to the guidelines developed as 
+part of Sec.  25.1823. According to Sec.  25.1827 and AC 120-XX, the 
+only data required by an STC holder is the list of fatigue critical 
+structure, as stipulated in Sec.  25.1823(c)(2). In light of this, 
+Boeing said, the reference to Sec.  25.1827 should be deleted from 
+proposed Sec.  25.1823.
+---------------------------------------------------------------------------
+
+    \34\ Issued as AC 120-93.
+---------------------------------------------------------------------------
+
+    We agree that STC holders do not need the guidelines to comply with 
+this final rule as long as they have access to the TC holder's list of 
+FCS. We have revised the final rule as discussed above.
+    Boeing commented that proposed Sec.  25.1823(f)(4) appears to be 
+using incorrect terminology. It said the wording in Sec.  25.1823(f)(4) 
+could circumvent the current business practices and established 
+relationships between the TC holder and the operator. Boeing requested 
+that paragraph (f)(4) be changed as follows:
+
+    If the guidelines direct the operator to obtain assistance from 
+the holder of a type certificate, the holder of the type certificate 
+will make available such assistance in accordance with the DT data 
+implementation schedule.
+
+    It was not our intent to require TC holders to provide assistance 
+to operators without compensation. As
+
+[[Page 70496]]
+
+indicated above, we have revised the final rule as the commenter 
+requested.
+    UPS expressed concern about the effectiveness of the proposed REGs. 
+The proposed rule, it said, assumes that practical, cost effective REGs 
+are achievable. However, the proposed procedure will be significantly 
+more complex than the current Repair Assessment Guideline (RAG) 
+documents, which only survey fuselage skin. UPS said the current repair 
+assessment of pressurized fuselage skin results in removal and 
+replacement of some repairs due to the inability to accurately 
+determine the exact repair details. Fuselage skin repairs are 
+relatively easy to assess because almost all damage is cut out and one 
+side of the repair is accessible for detailed measurements. For other 
+structure (e.g., stringers, ribs, spars, frames, shear clips, bathtub 
+fitting) the ability to determine hidden repair details may not be 
+possible without removing the repair. Consequently, the proposed survey 
+method of documenting and establishing DTIs on existing repairs could 
+result in a higher than necessary repair replacement frequency. To 
+minimize the impact of the DTE of repairs, UPS believes it is vital 
+that the FCS be properly identified.
+    In response to UPS's concerns about the effectiveness of the 
+proposed REGs, the airplane repair survey process was patterned after 
+existing RAG documents to minimize the impact of the DTE of repairs. AC 
+120-93 provides guidance for performing surveys to identify repairs 
+that may affect FCS.
+    Regarding UPS's comment that certain structure may be difficult to 
+inspect without having to remove the repair, operators should work with 
+the TC holder in the Structural Task Group (STG) meetings to ensure an 
+efficient process is developed for assessing repairs to minimize the 
+unnecessary removal of repairs. The DTE will determine what actions are 
+necessary to ensure the continued airworthiness of the affected FCBS. 
+Performing DTIs on these airplanes should be no more difficult than 
+performing them on airplanes for which repair data already have DTIs 
+for compliance with the airplane's certification basis. We agree that 
+it is vital that FCS be properly identified. As discussed previously, 
+this final rule requires TC holders to apply the same analytical 
+methods to create this list that they have applied for many years in 
+complying with Sec.  25.571.
+
+H. DT Data for Alterations
+
+    This final rule requires TC holders to perform DTEs, and develop 
+DTI, if necessary, for their alterations that affect FCBS. For existing 
+alterations, TC holders must submit the DT data for FAA approval by 
+June 30, 2009. For future alterations, the DT data are required before 
+we approve the alteration data.
+    Similarly, STC holders must perform DTEs and develop DTIs for their 
+alterations that affect FCBS. In addition to alterations, some STC 
+holders must perform DTEs and develop DTIs, if necessary, for repairs 
+developed by them that affect any FCS. For existing alterations, STC 
+holders must submit the DT data for FAA approval by June 30, 2009. For 
+future alterations, the DT data are required before we approve the 
+alteration data.
+    The sections of the proposal that relate to alterations, 
+(Sec. Sec.  25.1825 and 25.1827 (adopted as Sec. Sec.  25.45 and 25.47, 
+respectively)) were revised as discussed below to make them clearer. As 
+proposed, these sections may be misinterpreted to mean that the TC and 
+STC holders need to perform a DTE of their alterations as installed on 
+individual airplanes, addressing variations in the configurations of 
+these airplanes. Our intent, however, is that they perform a DTE only 
+of their alteration design data.
+    These sections may also be misinterpreted to mean that DTIs only 
+need to be developed for the FCS of the alteration. In addition, as 
+stated in the definition of damage tolerance evaluation in proposed 
+Sec.  25.1823(b), we intended that the DTE would also apply to the FCBS 
+that is affected by the alteration and that the resulting DTI would 
+also address the affected baseline structure. To clarify these 
+requirements, the final rule specifies that TC and STC holders must, 
+for each alteration affecting FCBS, identify and develop DTIs for both 
+the FCBS that is affected by the alteration and the fatigue critical 
+alteration structure. Other than some additional minor wording changes, 
+there are no other changes to the sections of the final rule pertaining 
+to alterations.
+    The ATA commented that the FAA should limit the number of DTEs 
+necessary for alterations. Proposed Sec.  25.1825(c) and Sec.  
+25.1827(c) require TC holders to perform a DTE of each existing and 
+future alteration and submit DT data for the existing alterations to 
+the FAA. These provisions would apply to an impracticable number of 
+alterations, according to the commenter. The ATA recommended, 
+therefore, that the FAA clarify Sec. Sec.  25.1825(c) and 25.1827(c) to 
+stipulate that ``each alteration'' applies to each certificate or 
+approval of an alteration rather than each installation.
+    The FAA agrees that it would be impracticable for TC or STC holders 
+to perform a DTE for alterations as installed on individual airplanes, 
+which may contain alterations and repairs that would affect the DTE of 
+which the TC or STC holder is unaware. It was not the FAA's intent to 
+require TC and STC holders to develop DT data for the actual 
+installation of their developed design changes (alterations), but 
+rather to require them to perform a DTE of the design changes affecting 
+FCBS that are specified in their FAA-approved alteration data. This DTE 
+must, however, address the range of airplane configurations on which 
+the TC or STC holder showed the alteration is eligible for 
+installation. We revised Sec. Sec.  25.1825(c) and 25.1827(c) (adopted 
+as Sec. Sec.  26.45(c) and 26.47(c), respectively) to clarify that the 
+DAHs are only responsible for performing DTE of their alteration data, 
+and not of the alterations as actually installed.
+
+I. Required Documentation
+
+    The ATA said the FAA should define the documents required of DAHs 
+as specifically as possible, and the product should be delivered to the 
+FAA for certification or approval in a form ready for direct 
+installation or incorporation as required by the associated operating 
+rule. The ATA said adherence to this recommendation should be 
+facilitated by the participation of Structural Task Groups (STG) in the 
+development of the DTI and REG. The ATA recommended that the FAA use 
+consistent terminology in the final rule and in AC 120-XX,\35\ so they 
+clearly describe the documentation and data DAHs must make available to 
+operators. It said draft AC 120-XX states that DAHs would provide 
+operators with a model-specific ``compliance document.'' The NPRM, 
+however, does not discuss the ``compliance document'' referenced in the 
+draft AC. Similar to the ATA comment, Horizon Air asked that the rule 
+define the specific type of required data that DAHs must make available 
+to operators.
+---------------------------------------------------------------------------
+
+    \35\ Issued as AC 120-93.
+---------------------------------------------------------------------------
+
+    We agree with the ATA that this final rule should clearly identify 
+the required data and documents. This final rule requires DAHs to 
+develop and make available to operators lists of fatigue critical 
+structure, damage tolerance inspections for their alterations and 
+repair data (supported by DTE documentation submitted to the FAA), 
+repair evaluation guidelines, and implementation schedules.
+    Based on the Aviation Rulemaking Advisory Committee's (ARAC)
+
+[[Page 70497]]
+
+recommendations, the FAA developed AC 120-93 to facilitate DAH 
+compliance with this rule and operator compliance with the AASFR. This 
+AC describes a compliance document that would either contain or 
+reference these required documents. Because the compliance dates for 
+these documents differ, the DAH would not make the compliance document, 
+as a whole, available until the last of these documents is approved.
+    As described in the AC, this compliance document would support an 
+operator's development of an Operator's Implementation Plan (OIP). The 
+OIP would provide the means for addressing the adverse effects of 
+repairs and alterations. Once this OIP is approved by the operator's 
+principal maintenance inspector (PMI), the operator would comply with 
+the AASFR by incorporating the OIP into its maintenance program and 
+implementing the OIP by performing surveys of its airplanes, obtaining 
+necessary damage tolerance inspections and procedures, and performing 
+those inspections and procedures, all in accordance with the approved 
+implementation schedule contained in the OIP.
+    STGs, working under the auspices of the ARAC's Airworthiness 
+Assurance Working Group (AAWG), may be convened to assist TC holders in 
+developing airplane model-specific DT data. This rule and AC 120-93 
+reflect consistent terminology. The DT data to be developed and made 
+available are described in Sec. Sec.  26.43, 26.45, and 26.47 of this 
+final rule, as well as in AC 120-93.
+
+J. Proprietary Data
+
+    The ATA said the FAA should work with DAHs to establish a narrow 
+and clear definition of proprietary data. DAHs have expressed concerns 
+that the proposed requirements could lead to the disclosure of 
+proprietary data (e.g., DT documentation). Conversely, operators are 
+concerned that restrictive disclosure policies could result in REGs and 
+DTIs that are too general to be used without costly and time-consuming 
+consultation with the DAH. The ATA recommended that the FAA coordinate 
+with DAHs to support a goal for documents that must be ``made 
+available'' under the proposal that would allow operators to comply 
+autonomously with the DT requirements without consulting with the DAH 
+more than absolutely necessary. ATA said the FAA can support this 
+recommendation further by providing guidelines to DAHs and STGs to 
+ensure that claims of proprietary data are not overstated.
+    For many years, the FAA has required DAHs to disclose to affected 
+persons information they might otherwise consider proprietary. For 
+example, since 1981, DAHs have been required to provide Instructions 
+for Continued Airworthiness, including DT data, which DAHs may have 
+considered proprietary. However, because we have determined that this 
+information is essential to maintaining the airplanes in an airworthy 
+condition, we have required DAHs to make it available as a condition 
+for obtaining and retaining their certificates. Regarding the 
+usefulness of the documents developed by the DAHs, because we expect 
+these documents will be developed by DAHs in collaboration with the 
+affected operators, we anticipate that the operators will ensure they 
+are useful for their intended purposes. FAA technical specialists will 
+also be monitoring development of these documents for this purpose.
+
+K. Compliance Plan
+
+    This final rule includes requirements for a compliance plan to 
+ensure that affected TC and STC holders produce DT data in a timely 
+manner that are acceptable in content and format. Integral to the 
+compliance plan are procedures to allow the FAA to monitor progress 
+toward compliance. The affected TC and STC holders must submit to the 
+FAA Oversight Office on the compliance dates specified in the rule a 
+compliance plan that addresses--
+    <bullet> The project schedule for meeting the compliance dates, 
+including all major milestones;
+    <bullet> A proposed means of compliance with the requirements to 
+develop and make available DT data; and
+    <bullet> A plan to submit to the FAA Oversight Office, not less 
+than 60 days before the stated compliance dates, a draft of the 
+required compliance items.
+    Based on comments submitted to other DAH airworthiness rules, the 
+FAA has determined that we can remove some provisions of proposed Sec.  
+25.1829 (adopted as Sec.  26.49) without adversely affecting our 
+ability to facilitate DAH compliance. Specifically, in Sec.  
+25.1829(a)(3), we proposed a requirement for DAHs to identify the 
+intended means of compliance that differ from those described in FAA 
+advisory materials. While this is still a desirable element of any 
+compliance plan, we have concluded that an explicit requirement is 
+unnecessary. As with normal type certification planning, we expect that 
+DAHs will identify these differences and fully discuss them with the 
+FAA Oversight Office early in the compliance period to ensure that 
+these differences will ultimately not jeopardize full and timely 
+compliance.
+    Similarly, Sec.  25.1829(c) contains provisions that would have 
+authorized the FAA Oversight Office to identify deficiencies in a 
+compliance plan or the DAH's implementation of the plan and to require 
+specified corrective actions to remedy those deficiencies. While we 
+anticipate that this process will still occur in the event of potential 
+non-compliance, we have concluded that it is unnecessary to adopt 
+explicit requirements to correct deficiencies.
+    Ultimately, DAHs are responsible for submitting compliant documents 
+by the dates specified in Sec. Sec.  26.43, 26.45, and 26.47 of this 
+final rule. Section 26.49 retains the requirements to submit a 
+compliance plan and to implement the approved plan. If the FAA 
+Oversight Office determines that the DAH is at risk of not submitting 
+compliant documents by the compliance dates because of deficiencies in 
+either the compliance plan or the DAH's implementation of the plan, the 
+FAA Oversight Office will document the deficiencies and request DAH 
+corrective action. Failure to implement proper corrective action under 
+these circumstances, while not constituting a separate violation, will 
+be considered in determining appropriate enforcement action if the DAH 
+ultimately fails to meet the requirements of this section.
+    We also added an exception for future TC applicants in Sec.  
+26.49(a) to make it clear that these applicants are not required to 
+submit a separate compliance plan for the applicable requirements of 
+this final rule. These compliance issues should be addressed as part of 
+the normal certification plan submitted for any type certificate 
+project.
+    Section 25.1829(5) included a proposed requirement to include in 
+the compliance plan a process for continually assessing service 
+information related to structural fatigue damage. We have reconsidered 
+this proposed requirement and concluded that existing regulations \36\ 
+that require both DAHs and operators to report structural defects 
+should be adequate to enable us to determine whether the objectives of 
+this final rule are being met. Therefore, we removed this provision 
+from the final rule.
+---------------------------------------------------------------------------
+
+    \36\ 14 CFR 21.3 and 121.703.
+---------------------------------------------------------------------------
+
+1. Process for Continuous Assessment of Service Information
+    Bombardier, in its comment on the compliance plan, referred to the 
+proposed requirement that the compliance plan must address a process 
+for continuous assessment of service information. Bombardier said 
+feedback
+
+[[Page 70498]]
+
+from operators on the effectiveness and findings resulting from DT-
+based inspections of baseline structure, as well as repairs and 
+alterations, may not be adequate to enable them to meet this 
+requirement.
+    As discussed above, we have removed this provision from this final 
+rule since existing regulations will enable us to determine if the 
+objectives of this final rule are being met.
+2. Timing of FAA Approval
+    Airbus expressed concern that the FAA may not have sufficient 
+resources to handle approval of compliance plans in a timely manner. 
+Therefore, it recommends a thorough review of FAA resources needed for 
+this activity before committing to the proposed compliance date.
+    FedEx said it understands that the compliance documents must be 
+approved by the FAA Aircraft Certification Office (ACO) before they are 
+made available to operators, but the proposed rule does not state when 
+the documents would be made available to operators. FedEx said the rule 
+should include a date by which the FAA would approve the DT data that 
+TC and STC holders provide, as well as a date by which the approved 
+data will be made available to operators.
+    The ATA said the FAA should commit to a schedule for approving the 
+DT data from DAHs and implementation plans from operators. It requested 
+that the FAA give an estimate of when industry can expect the FAA to 
+approve the DT documents and implementation plans, taking into account 
+the volume of the submissions.
+    We are not including time frames in the regulation for our review 
+and approval of the compliance plans and compliance documents. 
+Expectations for FAA personnel have been defined in FAA Order 8110.26, 
+which directs the Aircraft Certification Service and Flight Standards 
+Service in their roles and responsibilities for implementing these 
+initiatives. The Order includes expected times for reviewing and 
+approving DAH compliance plans, plans to correct deficiencies, and 
+draft and final compliance data and documents. To facilitate 
+implementation, we will also train affected personnel in their roles 
+and responsibilities and provide familiarization with requirements of 
+the regulations and associated guidance. However, our ability to 
+approve documents, and the timing of our approvals, ultimately depends 
+on the quality of the documents submitted by the DAHs and their 
+responsiveness if we identify deficiencies.
+
+L. Harmonization
+
+    The AAWG industry representatives, ATA, Boeing, Embraer, and 
+Horizon Air commented that the FAA should harmonize the DT Data rule 
+with EASA and other national airworthiness authorities. If the rule is 
+not harmonized, the AAWG industry representatives expressed concern 
+that the FAA's retention of authority to make all necessary compliance 
+determinations for foreign DAHs will establish ``a substantial 
+precedent that could create a significant challenge to all future 
+certification programs.'' The AAWG industry representatives said the 
+stated requirements advocate ``a procedure that could permit unilateral 
+and potentially arbitrary certification activities at the whim of any 
+regulatory authority.''
+    Boeing and the ATA said the lack of harmonization will cause 
+unnecessary conflicts and complexities between the FAA's and foreign 
+authorities' requirements. Boeing said while it is aware that EASA is 
+pursuing a similar proposal, EASA may not adopt the same requirements 
+as the FAA. Also, Boeing said, having to comply with different 
+requirements in the same time frame would cause added complications and 
+difficulties with meeting aggressive schedules, and it would result in 
+unnecessary, additional work for the FAA.
+    Both Boeing and the ATA believe harmonization is a standard of 
+excellence that has been achieved over many years of hard work and this 
+rule should not interfere with that achievement.
+    We agree with the commenters that harmonization of this rule with 
+other national authorities is an important objective. We fully expect 
+to coordinate with EASA and other authorities on findings of 
+compliance. EASA and Transport Canada Civil Aviation (TCCA) have 
+participated in the AAWG's development of the AC that will support 
+compliance with this final rule. As a follow-on to this activity, EASA 
+has proposed the formation of a European Aging Aircraft Working Group 
+and has requested participation by the FAA. The FAA plans to support 
+this activity with representatives from both the Aircraft Certification 
+Service and the Flight Standards Service. There is general agreement 
+among the authorities on the need to address DT for repairs and 
+alterations and on the approach adopted in this rule.
+    The AAWG industry representatives commented that there is the 
+potential for creating substantial negative impact in the industry with 
+respect to airplane certification sales and transfers between U.S. and 
+foreign entities because the proposal has not been harmonized with 
+EASA. According to the AAWG industry representatives, the economics of 
+this impact has not been accounted for in the regulatory evaluation; 
+therefore, the FAA should assure that the final rule is harmonized to 
+the extent possible with EASA because of the potential economic issue 
+for all parties. The AAWG industry representatives also said it appears 
+that the long-term intention of EASA is to harmonize with the U.S. 
+requirements by 2008 or 2009. And it said that the implementation time 
+scales are different between the two authorities' approaches.
+    This rule will not have the negative effects suggested by the 
+commenter. In fact, by requiring DAHs to develop and make available the 
+data necessary to comply with the AASFR, this rule will facilitate 
+compliance for all airplanes, which is a prerequisite for 
+transferability. All authorities recognize that harmonization of this 
+rule is important in that common requirements will allow expeditious 
+transfer of airplanes across borders, and we are working towards that 
+objective.
+1. Foreign Authority Approval of Required Data
+    Airbus commented that the NPRM preamble indicates that the FAA 
+cannot accept foreign authority approval for documents under Bilateral 
+Agreements because these foreign authorities have not yet adopted a 
+similar rule. It said the Joint Aviation Authorities (JAA) issued and 
+applied Notice of Proposed Amendment (NPA 20-10) (the European Aviation 
+Safety Agency (EASA) updated NPA 20-10 to NPA 05/2006), which addresses 
+the same airworthiness issues and incorporates similar technical 
+guidance. Moreover, evaluation of repairs, alterations, and 
+modifications to DT requirements is state-of-the-art and is approved 
+under the EASA regulatory system on a daily basis.
+    Airbus also said it will be at a disadvantage by having to deal 
+unilaterally with the FAA without the support and involvement of EASA. 
+Also, it said it would have to coordinate with the FAA's international 
+branch along with several other non-U.S. TC holders. However, U.S. TC 
+holders will have a dedicated FAA certification office to work with and 
+may be able to use their authorized designees to perform compliance 
+related activities.
+    According to Airbus, obtaining support from the FAA is especially 
+important for proposed Sec. Sec.  25.1823(d) and 25.1825(c) and (d) for 
+alteration and
+
+[[Page 70499]]
+
+repair approvals. Therefore, Airbus requested that the FAA include EASA 
+in the approval process, such that in the near future the FAA could 
+accept the majority of the activities performed by EASA under the 
+Bilateral Agreement. In addition, Airbus requested that the FAA give 
+non-U.S. TC and STC holders the same level of priority and the same 
+allocation of FAA resources as U.S. TC and STC holders. This, Airbus 
+said, would help mitigate delays in reaction and approval time.
+    Horizon Air said the proposed rule states that data will be 
+submitted to the FAA Oversight Office or its properly authorized 
+designees. In defining ``authorized designees,'' reference is made only 
+to Designated Engineering Representatives (DERs) specifically 
+authorized by their supervising ACO.
+    Horizon Air also said that currently because of the Bilateral 
+Agreement between Transport Canada and the FAA, it is able to 
+incorporate DTE and DTI documentation for Bombardier and deHavilland 
+airplanes directly into its maintenance program. Under the new rule, it 
+appears it would be required to submit the developed repair data to the 
+ACO before being able to implement it. Therefore, Horizon Air requested 
+that Foreign Authorities, specifically Transport Canada, or their 
+designees be included under Bilateral Agreements.
+    We recognize the important role other national authorities are 
+likely to play in implementation of this rule. In addition to the on-
+going efforts to harmonize these requirements, we have been working 
+closely with the other national authorities to define appropriate 
+roles, responsibilities, and relationships among all affected 
+authorities. As discussed in the NPRM, the compliance planning 
+provisions are equally important for foreign TC holders, and we expect 
+to have mutually agreeable arrangements with their authorities on how 
+compliance planning will be overseen. We expect these other authorities 
+to play a major role in reviewing their TC holders' compliance plans 
+and other required documents, which will enable us to provide timely 
+approvals for all affected TC and STC holders, assuming the submitted 
+documents comply with the applicable requirements.
+
+M. Enforcement
+
+    Bombardier and UPS expressed concerns about enforcement. Bombardier 
+asked what mechanism the FAA would use to impose civil penalties on 
+non-U.S. DAHs. UPS said the proposed rule does not state how the FAA 
+would handle a DAH that does not complete the damage tolerance 
+assessment tasks on time. It is also concerned whether the FAA can 
+effectively enforce the intent of these types of provisions.
+    The compliance planning provisions of this rule are intended to 
+facilitate timely compliance and avoid the need of enforcement for non-
+compliance. However, under 49 U.S.C. 46301, the FAA has authority to 
+take civil penalty action without regard to nationality of the 
+respondent. The FAA's general enforcement policies, which are set forth 
+in 14 CFR part 13 and Order 2150.3, will apply to the DAH requirements. 
+These general policies provide wide discretion for us to impose 
+administrative action, civil penalties (up to $25,000 per violation per 
+day) or action against a TC or STC holder's certificate (including 
+suspension or revocation).
+    If a TC or STC holder is found to be non-compliant, we will 
+consider the circumstances of non-compliance before determining an 
+appropriate course of action. For example, deliberate violations will 
+be treated more severely than inadvertent non-compliance. Any 
+enforcement action the FAA may choose to take will be in consideration 
+of the circumstances of the violation and defined on a case-by-case 
+basis.
+
+N. Industry and FAA Resources
+
+    UPS commented that DT analysis depends on complex methodology and 
+data. Because of this, there are very few DERs in the industry that 
+have FAA DTE approval authority. UPS suggested it is highly unlikely 
+that this methodology and relevant data can be streamlined into an 
+approach that is useful and effective. It suggested the FAA establish 
+an initiative to authorize additional structures DERs with DTE approval 
+authority.
+    ABX expressed concern that both industry and the FAA have a 
+shortage of specialists in areas related to the rule. It said FAA ACOs 
+don't have enough resources to provide the needed support to industry 
+in a timely manner. It also said the present delegation requirements in 
+the area of DT are unachievable for non-OEM DERs. Therefore, ABX said 
+the FAA, with support of the industry, should take the following steps:
+    <bullet> Create different levels of delegation for DTE. If 
+necessary, keep the requirements the same for full authority but allow 
+DERs with less than required experience to obtain delegation to show 
+compliance in specific areas, using previously FAA-approved 
+methodology.
+    <bullet> Provide training to DERs and/or call for specific college 
+courses that can substitute the experience to facilitate the 
+delegation.
+    <bullet> Develop methodologies for DT analysis in the areas that 
+are frequently needed by operators and STC holders.
+    <bullet> Postpone any rulemakings until the industry has the 
+required tools to comply with the rule in the mandated time frame.
+    Recognizing the limited industry and FAA resources available to 
+perform and approve DTEs, ARAC has developed guidance material in AC 
+120-93 that describes a means of compliance with this rule and the 
+AASFR that allows the available resources to focus on the highest 
+priority DTEs for repairs. This AC describes an implementation schedule 
+with a phased-in approach under which existing repairs on the older and 
+higher-utilization airplanes are assessed first (highest risk repairs), 
+with newer airplanes being assessed when they approach their design 
+service goal (DSG). This approach is similar to that established for 
+certain RAGs developed for compliance with Sec.  121.370\37\ 
+(redesignated as Sec.  121.1107)). Therefore, we find the 
+implementation schedule approach described in AC 120-93 to be a 
+rational one. We believe this approach will help ensure that adequate 
+industry and FAA resources will be available to support timely 
+compliance with this final rule and with the AASFR.
+---------------------------------------------------------------------------
+
+    \37\ Special maintenance program requirements.
+---------------------------------------------------------------------------
+
+    The FAA agrees that there is a need for an increased number of 
+designees having authorization for DT. To address this potential 
+problem, the FAA is continuing to hold DER seminars to encourage 
+participation by DERs in these programs. DERs can work with their FAA 
+Oversight Office to develop a plan that would support expanding their 
+authorized delegation to include DT. Due to the complexities associated 
+with DT, particularly those related to performing DTEs on repairs and 
+alterations, it is necessary to ensure DER candidates have adequate 
+experience in performing DT and in analyzing repairs and alterations. 
+The current process for obtaining DT-delegated functions requires DER 
+applicants to have at least 1 year of experience in performing DTEs. 
+This experience is necessary for the FAA to gain a level of confidence 
+that the DER, once authorized to perform DT on repairs and alterations, 
+will submit DT data that are appropriate and not subject to a need for 
+extensive review by the FAA Oversight Office.
+    For compliance with the AASFR, it is of particular importance that 
+the DERs have a working knowledge of what is required for showing 
+compliance with Sec.  25.571 for repairs and alterations. The FAA does 
+not agree with the
+
+[[Page 70500]]
+
+commenter's recommendation to allow DER candidates with less than the 
+required experience to obtain a delegation for DT, or to substitute the 
+requirement for experience with college courses to facilitate 
+delegation. Experience is a key element in ensuring the success of the 
+FAA's delegation program.
+    Regarding the recommendation that the FAA develop methodologies for 
+DT analysis in the areas that are frequently needed by operators and 
+STC holders, we believe the methodologies employed today, which have 
+been used for several years throughout the aviation industry, are 
+adequate. Damage-tolerance-based programs such as RAGs developed by TC 
+holders to support operator compliance with Sec.  121.370 (redesignated 
+as Sec.  121.1107), provide a streamlined approach operators can use 
+for assessing repairs common to the airplane pressure boundary. 
+Expansion of these guidelines to address additional structural areas 
+(e.g., frequently repaired areas), or development of new RAGs, may 
+support operator compliance with the AASFR. However, these types of DT-
+based programs are model specific and typically require TC holder 
+involvement. Operators should coordinate with TC holders during STG 
+meetings to determine the need for such programs and how they should be 
+structured.
+    We disagree with the recommendation to postpone this rulemaking 
+because we do not believe industry needs additional time to comply. As 
+we have discussed, this final rule is needed to support operator 
+compliance with the AASFR. That rule was adopted in February 2005. 
+Delaying adoption of the DAH requirements in this rule would adversely 
+affect operators' ability to meet the compliance time frame in the 
+AASFR. In addition, methodologies for performing a DTE have been 
+applied for several years and are readily available. Also, to reduce 
+the resource burden, we describe in AC 120-93 an implementation 
+schedule that may provide more time for operators to obtain DTEs for 
+alterations for which there are no TC or STC holders. This 
+implementation schedule may provide, in part, a means for addressing 
+the potential adverse effects of alterations.
+    UPS said some STC holders may not have the resources (either 
+financially, technically, or both) to comply with the proposal. 
+Further, it said, the proposal does not address the situation where an 
+STC holder has gone out of business or has surrendered its STC to the 
+FAA.
+    The FAA recognizes that there may be some occasions where the DAH 
+is unwilling or unable to comply with the regulations. There may also 
+be cases where the DAH no longer exists. As stated in the policy 
+statement, Safety--A Shared Responsibility--New Direction for 
+Addressing Airworthiness Issues for Transport Category Airplanes, under 
+these circumstances, the operator is still obligated to comply with the 
+operational rules. However, the FAA recognizes that such occasions may 
+significantly complicate the operator's effort to show compliance with 
+the operational rules. The FAA recommends the affected operators 
+contact their DAHs early in the compliance process to ensure their 
+intent to comply. These operators are also encouraged to collaborate 
+with other operators who may also be impacted by lack of support on a 
+means for compliance.
+
+O. Compliance Dates
+
+    As noted before, today's final rule supports the AASFR, which 
+requires operators to incorporate a means to address the adverse 
+effects of repairs and alterations into their maintenance program by 
+December 20, 2010. This DAH DT Data final rule includes compliance 
+dates that require DAHs to make the required DT documents available to 
+operators in enough time for them to comply with their approved means 
+for addressing repairs and alterations. The approved means will include 
+implementation schedules that provide timing for when airplane repair 
+surveys are to be performed and when DTI or other maintenance actions 
+for repairs and alterations need to be incorporated into the 
+maintenance program. Certain of the compliance dates in the DAH DT Data 
+final rule have changed from those in the proposed rule.
+    Specifically, in proposed Sec.  25.1823(g)(1), TC holders would 
+have 90 days after the effective date of the rule to submit their lists 
+of fatigue critical baseline structure. In proposed Sec.  
+25.1825(e)(1), they would have 90 days to submit their lists of fatigue 
+critical alteration structure. In proposed Sec.  25.1827(e)(1), STC 
+holders would have 270 days to submit their lists of fatigue critical 
+alteration structure.
+    In the final rule (Sec.  26.43(f)(1)), TC holders have 180 days 
+from the effective date to submit their lists of fatigue critical 
+baseline structure. TC and STC holders (Sec. Sec.  26.45(e)(1) and 
+26.47(e)(1), respectively) have 360 days from the effective date of the 
+rule to submit their lists of fatigue critical alteration structure.
+    The AAWG industry representatives, Boeing, FedEx, and Embraer asked 
+for an extension of the compliance date in the AASFR and a commensurate 
+extension of the DAH DT Data rule's compliance date. While several of 
+the commenters acknowledged the FAA's prior 3-year extension (from 2007 
+to 2010) to the compliance time for the AASFR, they said if the FAA had 
+published the DAH DT Data NPRM at the time of that extension, industry 
+would have had more time to comply with the DAH DT Data final rule.
+    The AAWG industry representatives asked us to extend the AASFR 
+compliance date of December 20, 2010 to December 20, 2013. FedEx asked 
+the FAA to give operators a minimum of 12 months after receiving the 
+FAA-approved documents to develop their implementation plan to send to 
+their FAA Flight Standards District Office. Boeing asked us to extend 
+the AASFR compliance date to August 18, 2013. It said the FAA should 
+impose incremental compliance times from the effective date of final 
+rules, rather than impose a fixed date. For the DAH DT Data final rule, 
+Boeing believes the FAA should allow DAHs 4 years from the effective 
+date of the rule to submit their documents to the FAA because of the 
+addition of the DAH requirements and related compliance plan in this 
+final rule.
+    Except as discussed previously regarding lists of fatigue critical 
+structure (FCS), we do not believe an extension of the compliance dates 
+in either rule is appropriate. As several of the commenters 
+acknowledged, we previously extended the compliance date for the AASFR 
+by 3 years to allow ARAC time to develop guidance material operators 
+could use to support compliance with DT requirements related to repairs 
+and alterations.
+    Based on requests from industry, in May 2004, we tasked \38\ ARAC 
+to develop guidance to support operator compliance with the AASFR. 
+Included in the tasking notice was a task for ARAC to do the following:
+---------------------------------------------------------------------------
+
+    \38\ 69 FR 26641; May 13, 2004.
+
+    Oversee the Structural Task Group (STG) activities that will be 
+coordinated for each applicable airplane model by the respective 
+type certificate holders and parts 121 and 129 certificate holders. 
+These STG activities will involve the development of model specific 
+approaches for compliance with Sec. Sec.  121.370a and 129.16 
+---------------------------------------------------------------------------
+[redesignated as Sec. Sec.  121.1109 and 121.109, respectively]* * *
+
+    In addition, the tasking states that the data developed by the TC 
+holders via STG meetings, using the guidance material developed by 
+ARAC, should be completed by December 18, 2009. ARAC accepted this 
+tasking, which it assigned
+
+[[Page 70501]]
+
+to the AAWG, and agreed to complete it by the specified date of 
+December 18, 2009.
+    In the February 2005 AASFR, we extended the December 5, 2007 
+compliance date adopted in the Aging Airplane Safety Interim final rule 
+\39\ to December 20, 2010. This extension was meant to give ARAC time 
+to complete the tasking and allow operators a full year to implement 
+the resulting program changes. The AAWG developed a schedule for 
+completion of the tasking by the agreed-upon date. The compliance dates 
+specified in this DAH DT Data final rule are fully consistent with 
+these commitments, and none of the commenters have identified reasons 
+why we should not expect these commitments to be fulfilled.
+---------------------------------------------------------------------------
+
+    \39\ 67 FR 72726; December 6, 2002.
+---------------------------------------------------------------------------
+
+    Regarding Boeing's comment that this rule imposes additional 
+requirements for which they need more time, assuming ARAC and the STGs 
+fulfill their commitments, we anticipate that the products of the 
+tasking will enable Boeing and other participating TC holders to meet 
+the requirements of this rule with little additional effort. 
+Specifically, regarding compliance planning, this type of planning is 
+normal business practice, regardless of the requirements of this rule, 
+as evidenced by the AAWG's schedule development discussed earlier.
+    The ATA, Boeing, UPS, FedEx, and AAWG industry representatives 
+asked that DAHs be given 180 days from the effective date of the final 
+rule to submit their lists of fatigue critical baseline structure to 
+the FAA. The ATA and UPS asked that the FAA allow 360 days from the 
+effective date of the final rule for STC holders to submit their lists 
+of fatigue critical alteration structure. Airbus requested an extension 
+of 1 year from the effective date of the final rule to submit its lists 
+of fatigue critical baseline structure. The commenters believe it is 
+important to allow DAHs enough time to develop the lists to ensure they 
+are accurate.
+    Boeing and AAWG industry representatives indicated that the FAA 
+should allow additional time to develop the lists because of their 
+importance to industry and to other rules like the proposed Widespread 
+Fatigue Damage (WFD) rule. Boeing said more time would enable it to 
+consult with the STGs on the format and content of the lists. It also 
+said more time is needed because of the large numbers of airplanes and 
+alterations involved and the need for internal coordination to ensure 
+consistency. It estimates that for its airplane models, it would have 
+to produce more than 40 lists.
+    The ATA, FedEx, and UPS said if DAHs do not have sufficient time to 
+develop accurate lists, they may produce overly conservative lists that 
+include all primary structure. The ATA and FedEx add that such lists 
+would be of little value to operators and would add costs and 
+complexities to operator compliance with the AASFR. Also, the ATA said 
+DAHs may opt to recommend replacement of structural elements rather 
+than inspections and repairs if they do not have enough time to compile 
+the lists. Airbus commented that it does not have the resources to 
+complete the necessary assessments and compile the lists in the 
+proposed time frames. Airbus said the consequence of not having enough 
+time to develop accurate lists could be either incomplete lists or 
+extremely long lists.
+    The FAA believes additional time to establish the lists of fatigue 
+critical baseline and alteration structures is appropriate, and has 
+revised the rule as discussed above. The revised time frames, which 
+give TC holders 180 days to submit their lists of FCBS and TC and STC 
+holders 360 days to submit their lists of fatigue critical alteration 
+structure, should allow sufficient time to develop the lists. This is 
+particularly true since the TC holders have been required to identify 
+fatigue critical structure to comply with the damage tolerance 
+requirements of Sec.  25.571 since 1978. For pre-amendment 25-45 
+airplanes, the TC holder analysis that led to the development of the 
+SID documents provide a useful starting point for developing these 
+lists. As discussed previously, these activities should already be well 
+underway.
+
+P. Costs and Benefits
+
+    The AAWG industry representatives and Boeing commented on our 
+statement in the NPRM that the costs of the proposed rule were 
+accounted for in the AASFR. The AAWG industry representatives believe 
+that the economics on which the proposed rule is based are questionable 
+and their basis cannot be determined. Boeing said the FAA assumed that 
+much of the work required for compliance with the proposed rule was 
+already completed by the TC holders on other programs, such as the SID 
+and RAG initiatives. The commenters added that the costs ascribed to 
+the TC holder in the proposed rule, in fact, did not exist at the time 
+the original rule was published for comment, nor do they exist today.
+    The AAWG industry representatives and Boeing requested that the FAA 
+revise the basis of the economic evaluation of the proposed rule, and 
+include accurate estimates of the cost of the development of compliance 
+data by the TC holders, based on the means of compliance suggested in 
+AC 120-93.
+    The ATA said the FAA should disclose DAH estimates for the cost of 
+damage tolerance data and documents. The ATA indicated that it does not 
+concur with the FAA's assertion that the proposed rule has minimal to 
+no costs. The ATA recommended that the FAA include DAH estimates for 
+the cost of these documents in its disposition of comments to the 
+proposal.
+    UPS said the costs of the proposed rule changes are understated. 
+Although the regulatory flexibility analysis in the rulemaking states 
+that this rule would relieve small-entity part 121 operators of what 
+could be a significant cost, there is nothing in this proposal that 
+prevents DAHs from passing all their costs on to the operators. 
+Although this compensation could be reasonable, it will also likely be 
+significant. UPS suggested that an accurate cost-benefit analysis be 
+accomplished and evaluated prior to adopting this rulemaking.
+    The requirements to develop damage tolerance (DT) based data for 
+repairs and alterations were originally established in the Aging 
+Airplane Safety Interim final rule (AASIFR). These responsibilities 
+were initially placed on the operators of part 121 and U.S.-registered 
+part 129 transport category airplanes. The costs and benefits were 
+computed in the regulatory evaluation for that rulemaking. The 
+regulatory evaluation for the AASIFR, as well as the regulatory 
+evaluation for the AASFR, which clarified these requirements, 
+recognized that to comply with the rule's requirements, operators would 
+have to develop and implement DT-based inspections and procedures for 
+the affected airplane structure. This DAH DT Data final rule is a 
+counterpart to the AASFR; it transfers the responsibility of developing 
+DT-based data from operators to design approval holders (DAHs). 
+Therefore, it has minimal to no societal costs.
+    We anticipate that by the compliance date for the AASFR, DT 
+inspection programs for baseline structure, required by this DAH DT 
+Data final rule, will already be mandated by AD or certification or 
+operational regulations for all airplanes affected by this final rule. 
+A significant number of operators subject to the AASFR are small 
+entities. If each of the small-entity operators individually took the 
+responsibility for developing DT-based data, the cost for the data 
+would be significant. By transferring the responsibility from part 121 
+operators to DAHs, this rule will
+
+[[Page 70502]]
+
+relieve those operators of what could be a significant cost.
+    While UPS is correct that operators may have to compensate TC 
+holders for the data they make available, we expect these costs to be 
+substantially less than if the operators had been required to 
+individually develop their own data.
+    The DAHs, with their greater expertise and access to design data, 
+are in the best position to identify fatigue critical structure and 
+methods and frequency of inspections operators need to comply with the 
+AASFR. DAHs can develop these data with greater efficiency than 
+individual operators and these costs would be amortized over a larger 
+fleet. With STG participation, we expect that the resulting compliance 
+documents will minimize costs for operators and facilitate their 
+compliance with the AASFR. This final rule will ensure that the 
+required data are developed in a timely manner to minimize the 
+possibility for disruption of airline operations when the AASFR 
+compliance deadline is reached. AC 120-93 is largely a product of ARAC 
+and reflects industry's view of the most cost effective means for 
+developing the data operators must implement under the AASFR.
+
+Paperwork Reduction Act
+
+    Under the Paperwork Reduction Act of 1995, (5 CFR 
+1320.8(b)(2)(vi)), an agency may not conduct or sponsor, and a person 
+is not required to respond to, a collection of information unless it 
+displays a currently valid OMB control number. Information collection 
+requirements in the AASFR previously have been approved by the Office 
+of Management and Budget (OMB) under the provisions of the Paperwork 
+Reduction Act of 1995 (44 U.S.C. 3507(d)) and have been assigned OMB 
+Control Numbers: 2120-0020 and 2120-0008. Part 129 record requirements 
+can be found in International Civil Aviation Organization Annexes.
+    The FAA reviewed data associated with compliance to the AASFR and 
+data associated with this rule. We have determined that this rule is a 
+transfer of responsibility only, and there is no additional paperwork 
+burden on the public. The paperwork burden for compliance with the 
+AASFR will be reduced as a result of this rule due to a reduction in 
+the numbers of repairs and alterations that will need an individual 
+damage tolerance assessment. This is because this rule will require 
+design approval holders to develop a streamlined approach for assessing 
+repairs.
+
+International Compatibility
+
+    In keeping with U.S. obligations under the Convention on 
+International Civil Aviation, it is FAA policy to comply with 
+International Civil Aviation Organization (ICAO) Standards and 
+Recommended Practices to the maximum extent practicable. The FAA has 
+determined that there are no ICAO Standards and Recommended Practices 
+that correspond to these regulations.
+
+IV. Final Regulatory Evaluation, Regulatory Flexibility Determination, 
+International Trade Impact Assessment, and Unfunded Mandates Assessment
+
+    Changes to Federal regulations must undergo several economic 
+analyses. First, Executive Order 12866 directs that each Federal agency 
+shall propose or adopt a regulation only upon a reasoned determination 
+that the benefits of the intended regulation justify its costs. Second, 
+the Regulatory Flexibility Act of 1980 (Pub. L. 96-354) requires 
+agencies to analyze the economic impact of regulatory changes on small 
+entities. Third, the Trade Agreements Act (Pub. L. 96-39) prohibits 
+agencies from setting standards that create unnecessary obstacles to 
+the foreign commerce of the United States. In developing U.S. 
+standards, the Trade Act requires agencies to consider international 
+standards and, where appropriate, that they be the basis of U.S. 
+standards. Fourth, the Unfunded Mandates Reform Act of 1995 (Pub. L. 
+104-4) requires agencies to prepare a written assessment of the costs, 
+benefits, and other effects of proposed or final rules that include a 
+Federal mandate likely to result in the expenditure by State, local, or 
+tribal governments, in the aggregate, or by the private sector, of $100 
+million or more annually (adjusted for inflation with base year of 
+1995). This portion of the preamble summarizes the FAA's analysis of 
+the economic impacts of this final rule.
+    Department of Transportation Order DOT 2100.5 prescribes policies 
+and procedures for simplification, analysis, and review of regulations. 
+If the expected cost impact is so minimal that a proposed or final rule 
+does not warrant a full evaluation, this order permits that a statement 
+to that effect and the basis for it be included in the preamble if a 
+full regulatory evaluation of the cost and benefits is not prepared. 
+Such a determination has been made for this final rule. The reasoning 
+for this determination follows.
+    We begin with a discussion of the AASFR. Then we discuss the 
+existing certification and operational rules that already require 
+operators to develop and implement the DT inspections and procedures 
+this final rule will require.
+    This rule transfers the responsibility of developing AASFR DT data 
+and documents from operators to DAHs. A transfer of responsibility from 
+one entity to another does not increase societal costs; therefore, this 
+rule has minimal to no costs. Additionally, the DAH requirements do not 
+preclude DAHs from recouping their costs by seeking reasonable 
+compensation from the operators for the required DT data and documents. 
+The recently published AASFR \40\ requires airline operators of certain 
+large transport category airplanes to implement DT-based inspections 
+and procedures for airplane structure susceptible to fatigue cracking 
+that could contribute to catastrophic failure. Damage tolerance data 
+are essential for operators to implement and conduct DT-based 
+inspections and procedures.
+---------------------------------------------------------------------------
+
+    \40\ 70 FR 5518, February 2, 2005.
+---------------------------------------------------------------------------
+
+    This final rule is a counterpart to the AASFR to ensure that 
+operators have the necessary data and documents to support timely 
+compliance with the requirements of Sec. Sec.  121.1109 and 129.109. 
+Timely operator compliance improves the safety of the fleet.
+    This final rule will require DAHs to develop DT inspections and 
+procedures for repairs and alterations. Existing operational rules 
+already require DT inspections and procedures for repairs and 
+alterations to baseline structure. TC Holders of airplanes certified to 
+Amendment 25-45 (or later), which are affected by this proposal, are 
+required by Sec.  25.571 to perform a damage tolerance evaluation and 
+establish, as necessary, damage tolerance inspections or other 
+procedures. On pre-Amendment 25-45 airplanes, DT inspection and 
+procedures for the baseline structure are required by airworthiness 
+directive (AD). Damage tolerance inspections for repairs and 
+alterations to affected Boeing 727 and 737-100/200 airplanes are also 
+required by AD. Damage tolerance inspections for repairs to the 
+pressurized fuselage \41\ for certain pre-Amendment 25-45 airplanes 
+\42\ are required by Sec.  121.370 (redesignated as Sec.  121.1107). By 
+December 2010, damage tolerance inspections for the baseline structure 
+and repairs and alterations will be required by Sec. Sec.  121.1109 and 
+129.109 for airplanes certificated after January 1, 1958 that have a 
+passenger seating
+
+[[Page 70503]]
+
+capacity of 30 or more or a maximum payload capacity of 7500 pounds or 
+more. Despite these requirements, in many cases, DT data and documents 
+have not yet been developed for many repairs and alterations made to 
+the affected airplanes.
+---------------------------------------------------------------------------
+
+    \41\ Fuselage, door skins, and bulkhead webs.
+    \42\ A-300 (excluding the -600 model), 707, 720, 727, 737-300/
+400/500/600/700/800, 747 BAC 1-11, F-28, L-1011, DC-8, DC-9, MD-80, 
+and DC-10.
+---------------------------------------------------------------------------
+
+    The following table summarizes the regulatory requirements for DT 
+inspection programs. The shaded areas in the table represent regulatory 
+gaps filled by the AASFR (Sec.  121.1109) requirements to develop DT 
+inspections and procedures for fatigue critical airplane structural 
+areas.
+
+BILLING CODE 4910-13-P
+[GRAPHIC] [TIFF OMITTED] TR12DE07.016
+
+BILLING CODE 4910-13-C
+    In  summation, this final rule will transfer the responsibility 
+from the existing requirements for developing DT based inspections and 
+procedures from part 121 operators to DAHs. The DAHs, with their 
+greater expertise and access to design data, are in the best position 
+to identify fatigue critical structure and methods and frequency of 
+inspections operators need to comply with the
+
+[[Page 70504]]
+
+AASFR. DAHs can develop these data with greater efficiency than 
+individual operators and these costs will be amortized over a larger 
+fleet. This final rule will ensure that the required data are developed 
+in a timely manner to minimize the possibility for disruption of 
+airline operations when the AASFR compliance deadline is reached.
+---------------------------------------------------------------------------
+
+    \43\ Supplemental Inspection Document.
+---------------------------------------------------------------------------
+
+    The FAA has, therefore, determined this rulemaking action is not a 
+``significant regulatory action'' as defined in section 3(f) of 
+Executive Order 12866, and is not ``significant'' as defined in DOT's 
+Regulatory Policies and Procedures. In addition, the FAA has determined 
+that this final rulemaking action: (1) Will not have a significant 
+economic impact on a substantial number of small entities; (2) will not 
+affect international trade; and (3) will not impose an unfunded mandate 
+on State, local, or tribal governments, or on the private sector.
+
+Regulatory Flexibility Determination
+
+    The Regulatory Flexibility Act of 1980 (Pub. L. 96-354) (RFA) 
+establishes ``as a principle of regulatory issuance that agencies shall 
+endeavor, consistent with the objectives of the rule and of applicable 
+statutes, to fit regulatory and informational requirements to the scale 
+of the businesses, organizations, and governmental jurisdictions 
+subject to regulation. To achieve this principle, agencies are required 
+to solicit and consider flexible regulatory proposals and to explain 
+the rationale for their actions to assure that such proposals are given 
+serious consideration.'' The RFA covers a wide range of small entities, 
+including small businesses, not-for-profit organizations, and small 
+governmental jurisdictions.
+    Agencies must perform a review to determine whether a rule will 
+have a significant economic impact on a substantial number of small 
+entities. If the agency determines that it will, the agency must 
+prepare a regulatory flexibility analysis as described in the RFA.
+    However, if an agency determines that a rule is not expected to 
+have a significant economic impact on a substantial number of small 
+entities, section 605(b) of the RFA provides that the head of the 
+agency may so certify and a regulatory flexibility analysis is not 
+required. The certification must include a statement providing the 
+factual basis for this determination, and the reasoning should be 
+clear.
+    We did not receive comments from U.S. small entities in the 
+responses to the proposed rule.
+    The FAA recently adopted the Aging Airplane Safety Final Rule 
+(AASFR),\44\ which, among other things, requires airline operators of 
+certain large transport category airplanes \45\ to implement damage 
+tolerance (DT) based inspections and procedures for airplane structure.
+---------------------------------------------------------------------------
+
+    \44\ 70 FR 5518, February 2, 2005.
+    \45\ The rule applies to turbine powered airplane models with a 
+maximum type certificated passenger capacity of 30 or more, or a 
+maximum payload capacity of 7,500 pounds or more.
+---------------------------------------------------------------------------
+
+    This final rule is a counterpart to the AASFR. By the effective 
+date of this rule, DT inspection programs will already be required by 
+AD, certification or operational regulations for all part 121 airplanes 
+affected by this proposal. The final rule will transfer the requirement 
+to develop AASFR DT based data for inspections and procedures from part 
+121 operators to design approval holders (DAH). A significant number of 
+part 121 operators are small entities. By transferring the 
+responsibility from part 121 operators to DAH, this final rule may 
+relieve small-entity part 121 operators of what could be a significant 
+cost.
+    DAHs include manufacturers of part 25 airplanes and supplemental 
+type certificate (STC) holders for repairs and alterations made to 
+these airplanes.
+    The current United States part 25 airplane manufacturers include: 
+Boeing, Cessna Aircraft, Gulfstream Aerospace, Learjet (owned by 
+Bombardier), Lockheed Martin, and Raytheon Aircraft. These 
+manufacturers will incur Type Certificate (TC) and Amended TC costs. 
+Because all U.S. transport-aircraft category manufacturers have more 
+than 1,500 employees, none are considered small entities.
+    STC holders include manufacturers and operators of part 25 
+airplanes, some of which are small-entities. Since the DAH requirements 
+do not preclude them from seeking reasonable compensation from the 
+operators for the proposal's required DT data and documents, small-
+entities STC holders, with less than 1,500 employees, should be able to 
+recoup their costs.
+    Therefore, as the Acting FAA Administrator, I certify that this 
+rule will not have a significant economic impact on a substantial 
+number of small entities.
+
+International Trade Impact Assessment
+
+    The Trade Agreements Act of 1979 (Pub. L. 96-39) prohibits Federal 
+agencies from establishing any standards or engaging in related 
+activities that create unnecessary obstacles to the foreign commerce of 
+the United States. Legitimate domestic objectives, such as safety, are 
+not considered unnecessary obstacles. The statute also requires 
+consideration of international standards and, where appropriate, that 
+they be the basis for U.S. standards. The FAA has assessed the 
+potential effect of this final rule and determined that it will impose 
+the same costs on domestic and international entities and thus has a 
+neutral trade impact.
+
+Unfunded Mandate Assessment
+
+    Title II of the Unfunded Mandates Reform Act of 1995 (Pub. L. 104-
+4) requires each Federal agency to prepare a written statement 
+assessing the effects of any Federal mandate in a proposed or final 
+agency rule that may result in an expenditure of $100 million or more 
+(adjusted annually for inflation with the base year 1995) in any one 
+year by State, local, and tribal governments, in the aggregate, or by 
+the private sector; such a mandate is deemed to be a ``significant 
+regulatory action.'' The FAA currently uses an inflation-adjusted value 
+of $128.1 million in lieu of $100 million.
+    This final rule does not contain such a mandate. The requirements 
+of Title II do not apply.
+
+Executive Order 13132, Federalism
+
+    The FAA has analyzed this rule under the principles and criteria of 
+Executive Order 13132, Federalism. We determined that this action will 
+not have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government, 
+and, therefore, will not have federalism implications.
+
+Environmental Analysis
+
+    FAA Order 1050.1E identifies FAA actions that are categorically 
+excluded from preparation of an environmental assessment or 
+environmental impact statement under the National Environmental Policy 
+Act in the absence of extraordinary circumstances. The FAA has 
+determined this rulemaking action qualifies for the categorical 
+exclusion identified in paragraph 312f and involves no extraordinary 
+circumstances.
+
+Regulations That Significantly Affect Energy Supply, Distribution, or 
+Use
+
+    The FAA has analyzed this final rule under Executive Order 13211, 
+Actions Concerning Regulations that Significantly Affect Energy Supply, 
+Distribution, or Use (May 18, 2001). We have determined that it is not 
+a ``significant energy action'' under Executive Order 12866, and it is 
+not
+
+[[Page 70505]]
+
+likely to have a significant adverse effect on the supply, 
+distribution, or use of energy.
+
+Availability of Rulemaking Documents
+
+    You can get an electronic copy of rulemaking documents using the 
+Internet by--
+    1. Searching the Federal eRulemaking Portal (<a href="http://www.regulations.gov">http://www.regulations.gov</a>);
+    2. Visiting the FAA's Regulations and Policies Web page at <a href="http://www.faa.gov/regulations_policies/">http://www.faa.gov/regulations_policies/</a>; or
+    3. Accessing the Government Printing Office's Web page at <a href="http://www.gpoaccess.gov/fr/index.html">http://www.gpoaccess.gov/fr/index.html</a>.
+    You can also get a copy by sending a request to the Federal 
+Aviation Administration, Office of Rulemaking, ARM-1, 800 Independence 
+Avenue, SW., Washington, DC 20591, or by calling (202) 267-9680. Make 
+sure to identify the amendment number or docket number of this 
+rulemaking.
+    Anyone is able to search the electronic form of all comments 
+received into any of our dockets by the name of the individual 
+submitting the comment (or signing the comment, if submitted on behalf 
+of an association, business, labor union, etc.). You may review DOT's 
+complete Privacy Act statement in the Federal Register published on 
+April 11, 2000 (Volume 65, Number 70; Pages 19477-78) or you may visit 
+<a href="http://DocketsInfo.dot.gov">http://DocketsInfo.dot.gov</a>.
+
+Small Business Regulatory Enforcement Fairness Act
+
+    The Small Business Regulatory Enforcement Fairness Act (SBREFA) of 
+1996 requires FAA to comply with small entity requests for information 
+or advice about compliance with statutes and regulations within its 
+jurisdiction. If you are a small entity and you have a question 
+regarding this document, you may contact your local FAA official, or 
+the person listed under the FOR FURTHER INFORMATION CONTACT heading at 
+the beginning of the preamble. You can find out more about SBREFA on 
+the Internet at <a href="http://www.faa.gov/regulations_policies/rulemaking/sbre_act/">http://www.faa.gov/regulations_policies/rulemaking/sbre_act/</a>.
+
+List of Subjects
+
+14 CFR Part 26
+
+    Aircraft, Aviation safety, Continued airworthiness.
+
+14 CFR Parts 121, 129
+
+    Air carriers, Aircraft, Aviation safety, Reporting and 
+recordkeeping requirements, Continued airworthiness.
+
+V. The Amendments
+
+0
+In consideration of the foregoing, the Federal Aviation Administration 
+amends Chapter I of Title 14, Code of Federal Regulations parts 26, 
+121, and 129 as follows:
+
+PART 26--CONTINUED AIRWORTHINESS AND SAFETY IMPROVEMENTS FOR 
+TRANSPORT CATEGORY AIRPLANES
+
+0
+1. The authority citation for part 26 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701, 44702 and 44704.
+
+
+0
+2. Revise Sec.  26.5 to read as follows:
+
+
+Sec.  26.5  Applicability table.
+
+    Table 1 of this section provides an overview of the applicability 
+of this part. It provides guidance in identifying what sections apply 
+to various types of entities. The specific applicability of each 
+subpart and section is specified in the regulatory text.
+
+                                    TABLE 1.--Applicability of Part 26 Rules
+----------------------------------------------------------------------------------------------------------------
+                                                                   Applicable sections
+                                       -------------------------------------------------------------------------
+                                               Subpart B (EAPAS/FTS)           Subpart E damage tolerance data
+----------------------------------------------------------------------------------------------------------------
+Effective Date of Rule................  December 10, 2007..................  January 11, 2008
+Existing \1\ TC Holders...............  26.11..............................  26.43, 26.45, 26.49
+Pending \1\ TC Applicants.............  26.11..............................  26.43, 26.45
+Existing \1\ STC Holders..............  N/A................................  26.47, 26.49
+Pending \1\ STC/ATC Applicants........  26.11..............................  26.45, 26.47, 26.49
+Future\2\ STC/ATC Applicants..........  26.11..............................  26.45, 26.47, 26.49
+Manufacturers.........................  N/A................................  N/A
+Persons seeking design approval of      N/A................................  N/A
+ repairs.
+----------------------------------------------------------------------------------------------------------------
+\1\ As of the effective date of the identified rule.
+\2\ Application made after the effective date of the identified rule.
+
+
+0
+3. Amend part 26 to add subparts C, D, and E to read as follows:
+Subpart C--[Reserved]
+Subpart D--[Reserved]
+Subpart E--Aging Airplane Safety--Damage Tolerance Data for Repairs and 
+Alterations
+Sec.
+Sec.  26.41 Definitions.
+Sec.  26.43 Holders of and applicants for type certificates--
+Repairs.
+Sec.  26.45 Holders of type certificates--Alterations and repairs to 
+alterations.
+Sec.  26.47 Holders of and applicants for a supplemental type 
+certificate--Alterations and repairs to alterations.
+Sec.  26.49 Compliance plan.
+
+Subpart C--[Reserved]
+
+Subpart D--[Reserved]
+
+Subpart E--Aging Airplane Safety--Damage Tolerance Data for Repairs 
+and Alterations
+
+
+Sec.  26.41  Definitions.
+
+    Affects (or Affected) means structure has been physically repaired, 
+altered, or modified, or the structural loads acting on the structure 
+have been increased or redistributed.
+    Baseline structure means structure that is designed under the 
+original type certificate or amended type certificate for that airplane 
+model.
+    Damage Tolerance Evaluation (DTE) means a process that leads to a 
+determination of maintenance actions necessary to detect or preclude 
+fatigue cracking that could contribute to a catastrophic failure. As 
+applied to repairs and alterations, a DTE includes the evaluation both 
+of the repair or alteration and of the fatigue critical structure 
+affected by the repair or alteration.
+    Damage Tolerance Inspection (DTI) means the inspection developed as 
+a result of a DTE. A DTI includes the areas to be inspected, the 
+inspection method, the inspection procedures, including acceptance and 
+rejection criteria, the threshold, and any repeat
+
+[[Page 70506]]
+
+intervals associated with those inspections. The DTI may specify a time 
+limit when a repair or alteration needs to be replaced or modified. If 
+the DTE concludes that DT-based supplemental structural inspections are 
+not necessary, the DTI contains a statement to that effect.
+    DT data mean DTE documentation and the DTI.
+    DTE documentation means data that identify the evaluated fatigue 
+critical structure, the basic assumptions applied in a DTE, and the 
+results of a DTE.
+    Fatigue critical structure means airplane structure that is 
+susceptible to fatigue cracking that could contribute to a catastrophic 
+failure, as determined in accordance with Sec.  25.571 of this chapter. 
+Fatigue critical structure includes structure, which, if repaired or 
+altered, could be susceptible to fatigue cracking and contribute to a 
+catastrophic failure. Such structure may be part of the baseline 
+structure or part of an alteration.
+    Implementation schedule consists of documentation that establishes 
+the timing for accomplishing the necessary actions for developing DT 
+data for repairs and alterations, and for incorporating those data into 
+an operator's continuing airworthiness maintenance program. The 
+documentation must identify times when actions must be taken as 
+specific numbers of airplane flight hours, flight cycles, or both.
+    Published repair data mean instructions for accomplishing repairs, 
+which are published for general use in structural repair manuals and 
+service bulletins (or equivalent types of documents).
+
+
+Sec.  26.43  Holders of and applicants for type certificates--Repairs.
+
+    (a) Applicability. Except as specified in paragraph (g) of this 
+section, this section applies to transport category, turbine powered 
+airplane models with a type certificate issued after January 1, 1958, 
+that as a result of original type certification or later increase in 
+capacity have--
+    (1) A maximum type certificated passenger seating capacity of 30 or 
+more; or
+    (2) A maximum payload capacity of 7,500 pounds or more.
+    (b) List of fatigue critical baseline structure. For airplanes 
+specified in paragraph (a) of this section, the holder of or applicant 
+for a type certificate must--
+    (1) Identify fatigue critical baseline structure for all airplane 
+model variations and derivatives approved under the type certificate; 
+and
+    (2) Develop and submit to the FAA Oversight Office for review and 
+approval, a list of the structure identified under paragraph (b)(1) of 
+this section and, upon approval, make the list available to persons 
+required to comply with Sec.  26.47 and Sec. Sec.  121.1109 and 129.109 
+of this chapter.
+    (c) Existing and future published repair data. For repair data 
+published by a holder of a type certificate that is current as of 
+January 11, 2008 and for all later published repair data, the holder of 
+a type certificate must--
+    (1) Review the repair data and identify each repair specified in 
+the data that affects fatigue critical baseline structure identified 
+under paragraph (b)(1) of this section;
+    (2) Perform a DTE and develop the DTI for each repair identified 
+under paragraph (c)(1) of this section, unless previously accomplished;
+    (3) Submit the DT data to the FAA Oversight Office or its properly 
+authorized designees for review and approval; and
+    (4) Upon approval, make the DTI available to persons required to 
+comply with Sec. Sec.  121.1109 and 129.109 of this chapter.
+    (d) Future repair data not published. For repair data developed by 
+a holder of a type certificate that are approved after January 11, 2008 
+and are not published, the type certificate holder must accomplish the 
+following for repairs specified in the repair data that affect fatigue 
+critical baseline structure:
+    (1) Perform a DTE and develop the DTI.
+    (2) Submit the DT data required in paragraph (d)(1) of this section 
+for review and approval by the FAA Oversight Office or its properly 
+authorized designees.
+    (3) Upon approval, make the approved DTI available to persons 
+required to comply with Sec. Sec.  121.1109 and 129.109 of this 
+chapter.
+    (e) Repair Evaluation Guidelines. The holder of a type certificate 
+for each airplane model subject to this section must--
+    (1) Develop repair evaluation guidelines for operators' use that 
+include--
+    (i) A process for conducting surveys of affected airplanes that 
+will enable identification and documentation of all existing repairs 
+that affect fatigue critical baseline structure identified under 
+paragraph (b)(1) of this section and Sec.  26.45(b)(2);
+    (ii) A process that will enable operators to obtain the DTI for 
+repairs identified under paragraph (e)(1)(i) of this section; and
+    (iii) An implementation schedule for repairs covered by the repair 
+evaluation guidelines. The implementation schedule must identify times 
+when actions must be taken as specific numbers of airplane flight 
+hours, flight cycles, or both.
+    (2) Submit the repair evaluation guidelines to the FAA Oversight 
+Office for review and approval.
+    (3) Upon approval, make the guidelines available to persons 
+required to comply with Sec. Sec.  121.1109 and 129.109 of this 
+chapter.
+    (4) If the guidelines direct the operator to obtain assistance from 
+the holder of a type certificate, make such assistance available in 
+accordance with the implementation schedule.
+    (f) Compliance times. Holders of type certificates must submit the 
+following to the FAA Oversight Office or its properly authorized 
+designees for review and approval by the specified compliance time:
+    (1) The identified list of fatigue critical baseline structure 
+required by paragraph (b)(2) of this section must be submitted no later 
+than 180 days after January 11, 2008 or before issuance of the type 
+certificate, whichever occurs later.
+    (2) For published repair data that are current as of January 11, 
+2008, the DT data required by paragraph (c)(3) of this section must be 
+submitted by June 30, 2009.
+    (3) For repair data published after January 11, 2008, the DT data 
+required by paragraph (c)(3) of this section must be submitted before 
+FAA approval of the repair data.
+    (4) For unpublished repair data developed after January 11, 2008, 
+the DT data required by paragraph (d)(1) of this section must be 
+submitted within 12 months of the airplane's return to service or in 
+accordance with a schedule approved by the FAA Oversight Office.
+    (5) The repair evaluation guidelines required by paragraph (e)(1) 
+of this section must be submitted by December 30, 2009.
+    (g) Exceptions. The requirements of this section do not apply to 
+the following transport category airplane models:
+    (1) Convair CV-240, 340, 440, if modified to include turbine 
+engines.
+    (2) Vickers Armstrong Viscount, TCDS No. A-814.
+    (3) Douglas DC-3, if modified to include turbine engines, TCDS No. 
+A-618.
+    (4) Bombardier CL-44, TCDS No. 1A20.
+    (5) Mitsubishi YS-11, TCDS No. A1PC.
+    (6) British Aerospace BAC 1-11, TCDS No. A5EU.
+
+[[Page 70507]]
+
+    (7) Concorde, TCDS No. A45EU.
+    (8) deHavilland D.H. 106 Comet 4C, TCDS No. 7A10.
+    (9) deHavilland DHC-7, TCDS No. A20EA.
+    (10) VFW-Vereinigte Flugtechnische Werk VFW-614, TCDS No. A39EU.
+    (11) Illyushin Aviation IL 96T, TCDS No. A54NM.
+    (12) Bristol Aircraft Britannia 305, TCDS No. 7A2.
+    (13) Handley Page Herald Type 300, TCDS No. A21N.
+    (14) Avions Marcel Dassault--Breguet Aviation Mercure 100C, TCDS 
+No. A40EU.
+    (15) Airbus Caravelle, TCDS No. 7A6.
+    (16) Lockheed L-300, TCDS No. A2S0.
+    (17) Boeing 707-100/-200, TCDS No. 4A21.
+    (18) Boeing 707-300/-400, TCDS No. 4A26.
+    (19) Boeing 720, TCDS No. 4A28.
+
+
+Sec.  26.45  Holders of type certificates--Alterations and repairs to 
+alterations.
+
+    (a) Applicability. This section applies to transport category 
+airplanes subject to Sec.  26.43.
+    (b) Fatigue critical alteration structure. For existing and future 
+alteration data developed by the holder of a type certificate, the 
+holder must--
+    (1) Review existing alteration data and identify all alterations 
+that affect fatigue critical baseline structure identified under Sec.  
+26.43(b)(1);
+    (2) For each alteration identified under paragraph (b)(1) of this 
+section, identify any fatigue critical alteration structure;
+    (3) Develop and submit to the FAA Oversight Office for review and 
+approval a list of the structure identified under paragraph (b)(2) of 
+this section; and
+    (4) Upon approval, make the list required in paragraph (b)(3) of 
+this section available to persons required to comply with Sec. Sec.  
+121.1109 and 129.109 of this chapter.
+    (c) DT Data. For existing and future alteration data developed by 
+the holder of a type certificate that affect fatigue critical baseline 
+structure identified under Sec.  26.43(b)(1), unless previously 
+accomplished, the holder must--
+    (1) Perform a DTE and develop the DTI for the alteration and 
+fatigue critical baseline structure that is affected by the alteration;
+    (2) Submit the DT data developed in accordance with paragraphs 
+(c)(1) of this section to the FAA Oversight Office or its properly 
+authorized designees for review and approval; and
+    (3) Upon approval, make the DTI available to persons required to 
+comply with Sec. Sec.  121.1109 and 129.109 of this chapter.
+    (d) DT Data for Repairs Made to Alterations. For existing and 
+future repair data developed by a holder of a type certificate, the 
+type certificate holder must--
+    (1) Review the repair data, and identify each repair that affects 
+any fatigue critical alteration structure identified under paragraph 
+(b)(2) of this section;
+    (2) For each repair identified under paragraph (d)(1) of this 
+section, unless previously accomplished, perform a DTE and develop DTI;
+    (3) Submit the DT data developed in accordance with paragraph 
+(d)(2) of this section to the FAA Oversight Office or its properly 
+authorized designees for review and approval; and
+    (4) Upon approval, make the DTI available to persons required to 
+comply with Sec. Sec.  121.1109 and 129.109 of this chapter.
+    (e) Compliance times. Holders of type certificates must submit the 
+following to the FAA Oversight Office or its properly authorized 
+designees for review and approval by the specified compliance time:
+    (1) The list of fatigue critical alteration structure identified 
+under paragraph (b)(3) of this section must be submitted no later than 
+360 days after January 11, 2008.
+    (2) For alteration data developed and approved before January 11, 
+2008, the DT data required by paragraph (c)(2) of this section must be 
+submitted by June 30, 2009.
+    (3) For alteration data approved on or after January 11, 2008, DT 
+data required by paragraph (c)(2) of this section must be submitted 
+before initial approval of the alteration data.
+    (4) For repair data developed and approved before January 11, 2008, 
+the DT data required by paragraph (d)(2) of this section must be 
+submitted by June 30, 2009.
+    (5) For repair data developed and approved after January 11, 2008, 
+the DT data required by paragraph (d)(2) of this section must be 
+submitted within 12 months after initial approval of the repair data 
+and before making the DT data available to persons required to comply 
+with Sec. Sec.  121.1109 and 129.109 of this chapter.
+
+
+Sec.  26.47  Holders of and applicants for a supplemental type 
+certificate--Alterations and repairs to alterations.
+
+    (a) Applicability. This section applies to transport category 
+airplanes subject to Sec.  26.43.
+    (b) Fatigue critical alteration structure. For existing structural 
+alteration data approved under a supplemental certificate, the holder 
+of the supplemental certificate must--
+    (1) Review the alteration data and identify all alterations that 
+affect fatigue critical baseline structure identified under Sec.  
+26.43(b)(1);
+    (2) For each alteration identified under paragraph (b)(1) of this 
+section, identify any fatigue critical alteration structure;
+    (3) Develop and submit to the FAA Oversight Office for review and 
+approval a list of the structure identified under paragraph (b)(2) of 
+this section; and
+    (4) Upon approval, make the list required in paragraph (b)(3) of 
+this section available to persons required to comply with Sec. Sec.  
+121.1109 and 129.109 of this chapter.
+    (c) DT Data. For existing and future alteration data developed by 
+the holder of a supplemental type certificate that affect fatigue 
+critical baseline structure identified under Sec.  26.43(b)(1), unless 
+previously accomplished, the holder of a supplemental type certificate 
+must--
+    (1) Perform a DTE and develop the DTI for the alteration and 
+fatigue critical baseline structure that is affected by the alteration;
+    (2) Submit the DT data developed in accordance with paragraphs 
+(c)(1) of this section to the FAA Oversight Office or its properly 
+authorized designees for review and approval; and
+    (3) Upon approval, make the DTI available to persons required to 
+comply with Sec. Sec.  121.1109 and 129.109 of this chapter.
+    (d) DT Data for Repairs Made to Alterations. For existing and 
+future repair data developed by the holder of a supplemental holder of 
+a supplemental type certificate, the holder of a supplemental type 
+certificate must--
+    (1) Review the repair data, and identify each repair that affects 
+any fatigue critical alteration structure identified under paragraph 
+(b)(2) of this section;
+    (2) For each repair identified under paragraph (d)(1) of this 
+section, unless previously accomplished, perform a DTE and develop DTI;
+    (3) Submit the DT data developed in accordance with paragraph 
+(d)(2) of this section to the FAA Oversight Office or its properly 
+authorized designees for review and approval; and
+    (4) Upon approval, make the DTI available to persons required to 
+comply with Sec. Sec.  121.1109 and 129.109 of this chapter.
+    (e) Compliance times. Holders of supplemental type certificates 
+must submit the following to the FAA
+
+[[Page 70508]]
+
+Oversight Office or its properly authorized designees for review and 
+approval by the specified compliance time:
+    (1) The list of fatigue critical alteration structure required by 
+paragraph (b)(3) of this section must be submitted no later than 360 
+days after January 11, 2008.
+    (2) For alteration data developed and approved before January 11, 
+2008, the DT data required by paragraph (c)(2) of this section must be 
+submitted by June 30, 2009.
+    (3) For alteration data developed after January 11, 2008, the DT 
+data required by paragraph (c)(2) of this section must be submitted 
+before approval of the alteration data and making it available to 
+persons required to comply with Sec. Sec.  121.1109 and 129.109 of this 
+chapter.
+    (4) For repair data developed and approved before January 11, 2008, 
+the DT data required by paragraph (d)(2) of this section must be 
+submitted by June 30, 2009.
+    (5) For repair data developed and approved after January 11, 2008, 
+the DT data required by paragraph (d)(2) of this section, must be 
+submitted within 12 months after initial approval of the repair data 
+and before making the DT data available to persons required to comply 
+with Sec. Sec.  121.1109 and 129.109 of this chapter.
+
+
+Sec.  26.49  Compliance plan.
+
+    (a) Compliance plan. Except for applicants for type certificates 
+and supplemental type certificates whose applications are submitted 
+after January 11, 2008, each person identified in Sec. Sec.  26.43, 
+26.45, and 26.47, must submit a compliance plan consisting of the 
+following:
+    (1) A project schedule identifying all major milestones for meeting 
+the compliance times specified in Sec. Sec.  26.43(f), 26.45(e), and 
+26.47(e), as applicable.
+    (2) A proposed means of compliance with Sec. Sec.  26.43, 26.45, 
+and 26.47, as applicable.
+    (3) A plan for submitting a draft of all compliance items required 
+by this subpart for review by the FAA Oversight Office not less than 60 
+days before the applicable compliance date.
+    (b) Compliance dates for compliance plans. The following persons 
+must submit the compliance plan described in paragraph (a) of this 
+section to the FAA Oversight Office for approval on the following 
+schedule:
+    (1) For holders of type certificates, no later than 90 days after 
+January 11, 2008.
+    (2) For holders of supplemental type certificates no later than 180 
+days after January 11, 2008.
+    (3) For applicants for changes to type certificates whose 
+application are submitted before January 11, 2008, no later than 180 
+days after January 11, 2008.
+    (c) Compliance Plan Implementation. Each affected person must 
+implement the compliance plan as approved in compliance with paragraph 
+(a) of this section.
+
+PART 121--OPERATING REQUIREMENTS: DOMESTIC, FLAG, AND SUPPLEMENTAL 
+OPERATIONS
+
+0
+4. The authority citation for part 121 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 40119, 41706, 44101, 44701-
+44702, 44705, 44709-44711, 44713, 44716-44717, 44722, 44901, 44903-
+44904, 44912, 45101-45105, 46105, 46301.
+
+
+0
+5. Amend Sec.  121.1109 to revise paragraph (c) to read as follows:
+
+
+Sec.  121.1109  Supplemental inspections.
+
+* * * * *
+    (c) General requirements. After December 20, 2010, a certificate 
+holder may not operate an airplane under this part unless the following 
+requirements have been met:
+    (1) Baseline Structure. The certificate holder's maintenance 
+program for the airplane includes FAA-approved damage-tolerance-based 
+inspections and procedures for airplane structure susceptible to 
+fatigue cracking that could contribute to a catastrophic failure. For 
+the purpose of this section, this structure is termed ``fatigue 
+critical structure.''
+    (2) Adverse effects of repairs, alterations, and modifications. The 
+maintenance program for the airplane includes a means for addressing 
+the adverse effects repairs, alterations, and modifications may have on 
+fatigue critical structure and on inspections required by paragraph 
+(c)(1) of this section. The means for addressing these adverse effects 
+must be approved by the FAA Oversight Office.
+    (3) Changes to maintenance program. The changes made to the 
+maintenance program required by paragraphs (c)(1) and (c)(2) of this 
+section, and any later revisions to these changes, must be submitted to 
+the Principal Maintenance Inspector for review and approval.
+
+PART 129--OPERATIONS: FOREIGN AIR CARRIERS AND FOREIGN OPERATORS OF 
+U.S.-REGISTERED AIRCRAFT ENGAGED IN COMMON CARRIAGE
+
+0
+6. The authority citation for part 129 continues to read as follows:
+
+    Authority: 49 U.S.C. 1372, 49113, 440119, 44101, 44701-44702, 
+447-5, 44709-44711, 44713, 44716-44717, 44722, 44901-44904, 44906, 
+44912, 44105., Pub. L. 107-71 sec. 104.
+
+
+0
+7. Amend 129.109 by revising paragraph (b) to read as follows:
+
+
+Sec.  129.109  Supplemental inspections for U.S.-registered aircraft.
+
+* * * * *
+    (b) General requirements. After December 20, 2010, a certificate 
+holder may not operate an airplane under this part unless the following 
+requirements have been met:
+    (1) Baseline Structure. The certificate holder's maintenance 
+program for the airplane includes FAA-approved damage-tolerance-based 
+inspections and procedures for airplane structure susceptible to 
+fatigue cracking that could contribute to a catastrophic failure. For 
+the purpose of this section, this structure is termed ``fatigue 
+critical structure.''
+    (2) Adverse effects of repairs, alterations, and modifications. The 
+maintenance program for the airplane includes a means for addressing 
+the adverse effects repairs, alterations, and modifications may have on 
+fatigue critical structure and on inspections required by paragraph 
+(b)(1) of this section. The means for addressing these adverse effects 
+must be approved by the FAA Oversight Office.
+    (3) Changes to maintenance program. The changes made to the 
+maintenance program required by paragraph (b)(1) and (b)(2) of this 
+section, and any later revisions to these changes, must be submitted to 
+the Principal Maintenance Inspector for review and approval.
+
+Robert A. Sturgell,
+Acting Administrator.
+[FR Doc. 07-6016 Filed 12-7-07; 12:04 pm]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

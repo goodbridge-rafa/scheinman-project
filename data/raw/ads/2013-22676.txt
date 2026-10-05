@@ -1,0 +1,593 @@
+<html>
+<head>
+<title>Federal Register, Volume 78 Issue 189 (Monday, September 30, 2013)</title>
+</head>
+<body><pre>
+[Federal Register Volume 78, Number 189 (Monday, September 30, 2013)]
+[Rules and Regulations]
+[Pages 59801-59805]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2013-22676]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-0723; Directorate Identifier 2011-NM-137-AD; 
+Amendment 39-17586; AD 2013-19-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; the Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 737-600, -700, -700C, -800, and -900 series 
+airplanes. This AD was prompted by a
+
+[[Page 59802]]
+
+report of cracks found in the skin at body station (STA) 540 just below 
+stringer S-22L on a Model 737-700 series airplane. This AD requires 
+repetitive detailed and high frequency eddy current inspections for 
+cracking of the skin around the eight fasteners common to the ends of 
+the STA 540 bulkhead chords between stringers S-22 and S-23, left and 
+right sides; and corrective actions and preventive modification if 
+necessary. We are issuing this AD to detect and correct fatigue 
+cracking in the skin, which can result in rapid decompression of the 
+cabin.
+
+DATES: This AD is effective November 4, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of November 4, 
+2013.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may review copies of the referenced service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, WA. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Alan Pohl, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-6450; fax: 
+425-917-6590; email: <a href="/cdn-cgi/l/email-protection#f3929f929ddd839c9b9fb3959292dd949c85"><span class="__cf_email__" data-cfemail="0d6c616c63237d6265614d6b6c6c236a627b">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+The NPRM published in the Federal Register on July 25, 2012 (77 FR 
+43547). The NPRM proposed to require repetitive detailed and high 
+frequency eddy current (HFEC) inspections for cracking of the skin 
+around the eight fasteners common to the ends of the STA 540 bulkhead 
+chords between stringers S-22 and S-23, left and right sides; and 
+corrective actions and preventive modification if necessary.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(77 FR 43547, July 25, 2012) and the FAA's response to each comment.
+
+Concurrence
+
+    The Boeing Company concurred with the content of the NPRM (77 FR 
+43547, July 25, 2012).
+
+Support of Compliance Time
+
+    AirTran/Southwest Airlines stated that the inspection threshold and 
+intervals will fit within its planned scheduled maintenance checks. The 
+commenter also stated that the number of man-hours and elapsed time to 
+accomplish the NPRM (77 FR 43547, July 25, 2012) will not impact the 
+overall span-time of its planned scheduled maintenance check.
+
+Request To Change the Compliance Time
+
+    American Airlines requested that all airplanes have the same 
+compliance time of 26,500 total flight cycles with a grace period of 
+6,500 flight cycles. The commenter explained that since the NPRM (77 FR 
+43547, July 25, 2012) is for the same type of airplanes with the same 
+condition, they should have the same compliance time regardless of the 
+amount of flight cycles at the time of the AD release date. The 
+commenter noted that the NPRM specifies a compliance time of 18,000 
+total flight cycles with a grace period of 4,000 flight cycles for 
+airplanes with less than 27,500 total flight cycles. The commenter also 
+stated that the 4,000 flight cycle grace period does not allow enough 
+time for operators to have two good opportunities to accomplish the 
+inspections during normal maintenance visits.
+    We disagree with changing the compliance times. In developing 
+appropriate compliance times for this action, we considered the urgency 
+associated with the subject unsafe condition and the practical aspect 
+of accomplishing the required actions within a period of time that 
+corresponds to the normal scheduled maintenance for most affected 
+operators. The shorter compliance time for airplanes with higher number 
+of total flight cycles addresses the increased likelihood of cracking 
+or larger cracks being present. Under the provisions of paragraph (l) 
+of this final rule, we will consider requests for approval of an 
+adjustment of the compliance time if sufficient data are submitted to 
+substantiate that the new compliance time would provide an acceptable 
+level of safety. No change has been made to this final rule in this 
+regard.
+
+Request for Increased Repetitive Inspection Intervals
+
+    American Airlines requested that the repetitive inspection interval 
+of 4,000 flight cycles specified in the NPRM (77 FR 43547, July 25, 
+2012) be changed to at least 8,000 flight cycles to coordinate with 
+heavy maintenance visits to provide the least amount of impact during 
+the maintenance visit. The commenter stated that it does not believe 
+that we have provided sufficient evidence to warrant such a tight 
+repetitive inspection interval if no cracks are found after the initial 
+inspection. The commenter also noted that since this crack has only 
+been found on one airplane, it is not certain how susceptible the rest 
+of the fleet is to develop skin cracks at body station (BS)540.
+    We disagree with increasing the repetitive inspection interval. In 
+developing an appropriate repetitive inspection interval for this 
+action, we considered the urgency associated with the subject unsafe 
+condition and the practical aspect of accomplishing the required 
+actions within a period of time that corresponds to the normal 
+scheduled maintenance for most affected operators. The interval was 
+determined using the same methodology as for other cracks of primary 
+structure addressed in other airworthiness directives. No data has been 
+offered that would substantiate a change to this final rule. Under the 
+provisions of paragraph (l) of this final rule, we will consider 
+requests for approval of an adjustment of the repetitive inspection 
+interval if sufficient data are submitted to substantiate that the new 
+interval would provide an acceptable level of safety. No change has 
+been made to this final rule in this regard.
+
+Request To Change Cost Estimate
+
+    American Airlines requested that we change the Cost of Compliance 
+table to account for the removal and installation of the ram air 
+transition duct and the
+
+[[Page 59803]]
+
+recirculation air filter housing. American Airlines stated the ram air 
+transition duct must be removed to accomplish the inspection of the 
+skin around the 8 fasteners and will add an additional 2 work-hours 
+(open and close) for each airplane. American Airlines requested that 
+the labor cost for the inspection be changed to 5 work-hours rather 
+than the estimated 3 work-hours specified in the NPRM (77 FR 43547, 
+July 25, 2012) to include the removal and installation of the ram air 
+transition duct. American Airlines also stated that the recirculation 
+air filter housing must be removed to accomplish the preventative 
+modification and will add an additional 6 work-hours (open and close) 
+for each airplane. American Airlines also noted that the current price 
+for the modification kit is $993, rather than $894 as referenced in the 
+NPRM (77 FR 43547, July 25, 2012).
+    We partially agree with the request to change the Cost of 
+Compliance table. We disagree with the figures used by the commenter. 
+The work-hours, however, have been revised in Boeing Special Attention 
+Service Bulletin 737-53-1294, Revision 1, dated June 14, 2013. The Cost 
+of Compliance table has been revised accordingly.
+
+Request To Allow the Use of Grip Length Adjustment Washers
+
+    AirTran/Southwest Airlines requested that we add Note 6 of the 
+Accomplishment Instructions of Boeing Special Attention Service 
+Bulletin 737-53-1294, dated March 31, 2011, to allow the use of grip 
+length adjustment washers to accomplish the NPRM (77 FR 43547, July 25, 
+2012).
+    We disagree. Note 5 of the Accomplishment Instructions of Boeing 
+Special Attention Service Bulletin 737-53-1294, Revision 1, dated June 
+14, 2013 (previously Note 6 of the Accomplishment Instructions of 
+Boeing Special Attention Service Bulletin 737-53-1294, dated March 31, 
+2011), states, ``If the length of any fastener specified in this 
+service bulletin does not meet the installation standards in SRM 
+[structural repair manual] Chapter 51, then a fastener of the same 
+specification, or an approved substitute, with a length which meets the 
+installation standards in SRM Chapter 51 may be used.'' Since the 
+installation standards of Section 51 of the SRM include the use of grip 
+length adjustment washers, no additional authorization is necessary. No 
+change has been made to this final rule in this regard.
+
+Request To Remove or Modify Paragraph (i)(4) of the NPRM (77 FR 43547, 
+July 25, 2012)
+
+    AirTran/Southwest Airlines requested that paragraph (i)(4) of the 
+NPRM (77 FR 43547, July 25, 2012) be removed. AirTran/Southwest 
+Airlines requested that we allow the operator to determine the sequence 
+in which steps are to be accomplished for the inspections and 
+modifications, otherwise, the operators may inadvertently violate the 
+AD by performing unrelated tasks out of sequence.
+    American Airlines requested that we remove or modify paragraph 
+(i)(4) of the NPRM (77 FR 43547, July 25, 2012) stating that paragraph 
+(i)(4) is more restrictive than necessary to ensure safety of flight. 
+American Airlines stated that not being able to accomplish some steps 
+out of order will prevent accomplishment of the AD in a timely manner. 
+American Airlines suggested modifying paragraph (i)(4) of the NPRM (77 
+FR 43547, July 25, 2012) to allow the modifications and repairs to be 
+accomplished in any order as long as the steps within those actions are 
+accomplished in order.
+    We agree to remove paragraph (i)(4) of the NPRM (77 FR 43547, July 
+25, 2012). We have received Boeing Special Attention Service Bulletin 
+737-53-1294, Revision 1, dated June 14, 2013, which removes 
+instructions regarding the sequencing of steps and changes certain part 
+numbers. We have revised paragraphs (c), (g), (h), (i), and (j) of this 
+final rule to refer to Boeing Special Attention Service Bulletin 737-
+53-1294, Revision 1, dated June 14, 2013. We have also added new 
+paragraph (k) to this final rule to allow credit for the actions 
+required by paragraphs (g), (h), (i), and (j) of this AD, if those 
+actions were performed before the effective date of this final rule 
+using Boeing Special Attention Service Bulletin 737-53-1294, dated 
+March 31, 2011. Subsequent paragraphs have been redesignated 
+accordingly.
+
+Request To Allow Removal of Additional or Fewer Parts, and Include 
+Jacking and Shoring Limitations
+
+    AirTran/Southwest Airlines requested that we include a statement 
+stating that it is acceptable to remove additional, or fewer, parts as 
+necessary; however, jacking and shoring limitations must be observed.
+    We partially agree with the request. We agree that clarification is 
+needed regarding removal of additional or fewer parts. We infer that 
+this comment concerns instructions in Boeing Special Attention Service 
+Bulletin 737-53-1294, dated March 31, 2011, regarding access and 
+restoration, which are not required to address the unsafe condition. 
+However, we disagree with requiring jacking and shoring limitations in 
+this final rule because those actions are not required to address the 
+unsafe condition. Operators may perform those actions in accordance 
+with approved maintenance procedures. We have added new paragraph 
+(i)(4) to this final rule to state that access and close actions 
+identified in Boeing Special Attention Service Bulletin 737-53-1294, 
+Revision 1, dated June 14, 2013, are not required by this final rule. 
+We have also revised paragraphs (g) and (h) of this final rule to refer 
+to paragraph (i)(4) of this final rule.
+
+STC Winglet Comment
+
+    Aviation Partners Boeing stated that the installation of winglets 
+per STC ST00830SE does not affect them.
+    We have redesignated paragraph (c) of the NPRM (77 FR 43547, July 
+25, 2012) as paragraph (c)(1) in this AD and added paragraph (c)(2) to 
+this AD to state that installation of STC ST00830SE (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/408E012E008616A7862578880060456C?OpenDocument&Highlight=st00830se">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/408E012E008616A7862578880060456C?OpenDocument&Highlight=st00830se</a>) does 
+not affect the ability to accomplish the actions required by this final 
+rule. Therefore, for airplanes on which STC ST00830SE is installed, a 
+``change in product'' alternative method of compliance (AMOC) approval 
+request is not necessary to comply with the requirements of 14 CFR 
+39.17. For all other AMOC requests, the operator must request approval 
+for an AMOC in accordance with the procedures specified in paragraph 
+(l) of this final rule.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the change described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (77 FR 43547, July 25, 2012) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (77 FR 43547, July 25, 2012).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+[[Page 59804]]
+
+Costs of Compliance
+
+    We estimate that this AD affects 903 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                Action                            Labor cost            Parts cost      Cost per product                Cost on U.S. operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Inspection (left and right sides).....  14 work-hours x $85 per hour            $0  $1,190 per inspection     $1,074,570 per inspection cycle.
+                                         = $1,190 per inspection                     cycle.
+                                         cycle.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary repairs and 
+inspections that would be required based on the results of the 
+inspection. We have no way of determining the number of aircraft that 
+might need these repairs:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+             Action                           Labor cost                 Parts cost          Cost per product
+----------------------------------------------------------------------------------------------------------------
+Preventive modification (each     7 work-hours x $85 per hour =      $894..............  $1,489.
+ side).                            $595.
+Skin repair (each side).........  37 work-hours x $85 per hour =     Up to $5,635......  Up to $8,780.
+                                   $3,145.
+----------------------------------------------------------------------------------------------------------------
+
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2013-19-04 the Boeing Company: Amendment 39-17586; Docket No. FAA-
+2012-0723; Directorate Identifier 2011-NM-137-AD.
+
+(a) Effective Date
+
+    This AD is effective November 4, 2013.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    (1) This AD applies to the Boeing Company Model 737-600, -700, -
+700C, -800, and -900 series airplanes; certificated in any category; 
+as identified in Boeing Special Attention Service Bulletin 737-53-
+1294, Revision 1, dated June 14, 2013.
+    (2) Installation of Supplemental Type Certificate (STC) 
+ST00830SE (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/408E012E008616A7862578880060456C?OpenDocument&Highlight=st00830se">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/408E012E008616A7862578880060456C?OpenDocument&Highlight=st00830se</a>) 
+does not affect the ability to accomplish the actions required by 
+this AD. Therefore, for airplanes on which STC ST00830SE is 
+installed, a ``change in product'' alternative method of compliance 
+(AMOC) approval request is not necessary to comply with the 
+requirements of 14 CFR 39.17. For all other AMOC requests, the 
+operator must request approval for an AMOC in accordance with the 
+procedures specified in paragraph (l) of this AD.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of cracks found in the skin at 
+body station (STA) 540 just below stringer S-22L. We are issuing 
+this AD to detect and correct fatigue cracking in the skin, which 
+can result in rapid decompression of the cabin.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspection and Corrective Action
+
+    (1) Except as required by paragraphs (g)(2), (i)(2), and (i)(3) 
+of this AD, at the applicable time specified in table 1 of paragraph 
+1.E.
+
+[[Page 59805]]
+
+``Compliance,'' of Boeing Special Attention Service Bulletin 737-53-
+1294, Revision 1, dated June 14, 2013: Do detailed and high 
+frequency eddy current (HFEC) inspections of the skin for cracking 
+in the area around the eight fasteners securing the STA 540 bulkhead 
+chords between stringers S-22 and S-23, and do all applicable 
+corrective actions, in accordance with Parts 1, 2, 3, 4, and 5 of 
+the Accomplishment Instructions of Boeing Special Attention Service 
+Bulletin 737-53-1294, Revision 1, dated June 14, 2013, except as 
+required by paragraphs (i)(1) and (i)(4) of this AD. If no cracking 
+is found, repeat the detailed and HFEC inspections at the intervals 
+specified in table 1 of paragraph 1.E., ``Compliance,'' of Boeing 
+Special Attention Service Bulletin 737-53-1294, Revision 1, dated 
+June 14, 2013, except as required by paragraph (g)(2) of this AD, 
+until the optional preventive modification specified in paragraph 
+(h) of this AD is done. Do all applicable corrective actions before 
+further flight.
+    (2) For airplanes that have incorporated Boeing Business Jet 
+Lower Cabin Altitude Supplemental Type Certificate (STC) ST01697SE 
+(<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/0812969A86AF879B8625766400600105?OpenDocument&Highlight=st01697se">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/0812969A86AF879B8625766400600105?OpenDocument&Highlight=st01697se</a>) 
+(6,500 feet maximum cabin altitude in lieu of 8,000 feet), the 
+flight-cycle related compliance times are different from those 
+specified in Boeing Special Attention Service Bulletin 737-53-1294, 
+Revision 1, dated June 14, 2013. All initial compliance times 
+specified in total flight cycles or flight cycles must be reduced to 
+half of those specified in Boeing Special Attention Service Bulletin 
+737-53-1294, Revision 1, dated June 14, 2013. All repetitive 
+interval compliance times specified in flight cycles must be reduced 
+to one-quarter of those specified in Boeing Special Attention 
+Service Bulletin 737-53-1294, Revision 1, dated June 14, 2013.
+
+(h) Optional Preventive Modification
+
+    Accomplishing the preventive modification, including an HFEC 
+inspection for cracking of the skin and STA 540 bulkhead chords, and 
+all applicable repairs, in accordance with paragraph 3.B, Part 2 or 
+Part 4 (left side), and Part 3 or Part 5 (right side), of the 
+Accomplishment Instructions of Boeing Special Attention Service 
+Bulletin 737-53-1294, Revision 1, dated June 14, 2013, terminates 
+the inspection requirements of paragraph (g) of this AD for the side 
+on which the modification is done, except as required by paragraphs 
+(i)(1) and (i)(4) of this AD.
+
+(i) Exceptions to Service Bulletin Specifications
+
+    (1) If any cracking is found during any inspection required by 
+this AD, and Boeing Special Attention Service Bulletin 737-53-1294, 
+Revision 1, dated June 14, 2013, specifies to contact Boeing for 
+appropriate action: Before further flight, repair using a method 
+approved in accordance with the procedures specified in paragraph 
+(l) of this AD.
+    (2) Where Boeing Special Attention Service Bulletin 737-53-1294, 
+Revision 1, dated June 14, 2013, specifies to do the action after 
+the original issue date of that service bulletin, this AD requires 
+the compliance time after the effective date of this AD.
+    (3) Where the Condition column of table 1 of paragraph 1.E., 
+``Compliance,'' of Boeing Special Attention Service Bulletin 737-53-
+1294, Revision 1, dated June 14, 2013, specifies a condition as of 
+the original issue date of that service bulletin, this AD specifies 
+the condition as of the effective date of this AD.
+    (4) The access and restoration instructions identified in the 
+Work Instructions of Boeing Special Attention Service Bulletin 737-
+53-1294, Revision 1, dated June 14, 2013, are not required by this 
+AD. Operators may perform those actions in accordance with approved 
+maintenance procedures.
+
+(j) Post-Repair Inspections
+
+    The post-repair inspections, specified in table 2 of paragraph 
+1.E., ``Compliance,'' of Boeing Special Attention Service Bulletin 
+737-53-1294, Revision 1, dated June 14, 2013, are not required by 
+this AD.
+
+    Note 1 to paragraph (j) of this AD: The damage tolerance 
+inspections specified in table 2 of paragraph 1.E., ``Compliance,'' 
+of Boeing Special Attention Service Bulletin 737-53-1294, Revision 
+1, dated June 14, 2013, may be used in support of compliance with 
+Section 121.1109(c)(2) or 129.109(b)(2) of the Federal Aviation 
+Regulations (14 CFR 121.1109(c)(2) or 14 CFR 129.109(b)(2)). The 
+corresponding actions specified in the Accomplishment Instructions 
+of Boeing Special Attention Service Bulletin 737-53-1294, Revision 
+1, dated June 14, 2013, are not required by this AD.
+
+(k) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraphs (g), (h), and (j) of this AD, if those actions were 
+performed before the effective date of this AD using Boeing Special 
+Attention Service Bulletin 737-53-1294, dated March 31, 2011, which 
+is not incorporated by reference in this AD.
+
+(l) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle ACO, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+ACO, it may be emailed to: <a href="/cdn-cgi/l/email-protection#b88195f9f6f595ebddd9ccccd4dd95f9fbf795f9f5f7fb95eaddc9cdddcbcccbf8ded9d996dfd7ce"><span class="__cf_email__" data-cfemail="645d49252a2949370105101008014925272b4925292b27493601151101171017240205054a030b12">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle Aircraft 
+Certification Office (ACO) to make those findings. For a repair 
+method to be approved, the repair must meet the certification basis 
+of the airplane and the approval must specifically refer to this AD.
+
+(m) Related Information
+
+    (1) For more information about this AD, contact Alan Pohl, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft 
+Certification Office, 1601 Lind Avenue SW., Renton, WA 98057-3356; 
+phone: 425-917-6450; fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#86e7eae7e8a8f6e9eeeac6e0e7e7a8e1e9f0"><span class="__cf_email__" data-cfemail="157479747b3b657a7d79557374743b727a63">[email&#160;protected]</span></a>.
+    (2) Service information referenced in this AD that is not 
+incorporated by reference in this AD may be obtained at the 
+addresses identified in paragraphs (n)(3) and (n)(4) of this AD.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Special Attention Service Bulletin 737-53-1294, 
+Revision 1, dated June 14, 2013.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P. O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on September 9, 2013.
+Jeffrey E. Duven,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-22676 Filed 9-27-13; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

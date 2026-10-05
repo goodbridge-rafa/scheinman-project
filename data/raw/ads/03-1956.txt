@@ -1,0 +1,749 @@
+<html>
+<head>
+<title>Federal Register, Volume 68 Issue 21 (Friday, January 31, 2003)</title>
+</head>
+<body><pre>
+[Federal Register Volume 68, Number 21 (Friday, January 31, 2003)]
+[Rules and Regulations]
+[Pages 4905-4910]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 03-1956]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-CE-05-AD; Amendment 39-13037; AD 2003-03-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; MORAVAN a.s. Model Z-242L Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+[[Page 4906]]
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD) that 
+applies to all MORAVAN a.s. (Moravan) Model Z-242L airplanes. This AD 
+establishes a technical service life for these airplanes by restricting 
+Acrobatic and Utility category operations and requiring replacement of 
+the wings after a certain operational time period. This AD is the 
+result of mandatory continuing airworthiness information (MCAI) issued 
+by the airworthiness authority for the Czech Republic. The actions 
+specified by this AD are intended to prevent structural failure of the 
+wing due to fatigue cracking. Such failure could result in a wing 
+separating from the airplane with consequent loss of airplane control.
+
+DATES: This AD becomes effective on March 21, 2003.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the regulations as of March 
+21, 2003.
+
+ADDRESSES: You may get the service information referenced in this AD 
+from Moravan, Inc., 765 81 Otrokovice, Czech Republic; telephone: +420 
+67 767 3940; facsimile: +420 67 792 2103. You may view this information 
+at the Federal Aviation Administration (FAA), Central Region, Office of 
+the Regional Counsel, Attention: Rules Docket No. 2000-CE-05-AD, 901 
+Locust, Room 506, Kansas City, Missouri 64106; or at the Office of the 
+Federal Register, 800 North Capitol Street, NW, suite 700, Washington, 
+DC.
+
+FOR FURTHER INFORMATION CONTACT: Doug Rudolph, Aerospace Engineer, FAA, 
+Small Airplane Directorate, 901 Locust, Room 301, Kansas City, Missouri 
+64106; telephone: (816) 329-4059; facsimile: (816) 329-4090.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+What Events Have Caused This AD?
+
+    The Civil Aviation Authority Czech Republic (CAA CZ), which is the 
+airworthiness authority for the Czech Republic, notified FAA that an 
+unsafe condition may exist on all Moravan Model Z-242L airplanes. The 
+CAA CZ reports that these airplanes are operated over the load spectrum 
+that was used at certification. The CAA CZ further reports that a 
+technical service life for these airplanes is needed. The affected 
+airplanes fall into two different groups:
+
+--Group 1: those airplanes with a serial number in the range of 0001 
+through 0656 with the original wings installed; and
+--Group 2: those airplanes with stronger wings installed either through 
+modification (serial numbers 0001 through 0656) or at manufacture (all 
+serial numbers beginning with 0657).
+
+    Based on analysis, the CAA CZ reports that the technical service 
+life should be:
+
+------------------------------------------------------------------------
+                                 Acrobatic and utility
+                                  category operations    All operations
+------------------------------------------------------------------------
+Group 1.......................  190 hours time-in-      3,500 hours TIS.
+                                 service (TIS) only in   New wings must
+                                 these categories.       be installed
+                                 Operation only in the   prior to
+                                 Normal category         further
+                                 thereafter.             operation.
+Group 2.......................  450 hours TIS only in   5,500 hours TIS.
+                                 these categories.       New wings must
+                                 Operation only in the   be installed
+                                 Normal category         prior to
+                                 thereafter.             further
+                                                         operation.
+------------------------------------------------------------------------
+
+What Is the Potential Impact if FAA Took No Action?
+
+    Fatigue cracks in the wing, if not detected and corrected or 
+prevented, could result in structural failure of the wing. Such failure 
+could result in a wing separating from the airplane with consequent 
+loss of airplane control.
+
+Has FAA Taken Any Action to This Point?
+
+    We issued a proposal to amend part 39 of the Federal Aviation 
+Regulations (14 CFR part 39) to include an AD that would apply to all 
+Moravan Model Z-242L airplanes. This proposal was published in the 
+Federal Register as a notice of proposed rulemaking (NPRM) on October 
+4, 2002 (67 FR 62214). The NPRM proposed to establish a technical 
+service life for these airplanes by restricting Acrobatic and Utility 
+category operations and requiring replacement of the wings after a 
+certain operational time period.
+
+Was the Public Invited to Comment?
+
+    The FAA encouraged interested persons to participate in the making 
+of this amendment. The following presents the comments received on the 
+proposal and FAA's response to each comment:
+
+Comment Issue No. 1: Delay the AD Until Moravan America Completes an 
+Analysis of the Problem and Presents an Alternative
+
+What Is the Commenters' Concern?
+
+    Several commenters request that FAA delay issuing the final rule AD 
+until after Moravan America has a chance to present an alternative to 
+the actions specified in the NPRM. Specific comments in this area are 
+as follows:
+
+--One of the alternatives that Moravan America is working on allows an 
+extension of the 450-hour time-in-service (TIS) Acrobatic and Utility 
+operations life limit to 700 hours TIS. This would only apply to 
+airplanes with strengthened wings;
+--Moravan America will produce a service bulletin tailored to the 
+operational characteristics of the U.S. safety assurance system and 
+will provide operational guidelines and a measurement system for 
+exceeding load limits. Included in this service bulletin would be 
+guidelines for continued airworthiness and operational constraints;
+--The FAA should delay issuing this AD until Moravan America has a 
+chance to evaluate all the facts leading to the issuance of the Czech 
+Republic AD. The Moravan America proposed solution will be a better 
+option; and
+--Moravan America can have a proposed alternative to this AD within 90 
+days.
+
+What Is FAA's Response to the Concern?
+
+    The FAA is continuing with this AD action. However, we will add a 
+grace period of ``90 days after the effective date of this AD'' to the 
+compliance time of the life limits in the Utility and Acrobatic 
+categories. This would make the compliance time ``upon accumulating 
+either 190 hours TIS or 450 hours TIS in the Utility or Acrobatic 
+category or on or before June 10, 2003 (90 days after the effective 
+date of this AD), whichever occurs later.'' This compliance time change 
+will give Moravan America the time it needs to develop an alternative 
+method of compliance and service bulletin for FAA approval.
+    Based on data submitted, we may approve an alternative method of 
+compliance and amend the AD, as appropriate.
+
+[[Page 4907]]
+
+Comment Issue No. 2: The Life Limit for Airplanes With Strengthened 
+Wings Should Be 5,500 Hours Time-in-Service (TIS)
+
+What Is the Commenter's Concern?
+
+    One commenter states that the life limit for airplanes with the 
+strengthened wings should be 5,500 hours TIS. We infer that the 
+commenter wants the NPRM changed to reflect this.
+
+What Is FAA's Response to the Concern?
+
+    We partially concur. The life limit for the affected airplanes with 
+strengthened wings is 5,500 hours TIS while operated in the Normal 
+category. The life limit for these airplanes in the Utility and 
+Acrobatic categories is 450 hours TIS. After the sum of time in the 
+Utility and Acrobatic categories equals 450 hours TIS or within 90 days 
+after the effective date of the AD (whichever occurs later), you may 
+only operate the airplane in the Normal category until the accumulation 
+of 5,500 hours TIS. Utility and Acrobatic category operation would be 
+prohibited until the installation of new wings.
+    The life limits for Utility and Acrobatic category operation and 
+Normal category operation would start over again after replacement of 
+the wings.
+    We are not changing the final rule AD action as a result of this 
+comment.
+
+Comment Issue No. 3: Allow a Life Limit Extension Through Installation 
+of the AMU1 Monitoring Unit
+
+What Is the Commenters' Concern?
+
+    Several commenters request that FAA change the NPRM to allow those 
+airplanes that incorporate the strengthened wings to operate past 450 
+hours TIS in the Utility and Acrobatic categories if an AMU1 
+(acceleration monitoring unit) is installed. The commenters state that 
+this unit regularly monitors the load factors on the primary structure 
+and evaluates the measured load spectrum and collates it with the CAA-
+FAA and ZLIN-A spectrums. The commenters feel that this AMU1 unit has 
+had an indisputable and substantial impact on increasing the safe 
+fatigue life on the Model Z-242L airplanes.
+
+What Is FAA's Response to the Concern?
+
+    We do not concur that the AMU1 unit should be part of the proposed 
+AD. The CAA CZ examined all the available data and decided that these 
+airplanes should be life limited to the levels described in the NPRM.
+    We have determined that these life limit values are valid and that 
+allowing all airplanes to exceed these values through the use of an 
+acceleration monitoring unit does not address the unsafe condition. The 
+FAA will evaluate requests for this option on an individual basis and 
+may issue alternative methods of compliance provided the request is 
+made in accordance with the procedures in paragraph (e) of the AD and 
+provides a level of safety acceptable to FAA.
+    We are not changing the final rule AD action as a result of this 
+comment.
+
+Comment Issue No. 4: Allow Moravan to Extend the Life Limits on a Case-
+by-Case Basis
+
+What Is the Commenters' Concern?
+
+    Several commenters state that Moravan has the capability of 
+approving the data from the acceleration monitoring unit and allowing 
+continued operation past the specified life limits. The commenters 
+further state that Moravan recognizes the information from both the 
+AMU1 unit and the Corsa Data Acquisition System (CDAS) in allowing the 
+affected airplanes to operate past the 450-hour TIS life limit in the 
+Utility and Acrobatic categories and operate to the 5,500-hour TIS 
+Normal category life limit.
+    The commenters suggest that FAA give Moravan the authority to allow 
+the affected airplane operators to operate past the Utility and 
+Acrobatic life limit categories.
+
+What Is FAA's Response to the Concern?
+
+    We do not concur. As earlier stated, the CAA CZ examined all the 
+available data and decided that these airplanes should be life limited 
+to the levels described in the NPRM. We have determined that these life 
+limits are valid.
+    The FAA is not allowed to delegate its rulemaking authority to an 
+aircraft manufacturer. Allowing Moravan to determine whether an 
+airplane can exceed these values through the use of an AMU1 or CDAS 
+would be the same as delegating our rulemaking authority.
+    We will evaluate requests for this option on an individual basis 
+and may issue alternative methods of compliance provided the request is 
+found to be at a level of safety acceptable to FAA and is made in 
+accordance with the procedures in paragraph (e) of the AD.
+    We are not changing the final rule AD action as a result of this 
+comment.
+
+Comment Issue No. 5: Allow a Root Wing Modification
+
+What Is the Commenter's Concern?
+
+    One commenter recommends that FAA add the option of incorporating a 
+wing root modification to allow operation in the Utility and Acrobatic 
+categories to 3,500 hours TIS. This is for airplanes with 
+unstrengthened wings that are not eligible for the AMU1 method to 
+increase operation to the 5,500 hours TIS.
+
+What Is FAA's Response to the Concern?
+
+    We do not concur. As earlier stated, the CAA CZ examined all the 
+available data and decided that these airplanes should be life limited 
+to the levels described in the NPRM. We have determined that these life 
+limits are valid.
+    Moravan has superseded the service bulletin that incorporated the 
+referenced root wing modification, and the CAA CZ does not have current 
+AD action that references this root wing modification. The FAA has 
+examined all of the information available from CAA CZ and has 
+determined that the root wing modification is not a valid option for 
+this AD action.
+    We are not changing the final rule AD action as a result of this 
+comment.
+
+Comment Issue No. 6: The Model Z-242L Airplanes Should Either Be 
+Eliminated From the AD or Not Have Utility and Acrobatic Category Life 
+Limit Restrictions
+
+What Is the Commenters' Concern?
+
+    Several comments state that both the CAA CZ and FAA have approved 
+fatigue testing done on 3 Model Z242L airplanes that shows that the 
+airplanes can be operated to 5,500 hours TIS without any life limits on 
+Utility or Acrobatic category operations. These commenters recommend 
+that we remove the Utility and Acrobatic category life limit 
+requirement from the AD for the Model Z-242L airplanes.
+    Another commenter states that the service history on this subject 
+matter is only for the earlier manufactured airplane models and no data 
+exists for the Model Z-242L airplanes. The airplane models that the 
+commenter refers to are not certificated for operation in the United 
+States. This commenter recommends that FAA withdraw the NPRM.
+    One commenter states that the proposed AD action is based on an 
+accident of a Model Z-142 airplane (not certificated in the United 
+States) in Australia. The commenter points out that the wing on the 
+Model Z-242L has a totally different design and should not be affected 
+by the subject matter in this AD. The commenter proposes that FAA 
+withdraw the NPRM.
+
+What Is FAA's Response to the Concern?
+
+    The FAA does not concur that the Model Z-242L airplanes should be
+
+[[Page 4908]]
+
+excluded from the AD or exempt from the Utility and Acrobatic category 
+life limit requirements. We concur that there may be differences in the 
+design of the aircraft, but we do not concur that the Model Z-242L is 
+not affected by this subject matter. The CAA CZ has approved the life 
+limits that are included in this AD for the Model Z-242L airplanes, and 
+FAA has determined that they are valid for these airplanes that are 
+registered in the United States. The FAA has to issue an AD to mandate 
+the reduction in a life limit or a change or addition of an 
+airworthiness limitation, even if the reduction, change, or addition is 
+FAA-approved. Therefore, the AD is necessary in order to ensure the 
+life limits are required.
+    We are not changing the final rule AD action as a result of this 
+comment.
+
+Comment Issue No. 7: Why Issue an AD When the Life Limits Are Already 
+Published in the Maintenance Manual
+
+What Is the Commenter's Concern?
+
+    One commenter states that the current life limits are already in 
+force because the manufacturer included them in a revision to the 
+maintenance manual. Because of this, the commenter believes the AD is 
+unnecessary and requests that FAA withdraw the NPRM.
+
+What Is FAA's Response to the Concern?
+
+    We do not concur that the AD is unnecessary and the NPRM should be 
+withdrawn. There are distinct differences between the CAA CZ and FAA's 
+rulemaking processes. If the CAA CZ determines an airworthiness 
+limitation should be added or a life limit should be reduced, it only 
+has to stamp CAA CZ approved on the document (service bulletin or 
+maintenance manual revision) to enforce the change. The FAA has to 
+issue an AD to mandate the reduction in a life limit or a change or 
+addition of an airworthiness limitation, even if the reduction, change, 
+or addition is FAA-approved. Therefore, the AD is necessary in order to 
+ensure the life limits are required.
+    We are not changing the final rule AD action as a result of this 
+comment.
+
+Comment Issue No. 8: Allow the Option of Repetitive Inspections Instead 
+of Wing Replacement
+
+What Is the Commenter's Concern?
+
+    One commenter requests that FAA allow repetitive inspection of the 
+wings once one of the affected airplanes reaches the life limit in 
+Utility and Acrobatic operations. The commenter believes that the 
+aircraft could then continue to fly until it reached the total hours 
+TIS life limit provided no cracks are found during the inspections. The 
+commenter states that this would provide the same level of safety 
+because cracks would be detected before failure, and then FAA could 
+mandate replacement of the wings when the cracks were found.
+
+What Is FAA's Response to the Concern?
+
+    There currently are no procedures available for detecting cracks in 
+the wings of the affected airplanes. The CAA CZ has not approved 
+inspections in this area and has approved the life limits. Therefore, 
+we are mandating the life limits through this AD action.
+    We would consider repetitive inspections as an alternative method 
+of compliance provided the method:
+
+--included procedures that provided details on how the onset of the 
+fatigue damage was going to be detected;
+--was submitted in accordance with the procedures specified in this AD; 
+and
+--provided a level of safety that was acceptable to FAA.
+    We are not changing the final rule AD action as a result of this 
+comment.
+
+Comment Issue No. 9: The Cost of This AD Is Too High
+
+What Is the Commenters' Concern?
+
+    Several commenters request that FAA not issue the AD because of the 
+high cost.
+
+What Is FAA's Response to the Concern?
+
+    The FAA does not concur. While we do take the cost impact into 
+consideration on AD actions, the most important aspect is the safety 
+issue. The passenger injuries that might be prevented through 
+compliance with this AD outweigh the cost of compliance with this AD. 
+We have determined that the CAA CZ life limits are valid and should be 
+mandated for airplanes certificated for operation in the United States. 
+We will approve any alternative method of compliance from the 
+commenters provided it is submitted in accordance with the procedures 
+in the AD and we determine that it provides an acceptable level of 
+safety.
+    We are not changing the final rule AD action as a result of this 
+comment.
+
+Comment Issue No. 10: How Do You Track Utility and Acrobatic Time?
+
+What Is the Commenter's Concern?
+
+    One commenter wants clarification on how time in the Utility and 
+Acrobatic categories is calculated. This commenter states that no U.S. 
+operator has an accurate account of acrobatic time at this point so all 
+wings would have to be replaced or no one is going to claim the right 
+number of hours in these categories.
+
+What Is FAA's Response to the Concern?
+
+    We concur that it could be difficult to account for the number of 
+hours TIS previously accumulated in the Utility and Acrobatic 
+categories. However, the CAA CZ established the limits in the Utility 
+and Acrobatic categories at 190 or 450 hours TIS and we have determined 
+that they are valid and should be mandated for airplanes certificated 
+for operation in the United States. As previously discussed, we are 
+adding a grace period of ``90 days after the effective date of this 
+AD'' to the compliance time of the life limits in the Utility and 
+Acrobatic categories. This would make the compliance time ``upon 
+accumulating either 190 hours TIS or 450 hours TIS in the Utility or 
+Acrobatic category or on or before June 10, 2003 (90 days after the 
+effective date of this AD), whichever occurs later.''
+    All operators will have at least 90 days before they are restricted 
+from operations in the Utility and Acrobatic categories.
+    We have added procedures to the AD on how to track time in the 
+Acrobatic and Utility categories. These procedures are also specified 
+in Moravan Mandatory Service Bulletin Z 242L/37a (Z 142C/17a), Rev. 1, 
+dated October 31, 2000; and Moravan Mandatory Service Bulletin Z 242L/
+38a (Z 142C/18a), dated October 31, 2000.
+
+Comment Issue No. 11: Aircraft Equipped With Nitrogen Spars Should Be 
+Exempt From the AD
+
+What Is the Commenter's Concern?
+
+    One commenter states that the life limits are not valid because the 
+affected airplanes are equipped with nitrogen spars. With these spars, 
+you can detect cracks through pressure leakage. The commenter believes 
+that because of these early signs of failure, it is inconceivable that 
+the wings will fall off due to stress. The commenter requests that FAA 
+withdraw the NPRM.
+
+What Is FAA's Response to the Concern?
+
+    We do not concur that the AD action is not valid because the 
+affected airplanes are equipped with nitrogen spars. The CAA CZ was 
+aware of this when it performed the analysis to determine the life 
+limits. We have determined that the CAA CZ life limits are valid and 
+should be mandated for airplanes certificated for operation in the 
+United States.
+    We are not changing the final rule AD action as a result of this 
+comment.
+
+[[Page 4909]]
+
+FAA's Determination
+
+What Is FAA's Final Determination on This Issue?
+
+    After careful review of all available information related to the 
+subject presented above, we have determined that air safety and the 
+public interest require the adoption of the rule as proposed except for 
+the compliance time change, the addition of procedures on how to track 
+time in the Acrobatic and Utility categories, and minor editorial 
+corrections. We have determined that the change, the addition, and the 
+minor editorial corrections:
+
+--provide the intent that was proposed in the NPRM for correcting the 
+unsafe condition; and
+--do not add any additional burden upon the public than was already 
+proposed in the NPRM.
+
+Cost Impact
+
+How Many Airplanes Does This AD Impact?
+
+    We estimate that this AD affects 39 airplanes in the U.S. registry.
+
+What Is the Cost Impact of This AD on Owners/Operators of the Affected 
+Airplanes?
+
+    We estimate the following costs to replace the wings after the 
+technical service life is reached:
+
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Total cost
+                   Labor cost                                 Parts cost               Total cost      on U.S.
+                                                                                      per airplane    operators
+----------------------------------------------------------------------------------------------------------------
+60 work hours x $60 per hour = $3,600...........  $17,400 per set of wings..........      $21,000      $819,000
+----------------------------------------------------------------------------------------------------------------
+
+    We have no way of determining the monetary cost of the 
+inconvenience of restricting flight to Normal category operations.
+
+Regulatory Impact
+
+Does This AD Impact Various Entities?
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+
+Does This AD Involve a Significant Rule or Regulatory Action?
+
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A copy of the final evaluation prepared for this 
+action is contained in the Rules Docket. A copy of it may be obtained 
+by contacting the Rules Docket at the location provided under the 
+caption ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+    2. FAA amends Sec.  39.13 by adding a new AD to read as follows:
+
+2003-03-13 MORAVAN A.S.: Amendment 39-13037; Docket No. 2000-CE-05-
+AD.
+
+    (a) What airplanes are affected by this AD? This AD affects 
+Model Z-242L airplanes, all serial numbers, that are certificated in 
+any category.
+    (b) Who must comply with this AD? Anyone who wishes to operate 
+any of the airplanes identified in paragraph (a) of this AD must 
+comply with this AD.
+    (c) What problem does this AD address? The actions specified by 
+this AD are intended to prevent structural failure of the wing due 
+to fatigue cracking. Such failure could result in a wing separating 
+from the airplane with consequent loss of airplane control.
+    (d) What actions must I accomplish to address this problem? To 
+address this problem, you must establish a technical service life 
+and restrict Acrobatic and Utility category operations. This must be 
+done by accomplishing the following, as applicable:
+
+------------------------------------------------------------------------
+           Actions                 Compliance            Procedures
+------------------------------------------------------------------------
+(1) You must annotate         As of the March 21,   This is specified in
+ Acrobatic and Utility         2003 (the effective   Moravan Mandatory
+ category operational time     date of this AD).     Service Bulletin Z
+ in the logbook. If the                              242L/37a (Z 142C/
+ airplane is utilized in                             17a), Rev. 1, dated
+ either of these categories                          October 31, 2000;
+ at any time during a                                and Moravan
+ flight, you must annotate                           Mandatory Service
+ the total time for that                             Bulletin Z 242L/38a
+ flight in the Utility or                            (Z 142C/18a), dated
+ Acrobatic category, as                              October 31, 2000.
+ appropriate. The owner/
+ operator holding at least a
+ private pilot certificate
+ as authorized by section
+ 43.7 of the Federal
+ Aviation Regulations (14
+ CFR 43.7) may annotate the
+ logbook.
+-----------------------------
+
+[[Page 4910]]
+
+ 
+(2) If you have an airplane   AFM incorporation:    AFM incorporation:
+ with a serial number in the   Upon the              The owner/operator
+ range of 0001 through 0656    accumulation of 190   holding at least a
+ that does not have            hours time-in-        private pilot
+ strengthened wings            service (TIS) in      certificate as
+ installed (both left and      the Acrobatic         authorized by
+ right wings) in accordance    category and/or       section 43.7 of the
+ with Moravan Mandatory        Utility category or   Federal Aviation
+ Service Bulletin Z 242L/      on or before June     Regulations (14 CFR
+ 27a--Rev. 1, dated October    10, 2003 (90 days     43.7) may
+ 31, 2000, accomplish the      after the effective   accomplish this AFM
+ following:.                   date of this AD),     insertion of this
+(i) Insert the following       whichever occurs      AD. Make an entry
+ information into the          later; and            into the aircraft
+ Limitations Section of the    Replacement: Upon     records showing
+ Airplane Flight Manual        the accumulation of   compliance with
+ (AFM): ``Do not operate in    3,500 hours TIS in    these portions of
+ the Acrobatic or Utility      all operations or     the AD in
+ category. Operate in the      within the next 50    accordance with
+ Normal category only.''.      hours TIS in all      section 43.9 of the
+(ii) Replace both wings with   operations after      Federal Aviation
+ the following part numbers:.  March 21, 2003 (the   Regulations (14 CFR
+(A) L 242.2100 left-hand       effective date of     43.9). This
+ wing; and.                    this AD), whichever   operational
+(B) L 242.2200 right-hand      occurs later.         restriction is
+ wing.                                               referenced in
+                                                     Moravan Mandatory
+                                                     Service Bulletin Z
+                                                     242L/37a (Z 142C/
+                                                     17a), Rev. 1, dated
+                                                     October 31, 2000.
+                                                     Replacement: In
+                                                     accordance with
+                                                     Moravan Mandatory
+                                                     Service Bulletin Z
+                                                     242L/27a--Rev. 1,
+                                                     dated October 31,
+                                                     2000.
+-----------------------------
+(3) If you have an airplane   AFM incorporation:    AFM incorporation:
+ with a serial number of       Upon the              The owner/operator
+ 0657 or higher or one in      accumulation of 450   holding at least a
+ the range of 0001 through     hours (TIS) in the    private pilot
+ 0656 that has strengthened    Acrobatic category    certificate as
+ wings (both left and right)   and/or Utility        authorized by
+ installed in accordance       category or on or     section 43.7 of the
+ with Moravan Mandatory        before June 10,       Federal Aviation
+ Service Bulletin Z 242L/      2003 (90 days after   Regulations (14 CFR
+ 27a--Rev. 1, dated October    the effective date    43.7) may
+ 31, 2000, accomplish the      of this AD),          accomplish this AFM
+ following:.                   whichever occurs      insertion of this
+(i) Insert the following       later; and            AD. Make an entry
+ information into the          Replacement: Upon     into the aircraft
+ Limitations Section of the    the accumulation of   records showing
+ Airplane Flight Manual        5,500 hours TIS in    compliance with
+ (AFM): ``Do not operate in    all operations or     these portions of
+ the Acrobatic or Utility      within the next 50    the AD in
+ category. Operate in the      hours TIS after       accordance with
+ Normal category only.''.      March 21, 2003 (the   section 43.9 of the
+(ii) Replace both wings with   effective date of     Federal Aviation
+ the following part numbers:.  this AD), whichever   Regulations (14 CFR
+(A) L 242.2100 left-hand       occurs later. You     43.9). This
+ wing; and.                    must maintain the     operational
+(B) L 242.2200 right-hand      AFM requirement       restriction is
+ wing.                         until replacement     referenced in
+                               of the wings.         Moravan Mandatory
+                                                     Service Bulletin Z
+                                                     242L/38a (Z 142C/
+                                                     18a), dated October
+                                                     31, 2000.
+                                                     Replacement: In
+                                                     accordance with
+                                                     Moravan Mandatory
+                                                     Service Bulletin Z
+                                                     242L/27a--Rev. 1,
+                                                     dated October 31,
+                                                     2000.
+-----------------------------
+(4) Only install a wing with  As of March 21, 2003  Not applicable.
+ a part number of L 242.2100   (the effective date
+ left-hand wing or L           of this AD).
+ 242.2200 right-hand wing.
+-----------------------------
+(5) When you install new      AFM incorporation:    See paragraph (d)(3)
+ wings (both left and right)   Upon the              of this AD.
+ on your airplane, the AFM     accumulation of 450
+ and replacement               hours TIS in the
+ requirements of paragraph     Acrobatic category
+ (d)(2) of this AD apply.      and/or Utility
+                               category; and
+                               Replacement: Upon
+                               the accumulation of
+                               5,500 hours TIS in
+                               all operations.
+------------------------------------------------------------------------
+
+    (e) Can I comply with this AD in any other way? You may use an 
+alternative method of compliance or adjust the compliance time if:
+    (1) Your alternative method of compliance provides an equivalent 
+level of safety; and
+    (2) The Manager, Standards Office, Small Airplane Directorate, 
+approves your alternative. Submit your request through an FAA 
+Principal Maintenance Inspector, who may add comments and then send 
+it to the Manager, Standards Office, Small Airplane Directorate.
+
+    Note 1: This AD applies to each airplane identified in paragraph 
+(a) of this AD, regardless of whether it has been modified, altered, 
+or repaired in the area subject to the requirements of this AD. For 
+airplanes that have been modified, altered, or repaired so that the 
+performance of the requirements of this AD is affected, the owner/
+operator must request approval for an alternative method of 
+compliance in accordance with paragraph (e) of this AD. The request 
+should include an assessment of the effect of the modification, 
+alteration, or repair on the unsafe condition addressed by this AD; 
+and, if you have not eliminated the unsafe condition, specific 
+actions you propose to address it.
+
+    (f) Where can I get information about any already-approved 
+alternative methods of compliance? Contact Doug Rudolph, Aerospace 
+Engineer, FAA, Small Airplane Directorate, 901 Locust, Room 301, 
+Kansas City, Missouri 64106; telephone: (816) 329-4059; facsimile: 
+(816) 329-4090.
+    (g) What if I need to fly the airplane to another location to 
+comply with this AD? The FAA can issue a special flight permit under 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate your airplane to a location where 
+you can accomplish the requirements of this AD.
+    (h) Are any service bulletins incorporated into this AD by 
+reference? The replacements required by this AD must be done in 
+accordance with Moravan Mandatory Service Bulletin Z 242L/27a--Rev. 
+1, dated October 31, 2000. The Director of the Federal Register 
+approved this incorporation by reference under 5 U.S.C. 552(a) and 1 
+CFR part 51. You may get copies from Moravan, Inc., 765 81 
+Otrokovice, Czech Republic; telephone: +420 67 767 3940; facsimile: 
++420 67 792 2103. You may view copies at the FAA, Central Region, 
+Office of the Regional Counsel, 901 Locust, Room 506, Kansas City, 
+Missouri, or at the Office of the Federal Register, 800 North 
+Capitol Street, NW, suite 700, Washington, DC.
+
+    Note 2: The subject of this AD is addressed in Czech Republic AD 
+Number CAA-AD-T-099/2000R1, dated June 28, 2001.
+
+    (i) When does this amendment become effective? This amendment 
+becomes effective on March 21, 2003.
+
+    Issued in Kansas City, Missouri, on January 21, 2003.
+Michael Gallagher,
+Manager, Small Airplane Directorate, Aircraft Certification Service.
+[FR Doc. 03-1956 Filed 1-30-03; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

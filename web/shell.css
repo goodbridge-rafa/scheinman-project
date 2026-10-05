@@ -1,0 +1,198 @@
+/* SCHEINMAN: the shell.
+ *
+ * The site is a section view. An engineer's next move with an object is to cut
+ * through it and look at the layers, and what the engine does to a part is four
+ * things in order (wording.STEPS), so the interface is that section drawing
+ * three times: the stack on the overview, the lit layer while a job runs, and
+ * the shape of a finished verdict.
+ *
+ * This file is the frame: the tokens, the ground, the rail, the plate at the
+ * top. It is what a page generated elsewhere (the panel, the guided
+ * conference) wears when it is dressed in this world, which is why it carries
+ * no components: `world.css` has those, and dropping them on a page that
+ * already has its own would fight it.
+ *
+ * The palette commits to the dark ground (owner's call, 2026-09-01): this is
+ * an instrument read in a lab, not a document read on
+ * paper. Every ink was measured against every ground it lands on before it was
+ * chosen; the lowest pair is 5.3:1, WCAG AA for body text with room to spare.
+ */
+
+:root {
+  /* Grounds: a cold blue-black, never pure black. */
+  --void: #060a12;
+  --surface: #0d1524;
+  --raised: #152036;
+  --sunken: #080d18;
+
+  /* Inks. */
+  --ink: #e8eef9;
+  --ink-2: #b0c0d8;
+  --muted: #8095b2;
+
+  /* The blueprint light: structure, focus, and a measurement that holds. */
+  --line: #5cc6f5;
+  --line-soft: rgba(92, 198, 245, 0.14);
+  --line-edge: rgba(92, 198, 245, 0.34);
+
+  /* The energy in the section: a finding, the live layer, the thing to look at. */
+  --live: #f7b14a;
+  --live-soft: rgba(247, 177, 74, 0.14);
+  --live-edge: rgba(247, 177, 74, 0.42);
+
+  /* A measurement that fails, or a part the machine refuses to judge. */
+  --stop: #ff8878;
+  --stop-soft: rgba(255, 136, 120, 0.13);
+  --stop-edge: rgba(255, 136, 120, 0.4);
+
+  /* A verdict that passed. */
+  --pass: #5fd9a6;
+  --pass-soft: rgba(95, 217, 166, 0.12);
+  --pass-edge: rgba(95, 217, 166, 0.36);
+
+  --hairline: #1d2942;
+  --hairline-2: #26344f;
+  --grid-line: rgba(148, 178, 216, 0.055);
+
+  --display: "Archivo", "Helvetica Neue", sans-serif;
+  --body: "Hanken Grotesk", "Segoe UI", sans-serif;
+  --data: "Spline Sans Mono", ui-monospace, monospace;
+
+  /* One spacing scale, and nothing between its steps. */
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 24px;
+  --s6: 32px; --s7: 48px; --s8: 64px; --s9: 96px;
+
+  --rail: 244px;
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { color-scheme: dark; }
+
+body {
+  margin: 0;
+  background: var(--void);
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* The surfaces the browser draws and no design system owns. */
+::selection { background: var(--line-edge); color: var(--ink); }
+* { scrollbar-color: var(--hairline-2) transparent; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 11px; height: 11px; }
+::-webkit-scrollbar-thumb { background: var(--hairline-2); border: 3px solid var(--void); }
+::-webkit-scrollbar-track { background: transparent; }
+:focus-visible { outline: 2px solid var(--line); outline-offset: 3px; }
+a { color: var(--line); text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a:hover { color: var(--ink); }
+[hidden] { display: none !important; }
+mark { background: var(--live-soft); color: var(--ink); }
+
+/* ---------- the frame ---------- */
+
+.frame { display: grid; grid-template-columns: var(--rail) minmax(0, 1fr); min-height: 100vh; }
+
+.rail {
+  position: sticky; top: 0; align-self: start; height: 100vh;
+  display: flex; flex-direction: column; gap: var(--s5);
+  padding: var(--s5) var(--s4) var(--s4);
+  background: var(--sunken);
+  border-right: 1px solid var(--hairline);
+}
+
+.mark { display: flex; flex-direction: column; gap: 2px; text-decoration: none; color: inherit; }
+.mark b {
+  font-family: var(--display); font-weight: 700; font-stretch: 112%;
+  font-size: 21px; letter-spacing: 0.05em; text-transform: uppercase; line-height: 1;
+}
+.mark span {
+  font-family: var(--data); font-size: 11px; letter-spacing: 0.16em;
+  color: var(--muted); text-transform: uppercase;
+}
+
+/* Every section says what it is for before anyone clicks it: a rail of five
+   bare nouns makes a visitor guess, and guessing is the thing this product is
+   against. */
+.rail nav { display: flex; flex-direction: column; gap: 2px; }
+.rail nav a {
+  display: flex; flex-direction: column; gap: 1px;
+  padding: 8px var(--s3) 9px 11px;
+  color: var(--ink-2); text-decoration: none; font-size: 14.5px; font-weight: 500;
+  border-left: 2px solid transparent;
+  transition: color 140ms var(--ease), background 140ms var(--ease);
+}
+.rail nav a small { font-size: 11.5px; line-height: 1.35; color: var(--muted); font-weight: 400; }
+.rail nav a:hover { color: var(--ink); background: var(--line-soft); }
+.rail nav a[aria-current="page"] {
+  color: var(--ink); background: var(--line-soft); border-left-color: var(--line);
+}
+.rail nav a[aria-current="page"] small { color: var(--ink-2); }
+
+.rail .bottom { margin-top: auto; display: flex; flex-direction: column; gap: var(--s3); }
+
+.signout {
+  background: none; border: 0; padding: 4px 0; cursor: pointer; text-align: left;
+  color: var(--muted); font-family: var(--body); font-size: 12.5px;
+}
+.signout:hover { color: var(--ink-2); text-decoration: underline; }
+
+.column { min-width: 0; display: flex; flex-direction: column; }
+
+.topbar {
+  display: flex; align-items: center; gap: var(--s4); flex-wrap: wrap;
+  padding: var(--s3) clamp(var(--s4), 4vw, var(--s7));
+  border-bottom: 1px solid var(--hairline);
+  background: var(--sunken);
+  font-family: var(--data); font-size: 12px; color: var(--muted);
+}
+/* Capitals and wide tracking belong to the short labels here, never to the
+   address: an address is read character by character, and it is written the
+   way it is typed. */
+.topbar .flag, .topbar .right {
+  text-transform: uppercase; letter-spacing: 0.1em; font-size: 11px;
+}
+.topbar .flag {
+  color: var(--live); border: 1px solid var(--live-edge); background: var(--live-soft);
+  padding: 3px 9px 2px;
+}
+.topbar .here { color: var(--ink-2); letter-spacing: 0.01em; }
+.topbar .right { margin-left: auto; display: flex; align-items: center; gap: var(--s4); }
+
+main {
+  flex: 1;
+  padding: clamp(var(--s5), 4vw, var(--s8)) clamp(var(--s4), 4vw, var(--s7)) var(--s8);
+  /* The coordinate grid the whole world sits on: present, never loud. */
+  background-image:
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+  background-size: 32px 32px, 32px 32px;
+}
+
+.wrap { max-width: 1240px; margin: 0 auto; }
+
+footer.foot {
+  display: flex; gap: var(--s4); flex-wrap: wrap; justify-content: space-between;
+  padding: var(--s4) clamp(var(--s4), 4vw, var(--s7));
+  border-top: 1px solid var(--hairline);
+  font-family: var(--data); font-size: 11.5px; color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 900px) {
+  .frame { grid-template-columns: minmax(0, 1fr); }
+  .rail {
+    position: static; height: auto; flex-direction: row; align-items: center; flex-wrap: wrap;
+    gap: var(--s4); border-right: 0; border-bottom: 1px solid var(--hairline);
+    padding: var(--s3) var(--s4);
+  }
+  .rail nav { flex-direction: row; flex-wrap: wrap; gap: var(--s1); flex: 1 1 100%; order: 3; }
+  .rail nav a { border-left: 0; border-bottom: 2px solid transparent; padding: 7px var(--s2); }
+  .rail nav a[aria-current="page"] { border-left-color: transparent; border-bottom-color: var(--line); }
+  .rail nav a small { display: none; }
+  .rail .bottom { margin-top: 0; margin-left: auto; flex-direction: row; align-items: center; }
+  main { padding-top: var(--s5); }
+}

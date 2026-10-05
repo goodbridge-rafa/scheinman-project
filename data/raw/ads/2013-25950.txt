@@ -1,0 +1,602 @@
+<html>
+<head>
+<title>Federal Register, Volume 78 Issue 214 (Tuesday, November 5, 2013)</title>
+</head>
+<body><pre>
+[Federal Register Volume 78, Number 214 (Tuesday, November 5, 2013)]
+[Rules and Regulations]
+[Pages 66254-66258]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2013-25950]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0328; Directorate Identifier 2012-NM-184-AD; 
+Amendment 39-17643; AD 2013-22-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2009-10-06 for 
+certain The Boeing Company Model 747-400 and -400D series airplanes. AD 
+2009-10-06 required repetitive inspections to detect cracks in the 
+floor panel attachment fastener holes of the Section 41 upper deck 
+floor beam upper chords, and corrective actions if necessary; and 
+repetitive post-repair and post-modification inspections, and 
+corrective actions if necessary. This new AD adds repetitive 
+inspections of Section 44 upper deck floor beam upper chords, and 
+corrective actions if necessary; repetitive post-repair and post-
+modification inspections, and corrective actions if necessary; and 
+replacement of the upper deck floor beam upper chords. This AD was 
+prompted by an evaluation by the design approval holder (DAH) 
+indicating that certain upper chords of the upper deck floor beam are 
+subject to widespread fatigue damage (WFD). We are issuing this AD to 
+detect and correct fatigue cracking in certain upper chords of the 
+upper deck floor beam, which could become large and cause the floor 
+beams to become severed and result in rapid decompression or reduced 
+controllability of the airplane.
+
+DATES: This AD is effective December 10, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of December 10, 
+2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of June 
+17, 2009 (74 FR 22424, May 13, 2009).
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced service information 
+at the FAA, 1601 Lind Avenue SW., Renton, WA. For information on the 
+availability of this material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Bill Ashforth, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle ACO, 1601 Lind Avenue SW., 
+Renton, WA 98057-3356; phone: 425-917-6432; fax: 425-917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#d7b5bebbbbf9b6a4bfb1b8a5a3bf97b1b6b6f9b0b8a1"><span class="__cf_email__" data-cfemail="9ffdf6f3f3b1feecf7f9f0edebf7dff9fefeb1f8f0e9">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2009-10-06, Amendment 39-15901 (74 FR 22424, 
+May 13, 2009). AD 2009-10-06 applied to the specified products. The 
+NPRM published in the Federal Register on
+
+[[Page 66255]]
+
+April 16, 2013 (78 FR 22435). The NPRM proposed to continue to require 
+repetitive inspections to detect cracks in the floor panel attachment 
+fastener holes of the Section 41 upper deck floor beam upper chords, 
+and corrective actions if necessary; and repetitive post-repair and 
+post-modification inspections, and corrective actions if necessary. The 
+NPRM also proposed to add repetitive inspections of Section 44 upper 
+deck floor beam upper chords, and corrective actions if necessary; 
+repetitive post-repair and post-modification inspections, and 
+corrective actions if necessary; and replacement of the upper deck 
+floor beam upper chords.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(78 FR 22435, April 16, 2013) and the FAA's response to each comment.
+
+Request To Eliminate Duplicate Reference to Post-Repair and Post-
+Modification Repetitive Inspections
+
+    Boeing requested that we delete the reference to post-repair and 
+post-modification repetitive inspections from paragraph (g) of the NPRM 
+(78 FR 22435, April 16, 2013). Boeing stated that the post-repair and 
+post-modification inspections are required by paragraph (i) of the 
+NPRM, and need to be deleted from paragraph (g) of the NPRM to avoid 
+confusion.
+    We agree to remove the duplicate reference to post-repair and post-
+modification repetitive inspections from paragraph (g) of this final 
+rule. We have changed paragraph (g) of this final rule accordingly.
+
+Request To Revise the Heading and Clarify Paragraph (k) of the NPRM (78 
+FR 22435, April 16, 2013)
+
+    Boeing requested that we revise the heading of paragraph (k) of the 
+NPRM (78 FR 22435, April 16, 2013) to clarify that the modification 
+specified in Table 2 of paragraph 1.E., ``Compliance,'' of Boeing 
+Service Bulletin 747-53A2688, Revision 1, dated September 19, 2012, is 
+not new and is not fully terminating. Boeing also requested that we add 
+text concerning terminating inspections required by paragraphs (g) and 
+(j) of the NPRM, and also for the resumption of inspections required by 
+paragraphs (i) and (l) of the NPRM.
+    We agree with the request. We have revised the heading of paragraph 
+(k) of this final rule to ``New Terminating Action for Certain 
+Conditions.'' We also agree with adding text to paragraph (k) of this 
+final rule to clarify which modifications or repairs as modifications 
+terminate which inspections required by this final rule. We have 
+revised paragraph (k) of this final rule to add new paragraph (k)(1) to 
+this final rule to specify that, for Section 41, doing a hole 
+modification or repair as a hole modification, in accordance with 
+``Part 2--Section 41--Repair,'' of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated September 
+19, 2012, terminates the repetitive inspections specified in paragraph 
+(g) of this final rule. We have also included clarification in 
+paragraph (k)(1) of this final rule to indicate that the repetitive 
+inspections specified in paragraph (i) of this final rule must be done.
+    We have also moved the content of paragraph (k) of the NPRM (78 FR 
+22435, April 16, 2013) to new paragraph (k)(2) of this final rule to 
+specify that, for Section 44, doing a hole modification or repair as a 
+hole modification, in accordance with ``Part 5--Section 44--Repair,'' 
+of the Accomplishment Instructions of Boeing Alert Service Bulletin 
+747-53A2688, Revision 1, dated September 19, 2012, terminates the 
+repetitive inspections specified in paragraph (j) of this final rule. 
+We have also included clarification in paragraph (k)(2) of this final 
+rule to indicate that the repetitive inspections specified in paragraph 
+(l) of this final rule must be done.
+
+Request To Restart Inspections After Replacement of Upper Deck Floor 
+Beam Upper Chords
+
+    Boeing requested that we revise paragraph (m) of the NPRM (78 FR 
+22435, April 16, 2013) to add a note concerning the new inspection 
+threshold, equal to the original threshold, to restart inspections 
+after replacement of the upper deck floor beam upper chords. Boeing 
+stated that paragraph (m) of the NPRM requires the replacement of upper 
+deck floor beam upper chords in Sections 41 and 44, as given in Table 5 
+of Boeing Service Bulletin 747-53A2688, Revision 1, dated September 19, 
+2012. Boeing stated that the new inspection threshold needs to be 
+provided in paragraph (m) of this NPRM.
+    We agree with the request to include a relieving compliance time 
+for the inspections required by this final rule for airplanes on which 
+the upper deck floor beam upper chords are replaced. Paragraphs (g), 
+(i), (j), and (l) of this final rule require repetitive inspections at 
+the applicable times specified in Tables 1 through 4 of paragraph 1.E., 
+``Compliance,'' of Boeing Service Bulletin 747-53A2688, Revision 1, 
+dated September 19, 2012. However, Boeing Service Bulletin 747-53A2688, 
+Revision 1, dated September 19, 2012, does not specify that 
+accomplishing the replacement terminates the repetitive inspections, 
+nor does it provide a longer compliance time for the next inspection 
+done after accomplishing the replacement. We also agree that the next 
+inspection after accomplishing the replacement may be done within 
+20,000 flight cycles. We have determined that this compliance time will 
+provide an adequate level of safety. We have revised paragraph (m) of 
+this final rule to add the first interval for the repetitive 
+inspections required by this final rule for airplanes on which a 
+replacement required by paragraph (m) of this final rule is done.
+
+Request To Add References to Paragraph (n)(1) of the NPRM (78 FR 22435, 
+April 16, 2013)
+
+    Boeing requested that we revise paragraph (n)(1) of the NPRM (78 FR 
+22435, April 16, 2013) to refer to paragraphs (j) and (l) of the NPRM. 
+Boeing stated that since paragraph (n) of the NPRM is referring to new 
+exceptions, it should refer to cracks found as part of the new 
+inspections specified in paragraph (i), (j), or (l) of the NPRM 
+(reference Compliance Tables 2, 3, or 4 of Boeing Service Bulletin 747-
+53A2688, Revision 1, dated September 19, 2012).
+    We partially agree with the request. We have added a reference to 
+paragraph (j) of this final rule in paragraph (n)(1) of this final 
+rule. Paragraph (j) of this final rule already references paragraph 
+(n)(1) of this final rule as an exception. However, we do not agree to 
+add a reference to paragraph (l) of this final rule in paragraph (n)(1) 
+of this final rule, because paragraph (l) of this final rule does not 
+include a reference to the service information for the corrective 
+action. Paragraph (l) of this final rule specifies to refer to the 
+procedures in paragraph (p) of this final rule for airplanes on which 
+any cracking is found.
+
+Request To Allow Boeing Organization Designation Authorization (ODA) 
+Approval
+
+    Boeing requested we revise paragraph (n)(3) of the NPRM (78 FR 
+22435, April 16, 2013) to allow the full provisions of Boeing ODA 
+approval. Boeing stated that alternative method of compliance (AMOC) 
+approval provisions allowed in paragraph (p) of the NPRM should apply 
+to all sections of the NPRM.
+    We disagree. Paragraph (p)(3) of this final rule already allows for 
+ODA
+
+[[Page 66256]]
+
+approval of repairs. We have not changed this final rule in this 
+regard. However, we have revised paragraph (n)(3) of this final rule to 
+clarify where the service information specifies to contact the FAA, 
+operators must contact the Seattle Aircraft Certification Office (ACO).
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously except for minor 
+editorial changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (78 FR 22435, April 16, 2013) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 22435, April 16, 2013).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 84 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection (retained actions from  Up to 50 work-hours              $0  Up to $4,250 per     Up to $357,000 per
+ AD 2009-10-06, Amendment           x $85 per hour =                     inspection cycle.    inspection cycle.
+ 39[dash]15901 (74 FR 22424, May    Up to $4,250 per
+ 13, 2009)).                        inspection cycle.
+Inspection (new action)..........  259 work-hours x                  0  $22,015 per          $1,849,260 per
+                                    $85 per hour =                       inspection cycle.    inspection cycle.
+                                    $22,015 per
+                                    inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+a cost estimate for the repair or modification specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2009-10-06, Amendment 39-15901 (74 FR 22424, May 13, 2009), and adding 
+the following new AD:
+
+2013-22-11 The Boeing Company: Amendment 39-17643; Docket No. FAA-
+2013-0328; Directorate Identifier 2012-NM-184-AD.
+
+(a) Effective Date
+
+    This AD is effective December 10, 2013.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2009-10-06, Amendment 39-15901 (74 FR 
+22424, May 13, 2009).
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 747-400 and -400D 
+series airplanes; certificated in any category; as identified in 
+Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated 
+September 19, 2012.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by an evaluation by the design approval 
+holder (DAH) indicating that certain upper chords of the upper deck 
+floor beam are subject to widespread fatigue damage (WFD). We are 
+issuing this AD to detect and correct fatigue cracking in certain 
+upper chords of the upper deck floor beam, which could become large 
+and cause the floor beams to become severed and result in rapid 
+decompression or reduced controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Inspections and Corrective Actions With Revised Service 
+Information and Compliance Times
+
+    This paragraph restates the actions required by paragraph (g) of 
+AD 2009-10-06, Amendment 39-15901 (74 FR 22424, May 13, 2009), with 
+revised service information and compliance times. Except as required 
+by paragraphs (h)(1) and (h)(2) of this AD: At the applicable times 
+in paragraph 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 
+747-53A2688, dated August 21, 2008, do an inspection (open-hole or 
+surface high frequency eddy current (HFEC)) to
+
+[[Page 66257]]
+
+detect cracks in the floor panel attachment fastener holes of the 
+Section 41 upper deck floor beam upper chords, and do applicable 
+corrective actions, by accomplishing all the applicable actions 
+specified in the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 747-53A2688, dated August 21, 2008; or Revision 1, dated 
+September 19, 2012. Repeat the inspections thereafter at the 
+applicable times specified in paragraph 1.E., ``Compliance,'' of 
+Boeing Alert Service Bulletin 747-53A2688, dated August 21, 2008, 
+except as required by paragraphs (i) and (m) of this AD. As of the 
+effective date of this AD, use only Boeing Alert Service Bulletin 
+747-53A2688, Revision 1, dated September 19, 2012, to accomplish the 
+actions in this paragraph.
+
+(h) Retained Exceptions
+
+    (1) This paragraph restates the exception stated in paragraph 
+(h) of AD 2009-10-06, Amendment 39-15901 (74 FR 22424, May 13, 
+2009). If any crack is found during any inspection required by 
+paragraph (g) of this AD, and Boeing Alert Service Bulletin 747-
+53A2688, dated August 21, 2008; or Revision 1, dated September 19, 
+2012; specifies to contact Boeing for appropriate action: Before 
+further flight, repair the crack using a method approved in 
+accordance with the procedures specified in paragraph (p) of this 
+AD.
+    (2) This paragraph restates the exception stated in paragraph 
+(i) of AD 2009-10-06, Amendment 39-15901 (74 FR 22424, May 13, 
+2009). Where Boeing Alert Service Bulletin 747-53A2688, dated August 
+21, 2008, specifies a compliance time after the date on the service 
+bulletin, this AD requires compliance within the specified 
+compliance time after June 17, 2009 (the effective date of AD 2009-
+10-06).
+
+(i) Inspections and Corrective Actions for Airplanes on Which a Repair 
+or Modification Is Done (for Section 41)
+
+    For airplanes on which a repair or modification identified in 
+Table 2 of 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 
+747-53A2688, Revision 1, dated September 19, 2012, has been done: At 
+the times specified in Table 2 of paragraph 1.E., ``Compliance,'' of 
+Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated 
+September 19, 2012, except as required by paragraph (n)(3) of this 
+AD, do open-hole and surface HFEC inspections, as applicable, for 
+cracking, in accordance with the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated 
+September 19, 2012. Repeat at the applicable intervals specified in 
+Table 2 of paragraph 1.E., ``Compliance,'' of Boeing Alert Service 
+Bulletin 747-53A2688, Revision 1, dated September 19, 2012. If any 
+cracking is found in the repaired or modified locations, before 
+further flight, repair the crack using a method approved in 
+accordance with the procedures specified in paragraph (p) of this 
+AD.
+
+(j) New Inspections and Repair
+
+    For Group 1 airplanes identified in Boeing Alert Service 
+Bulletin 747-53A2688, Revision 1, dated September 19, 2012: At the 
+applicable times specified in paragraph 1.E., ``Compliance,'' of 
+Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated 
+September 19, 2012, except as specified in paragraph (n)(2) of this 
+AD, do an open-hole or surface HFEC inspection to detect cracking in 
+the floor panel attachment fastener holes of the Section 44 upper 
+deck floor beam upper chords, and all applicable corrective actions, 
+in accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 747-53A2688, Revision 1, dated September 19, 2012, 
+except as required by paragraph (n)(1) of this AD. Repeat the 
+inspections thereafter at the applicable intervals specified in 
+paragraph 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 
+747-53A2688, Revision 1, dated September 19, 2012, except as 
+provided by paragraph (m) of this AD. Do all applicable corrective 
+actions before further flight.
+
+(k) New Terminating Action for Certain Conditions
+
+    (1) For Section 41: Doing a hole modification or repair as a 
+hole modification, in accordance with ``Part 2--Section 41--
+Repair,'' of the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 747-53A2688, Revision 1, dated September 19, 2012, 
+terminates the repetitive inspections specified in paragraph (g) of 
+this AD. However, the repetitive inspections specified in paragraph 
+(i) of this AD must be done.
+    (2) For Section 44: Doing a hole modification or repair as a 
+hole modification, in accordance with ``Part 5--Section 44--
+Repair,'' of the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 747-53A2688, Revision 1, dated September 19, 2012, 
+terminates the repetitive inspections specified in paragraph (j) of 
+this AD. However, the repetitive inspections specified in paragraph 
+(l) of this AD must be done.
+
+(l) New Inspections and Corrective Actions for Airplanes on Which a 
+Repair or Modification Is Done (for Section 44)
+
+    For airplanes on which a repair or modification specified in the 
+``Condition'' column of Table 4 of paragraph 1.E., ``Compliance,'' 
+of Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated 
+September 19, 2012, has been done: At the times specified in Table 4 
+of paragraph 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 
+747-53A2688, Revision 1, dated September 19, 2012, except as 
+required by paragraph (n)(3) of this AD, do open hole and surface 
+HFEC inspections, as applicable, for cracking, in accordance with 
+the Accomplishment Instructions of Boeing Alert Service Bulletin 
+747-53A2688, Revision 1, dated September 19, 2012. Repeat at the 
+applicable intervals specified in Table 4 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 747-53A2688, 
+Revision 1, dated September 19, 2012. If any cracking is found in 
+the repaired or modified locations, before further flight, repair 
+the crack using a method approved in accordance with the procedures 
+specified in paragraph (p) of this AD.
+
+(m) New Replacement and Post-Replacement Inspections
+
+    At the time specified in paragraph 1.E., ``Compliance,'' of 
+Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated 
+September 19, 2012: Replace Section 41 and 44 upper deck floor beam 
+upper chords, in accordance with the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated 
+September 19, 2012. Repeat the inspections required by paragraphs 
+(g) and (j) of this AD within 20,000 flight cycles after doing the 
+replacement. Thereafter, repeat the inspection required by 
+paragraphs (g) and (j) of this AD at the times specified in 
+paragraphs (g) and (j) of this AD.
+
+(n) New Exceptions
+
+    (1) If any crack is found during any inspection required by 
+paragraph (i), (j), or (l) of this AD, and Boeing Alert Service 
+Bulletin 747-53A2688, Revision 1, dated September 19, 2012, 
+specifies to contact Boeing for appropriate action: Before further 
+flight, repair the crack using a method approved in accordance with 
+the procedures specified in paragraph (p) of this AD.
+    (2) Where Boeing Alert Service Bulletin 747-53A2688, Revision 1, 
+dated September 19, 2012, specifies a compliance time ``after the 
+Revision 1 date of this service bulletin,'' this AD requires 
+compliance within the specified compliance time after the effective 
+date of this AD.
+    (3) Where Table 2 or Table 4 of paragraph 1.E., ``Compliance,'' 
+of Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated 
+September 19, 2012, specifies to contact Boeing for inspections and 
+compliance times: Before further flight, contact the Manager, FAA, 
+Seattle Aircraft Certification Office (ACO), for inspections and 
+compliance times and accomplish the inspections at the given times.
+
+(o) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraph (g) of this AD, if those actions were performed before the 
+effective date of this AD using Boeing Alert Service Bulletin 747-
+53A2688, dated August 21, 2008.
+
+(p) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (q)(1) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#c0f9ed818e8ded93a5a1b4b4aca5ed81838fed818d8f83ed92a5b1b5a5b3b4b380a6a1a1eea7afb6"><span class="__cf_email__" data-cfemail="cdf4e08c8380e09ea8acb9b9a1a8e08c8e82e08c80828ee09fa8bcb8a8beb9be8dabacace3aaa2bb">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet
+
+[[Page 66258]]
+
+the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) AMOCs approved for AD 2009-10-06, Amendment 39-15901 (74 FR 
+22424, May 13, 2009), are approved as AMOCs for the corresponding 
+actions of this AD.
+
+(q) Related Information
+
+    (1) For more information about this AD, contact Bill Ashforth, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle ACO, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-6432; 
+fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#ee8c878282c08f9d8688819c9a86ae888f8fc0898198"><span class="__cf_email__" data-cfemail="9efcf7f2f2b0ffedf6f8f1eceaf6def8ffffb0f9f1e8">[email&#160;protected]</span></a>.
+    (2) Service information that is not incorporated by reference in 
+this AD may be obtained at the addresses identified in paragraph 
+(r)(5) of this AD.
+
+(r) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+December 10, 2013.
+    (i) Boeing Alert Service Bulletin 747-53A2688, Revision 1, dated 
+September 19, 2012.
+    (ii) Reserved.
+    (4) The following service information was approved for IBR on 
+June 17, 2009 (74 FR 22424, May 13, 2009).
+    (i) Boeing Alert Service Bulletin 747-53A2688, dated August 21, 
+2008.
+    (ii) Reserved.
+    (5) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (6) You may view this service information at FAA, 1601 Lind 
+Avenue SW., Renton, WA. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on October 17, 2013.
+Jeffrey E. Duven,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-25950 Filed 11-4-13; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,47 @@
+{
+  "source": "data/raw/MIL-HDBK-5J.pdf",
+  "pages": [335],
+  "comment": "Lot 5b: 2014-T6 die forging, the carry-thru spar material named by AD 2023-02986. Steered by the lot4 extraction result.",
+  "fields": [
+    {
+      "field_id": "spec_2014_die_forging",
+      "question": "On PDF page 335, Table 3.2.1.0(e) header: the specification(s) listed for 2014 aluminum alloy die forging under temper T6. Report exactly as printed.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "tempers_printed",
+      "question": "On PDF page 335, Table 3.2.1.0(e) header: every temper printed for this die-forging table, joined by ';' in printed order.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "first_range_thickness_in",
+      "question": "On PDF page 335, Table 3.2.1.0(e): the FIRST (leftmost) thickness column under temper T6. Report exactly as printed (including any comparison sign).",
+      "expected_unit": "in"
+    },
+    {
+      "field_id": "t6_ftu_L_A_ksi",
+      "question": "On PDF page 335, Table 3.2.1.0(e): Ftu, L direction, A basis, temper T6, in that same first thickness column. Number as printed, without footnote letters.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t6_fty_L_A_ksi",
+      "question": "On PDF page 335, Table 3.2.1.0(e): Fty, L direction, A basis, temper T6, in that same first thickness column. Number as printed, without footnote letters.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t6_fbru_2p0_A_ksi",
+      "question": "On PDF page 335, Table 3.2.1.0(e): Fbru for e/D = 2.0, A basis, temper T6, in that same first thickness column. Number as printed.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "e_modulus_ksi",
+      "question": "On PDF page 335, Table 3.2.1.0(e): the tension modulus of elasticity E, in 10^3 ksi, from the physical-properties block. Number as printed.",
+      "expected_unit": "10^3 ksi"
+    },
+    {
+      "field_id": "density_lb_in3",
+      "question": "On PDF page 335, Table 3.2.1.0(e): the density (omega, lb/in.3) printed in the physical-properties block. Number as printed.",
+      "expected_unit": "lb/in^3"
+    }
+  ]
+}

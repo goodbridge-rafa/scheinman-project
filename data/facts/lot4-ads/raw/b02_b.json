@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "00-29497": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": null,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "To detect and correct fatigue cracking in the doorstops and corners of the doorjamb of the forward passenger door, which could result in rapid decompression of the fuselage and consequent reduced structural integrity of the airplane, accomplish the following:",
+     "value": "door"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "perform an eddy current or x-ray inspection to detect cracks at all corners and doorstops of the forward passenger door doorjamb",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to detect and correct fatigue cracking, which could result in rapid decompression of the fuselage and consequent reduced structural integrity of the airplane.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "perform a one-time visual inspection to determine if the doorstops and corners of the forward passenger door doorjamb have been modified ... Repeat the eddy current inspection required by this paragraph thereafter at intervals not to exceed 3,575 landings ... Prior to further flight, modify the doorstops and corners of the forward passenger door doorjamb in accordance with the service bulletin ... prior to further flight, repair it in accordance with a method approved by the Manager, Los Angeles ACO.",
+     "value": "repetitive_inspection;one_time_inspection;modification;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2000-23-22 McDonnell Douglas: Amendment 39-11995. Docket 99-NM-333-AD. Supersedes AD 98-26-09, Amendment 39-10949.",
+     "value": "AD 98-26-09"
+    }
+   ]
+  },
+  "00-31451": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "We concur that the Piper P/N 47529-32 MLG door hinge assemblies are made of aluminum.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to detect and correct cracked main landing gear (MLG) inboard door hinge assemblies.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": null,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The comment received on the NPRM contained information that the improved design MLG inboard door hinge assemblies, P/N 47529-32, are also susceptible to fatigue cracking, and that installing this assembly should not eliminate the need for the repetitive inspections currently required by AD 80-26-05.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Inspect all hinges and hinge attachment angles in the MLG inboard door hinge assembly ... thereafter at intervals not to exceed 2,000 hours TIS ... Replace any cracked MLG inboard door hinge assembly with a Piper part number 47529-32 assembly (or FAA-approved equivalent part number)",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(i) Does this AD action affect any existing AD actions? This amendment supersedes AD 80-26-05, Amendment 39-3994.",
+     "value": "AD 80-26-05"
+    }
+   ]
+  },
+  "00-4568": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The report also indicates that the floor beams at BS 340 and 360 are made from 7075 aluminum, a material which is more susceptible to fatigue cracking than 2024 aluminum. The floor beam at BS 380 is made from 2024 aluminum",
+     "value": "7075 aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by a report by the manufacturer that, during a fatigue test, the upper chord and web of the upper deck floor beams located at body stations (BS) 340 and 360 were found severed at approximately 34,000 total flight cycles.",
+     "value": "floor_beam"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "this AD is being issued to prevent failure of the upper deck floor beams at BS 340, 360, and 380 due to fatigue cracking that originates from the upper chord fastener holes of those floor beams",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Failure of the upper deck floor beams at BS 340, 360, and 380, due to fatigue cracking, could also result in rapid decompression and consequent reduced controllability of the airplane.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This action requires repetitive inspections to detect fatigue cracking in the upper deck floor beams located at certain body stations, and repair, if necessary.",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": null,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  },
+  "00-951": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The NPRM proposed to require an inspection to determine the type of material (Inconel or stainless steel) and the condition of the exhaust system.",
+     "value": "Inconel or stainless steel"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to detect and correct cracks and corrosion in the exhaust system, which could result in exhaust system failure and a possible uncontrollable in-flight fire with pilot and/or passenger injury.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "During this inspection, pay special attention to the condition of the bellows, if installed, and welded areas along the seams; the welded areas around the bellows; and the welded seams around the exhaust system components.",
+     "value": "weld_joint"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The unsafe condition specified in this AD is a result of the stress cracking and/or corrosion that results over time. Stress corrosion starts as a result of high local stress incurred through operation of the affected part (the exhaust systems).",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "At the Initial Compliance Time and Repetitive Compliance Times specified in Figure 1 of this AD, visually inspect the exhaust system for burned areas, cracks, or looseness. If any area of the exhaust system shows damage as defined in the Appendix of this AD, prior to further flight, repair or replace the damaged part. ... replace all multi-segment V-band clamps per the appropriate Cessna Service Manual.",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(k) This amendment supersedes AD 75-23-08 R5, Amendment 39-5451.",
+     "value": "AD 75-23-08 R5"
+    }
+   ]
+  },
+  "01-16200": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": null,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by reports that such wire support brackets failed due to fatigue, which subsequently caused the fuel shutoff valve wire to chafe and to experience a short circuit.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": null,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by reports that such wire support brackets failed due to fatigue, which subsequently caused the fuel shutoff valve wire to chafe and to experience a short circuit.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Do a one-time detailed visual inspection of the wire bundles that pass through the three wire support brackets located at Power Plant Station (PPS) 278 on each engine strut, to find wire chafing. If any chafing is found, before further flight, repair the wire bundle per the Boeing Standard Wiring Practices Manual, Document D6-54446, Revision 23, dated August 1998. ... Replace all three existing wire support brackets located at PPS 278 on each engine strut with new, improved wire support brackets",
+     "value": "one_time_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": null,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  },
+  "01-21749": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "One commenter states that the reinstallation of the steel adapter nuts to the aluminum grip during recurring inspections can create an unsafe condition.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "That AD currently requires either recurring liquid penetrant or eddy current inspections of the main rotor blade grip (grip) threads for a crack.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "All of the cracked grips had a high stress concentration due to the sharp radii in the thread root.",
+     "value": "radius_or_fillet"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Airworthiness Directive 2000-18-51 was prompted by the results of an investigation of an August 1998 Canadian accident in which a grip failed on a BHTI Model 47G-2 helicopter due to a fatigue crack. An analysis of field service data revealed fatigue cracks in the majority of the grips inspected.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Thereafter, conduct the eddy current inspection in accordance with Appendix 1 of this AD or an equivalent FAA-approved procedure containing the requirements of the procedure in Appendix 1 at intervals not to exceed 300 hours TIS. ... If a crack is detected, before further flight, replace any cracked grip with an airworthy grip. ... On or before 1200 hours TIS, replace each grip with an airworthy grip.",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2001-17-17 Bell Helicopter Textron, Inc.: Amendment 39-12408. Docket No. 2001-SW-13-AD. Supersedes AD 2000-18-51, Amendment 39-11983, Docket No. 2000-SW-35-AD.",
+     "value": "AD 2000-18-51"
+    }
+   ]
+  }
+ }
+}

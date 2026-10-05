@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "07-1106": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent failure of the front and/or rear horizontal stabilizer spars caused by fatigue cracks. This failure could result in stabilizer separation and loss of control of the airplane.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent failure of the front and/or rear horizontal stabilizer spars caused by fatigue cracks. This failure could result in stabilizer separation and loss of control of the airplane.",
+     "value": "stabilizer"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The areas to be inspected include the forward and aft surfaces of the inner and outer front and rear spars of the horizontal stabilizers in the areas surrounding each of the attach holes.",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent failure of the front and/or rear horizontal stabilizer spars caused by fatigue cracks.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(1) If the last inspection of the front and rear horizontal stabilizer spars was done using the surface eddy current method (or FAA-approved equivalent method) to show compliance with AD 62-24-01 and/or to show compliance with the alternative method of compliance (AMOC) to AD 2004-25-51: Repetitively inspect thereafter at intervals not to exceed 500 hours time-in-service (TIS).",
+     "value": "repetitive_inspection"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) This AD supersedes AD 62-24-01, Amendment 39-508.",
+     "value": "AD 62-24-01, Amendment 39-508"
+    }
+   ]
+  },
+  "07-1715": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "(d) This AD is intended to prevent failure of the front and/or rear horizontal stabilizer spars caused by fatigue cracks by changing the inspection method from dye penetrant to surface eddy current. This failure could result in stabilizer separation and loss of control of the airplane.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD is intended to prevent failure of the front and/or rear horizontal stabilizer spars caused by fatigue cracks by changing the inspection method from dye penetrant to surface eddy current.",
+     "value": "stabilizer"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The areas to be inspected include the forward and aft surfaces of the inner and outer front and rear spars of the horizontal stabilizers in the areas surrounding each of the attach holes.",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD is intended to prevent failure of the front and/or rear horizontal stabilizer spars caused by fatigue cracks by changing the inspection method from dye penetrant to surface eddy current.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "If any crack is found in either spar or the reinforcing doubler during any inspection required by this AD, prior to further flight, replace the stabilizer and continue to repetitively inspect at intervals not to exceed 500 hours time-in-service (TIS).",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) This AD revises AD 2007-06-01, Amendment 39-14982, which superseded AD 62-24-01, Amendment 39-508.",
+     "value": "AD 2007-06-01, Amendment 39-14982"
+    }
+   ]
+  },
+  "2011-4467": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD requires replacing the aluminum tail rotor (T/R) blade pitch control shaft with a steel T/R blade pitch control shaft.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "A subsequent investigation revealed that the T/R blade pitch control shaft, P/N 365A33.6161.21, had broken in the main section of the shaft sliding area, which appeared to be damaged by peening.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "A subsequent investigation revealed that the T/R blade pitch control shaft, P/N 365A33.6161.21, had broken in the main section of the shaft sliding area, which appeared to be damaged by peening.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The origin of the crack, which developed under fatigue loading, could not be determined. However, accidental damage (i.e., shock impact), is believed to have caused the initiation of a crack.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(a) Remove the aluminum T/R blade pitch control shaft, P/N 365A33.6161.20 or P/N 365A33.6161.21, and replace it with a steel T/R blade pitch control shaft, P/N 365A33.6214.20, in accordance with the Accomplishment Instructions, Operational Procedure, paragraphs 2.B.1. through 2.B.3., of Eurocopter Alert Service Bulletin No. 01.00.59, dated June 21, 2007.",
+     "value": "replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2. Section 39.13 is amended by adding a new airworthiness directive to read as follows:",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "2012-18627": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD results from reports of cracked and severed tension ties, broken fasteners, and cracks in the frame, shear web, and shear ties adjacent to tension ties for the upper deck.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "That AD was prompted by reports of cracked and severed tension ties, broken fasteners, and cracks in the frame, shear web, and shear ties adjacent to tension ties for the upper deck.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do an open hole high frequency eddy current (HFEC) inspection for cracking in the forward and aft tension tie channels at 12 fastener locations inboard of the aluminum straps at STA 1140, and before further flight do all applicable repairs.",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Because the findings constituted multiple site damage, a damage tolerance analysis alone was no longer appropriate. Rather, a widespread fatigue damage analysis had to be employed to properly analyze the risk of cracked and severed tension ties, and to set inspection and modification thresholds appropriately. The manufacturer performed widespread fatigue analysis and the FAA accepted its findings.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD revises the existing AD by adding repetitive open hole high frequency eddy current (HFEC) inspections for cracking in the forward and aft tension tie channels, and repair if necessary. For certain airplanes, this AD also requires a one-time angle inspection to determine if the angle is installed correctly, and re-installation if necessary; and a one-time open hole HFEC inspection at the fastener locations where the tension tie previously attached to the frame prior to certain modifications, and repair if necessary. ... At the applicable times specified in paragraph 1.E, ``Compliance,'' of Boeing Service Bulletin 747-53A2559, Revision 1, dated August 4, 2011, modify the frame-to-tension-tie joints at body stations (STA) 1120 through 1220; do all related investigative and applicable corrective actions; do the repetitive post-modification detailed inspections for cracking of the tension tie and frame structure and all applicable corrective actions; and do the additional modification.",
+     "value": "repetitive_inspection;one_time_inspection;modification;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD supersedes AD 2007-23-18, Amendment 39-15266 (72 FR 65655, November 23, 2007).",
+     "value": "AD 2007-23-18, Amendment 39-15266 (72 FR 65655, November 23, 2007)"
+    }
+   ]
+  },
+  "2012-21533": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of stress corrosion cracking in the chord segments made from 7079 aluminum in the horizontal stabilizer rear spar, and potential early fatigue cracking in the chord segments made from 7075 aluminum.",
+     "value": "7079 aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of stress corrosion cracking in the chord segments made from 7079 aluminum in the horizontal stabilizer rear spar, and potential early fatigue cracking in the chord segments made from 7075 aluminum.",
+     "value": "stabilizer"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "(1) Do a special detailed inspection for cracking of the upper chord of the inboard side of the rear spar of both the left and right side horizontal stabilizers from stabilizer station--13.179 to 92.55, in accordance with Part 3 of the Accomplishment Instructions of Boeing 707 Alert Service Bulletin A3515, dated December 19, 2007.",
+     "value": "chord"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of stress corrosion cracking in the chord segments made from 7079 aluminum in the horizontal stabilizer rear spar",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "For certain airplanes, this AD requires using redefined flight cycle counts, determining the type of material of the horizontal stabilizer, rear spar, and upper and lower chords on the inboard and outboard ends of the rear spar; repetitively inspecting for cracking of the horizontal stabilizer components; and repairing or replacing the chord, or modifying chord segments made from 7079 aluminum, if necessary. For all airplanes, this AD requires inspecting certain structurally significant items, and repairing discrepancies if necessary. ... For all airplanes: Within 180 days or 1,000 flight cycles after the effective date of this AD, whichever occurs first, do the inspections of the applicable structurally significant items specified in and in accordance with the Accomplishment Instructions of Boeing 707 Alert Service Bulletin A3516, dated April 4, 2008.",
+     "value": "repetitive_inspection;one_time_inspection;repair;replacement;modification"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD affects AD 85-12-01, Amendment 39-5073 (50 FR 26690, June 28, 1985), as revised by AD 85-12-01 R1, Amendment 39-5439 (51 FR 36002, October 8, 1986).",
+     "value": "AD 85-12-01, Amendment 39-5073 (50 FR 26690, June 28, 1985), as revised by AD 85-12-01 R1, Amendment 39-5439 (51 FR 36002, October 8, 1986)"
+    }
+   ]
+  },
+  "2012-22529": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The report already alludes to the fact that aluminum 2014-T6 is particularly susceptible to SCC which invalidates the assumption that aluminum 2014-T6 would have equivalent behavior to other test material. There is no true stress corrosion threshold (similar to a fatigue endurance limit) for aluminum 2014-T6.",
+     "value": "2014-T6"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracks developing in the stabilator horn assembly. We are issuing this AD to detect and correct corrosion or cracks in the stabilator horn assembly.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "In fact, the service history provides evidence of extensive cracking on both sides of the torque tube bore leading to the potential unsafe condition.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "These issues are corrosion-related and corrosion is a factor in the SCC of the horn.",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires replacement of the stabilator horn assembly and/or repetitive inspections of the stabilator horn assembly for corrosion or cracks, as applicable.",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  }
+ }
+}

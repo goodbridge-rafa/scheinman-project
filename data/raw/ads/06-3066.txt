@@ -1,0 +1,846 @@
+<html>
+<head>
+<title>Federal Register, Volume 71 Issue 62 (Friday, March 31, 2006)</title>
+</head>
+<body><pre>
+[Federal Register Volume 71, Number 62 (Friday, March 31, 2006)]
+[Rules and Regulations]
+[Pages 16211-16217]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 06-3066]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2005-20918; Directorate Identifier 2004-NM-269-AD; 
+Amendment 39-14539; AD 2006-07-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 737-100, -200, -200C, -
+300, -400, and -500 Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Boeing Model 737-100, -200, -200C, -300, -400, and -500 series 
+airplanes. This AD requires a one-time inspection for scribe lines and 
+cracks in the fuselage skin at certain lap joints, butt joints, 
+external repair doublers, and other areas; and related investigative/
+corrective actions if necessary. This AD results from reports of 
+fuselage skin cracks adjacent to the skin lap joints on airplanes that 
+had scribe lines. Scribe line damage can also occur at many other 
+locations, including butt joints, external doublers, door scuff plates, 
+the wing-to-body fairing, and areas of the fuselage where decals have 
+been applied or removed. We are issuing this AD to prevent rapid 
+decompression of the airplane due to fatigue cracks resulting from 
+scribe lines on pressurized fuselage structure.
+
+DATES: This AD becomes effective May 5, 2006.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of May 5, 2006.
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Management Facility, U.S. 
+Department of Transportation, 400 Seventh Street, SW., Nassif Building, 
+room PL-401, Washington, DC.
+    Contact Boeing Commercial Airplanes, PO Box 3707, Seattle, 
+Washington 98124-2207, for service information identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: Sue Lucier, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office 
+(ACO), 1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone 
+(425) 917-6438; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Examining the Docket
+
+    You may examine the airworthiness directive (AD) docket on the 
+Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Management 
+Facility office between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The Docket Management Facility office 
+(telephone (800) 647-5227) is located on the plaza level of the Nassif 
+Building at the street address stated in the ADDRESSES section.
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that would apply to all Boeing Model 737-
+100, -200, -200C, -300, -400, and -500 series airplanes. That NPRM was 
+published in the Federal Register on April 29, 2005 (70 FR 22272). That 
+NPRM proposed to require a one-time inspection for scribe lines and 
+cracks in the fuselage skin at certain lap joints, butt joints, 
+external repair doublers, and other areas; and related investigative/
+corrective actions if necessary.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Support for Proposed AD
+
+    One commenter (AWAS Aviation Services) agrees that fatigue cracks 
+on the fuselage should be addressed in a suitable time period. The 
+commenter considers the proposed compliance time acceptable.
+
+Request To Consider Similar Rulemaking for Other Airplanes
+
+    The National Transportation Safety Board (NTSB) believes that the 
+proposed AD will address scribe-type damage on the affected airplanes 
+in a timely manner. However, the NTSB is concerned that this type of 
+damage is not limited to those airplanes, but could be present on 
+virtually every pressurized airplane currently in service. The NTSB 
+urges the FAA to examine similar rulemaking for other makes and models 
+of pressurized airplanes.
+    We acknowledge the NTSB's concerns. This is a long-term durability 
+issue that is not limited to any particular aircraft model. The effect 
+on each aircraft model will vary with each model's design 
+characteristics and the conditions to which they may be operated. In 
+support of this, we have been in contact with other governing 
+regulatory agencies and other manufacturers, and we may consider
+
+[[Page 16212]]
+
+further rulemaking applicable to other airplanes as a result of these 
+efforts.
+
+Request To Allow SRM for Repairs
+
+    For repairing ``typical'' scribed areas, this proposed AD would 
+require operators to contact the FAA for approval of repairs. One 
+commenter (USAir) asserts that the Boeing 737 Structural Repair Manual 
+(SRM) provides several repair schemes for localized damage at typical 
+scribed areas, and that omitting the SRM as a repair option could 
+result in many requests for alternative methods of compliance (AMOCs). 
+Another commenter (Japan Transocean Air) requests approval of the SRM 
+for instructions for permanent rework of tactile marks, if the SRM 
+revises the allowable damage limits for fuselage skin.
+    We disagree with the requests. Merely repairing the detected scribe 
+lines may be inadequate to address the identified unsafe condition. 
+Scribe damage has been found to exceed well beyond the region where it 
+was originally discovered by visual inspection. Current SRM repairs may 
+not be adequate because of the nature of damage caused by scribes. 
+Scribe damage is widespread, frequently concealed by the upper skin of 
+a lap splice, and thus difficult or impossible to detect. At this time, 
+the SRM repairs for the scribed areas do not address the widespread 
+nature of this type of damage and the follow-up inspections that may be 
+required and therefore cannot be used. We are currently working with 
+Boeing to develop repair schemes that may address this issue. These 
+efforts may result in additional FAA methods of compliance that provide 
+clarification and relief in future but are not available at this time. 
+We have not changed the final rule regarding this issue.
+
+Request To Allow Other Service Information for Repairs
+
+    One commenter (USAir) suggests that incorporation of Boeing Service 
+Bulletin 737-53A1177, 737-53-1168, or 737-53-1187, which would remove 
+scribe lines from the entire skin panel, would terminate the repetitive 
+inspections of the area. Further, since these service bulletins are FAA 
+approved and available, the commenter requests that we revise the 
+proposed AD to require operators to repair all discrepancies found 
+during the scribe line inspections in accordance with an approved FAA 
+method; or, alternatively, in accordance with Service Bulletin 737-
+53A1177, 737-53-1168, or 737-53-1187, which would terminate the 
+repetitive inspections of the repaired areas.
+    We partially agree with the requests. Service Bulletins 737-
+53A1177, 737-53-1168, and 737-53-1187, which were developed to address 
+a specific unsafe condition, involve a significant level of complexity. 
+The actions specified in the service bulletins might be adequate to 
+terminate the repetitive inspections in certain areas; we may consider 
+a fleetwide AMOC presented by the manufacturer as acceptable for 
+terminating action. In the meantime, we may approve individual operator 
+requests for alternative repair methods under the provisions of 
+paragraph (p) in this final rule, if the requests include data that 
+prove that the alternative method would provide an acceptable level of 
+safety.
+
+Request To Revise Cost Estimates
+
+    Several commenters (USAir, Alaska Airlines, America West, and KLM) 
+allege that the figures provided in the Costs of Compliance section of 
+the proposed AD do not accurately reflect the actual cost to the 
+airline industry. The commenters assert that most airplanes will need 
+the exterior paint stripped, and the surface prepared for inspection 
+and repainted. These additional actions will add considerable downtime 
+to the inspection required by this proposed AD. One commenter suggests 
+that either the Limited Return to Service (LRTS) should be made less 
+complex or the work hours necessary for planning and engineering should 
+be considered in the cost estimates. The commenters add that the cost 
+estimates do not include the cost to repeat the inspection or do any 
+repairs if scribe lines are found, which would result in additional 
+downtime for the airplanes and a substantial impact on operations. 
+Therefore, the commenters request that we revise the Costs of 
+Compliance section to reflect the whole effect of the proposed AD on 
+operators.
+    We acknowledge the commenters' concerns and recognize the 
+additional preparatory work that could be involved on some airplanes, 
+but disagree with the requests. While the LRTS is indeed complex, it is 
+not required. This option was intended to provide operators flexibility 
+in deciding the best compliance method for their fleet. Moreover, the 
+cost information included in an AD describes only the direct costs of 
+the specific actions required by the AD. Based on the best data 
+available, the manufacturer provided the number of work hours necessary 
+to do the required actions. We recognize that, in doing the actions 
+required by the AD, operators may incur incidental costs in addition to 
+the direct costs. The cost analysis in AD rulemaking actions, however, 
+typically does not include incidental costs such as the time for 
+planning or handling other administrative actions, or gaining access 
+and closing up. These costs are almost impossible to calculate. Also, 
+the economic analysis of an AD does not consider the costs of 
+conditional actions, such as repairing a crack detected during a 
+required inspection. Such conditional repairs or follow-on actions 
+would be required--regardless of AD direction--to correct an unsafe 
+condition identified in an airplane and to ensure that the airplane is 
+operated in an airworthy condition, as required by the Federal Aviation 
+Regulations.
+
+Request To Refine Definition of ``Scribe Line''
+
+    Boeing Alert Service Bulletin 737-53A1262, dated December 9, 2004 
+(cited as the appropriate source of service information for the actions 
+of the proposed AD), describes a scribe line as damage up to 0.006 inch 
+deep. Two commenters (AWAS and Japan Transocean Air) assert that the 
+use of this definition has led to many findings of damage that had no 
+appreciable depth and therefore contributed to no appreciable decrease 
+in fatigue life, yet resources were expended to repair or repetitively 
+inspect this damage to accomplish the actions specified in this service 
+bulletin. Including a minimum depth would eliminate many of these 
+positive findings and allow better use of Boeing and FAA engineering 
+resources and decrease operators' costs. Therefore, the commenters 
+request that a ``typical scribe'' be further defined by including a 
+minimum measurement limit.
+    We acknowledge and share these commenters' concerns, but cannot 
+include the definitive criteria that these commenters desire in this 
+final rule because of the complicated nature of the definition of 
+scribe lines. We do agree that a better definition may enhance the 
+inspection process. To this end, we are working with Boeing to develop 
+and present the criteria in a usable format. These efforts may result 
+in additional FAA methods of compliance that provide clarification and 
+relief in the future but are not available at this time. We have not 
+changed the final rule regarding this issue.
+
+Request To Delay AD Pending Issuance of Repair Service Bulletin
+
+    The proposed AD does not provide for repairs for scribe marks that 
+are outside the limits of Alert Service Bulletin 737-53A1262. One 
+commenter (Alaska Airlines) notes that Boeing is in the process of 
+developing a new service bulletin that will address many
+
+[[Page 16213]]
+
+conditions that might be found during the inspection. Therefore, the 
+commenter requests that we delay issuing the final rule until repair 
+procedures are published in a new service bulletin that addresses 
+scribe lines outside the limits addressed in Alert Service Bulletin 
+737-53A1262. The commenter recommends that the final rule refer to this 
+new, as yet unpublished service bulletin as well as Alert Service 
+Bulletin 737-53A1262 for repair procedures.
+    We disagree with the request. Boeing has not yet developed a repair 
+service bulletin. To address the unsafe condition in a timely manner, 
+we must proceed with inspection of the fleet for this safety-related 
+damage. When a repair service bulletin becomes available we anticipate 
+it will be approved through the AMOC process. We have not changed the 
+final rule regarding this issue.
+
+Request To Revise Inspection Requirements for Certain Locations
+
+    One operator (Alaska Airlines) requests that we revise the proposed 
+AD to exempt the inspection of the area around the wing-to-body fairing 
+if the sealant has been removed in accordance with the procedures in 
+Appendix A of Alert Service Bulletin 737-53A1262. The commenter 
+provides no further explanation or technical justification for the 
+request.
+    We disagree with the request. The wing-to-body fairings are removed 
+more often than the airplane is stripped and repainted and are 
+therefore subject to many more scribe opportunities. The sealant 
+removal procedures documented in Appendix A were not available before 
+the service bulletin was issued; the subject area therefore will 
+probably have scribe lines. Considering the age of the fleet and the 
+frequency of fairing removal for standard maintenance, this exemption 
+would not apply. We have not changed the final rule regarding this 
+issue.
+
+Request To Clarify Figure References
+
+    One commenter (Alaska Airlines) notes an error in the 
+Accomplishment Instructions of Alert Service Bulletin 737-53A1262. The 
+figure cited in Part 8, step 3, should be Figure 39, not Figure 38. The 
+figure cited in Part 9, step 3 [sic], should be Figure 38, not Figure 
+39.
+    We acknowledge these errors in the service bulletin; however, the 
+error in Part 9 is in step 4. In this final rule, we have clarified 
+this requirement in new paragraph (j) and renumbered subsequent 
+paragraphs accordingly.
+
+Request To Clarify Certain Compliance Times
+
+    One commenter (United Airlines) identifies conflicting compliance 
+times in Alert Service Bulletin 737-53A1262 for the Figure 44 
+inspections as part of the LRTS plan. The commenter observes that Part 
+12, item 10.a.(4), recommends doing the Figure 44 inspections between 
+40,000 and 45,000 flight cycles; however, for airplanes with 40,000 
+flight cycles, Figure 40 specifies doing a nondestructive test (NDT) 
+inspection before further flight. The commenter requests that we 
+clarify these compliance thresholds.
+    The compliance times do not conflict with each other but merely 
+refer to different stages of the overall program. Figure 40 is part of 
+the Special Lap Joint inspections, which are required before certain 
+airplane-level scribe inspections; these inspections take place for 
+higher-cycle unmodified airplanes and allow service to extend into the 
+approved 4,500-flight-cycle grace period (as stated in Figure 1 of the 
+service bulletin). The inspections specified in Part 12 of the service 
+bulletin occur after an airplane-level inspection has identified scribe 
+damage. The inspection program in Part 12 allows continued operation 
+with ongoing inspections. Figure 44 identifies additional lap joint 
+inspections affiliated with this program. We have not changed the AD 
+regarding this issue.
+
+Request To Revise Inspection Requirements for Decals
+
+    The proposed AD would require inspection of areas where any decal, 
+regardless of size, has been removed. One commenter (United Airlines) 
+requests that we address decals the same way we address external repair 
+doublers for scribe inspections, i.e., that we require inspections only 
+for decal edges with a dimension of 18 inches or longer. The commenter 
+considers that decal damage would be equivalent to a damaged external 
+doubler of the same size.
+    We disagree with the request. Although the damage from decals may 
+be equivalent, unlike major repairs, decals are easily removable 
+without leaving any indication of their size or location. Additionally, 
+operators may not have detailed records regarding decal application and 
+removal so the extent of possible damage would not be known. However, 
+according to the provisions of paragraph (p) of the final rule, we may 
+approve requests for relief from certain associated requirements, if 
+the operator's records can conclusively determine the decal dimensions 
+and if supporting data are provided that would ensure an acceptable 
+level of safety. We have not changed the final rule regarding this 
+issue.
+
+Requests To Remove Certain Inspection Requirements Under Certain 
+Conditions
+
+    The proposed AD would require inspection of the area under the 
+dorsal fin fairing. One commenter (United Airlines) requests that this 
+area be treated the same as the wing-to-body fairing; i.e., if the area 
+under the dorsal fin fairing has never been stripped or repainted since 
+delivery, then the scribe inspection should not be required in that 
+area.
+    We agree. The area under the dorsal fin fairing is similar to the 
+area under the wing-to-body fairing. We have added new paragraph (k) in 
+this final rule to remove the requirement to inspect that area, under 
+the conditions specified by the commenter. We have reidentified 
+subsequent paragraphs accordingly.
+    The proposed AD specifies that no inspections would be required 
+where an existing repair covers a potential scribe line, provided the 
+repair spans a minimum of three rows of fasteners beyond each side of 
+the potential scribe line location. One commenter (United Airlines) 
+requests that this provision be revised to allow for a ten-inch 
+extension of the repair beyond the scribe damage, instead of a three-
+row overlap. The commenter contends that some existing FAA-approved 
+repairs do not meet the three-row criteria. The commenter refers to 
+section 53-00-01, Figure 217, of the Boeing 737 SRM. The commenter 
+states that the proposed AD criteria would add a burden by requiring 
+operators to remove and replace existing FAA-approved repairs.
+    We disagree with the request to change the inspection requirements 
+for those conditions. Repairs that span less than three rows above and 
+below potential scribed areas will not provide an adequate alternative 
+load path for a lap joint with a scribe. For repairs of locations that 
+do not meet the three-row criteria, this AD requires operators to 
+contact the FAA for options to removing the repair (i.e., through 
+inspections), for which operators may request AMOCs in accordance with 
+paragraph (p) of this AD.
+
+Request To Clarify Provisions for Continued Operation with Scribe Lines
+
+    One commenter (America West) requests that we revise the proposed 
+AD to clarify that Part 14 of the service bulletin, while not 
+mandatory, is an FAA-approved method for continued
+
+[[Page 16214]]
+
+operation if scribe lines are found before the compliance times.
+    We agree. We have explained this provision in paragraph (g) in this 
+final rule.
+
+Request To Extend Certain Compliance Times
+
+    One commenter, an operator (Delta Air Lines), reports that a number 
+of its airplanes have been inspected using procedures developed before 
+Alert Service Bulletin 737-53A1262 was issued. The operator plans to 
+request AMOC approval for these procedures. The commenter raises 
+several questions regarding compliance times for submitting AMOCs and 
+reports (of cracks) for these airplanes, and requests that we revise 
+the proposed AD to require a report within 30 days after the AMOC is 
+approved for those airplanes.
+    We disagree. Individual operator deviations to the required 
+inspection and reporting procedures may be handled as AMOCs, which 
+operators may request in accordance with paragraph (p) of this AD. We 
+have not changed the final rule regarding this issue.
+
+Request To Clarify Service Bulletin Instructions
+
+    Boeing requests that we revise the proposed AD to address some 
+inadvertent omissions in Alert Service Bulletin 737-53A1262.
+    1. Figure 37 is intended to identify ``Restricted Zones'' at door 
+cutouts as both the affected structure and Zone 1B. However, Figure 37 
+does not identify Zone 1B. This information is necessary compliance 
+information for Figure 1, ``Compliance Threshold Calculation for Zone 
+1.''
+    2. Figure 1, sheets 2 and 3, contain two errors for Areas B, C, and 
+E. Where the service bulletin refers only to ``areas where the cutout 
+modification shown in Service Bulletin 737-53A1177 was accomplished,'' 
+this text should be followed by ``or Zone 1B.'' And the phrase ``[i]n 
+areas where the cutout modification shown in Service Bulletin 737-
+53A1177 was not accomplished'' should be preceded by ``For Zone 1A.'' 
+The commenter states that a 4,500-flight-cycle grace period is 
+incorporated into the threshold calculation for locations without 
+potential multisite damage (MSD), and a 1,200-cycle grace period is 
+incorporated into the threshold calculations for locations with 
+potential MSD. Not subject to MSD, Zone 1B locations are subject to the 
+4,500 cycles grace period only.
+    We agree with the requested changes. We have clarified these 
+omissions in new paragraphs (l), (m), and (n) in this final rule. These 
+additional paragraphs do not require additional work by any operator; 
+therefore, we do not need to revise the proposed AD to reopen the 
+period for public comment on this issue.
+
+Request To Emphasize Importance of Crack Reports
+
+    Boeing requests that we revise the proposed AD to describe the 
+fleet experience of numerous ``false positive'' indications, i.e., 
+discrepancies that were initially identified as cracks but were upon 
+further analysis determined not to be cracks. Boeing also requests that 
+we recommend that operators submit cracked parts to Boeing for 
+analysis. In support of these requests, Boeing asserts that further 
+analysis of crack findings could change the compliance specifications 
+in Alert Service Bulletin 737-53A1262. Correctly identifying cracks is 
+imperative to reflect actual fleet findings in any future changes to 
+the service bulletin. One operator provided Boeing with nine cut-out 
+samples, which contained positive crack indications based on ultrasonic 
+nondestructive inspections. However, metallurgical analysis revealed no 
+cracks. Boeing emphasizes that potential future changes to the 
+compliance requirements of the service bulletin should be based on 
+confirmed crack findings--not positive crack indications, which may be 
+false positive findings.
+    We acknowledge Boeing's concerns. But we disagree with the request 
+to require operators to submit cracked parts to Boeing. Although 
+operators may benefit from coordinated efforts to minimize the number 
+of false positive results, requiring operators to send cracked parts to 
+Boeing will add to the costs associated with this AD without further 
+enhancing safety. We have not changed the final rule regarding this 
+issue.
+
+Request To Extend Compliance Time for Reporting
+
+    If the inspection reveals any cracks, the proposed AD would require 
+operators to submit a report within 30 days after the inspection. Two 
+operators (Southwest Airlines and America West) speculate that most 
+airplanes will be inspected at a heavy check maintenance facility, and 
+that obtaining the information for the report could take longer than 30 
+days. The commenters request that we revise the proposed AD to require 
+reports within 30 days after the airplane is returned to service, 
+rather than 30 days after the inspection.
+    In light of the issue described above, we do not find it 
+appropriate to change this compliance time. The purpose of the report 
+is to gather timely information on crack findings. Heavy checks can 
+take a long time, and delaying the report until the end of the heavy 
+check could defeat the purpose of the report. Further, this AD requires 
+a report only when cracks are found, so a report will likely not be 
+necessary for all airplanes.
+
+Requests To More Accurately Describe Corrective Actions
+
+    As written, paragraph (h) of the proposed AD would require 
+operators to repair scribe lines and cracks. Two commenters note that 
+appropriate corrective actions for scribe lines may also include 
+further inspections. Boeing requests that we distinguish the corrective 
+actions in paragraph (h) to identify both inspections and repairs, as 
+applicable. Another commenter (Delta Air Lines) requests that we 
+replace ``repair'' with ``inspection/repair'' in paragraph (k)(2) of 
+the proposed AD.
+    We partially agree that clarification may be necessary. We have 
+revised paragraph (h) accordingly in this final rule. But we cannot 
+revise paragraph (p)(3) (paragraph (k)(2) in the proposed AD) because 
+Boeing authorized representatives for the Boeing Commercial Airplanes 
+Delegation Option Authorization Organization are not delegated to 
+approve changes to inspection programs.
+
+Request To Allow Previous FAA-Approved Repairs
+
+    One commenter (Alaska Airlines) requests that we revise the 
+proposed AD to address scribed areas repaired before the effective date 
+of the AD in accordance with a method approved by the FAA. The 
+commenter states that the proposed AD would not allow previously 
+approved repairs for scribe lines as AMOCs.
+    We agree. New paragraph (p)(4) in this AD provides AMOC credit for 
+repairs approved by the Seattle Aircraft Certification Office (ACO) or 
+a Boeing Company designated engineering representative or authorized 
+representative, via FAA Form 8110-3 or 8100-9 issued before the 
+effective date of this AD, provided the repair plan specifically 
+addressed scribe line damage as stated in the title of the form.
+
+Request To Clarify Requirements for Demonstrating Compliance
+
+    One commenter (KLM) notes that the initial inspection thresholds 
+and the LRTS inspection intervals are based on the first scribing 
+opportunity, which the commenter contends is basically the first 
+repainting. The commenter adds that maintenance records may show the 
+dates an airplane has been repainted,
+
+[[Page 16215]]
+
+but not the order of the repainting (first repainting, second, etc.). 
+The commenter surmises that, if the date of the first repainting cannot 
+be determined, the airplane must be inspected before the airplane 
+accumulates 5,000 total flight cycles. To avoid defaulting to this 
+threshold, the commenter asks how an operator can prove that a certain 
+repainting was the first for a specific airplane. The commenter 
+requests that we revise the proposed AD to include this consideration 
+in the definition of the ``first scribing opportunity.''
+    We disagree with the request. Each operator's system of records 
+will vary in detail, scope, and retrievability; developing a standard 
+protocol would most likely burden rather than help operators. An 
+operator's showing of compliance regarding maintenance records will 
+vary based on whether the operator has owned the airplane since it was 
+delivered from Boeing or purchased it from another source. Any operator 
+who owned the airplane since delivery from Boeing may be able to 
+determine the date of the first repainting and the extent of work 
+performed such as a complete stripping or a scuff-and-paint operation. 
+If the airplane has a maintenance history from a previous owner/
+operator, then assembling complete repainting records might be more 
+difficult. The level of detail for recording maintenance such as 
+painting varies from operator to operator depending on acceptability by 
+local airworthiness authorities; a standard protocol would be 
+impossible to develop. Individual operators should contact their 
+airworthiness authorities for a showing of compliance. We have not 
+changed the final rule regarding this issue.
+
+Request To Revise Inspection Requirement
+
+    One commenter (Air North) requests that the present level of 
+inspection be permitted to monitor the condition of the pressure skin 
+per Boeing SB 737-53A1177 until the lap splice terminating action, at 
+1200 flight cycles (LFEC), with 250-flight-hour visual inspections.
+    We have worked extensively with Boeing to align this AD's 
+inspection and LRTS program with existing inspection and modification 
+programs on the 737 Classic fuselage skin. We do not find it necessary 
+to further revise the proposed inspection program. However, under the 
+provisions of paragraph (p) in this final rule, we may approve requests 
+for AMOCs that include data substantiating that the alternative method 
+would provide an acceptable level of safety. We have not changed the 
+final rule regarding this issue.
+
+Request To Advise of Related ADs
+
+    One commenter (Delta Air Lines) notes that Part 1, Step 2 (Zone 1 
+Threshold Determination and Pre-Threshold Special Lap Joint 
+Inspections), of the Work Instructions of Service Bulletin 737-53A1262 
+refers to ``Special Lap Joint Inspections in Paragraph 1.E., 
+Compliance.'' The inspections that appear as Special Lap Joint 
+Inspection (1) are related to AD 2002-07-08, amendment 39-12702 (67 FR 
+17917, April 12, 2002). The inspections that appear as Special Lap 
+Joint Inspection (2) are related to AD 2003-08-15, amendment 39-13128 
+(68 FR 20341, April 25, 2003).
+    We infer that the commenter requests that we revise paragraph (b) 
+(``Affected ADs'') of the proposed AD to give credit for actions 
+accomplished as part of other related airworthiness directives. We 
+disagree. Although the actions in all three ADs are the same, the 
+compliance times and in some cases the affected airplanes are 
+different. For some airplanes, the inspections of this AD may be 
+required before the compliance times required by the other cited ADs. 
+If an operator finds that actions accomplished for one AD should be 
+credited to another AD, we will evaluate and approve requests for 
+credit on a case-by-case basis, based on a showing of an acceptable 
+level of safety.
+
+Additional Changes to Proposed AD
+
+    We have simplified paragraph (h) in this final rule by referring to 
+the ``Alternative Methods of Compliance (AMOCs)'' paragraph of this AD 
+for repair methods.
+    We have revised this action to clarify the appropriate procedure 
+for notifying the principal inspector before using any approved AMOC on 
+any airplane to which the AMOC applies.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 3,132 airplanes of the affected design in the 
+worldwide fleet. The following table provides the estimated costs for 
+U.S. operators to comply with this AD.
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                         Number of
+                                                                Average      Cost per      U.S.-
+        Zone                   Action             Work hours   labor rate    airplane    registered   Fleet cost
+                                                                per hour                 airplanes
+----------------------------------------------------------------------------------------------------------------
+1..................  Sealant removal...........           66          $65       $4,290        1,384   $5,937,360
+                     Inspection................            4           65          260        1,384      359,840
+2..................  Sealant removal...........           38           65        2,470        1,384    3,418,480
+                     Inspection................           29           65        1,885        1,384    2,608,840
+3..................  Sealant removal...........           88           65        5,720        1,384    7,916,480
+                     Inspection................           38           65        2,470        1,384    3,418,480
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on
+
+[[Page 16216]]
+
+products identified in this rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+adding the following new airworthiness directive (AD):
+
+2006-07-12 Boeing: Amendment 39-14539. Docket No. FAA-2005-20918; 
+Directorate Identifier 2004-NM-269-AD.
+
+Effective Date
+
+    (a) This AD becomes effective May 5, 2006.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to all Boeing Model 737-100, -200, -200C, -
+300, -400, and -500 series airplanes, certificated in any category.
+
+Unsafe Condition
+
+    (d) This AD results from reports of fuselage skin cracks 
+adjacent to the skin lap joints on airplanes that had scribe lines. 
+Scribe line damage can also occur at many other locations, including 
+butt joints, external doublers, door scuff plates, the wing-to-body 
+fairing, and areas of the fuselage where decals have been applied or 
+removed. We are issuing this AD to prevent rapid decompression of 
+the airplane due to fatigue cracks resulting from scribe lines on 
+pressurized fuselage structure.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Inspection
+
+    (f) Do a detailed inspection for scribe lines and cracks in the 
+fuselage skin at certain lap joints, butt joints, external repair 
+doublers, and other areas, in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 737-53A1262, dated 
+December 9, 2004, except as provided by paragraphs (g), (j), (k), 
+(l), (m), and (n) of this AD. Do the actions at the time specified 
+in paragraph 1.E., ``Compliance,'' of the service bulletin, except 
+as required by paragraph (i) of this AD. Acceptable inspection 
+exemptions are described in paragraph 1.E.1. of Boeing Alert Service 
+Bulletin 737-53A1262.
+    (1) If no scribe line is found, no further work is required by 
+this AD.
+    (2) If any scribe line is found: Do all applicable investigative 
+and corrective actions at the time specified by doing all applicable 
+actions specified in the Accomplishment Instructions of the service 
+bulletin, except as required by paragraph (h) of this AD.
+
+    Note 1: A detailed inspection is defined in Note 10 of Boeing 
+Alert Service Bulletin 737-53A1262 under 3.A., ``General 
+Information.'' Specific magnification requirements may be specified 
+in the steps of the Work Instructions.
+
+Exceptions to and Clarification of Service Bulletin 737-53A1262 
+Procedures
+
+    (g) This AD requires accomplishment of Parts 1 through 11 of 
+Boeing Alert Service Bulletin 737-53A1262, dated December 9, 2004. 
+Parts 12 and 13 of the service bulletin may be accomplished, if 
+applicable, to allow temporary return to service. This AD does not 
+require accomplishment of Part 14 of the service bulletin, although 
+the FAA-approved procedures described in Part 14 are acceptable for 
+continued operation with scribe lines found before the applicable 
+compliance time.
+    (h) If any scribe line or crack is found during any inspection 
+required by this AD, and Boeing Alert Service Bulletin 737-53A1262, 
+dated December 9, 2004, specifies to contact Boeing for appropriate 
+action: Before further flight, inspect or repair scribe lines and 
+repair cracks using a method approved in accordance with the 
+procedures specified in paragraph (p) of this AD.
+    (i) Where Boeing Alert Service Bulletin 737-53A1262, dated 
+December 9, 2004, specifies a compliance time after the issuance of 
+the service bulletin, this AD requires compliance within the 
+specified compliance time after the effective date of this AD.
+    (j) Certain figures are incorrectly identified in Boeing Alert 
+Service Bulletin 737-53A1262, dated December 9, 2004. The figure 
+cited in Part 8, step 3, should be Figure 39, not Figure 38. The 
+figure cited in Part 9, step 4, should be Figure 38, not Figure 39.
+    (k) If the operator's records show that the airplane has never 
+been stripped and repainted under the dorsal fin fairing since 
+delivery from Boeing, then this AD does not require inspections of 
+the butt joint, lap joint, and repair, as specified in paragraph (f) 
+of this AD, in the areas under the dorsal fin fairing.
+    (l) Figure 37 of Boeing Alert Service Bulletin 737-53A1262, 
+dated December 9, 2004, defines ``Restricted Zones'' at door cutouts 
+as the only affected structure. This AD considers this area to also 
+include Zone 1B.
+    (m) In Figure 1, sheets 2 and 3, of Boeing Service Bulletin 737-
+53A1262, dated December 9, 2004, the first condition for the initial 
+compliance threshold for Areas B, C, and E is for areas where the 
+cutout modification shown in Boeing Service Bulletin 737-53A1177 was 
+accomplished. This AD considers this condition to also include Zone 
+1B.
+    (n) In Figure 1, sheets 2 and 3, of Boeing Alert Service 
+Bulletin 737-53A1262, dated December 9, 2004, the second condition 
+for the initial compliance threshold for Areas B, C, and E is for 
+areas where the cutout modification shown in Boeing Service Bulletin 
+737-53A1177 was not accomplished. This AD considers this condition 
+to apply only to Zone 1A.
+
+Reporting Requirement
+
+    (o) At the applicable time specified in paragraph (o)(1) or 
+(o)(2) of this AD, submit a report of positive findings of cracks 
+found during the inspection required by paragraph (f) of this AD to 
+the Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, 
+Washington 98124-2207. Alternatively, operators may submit reports 
+to their Boeing field service representatives. The report shall 
+contain, as a minimum, the following information: airplane serial 
+number, flight cycles at time of discovery, location(s) and extent 
+of positive crack findings. Under the provisions of the Paperwork 
+Reduction Act of 1980 (44 U.S.C. 3501 et seq.), the Office of 
+Management and Budget (OMB) has approved the information collection 
+requirements contained in this AD and has assigned OMB Control 
+Number 2120-0056.
+    (1) If the inspection was done before the effective date of this 
+AD: Send the report within 30 days after the effective date of this 
+AD.
+    (2) If the inspection was done after the effective date of this 
+AD: Send the report within 30 days after the inspection is done.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (p)(1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the
+
+[[Page 16217]]
+
+authority to approve AMOCs for this AD, if requested in accordance 
+with the procedures found in 14 CFR 39.19.
+    (2) Before using any AMOC approved in accordance with 14 CFR 
+39.19 on any airplane to which the AMOC applies, notify the 
+appropriate principal inspector in the FAA Flight Standards 
+Certificate Holding District Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an 
+Authorized Representative (AR) for the Boeing Commercial Airplanes 
+Delegation Option Authorization Organization who has been authorized 
+by the Manager, Seattle ACO, to make those findings. For a repair 
+method to be approved, the approval must specifically refer to this 
+AD.
+    (4) A repair plan approved by a Boeing Company AR or Designated 
+Engineering Representative before the effective date of this AD is 
+acceptable for compliance with the requirements of paragraphs (f)(2) 
+and (h) of this AD, provided the approval was documented via FAA 
+Form 8110-3 or 8100-9, and identified scribe line damage in the 
+title of the form.
+
+Material Incorporated by Reference
+
+    (q) You must use Boeing Alert Service Bulletin 737-53A1262, 
+dated December 9, 2004, to perform the actions that are required by 
+this AD, unless the AD specifies otherwise. The Director of the 
+Federal Register approved the incorporation by reference of this 
+document in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. 
+Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for a copy of this service information. You 
+may review copies at the Docket Management Facility, U.S. Department 
+of Transportation, 400 Seventh Street, SW., room PL-401, Nassif 
+Building, Washington, DC; on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a>; or 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at the NARA, call 
+(202) 741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on March 20, 2006.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 06-3066 Filed 3-30-06; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

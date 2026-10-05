@@ -1,0 +1,551 @@
+<html>
+<head>
+<title>Federal Register, Volume 79 Issue 228 (Wednesday, November 26, 2014)</title>
+</head>
+<body><pre>
+[Federal Register Volume 79, Number 228 (Wednesday, November 26, 2014)]
+[Rules and Regulations]
+[Pages 70441-70445]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2014-27358]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2014-0170; Directorate Identifier 2013-NM-169-AD; 
+Amendment 39-18027; AD 2014-23-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2005-13-05, 
+which applied to certain Boeing Model 747-400F series airplanes. AD 
+2005-13-05 required inspections for cracking of the web, upper chord, 
+and upper chord strap of the upper deck floor beams, and repair of any 
+cracking. AD 2005-13-05 also required a preventive modification of the 
+upper deck floor beams, and repetitive inspections for cracking after 
+accomplishing the modification. This new AD retains these actions and 
+requires a second modification, repetitive inspections for cracking, 
+and
+
+[[Page 70442]]
+
+repair if necessary. This AD was prompted by a determination that the 
+upper chords of the upper deck floor beams at certain stations are 
+structures that are susceptible to widespread fatigue damage, and that 
+certain airplanes with an initial modification require a second 
+modification for the airplane to meet its limit of validity (LOV). We 
+are issuing this AD to detect and correct fatigue cracking in certain 
+upper chords of the upper deck floor beam, which could result in 
+reduced structural integrity of the airplane and rapid decompression or 
+reduced controllability of the airplane.
+
+DATES: This AD is effective December 31, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of December 31, 
+2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of July 
+27, 2005 (70 FR 35989, June 22, 2005).
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2014-
+0170; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Nathan Weigand, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office 
+(ACO), 1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-
+6428; fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#f1bf908599909fdfa1dfa6949896909f95b1979090df969e87"><span class="__cf_email__" data-cfemail="2c624d58444d42027c027b49454b4d42486c4a4d4d024b435a">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2005-13-05, Amendment 39-14141 (70 FR 35989, 
+June 22, 2005). AD 2005-13-05 applied to certain Boeing Model 747-400F 
+series airplanes. The NPRM published in the Federal Register on March 
+25, 2014 (79 FR 16241). The NPRM was prompted by a determination that 
+the upper chords of the upper deck floor beams at certain stations are 
+structures that are susceptible to widespread fatigue damage, and that 
+certain airplanes with an initial modification require a second 
+modification for the airplane to meet its LOV. The NPRM proposed to 
+continue to require inspections for cracking of the web, upper chord, 
+and upper chord strap of the upper deck floor beams, and repair of any 
+cracking; a preventive modification of the upper deck floor beams; and 
+repetitive inspections for cracking after accomplishing the 
+modification. The NPRM proposed to also require a second modification, 
+repetitive inspections for cracking, and repair if necessary. We are 
+issuing this AD to detect and correct fatigue cracking in certain upper 
+chords of the upper deck floor beam, which could result in reduced 
+structural integrity of the airplane and rapid decompression or reduced 
+controllability of the airplane.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (79 
+FR 16241, March 25, 2014) and the FAA's response to each comment.
+
+Request To Clarify Post-Modification Inspection Options
+
+    Boeing requested that we revise paragraphs (j) and (l) of the NPRM 
+(79 FR 16241, March 25, 2014) to clarify that the inspection options of 
+paragraphs (j)(2) and (l)(2) are applicable only when the primary 
+preventative modification option has been accomplished. Boeing stated 
+that Boeing Service Bulletin 747-53A2443, Revision 2, dated August 2, 
+2013, added an alternative preventative modification option for which 
+the inspection options of paragraphs (j)(2) and (l)(2) of this AD are 
+not viable.
+    We agree with the commenter's request because these words add 
+clarity as to which inspection option should be used. We have revised 
+paragraphs (j) and (l) of this AD by stating that, as of the effective 
+date of this AD, for airplanes on which the alternative preventive 
+modification has been accomplished, only the inspection methods 
+specified by paragraphs (j)(1) and (l)(1), respectively, of this AD may 
+be used.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (79 FR 16241, March 25, 2014) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (79 FR 16241, March 25, 2014).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 13 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                              Cost per          Cost on U.S.
+            Action                  Labor cost           Parts cost            product           operators
+----------------------------------------------------------------------------------------------------------------
+Pre-modification inspections    11 work-hours x    $0....................            $935  $12,155.
+ (retained actions from AD       $85 per hour =
+ 2005-13-05, Amendment 39-       $935.
+ 14141 (70 FR 35989, June 22,
+ 2005)).
+Modification/inspections done   Up to 524 work-    Up to $14,874.........          59,414  $772,382.
+ during modification (retained   hours x $85 per
+ actions from AD 2005-13-05,     hour = $44,540.
+ Amendment 39-14141 (70 FR
+ 35989, June 22, 2005)).
+
+[[Page 70443]]
+
+ 
+Post-modification inspections   66 work-hours x    $0....................           5,610  $72,930.
+ (retained actions from AD       $85 per hour =
+ 2005-13-05, Amendment 39-       $5,610.
+ 14141 (70 FR 35989, June 22,
+ 2005)).
+Zero-Timing Procedure Option 1  71 work-hours x    $0....................           6,035  Up to $78,455.
+ (including inspections) (new    $85 per hour =
+ action).                        $6,035.
+Zero-Timing Procedure Option 2  103 work-hours x   $0....................           8,755  Up to $113,815.
+ (including inspections) (new    $85 per hour =
+ action).                        $8,755.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2005-13-05, Amendment 39-14141 (70 FR 35989, June 22, 2005), and adding 
+the following new AD:
+
+2014-23-11 The Boeing Company: Amendment 39-18027 ; Docket No. FAA-
+2014-0170; Directorate Identifier 2013-NM-169-AD.
+
+(a) Effective Date
+
+    This AD is effective December 31, 2014.
+
+(b) Affected ADs
+
+    This AD replaces AD 2005-13-05, Amendment 39-14141 (70 FR 35989, 
+June 22, 2005).
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 747-400F series 
+airplanes, certificated in any category, as identified in Boeing 
+Service Bulletin 747-53A2443, Revision 2, dated August 2, 2013.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report indicating that the upper 
+chords of the upper deck floor beams at stations (STA) 340 through 
+520 have been determined to be structures that are susceptible to 
+widespread fatigue damage, and airplanes that had an initial 
+modification done before 15,000 total flight cycles require a second 
+fastener hole zero-timing modification for the airplane to meet its 
+limit of validity (LOV). We are issuing this AD to detect and 
+correct fatigue cracking in certain upper chords of the upper deck 
+floor beam, which could result in reduced structural integrity of 
+the airplane and rapid decompression or reduced controllability of 
+the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Inspections With Revised Service Information
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2005-13-05, Amendment 39-14141 (70 FR 35989, June 22, 2005), with 
+revised service information. Before the accumulation of 15,000 total 
+flight cycles, or within 1,000 flight cycles after July 27, 2005 
+(the effective date of AD 2005-13-05), whichever is later: 
+Accomplish detailed and open-hole high frequency eddy current (HFEC) 
+inspections for cracking of the web, upper chord, and upper chord 
+strap of the upper deck floor beams, by doing all the applicable 
+actions in accordance with Part 3.B.1. of the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53A2443, dated May 9, 
+2002; or Part 1 of the Accomplishment Instructions of Boeing Service 
+Bulletin 747-53A2443, Revision 2, dated August 2, 2013. As of the 
+effective date of this AD, only Boeing Service Bulletin 747-53A2443, 
+Revision 2, dated August 2, 2013, may be used.
+
+(h) Retained Repair With Revised Service Information and Revised Repair 
+Approval Language
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2005-13-05, Amendment 39-14141 (70 FR 35989, June 22, 2005), with 
+revised service information and revised repair approval language. If 
+any crack is found during any inspection required by paragraph (g) 
+of this AD: Before further flight, accomplish the actions required 
+by paragraph (h)(1) and (h)(2) of this AD.
+    (1) Repair in accordance with the Accomplishment Instructions of 
+Boeing Service Bulletin 747-53A2443, dated May 9, 2002; or the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2443, 
+Revision 2, dated August 2, 2013; except where these service 
+bulletins specify to contact Boeing for appropriate action, before 
+further flight, repair the cracking using a method approved in 
+accordance with the procedures specified in paragraph (o) of this 
+AD. As of the effective date of this AD, only
+
+[[Page 70444]]
+
+Boeing Service Bulletin 747-53A2443, Revision 2, dated August 2, 
+2013, may be used.
+    (2) Accomplish the inspections and preventive modification of 
+the floor beams by doing all the actions in accordance with Part 
+3.B.2. or Part 3.B.3., as applicable, of the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53A2443, dated May 9, 
+2002; or Part 2 or Part 3, as applicable, of the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53A2443, Revision 2, 
+dated August 2, 2013. If any crack is found during any inspection, 
+before further flight, repair as required by paragraph (h)(1) of 
+this AD. As of the effective date of this AD, only Boeing Service 
+Bulletin 747-53A2443, Revision 2, dated August 2, 2013, may be used.
+
+(i) Retained Modification With Revised Service Information
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2005-13-05, Amendment 39-14141 (70 FR 35989, June 22, 2005), with 
+revised service information. If no crack is found during any 
+inspection required by paragraph (g) of this AD: Accomplish the 
+actions required by either paragraph (i)(1) or (i)(2) of this AD, at 
+the time specified.
+    (1) Before further flight: Accomplish the inspections and 
+preventive modification of the floor beam by doing all the actions 
+in accordance with Part 3.B.2 or Part 3.B.3., as applicable, of the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2443, 
+dated May 9, 2002; or Part 2 or Part 3, as applicable, of the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2443, 
+Revision 2, dated August 2, 2013. If the preventive modification is 
+performed concurrently with the inspections required by paragraph 
+(g) of this AD, the upper chord straps must be removed when 
+performing the open-hole HFEC inspection. If any crack is found 
+during any inspection, before further flight, repair as required by 
+paragraph (h)(1) of this AD. As of the effective date of this AD, 
+only Boeing Service Bulletin 747-53A2443, Revision 2, dated August 
+2, 2013, may be used.
+    (2) Before the accumulation of 20,000 total flight cycles, or 
+within 1,000 flight cycles after July 27, 2005 (the effective date 
+of AD 2005-13-05, Amendment 39-14141 (70 FR 35989, June 22, 2005), 
+whichever is later: Accomplish the inspections and preventive 
+modification of the upper deck floor beams, by doing all the actions 
+in accordance with Part 3.B.2. or 3.B.3. as applicable, of the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2443, 
+dated May 9, 2002; or Part 2 or Part 3, as applicable, of the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2443, 
+Revision 2, dated August 2, 2013. If any crack is found during any 
+inspection, before further flight, repair as required by paragraph 
+(h)(1) of this AD. As of the effective date of this AD, only Boeing 
+Service Bulletin 747-53A2443, Revision 2, dated August 2, 2013, may 
+be used.
+
+(j) Retained Post-Modification Inspections With Revised Service 
+Information
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2005-13-05, Amendment 39-14141 (70 FR 35989, June 22, 2005), with 
+revised service information. Within 15,000 flight cycles after 
+accomplishing the applicable preventive modification required by 
+paragraph (h)(2), (i)(1), or (i)(2) of this AD: Accomplish the 
+applicable inspections required by either paragraph (j)(1) or (j)(2) 
+of this AD; if any crack is found during any inspection, before 
+further flight, repair as required by paragraph (h)(1) of this AD. 
+As of the effective date of this AD, for airplanes on which the 
+alternative preventive modification, as identified in the NOTE after 
+step 3. of ``PART 2--INSPECTION AND PREVENTIVE MODIFICATION,'' or as 
+identified in the NOTE after step 4. of ``PART 3--INSPECTION AND 
+PREVENTIVE MODIFICATION,'' of the Accomplishment Instructions of 
+Boeing Service Bulletin 747-53A2443, Revision 2, dated August 2, 
+2013, has been done, only the inspection specified by paragraph 
+(j)(1) of this AD may be used.
+    (1) Accomplish detailed and surface HFEC inspections for 
+cracking of the web, upper chord, and upper chord strap of the upper 
+deck floor beams, by doing all the applicable actions in accordance 
+with Part 3.B.4. of the Accomplishment Instructions of Boeing 
+Service Bulletin 747-53A2443, dated May 9, 2002; or Part 4 of the 
+Accomplishment Instructions of Boeing Service Bulletin 747-53A2443, 
+Revision 2, dated August 2, 2013. If no crack is found, repeat the 
+inspections at intervals not to exceed 1,000 flight cycles. As of 
+the effective date of this AD, only Boeing Service Bulletin 747-
+53A2443, Revision 2, dated August 2, 2013, may be used.
+    (2) Accomplish detailed and open-hole HFEC inspections for 
+cracking of the web, upper chord, and strap of the upper deck floor 
+beams, by doing all the applicable actions in accordance with Part 
+3.B.5. of the Accomplishment Instructions of Boeing Service Bulletin 
+747-53A2443, dated May 9, 2002; or Part 5 of the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53A2443, Revision 2, 
+dated August 2, 2013. If no crack is found, repeat the inspections 
+at intervals not to exceed 5,000 flight cycles. As of the effective 
+date of this AD, only Boeing Service Bulletin 747-53A2443, Revision 
+2, dated August 2, 2013, may be used.
+
+(k) New Floor Beam Hole Zero-Timing
+
+    Within 20,000 flight cycles after accomplishing the preventive 
+modification of the Station 340 to Station 520 upper deck floor 
+beams specified in paragraph (h)(2), (i)(1), or (i)(2) of this AD, 
+or within 1,000 flight cycles after the effective date of this AD, 
+whichever occurs later: Accomplish the floor beam hole zero-timing, 
+in accordance with Part 6 of the Accomplishment Instructions of 
+Boeing Service Bulletin 747-53A2443, Revision 2, dated August 2, 
+2013.
+
+(l) New Post-Modification Floor Beam Hole Zero-Timing Inspections
+
+    Within 15,000 flight cycles after accomplishing the floor beam 
+hole zero-timing required by paragraph (k) of this AD: Accomplish 
+the applicable inspections required by paragraph (l)(1) or (l)(2) of 
+this AD; if any cracking is found during any inspection, before 
+further flight, repair as required by paragraph (h)(1) of this AD. 
+As of the effective date of this AD, for airplanes on which the 
+alternative preventive modification, as identified in the NOTE after 
+step 3. of ``PART 2--INSPECTION AND PREVENTIVE MODIFICATION,'' or as 
+identified in the NOTE after step 4. of ``PART 3--INSPECTION AND 
+PREVENTIVE MODIFICATION,'' of the Accomplishment Instructions of 
+Boeing Service Bulletin 747-53A2443, Revision 2, dated August 2, 
+2013, has been done, only the inspection method specified by 
+paragraph (l)(1) of this AD may be used.
+    (1) Accomplish detailed and surface HFEC inspections for 
+cracking of the web, upper chord, and straps of the Station 340 to 
+Station 520 upper deck floor beams, by doing all the applicable 
+actions, in accordance with Part 4 of the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53A2443, Revision 2, 
+dated August 2, 2013. If no cracking is found, repeat the 
+inspections at intervals not to exceed 1,000 flight cycles.
+    (2) Accomplish detailed and open-hole HFEC inspections for 
+cracking of the web, upper chord, and straps of the Station 340 to 
+Station 520 upper deck floor beams, by doing all the applicable 
+actions, in accordance with Part 5 of the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53A2443, Revision 2, 
+dated August 2, 2013. If no cracking is found, repeat the 
+inspections at intervals not to exceed 5,000 flight cycles.
+
+(m) Exception to Service Information
+
+    Where Boeing Service Bulletin 747-53A2443, Revision 2, dated 
+August 2, 2013, specifies a compliance time ``after the revision 
+date on this service bulletin,'' this AD requires compliance within 
+the specified compliance time after the effective date of this AD.
+
+(n) Credit for Previous Actions
+
+    This paragraph provides credit for the inspections, repairs, and 
+modification required by paragraphs (g) through (j) of this AD, if 
+the corresponding actions were performed before the effective date 
+of this AD using Boeing Service Bulletin 747-53A2443, Revision 1, 
+dated June 25, 2009.
+
+(o) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (p)(1) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#e5dcc8a4aba8c8b6808491918980c8a4a6aac8a4a8aaa6c8b780949080969196a5838484cb828a93"><span class="__cf_email__" data-cfemail="a29b8fe3ecef8ff1c7c3d6d6cec78fe3e1ed8fe3efede18ff0c7d3d7c7d1d6d1e2c4c3c38cc5cdd4">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by
+
+[[Page 70445]]
+
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) AMOCs approved for AD 2005-13-05, Amendment 39-14141 (70 FR 
+35989, June 22, 2005), are approved as AMOCs for the corresponding 
+requirements of paragraphs (g) through (j) (the retained actions) of 
+this AD.
+
+(p) Related Information
+
+    (1) For more information about this AD, contact Nathan Weigand, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft 
+Certification Office (ACO), 1601 Lind Avenue SW., Renton, WA 98057-
+3356; phone: 425-917-6428; fax: 425-917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#f3bd92879b929ddda3dda4969a94929d97b3959292dd949c85"><span class="__cf_email__" data-cfemail="377956435f565919671960525e505659537751565619505841">[email&#160;protected]</span></a>.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (q)(5) and (q)(6) of this AD.
+
+(q) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+December 31, 2014.
+    (i) Boeing Service Bulletin 747-53A2443, Revision 2, dated 
+August 2, 2013.
+    (ii) Reserved.
+    (4) The following service information was approved for IBR on 
+July 27, 2005 (70 FR 35989, June 22, 2005).
+    (i) Boeing Service Bulletin 747-53A2443, dated May 9, 2002.
+    (ii) Reserved.
+    (5) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+
+    Issued in Renton, Washington, on November 6, 2014.
+Jeffrey E. Duven,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-27358 Filed 11-25-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

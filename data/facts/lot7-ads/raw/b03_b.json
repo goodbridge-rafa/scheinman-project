@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "2016-20074": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "If fittings made of aluminum alloy AA2024-T351 are found during the inspection required by paragraph (f)(1) of this AD, before further flight, and repetitively thereafter at intervals not to exceed 12 months, inspect FR 11 left fitting, P/N 112.35.07.489 and the FR 11 right fitting, P/N 112.35.07.490, for cracks",
+     "value": "AA2024-T351"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This Airworthiness Directive (AD) is prompted due to a report of Stress Corrosion Cracking (SCC) on the Main Frame on Frame (FR) 11 left fitting Part Number (P/N) 112.35.07.489 and right fitting P/N 112.35.07.490.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "inspect FR 11 left fitting, P/N 112.35.07.489 and the FR 11 right fitting, P/N 112.35.07.490, for cracks following the Accomplishment Instructions in paragraph 3.C. of PILATUS Aircraft Ltd. PC-7 Service Bulletin No: 53-013",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as stress corrosion cracking on the main frame on frame 11 left and right fittings, which can cause potential loss of the horizontal stabilizer.",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "this AD requires a one-time check to identify the material specification and inspect the affected areas of the airframe that are made of aluminum alloy AA2024-T351 ... repetitively thereafter at intervals not to exceed 12 months, inspect FR 11 left fitting, P/N 112.35.07.489 and the FR 11 right fitting, P/N 112.35.07.490, for cracks ... If cracks are found during any inspection required in paragraph (f)(3) of this AD, before further flight, replace the fittings",
+     "value": "one_time_inspection;repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2017-26040": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "If the fuselage STA 1380 frame inner chord material 7075-T73 aluminum alloy is found during any identification required by the introductory text of paragraph (h) of this AD: Before further flight, do a surface HFEC inspection for any cracking of the fuselage STA 1380 frame inner chord",
+     "value": "7075-T73"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking found at the fuselage station (STA) 1380 frame inner chord.",
+     "value": "frame"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do a surface high frequency eddy current (HFEC) inspection for any cracking of the fuselage STA 1380 frame inner chord",
+     "value": "chord"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking found at the fuselage station (STA) 1380 frame inner chord. We are issuing this AD to detect and correct such cracks",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "The service information describes procedures for repetitive surface high frequency eddy current (HFEC) inspections for any cracking of the fuselage station (STA) 1380 frame inner chord; an identification of the material (an inspection or measurement) of the fuselage STA 1380 frame inner chord; and applicable corrective actions. ... Before further flight, repair the crack using a method approved in accordance with the procedures specified in paragraph (j) of this AD.",
+     "value": "repetitive_inspection;one_time_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2018-10921": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Model AS332L2 and Model EC225LP helicopters with an extended aluminum splice installed on frame 5295",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD defines the unsafe condition as a crack on helicopter frame 5295. This condition could result in structural failure of the frame and subsequent loss of control of the helicopter.",
+     "value": "frame"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "EASA advises of a report of a crack that initiated on a splice in an area hidden by the overlapping junction profile of the cabin sliding door rail support and then spread to the frame.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracks on frame 5295 and on splices installed to prevent those cracks.",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Install the rail support cut-out and identify the right-hand and left-hand junction profile ... Thereafter at intervals not to exceed 110 hours TIS, inspect each splice for a crack in the area depicted as Area Y in Figure 3 of ASB EC225-05A038 or ASB AS332-05.00.97. If a crack exists, repair or replace the splice before further flight.",
+     "value": "modification;repetitive_inspection;repair;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2. The FAA amends Sec. 39.13 by adding the following new airworthiness directive (AD): 2018-11-01 Airbus Helicopters: Amendment 39-19289; Docket No. FAA-2015-3883; Product Identifier 2014-SW-029-AD.",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "2018-20357": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "the corrosion is triggered by galvanic effect, due to a direct contact between the horizontal stabilizer rear spar, made from CFRP (carbon fibre reinforced plastic), and the aluminium rear attachment fitting.",
+     "value": "aluminium"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of corrosion on the horizontal stabilizer bearing supports at the contact surface to the horizontal stabilizer rear spar. We are issuing this AD to address corrosion on the horizontal stabilizer rear bearing supports and rear spar, which could lead to failure of the fitting",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The corroded area was at the lower flange position, which is connected to the stabilizer rear spar and not visible without detachment of the fitting.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Occurrences were reported on horizontal stabilizer bearing supports being found corroded at the contact surface to the horizontal stabilizer rear spar.",
+     "value": "corrosion"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "this [EASA] AD requires a one-time inspection [detailed visual inspection and an eddy current inspection for chafing and corrosion] of the horizontal stabilizer rear bearing supports ... This AD requires inspections for corrosion and any other damage (i.e., cracking and chafing) of the horizontal stabilizer rear bearing supports, replacement of the affected horizontal stabilizer rear bearing supports if necessary, and modification of the horizontal stabilizer rear spar.",
+     "value": "one_time_inspection;replacement;modification"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2020-17900": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "These fittings are geometrically similar to the legacy fittings and are made of a different aluminum alloy that is less susceptible to stress corrosion cracking.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "Cracks have been reported on the Forward and Aft float strut wire pull fittings on DHC-2 Mk. I aeroplanes",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "visually inspect each forward wire pull fitting for corrosion and cracks",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "An investigation found that the forward and aft wire pull fittings (P/N VALTBS1245-1/-2 and P/N VALTBS1244-1, respectively) are prone to stress corrosion cracking at low cycles/hours.",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Replace each forward wire pull fitting P/N VALTBS1245-1 and P/N VALTBS1245-2 with P/N VALTBS1245-3 Left Hand (LH) or P/N VALTBS1245-4 Right Hand (RH) ... Within 110 hours time-in-service (TIS) after the replacement of the forward wire pull fittings and thereafter at intervals not to exceed 110 hours TIS, visually inspect each forward wire pull fitting for corrosion and cracks.",
+     "value": "replacement;repetitive_inspection"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2022-14490": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "If the fuselage STA 1380 frame inner chord material 7075-T73 aluminum alloy is found during any identification required by the introductory text of paragraph (h) of this AD: Before further flight, do a surface HFEC inspection for any cracking of the fuselage STA 1380 frame inner chord",
+     "value": "7075-T73"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking found at the fuselage station (STA) 1380 frame inner chord and by reports of new crack findings outside of the AD 2017-24-10 inspection area, which the existing inspections will not detect.",
+     "value": "frame"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "AMOCs previously approved for AD 2017-24-10 do not address the unsafe condition identified in this final rule (cracks initiating in the STA 1380 frame web)",
+     "value": "web"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking found at the fuselage station (STA) 1380 frame inner chord and by reports of new crack findings outside of the AD 2017-24-10 inspection area, which the existing inspections will not detect.",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This service information specifies procedures for a general visual inspection or a maintenance records check of the STA 1380 frame for any repair, and repetitive surface high frequency eddy current (HFEC) inspections of the STA 1380 frame inner chord and frame web for any cracking, repetitive sub-surface low frequency eddy current (LFEC) inspections of the STA 1380 frame inner chord for any cracking, and applicable corrective actions. Corrective actions include repair.",
+     "value": "repetitive_inspection;one_time_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs    This AD replaces AD 2017-24-10, Amendment 39-19114 (82 FR 57343, December 5, 2017) (AD 2017-24-10).",
+     "value": "AD 2017-24-10"
+    }
+   ]
+  }
+ }
+}

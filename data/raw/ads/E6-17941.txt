@@ -1,0 +1,444 @@
+<html>
+<head>
+<title>Federal Register, Volume 71 Issue 208 (Friday, October 27, 2006)</title>
+</head>
+<body><pre>
+[Federal Register Volume 71, Number 208 (Friday, October 27, 2006)]
+[Rules and Regulations]
+[Pages 62904-62906]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E6-17941]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2006-24119; Directorate Identifier 2005-NM-100-AD; 
+Amendment 39-14806; AD 2006-22-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747 Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Boeing Model 747 airplanes. This AD requires repetitive mid- 
+and low-frequency eddy current inspections for cracks in the overlapped 
+skin panels in the fuselage skin lap joints in sections 41, 42, 44, and 
+46, and corrective actions if necessary. This AD results from a report 
+indicating that an operator found multiple small cracks in the 
+overlapped skin panels in the fuselage skin lap joints. We are issuing 
+this AD to detect and correct cracks in the overlapped skin panels, 
+which could join together and result in reduced structural capability 
+in the skin and consequent rapid decompression of the airplane.
+
+DATES: This AD becomes effective December 1, 2006.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of December 1, 
+2006.
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Management Facility, U.S. 
+Department of Transportation, 400 Seventh Street, SW., Nassif Building, 
+Room PL-401, Washington, DC.
+    Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for service information identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: Ivan Li, Aerospace Engineer, Airframe 
+Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 1601 Lind 
+Avenue, SW., Renton, Washington 98057-3356; telephone (425) 917-6437; 
+fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Examining the Docket
+
+    You may examine the airworthiness directive (AD) docket on the 
+Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Management 
+Facility office between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The Docket Management Facility office 
+(telephone (800) 647-5227) is located on the plaza level of the Nassif 
+Building at the street address stated in the ADDRESSES section.
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that would apply to certain Boeing Model 
+747 airplanes. That NPRM was published in the Federal Register on March 
+14, 2006 (71 FR 13055). That NPRM proposed to require repetitive mid- 
+and low-frequency eddy current inspections for cracks in the overlapped 
+skin panels in the fuselage skin lap joints in sections 41, 42, 44, and 
+46, and corrective actions if necessary.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Support for the NPRM
+
+    Boeing supports the NPRM as proposed.
+
+Request To Delay Final Rule Pending New Service Information
+
+    Japan Airlines (JAL) states that Boeing Alert Service Bulletin 747-
+53A2501, dated March 24, 2005, which was referenced as the appropriate 
+source of service information for accomplishing the actions proposed in 
+the NPRM, contains various errors and omissions. For example, the alert 
+service bulletin does not have inspection procedures for certain 
+internal structural details that cover the lap, and there is no 
+inspection procedure specific to the Boeing Model 747-400 converted 
+freighter. JAL would like us to delay issuing the final rule until 
+Boeing has revised the alert service bulletin.
+    We partially agree with JAL. We agree that there are details and 
+configurations that could be changed in future revisions of the alert 
+service bulletin. The issues JAL mentions would require an alternative 
+method of compliance (AMOC) to the inspection instructions as given in 
+the original issue of the alert service bulletin. Operators may request 
+an AMOC in accordance with the procedures in paragraph (j) of the final 
+rule. We disagree that we should delay the final rule until Boeing 
+revises the alert service bulletin. We have identified an unsafe 
+condition, and delaying issuance of the final rule until Boeing revises 
+its service information would result in an unwarranted delay of the 
+inspections that are intended to address that unsafe condition. We have 
+not changed the final rule in this regard.
+
+Request To Revise Inspection Threshold
+
+    Air Transport Association (ATA), on behalf of its member Northwest 
+Airlines (NWA), requests that we allow the initial inspection to occur 
+within 3,000 flight cycles after the most recent Supplemental 
+Structural Inspection Document (SSID) inspection for items F-25K, F-
+25L, and F-25M in Boeing SSID D6-35022.
+    We disagree with the commenters. The SSID program is an exploratory 
+inspection program. The inspection intervals in the SSID were derived 
+from required damage tolerance ratings (DTRs) that were based on 
+``fleet crack'' criteria. This means that at the time the DTRs were 
+developed, there was no known cracking in the area; therefore, the 
+required DTRs could remain at a lower level until cracking was 
+discovered. However, operators subsequently found cracking in certain 
+lap joint lower skins, and Boeing issued Alert Service Bulletin 747-
+53A2501 to detect and correct this cracking. The required DTRs that 
+drive the thresholds and intervals were developed using ``first crack'' 
+criteria, which is higher than ``fleet crack'' criteria. ``First 
+crack'' criteria must detect cracking that is known to have occurred on 
+other airplanes and, therefore, cannot rely on a worldwide fleet of 
+airplanes as a statistical sample group.
+
+[[Page 62905]]
+
+    The inspection specified in Boeing Alert Service Bulletin 747-
+53A2501 is an internal medium frequency eddy current (MFEC) inspection, 
+which is able to detect a crack size smaller than that detectable by 
+the external low frequency eddy current (LFEC) inspection required by 
+the SSID program. Both inspection techniques are used to detect cracks 
+on the outer surface of the lower skin panel at the lower row of 
+fasteners of the lap splice. However, the LFEC inspection looks through 
+the upper skin panel; the MFEC technique uses a probe that is in direct 
+contact with the lower skin panel on the inner surface. Therefore, a 
+3,000-flight-cycle repetitive interval using an LFEC method does not 
+provide the same level of certainty as a 3,000-flight-cycle repetitive 
+inspection using the MFEC method.
+    We have not changed the final rule in this regard.
+
+Request To Change Costs of Compliance
+
+    ATA, on behalf of NWA, also requests that we change the costs of 
+compliance. NWA states that it has determined that approximately 120 
+work hours would be required to accomplish the non-destructive test 
+procedures specified in Boeing Alert Service Bulletin 747-53A2501. The 
+NPRM gives a cost estimate of 68 hours to do this task. NWA states that 
+it is worth noting that if the inspection has to be performed 
+independent of other major fuselage internal inspections, then over 
+1,000 additional hours of access and restoration labor will be 
+required. NWA states that this scenario is likely if the initial 
+inspection is required independent of the SSID or fuselage fatigue 
+inspection programs. The 1,000-flight-cycle initial inspection 
+threshold could prompt such a scenario.
+    We disagree with the request to change the costs of compliance. The 
+68 work-hour estimate represents the time necessary to perform only the 
+action actually required by the AD. The action in the NPRM reflects 
+only the direct costs of the specific required action (inspection) 
+based on the best available data from the manufacturer. The cost 
+analysis in AD rulemaking actions typically does not include incidental 
+costs such as the time required to gain access and close up, time 
+necessary for planning, or time necessary for other administrative 
+tasks. Those incidental costs, which may vary significantly among 
+operators, are almost impossible to calculate. We have not changed the 
+final rule in this regard.
+
+Request To Revise Compliance Time
+
+    ATA also recommends that we align the compliance period for the 
+non-destructive test procedures specified in Boeing Alert Service 
+Bulletin 747-53A2501, with scheduled maintenance intervals in order to 
+avoid the order-of-magnitude increase in the effect of the proposed 
+actions if they must be accomplished on an unscheduled basis.
+    We disagree with the request to revise the compliance time. We 
+acknowledge that for certain airplanes the inspections may have to be 
+performed independent of the SSID or fuselage fatigue inspection 
+programs. In developing an appropriate compliance time for this action, 
+including the 1,000-flight-cycle initial inspection threshold, we 
+considered the urgency associated with the subject unsafe condition, 
+the manufacturer's recommendations, and the practical aspect of 
+accomplishing the required inspections within a period of time that 
+corresponds to the normal scheduled maintenance for most affected 
+operators. We have not changed the final rule in this regard. However, 
+according to the provisions of paragraph (j) of the final rule, we may 
+approve requests to adjust the compliance time if the request includes 
+data that prove that the new compliance time would provide an 
+acceptable level of safety.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD as proposed.
+
+Costs of Compliance
+
+    There are about 1,081 airplanes of the affected design in the 
+worldwide fleet. The following table provides the estimated costs for 
+U.S. operators to comply with this AD.
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                 Number of U.S.-
+            Action               Work hours     Average labor      Cost per        registered       Fleet cost
+                                                rate per hour      airplane         airplanes
+----------------------------------------------------------------------------------------------------------------
+Inspection for Model 747SP                 48             $80  $3,840, per                   10  $38,400, per
+ series airplanes.                                              inspection                        inspection
+                                                                cycle.                            cycle.
+Inspection for all other                   68              80  $5,440, per                  196  $1,066,240, per
+ Model 747 series airplanes.                                    inspection                        inspection
+                                                                cycle.                            cycle.
+----------------------------------------------------------------------------------------------------------------
+
+Authority For this Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+[[Page 62906]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+    2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+adding the following new airworthiness directive (AD):
+
+2006-22-09 Boeing: Amendment 39-14806. Docket No. FAA-2006-24119; 
+Directorate Identifier 2005-NM-100-AD.
+
+Effective Date
+
+    (a) This AD becomes effective December 1, 2006.
+
+Affected ADs
+
+    (b) 2004-13-02.
+
+Applicability
+
+    (c) This AD applies to Boeing Model 747-100, 747-100B, 747-100B 
+SUD, 747-200B, 747-200C, 747-200F, 747-300, 747-400, 747-400D, 747-
+400F, 747SR, and 747SP series airplanes, certificated in any 
+category; as identified in Boeing Alert Service Bulletin 747-
+53A2501, dated March 24, 2005.
+
+Unsafe Condition
+
+    (d) This AD results from a report indicating that an operator 
+found multiple small cracks in the overlapped skin panels in the 
+fuselage skin lap joints. We are issuing this AD to detect and 
+correct cracks in the overlapped skin panels, which could join 
+together and result in reduced structural capability in the skin and 
+consequent rapid decompression of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Inspections and Corrective Actions: For Airplanes With Line Numbers 1 
+Through 200 Inclusive
+
+    (f) For airplanes with line numbers 1 through 200 inclusive, at 
+the applicable time in paragraph (f)(1) or (f)(2) of this AD: Do the 
+applicable eddy current inspection or inspections for cracks in the 
+overlapped skin panels in the fuselage skin lap joints in sections 
+41, 42, 44, and 46; and do all applicable corrective actions before 
+further flight. Except as provided by paragraph (f)(1)(ii) of this 
+AD, repeat the applicable inspection or inspections thereafter at 
+intervals not to exceed 3,000 flight cycles. Except as provided by 
+paragraph (h) of this AD, do all actions in accordance with the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 747-
+53A2501, dated March 24, 2005.
+    (1) Except as provided by paragraph (f)(2) of this AD, do the 
+applicable action in paragraph (f)(1)(i) or (f)(1)(ii) of this AD.
+    (i) For airplanes that have accumulated fewer than 29,000 total 
+flight cycles as of the effective date of this AD: Before the 
+accumulation of 25,000 total flight cycles, or within 1,000 flight 
+cycles after the effective date of this AD, whichever occurs later, 
+do a mid-frequency eddy current inspection for cracks of the 
+internal surface at the overlapped skin around the bottom row of 
+fasteners in the lap joint.
+    (ii) For airplanes that have accumulated 29,000 or more total 
+flight cycles, do the inspections in accordance with the 
+requirements of AD 2004-13-02, amendment 39-13682, at the applicable 
+threshold and intervals in that AD. Doing the repeat inspections in 
+accordance with AD 2004-13-02, terminates the repetitive inspection 
+requirements of this AD only for airplanes with line numbers 1 
+through 200 inclusive.
+    (2) For airplanes that have had overlapped skin panels replaced: 
+Do the eddy current inspections of the replaced overlapped panel 
+prior to the accumulation of 25,000 total flight cycles since panel 
+replacement, or within 1,000 flight cycles after the effective date 
+of this AD, whichever occurs later. Skin panel replacement, along 
+with ongoing inspections in accordance with paragraph (f) of this 
+AD, terminates the requirements of paragraphs (a) and (d) of AD 
+2004-13-02, only for the skin lap sections where the overlapped 
+panel has been replaced.
+
+Inspections and Corrective Actions: For Airplanes With Line Numbers 201 
+and Subsequent
+
+    (g) For airplanes with line numbers 201 and subsequent: Before 
+the accumulation of 25,000 total flight cycles, within 1,000 flight 
+cycles after the effective date of this AD, or within 25,000 flight 
+cycles after the time when the overlapped skin was replaced, 
+whichever occurs later, do the applicable inspection in paragraphs 
+(g)(1) and (g)(2) of this AD for cracks in the overlapped skin 
+panels in the fuselage skin lap joints in sections 41, 42, 44, and 
+46; and do all applicable corrective actions before further flight. 
+Repeat the applicable inspection thereafter at intervals not to 
+exceed 3,000 flight cycles. Except as provided by paragraph (h) of 
+this AD, do all actions in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 747-53A2501, dated 
+March 24, 2005.
+    (1) Do a mid-frequency eddy current inspection for cracks of the 
+internal surface at the overlapped skin around the bottom row of 
+fasteners in the lap joint.
+    (2) Do a low-frequency eddy current inspection for cracks of the 
+overlapped skin around the bottom row of fasteners at the section 41 
+lap joints with four rows of fasteners.
+
+Repair Instructions
+
+    (h) If any crack is found during any inspection required by this 
+AD, and Boeing Alert Service Bulletin 747-53A2501, dated March 24, 
+2005, specifies to contact Boeing for appropriate action: Before 
+further flight, repair the crack using a method approved in 
+accordance with the procedures specified in paragraph (j) of this 
+AD.
+
+No Reporting Required
+
+    (i) Although Boeing Alert Service Bulletin 747-53A2501, dated 
+March 24, 2005, specifies to submit certain information to the 
+manufacturer, this AD does not include that requirement.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (j)(1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested in 
+accordance with the procedures found in 14 CFR 39.19.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an 
+Authorized Representative for the Boeing Commercial Airplanes 
+Delegation Option Authorization Organization who has been authorized 
+by the Manager, Seattle ACO, to make those findings. For a repair 
+method to be approved, the repair must meet the certification basis 
+of the airplane, and the approval must specifically refer to this 
+AD.
+    (3) Before using any AMOC approved in accordance with Sec.  
+39.19 on any airplane to which the AMOC applies, notify the 
+appropriate principal inspector in the FAA Flight Standards 
+Certificate Holding District Office.
+
+Material Incorporated by Reference
+
+    (k) You must use Boeing Alert Service Bulletin 747-53A2501, 
+dated March 24, 2005, to perform the actions that are required by 
+this AD, unless the AD specifies otherwise. The Director of the 
+Federal Register approved the incorporation by reference of this 
+document in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. 
+Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for a copy of this service information. You 
+may review copies at the Docket Management Facility, U.S. Department 
+of Transportation, 400 Seventh Street SW., Room PL-401, Nassif 
+Building, Washington, DC; on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a>; or 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at the NARA, call 
+(202) 741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of">http://www.archives.gov/federal_register/code_of</a> --federal --regulations/ibr--locations.html.
+
+    Issued in Renton, Washington, on October 18, 2006.
+Jeffrey E. Duven,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+ [FR Doc. E6-17941 Filed 10-26-06; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

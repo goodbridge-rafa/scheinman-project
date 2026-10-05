@@ -1,0 +1,796 @@
+<html>
+<head>
+<title>Federal Register, Volume 79 Issue 247 (Wednesday, December 24, 2014)</title>
+</head>
+<body><pre>
+[Federal Register Volume 79, Number 247 (Wednesday, December 24, 2014)]
+[Rules and Regulations]
+[Pages 77379-77384]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2014-30132]
+
+
+
+[[Page 77379]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0366; Directorate Identifier 2011-NM-024-AD; 
+Amendment 39-18038; AD 2014-24-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 747-100, 747-100B, 747-100B SUD, 747-200B, 
+747-200C, 747-300, 747-400, 747-400D, and 747SR series airplanes. This 
+AD was prompted by a report of a cracked reveal made from a casting 
+found within a group of airplanes that should have machined reveals 
+made only from 6061 aluminum. This AD requires an inspection to 
+determine the material of the number 3 main entry door (MED) corner 
+reveal, repetitive inspections of certain reveals for cracking, and 
+corrective action if necessary. This AD also requires repetitive 
+inspections for cracking of 6061 machined aluminum one-piece corner 
+reveals, and replacement with 6061 machined aluminum two-piece corner 
+reveals if necessary, which terminates certain repetitive inspections. 
+We are issuing this AD to detect and correct fatigue cracking of the 
+lower forward corner reveal of the number 3 MEDs, which could lead to 
+the door escape slide departing the airplane when the door is opened 
+and the slide is deployed, and consequent injuries to passengers and 
+crew using the door escape slide during an emergency evacuation.
+
+DATES: This AD is effective January 28, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of January 28, 
+2015.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2013-
+0366; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Bill Ashforth, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office 
+(ACO), 1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-
+6432; fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#f5979c9999db94869d939a87819db5939494db929a83"><span class="__cf_email__" data-cfemail="5d3f343131733c2e353b322f29351d3b3c3c733a322b">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2008-18-07, Amendment 39-15664 (73 FR 56960, 
+October 1, 2008). AD 2008-18-07 applies to certain The Boeing Company 
+Model 747-100, 747-100B, 747-100B SUD, 747-200B, 747-200C, 747-300, 
+747-400, 747-400D, and 747SR series airplanes. The NPRM published in 
+the Federal Register on May 8, 2013 (78 FR 26720). The NPRM was 
+prompted by a report of a cracked reveal made from a casting found 
+within a group of airplanes that should have machined reveals made only 
+from 6061 aluminum. The NPRM proposed to retain all the requirements of 
+AD 2008-18-07. The NPRM also proposed to add, for certain airplanes, an 
+inspection to determine the material of the number 3 MED corner reveal, 
+repetitive inspections for cracking of 6061 machined aluminum one-piece 
+corner reveals, and replacement with 6061 machined aluminum two-piece 
+corner reveals if necessary, which terminates certain repetitive 
+inspections. We are issuing this AD to detect and correct fatigue 
+cracking of the lower forward corner reveal of the number 3 MEDs, which 
+could lead to the door escape slide departing the airplane when the 
+door is opened and the slide is deployed, and consequent injuries to 
+passengers and crew using the door escape slide during an emergency 
+evacuation.
+
+Related AD
+
+    AD 2008-18-07, Amendment 39-15664 (73 FR 56960, October 1, 2008), 
+requires, for The Boeing Company Model 747-100, 747-100B, 747-100B SUD, 
+747-200B, 747-200C, 747-300, 747-400, 747-400D, and 747SR series 
+airplanes, an inspection to determine the material of a number 3 MED 
+corner reveal, repetitive inspections of certain reveals for cracking, 
+a detailed inspection of certain reveals for a sharp edge and cracking, 
+and corrective action if necessary. AD 2008-18-07 allows reveal 
+replacement as an option to certain inspections. AD 2008-18-07 was 
+prompted by reports of cracking and/or a sharp edge in the lower 
+forward corner reveal of the number 3 MEDs. AD 2008-18-07 refers to 
+Boeing Special Attention Service Bulletin 747-53-2460, Revision 1, 
+dated February 13, 2007, as the appropriate source of service 
+information for the required actions specified in that AD.
+
+Explanation of Difference in Requirements Between the NPRM (78 FR 
+26720, May 8, 2013) and This Final Rule
+
+    In the NPRM (78 FR 26720, May 8, 2013), the FAA proposed to 
+supersede AD 2008-18-07, Amendment 39-15664 (73 FR 56960, October 1, 
+2008), to reflect the changes in airplane groups specified in revised 
+service information, Boeing Special Attention Service Bulletin 747-53-
+2460, Revision 2, dated December 22, 2010. However, based on the 
+comments received on the NPRM, it became evident that it was difficult 
+to follow the numerous changes between Boeing Special Attention Service 
+Bulletin 747-53-2460, Revision 1, dated February 13, 2007, and Boeing 
+Special Attention Service Bulletin 747-53-2460, Revision 2, dated 
+December 22, 2010, as well as in following the corresponding actions 
+specified in the NPRM.
+    There are only two significant changes in Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010: (1) 
+Airplanes having line numbers 1038 through 1270 were moved from Group 2 
+to Group 4; and (2) for Group 4 airplanes, there are additional 
+actions. Therefore, for clarity, we have determined that a less 
+burdensome approach is to revise this final rule to include only the 
+new actions for Group 4 airplanes. Instead of superseding AD 2008-18-
+07, Amendment 39-15664 (73 FR 56960, October 1, 2008), this final rule 
+is a stand-alone AD, applicable
+
+[[Page 77380]]
+
+only to Group 4 airplanes as identified in Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010, 
+except for those airplanes that have been converted to an all-cargo 
+configuration. Airplanes identified in the applicability of AD 2008-18-
+07 are still required to continue to comply with the requirements of 
+that AD.
+    Since this AD does not supersede AD 2008-18-07, Amendment 39-15664 
+(73 FR 56960, October 1, 2008), paragraphs (g) through (m), (p), (q), 
+and (v) of the NPRM (78 FR 26720, May 8, 2013) are not included in this 
+AD. Also, the corresponding paragraph identifiers have been 
+redesignated in this final rule, as listed in the following table:
+
+                   Redesignated Paragraph Identifiers
+------------------------------------------------------------------------
+Requirement in the proposed AD (78
+      FR 26720, May 8, 2013)        Corresponding requirement in this AD
+------------------------------------------------------------------------
+ paragraph (t)                       paragraph (g).
+ paragraph (s)                       paragraph (h).
+ paragraph (r)                       paragraph (i).
+ paragraph (u)                       paragraph (j).
+ paragraph (n)                       paragraph (k).
+ paragraph (o)                       paragraph (l).
+ paragraph (w)                       paragraph (n).
+------------------------------------------------------------------------
+
+    We have also revised paragraphs (n) and (o) of the proposed AD (78 
+FR 26720, May 8, 2013) (redesignated as paragraphs (k) and (l) of this 
+AD) that referred to ``AD 2008-18-07.'' In paragraphs (k) and (l) of 
+this AD, we have referred to the current service information, Boeing 
+Special Attention Service Bulletin 747-53-2460, Revision 2, dated 
+December 22, 2010, instead of AD 2008-18-07, Amendment 39-15664 (73 FR 
+56960, October 1, 2008), for the locations where cast 356 aluminum 
+reveals and machined 6061 aluminum reveals may not be installed. 
+Paragraphs (k) and (l) of this AD state that the parts installation 
+prohibition ends the parts installation prohibitions specified in 
+paragraphs (n) and (o) of AD 2008-18-07, Amendment 39-15664 (73 FR 
+56960, October 1, 2008).
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (78 
+FR 26720, May 8, 2013) and the FAA's response to each comment.
+
+Request To Clarify the Cause of the Unsafe Condition
+
+    Boeing asked that we clarify the cause of the unsafe condition 
+identified in paragraph (e) of the proposed AD (78 FR 26720, May 8, 
+2013). Boeing stated that the report that prompted the proposed 
+supersedure of AD 2008-18-07, Amendment 39-15664 (73 FR 56960, October 
+1, 2008), involved a cracked casting on an airplane that should have 
+machined reveals made from only 6061 aluminum.
+    We agree that the unsafe condition should be clarified for the 
+reason provided. We have changed the wording for the unsafe condition 
+identified in the SUMMARY section and in paragraph (e) of this final 
+rule to specify that ``This new AD was prompted by a report of a 
+cracked reveal made from a casting found within a group of airplanes 
+that should have machined reveals made only from 6061 aluminum.'' We 
+have also clarified the Discussion section of this final rule to 
+specify that the NPRM (78 FR 26720, May 8, 2013) was prompted by that 
+report.
+
+Request To Revise Wording in the NPRM (78 FR 26720, May 8, 2013)
+
+    Boeing requested numerous changes related to the wording in 
+paragraphs (g), (h), (j), (u) and (v) of the NPRM (78 FR 26720, May 8, 
+2013).
+    We acknowledge the commenter's concerns for clarity. However, as 
+stated previously, this AD does not supersede AD 2008-18-07, Amendment 
+39-15664 (73 FR 56960, October 1, 2008). The changes requested by the 
+commenter referred to the ``retained'' paragraphs of AD 2008-18-07, 
+which are not restated in this AD; therefore, no action is necessary in 
+this regard.
+
+Request To Revise Service Information
+
+    Delta Airlines (Delta) requested that Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010, be 
+revised prior to the issuance of this final rule. Delta stated that 
+paragraphs (r) and (s) of the proposed AD (78 FR 26720, May 8, 2013) 
+(redesignated as paragraphs (i) and (h) of this AD) are clear and 
+understandable; however, when Delta reviewed the required actions in 
+Table 1 of Boeing Special Attention Service Bulletin 747-53-2460, 
+Revision 2, dated December 22, 2010, Delta was not able to clearly 
+determine which conditions were linked with which actions. Delta stated 
+that Boeing also agrees that the compliance tables of Boeing Special 
+Attention Service Bulletin 747-53-2460, Revision 2, dated December 22, 
+2010, should be clarified for operators' use.
+    We disagree with delaying this AD to wait for revised service 
+information in light of the urgency of the identified unsafe condition. 
+As Delta stated, the tables contained in Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010, are 
+complicated and could be misinterpreted; however, we have addressed 
+this concern by specifying the requirements and clarifying the 
+appropriate actions in paragraphs (h) and (i) of this AD. When the 
+service information is revised, we might consider approving it as an 
+alternative method of compliance (AMOC) for these actions. We have not 
+changed this final rule in this regard.
+
+Request To Address an Error in Service Information
+
+    Delta stated that, in the last row under the ``Action'' column of 
+Table 8 of paragraph 1.E., Compliance, of Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010, 
+there is a reference to ``Table 9,'' which does not exist. Delta stated 
+that the correct paragraph reference is ``Paragraph 3.B., Part 2,'' as 
+confirmed in Delta's correspondence with Boeing. Delta requested that 
+Boeing Special Attention Service Bulletin 747-53-2460, Revision 2, 
+dated December 22, 2010, be revised prior to the issuance of this final 
+rule, or that we address this error in this final rule, or, at a 
+minimum, address this error in a global AMOC.
+    We partially agree. We disagree to wait for revised service 
+information in light of the urgency of the identified unsafe condition. 
+However, we agree that the reference to Table 9 in paragraph 1.E., 
+Compliance, of Boeing Special Attention Service Bulletin 747-53-2460, 
+Revision 2, dated December 22, 2010, is incorrect. To address this 
+error, we have added a new paragraph (m) in this AD to state that, 
+where the Accomplishment Instructions of Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010, 
+specify a post-repair detailed inspection in accordance with Table 9, 
+this AD requires a detailed inspection in accordance with paragraph 
+3.B., Part 2, of the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 747-53-2460, Revision 2, dated December 22, 
+2010. When revised service information becomes available, we might 
+consider approving it as an AMOC for the actions required by this AD.
+
+Request To Revise the Proposed AD To Include an Inspection for a Sharp 
+Edge for Group 4 Airplanes
+
+    Boeing asked that we revise paragraph (r)(2) of the proposed AD (78 
+FR 26720, May 8, 2013) (redesignated as paragraph (i)(2) of this AD) to 
+include an inspection for a potential sharp edge
+
+[[Page 77381]]
+
+common to the reveal. Boeing stated that this inspection might be the 
+first inspection performed and, therefore, it is possible that a sharp 
+edge could be found on a machined reveal.
+    We do not agree to revise the wording of paragraph (i)(2) of this 
+AD (designated as paragraph (r)(2) of the proposed AD (78 FR 26720, May 
+8, 2013)). Paragraph (i)(2) of this AD requires, for previously 
+inspected Group 4 airplanes, a material-type inspection to determine if 
+the corner reveal is a casting, and, if a casting is found, continued 
+inspections or replacement of the reveal with a two-piece machined 
+reveal. Castings do not have sharp edges. Group 4 airplanes that were 
+not previously inspected or changed, that have corner reveals found not 
+to be castings, require inspections for a sharp edge in paragraph 
+(g)(2) of this AD. We have not changed this final rule in this regard.
+
+Request for Alternative Corrective Action for Group 4 Airplanes
+
+    Boeing asked that we revise paragraph (t)(1) of the proposed AD (78 
+FR 26720, May 8, 2013) (redesignated as paragraph (g)(1) of this AD) to 
+allow a weld repair for a cracked reveal made from a casting on Group 4 
+airplanes. Boeing stated that this would allow operators to repair the 
+casting if they cannot obtain a machined reveal.
+    We agree that paragraph (g)(1) of this AD should allow a weld 
+repair as an alternative corrective action since this was a permitted 
+action for Group 2 airplanes in AD 2008-18-07, Amendment 39-15664 (73 
+FR 56960, October 1, 2008). This alternative corrective action for 
+Group 4 airplanes was contained in Boeing Special Attention Service 
+Bulletin 747-53-2460, Revision 2, dated December 22, 2010, but was 
+inadvertently omitted in the proposed AD (78 FR 26720, May 8, 2013). 
+Paragraph (t) of the NPRM is redesignated as paragraph (g) in this AD 
+and we have revised paragraph (g)(1) by adding new paragraphs (g)(1)(i) 
+and (g)(1)(ii) in order to allow a weld repair as an option to 
+replacing the reveal if any cracking is found. In paragraph (g)(1)(ii) 
+of this AD we specify repairing in accordance with Part 4 of Boeing 
+Special Attention Service Bulletin 747-53-2460, Revision 2, dated 
+December 22, 2010. The inspection for cracking specified in paragraph 
+(g)(1) of this AD is to be repeated thereafter at intervals not to 
+exceed 3,000 flight cycles until a new two-piece reveal is installed in 
+accordance with the requirements of paragraph (g)(1)(i) of this AD.
+
+Request To Reference Service Bulletin Information Notices or Revise 
+Service Bulletin
+
+    Delta requested that Boeing Service Bulletin Information Notice 
+747-53-2460 IN 03, dated March 24, 2011, be referenced as an approved 
+deviation from Boeing Special Attention Service Bulletin 747-53-2460, 
+Revision 2, dated December 22, 2010. Alternatively, Boeing requested 
+that we delay the issuance of this final rule until Boeing revises 
+Boeing Special Attention Service Bulletin 747-53-2460, Revision 2, 
+dated December 22, 2010, to incorporate the changes outlined in that 
+information notice.
+    We partially agree. We agree that Boeing Service Bulletin 
+Information Notice 747-53-2460 IN 03, dated March 24, 2011, contains 
+acceptable information for the inspection and modification mandated in 
+this AD. However, we disagree with delaying issuance of this final rule 
+until revised service information becomes available. We have determined 
+that to delay this final rule would be inappropriate, because the 
+inspections of the number 3 MED reveals and corrective actions are 
+needed to reduce the risk of the identified unsafe condition addressed 
+in this AD. The information that Boeing Service Bulletin Information 
+Notice 747-53-2460 IN 03, dated March 24, 2011, clarifies is for 
+reference only and is not required to address the identified unsafe 
+condition. When revised service information becomes available, we might 
+consider approving it as an AMOC for the actions required by this AD. 
+We have made no change to this AD in this regard.
+
+Explanation of Additional Changes Made to This Final Rule
+
+    We redesignated paragraphs (r) and (r)(2) of the NPRM (78 FR 26720, 
+May 8, 2013) as paragraphs (i) and (i)(2) of this final rule and 
+removed the phrase ``Boeing Special Attention Service Bulletin 747-53-
+2460, Revision 2, dated December 22, 2010,'' from the initial 
+compliance times listed in those paragraphs. In the proposed AD, we 
+stated that the compliance times could be calculated from the most 
+recent work performed in accordance with Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 1, dated February 13, 2007; or 
+Revision 2, dated December 22, 2010; but this would introduce an error 
+in paragraph (i) of this AD since it would require operators to 
+complete the inspections required by Boeing Special Attention Service 
+Bulletin 747-53-2460, Revision 2, dated December 22, 2010, for a second 
+time, if the reference to Boeing Special Attention Service Bulletin 
+747-53-2460, Revision 2, dated December 22, 2010, remained.
+    Paragraph (i)(1) of this final rule specifies inspections for 
+cracking of any corner reveal found to be a one-piece or two-piece 
+casting. Boeing Special Attention Service Bulletin 747-53-2460, 
+Revision 2, dated December 22, 2010, provides inspection procedures for 
+one-piece corner reveals, but not for the two-piece corner reveals. 
+Because the inspection procedures for the two-piece corner reveals were 
+not included in the service information, operators would have been 
+unable to comply with the proposed requirement to inspect a two-piece 
+corner reveal, and in this case would have been required to obtain 
+approval of an alternative method of compliance for this inspection. We 
+have therefore revised paragraph (i)(1) of this AD to provide the 
+appropriate procedures for both scenarios.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (78 FR 26720, May 8, 2013) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 26720, May 8, 2013).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 166 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+[[Page 77382]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                    Labor cost         Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Material type inspection and      14 work-hours x $85              $0   $1,190 per           $197,540 per
+ inspection for cracks.            per hour = $1,190                     inspection cycle.    inspection cycle.
+                                   per inspection
+                                   cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary on-condition 
+actions that would be required based on the results of the inspections. 
+We have no way of determining the number of aircraft that might need 
+these actions:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                 Action                          Labor cost             Parts cost         Cost per product
+----------------------------------------------------------------------------------------------------------------
+Corner reveal removal and replacement..  17 work-hours x $85 per             $9,525   $10,970 per inspection
+                                          hour = $1,445 per                            cycle.
+                                          inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2014-24-05 The Boeing Company: Amendment 39-18038; Docket No. FAA-
+2013-0366; Directorate Identifier 2011-NM-024-AD.
+
+(a) Effective Date
+
+    This AD is effective January 28, 2015.
+
+(b) Affected ADs
+
+    Certain requirements of this AD terminate certain requirements 
+of AD 2008-18-07, Amendment 39-15664 (73 FR 56960, October 1, 2008).
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 747-100, 747-100B, 
+747-100B SUD, 747-200B, 747-200C, 747-300, 747-400, 747-400D, and 
+747SR series airplanes, certificated in any category, identified as 
+Group 4 airplanes in Boeing Special Attention Service Bulletin 747-
+53-2460, Revision 2, dated December 22, 2010, except airplanes that 
+have been converted to an all-cargo configuration. Also, the 
+requirements of this AD are applicable when a converted airplane 
+operating in an all-cargo configuration is converted back to a 
+passenger or passenger/cargo configuration.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of a cracked reveal made from a 
+casting found within a group of airplanes that should only have 
+machined reveals made from 6061 aluminum. We are issuing this AD to 
+detect and correct fatigue cracking of the lower forward corner 
+reveal of the number 3 main entry doors (MEDs), which could lead to 
+the door escape slide departing the airplane when the door is opened 
+and the slide is deployed, and consequent injuries to passengers and 
+crew using the door escape slide during an emergency evacuation.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Actions for Group 4 Airplanes: Not Previously Inspected or Changed
+
+    For Group 4 airplanes identified in Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010, 
+that have not been previously inspected or changed in accordance 
+with Boeing Special Attention Service Bulletin 747-53-2460, Revision 
+1, dated February 13, 2007: Before the accumulation of 1,500 total 
+flight cycles, or within 1,000 flight cycles after the effective 
+date of this AD, whichever occurs later, do a material type 
+inspection to determine if the lower forward corner reveal is made 
+from 6061 machined aluminum plate or 356 aluminum casting, in 
+accordance with Part 6 of the Accomplishment Instructions of Boeing 
+Special Attention Service Bulletin 747-53-2460, Revision 2, dated 
+December 22, 2010. Doing the inspection specified in this paragraph 
+terminates the inspections required by paragraph (j) of AD 2008-18-
+07, Amendment 38-15664 (73 FR 56960, October 1, 2008), for that 
+airplane only.
+    (1) If, during any inspection required by paragraph (g) of this 
+AD, any corner reveal is found to be a casting: Before the 
+accumulation of 7,000 total flight cycles; within 2,000 flight 
+cycles after the effective date of this AD; or within 3,000 flight 
+cycles after the most recent inspection of the
+
+[[Page 77383]]
+
+number 3 MED corner reveal was done in accordance with Boeing 
+Service Bulletin 747-53A2378, Revision 4, dated June 10, 2010; 
+whichever occurs later; do a detailed inspection for cracking of the 
+corner reveal, in accordance with Part 2 of the Accomplishment 
+Instructions of Boeing Special Attention Service Bulletin 747-53-
+2460, Revision 2, dated December 22, 2010. Repeat the inspection for 
+cracking thereafter at intervals not to exceed 3,000 flight cycles 
+until a new two-piece reveal is installed in accordance with the 
+requirements of paragraph (g)(1)(i) of this AD. If any cracking is 
+found, do the actions specified in paragraph (g)(1)(i) or (g)(1)(ii) 
+of this AD.
+    (i) Replace the cast reveal with a new 6061 machined aluminum 
+two-piece corner reveal, before further flight, in accordance with 
+Part 3 of the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 747-53-2460, Revision 2, dated December 
+22, 2010.
+    (ii) Repair all cracking, before further flight, in accordance 
+with Part 4 of the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 747-53-2460, Revision 2, dated December 
+22, 2010.
+    (2) If, during any inspection required by paragraph (g) of this 
+AD, a corner reveal is found that is not a casting: Before further 
+flight, do a detailed inspection for a sharp edge, in accordance 
+with Part 1 of the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 747-53-2460, Revision 2, dated December 
+22, 2010; and do a detailed inspection for cracking of the corner 
+reveal, in accordance with Part 2 of the Accomplishment Instructions 
+of Boeing Special Attention Service Bulletin 747-53-2460, Revision 
+2, dated December 22, 2010. Repeat the inspection for cracking 
+thereafter at intervals not to exceed 6,000 flight cycles until the 
+corner reveal is replaced with a 6061 machined aluminum two-piece 
+corner reveal in accordance with the requirements of paragraph (j) 
+of this AD.
+    (i) If any sharp edge is found during any inspection required by 
+paragraph (g)(2) of this AD, before further flight, rework the 
+corner reveal, in accordance with Part 1 of the Accomplishment 
+Instructions of Boeing Special Attention Service Bulletin 747-53-
+2460, Revision 2, dated December 22, 2010.
+    (ii) If any cracking is found during any inspection required by 
+paragraph (g)(2) of this AD, before further flight, replace the 
+corner reveal with a 6061 machined aluminum two-piece corner reveal, 
+in accordance with Part 3 of the Accomplishment Instructions of 
+Boeing Special Attention Service Bulletin 747-53-2460, Revision 2, 
+dated December 22, 2010.
+
+(h) Actions for Previously Inspected Group 4 Airplanes: Corner Reveal 
+Replaced With One-Piece Reveal
+
+    For Group 4 airplanes identified in Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010, 
+that have been inspected previously in accordance with Boeing 
+Service Bulletin 747-53-2460, Revision 1, dated February 13, 2007, 
+and on which the corner reveal has been replaced with a one-piece 
+reveal: Within 10,000 flight cycles after the date the reveal was 
+replaced with a one-piece corner reveal, do a detailed inspection 
+for cracking of the corner reveal, in accordance with Part 2 of the 
+Accomplishment Instructions of Boeing Special Attention Service 
+Bulletin 747-53-2460, Revision 2, dated December 22, 2010. Repeat 
+the inspection for cracking thereafter at intervals not to exceed 
+6,000 flight cycles until the corner reveal is replaced with a 6061 
+machined aluminum two-piece corner reveal, in accordance with the 
+requirements of paragraph (j) of this AD. If any cracking is found 
+during any inspection required by this paragraph, before further 
+flight, replace the one-piece corner reveal with a 6061 machined 
+aluminum two-piece corner reveal, in accordance with Part 3 of the 
+Accomplishment Instructions of Boeing Special Attention Service 
+Bulletin 747-53-2460, Revision 2, dated December 22, 2010.
+
+(i) Actions for Previously Inspected Group 4 Airplanes: Corner Reveal 
+Not Replaced, or Replaced With Two-Piece Reveal
+
+    For Group 4 airplanes identified in Boeing Special Attention 
+Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010, 
+that have been inspected previously in accordance with the 
+Accomplishment Instructions of Boeing Special Attention Service 
+Bulletin 747-53-2460, Revision 1, dated February 13, 2007; and on 
+which the corner reveal either has not been replaced, or has been 
+replaced with a two-piece reveal that was made by reworking an 
+existing one-piece reveal: Before the accumulation of 7,000 total 
+flight cycles; within 3,000 flight cycles after the most recent 
+inspection or rework done in accordance with Boeing Special 
+Attention Service Bulletin 747-53-2460, Revision 1, dated February 
+13, 2007; or within 1,000 flight cycles after the effective date of 
+this AD; whichever occurs later; do a material type inspection to 
+determine if the corner reveal is a casting, in accordance with the 
+Accomplishment Instructions of Boeing Special Attention Service 
+Bulletin 747-53-2460, Revision 2, dated December 22, 2010. Doing the 
+inspection specified in this paragraph terminates the inspections 
+required by paragraph (j) of AD 2008-18-07, Amendment 39-15664 (73 
+FR 56960, October 1, 2008), for these airplanes.
+    (1) If, during any inspection required by paragraph (i) of this 
+AD, any corner reveal is found to be a casting: Before further 
+flight, do a detailed inspection for cracking of the corner reveal. 
+For one-piece reveals, inspect in accordance with Part 2 of the 
+Accomplishment Instructions of Boeing Special Attention Service 
+Bulletin 747-53-2460, Revision 2, dated December 22, 2010; for two-
+piece reveals, inspect using a method approved in accordance with 
+the procedures specified in paragraph (n) of this AD. Repeat the 
+inspection thereafter at intervals not to exceed 3,000 flight cycles 
+until a new two-piece reveal is installed in accordance with the 
+requirements of paragraph (i)(1)(i) of this AD. If any cracking is 
+found, do the actions specified in paragraph (i)(1)(i) or (i)(1)(ii) 
+of this AD.
+    (i) Replace the cast reveal with a new 6061 machined aluminum 
+two-piece corner reveal, before further flight, in accordance with 
+Part 3 of the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 747-53-2460, Revision 2, dated December 
+22, 2010.
+    (ii) Repair all cracking, before further flight, in accordance 
+with Part 4 of the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 747-53-2460, Revision 2, dated December 
+22, 2010.
+    (2) If, during any inspection required by paragraph (i) of this 
+AD, any one-piece corner reveal is found to be installed and is not 
+a casting: Before the accumulation of 10,000 total flight cycles; or 
+within 6,000 flight cycles after the most recent inspection done in 
+accordance with Boeing Special Attention Service Bulletin 747-53-
+2460, Revision 1, dated February 13, 2007; whichever occurs later; 
+do a detailed inspection of the corner reveal for cracking, in 
+accordance with Part 2 of the Accomplishment Instructions of Boeing 
+Special Attention Service Bulletin 747-53-2460, Revision 2, dated 
+December 22, 2010. Repeat the inspection for cracking thereafter at 
+intervals not to exceed 6,000 flight cycles until the corner reveal 
+is replaced with a 6061 machined aluminum two-piece corner reveal. 
+If any cracking is found during any inspection required by this 
+paragraph, before further flight, replace the corner reveal with a 
+6061 machined aluminum two-piece corner reveal, in accordance with 
+Part 3 of the Accomplishment Instructions of Boeing Special 
+Attention Service Bulletin 747-53-2460, Revision 2, dated December 
+22, 2010.
+
+(j) Terminating Action for Repetitive Inspections
+
+    Installation of a 6061 machined aluminum two-piece corner reveal 
+in accordance with Part 3 of the Accomplishment Instructions of 
+Boeing Special Attention Service Bulletin 747-53-2460, Revision 2, 
+dated December 22, 2010, terminates the repetitive inspections 
+required by paragraphs (g), (h), and (i) of this AD.
+
+(k) Parts Installation Prohibition: (Cast 356 Aluminum) Reveals
+
+    As of the effective date of this AD, no person may install a 
+door lower forward corner reveal made of cast 356 aluminum on any 
+airplane at a location specified in the Accomplishment Instructions 
+of Boeing Special Attention Service Bulletin 747-53-2460, Revision 
+2, dated December 22, 2010. This parts installation prohibition ends 
+the parts installation prohibition specified in paragraph (n) of AD 
+2008-18-07, Amendment 39-15664 (73 FR 56960, October 1, 2008), for 
+the airplanes identified in paragraph (c) of this AD.
+
+(l) Parts Installation Limitation: (Machined 6061 Aluminum) Reveals
+
+    As of the effective date of this AD, no person may install a 
+door lower forward corner reveal made of machined 6061 aluminum on 
+any airplane at a location specified in the Accomplishment 
+Instructions of Boeing Special Attention Service Bulletin 747-53-
+2460, Revision 2, dated December 22, 2010, unless it has been 
+confirmed/reworked to be without a sharp edge, in accordance with 
+Part 1 of the Accomplishment Instructions of Boeing
+
+[[Page 77384]]
+
+Special Attention Service Bulletin 747-53-2460, Revision 2, dated 
+December 22, 2010. This parts installation prohibition ends the 
+parts installation prohibition specified in paragraph (o) of AD 
+2008-18-07, Amendment 39-15664 (73 FR 56960, October 1, 2008), for 
+the airplanes identified in paragraph (c) of this AD.
+
+(m) Exceptions to Service Information Specifications
+
+    Where Boeing Special Attention Service Bulletin 747-53-2460, 
+Revision 2, dated December 22, 2010, specifies a post-repair 
+detailed inspection in accordance with Table 9, this AD requires a 
+detailed inspection in accordance with paragraph 3.B., Part 2, of 
+Boeing Special Attention Service Bulletin 747-53-2460, Revision 2, 
+dated December 22, 2010.
+
+(n) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (o) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#744d59353a3959271115000018115935373b5935393b37592631252131272027341215155a131b02"><span class="__cf_email__" data-cfemail="734a5e323d3e5e20161207071f165e32303c5e323e3c305e2136222636202720331512125d141c05">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+
+(o) Related Information
+
+    For more information about this AD, contact Bill Ashforth, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft 
+Certification Office, 1601 Lind Avenue SW., Renton, WA 98057-3356; 
+phone: 425-917-6432; fax: 425-917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#98faf1f4f4b6f9ebf0fef7eaecf0d8fef9f9b6fff7ee"><span class="__cf_email__" data-cfemail="54363d38387a35273c323b26203c143235357a333b22">[email&#160;protected]</span></a>.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Special Attention Service Bulletin 747-53-2460, 
+Revision 2, dated December 22, 2010.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    5) You may view this service information that is incorporated by 
+reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+
+    Issued in Renton, Washington, on November 19, 2014.
+Suzanne Masterson,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-30132 Filed 12-23-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

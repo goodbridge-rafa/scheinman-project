@@ -1,0 +1,429 @@
+<html>
+<head>
+<title>Federal Register, Volume 76 Issue 129 (Wednesday, July 6, 2011)</title>
+</head>
+<body><pre>[Federal Register Volume 76, Number 129 (Wednesday, July 6, 2011)]
+[Rules and Regulations]
+[Pages 39251-39254]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2011-15990]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2010-1203; Directorate Identifier 2010-NM-168-AD; 
+Amendment 39-16738; AD 2011-14-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Model DC-9-81 (MD-
+81), DC-9-82 (MD-82), DC-9-83 (MD-83), DC-9-87 (MD-87), and MD-88 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for the 
+products listed above. This AD requires repetitive inspections for 
+cracking of the left and right upper center skin panels of the 
+horizontal stabilizer, and corrective action if necessary. This AD was 
+prompted by a report of a crack found in the upper center skin panel at 
+the aft inboard corner of a right horizontal stabilizer. We are issuing 
+this AD to detect and correct cracks in the horizontal stabilizer upper 
+center skin panel. Uncorrected cracks might ultimately lead to the loss 
+of overall structural integrity of the horizontal stabilizer.
+
+DATES: This AD is effective August 10, 2011.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of August 10, 
+2011.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+3855 Lakewood Boulevard, MC D800-0019, Long Beach, California 90846-
+0001; phone: 206-544-5000, extension 2; fax: 206-766-5683; e-mail: 
+<a href="/cdn-cgi/l/email-protection#88ecfbeda6eae7edebe7e5c8eae7ede1e6efa6ebe7e5"><span class="__cf_email__" data-cfemail="345047511a565b51575b5974565b515d5a531a575b59">[email&#160;protected]</span></a>; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may 
+review copies of the referenced
+
+[[Page 39252]]
+
+service information at the FAA, Transport Airplane Directorate, 1601 
+Lind Avenue, SW., Renton, Washington. For information on the 
+availability of this material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Roger Durbin, Aerospace Engineer, 
+Airframe Branch, ANM-120L, FAA, Los Angeles Aircraft Certification 
+Office, 3960 Paramount Boulevard, Lakewood, California 90712-4137; 
+phone: 562-627-5233; fax: 562-627-5210; e-mail: <a href="/cdn-cgi/l/email-protection#82d0ede5e7f0acc6f7f0e0ebecc2e4e3e3ace5edf4"><span class="__cf_email__" data-cfemail="6b39040c0e19452f1e190902052b0d0a0a450c041d">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an airworthiness directive (AD) that would apply to 
+the specified products. That NPRM published in the Federal Register on 
+December 23, 2010 (75 FR 80744). That NPRM proposed to require 
+repetitive eddy current inspections--either (Option 1) two high 
+frequency eddy current (ETHF) scans and one low frequency eddy current 
+(ETLF) scan; or (Option 2) three ETHF scans--to detect cracking of the 
+right and left upper center skin panels of the horizontal stabilizer, 
+and replacing any cracked horizontal stabilizer upper center skin panel 
+with a serviceable panel.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+and the FAA's response to each comment.
+
+Request To Clarify the Term ``Serviceable''
+
+    Several commenters requested clarification of the term 
+``serviceable.''
+    American Airlines stated that the term ``serviceable'' applies to 
+used and new aircraft parts. American commented that if a used skin 
+plank that has been determined to be serviceable has been installed, 
+then the part has accumulated fatigue damage and should be inspected 
+using the repetitive method and the interval used prior to 
+installation.
+    Aeropostal Hangars stated that the word ``serviceable'' can be 
+associated with ``removed in serviceable condition'' from another 
+aircraft. The commenter stated that although the manufacturing 
+tolerances of fastener holes allow the installation of a removed panel 
+from one aircraft to another, it is not always possible considering 
+oversized fasteners, etc. We infer that this commenter wants us to 
+change paragraph (g)(2) of the NPRM to require replacement with a new, 
+rather than serviceable, skin panel assembly.
+    We agree to change paragraph (g)(2) in this final rule to require 
+replacement with a new skin panel because it is not generally possible 
+to install a used skin panel assembly due to the difficulty in matching 
+drill holes and because the AD does not include a provision for 
+identifying and tracking the accumulated time on the used part. We 
+revised paragraph (g)(2) of this AD accordingly.
+
+Request To Provide Options for Temporary Repairs
+
+    Several commenters requested additional options for temporary 
+repairs of certain crack configurations rather than replacement of skin 
+panel assemblies before further flight.
+    American Airlines stated that it has accomplished temporary 
+cracking repairs on 21 airplanes based on the manufacturer's 
+instructions and have not had any crack propagation from the repaired 
+parts. American stated that doing a temporary repair results in the 
+operation of a safe airplane, which can then be scheduled for permanent 
+repair at a time that causes the least disruption for the airline and 
+the flying public. This commenter requested that we allow temporary 
+repairs to a cracked skin panel assembly.
+    Delta Airlines presumed that skin panel cracks likely were caused 
+by contributions from errors in removing or installing the skin panels 
+because of the way the skin panels overlap. Some of Delta's cracked 
+production skin panels were not adequately shimmed where cracks 
+occurred. This commenter cited evidence that trim-out skin panel 
+repairs would provide some reduction in stress concentration and allow 
+skin panels to remain in service until a planned opportunity to change 
+the panels occurs, which would reduce airplane out-of-service time. 
+Delta stated that trim-out repairs should be allowed on skin panels and 
+that the airplane should be allowed to stay in service until at least 
+the next heavy maintenance visit.
+    Aeropostal Hangars stated that the finding of a crack in an in-
+service revenue aircraft that is not allowed temporary repairs could 
+lead to a non-scheduled down time for the affected aircraft. We infer 
+that this commenter wants us to allow temporary repairs.
+    We disagree. We have determined that it will be difficult to 
+evaluate the effect of all temporary repairs on safety, particularly 
+since other temporary repairs allowed on the aft horizontal skin panel 
+by AD 2007-10-04, Amendment 39-15045 (72 FR 25960, May 8, 2007), might 
+already be present. We stated in the NPRM that a crack in the upper 
+center skin panel might transfer the load to the upper aft skin panel, 
+which might result in the upper aft skin panel cracking before reaching 
+the existing inspection interval. Additionally, Aeropostal Hangars 
+provided no data or information that would show that temporary repairs 
+would provide an adequate level of safety.
+    In this case, we have determined that the alternative method of 
+compliance (AMOC) process is more appropriate for temporary repair 
+approval. Under the provisions of paragraph (h) of this AD, we will 
+consider requests for approval of an AMOC if sufficient data are 
+submitted to substantiate that temporary repairs would provide an 
+acceptable level of safety. Early field data indicate that 
+substantially fewer center panel cracks than aft panel cracks will be 
+detected; therefore, the AMOC process should not represent a 
+substantial burden to operators. We have not changed this AD in this 
+regard.
+
+Request To Replace Horizontal Stabilizer
+
+    Several commenters requested the option of replacing the whole 
+horizontal stabilizer instead of replacing a cracked center skin panel 
+because replacing the stabilizer would require only a few days of 
+airplane out-of-service time instead of several weeks.
+    We disagree. Horizontal stabilizer assemblies do not meet the 
+criteria for serialized, rotable life-limited parts. Further, 
+additional tracking information that is specific to a maintenance 
+facility might be needed to ensure that inspections are occurring at 
+the required times for swapped parts. However, under the provisions of 
+paragraph (h) of this AD, we will consider requests for approval of an 
+AMOC if sufficient data are submitted to substantiate that replacing 
+the whole horizontal stabilizer
+
+[[Page 39253]]
+
+instead of replacing a cracked center skin panel would provide an 
+acceptable level of safety. We have not changed this AD in this regard.
+
+Request To Use Later Revisions of the Service Bulletin
+
+    American Airlines requested that this proposed AD allow the use of 
+later revisions of the service bulletin. American stated that allowing 
+later versions would eliminate the need for AMOC approval for future 
+service bulletin revisions.
+    We disagree. We cannot use the phrase, ``or later FAA-approved 
+revisions,'' in an AD when referring to the service document because 
+doing so violates Office of the Federal Register (OFR) policies for 
+approval of materials ``incorporated by reference.'' However, affected 
+operators may request approval to use a later revision as an AMOC with 
+this AD under the provisions of paragraph (h) of this AD. We have not 
+changed this AD in this regard.
+
+Explanation of Change to Applicability
+
+    We have revised the applicability of this AD to identify The Boeing 
+Company as the type certificate holder for the affected models.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously. We also determined that 
+these changes will not increase the economic burden on any operator or 
+increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD will affect 668 airplanes of U.S. 
+registry.
+    We estimate the following costs to comply with this AD:
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+               Action                         Labor cost           Parts cost     Cost per product                   Cost on U.S. operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Inspection.........................  4 work-hours x $85 per hour           $0  $340 per inspection     $227,120 per inspection cycle.
+                                      = $340 per inspection                     cycle.
+                                      cycle.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary repairs that 
+would be required based on the results of the inspection. We have no 
+way of determining the number of aircraft that might need these 
+repairs.
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                       Cost per
+                    Action                                    Labor cost                 Parts cost    product
+----------------------------------------------------------------------------------------------------------------
+Group 1: Skin panel replacement...............  648 work-hours x $85 per hour =             $36,405      $91,485
+                                                 $55,080.
+Group 2: Skin panel replacement...............  648 work-hours x $85 per hour =              54,071      109,151
+                                                 $55,080.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2011-14-03 The Boeing Company: Amendment 39-16738; Docket No. FAA-
+2010-1203; Directorate Identifier 2010-NM-168-AD.
+
+Effective Date
+
+    (a) This AD is effective August 10, 2011.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to all The Boeing Company Model DC-9-81 (MD-
+81), DC-9-82 (MD-82), DC-9-83 (MD-83), DC-9-87 (MD-87) and MD-88 
+airplanes, certificated in any category.
+
+Subject
+
+    (d) Joint Aircraft System Component (JASC)/Air Transport 
+Association (ATA) of America Code 55: Stabilizers.
+
+[[Page 39254]]
+
+Unsafe Condition
+
+    (e) This AD was prompted by a report of a crack found in the 
+upper center skin panel at the aft inboard corner of a right 
+horizontal stabilizer. We are issuing this AD to detect and correct 
+cracks in the horizontal stabilizer upper center skin panel. 
+Uncorrected cracks might ultimately lead to the loss of overall 
+structural integrity of the horizontal stabilizer.
+
+Compliance
+
+    (f) Comply with this AD within the compliance times specified, 
+unless already done.
+
+Inspections
+
+    (g) Before the accumulation of 20,000 total flight cycles, or 
+within 4,379 flight cycles after the effective date of this AD, 
+whichever occurs later, do eddy current inspections to detect 
+cracking of the left and right upper center skin panels of the 
+horizontal stabilizer, in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin MD80-55A068, dated 
+July 16, 2010.
+    (1) If no crack is found during any inspection required by 
+paragraph (g) of this AD, repeat the applicable inspections 
+thereafter at the applicable times specified in paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin MD80-55A068, dated 
+July 16, 2010.
+    (2) If any crack is found during any inspection required by 
+paragraph (g) of this AD, before further flight, replace the skin 
+panel with a new skin panel, in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin MD80-55A068, dated 
+July 16, 2010. Within 20,000 flight cycles after the replacement, do 
+eddy current inspections as required by paragraph (g) of this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (h)(1) The Manager, Los Angeles Aircraft Certification Office 
+(ACO), FAA, has the authority to approve AMOCs for this AD, if 
+requested using the procedures found in 14 CFR 39.19. In accordance 
+with 14 CFR 39.19, send your request to your principal inspector or 
+local Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in the Related Information 
+section of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Los Angeles ACO, to 
+make those findings. For a repair method to be approved, the repair 
+must meet the certification basis of the airplane and 14 CFR 25.571, 
+Amendment 45, and the approval must specifically refer to this AD.
+
+Related Information
+
+    (i) For more information about this AD, contact Roger Durbin, 
+Aerospace Engineer, Airframe Branch, ANM-120L, FAA, Los Angeles 
+Aircraft Certification Office (ACO), 3960 Paramount Blvd., Lakewood, 
+California 90712-4137; phone: 562-627-5233; fax: 562-627-5210; e-
+mail: <a href="/cdn-cgi/l/email-protection#386a575f5d4a167c4d4a5a5156785e5959165f574e"><span class="__cf_email__" data-cfemail="c795a8a0a2b5e983b2b5a5aea987a1a6a6e9a0a8b1">[email&#160;protected]</span></a>.
+
+Material Incorporated by Reference
+
+    (j) You must use Boeing Alert Service Bulletin MD80-55A068, 
+dated July 16, 2010, to do the actions required by this AD, unless 
+the AD specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of this service information under 5 
+U.S.C. 552(a) and 1 CFR part 51.
+    (2) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+3855 Lakewood Boulevard, MC D800-0019, Long Beach, California 90846-
+0001; phone: 206-544-5000, extension 2; fax: 206-766-5683; e-mail: 
+<a href="/cdn-cgi/l/email-protection#187c6b7d367a777d7b7775587a777d71767f367b7775"><span class="__cf_email__" data-cfemail="e4809781ca868b81878b89a4868b818d8a83ca878b89">[email&#160;protected]</span></a>; Internet: <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (3) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, 
+Washington. For information on the availability of this material at 
+the FAA, call 425-227-1221.
+    (4) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at an NARA facility, call 202-741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on June 16, 2011.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2011-15990 Filed 7-5-11; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

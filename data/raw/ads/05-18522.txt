@@ -1,0 +1,513 @@
+<html>
+<head>
+<title>Federal Register, Volume 70 Issue 182 (Wednesday, September 21, 2005)</title>
+</head>
+<body><pre>
+[Federal Register Volume 70, Number 182 (Wednesday, September 21, 2005)]
+[Rules and Regulations]
+[Pages 55236-55239]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 05-18522]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2005-22452; Directorate Identifier 2001-NM-336-AD; 
+Amendment 39-14277; AD 2005-19-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A330-301, -321, -322, -
+341, and -342 Airplanes; and Model A340-200 and A340-300 Series 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus Model A330-301, -321, -322, -341, and -342 airplanes; 
+and Model A340-200 and A340-300 series airplanes. This AD requires 
+repetitive inspections for cracks of the inboard lower flange and 
+radius of the left- and right-hand outboard floor beams at frame (FR) 
+48, and related investigative and corrective actions if necessary. This 
+AD also provides an optional terminating action for the repetitive 
+inspections. This AD results from reports that cracks were found during 
+fatigue tests at the attachment between the canted lower flange of the 
+floor beam and the pressure diaphragm in front of FR48 on both left- 
+and right-hand floor beams; and that an additional crack was found in 
+the flange radius of the floor beam. We are issuing this AD to detect 
+and correct such cracking, which could propagate and result in reduced 
+structural integrity of the fuselage.
+
+DATES: Effective October 6, 2005.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of October 6, 
+2005.
+    We must receive comments on this AD by November 21, 2005.
+
+ADDRESSES: Use one of the following addresses to submit comments on 
+this AD.
+    <bullet> DOT Docket Web site: Go to <a href="http://dms.dot.gov">http://dms.dot.gov</a> and follow 
+the instructions for sending your comments electronically.
+    <bullet> Government-wide rulemaking Web site: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a> and follow the instructions for sending your 
+comments electronically.
+    <bullet> Mail: Docket Management Facility; U.S. Department of 
+Transportation, 400 Seventh Street SW., Nassif Building, Room PL-401, 
+Washington, DC 20590.
+    <bullet> Fax: (202) 493-2251.
+    <bullet> Hand Delivery: Room PL-401 on the plaza level of the 
+Nassif Building, 400 Seventh Street SW., Washington, DC, between 9 a.m. 
+and 5 p.m., Monday through Friday, except Federal holidays.
+    Contact Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, 
+France, for service information identified in this AD.
+    You may examine the contents of the AD docket on the Internet at 
+<a href="http://dms.dot.gov">http://dms.dot.gov</a>, or in person at the Docket Management Facility, 
+U.S. Department of Transportation, 400 Seventh Street SW., Room PL-401, 
+Washington, DC. This docket number is FAA-2005-22452; the directorate 
+identifier for this docket is 2001-NM-336-AD.
+
+FOR FURTHER INFORMATION CONTACT: Tim Backman, Aerospace Engineer, ANM-
+116, International Branch, FAA, Transport Airplane Directorate, 1601 
+Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 227-
+2797; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    Although this is a final rule that was not preceded by notice and 
+an opportunity for public comment, we invite you to submit any relevant 
+written data, views, or arguments regarding this AD. Include ``Docket 
+No. FAA-2005-22452; Directorate Identifier 2001-NM-336-AD'' at the 
+beginning of your comments. We specifically invite comments on the 
+overall regulatory, economic, environmental, and energy aspects of the 
+AD. We will consider all comments received by the closing date and may 
+amend the AD in light of those comments.
+    We will post all comments we receive, without change, to <a href="http://dms.dot.gov">http://dms.dot.gov</a>, including any personal information you provide. We will 
+also post a report summarizing each substantive verbal contact with FAA 
+personnel concerning this AD. Using the search function of that Web 
+site, anyone can find and read the comments in any of our dockets, 
+including the name of the individual who sent the comment (or signed 
+the comment on behalf of an association, business, labor union, etc.). 
+You may review the DOT's complete
+
+[[Page 55237]]
+
+Privacy Act Statement in the Federal Register published on April 11, 
+2000 (65 FR 19477-78), or you may visit <a href="http://dms.dot.gov">http://dms.dot.gov</a>.
+
+Examining the Docket
+
+    You may examine the AD docket on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a>, or in person at the Docket Management Facility office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The Docket Management Facility office (telephone (800) 647-
+5227) is located on the plaza level of the Nassif Building at the DOT 
+street address stated in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after the Docket Management System 
+receives them.
+
+Discussion
+
+    The Direction Generale de l'Aviation Civile (DGAC), which is the 
+airworthiness authority for France, notified us that an unsafe 
+condition may exist on certain Airbus Model A330-301, -321, -322, -341, 
+and -342 airplanes; and Model A340-200 and A340-300 series airplanes. 
+The DGAC advises that cracks were found during fatigue tests at the 
+attachment between the canted lower flange of the floor beam and the 
+pressure diaphragm in front of frame (FR) 48 on both left- and right-
+hand floor beams. The cracks extended between two fasteners close to 
+FR48 on the canted lower flange of the floor beam. In addition, another 
+crack was found in the flange radius of the floor beam. Further 
+investigation revealed that the cracks resulted from excessive bending 
+of the canted lower flange of the floor beam. Fatigue cracks could 
+propagate from one fastener to another. This condition, if not 
+corrected, could result in reduced structural integrity of the 
+fuselage.
+
+Relevant Service Information
+
+    Airbus has issued Service Bulletin A330-53-3014, Revision 05, dated 
+June 20, 2003 (for Model A330-301, -321, -322, -341, and -342 
+airplanes); and Service Bulletin A340-53-4022, Revision 05, dated June 
+16, 2003 (for Model A340-200 and A340-300 series airplanes). The 
+service bulletins describe procedures for doing repetitive high-
+frequency eddy current (HFEC) inspections for cracks of the inboard 
+lower flange and radius of the left- and right-hand outboard floor 
+beams at FR48. The service bulletins also describe procedures for 
+reporting inspection findings to Airbus. If no cracks are found during 
+an HFEC inspection, the service bulletins specify that operators repeat 
+the inspection. If any crack is found during any HFEC inspection, the 
+service bulletins give procedures for related investigative and 
+corrective actions as follows:
+    <bullet> For cracks at the radius, the service bulletins specify 
+that operators should contact Airbus for repair instructions before 
+further flight.
+    <bullet> For cracks at the flange, the service bulletins specify 
+that operators should measure the total length of the crack. If the 
+crack is within certain limits, the service bulletins give procedures 
+for stop-drilling the crack before further flight, and for repairing 
+the crack within 500 flight cycles after the stop-drilling by 
+installing stainless steel doublers under the floor beams. If the crack 
+is outside certain limits, the service bulletins specify that operators 
+should contact Airbus for repair instructions before further flight.
+    Accomplishing the actions specified in the service information is 
+intended to adequately address the unsafe condition. The DGAC mandated 
+the service information and issued French airworthiness directives 
+2001-506(B), dated October 17, 2001, and 2001-507(B), dated October 17, 
+2001, to ensure the continued airworthiness of these airplanes in 
+France.
+    Airbus has also issued Service Bulletins A330-53-3013, Revision 03 
+dated December 23, 1999 (for Model A330-301, -321, -322, -341, and -342 
+airplanes); and Service Bulletin A340-53-4021, Revision 05, dated 
+January 27, 2003 (for Model A340-200 and A340-300 series airplanes). 
+These service bulletins provide an optional terminating action for the 
+repetitive inspections of the inboard lower flange. The terminating 
+action is installing new stainless steel doublers under the floor beam 
+to limit the bending movement of the canted lower flange. The 
+installation involves removing certain fasteners and doing a rotating 
+probe inspection for cracks of the fastener holes. If any crack is 
+found, the service bulletins specify contacting Airbus for repair 
+instructions.
+
+FAA's Determination and Requirements of This AD
+
+    These airplane models are manufactured in France and are type 
+certificated for operation in the United States under the provisions of 
+section 21.29 of the Federal Aviation Regulations (14 CFR 21.29) and 
+the applicable bilateral airworthiness agreement. Pursuant to this 
+bilateral airworthiness agreement, the DGAC has kept the FAA informed 
+of the situation described above. We have examined the DGAC's findings, 
+evaluated all pertinent information, and determined that we need to 
+issue an AD for products of this type design that are certificated for 
+operation in the United States.
+    Therefore, we are issuing this AD to detect and correct cracks 
+between the canted lower flange of the floor beam and the pressure 
+diaphragm in front of FR48 on both left- and right-hand floor beams; 
+and cracks in the flange radius of the floor beam; which could 
+propagate and result in reduced structural integrity of the fuselage. 
+This AD requires accomplishing the actions specified in the service 
+information described previously, except as discussed under 
+``Differences Among the AD, the French Airworthiness Directives, and 
+the Service Bulletins.''
+    Operators should note that, in consonance with the findings of the 
+DGAC, this proposed AD allows operators to continue the repetitive 
+inspections instead of doing the terminating action. Additionally, in 
+certain cases, operators that detect cracking may defer the repair for 
+a specified period of time. In making these determinations, we consider 
+that, in the case of this AD, long-term continued operational safety is 
+adequately assured by doing the repetitive inspections to detect 
+cracking before it represents a hazard to the airplane, and by doing 
+repairs within the specified time limits.
+
+Differences Among the AD, the French Airworthiness Directives, and the 
+Service Bulletins
+
+    The applicability of the French airworthiness directives excludes 
+airplanes on which Airbus Service Bulletin A330-53-3013 or A340-53-4021 
+was accomplished in service. However, we have not excluded those 
+airplanes in the applicability of this AD; rather, this AD includes a 
+requirement to accomplish the actions specified in those service 
+bulletins. This requirement will ensure that the actions specified in 
+the applicable service bulletin and required by this AD are 
+accomplished on all affected airplanes. Operators must continue to 
+operate the airplane in the configuration required by this AD unless an 
+alternative method of compliance is approved. This difference has been 
+coordinated with the DGAC.
+    The French airworthiness directives specify a compliance time based 
+on the time ``since new.'' However, this AD specifies a compliance time 
+after the date of issuance of the original standard airworthiness 
+certificate or the date of issuance of the original export certificate 
+of airworthiness. This decision is based on our determination that 
+``since new'' may be interpreted differently by different operators. We
+
+[[Page 55238]]
+
+find that our proposed terminology is generally understood within the 
+industry and records will always exist that establish these dates with 
+certainty.
+    The service bulletins specify that you may contact the manufacturer 
+for instructions on how to repair certain conditions, but this AD would 
+require you to repair those conditions using a method that we or the 
+DGAC (or its delegated agent) approve. In light of the type of repair 
+that would be required to address the unsafe condition, and consistent 
+with existing bilateral airworthiness agreements, we have determined 
+that, for this AD, a repair we, or the DGAC, approve would be 
+acceptable for compliance with this AD.
+    Although the Accomplishment Instructions of Airbus Service 
+Bulletins A330-53-3014, Revision 05, and A340-53-4022, Revision 05, 
+provide procedures for reporting certain information to the 
+manufacturer, this AD would not require those actions.
+
+Clarification of Optional Terminating Action
+
+    The service bulletins describe procedures for installing a 
+stainless steel doubler, which is an optional terminating action for 
+the repetitive inspections of both the inboard lower flange and the 
+radius. The manufacturer has determined that the crack in the radius is 
+a direct consequence of the load re-distribution following cracking of 
+the fastener holes. The stainless steel doubler reinforces the area of 
+the fastener holes.
+
+Costs of Compliance
+
+    None of the airplanes affected by this action are on the U.S. 
+Register. All airplanes affected by this AD are currently operated by 
+non-U.S. operators under foreign registry; therefore, they are not 
+directly affected by this AD action. However, we consider this AD 
+necessary to ensure that the unsafe condition is addressed if any 
+affected airplane is imported and placed on the U.S. Register in the 
+future.
+    The following table provides the estimated costs to comply with 
+this AD for any affected airplane that might be imported and placed on 
+the U.S. Register in the future.
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                          Average labor
+                Action                    Work  hours     rate per hour             Parts  cost                         Cost per  airplane
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+HFEC inspection, per inspection cycle.                2              $65  None..........................  $130, per inspection cycle.
+Optional terminating action...........               18               65  $1,930........................  $3,100.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FAA's Determination of the Effective Date
+
+    No airplane affected by this AD is currently on the U.S. Register. 
+Therefore, providing notice and opportunity for public comment is 
+unnecessary before this AD is issued, and this AD may be made effective 
+in less than 30 days after it is published in the Federal Register.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the National Government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that the regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+adding the following new airworthiness directive (AD):
+
+2005-19-12 Airbus: Amendment 39-14277. Docket No. FAA-2005-22452; 
+Directorate Identifier 2001-NM-336-AD.
+
+Effective Date
+
+    (a) This AD becomes effective October 6, 2005.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to Airbus Model A330-301, -321, -322, -341, 
+and -342 airplanes; and Model A340-211, -212, -213, -311, -312, and 
+-313 airplanes; certificated in any category; on which Airbus 
+Modification 42418 has not been accomplished in production.
+
+Unsafe Condition
+
+    (d) This AD results from reports that cracks were found during 
+fatigue tests at the attachment between the canted lower flange of 
+the floor beam and the pressure diaphragm in front of frame (FR) 48 
+on both left- and right-hand floor beams; and that an additional 
+crack was found in the flange radius of the floor beam. The FAA is 
+issuing this AD to detect and correct such cracking,
+
+[[Page 55239]]
+
+which could propagate and result in reduced structural integrity of 
+the fuselage.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Repetitive Inspections
+
+    (f) At the applicable times in paragraph (f)(1) or (f)(2) of 
+this AD: Do high-frequency eddy current inspection for cracks of the 
+inboard lower flange and radius of the left-hand and right-hand 
+outboard floor beams at FR48. Do all inspections in accordance with 
+the Accomplishment Instructions of the applicable service bulletin 
+in Table 1 of this AD. Doing the action in paragraph (h) of this AD 
+terminates the repetitive inspection requirements of this paragraph.
+    (1) For Airbus Model A330-301, -321, -322, -341, and -342 
+airplanes: Do the first inspection before the accumulation of 8,400 
+flight cycles since the date of issuance of the original standard 
+airworthiness certificate or the date of issuance of the original 
+export certificate of airworthiness, or within 6 months after the 
+effective date of this AD, whichever occurs later; and repeat the 
+inspection thereafter at intervals not to exceed 3,860 total flight 
+cycles or 15,050 flight hours, whichever occurs earlier.
+    (2) For Airbus Model A340-211, -212, -213, -311, -312, and -313 
+airplanes: Do the first inspection before the accumulation of the 
+earlier of 9,200 flight cycles or 70,000 flight hours since the date 
+of issuance of the original standard airworthiness certificate or 
+the date of issuance of the original export certificate of 
+airworthiness, or within 6 months after the effective date of this 
+AD, whichever occurs later; and repeat the inspection thereafter at 
+intervals not to exceed 3,070 flight cycles.
+
+                                           Table 1.--Service Bulletins
+----------------------------------------------------------------------------------------------------------------
+         For airbus model--                                    Airbus service bulletin--
+----------------------------------------------------------------------------------------------------------------
+A330-301, -321, -322, -341, and -342  A330-53-3014, Revision 05, dated June 20, 2003.
+ airplanes.
+A340-211, -212, -213, -311, -312,     A340-53-4022, Revision 05, dated June 16, 2003.
+ and -313 airplanes.
+----------------------------------------------------------------------------------------------------------------
+
+Related Investigative and Corrective Actions
+
+    (g) If any crack is found during any inspection required by 
+paragraph (f) of this AD: Do the applicable actions in paragraph 
+(g)(1) and (g)(2) of this AD.
+    (1) For cracks at the radius: Before further flight, repair the 
+crack according to a method approved by either the Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA; 
+or the Direction Ge[aacute]ne[aacute]rale de l'Aviation Civile 
+(DGAC) (or its delegated agent).
+    (2) For cracks at the flange: Before further flight, measure the 
+total length of the crack and do the applicable action in paragraph 
+(g)(2)(i) and (g)(2)(ii) of this AD.
+    (i) If the crack is less than 12 mm (0.472 inch) in length: 
+Before further flight, stop-drill the crack and, within 500 flight 
+cycles after stop-drilling the crack, do the action in paragraph (h) 
+of this AD.
+    (ii) If the crack is greater than or equal to 12 mm (0.472 inch) 
+in length: Before further flight, repair the crack according to a 
+method approved by either the Manager, International Branch, ANM-
+116; or the Direction Ge[aacute]ne[aacute]rale de l'Aviation Civile 
+(DGAC) (or its delegated agent).
+
+Optional Terminating Action
+
+    (h) Installing a stainless steel doubler in accordance with 
+Airbus Service Bulletin A330-53-3013, Revision 03, December 23, 
+1999; or Airbus Service Bulletin A340-53-4021, Revision 05, dated 
+January 27, 2003; as applicable; terminates the repetitive 
+inspection requirements of paragraph (f) of this AD. If any crack is 
+found during this installation while doing the rotating probe 
+inspection of the fastener holes: Before further flight, repair the 
+crack according to a method approved by either the Manager, 
+International Branch, ANM-116; or the DGAC (or its delegated agent).
+
+No Reporting Required
+
+    (i) Although the Accomplishment Instructions of the service 
+bulletins identified in Table 1 of this AD describe procedures for 
+reporting certain information to the manufacturer, this AD would not 
+require those actions.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (j) The Manager, International Branch, ANM-116, has the 
+authority to approve AMOCs for this AD, if requested in accordance 
+with the procedures found in 14 CFR 39.19.
+
+Related Information
+
+    (k) French airworthiness directives 2001-506(B) and 2001-507(B), 
+both dated October 17, 2001, also address the subject of this AD.
+
+Material Incorporated by Reference
+
+    (l) You must use the service information identified in Table 2 
+of this AD to perform the actions that are required by this AD, 
+unless the AD specifies otherwise. The Director of the Federal 
+Register approved the incorporation by reference of these documents 
+in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Contact 
+Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, France, 
+for a copy of this service information. You may review copies at the 
+Docket Management Facility, U.S. Department of Transportation, 400 
+Seventh Street SW., Room PL-401, Nassif Building, Washington, DC; on 
+the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a>; or at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at the NARA, call (202) 741-6030, or go to <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+              Table 2.--Material Incorporated by Reference
+------------------------------------------------------------------------
+                                  Revision
+       Service  Bulletin           level                Date
+------------------------------------------------------------------------
+A330-53-3013...................         03  December 23, 1999.
+A330-53-3014...................         05  June 20, 2003.
+A340-53-4021...................         05  January 27, 2003.
+A340-53-4022...................         05  June 16, 2003.
+------------------------------------------------------------------------
+
+
+    Issued in Renton, Washington, on September 9, 2005.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 05-18522 Filed 9-20-05; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

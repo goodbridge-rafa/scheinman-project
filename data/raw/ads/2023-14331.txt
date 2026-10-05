@@ -1,0 +1,421 @@
+<html>
+<head>
+<title>Federal Register, Volume 88 Issue 129 (Friday, July 7, 2023)</title>
+</head>
+<body><pre>
+[Federal Register Volume 88, Number 129 (Friday, July 7, 2023)]
+[Rules and Regulations]
+[Pages 43253-43256]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2023-14331]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-0157; Project Identifier AD-2022-01309-T; 
+Amendment 39-22466; AD 2023-12-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain The Boeing Company Model 747-8 series airplanes. This AD was 
+prompted by a report of stress corrosion cracking in certain stringers 
+and end stringer splice assemblies. This AD requires repetitive 
+inspections of the stringers and end stringer splice assemblies for any 
+crack, shim, or gap, and applicable on-condition actions. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective August 11, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of August 11, 
+2023.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2023-0157; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57,
+
+[[Page 43254]]
+
+Seal Beach, CA 90740-5600; telephone 562-797-1717; website 
+<a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    <bullet> You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available at 
+<a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2023-0157.
+
+FOR FURTHER INFORMATION CONTACT: Stefanie N. Roesli, Aviation Safety 
+Engineer, FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: 
+206-231-3964; email: <a href="/cdn-cgi/l/email-protection#3c6f48595a5d5255591272126e53594f50557c5a5d5d125b534a"><span class="__cf_email__" data-cfemail="6132150407000f08044f2f4f330e04120d08210700004f060e17">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain The Boeing 
+Company Model 747-8 series airplanes. The NPRM published in the Federal 
+Register on February 15, 2023 (88 FR 9773). The NPRM was prompted by a 
+report indicating cracks found on end stringers of two Model 747-8 
+airplanes at station (STA) 2285, left and right sides, during foreign 
+object debris (FOD) inspections in preparation for airplane 
+modification. The cracks were not visually detectable until the 
+stringer splice assemblies were removed. The root cause was found to be 
+stress corrosion cracking caused by excessive and sustained internal 
+tensile stresses that were due to no shim being installed or shimmed 
+gaps exceeding engineering limits at production. In the NPRM, the FAA 
+proposed to require repetitive inspections of the stringers and end 
+stringer splice assemblies for any crack, shim, or gap, and applicable 
+on-condition actions. The FAA is issuing this AD to prevent cracks in a 
+stringer or end stringer splice assembly increasing in length and going 
+undetected. This condition, if not addressed, could result in the 
+inability of a structural element to sustain limit load and could 
+adversely affect the structural integrity of the airplane.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comment from The Boeing Company who supported 
+the NPRM without change.
+    The FAA received an additional comment from an individual 
+commenter. The following presents the comment received on the NPRM and 
+the FAA's response to the comment.
+
+Request for Root Cause of Stress Corrosion Cracks (SCCs)
+
+    The individual commenter requested if Boeing provided heat 
+treatment specification as a root cause of SCCs and the quality process 
+for verification of SCC nucleation was within their shelf life. The 
+individual indicated a larger production deficiency for an airplane 
+that has been out of production, and stated that this unsafe condition 
+should not be treated as widespread fatigue damage.
+    During the root-cause investigation to determine the appropriate 
+corrective actions, the FAA considered material changes and evaluated 
+the manufacturing and assembly process. This evaluation would have 
+included any necessary changes to treatment specifications and quality 
+inspections. The FAA has not changed this AD.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, this 
+AD is adopted as proposed in the NPRM. None of the changes will 
+increase the economic burden on any operator.
+
+Clarification of Terminating Action
+
+    Boeing Alert Requirements Bulletin 747-53A2909 RB, dated September 
+21, 2022, contains a terminating action flagnote (b) in Tables 1 
+through 4 of the Accomplishment Instructions that specifies ``Doing the 
+detailed and High Frequency Eddy Current (HFEC) inspections and finding 
+no crack as a result of the inspection is terminating action to 
+Requirements Bulletin 747-53A2909 RB for that affected end stringer 
+splice assembly.'' However, the flagnote ``(b)'' is located with 
+certain conditions in Tables 1 through 4 and appears to be 
+contradictory in certain locations, e.g., ``Condition 8.2: No crack 
+found as a result of option 2 inspections'' specifies to do repetitive 
+inspections; however the option 2 inspections are the detailed and HFEC 
+inspections, which the flagnote specifies is terminating action. The 
+FAA has clarified the terminating action in paragraphs (g)(1) through 
+(4) of this AD to confirm that no action is required for an end 
+stringer splice assembly on which no cracking is found after the 
+specified option 2 inspections are done.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin 747-53A2909 RB, 
+dated September 21, 2022. This service information specifies procedures 
+for repetitive detailed inspections of the stringers and the end 
+stringer splice assemblies at stringers S-17 to S-25 from STA 2285 to 
+STA 2300 main entry door #5 cutout aft edge frame for any crack, any 
+shim between a stringer and bear strap, and any gap within the 
+fastener-joint-to-bear-strap joint, and applicable on-condition 
+actions. On-condition actions include detailed inspections of the 
+stringers and end stringers splice assemblies located between STA 2285 
+and STA 2300 from stringers S-17L to S-25L/S-17R to S-25R, open hole 
+high HFEC inspection of the fastener holes of the skin common to the 
+end stringer splice fitting for cracks, and repair of cracked stringer/
+end stringer splice fittings.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in ADDRESSES.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 2 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+             Action                     Labor cost           Parts cost     Cost per product       operators
+----------------------------------------------------------------------------------------------------------------
+Detailed Inspection (S-17L to S- 4 work-hours x $85 per               $0   $340 per            $680 per
+ 25L) and (S-17R to S-25R).       hour = $340 per                           inspection cycle.   inspection
+                                  inspection cycle.                                             cycle.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 43255]]
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of the 
+proposed inspection. The agency has no way of determining which, if 
+any, of the affected airplanes might need these on-condition actions:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                   Action                                 Labor cost                Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Detailed Inspection and Open Hole HFEC       54 work-hours x $85 per hour =                   $0          $4,590
+ Inspection per side.                         $4,590.
+Repair of cracked stringer/end stringer      13 work-hours x $85 per hour =                  600           1,705
+ splice fitting.                              $1,105.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this AD may be covered under warranty, thereby reducing the cost impact 
+on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2023-12-08 The Boeing Company: Amendment 39-22466; Docket No. FAA-
+2023-0157; Project Identifier AD-2022-01309-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 11, 2023.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 747-8 series 
+airplanes, certificated in any category, as identified in Boeing 
+Alert Requirements Bulletin 747-53A2909 RB, dated September 21, 
+2022.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+ (e) Unsafe Condition
+
+    This AD was prompted by a report of stress corrosion cracking in 
+the stringers and end stringer splice assemblies located between 
+station (STA) 2285 and STA 2300 from stringers S-17 to S-25 on the 
+left and right sides of the airplane caused by excessive and 
+sustained internal tensile stresses that were due to no shim being 
+installed or shimmed gaps exceeding engineering limits at 
+production. A crack in a stringer or end stringer splice assembly 
+could grow in length and go undetected. The unsafe condition, if not 
+addressed, could result in the inability of a structural element to 
+sustain limit load and could adversely affect the structural 
+integrity of the airplane.
+
+ (f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+ (g) Required Actions
+
+    Except as specified by paragraph (h) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin 747-53A2909 RB, dated September 21, 
+2022, do all applicable actions identified in, and in accordance 
+with, the Accomplishment Instructions of Boeing Alert Requirements 
+Bulletin 747-53A2909 RB, dated September 21, 2022. For this AD, 
+terminating action for certain end stringer springer splice 
+assemblies are specified in paragraphs (g)(1) through (4) of this 
+AD.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+747-53A2909, dated September 21, 2022, which is referred to in 
+Boeing Alert Requirements Bulletin 747-53A2909 RB, dated September 
+21, 2022.
+    (1) For any end stringer splice assembly on which no cracking is 
+found after accomplishing CONDITION 3 (OPTION 2) (ACTION 1) and 
+CONDITION 3 (OPTION 2) (ACTION 2) inspections specified in Table 1 
+of the Accomplishment Instruction of Boeing Alert Requirements 
+Bulletin 747-53A2909 RB, dated September 21, 2022, no further action 
+is required by this AD for that end stringer splice assembly.
+    (2) For any end stringer splice assembly on which no cracking is 
+found after accomplishing CONDITION 6 (OPTION 2) (ACTION 1) and 
+CONDITION 6 (OPTION 2) (ACTION 2) inspections specified in Table 2 
+of the Accomplishment Instruction of Boeing Alert Requirements 
+Bulletin 747-53A2909 RB, dated September 21, 2022, no further action 
+is required by this AD for that end stringer splice assembly.
+    (3) For any end stringer splice assembly on which no cracking is 
+found after accomplishing CONDITION 8 (OPTION 2) (ACTION 1) and 
+CONDITION 8 (OPTION 2) (ACTION 2) inspections specified in Table 3 
+of the Accomplishment Instruction of Boeing Alert Requirements 
+Bulletin 747-53A2909 RB, dated September 21, 2022, no further action 
+is required by this AD for that end stringer splice assembly.
+    (4) For any end stringer splice assembly on which no cracking is 
+found after accomplishing CONDITION 10 (OPTION 2)
+
+[[Page 43256]]
+
+(ACTION 1) and CONDITION 10 (OPTION 2) (ACTION 2) inspections 
+specified in Table 4 of the Accomplishment Instruction of Boeing 
+Alert Requirements Bulletin 747-53A2909 RB, dated September 21, 
+2022, no further action is required by this AD for that end stringer 
+splice assembly.
+
+ (h) Exceptions to Service Information Specifications
+
+    (1) Where the Compliance Time column and certain notes of the 
+tables in the ``Compliance'' paragraph of Boeing Alert Requirements 
+Bulletin 747-53A2909 RB, dated September 21, 2022, use the phrase 
+``the original issue date of Requirements Bulletin 747-53A2909 RB,'' 
+this AD requires using ``the effective date of this AD.''
+    (2) Where Boeing Alert Requirements Bulletin 747-53A2909 RB, 
+dated September 21, 2022, specifies contacting Boeing for repair 
+instructions: This AD requires doing the repair using a method 
+approved in accordance with the procedures specified in paragraph 
+(i) of this AD.
+
+ (i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Continued Operational Safety Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the manager of the certification office, send it to the attention of 
+the person identified in paragraph (j) of this AD. Information may 
+be emailed to: <a href="/cdn-cgi/l/email-protection#221b0f636c6f0f71474356564e470f63616d0f636f6d610f7047535747515651624443430c454d54"><span class="__cf_email__" data-cfemail="665f4b27282b4b35030712120a034b2725294b272b29254b34031713031512152600070748010910">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, 
+Continued Operational Safety Branch, FAA, to make those findings. To 
+be approved, the repair method, modification deviation, or 
+alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+ (j) Related Information
+
+    For more information about this AD, contact Stefanie N. Roesli, 
+Aviation Safety Engineer, FAA, 2200 South 216th Street, Des Moines, 
+WA 98198; phone: 206-231-3964; email: <a href="/cdn-cgi/l/email-protection#386b4c5d5e5956515d1676166a575d4b5451785e5959165f574e"><span class="__cf_email__" data-cfemail="0556716063646b6c602b4b2b576a6076696c456364642b626a73">[email&#160;protected]</span></a>.
+
+ (k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Requirements Bulletin 747-53A2909 RB, dated 
+September 21, 2022.
+    (ii) [Reserved]
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Contractual & Data Services 
+(C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-
+5600; telephone 562-797-1717; website <a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    (4) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability 
+of this material at the FAA, call 206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, <a href="/cdn-cgi/l/email-protection#7214005c1b1c01021711061b1d1c321c1300135c151d04"><span class="__cf_email__" data-cfemail="eb8d99c58285989b8e889f828485ab858a998ac58c849d">[email&#160;protected]</span></a>, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on June 13, 2023.
+Michael Linegang,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2023-14331 Filed 7-6-23; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

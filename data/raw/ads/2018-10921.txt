@@ -1,0 +1,415 @@
+<html>
+<head>
+<title>Federal Register, Volume 83 Issue 100 (Wednesday, May 23, 2018)</title>
+</head>
+<body><pre>
+[Federal Register Volume 83, Number 100 (Wednesday, May 23, 2018)]
+[Rules and Regulations]
+[Pages 23778-23780]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2018-10921]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-3883; Product Identifier 2014-SW-029-AD; Amendment 
+39-19289; AD 2018-11-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for Airbus 
+Helicopters Model AS332L2 and EC225LP helicopters. This AD requires 
+installing a cut-out for the left-hand (LH) and right-hand (RH) rail 
+support junction profiles and inspecting splices, frame 5295, and 
+related equipment for a crack. This AD was prompted by reports of 
+cracks on frame 5295 and on splices installed to prevent those cracks. 
+The actions of this AD are intended to prevent an unsafe condition on 
+these products.
+
+DATES: This AD is effective June 27, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain documents listed in this AD as of June 27, 2018.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus Helicopters, Inc., 2701 N Forum Drive, Grand Prairie, TX 
+75052; telephone (972) 641-0000 or (800) 232-0323; fax (972) 641-3775; 
+or at <a href="http://www.airbushelicopters.com/techpub">http://www.airbushelicopters.com/techpub</a>. You may review the 
+referenced service information at the FAA, Office of the Regional 
+Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, Fort 
+Worth, TX 76177. It is also available on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+3883.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+3883; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD, the European Aviation Safety Agency (EASA) AD, any 
+incorporated-by-reference service information, the economic evaluation, 
+any comments received, and other information. The street address for 
+Docket Operations (phone: 800-647-5527) is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Gary Roach, Aviation Safety Engineer, 
+Regulations & Policy Section, Rotorcraft Standards Branch, FAA, 10101 
+Hillwood Pkwy., Fort Worth, TX 76177; telephone (817) 222-5110; email 
+<a href="/cdn-cgi/l/email-protection#791e180b00571b570b16181a11391f1818571e160f"><span class="__cf_email__" data-cfemail="20474152590e420e524f414348604641410e474f56">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    On January 5, 2016, at 81 FR 191, the Federal Register published 
+our notice of proposed rulemaking (NPRM), which proposed to amend 14 
+CFR part 39 by adding an AD that would apply to Model AS332L2 and Model 
+EC225LP helicopters with an extended aluminum splice installed on frame 
+5295. The NPRM proposed to require installing a cut-out for the LH and 
+RH rail support junction profiles and inspecting splices, frame 5295, 
+and related equipment for a crack. The proposed requirements were 
+intended to detect a crack in frame 5295, which could lead to 
+structural failure of the frame and loss of control of the helicopter.
+    The NPRM was prompted by AD No. 2014-0098-E, dated April 25, 2014, 
+issued by EASA, which is the Technical Agent for the Member States of 
+the European Union, to correct an unsafe condition for Model AS332L2 
+and EC225LP helicopters. EASA AD No. 2014-0098-E applies to helicopters 
+with a frame 5295 that have been reinforced by installing aluminium 
+splices on the RH and LH fuselage external skins. EASA advises of a 
+report of a crack that initiated on a splice in an area hidden by the 
+overlapping junction profile of the cabin sliding door rail support and 
+then spread to the frame.
+    EASA states that a crack in frame 5295, if not detected and 
+corrected, could lead to loss of structural integrity of the helicopter 
+frame and subsequent loss of control of the helicopter. To address this 
+condition, EASA issued AD No. 2014-0098-E to require repetitive 
+inspections of the splices for a crack, as well as cutting out the rail 
+support junction profiles to provide a convenient access to identify 
+cracks in a splice.
+    Since the NPRM was issued, the FAA's Aircraft Certification Service 
+has changed its organizational structure. The new structure replaces 
+product directorates with functional divisions. We have revised some of 
+the office titles and nomenclature throughout this Final rule to 
+reflect the new organizational changes. Additional information about 
+the new structure can be found in the Notice published on July 25, 2017 
+(82 FR 34564).
+
+Comments
+
+    After our NPRM was published, we received comments from a commenter 
+who raised three issues.
+
+Request
+
+    The commenter requested that we revise the applicability of the AD 
+to exempt helicopters that are ``post mod 07 26493 or RDAS 332-1284-
+13.''
+    We partially agree. Modification (MOD) 0726493 or repair design 
+approval sheet (RDAS) 332-1284-13 specify installing a stainless steel 
+doubler to reduce stress in the splice and frame, thereby eliminating 
+the unsafe condition. We disagree with exempting ``post mod'' 
+helicopters, however, as the stainless steel doubler could be removed 
+(subjecting the helicopter again to the unsafe condition) and the 
+helicopter would still be in a ``post mod'' configuration. Instead, we 
+have changed the applicability to exempt helicopters with the steel 
+splice kit installed that pertains to MOD 0726493.
+    The commenter requested that we revise the compliance time of the 
+AD to include the flow charts from the Airbus Helicopters service 
+information. The commenter states that this information would explain 
+the steps involved to operators to eliminate the unsafe condition. The 
+commenter also requested that we clarify the compliance times as 
+discussed in the preamble of the NPRM, because they appear different 
+from those in the service information and the EASA AD.
+    We disagree. The commenter is correct that the compliance times in 
+our AD are different, in some measure, to those in the EASA AD. But the 
+compliance times in the AD are clear as written. The requested change 
+is unnecessary.
+
+[[Page 23779]]
+
+    The commenter requested that we withdraw the AD because all 
+helicopters in the U.S. fleet have either installed the cut-out or are 
+scheduled for installation of the cut-out.
+    We disagree. The FAA has determined that an unsafe condition 
+exists. AD action is required to mandate corrective action for this 
+unsafe condition. In addition, if additional helicopters are imported 
+into the United States, AD action is necessary to require that those 
+helicopters accomplish the corrective actions before operating in this 
+country.
+
+FAA's Determination
+
+    These helicopters have been approved by the aviation authority of 
+France and are approved for operation in the United States. Pursuant to 
+our bilateral agreement with France, EASA, its technical 
+representative, has notified us of the unsafe condition described in 
+the EASA AD. We are issuing this AD because we evaluated all 
+information provided by EASA, reviewed the relevant information, 
+considered the comments received, and determined the unsafe condition 
+exists and is likely to exist or develop on other helicopters of these 
+same type designs and that air safety and the public interest require 
+adopting the AD requirements as proposed with the change described 
+previously and with a revision to the estimated costs of complying with 
+this AD. These changes are consistent with the intent of the proposals 
+in the NPRM and will not increase the economic burden on any operator 
+nor increase the scope of the AD.
+
+Differences Between This AD and the EASA AD
+
+    The EASA AD requires contacting Airbus Helicopters if there is a 
+crack in the affected parts. This AD makes no such requirement.
+    The EASA AD sets various timelines for repairing affected parts if 
+a crack exists. This AD requires repairing affected parts before 
+further flight if a crack exists.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Airbus Helicopters Alert Service Bulletin (ASB) No. 
+EC225-05A038 for Model EC225LP helicopters and ASB No. AS332-05.00.97 
+for Model AS332L2 helicopters. The ASBs, both Revision 0 and both dated 
+April 15, 2014, report cracks were found in the splice and frame 5295 
+on a Model AS332L2 helicopter during a major inspection. The splice had 
+been added in compliance with MOD 0726517. Had an optional rail support 
+cut-out been accomplished on the aircraft to allow for a visual check 
+of the splice for frame 5295, it would have revealed the crack in the 
+splice, prompting its repair and consequently limiting the damage to 
+frame 5295. As a result, the ASBs call for the rail support cut-out on 
+the RH and LH side of the frame as well as periodic visual inspections 
+of frame 5295 and related equipment.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Other Related Service Information
+
+    We reviewed Eurocopter Helicopters (now Airbus Helicopters) Service 
+Bulletin (SB) No. 53-003, Revision 4, for Model EC225LP helicopters and 
+SB No. 53.01.52, Revision 5, for Model AS332L2 helicopters, both dated 
+July 23, 2010. The SBs specify procedures to reinforce frame 5295 by 
+installing a new titanium plate underneath the fitting and a new 
+widened aluminum splice below the upper corner of the door. We also 
+reviewed Airbus Helicopters SB No. 05-019, Revision 4, dated September 
+22, 2014, for Model EC225LP helicopters, which proposes that you cut 
+out the junction profiles to perform periodic visual inspections.
+
+Costs of Compliance
+
+    We estimate that this AD affects 4 helicopters of U.S. Registry. We 
+estimate that operators may incur the following costs in order to 
+comply with this AD. Labor costs average $85 a work-hour. Based on 
+these estimates, we expect the following costs:
+    Installing the cut-outs on frame 5295 requires 40 work-hours for a 
+labor cost of $3,400. Parts cost $5,000 for total cost per helicopter 
+of $8,400 and $33,600 for the U.S. fleet.
+    Inspecting helicopter frame 5295 requires 2 work-hours for a labor 
+cost of $170 per helicopter. No parts are needed for a total U.S. fleet 
+cost of $680 per inspection cycle.
+    Repairing a splice requires 40 work-hours and a parts cost of 
+$5,000 for a total cost of $8,400 per helicopter.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on helicopters identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979);
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction; and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared an economic evaluation of the estimated costs to comply 
+with this AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2018-11-01 Airbus Helicopters: Amendment 39-19289; Docket No. FAA-
+2015-3883; Product Identifier 2014-SW-029-AD.
+
+[[Page 23780]]
+
+(a) Applicability
+
+    This AD applies to Model AS332L2 and Model EC225LP helicopters, 
+certificated in any category, with an extended aluminum splice 
+installed on frame 5295, except helicopters with steel splice kit 
+part number 332A08-2649-3072 installed.
+
+    Note 1 to paragraph (a) of this AD: Helicopters with 
+Modification (MOD) 0726517 have an extended aluminum splice 
+installed.
+
+(b) Unsafe Condition
+
+    This AD defines the unsafe condition as a crack on helicopter 
+frame 5295. This condition could result in structural failure of the 
+frame and subsequent loss of control of the helicopter.
+
+(c) Effective Date
+
+    This AD becomes effective June 27, 2018.
+
+(d) Compliance
+
+    You are responsible for performing each action required by this 
+AD within the specified compliance time unless it has already been 
+accomplished prior to that time.
+
+(e) Required Actions
+
+    (1) Before a splice reaches 1,700 hours time-in-service (TIS), 
+within 50 hours TIS, or before the helicopter reaches 11,950 hours 
+TIS, whichever occurs later, do the following:
+    (i) Install the rail support cut-out and identify the right-hand 
+and left-hand junction profile in accordance with the Accomplishment 
+Instructions, paragraph 3.B.2, of Airbus Helicopters Alert Service 
+Bulletin (ASB) No. EC225-05A038, Revision 0, dated April 15, 2014 
+(ASB EC225-05A038), or ASB No. AS332-05.00.97, Revision 0, dated 
+April 15, 2014 (ASB AS332-05.00.97), whichever is applicable to your 
+helicopter.
+    (ii) Inspect each splice for a crack in the area depicted as 
+Area Y in Figure 3 of ASB EC225-05A038 or ASB AS332-05.00.97, 
+whichever is applicable to your helicopter. If a crack exists, 
+repair or replace the splice before further flight.
+    (2) Thereafter at intervals not to exceed 110 hours TIS, inspect 
+each splice for a crack in the area depicted as Area Y in Figure 3 
+of ASB EC225-05A038 or ASB AS332-05.00.97. If a crack exists, repair 
+or replace the splice before further flight.
+
+(f) Credit for Actions Previously Completed
+
+    Installing rail support cut-outs in accordance with MOD 0728090 
+or Airbus Helicopters Service Bulletin No. 05-019, Revision 4, dated 
+September 22, 2014, before the effective date of this AD is 
+considered acceptable for compliance with the corresponding actions 
+specified in paragraph (e)(1)(i) of this AD.
+
+(g) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Safety Management Section, Rotorcraft Standards 
+Branch, FAA, may approve AMOCs for this AD. Send your proposal to: 
+Gary Roach, Aviation Safety Engineer, Regulations & Policy Section, 
+Rotorcraft Standards Branch, FAA, 10101 Hillwood Pkwy., Fort Worth, 
+TX 76177; telephone (817) 222-5110; email <a href="/cdn-cgi/l/email-protection#f9c0d4b8aaaed4bfadaed4b8b4b6bad4ab9c888c9c8a8d8ab99f9898d79e968f"><span class="__cf_email__" data-cfemail="aa9387ebf9fd87ecfefd87ebe7e5e987f8cfdbdfcfd9ded9eacccbcb84cdc5dc">[email&#160;protected]</span></a>.
+    (2) For operations conducted under a 14 CFR part 119 operating 
+certificate or under 14 CFR part 91, subpart K, we suggest that you 
+notify your principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office or 
+certificate holding district office, before operating any aircraft 
+complying with this AD through an AMOC.
+
+(h) Additional Information
+
+    (1) Airbus Helicopters Service Bulletin (SB) No. 05-019, 
+Revision 4, dated September 22, 2014, and Eurocopter Helicopters 
+(now Airbus Helicopters) SB No. 53-003, Revision 4, and SB No. 
+53.01.52, Revision 5, both dated July 23, 2010, which are not 
+incorporated by reference, contain additional information about the 
+subject of this AD. For service information identified in this AD, 
+contact Airbus Helicopters, Inc., 2701 N. Forum Drive, Grand 
+Prairie, TX 75052; telephone (972) 641-0000 or (800) 232-0323; fax 
+(972) 641-3775; or at <a href="http://www.airbushelicopters.com/techpub">http://www.airbushelicopters.com/techpub</a>. You 
+may view the referenced service information at the FAA, Office of 
+the Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 
+6N-321, Fort Worth, TX 76177.
+    (2) The subject of this AD is addressed in European Aviation 
+Safety Agency (EASA) AD No. 2014-0098-E, dated April 25, 2014. You 
+may view the EASA AD on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> 
+in Docket No. FAA-2015-3883.
+
+(i) Subject
+
+    Joint Aircraft Service Component (JASC) Code: 5310, Fuselage 
+Main, Structure.
+
+(j) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Airbus Helicopters Alert Service Bulletin No. EC225-05A038, 
+Revision 0, dated April 15, 2014.
+    (ii) Airbus Helicopters Alert Service Bulletin No. AS332-
+05.00.97, Revision 0, dated April 15, 2014.
+    (3) For Airbus Helicopters service information identified in 
+this AD, contact Airbus Helicopters, Inc., 2701 N. Forum Drive, 
+Grand Prairie, TX 75052; telephone (972) 641-0000 or (800) 232-0323; 
+fax (972) 641-3775; or at <a href="http://www.airbushelicopters.com/techpub">http://www.airbushelicopters.com/techpub</a>.
+    (4) You may view this service information at the FAA, Office of 
+the Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 
+6N-321, Fort Worth, TX 76177. For information on the availability of 
+this material at the FAA, call (817) 222-5110.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Fort Worth, Texas, on May 16, 2018.
+Scott A. Horn,
+Deputy Director for Regulatory Operations, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2018-10921 Filed 5-22-18; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

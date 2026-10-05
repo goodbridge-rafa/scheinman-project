@@ -1,0 +1,484 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 187 (Thursday, September 26, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 187 (Thursday, September 26, 2024)]
+[Rules and Regulations]
+[Pages 78785-78791]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-21921]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-0237; Project Identifier AD-2023-00491-R; 
+Amendment 39-22853; AD 2024-19-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Robinson Helicopter Company Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Robinson Helicopter Company Model R44 and R44 II helicopters. This AD 
+was prompted by reports of a fractured clutch shaft forward yoke (yoke) 
+on the main rotor (M/R) drive due to fatigue cracking. This AD requires 
+visually
+
+[[Page 78786]]
+
+inspecting a certain part-numbered flex plate assembly (flex plate) and 
+certain part-numbered yokes, including each flex plate bolt, and 
+depending on the inspection results, removing an affected part from 
+service and replacing an affected part with an airworthy part. This AD 
+also requires removing a certain part-numbered yoke from service after 
+accumulating a certain number of hours time-in-service (TIS) or a 
+certain number of years, or as an alternative to removing the part from 
+service, performing a 10x or higher power magnification visual 
+inspection and, if needed, a magnetic particle inspection. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective October 31, 2024.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2024-0237; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Related Material: For Robinson material identified in this AD, 
+contact Robinson Helicopter Company, Technical Support Department, 2901 
+Airport Drive, Torrance, CA 90505; phone: (310) 539-0508; fax: (310) 
+539-5198; email: <a href="/cdn-cgi/l/email-protection#24505715641845044c56414219" http: robinsonheli.com">robinsonheli.com</a>">ts1@<a href="http://robinsonheli.com">robinsonheli.com</a></a>; or at <a href="http://robinsonheli.com">robinsonheli.com</a>.
+
+FOR FURTHER INFORMATION CONTACT: Eric Moreland, Aviation Safety 
+Engineer, FAA, 3960 Paramount Boulevard, Lakewood, CA 90712; phone: 
+(562) 627-5364; email: <a href="/cdn-cgi/l/email-protection#befbccd7dd90ec90f3d1ccdbd2dfd0dafed8dfdf90d9d1c8"><span class="__cf_email__" data-cfemail="eeab9c878dc0bcc0a3819c8b828f808aae888f8fc0898198">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    After receiving a report of a failed yoke in the M/R drive system, 
+the FAA issued Special Airworthiness Information Bulletin AIR-22-08, 
+dated April 11, 2022 (SAIB) to remind owners and operators of any 
+Robinson Helicopter Company Model R44 helicopters of the importance of 
+adhering to existing inspection procedures in the applicable operating 
+handbooks and maintenance manuals. According to Robinson Helicopter 
+Company, the yoke had fractured due to fatigue cracking and improper 
+torque at the bolt hole and the yoke cross-section. After the FAA 
+issued the SAIB, Robinson Helicopter Company reported an additional 
+incident on a Model R44 helicopter where the yoke was fractured and 
+separated from the drive train, again due to fatigue cracks and 
+improper torquing.
+    Accordingly, the FAA issued a notice of proposed rulemaking (NPRM) 
+to amend 14 CFR part 39 by adding an AD that would apply to all 
+Robinson Helicopter Company Model R44 and R44 II helicopters. The NPRM 
+published in the Federal Register on February 28, 2024 (89 FR 14596). 
+In the NPRM, the FAA proposed to require visually inspecting a certain 
+part-numbered flex plate for any loose fasteners, cracks, fretting, 
+corrosion, wear, and to ensure that the washers are bonded to both 
+sides of the flex plate arms and depending on the inspection results, 
+removing the flex plate from service and replacing it with an airworthy 
+flex plate.
+    In the NPRM, the FAA also proposed to require visually inspecting 
+certain part-numbered yokes for any cracks, corrosion, and fretting, 
+and depending on the inspection results, removing the yoke from service 
+and replacing it with an airworthy yoke. Additionally, the FAA proposed 
+to require visually inspecting each yoke bolt for a torque stripe, 
+loose fastener, loose nut, and to determine if a certain part-numbered 
+nut and palnut are installed. If there are any missing torque stripes, 
+loose fasteners, loose nuts, or if certain nuts or palnuts are not 
+installed, the FAA proposed to require removing the associated yoke 
+from service and replacing it with an airworthy yoke.
+    Additionally in the NPRM, the FAA proposed to require removing from 
+service certain part-numbered yokes that have accumulated more than 12 
+years or 2,200 total hours TIS, whichever occurs first since first 
+installation on any helicopter, and replacing them with a certain-part-
+numbered yoke that has accumulated less than 2,200 total hours TIS or 
+12 years, whichever occurs first since first installation on any 
+helicopter. As an alternative to replacing any yoke that has 
+accumulated more than 12 years or 2,200 total hours TIS since first 
+installation on a helicopter, the FAA proposed to allow removing paint 
+from the yoke and using 10x or higher power magnifying glass to inspect 
+for any crack, seam, lap, shut, missing cadmium plating, or any flaw 
+which is open to the surface, and depending on the inspection results, 
+removing the yoke from service and replacing it with an airworthy yoke. 
+If the yoke is not replaced as a result of the alternate inspection, 
+the FAA proposed to require performing a magnetic particle inspection 
+of the yoke for any crack, seam, lap, shut, or any flaw which is open 
+to the surface, and depending on the inspection results, removing the 
+yoke from service and replacing with an airworthy yoke.
+    Finally, if the yoke is replaced as a result of the actions 
+required by the NPRM, the FAA proposed to require torquing each bolt, 
+nut, and palnut using the torque value information in Appendix 1 to the 
+proposed AD. The FAA is issuing this AD to address the unsafe condition 
+on these products.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from two commenters. The following 
+presents the comments received on the NPRM and the FAA's response to 
+each comment.
+
+Comment Supporting the NPRM
+
+    One individual commenter supported the NPRM without change.
+
+Comments Requesting Changes to the Required Actions
+
+    Request: Robinson Helicopter Company stated the 2,200 hours TIS 
+requirement to replace the affected part or to perform the magnetic 
+particle inspection in the proposed AD corresponds with the engine 
+overhaul, service life limit, and interval for additional maintenance. 
+However, Robinson Helicopter Company stated for Model R44 Cadet 
+helicopters, the hours TIS requirement to replace the affected part or 
+to perform the magnetic particle inspection is a 2,400 hours TIS 
+requirement because of that model's more restrictive operating 
+limitations on maximum takeoff weight and engine power. Therefore, 
+Robinson Helicopter Company requested the FAA increase the hours TIS 
+interval for the replacement of the affected part or the magnetic 
+particle inspection to 2,400 hours TIS for Model R44 Cadet helicopters 
+to allow the operator to coordinate the airworthiness directive 
+requirements with other mandatory maintenance requirements.
+    FAA Response: The FAA partially agrees with the request. The FAA 
+disagrees with revising this final rule to refer to Model R44 Cadet 
+helicopters because the ``Cadet'' is not a recognized type-certificated 
+model on the FAA type certificate data sheet. However, the FAA agrees 
+to allow Model R44 helicopters having serial numbers (S/N) 30001 and 
+subsequent (also known as ``Cadet'' helicopters) to have 2,400 hours 
+TIS to replace an affected part or to perform a magnetic particle 
+inspection. The FAA has revised paragraphs (g)(2) and (3) of
+
+[[Page 78787]]
+
+this final rule accordingly to reflect that Model R44 helicopters 
+having S/Ns 30001 and subsequent, on which a yoke replacement as 
+specified in this final rule was not accomplished is required to remove 
+that yoke from service and replace it with an airworthy yoke, prior to 
+the accumulation of 2,400 total hours TIS or within 12 years since 
+first installation, whichever occurs first.
+    Request: Robinson Helicopter Company stated paragraph (g)(3)(i) of 
+the proposed AD requires the yoke to be replaced if there is any 
+missing cadmium plating. Robinson Helicopter Company stated cadmium 
+plating provides corrosion protection without complete coverage and 
+also can be inadvertently removed during installation and removal of 
+hardware. Robinson Helicopter Company further stated that the 
+requirement to remove the yoke if there is any missing cadmium plating 
+will cause the unnecessary removal of many yokes. Therefore, Robinson 
+Helicopter Company requested the FAA add an exception for cadmium 
+plating and the removal of the yoke from service due to cadmium 
+plating.
+    FAA Response: The FAA agrees and has revised this AD accordingly by 
+not adopting the inspection and corrective actions associated with 
+cadmium plating proposed in the NPRM.
+    Request: Robinson Helicopter Company stated paragraph (g)(1)(iii) 
+of the proposed AD requires ensuring that nut part number (P/N) D210-6 
+and palnut P/N B330-19 are installed. Robinson stated that per type 
+design, only the two bolts on the flex plate assembly have palnut P/N 
+B330-19 installed. Robinson Helicopter Company stated the wording in 
+the proposed AD could cause some Model R44 helicopters to replace a 
+yoke unnecessarily. Robinson Helicopter Company requested the FAA 
+revise paragraph (g)(1)(iii) of the final rule to only apply to bolts 
+shared with the flex plate assembly. Robinson Helicopter Company 
+further stated it is possible some yokes do not have nut P/N D210-6 
+installed and would therefore also be subject to an unnecessary yoke 
+replacement. Robinson Helicopter Company requested the FAA revise the 
+wording of paragraph (g)(1)(iii) in the final rule to remove the 
+reference to nut P/N D210-6.
+    FAA Response: The FAA agrees with these requests and revised 
+paragraph (g)(1)(iii) of this AD to clarify that the inspection area is 
+only for the flex plate assembly bolts and to remove any references to 
+nut P/N D210-6.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, any 
+other changes described previously, and a clarification note added to 
+paragraph (g)(1)(i) of this final rule, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Related Material
+
+    The FAA reviewed Robinson Helicopter Company R44 Maintenance Manual 
+and Instructions for Continued Airworthiness, Volume 1, Chapter 2 and 
+Chapter 23, dated September 2023, which specifies procedures for 
+inspecting the yoke and flex plate of the M/R drive, removing paint, 
+applying torque, and performing a magnetic particle inspection. This 
+material also contains the information specified in Appendix 1 to this 
+AD, which specifies torque values, and Figure 1 to paragraph (g)(1) of 
+this AD, which depicts the areas for the flex plate inspection.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,725 helicopters of U.S. 
+registry. The FAA estimates the following costs to comply with this AD. 
+Labor costs are estimated at $85 per work-hour.
+    Visually inspecting a flex plate will take approximately 0.25 work-
+hour for an estimated cost of $21 per helicopter and $36,225 for the 
+U.S. fleet.
+    Visually inspecting a yoke, including inspecting each yoke bolt, 
+will take approximately 1.25 work-hours for an estimated cost of $106 
+per helicopter and $182,850 for the U.S. fleet.
+    Replacing a yoke will take approximately 6 work-hours and parts 
+will cost approximately $890 for an estimated cost of $1,400 per 
+helicopter.
+    Removing paint and inspecting a yoke using 10X or higher power 
+magnifying glass will take approximately 1.5 work-hours for an 
+estimated cost of $128 per helicopter.
+    Performing a magnetic particle inspection will take approximately 
+1.5 work-hours for an estimated cost of $128 per helicopter.
+    Applying torque to one bolt, nut, and palnut will take 
+approximately 1 work-hour for an estimated cost of $85 per hardware 
+set.
+    If required, replacing a flex plate will take approximately 1 work-
+hour and parts will cost approximately $1,240 for an estimated cost of 
+$1,325 per helicopter.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+[[Page 78788]]
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2024-19-11 Robinson Helicopter Company: Amendment 39-22853; Docket 
+No. FAA-2024-0237; Project Identifier AD-2023-00491-R.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective October 31, 2024.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Robinson Helicopter Company Model R44 and R44 
+II helicopters, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code: 6310, Engine/
+Transmission coupling.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of a fractured clutch shaft 
+forward yoke (yoke) on the main rotor (M/R) drive due to fatigue 
+cracking. The FAA is issuing this AD to detect fatigue cracking on 
+the yoke. The unsafe condition, if not addressed, could result in 
+loss of M/R drive and subsequent loss of control of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within 100 hours time-in-service (TIS) after the effective 
+date of this AD, accomplish the actions required by paragraphs 
+(g)(1)(i) through (iii) of this AD.
+    (i) Visually inspect forward flex plate assembly (flex plate) 
+part number (P/N) C947-1 for any loose fasteners, cracks, fretting, 
+corrosion, wear, and to ensure that the washers are bonded to both 
+sides of each flex plate arm, in the areas depicted in Figure 1 to 
+paragraph (g)(1)(i) of this AD. If there is any loose fastener (can 
+be moved by hand), crack, fretting, corrosion, or wear that consists 
+of the washers not securely bonded to both sides of each flex plate 
+arm, before further flight, remove the flex plate from service and 
+replace with an airworthy flex plate.
+    Note 1 to paragraph (g)(1)(i): The flex plate may be installed 
+in order to accomplish the visual inspection.
+    Figure 1 to Paragraph (g)(1)(i)--Flex Plate Inspection
+    [GRAPHIC] [TIFF OMITTED] TR26SE24.000
+    
+    (ii) Visually inspect yoke P/N C907-1 or C907-2, as applicable 
+to your model helicopter, and yoke P/N C908-1, for any cracks, 
+corrosion, and fretting. If there is any crack, corrosion, or 
+fretting, before further flight, remove the yoke from service and 
+replace it with an airworthy yoke, and torque each newly-installed 
+bolt, nut, and palnut using the torque value information in Appendix 
+1 to this AD.
+    (iii) Visually inspect each flex plate bolt for a torque stripe, 
+loose fastener, and a loose nut, and to ensure that palnut P/N B330-
+19 is installed. If there is a missing torque stripe, loose fastener 
+on any nut (can be moved by hand), or if any nut is loose (nut can 
+be turned by hand), or if palnut P/N B330-19 is not installed, 
+before further flight, remove the associated yoke from service and 
+replace it with an airworthy yoke, and torque each newly-installed 
+bolt, nut, and palnut using the torque value information in Appendix 
+1 to this AD.
+    (2) For Model R44 helicopters having serial number 0002, or 0004 
+through 9999 inclusive, except not 1140, and R44 II helicopters 
+having serial number 1140 or 10001 through 29999 inclusive on which 
+a yoke replacement as specified in paragraph (g)(1)(ii) or (iii) of 
+this AD was not accomplished: Prior to the accumulation of 2,200 
+total hours TIS on any yoke P/N C907-1 or C907-2 or within 12 years 
+since first installation of yoke P/N C907-1 or C907-2 on any 
+helicopter, whichever occurs first; or within 100 hours TIS after 
+the effective date of this AD; whichever occurs later, remove that 
+yoke from service and replace it with an airworthy yoke, and torque 
+each newly-installed bolt, nut, and palnut using the torque value 
+information in Appendix 1 to this AD.
+    (3) For Model R44 helicopters having serial number 30001 and 
+subsequent, on which a yoke replacement as specified in paragraph 
+(g)(1)(ii) or (iii) of this AD was not accomplished: Prior to the 
+accumulation of 2,400 total hours TIS on any yoke P/N C907-1 or 
+C907-2 or within 12 years since first installation of yoke P/N C907-
+1 or C907-2 on any helicopter, whichever occurs first; or within 100 
+hours TIS after the effective date of this AD; whichever occurs 
+later, remove that yoke from service and replace it with an 
+airworthy yoke, and torque each newly-installed bolt, nut, and 
+palnut using the
+
+[[Page 78789]]
+
+torque value information in Appendix 1 to this AD.
+    (4) As an alternative to removing the yoke from service as 
+required by paragraph (g)(2) or (3) of this AD as applicable, remove 
+yoke P/N C907-1 or C907-2, as applicable to your model helicopter, 
+remove the paint on the yoke using Cee-Bee stripper A-292, without 
+using a plastic media abrasive paint stripper, and accomplish 
+paragraphs (g)(4)(i) and (ii) of this AD, as applicable.
+    (i) Using 10X or higher power magnifying glass, visually inspect 
+the yoke for any crack, seam, lap, shut, and any flaw which is open 
+to the surface. If there is any crack, seam, lap, shut, or flaw, 
+before further flight, remove the yoke from service and replace it 
+with an airworthy yoke, and torque each newly-installed bolt, nut, 
+and palnut using the torque value information in Appendix 1 to this 
+AD.
+    (ii) If the yoke is not removed from service as a result of the 
+actions required by paragraph (g)(4)(i) of this AD, inspect it for 
+any crack, seam, lap, shut, or any flaw which is open to the surface 
+by performing a magnetic particle inspection using a method in 
+accordance with FAA-approved procedures. If there is any crack, 
+seam, lap, shut, or flaw, before further flight, remove the yoke 
+from service and replace with an airworthy yoke, and torque each 
+newly-installed bolt, nut, and palnut using the torque value 
+information in Appendix 1 to this AD.
+
+(h) Special Flight Permit
+
+    A one-time flight permit may be issued in accordance with 14 CFR 
+21.197 and 21.199 in order to fly to a maintenance area to perform 
+the required actions in this AD, provided there are no passengers 
+onboard.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, West Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the West Certification Branch, send it to 
+the attention of the person identified in paragraph (j) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#57161a18141731363679303821"><span class="__cf_email__" data-cfemail="16575b59555670777738717960">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Related Information
+
+    For more information about this AD, contact Eric Moreland, 
+Aviation Safety Engineer, FAA, 3960 Paramount Boulevard, Lakewood, 
+CA 90712; phone: (562) 627-5364; email: <a href="/cdn-cgi/l/email-protection#93d6e1faf0bdc1bddefce1f6fff2fdf7d3f5f2f2bdf4fce5"><span class="__cf_email__" data-cfemail="5411263d377a067a193b263138353a30143235357a333b22">[email&#160;protected]</span></a>.
+
+(k) Material Incorporated by Reference
+
+    None.
+    Appendix 1 to AD 2024-19-11
+BILLING CODE 4910-13-P
+
+[[Page 78790]]
+
+[GRAPHIC] [TIFF OMITTED] TR26SE24.001
+
+
+
+[[Page 78791]]
+
+
+    Issued on September 19, 2024.
+Victor Wicklund,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-21921 Filed 9-25-24; 8:45 am]
+BILLING CODE 4910-13-C
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

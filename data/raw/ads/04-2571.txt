@@ -1,0 +1,598 @@
+<html>
+<head>
+<title>Federal Register, Volume 69 Issue 28 (Wednesday, February 11, 2004)</title>
+</head>
+<body><pre>
+[Federal Register Volume 69, Number 28 (Wednesday, February 11, 2004)]
+[Rules and Regulations]
+[Pages 6542-6546]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 04-2571]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2001-NM-238-AD; Amendment 39-13453; AD 2004-03-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747-100, 747-100B, 747-
+100B SUD, 747-200B, 747-200F, 747-200C, 747-300, 747SR, and 747SP 
+Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to all Boeing Model 747-100, 747-100B, 747-100B SUD, 747-
+200B, 747-200F, 747-200C, 747-300, 747SR, and 747SP series airplanes. 
+This AD requires repetitive inspections for discrepancies of the 
+structure near and common to the upper chord and splice fittings of the 
+rear spar of the wing, and repair if necessary. This AD also provides 
+for an optional modification that, if accomplished, terminates the 
+repetitive inspection requirement, but would necessitate eventual post-
+modification inspections. This action is necessary to find and fix 
+fatigue cracking of structure near and common to the upper chord and 
+splice fittings of the rear spar of the wing, which could result in 
+loss of structural integrity of the airplane. This action is intended 
+to address the identified unsafe condition.
+
+DATES: Effective March 17, 2004.
+    The incorporation by reference of a certain publication listed in 
+the regulations is approved by the Director of the Federal Register as 
+of March 17, 2004.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Nick Kusz, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+917-6432; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to all Boeing Model 747-100, 747-
+100B, 747-100B SUD, 747-200B, 747-200F, 747-200C, 747-300, 747SR, and 
+747SP series airplanes was published in the Federal Register on June 
+18, 2003 (68 FR 36506). That action proposed to require repetitive 
+inspections for discrepancies of the structure near and common to the 
+upper chord and splice fittings of the rear spar of the wing, and 
+repair if necessary. That action also proposed to provide for an 
+optional modification that, if accomplished, would terminate the 
+repetitive inspection requirement, but would necessitate eventual post-
+modification inspections.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the single comment received.
+
+Request To Change Paragraph (c) of the Proposed AD
+
+    One commenter, the manufacturer, requests a change to paragraph (c) 
+of the proposed AD to state, ``If any cracking, corrosion, or damage is 
+found * * *'' rather than ``If any cracking is found * * *''. The 
+commenter states that corrosion is often present in bolt holes vacated 
+by alloy steel bolts, and that damage can occur during removal and 
+installation of bolts. The commenter also requests that paragraph (c) 
+be changed to reference ``Part 3--Inspection and Repair,'' of the 
+Accomplishment Instructions of Boeing Service Bulletin 747-57A2314, 
+Revision 1, dated January 9, 2003 (which is
+
+[[Page 6543]]
+
+referenced in the proposed AD as the appropriate source of service 
+information for the required actions) for the proposed repair for 
+cracked, corroded, and damaged fastener holes.
+    The FAA agrees. The comments clarify the types of discrepancies for 
+operators to look for and point out which part of the Accomplishment 
+Instructions of Boeing Service Bulletin 747-57A2314, Revision 1, dated 
+January 9, 2003, contains the necessary instructions for repair. We 
+have revised paragraph (c) of the final rule to include the requested 
+changes. For the same reason, we have added reference to paragraph (d) 
+of the final rule and Part 4 of the service bulletin.
+
+Request To Change Paragraph (d) of the Proposed AD
+
+    The same commenter requests a change to paragraph (d) of the 
+proposed AD to include a reference to the installation of new bushings, 
+as required. The request is intended to make the wording in the 
+proposed AD consistent with the wording in Boeing Service Bulletin 747-
+57A2314, Revision 1, dated January 9, 2003.
+    The FAA agrees. The comments clarify the type of modification that 
+is allowed in Boeing Service Bulletin 747-57A2314, Revision 1, dated 
+January 9, 2003. We have revised paragraph (d) of the final rule to 
+include the requested change.
+
+Request To Change Paragraph (e) of the Proposed AD to Reference H-11 
+Bolts
+
+    The same commenter requests that paragraph (e) of the proposed AD 
+include a reference to an ultrasonic or magnetic particle inspection of 
+removed H-11 bolts, and a reference to a detailed inspection of other 
+non H-11 removed bolts for cracking, corrosion, or damage. The 
+commenter states that a visual inspection of H-11 steel bolts is not 
+adequate for finding cracks in these bolts because H-11 bolts are 
+susceptible to stress corrosion cracking. The commenter further states 
+that it is necessary to find small cracks by non-destructive test (NDT) 
+methods before the cracks grow long enough to fracture the H-11 bolts 
+and cause the loss of shear load capability in the splices. The 
+commenter adds that a detailed visual inspection is adequate for 
+finding damage to titanium or Inconel bolts because these bolts are not 
+susceptible to stress corrosion cracking.
+    The FAA does not agree with the proposed changes to paragraph (e) 
+of the AD. Paragraph (e) requires inspections only after the 
+modification per paragraph (d) has been accomplished. Once the optional 
+modification in paragraph (d) of the AD is accomplished, all H-11 bolts 
+will have been replaced with updated Inconel bolts, thereby eliminating 
+the need for inspections of H-11 bolts. Therefore, we have determined 
+that no instructions referring to H-11 bolts in the post-modification 
+instructions are necessary. No change to the final rule is necessary on 
+this issue.
+
+Request To Change Paragraph (e)(2) of the Proposed AD to Refer to Part 
+5 of the Service Bulletin
+
+    The same commenter requests a change to paragraph (e)(2) of the 
+proposed AD to include a reference to Part 5 of Boeing Service Bulletin 
+747-57A2314, Revision 1, dated January 9, 2003, which contains 
+instructions for repairing cracked holes found during post modification 
+inspections.
+    The FAA agrees. The comments clarify where to find the repair 
+instructions in the Accomplishment Instructions of Boeing Service 
+Bulletin 747-57A2314, Revision 1, dated January 9, 2003. We have 
+revised paragraph (e)(2) of the final rule to include the requested 
+change.
+
+Request To Change Paragraph (f) of the Proposed AD
+
+    The same commenter requests that the FAA change paragraph (f) of 
+the proposed AD to include a reference to the original release of 
+Boeing Alert Service Bulletin 747-57A2314, dated June 28, 2001. The 
+purpose of the change would be to ensure that operators are aware that 
+inspections, repairs, or modifications accomplished before the 
+effective date of the proposed AD, per the original release or Revision 
+1 of the service bulletin are acceptable methods of compliance.
+    While the FAA agrees with the intent of the comment, we find that 
+paragraph (f) of the AD already provides for acceptable use of the 
+original release of the service bulletin. In addition, the AD implies 
+that actions accomplished previously per Revision 1 of the service 
+bulletin are acceptable because the proposed AD is written to address 
+the actions required by Boeing Service Bulletin 747-57A2314, Revision 
+1, dated January 9, 2003, which was inadvertently listed by the 
+commenter as having a date of June 28, 2001. Operators are given credit 
+for work previously performed by the means of the phrase in the 
+``Compliance'' section of the AD that states, ``Required as indicated, 
+unless accomplished previously.'' Therefore, in the case of this AD, if 
+the required inspections, repairs, or modifications have been 
+accomplished before the effective date of this AD, this AD does not 
+require that they be repeated. No change to the final rule is necessary 
+on this issue.
+
+Request To Change Paragraph (j) of the Proposed AD
+
+    The same commenter requests that the FAA include paragraph (e) of 
+the proposed AD in the list in paragraph (j) of the proposed AD. 
+Paragraph (j) of the proposed AD contains a list of paragraphs that are 
+excepted from the restriction on the installation of any alloy steel 
+bolt in any location specified in the proposed AD on any airplane 
+listed in the applicability of the proposed AD. The commenter states 
+that both paragraph (e) of the proposed AD and Figure 2, Table 3 of 
+Boeing Service Bulletin 747-57A2314, Revision 1, allow for re-
+installation of alloy steel bolts provided that they have been 
+inspected by ultrasonic or magnetic particle inspection and found to be 
+free of cracks, corrosion, or damage. The commenter states that the 
+requirement to replace undamaged H-11 alloy steel bolts will result in 
+unnecessary cost to the operators and will conflict with the service 
+bulletin. The commenter further states that airplanes may be 
+unnecessarily grounded by the lack of replacement Inconel bolts, which 
+are difficult to procure, and that the requirement would place an 
+economic burden on the manufacturer to maintain a large inventory of 
+replacement bolts.
+    In addition, the commenter states that the manufacturer has 
+received no reports of multiple H-11 bolt fractures in the splice at 
+the rear spar upper chord side of the body splice and upper surface 
+stringer 1. As a result, the commenter states, flight safety is 
+provided by existing maintenance. The commenter further states that 
+Boeing Service Bulletin 747-57A2314, Revision 1, dated January 9, 2003, 
+requires ultrasonic or magnetic particle inspection of the alloy steel 
+bolts during each repeat inspection of the bolt holes, and that the 
+bolts must be free of cracks before they can be re-installed in the 
+holes. According to the commenter, the repeat inspections every 6,000 
+to 13,000 flight cycles, and the replacement of the alloy steel bolts 
+with Inconel bolts during splice modification provide an additional 
+level of safety.
+    The FAA does not agree with this request to add paragraph (e) of 
+the proposed AD to the list of paragraphs that are excepted from the 
+restriction on the installation of any alloy steel bolt in paragraph 
+(j) of the proposed AD. In reaching this conclusion, we considered that 
+paragraph (e) does not allow for the re-installation of alloy steel (H-
+11) bolts because, in order for the post-
+
+[[Page 6544]]
+
+modification inspections of paragraph (e) to be necessary, the optional 
+modification of paragraph (d) must have been previously accomplished. 
+If the operators chooses to accomplish the optional modification of 
+paragraph (d), all alloy steel (H-11) bolts are required to be replaced 
+with Inconel bolts. Also, it is important that once the Inconel bolts 
+are installed as part of the modification, they are not replaced by 
+alloy steel (H-11) bolts in the future. No change to the final rule is 
+necessary on this issue.
+
+Explanation of Change Made to the Proposed AD
+
+    The FAA has changed all references to a ``Boeing Alert Service 
+Bulletin 747-57A2314, Revision 1'' in the proposed AD to ``Boeing 
+Service Bulletin 747-57A2314, Revision 1'' in this final rule. We have 
+also changed the paragraph (j) to refer to the H-11 bolt for clarity.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Changes to 14 CFR Part 39/Effect on the Proposed AD
+
+    On July 10, 2002, the FAA issued a new version of 14 CFR part 39 
+(67 FR 47997, July 22, 2002), which governs the FAA's airworthiness 
+directives system. The regulation now includes material that relates to 
+altered products, special flight permits, and alternative methods of 
+compliance. However, for clarity and consistency in this final rule, we 
+have retained the language of the NPRM regarding that material.
+
+Change to Labor Rate Estimate
+
+    We have reviewed the figures we have used over the past several 
+years to calculate AD costs to operators. To account for various 
+inflationary costs in the airline industry, we find it necessary to 
+increase the labor rate used in these calculations from $60 to $65 per 
+work hours. The cost impact information, below, reflects this increase 
+in the specified hourly labor rate.
+
+Cost Impact
+
+    There are approximately 593 airplanes of the affected design in the 
+worldwide fleet. The FAA estimates that 176 airplanes of U.S. registry 
+are affected by this AD.
+    It will take approximately 8 work hours per airplane to accomplish 
+the required inspection, at an average labor rate of $65 per work hour. 
+Based on these figures, the cost impact of the required inspection on 
+U.S. operators is estimated to be $91,520, or $520 per airplane, per 
+inspection cycle.
+    The cost impact figure discussed above is based on assumptions that 
+no operator has yet accomplished any of the requirements of this AD 
+action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+    Should an operator elect to accomplish the optional terminating 
+action that is provided by this AD action, it will take approximately 
+22 work hours to accomplish it, at an average labor rate of $65 per 
+work hour. The cost of required parts will be approximately $10,700 per 
+airplane. Based on these figures, the cost impact of the optional 
+terminating action will be approximately $12,130 per airplane.
+    If the optional terminating action provided by this AD action is 
+accomplished, an eventual post-modification inspection is necessary. 
+That inspection will take approximately 8 work hours per airplane to 
+accomplish, at an average labor rate of $65 per work hour. Based on 
+these figures, the cost impact of the post modification inspections 
+would be approximately $250 per airplane, per inspection cycle.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+0
+2. Section 39.13 is amended by adding the following new airworthiness 
+directive:
+
+2004-03-09 Boeing: Amendment 39-13453. Docket 2001-NM-238-AD.
+
+    Applicability: All Model 747-100, 747-100B, 747-100B SUD, 747-
+200B, 747-200F, 747-200C, 747-300, 747SR, and 747SP series 
+airplanes; certificated in any category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (k) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To find and fix fatigue cracking of structure near and common to 
+the upper chord and splice fittings of the rear spar of the wing, 
+which could result in loss of structural integrity of the airplane, 
+accomplish the following:
+
+Initial Inspections
+
+    (a) Perform inspections for discrepancies of the structure near 
+and common to the upper chord and splice fittings of the rear spar 
+of the wing, per Part 2 of the Accomplishment Instructions of Boeing 
+Service Bulletin 747-57A2314, Revision 1, dated January 9, 2003. The 
+inspection procedures include removing existing bolts; performing an 
+ultrasonic or
+
+[[Page 6545]]
+
+magnetic particle inspection for cracking of removed H-11 bolts; 
+performing a detailed inspection of all other removed bolts for 
+cracking, corrosion, or damage; replacing cracked, corroded, or 
+damaged bolts with new improved bolts; removing any installed repair 
+bushings; performing an open-hole high frequency eddy current (HFEC) 
+inspection for cracking of the bolt holes; installing new bushings, 
+if necessary; reinstalling bolts that are not cracked, corroded, or 
+damaged; torquing the nuts; performing a detailed inspection of the 
+shim between the kick fitting and bulkhead strap for cracking or 
+migration; and replacing the shim with a new shim if necessary, 
+except as provided by paragraph (h) of this AD. Do the initial 
+inspection at the time specified in paragraph (a)(1) or (a)(2) of 
+this AD, whichever is later.
+    (1) Inspect at the earlier of the applicable times specified in 
+the ``Flights'' and ``Hours'' columns under the heading ``Initial 
+Inspection Threshold'' in Table 1 of Figure 1 of the service 
+bulletin. Where the ``Initial Inspection Threshold'' column of Table 
+1 of Figure 1 of the service bulletin specifies ``flights'' and 
+``hours,'' for the purposes of this paragraph the numbers in that 
+column are considered to be the airplane's total flight cycles and 
+total flight hours.
+    (2) Inspect within 18 months after the effective date of this 
+AD.
+
+    Note 2: For the purposes of this AD, a detailed inspection is 
+defined as: ``An intensive visual examination of a specific 
+structural area, system, installation, or assembly to detect damage, 
+failure, or irregularity. Available lighting is normally 
+supplemented with a direct source of good lighting at intensity 
+deemed appropriate by the inspector. Inspection aids such as mirror, 
+magnifying lenses, etc., may be used. Surface cleaning and elaborate 
+access procedures may be required.''
+
+Repetitive Inspections
+
+    (b) Repeat the inspection required by paragraph (a) of this AD 
+at intervals not to exceed the earlier of the times specified in the 
+``Flights'' and ``Hours'' columns under the heading ``Repeat 
+Inspection Intervals'' in Table 1 of Figure 1 of Boeing Service 
+Bulletin 747-57A2314, Revision 1, dated January 9, 2003, until 
+paragraph (d) of this AD is accomplished. Where the ``Repeat 
+Inspection Intervals'' column of Table 1 of Figure 1 of the service 
+bulletin specifies ``flights'' and ``hours,'' for the purposes of 
+this paragraph, the figures in that column are considered to be the 
+number of flight cycles and flight hours from the time of the most 
+recent inspection per paragraph (a) or (b) of this AD, except as 
+provided by paragraph (g) of this AD.
+
+Repair
+
+    (c) If any cracking, corrosion, or damage is found during any 
+inspection required by paragraph (a), (b) or (d) of this AD, before 
+further flight, repair per Part 3 or 4 (as applicable) of the 
+Accomplishment Instructions of Boeing Service Bulletin 747-57A2314, 
+Revision 1, dated January 9, 2003, except as provided by paragraph 
+(h) of this AD.
+
+Optional Modification
+
+    (d) Accomplishment of the modification specified in Part 4 of 
+the Accomplishment Instructions of Boeing Service Bulletin 747-
+57A2314, Revision 1, dated January 9, 2003, constitutes terminating 
+action for the initial inspections required by paragraph (a) of this 
+AD and the repetitive inspections required by paragraph (b) of this 
+AD, provided that the repetitive post-modification inspections 
+required by paragraph (e) of this AD are initiated at the applicable 
+time. The modification procedures include removing installed repair 
+bushings, performing an open-hole HFEC inspection for cracking of 
+the bolt holes, repairing any cracking that is found, oversizing 
+bolt holes, and installing new bushings as required, and new 
+improved bolts.
+
+Post-Modification Inspections
+
+    (e) For airplanes on which the optional modification specified 
+in paragraph (d) of this AD is accomplished: At the earlier of the 
+times specified in the ``Flights'' and ``Hours'' columns under the 
+heading ``Post Modification Threshold'' in Table 2 of Figure 1 of 
+Boeing Service Bulletin 747-57A2314, Revision 1, dated January 9, 
+2003, perform a post-modification inspection per Part 5 of the 
+Accomplishment Instructions of Boeing Service Bulletin 747-57A2314, 
+Revision 1, dated January 9, 2003. The inspection procedures include 
+removing existing bolts; performing a detailed inspection of removed 
+bolts for cracking, corrosion, or damage; replacing cracked, 
+corroded, or damaged bolts with new bolts; removing any installed 
+repair bushings; performing an open-hole HFEC inspection for 
+cracking of the bolt holes; installing new bushings if necessary; 
+reinstalling bolts that are not cracked, corroded, or damaged; 
+torquing the nuts; performing a detailed inspection of the shim 
+between the kick fitting and bulkhead strap for cracking or 
+migration; and replacing the shim with a new shim if necessary; 
+except as provided by paragraph (h) of this AD. Where the ``Post 
+Modification Inspection Threshold'' column of Table 2 of Figure 1 of 
+the service bulletin specifies ``flights'' and ``hours,'' for the 
+purposes of this paragraph, the numbers in that column are 
+considered to be the flight cycles and flight hours after 
+accomplishment of the modification specified in paragraph (d) of 
+this AD.
+    (1) Repeat the inspection at intervals not to exceed the earlier 
+of the times specified in the ``Flights'' and ``Hours'' columns 
+under the heading ``Post Modification Repeat Inspection Intervals'' 
+in Table 2 of Figure 1 of the service bulletin. Where the ``Post 
+Modification Repeat Inspection Intervals'' column of Table 2 of 
+Figure 1 of the service bulletin specifies ``flights'' and 
+``hours,'' for the purposes of this paragraph, the numbers in that 
+column are considered to be the flight cycles and flight hours since 
+the most recent inspection per paragraph (e) or (e)(1) of this AD.
+    (2) If any cracking is found during any inspection required by 
+paragraph (e) or (e)(1) of this AD, before further flight, repair 
+per Part 5 of the Accomplishment Instructions of Boeing Service 
+Bulletin 747-57A2314, Revision 1, dated January 9, 2003, except as 
+provided by paragraph (h) of this AD.
+
+Actions Accomplished per Previous Issue of Service Bulletin
+
+    (f) Inspections, repairs, or modifications accomplished before 
+the effective date of this AD per Boeing Alert Service Bulletin 747-
+57A2314, including Appendix A and B, dated June 28, 2001, are 
+considered acceptable for compliance with the corresponding action 
+specified in this AD, except as provided by paragraph (h) of this 
+AD.
+    (g) As specified in Flag Note 1 of the logic diagram in Figure 1 
+of Boeing Service Bulletin 747-57A2314, Revision 1, dated January 9, 
+2003: An inspection accomplished before the effective date of this 
+AD per Figure 4, Step 14, of Boeing Service Bulletin 747-57-2110, 
+Revision 6, dated November 21, 1991; or Revision 7, dated April 23, 
+1998; is considered acceptable, as applicable, for compliance with 
+the initial inspection required by paragraph (a) of this AD. An 
+inspection accomplished before the effective date of this AD per 
+Figure 4, Step 9, of Boeing Service Bulletin 747-57-2110, Revision 
+3, dated February 19, 1987; Revision 4, dated May 26, 1988; and 
+Revision 5, dated October 26, 1989; is also considered acceptable, 
+as applicable, for compliance with the initial inspection required 
+by paragraph (a) of this AD. The first repeat inspection per 
+paragraph (b) of this AD must be accomplished at the applicable 
+interval established in paragraph (b) of this AD after the most 
+recent inspection per Figure 4, Step 14, of Boeing Service Bulletin 
+747-57-2110, Revision 6 or 7; or Figure 4, Step 9, of Boeing Service 
+Bulletin 747-57-2110, Revision 3, 4, or 5.
+
+Exception to Instructions in Service Bulletin
+
+    (h) Where Boeing Service Bulletin 747-57A2314, Revision 1, dated 
+January 9, 2003, specifies to contact Boeing for appropriate action, 
+before further flight, repair per a method approved by the Manager, 
+Seattle Aircraft Certification Office (ACO), or per data meeting the 
+type certification basis of the airplane approved by a Boeing 
+Company Designated Engineering Representative (DER) who has been 
+authorized by the Manager, Seattle ACO, to make such findings. For a 
+repair method to be approved, the approval must specifically 
+reference this AD.
+    (i) Although Appendix B of Boeing Service Bulletin 747-57A2314, 
+Revision 1, dated January 9, 2003, refers to a reporting 
+requirement, such reporting is not required by this AD.
+
+Parts Installation
+
+    (j) Except as provided by paragraphs (a) and (b) of this AD, as 
+of the effective date of this AD, no person may install any alloy 
+steel (H-11) bolt in any location specified in this AD on any 
+airplane listed in the applicability of this AD.
+
+Alternative Methods of Compliance
+
+    (k) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle ACO. Operators shall submit 
+their requests through an appropriate FAA Principal Maintenance 
+Inspector, who may add
+
+[[Page 6546]]
+
+comments and then send it to the Manager, Seattle ACO.
+
+    Note 3: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Seattle ACO.
+
+Special Flight Permits
+
+    (l) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (m) Unless otherwise specified in this AD, the actions shall be 
+done in accordance with Boeing Service Bulletin 747-57A2314, 
+Revision 1, dated January 9, 2003. This incorporation by reference 
+was approved by the Director of the Federal Register in accordance 
+with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from 
+Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 
+98124-2207. Copies may be inspected at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+Office of the Federal Register, 800 North Capitol Street, NW., suite 
+700, Washington, DC.
+
+Effective Date
+
+    (n) This amendment becomes effective on March 17, 2004.
+
+    Issued in Renton, Washington, on January 29, 2004.
+Kalene C. Yanamura,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 04-2571 Filed 2-10-04; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

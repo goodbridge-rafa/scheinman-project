@@ -1,0 +1,451 @@
+<html>
+<head>
+<title>Federal Register, Volume 70 Issue 96 (Thursday, May 19, 2005)</title>
+</head>
+<body><pre>
+[Federal Register Volume 70, Number 96 (Thursday, May 19, 2005)]
+[Rules and Regulations]
+[Pages 28797-28800]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 05-9875]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2003-NM-214-AD; Amendment 39-14094; AD 2005-10-17]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 777-200 and -300 Series 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Boeing Model 777-200 and -300 series airplanes, 
+that requires modification of the bolt holes of the lower side of the 
+body splice t-chord common to the paddle fittings of the lower wing 
+panel. The modification includes performing a high frequency eddy 
+current inspection of the fastener holes for cracks, repairing the hole 
+if necessary, and replacing the fasteners with new inconel bolts. This 
+action is necessary to prevent fatigue cracks in the lower t-chord at 
+the bolt holes common to the paddle fittings that could result in 
+fractures of one or more of the t-chord segments, which could lead to 
+detachment of the lower wing panel and consequent loss of the wing. 
+This action is intended to address the identified unsafe condition.
+
+DATES: Effective June 23, 2005.
+    The incorporation by reference of a certain publication listed in 
+the regulations is approved by the Director of the Federal Register as 
+of June 23, 2005.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington.
+
+FOR FURTHER INFORMATION CONTACT: Gary Oltman, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+917-6443; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain Boeing Model 777-200 and -
+300 series airplanes was published in the Federal Register on June 16, 
+2004 (69 FR 33595). That action proposed to require modification of the 
+bolt holes of the lower side of the body splice t-chord common to the 
+paddle fitting of the lower wing panel. The modification includes 
+performing a high frequency eddy current inspection of the fastener 
+hole for cracks, repairing the hole if necessary, and replacing the 
+fasteners with new inconel bolts.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Agreement With Proposed Modification
+
+    Two commenters generally agree with the proposal to mandate the 
+modification specified in the proposed AD instead of allowing an option 
+to accomplish repetitive inspections. One commenter notes that the work 
+hours needed to do the modification are comparable to the work hours 
+needed to do the inspection.
+
+Request To Revise Compliance Times Based on ``Sliding Scale'' Equation
+
+    One commenter, the manufacturer, requests that the compliance times 
+specified in paragraph (a) of the proposed AD be revised to be based on 
+a ``sliding scale'' equation. The commenter states that the ``sliding 
+scale'' equation determines compliance times based on an evaluation of 
+the total flight cycles associated with the total flight hours. The 
+commenter notes that the compliance times specified in paragraph (a) of 
+the proposed AD were found to be adversely affecting operators who use 
+airplanes on long missions. The commenter states that some airplanes 
+are reaching the 60,000 total flight-hour threshold before reaching 
+8,000 total flight cycles. The commenter further contends that the 
+cracks addressed in the proposed AD are largely a function of flight 
+cycles, not flight hours, and that, for these airplanes, the proposed 
+AD would mandate the modification before it is necessary.
+    We agree with the commenter to revise the compliance times 
+specified in paragraph (a) of the final rule. However, we do not agree 
+with the compliance time based on a ``sliding scale'' equation proposed 
+by the commenter. That proposed compliance time would expand the 
+compliance envelope for airplanes utilized on long missions but would 
+reduce the compliance time for airplanes near the 20,000 flight-cycle 
+and 60,000 flight-hour compliance envelope.
+    We held an ex-parte meeting with the commenter to discuss its 
+proposed compliance time. The commenter presented data in support of a 
+new ``sliding scale'' equation for the compliance time that differed 
+from the equation proposed in the manufacturer's comment. The new 
+proposed compliance time simply expanded the compliance time specified 
+in the proposed AD. The new data were accepted and subsequently 
+incorporated into Boeing Service Bulletin 777-57A0040, Revision 2, 
+dated February 24, 2005. Boeing Service Bulletin 777-57A0040, Revision 
+1, dated July 10, 2003, was referenced as the appropriate source of 
+service information for accomplishing the proposed actions. Revision 2 
+of the service bulletin contains the same actions for doing the 
+modification as Revision 1 of the service bulletin.
+    We have revised paragraph (a) of the final rule to reference 
+Revision 2 of the
+
+[[Page 28798]]
+
+service bulletin as the appropriate source of service information for 
+doing the actions, and we have revised paragraph (a)(1) of the final 
+rule to specify the compliance times in the service bulletin. The 
+service bulletin specifies the actions be done within approximately 
+20,000 total flight cycles, or 80,000 total flight hours, as shown in 
+Figure 1 of the service bulletin.
+    We have also revised the applicability of the final rule to 
+reference Revision 2 of the service bulletin. In addition, we added new 
+paragraph (c) of the final rule to allow credit for actions done in 
+accordance with Revision 1 of the service bulletin.
+
+Request To Increase the Flight Hour Compliance Time
+
+    Several commenters request that the flight-hour compliance time 
+specified in paragraph (a)(1) of the proposed AD be increased from 
+60,000 total flight hours to 65,000 total flight hours.
+    One commenter notes that, when its airplanes reach the 60,000 total 
+flight-hour threshold, the airplanes will have only 12,000 total flight 
+cycles, which is well below the 20,000 total flight-cycle threshold. 
+The commenter states that increasing the flight-hour compliance time 
+will allow accomplishing the modification at 65,000 total flight hours, 
+which leaves approximately 7,000 flight cycles remaining before 
+reaching the 20,000 total flight cycle threshold. The commenter also 
+points out that it concurs with Boeing that the premature 
+accomplishment of the modification would decrease the fatigue life of 
+the affected area. The commenter notes that an airplane's productive 
+life may be decreased if there is premature accomplishment of the 
+modification because fatigue cracks may occur earlier than on airplanes 
+that do not accomplish the modification prematurely. The commenter 
+contends that increasing the flight-hour threshold will prevent 
+premature accomplishment of the modification for airplanes having a low 
+number of flight cycles.
+    One other commenter states that the issue addressed by the proposed 
+AD is a fatigue concern and therefore the flight cycle compliance time 
+is more relevant than the flight-hour compliance time. The commenter 
+notes that Boeing is in agreement with the request to increase the 
+compliance time to 65,000 flight hours. The commenter states that 
+increasing the compliance time will allow it to accomplish the 
+modification during heavy maintenance visits instead of light 
+maintenance visits.
+    Another commenter states that further studies may show 
+justification for greater increases in the compliance times.
+    We do not agree with the commenters' request to increase the 
+flight-hour compliance time specified in paragraph (a)(1) of the final 
+rule to 65,000 flight hours. The commenters did not provide data to 
+substantiate that the change in compliance time would provide an 
+acceptable level of safety. In addition, the manufacturer determined 
+after further analysis that premature accomplishment of the 
+modification is not an issue. However, as stated previously in the 
+``Request to Revise Compliance Times Based on ``Sliding Scale'' 
+Equation'' paragraph, we have revised the compliance time specified in 
+paragraph (a)(1) of the final rule to refer to the compliance time 
+specified in Revision 2 of Boeing Service Bulletin 777-57A0040. The 
+revised compliance time extends the compliance time threshold for 
+certain airplanes.
+    In developing an appropriate compliance time for this action, we 
+considered the urgency associated with the subject unsafe condition, 
+the compliance times recommended by the manufacturer, and the practical 
+aspect of accomplishing the required modification within a period of 
+time that corresponds to the normal scheduled maintenance for most 
+affected operators. In addition, according to the provisions of 
+paragraph (d) of the final rule, we may approve requests to adjust the 
+compliance time if the request includes data that substantiate that the 
+new compliance time would provide an acceptable level of safety. No 
+change is made to this final rule in this regard.
+
+Request To Increase Flight Hour and Flight Cycle Compliance Time
+
+    One commenter requests that the compliance times specified in 
+paragraph (a)(1) of the proposed AD be revised to ``70,000 [total] 
+flight hours or 10,000 [total] flight cycles, whichever comes first.'' 
+The commenters state that this new compliance time would lessen the 
+impact on operators that use high flight hour airplanes.
+    We partially agree with the request to revise the compliance times 
+in paragraph (a)(1) of the final rule. The commenter did not provide 
+data to substantiate that reducing the flight cycle threshold and 
+increasing the flight hour threshold would provide an acceptable level 
+of safety, and therefore, we have not revised the final rule in this 
+regard. However, as stated previously in the ``Request to Revise 
+Compliance Times Based on ``Sliding Scale'' Equation'' paragraph, we 
+have revised the compliance time specified in paragraph (a)(1) of the 
+final rule to refer to the compliance time specified in Revision 2 of 
+Boeing Service Bulletin 777-57A0040. Airplanes having 70,000 total 
+flight hours and 10,000 total flight cycles would be compliant within 
+the compliance time specified in Revision 2.
+
+Request To Add Reference About the Early Accomplishment of the 
+Modification
+
+    One commenter states it is concerned that the proposed AD does not 
+include reference to flag note 2 of Figure 1 of Boeing Service Bulletin 
+777-57A0040, Revision 1, dated July 10, 2003, which states that ``the 
+full benefit of the modification will not be realized if the 
+modification is accomplished too early in the airplane life.'' The 
+commenter notes that, if the modification is done early and then cracks 
+are discovered later, there may be future regulatory action. The 
+commenter contends this would create an unnecessary burden to operators 
+that accomplish the actions in the proposed AD.
+    We infer from the commenter's statement that it requests that a 
+reference be added to the final rule regarding the early accomplishment 
+of the modification as specified in Revision 1 of the service bulletin. 
+However, as stated previously in the ``Request to Revise Compliance 
+Times Based on ``Sliding Scale'' Equation'' paragraph, Revision 2 of 
+the service bulletin is referenced as the appropriate source of service 
+information for accomplishing the required actions in the final rule. 
+Revision 2 of the service bulletin does not include flag note 2 of 
+Figure 1 from Revision 1 of the service bulletin. After the 
+manufacturer did further analysis, the manufacturer determined that the 
+note is not necessary. We have not revised the final rule in this 
+regard.
+
+Request To Revise the Cost Impact
+
+    One commenter states that actions specified in the proposed AD will 
+take 200 work hours and that the materials will cost $24,000, for a 
+total cost of $464,266 per airplane.
+    We infer from the commenter's statement that it requests that the 
+estimate be revised in the Cost Impact section of the final rule. We 
+partially agree with the commenter to revise the Cost Impact section of 
+the final rule. We have revised the work hour estimate in the final 
+rule from approximately 34 work hours per airplane to 68 work hours per 
+airplane. We do not agree to revise the work hour estimate to the 
+commenter's work hour estimate of 200 work hours per airplane. The work 
+hour
+
+[[Page 28799]]
+
+estimate in the final rule represents only the time necessary to 
+perform the specific actions actually required by the final rule. The 
+work hour estimate typically does not include incidental costs, such as 
+the time required to gain access and close up, planning time, or time 
+necessitated by other administrative actions. The commenter's estimate 
+of $24,000 for materials is within the range specified in the Cost 
+Impact section of the final rule, which specifies parts cost between 
+approximately $21,686 and $24,803. We have not made a change to the 
+parts cost estimate in the final rule in this regard.
+
+Changes to Delegation Authority
+
+    Boeing has received a Delegation Option Authorization (DOA). We 
+have revised this final rule to delegate the authority to approve an 
+alternative method of compliance for any repair required by this AD (if 
+specifically authorized) to the Authorized Representative for the 
+Boeing DOA Organization rather than the Designated Engineering 
+Representative (DER).
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, we have determined that air safety and the public interest 
+require the adoption of the rule with the changes previously described. 
+These changes will neither increase the economic burden on any operator 
+nor increase the scope of the AD.
+
+Cost Impact
+
+    There are approximately 262 airplanes of the affected design in the 
+worldwide fleet. The FAA estimates that 73 airplanes of U.S. registry 
+will be affected by this final rule, that it would take approximately 
+68 work hours per airplane to accomplish the required modification, and 
+that the average labor rate is $65 per work hour. Required parts will 
+cost between approximately $21,686 and $24,803 per airplane. Based on 
+these figures, the cost impact of the final rule on U.S. operators is 
+estimated to be between $1,905,738 and $2,133, 279, or between $26,106 
+and $29,223 per airplane.
+    The cost impact figure discussed above is based on assumptions that 
+no operator has yet accomplished any of the requirements of this AD 
+action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+
+Authority for This Rulemaking
+
+    The FAA's authority to issue rules regarding aviation safety is 
+found in Title 49 of the United States Code. Subtitle I, Section 106 
+describes the authority of the FAA Administrator. Subtitle VII, 
+Aviation Programs, describes in more detail the scope of the agency's 
+authority.
+    This rulemaking is promulgated under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this AD.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. Section 39.13 is amended by adding the following new airworthiness 
+directive:
+
+2005-10-17 Boeing: Amendment 39-14094. Docket 2003-NM-214-AD.
+
+    Applicability: Model 777-200 and -300 series airplanes, 
+certificated in any category, as identified in Boeing Service 
+Bulletin 777-57A0040, Revision 2, dated February 24, 2005.
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent fatigue cracks in the lower t-chord at the bolt holes 
+common to the paddle fittings that could result in fractures of one 
+or more of the t-chord segments, which could lead to detachment of 
+the lower wing panel and consequent loss of the wing, accomplish the 
+following:
+
+Modification of the Lower Paddle Fitting Bolt Holes/Fastener 
+Replacement
+
+    (a) At the later of the times specified in paragraphs (a)(1) and 
+(a)(2) of this AD, modify the bolt holes of the lower side of the 
+body splice t-chord common to the paddle fittings of the lower wing 
+panel (includes performing a high frequency eddy current inspection 
+of the fastener hole for cracks, repairing the hole if necessary, 
+and replacing the fasteners with new inconel bolts) by accomplishing 
+all of the actions specified in ``Part 2--Preventative 
+Modification'' of the Work Instructions of Boeing Service Bulletin 
+777-57A0040, Revision 2, dated February 24, 2005, except as provided 
+by paragraph (b) of this AD. Any applicable repair must be 
+accomplished before further flight.
+    (1) At the time specified in Figure 1 of the service bulletin. 
+Where the service bulletin refers to compliance times as flight 
+hours and flight cycles, this AD refers to the compliance times as 
+total flight hours and total flight cycles.
+    (2) Within 1,500 days or 8,000 flight cycles after the effective 
+date of this AD, whichever is first.
+    (b) If any crack is found during the modification required by 
+paragraph (a) of this AD, and the service bulletin specifies to 
+contact Boeing for additional instructions: Before further flight, 
+repair per a method approved by the Manager, Seattle Aircraft 
+Certification Office (ACO), FAA; or according to data meeting the 
+certification basis of the airplane approved by an Authorized 
+Representative for the Boeing Delegation Option Authorization 
+Organization who has been authorized by the Manager, Seattle ACO, to 
+make those findings. For a repair method to be approved, the repair 
+must meet the certification basis of the airplane, and the approval 
+must specifically refer to this AD.
+
+[[Page 28800]]
+
+Actions Accomplished According to Previous Issue of Service Bulletin
+
+    (c) Actions accomplished before the effective date of this AD 
+according to Boeing Service Bulletin 777-57A0040, Revision 1, dated 
+July 10, 2003, are considered acceptable for compliance with the 
+corresponding action specified in this AD.
+
+Alternative Methods of Compliance
+
+    (d) In accordance with 14 CFR 39.19, the Manager, Seattle ACO, 
+is authorized to approve alternative methods of compliance for this 
+AD.
+
+Incorporation by Reference
+
+    (e) Unless otherwise specified in this AD, the actions shall be 
+done in accordance with Boeing Service Bulletin 777-57A0040, 
+Revision 2, dated February 24, 2005. This incorporation by reference 
+was approved by the Director of the Federal Register in accordance 
+with 5 U.S.C. 552(a) and 1 CFR part 51. To get copies of the service 
+information, go to Boeing Commercial Airplanes, P.O. Box 3707, 
+Seattle, Washington 98124-2207. Copies may be inspected at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, 
+Washington; or at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+Effective Date
+
+    (f) This amendment becomes effective on June 23, 2005.
+
+    Issued in Renton, Washington, on May 9, 2005.
+Jeffrey E. Duven,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 05-9875 Filed 5-18-05; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

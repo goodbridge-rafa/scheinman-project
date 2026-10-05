@@ -1,0 +1,62 @@
+{
+ "date": "2026-08-30",
+ "events_total": 94,
+ "inputs": {
+  "lots": [
+   "data/facts/lot4-ads",
+   "data/facts/lot6-ads",
+   "data/facts/lot7-ads"
+  ],
+  "note": "double-agreed facts only; support requires the rule's quantity to be evidenced by the event's feature class",
+  "rules": "data/rules/seed_rules.json"
+ },
+ "support": {
+  "R-0001": {
+   "count": 2,
+   "documents": [
+    "00-4568",
+    "E7-9396"
+   ]
+  },
+  "R-0002": {
+   "count": 18,
+   "documents": [
+    "00-13445",
+    "00-4568",
+    "02-15937",
+    "03-6262",
+    "07-1106",
+    "07-1715",
+    "2012-18627",
+    "2012-28434",
+    "2016-05249",
+    "2016-23261",
+    "2016-31188",
+    "2017-01824",
+    "2022-10952",
+    "2023-10624",
+    "E7-9396",
+    "E8-9058",
+    "04-20205",
+    "2024-25977"
+   ]
+  },
+  "R-0003": {
+   "count": 0,
+   "documents": []
+  },
+  "R-0004": {
+   "count": 0,
+   "documents": []
+  },
+  "R-0005": {
+   "count": 4,
+   "documents": [
+    "01-26952",
+    "2013-10006",
+    "06-3061",
+    "2022-14490"
+   ]
+  }
+ }
+}

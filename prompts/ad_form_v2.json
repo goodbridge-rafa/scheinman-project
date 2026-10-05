@@ -1,0 +1,87 @@
+{
+  "comment": "Per-AD extraction form, v2. Closed vocabularies for category fields (an answer outside the list is rejected by the comparator); 'none_stated' is always an explicit answer; null means only 'could not read'. Every answered field carries the verbatim snippet that justifies it. 2026-09-03 (machine conference, relatorios/2026-09-03-conferencia-maquina.md): two question texts gained the rule they were missing (several damaged components; a bare material name is not an alloy designation). The allowed lists did not change. Lots lot4-ads, lot6-ads and lot7-ads were extracted under the previous wording and were NOT re-extracted; their records stand as the readers wrote them.",
+  "fields": [
+    {
+      "field_id": "alloy_as_stated",
+      "question": "The most specific alloy/temper designation the document names for the FAILING or affected structural part (e.g. '7075-T6', '7000 series aluminum alloy'). Verbatim. A bare material name with no series or temper (for example 'aluminum', 'steel', 'all metal') is NOT a designation: answer exactly 'none_stated'. If the document names no alloy, answer exactly 'none_stated'.",
+      "expected_unit": "text",
+      "kind": "text"
+    },
+    {
+      "field_id": "component_class",
+      "question": "The class of structural component where the damage was found. Choose EXACTLY one value from the allowed list. When the document reports damage in several components, choose the one the AD's required actions target most, and prefer a value from the list over 'other' whenever any damaged component named by the document fits a class. Use 'other' only when no damaged component named fits any class; 'none_stated' if the document names none.",
+      "expected_unit": "text",
+      "kind": "vocab",
+      "allowed": [
+        "wing_spar",
+        "fuselage_skin",
+        "floor_beam",
+        "frame",
+        "stringer",
+        "longeron",
+        "fitting",
+        "bulkhead",
+        "door",
+        "pylon",
+        "stabilizer",
+        "other",
+        "none_stated"
+      ]
+    },
+    {
+      "field_id": "feature_class",
+      "question": "The geometric feature class where the damage starts or that the required inspections target. Choose EXACTLY one value from the allowed list.",
+      "expected_unit": "text",
+      "kind": "vocab",
+      "allowed": [
+        "fastener_hole",
+        "weld_joint",
+        "radius_or_fillet",
+        "skin_panel",
+        "chord",
+        "web",
+        "lug",
+        "other",
+        "none_stated"
+      ]
+    },
+    {
+      "field_id": "mechanism_class",
+      "question": "The damage mechanism the document reports. Choose EXACTLY one value from the allowed list; use 'fracture_or_crack_unspecified' when cracking is reported without the word fatigue or another cause.",
+      "expected_unit": "text",
+      "kind": "vocab",
+      "allowed": [
+        "fatigue_cracking",
+        "stress_corrosion_cracking",
+        "corrosion",
+        "fracture_or_crack_unspecified",
+        "wear",
+        "other",
+        "none_stated"
+      ]
+    },
+    {
+      "field_id": "action_class",
+      "question": "Every class of corrective action the AD requires. Choose one or more values from the allowed list, joined by ';'.",
+      "expected_unit": "text",
+      "kind": "vocab_multi",
+      "allowed": [
+        "repetitive_inspection",
+        "one_time_inspection",
+        "replacement",
+        "modification",
+        "repair",
+        "inspection_program_revision",
+        "other",
+        "none_stated"
+      ]
+    },
+    {
+      "field_id": "supersedes",
+      "question": "Does the document supersede or amend a previous AD? Answer the exact identifier(s) as printed; answer exactly 'none' if the document states there is no affected/superseded AD; answer exactly 'none_stated' if the document contains no statement either way.",
+      "expected_unit": "text",
+      "kind": "text"
+    }
+  ],
+  "wording_version": "v2.1 (2026-09-03)"
+}

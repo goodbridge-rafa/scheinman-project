@@ -1,0 +1,476 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 105 (Wednesday, June 1, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 105 (Wednesday, June 1, 2022)]
+[Rules and Regulations]
+[Pages 32975-32978]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-11559]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-1003; Project Identifier MCAI-2020-00962-A; 
+Amendment 39-22059; AD 2022-11-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Viking Air Limited (Type Certificate 
+Previously Held by Bombardier Inc. and de Havilland, Inc.) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Viking Air Limited (Viking) (type certificate previously held by 
+Bombardier Inc. and de Havilland, Inc.) Model DHC-6-1, DHC-6-100, DHC-
+6-200, DHC-6-300, and DHC-6-400 airplanes. This AD results from 
+mandatory continuing airworthiness information (MCAI) originated by an 
+aviation authority of another country to identify and correct an unsafe 
+condition on an aviation product. The MCAI identifies the unsafe 
+condition as cracks and corrosion damage to the aileron internal 
+structure. This AD requires visually inspecting the entire aileron 
+internal structure, correcting any damage found, and reporting the 
+inspection results to Viking. The FAA is issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective July 6, 2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of July 6, 
+2022.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Viking Air Ltd., 1959 de Havilland Way, Sidney British 
+Columbia, Canada V8L 5V5; phone: (800) 663-8444; email: 
+<a href="/cdn-cgi/l/email-protection#7f1c10110b16110a161118511e160d08100d0b1716111a0c0c3f0916141611181e160d511c1012"><span class="__cf_email__" data-cfemail="c7a4a8a9b3aea9b2aea9a0e9a6aeb5b0a8b5b3afaea9a2b4b487b1aeacaea9a0a6aeb5e9a4a8aa">[email&#160;protected]</span></a>; website: <a href="https://www.vikingair.com">https://www.vikingair.com</a>. You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 901 Locust, 
+Kansas City, MO 64106. For information on the availability of this 
+material at the FAA, call (817) 222-5110. It is also available at 
+<a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. 
+FAA-2020-1003.
+
+Examining the AD Docket
+
+    You may examine the AD docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by 
+searching for and locating Docket No. FAA-2020-1003; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, the 
+MCAI, any comments received, and other information. The address for 
+Docket Operations is U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Deep Gaurav, Aviation Safety Engineer, 
+New York ACO Branch, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; phone: (516) 228-7300; email: <a href="/cdn-cgi/l/email-protection#dabebfbfaaf4bdbbafa8bbac9abcbbbbf4bdb5ac"><span class="__cf_email__" data-cfemail="adc9c8c8dd83caccd8dfccdbedcbcccc83cac2db">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Viking Model DHC-6-
+1, DHC-6-100, DHC-6-200, DHC-6-300, and DHC-6-400 airplanes. The NPRM 
+published in the Federal Register on January 21, 2022 (87 FR 3236). The 
+NPRM was prompted by MCAI from Transport Canada, which is the aviation 
+authority for Canada. Transport Canada issued AD CF-2020-05, dated 
+March 13, 2020 (referred to after this as ``the MCAI''), to correct an 
+unsafe condition on Viking Model DHC-6 series 1, DHC-6 series 100, DHC-
+6 series 110, DHC-6 series 200, DHC-6 series 210, DHC-6 series 300, 
+DHC-6 series 310, DHC-6 series 320, and DHC-6 series 400 airplanes. The 
+MCAI states:
+
+    Viking Air Ltd. (Viking) received reports of cracks and 
+corrosion damage to the aileron internal structure. During a repair 
+of an in-service aeroplane, an aileron hinge support rib was found 
+cracked at the lower flange along the bend radius near the hinge 
+fitting attachment at wing station 247.29. Preliminary investigation 
+by Viking determined that the observed crack was the result of 
+fatigue. During an inspection of another in-service aeroplane, the 
+aileron inboard rib and the vertical flange of the inboard aileron 
+forward spar near a fastener hole were also found cracked.
+    The current inspection requirements of the affected aeroplanes 
+do not include a direct inspection of the aileron internal 
+structure. Cracks or other damage to the aileron ribs or to the 
+aileron spar flanges are not detectable from the aileron exterior 
+surfaces. Undetected cracks or other damage to the aileron internal 
+structure could lead to progressive looseness of the aileron at the 
+hinge support rib push-pull rod attachment and subsequent flutter 
+condition and degraded or loss of aileron control.
+    To detect and correct any cracking or other damage to the 
+aileron internal structure, this [Transport Canada] AD mandates a 
+one-time Special Detailed Inspection (SDI) of all aileron internal 
+structure, including front and rear spars, all aileron ribs and 
+upper and lower skins for cracks, corrosion or other damage, and 
+rectification, as required, of the damaged parts.
+    This [Transport Canada] AD also mandates reporting of all 
+inspection results to Viking. The reporting of the inspection 
+results is necessary to assess the overall aileron internal 
+structural condition on in-service aeroplanes and to determine 
+additional corrective action based on the results of the 
+inspections.
+    Viking has published Service Bulletin (SB) V6/0066 Revision A, 
+dated 9 December 2019, (referred to as ``the SB'' in this [Transport 
+Canada] AD) providing accomplishment instructions for the 
+inspection, rectification of the damaged parts, and reporting 
+requirements.
+
+    You may examine the MCAI in the AD docket at https://
+
+[[Page 32976]]
+
+www.regulations.gov by searching for and locating Docket No. FAA-2020-
+1003.
+    In the NPRM, the FAA proposed to require visually inspecting the 
+entire aileron internal structure, correcting any damage found, and 
+reporting the inspection results to Viking. The FAA is issuing this AD 
+to prevent progressive looseness of the aileron at the hinge support 
+rib push-pull rod attachment, flutter condition, and degraded or loss 
+of aileron control, which could lead to loss of control of the 
+airplane.
+
+Ex Parte Contact
+
+    After the comment period closed, the FAA requested additional 
+information from Transport Canada and Viking about the factory drilled 
+drain holes in the ailerons. A summary of this discussion can be found 
+in the rulemaking docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a> in Docket No. 
+FAA-2020-1003.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comment from one commenter, Mile-Hi Skydiving 
+Center (Mile-Hi). The following presents the comment received on the 
+NPRM and the FAA's response.
+
+Request Regarding Related Service Information
+
+    Mile-Hi requested that Viking revise DHC-6 Twin Otter Service 
+Bulletin V6/0066, Revision A, dated December 9, 2019 (Viking SB V6/
+0066, Revision A), to provide instructions for enlarging the aileron 
+drain holes. Mile-Hi stated that the existing factory-drilled aileron 
+drain holes are \3/16\ inch (0.1875 inch) in diameter and are too small 
+to accommodate the borescope used at its facility, which has a diameter 
+of \1/4\ inch (0.232 inch). Mile-Hi concluded that the existing aileron 
+drain holes will need to be enlarged to accommodate any borescope for 
+the proposed inspection. Mile-Hi also requested follow-on actions such 
+as reducing the enlarged holes to the original size to prevent ingress 
+of nesting insects such as wasps or hornets and static balancing the 
+ailerons. As, in the NPRM, the FAA proposed to require inspecting the 
+aileron in accordance with steps in Viking SB V6/0066, Revision A, the 
+FAA infers that Mile-Hi is requesting that the FAA revise the proposed 
+AD to include these actions.
+    The FAA does not agree that this AD needs to mandate enlarging the 
+aileron drain holes. The FAA contacted Transport Canada and Viking to 
+obtain information on whether any other Model DHC-6 airplane operators 
+have had similar issues regarding the diameter of the existing aileron 
+drain holes. Viking advised that it has received approximately 170 
+service bulletin reply forms in response to Viking SB V6/0066, Revision 
+A, and operators have successfully done the borescope inspection with 
+no difficulty. In addition, Viking confirmed that the 0.1875-inch 
+diameter aileron drain hole size is standard per the Model DHC-6 
+airplane type design, and that commercially available borescope heads 
+fit into the standard-sized holes (as specified in the equipment list 
+in Section II.A.1 of Viking SB V6/0066, Revision A). Based on this 
+information, the FAA has determined that the borescope diameter is not 
+a fleet-wide issue that needs further attention.
+    The FAA acknowledges field repairs to replace the aileron skins 
+could have been completed on some airplanes where, during replacement, 
+the drain holes were omitted or manufactured undersized. If field 
+repairs have been done that prevent compliance with the inspection in 
+this AD, then the operator will need approval of an alternative method 
+of compliance. The FAA did not change this AD based on this comment.
+
+Conclusion
+
+    These products have been approved by the aviation authority of 
+another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, it has notified the FAA of the unsafe condition described in 
+the MCAI referenced above. The FAA reviewed the relevant data, 
+considered the comment received, and determined that air safety 
+requires adopting the AD as proposed. Accordingly, the FAA is issuing 
+this AD to address the unsafe condition on these products. This AD is 
+adopted as proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Viking DHC-6 Twin Otter Service Bulletin V6/0066, 
+Revision A, dated December 9, 2019. The service information specifies 
+procedures for visually inspecting the entire aileron internal 
+structure, including front and rear spars, all aileron ribs, and upper 
+and lower skins; repairing or replacing any damaged part; and reporting 
+inspection results to Viking Air Limited technical support. This 
+service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Other Related Service Information
+
+    The FAA also reviewed Viking DHC-6 Twin Otter Service Bulletin V6/
+0066, Revision NC, dated August 29, 2019. The service information 
+specifies procedures for visually inspecting the aileron ribs, 
+including ribs and both sides of the hinge arm; repairing or replacing 
+any damaged part; and reporting inspection results to Viking Air 
+Limited technical support.
+
+Interim Action
+
+    The FAA considers that this AD is an interim action. The inspection 
+reports will provide the FAA and Viking additional data for determining 
+the damage present in the fleet. After analyzing the data, the FAA may 
+take further rulemaking action.
+
+Differences Between This AD and the MCAI
+
+    The MCAI applies to Viking Air Limited Model DHC-6 series 110, DHC-
+6 series 210, DHC-6 series 310, and DHC-6 series 320, and this AD does 
+not because these models do not have an FAA type certificate. Model 
+DHC-6 series 1, DHC-6 series 100, DHC-6 series 200, DHC-6 series 300, 
+and DHC-6 series 400 airplanes specified in the MCAI correspond to FAA 
+Model DHC-6-1, DHC-6-100, DHC-6-200, DHC-6-300, and DHC-6-400 
+airplanes, respectively.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 33 airplanes of U.S. 
+registry. The FAA also estimates that it would take about 3 work-hours 
+per airplane to comply with the inspection and 1 work-hour to comply 
+with the reporting requirement of this AD. The average labor rate is 
+$85 per work-hour.
+    Based on these figures, the FAA estimates the cost of this AD on 
+U.S. operators will be $11,220 or $340 per airplane.
+    In addition, the FAA estimates that any necessary follow-on actions 
+to replace an aileron would take 6 work-hours and require parts costing 
+$52,243, for a cost of $52,753 per airplane. The FAA has no way of 
+determining the number of airplanes that may need these actions.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB
+
+[[Page 32977]]
+
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to take 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2022-11-09 Viking Air Limited (Type Certificate Previously Held by 
+Bombardier Inc. and de Havilland, Inc.): Amendment 39-22059; Docket 
+No. FAA-2020-1003; Project Identifier MCAI-2020-00962-A.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective July 6, 2022.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Viking Air Limited (type certificate 
+previously held by Bombardier Inc. and de Havilland, Inc.) Model 
+DHC-6-1, DHC-6-100, DHC-6-200, DHC-6-300, and DHC-6-400 airplanes, 
+all serial numbers, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5700, Wing 
+Structure.
+
+(e) Unsafe Condition
+
+    This AD was prompted by mandatory continuing airworthiness 
+information (MCAI) originated by an aviation authority of another 
+country to identify and correct an unsafe condition on an aviation 
+product. The MCAI identifies the unsafe condition as cracks and 
+corrosion damage to the aileron internal structure. The FAA is 
+issuing this AD to detect and correct cracks and other damage to the 
+aileron internal structure. The unsafe condition, if not addressed, 
+could result in progressive looseness of the aileron at the hinge 
+support rib push-pull rod attachment, flutter condition, and 
+degraded or loss of aileron control, which could lead to loss of 
+control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspection and Replacement of the Aileron
+
+    At the compliance time specified in paragraph (g)(1) or (2) of 
+this AD, inspect the left-hand (LH) and right-hand (RH) aileron 
+internal structures for cracks, corrosion, and other damage and take 
+any necessary corrective actions in accordance with the 
+Accomplishment Instructions, steps II.A. through II.A.3. of Viking 
+DHC-6 Twin Otter Service Bulletin V6/0066, Revision A, dated 
+December 9, 2019 (Viking SB V6/0066, Revision A).
+    (1) For each LH or RH aileron that has accumulated 16,000 or 
+more hours time-in-service (TIS), 32,000 or more flight cycles (FC), 
+or 10 or more years since first installation on an airplane, 
+whichever occurs first: Within 6 months after the effective date of 
+this AD.
+    (2) For each LH or RH aileron that has accumulated less than 
+16,000 hours TIS, less than 32,000 FC, and less than 10 years since 
+first installation on an airplane: Within 6 months after 
+accumulating 16,000 hours TIS, 32,000 FC, or 10 years, whichever 
+occurs first.
+
+(h) Reporting Requirement
+
+    Within 30 days after the inspection required by paragraph (g)(1) 
+or (2) of this AD or within 30 days after the effective date of this 
+AD, whichever occurs later, report to Viking the information 
+requested on the Inspection Reply Form, page 7, of Viking SB V6/
+0066, Revision A.
+
+(i) Credit for Previous Actions
+
+    You may take credit for the actions required by paragraphs 
+(g)(1) and (2) of this AD if you performed those actions before the 
+effective date of this AD using Viking DHC-6 Twin Otter Service 
+Bulletin V6/0066, Revision NC, dated August 29, 2019.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, New York ACO Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or local Flight Standards District 
+Office, as appropriate. If sending information directly to the 
+manager of the certification office, send it to the attention of the 
+person identified in paragraph (k)(1) of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(k) Related Information
+
+    (1) For more information about this AD, contact Deep Gaurav, 
+Aviation Safety Engineer, New York ACO Branch, FAA, 1600 Stewart 
+Avenue, Suite 410, Westbury, NY 11590; phone: (516) 228-7300; email: 
+<a href="/cdn-cgi/l/email-protection#a5c1c0c0d58bc2c4d0d7c4d3e5c3c4c48bc2cad3"><span class="__cf_email__" data-cfemail="e480818194ca838591968592a4828585ca838b92">[email&#160;protected]</span></a>.
+    (2) Refer to Transport Canada AD CF-2020-05, dated March 13, 
+2020, for more information. You may examine the Transport Canada AD 
+at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket 
+No. FAA-2020-1003.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference
+
+[[Page 32978]]
+
+(IBR) of the service information listed in this paragraph under 5 
+U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Viking DHC-6 Twin Otter Service Bulletin V6/0066, Revision 
+A, dated December 9, 2019.
+    (ii) [Reserved]
+    (3) For service information identified in this AD, contact 
+Viking Air Ltd., 1959 de Havilland Way, Sidney, British Columbia, 
+Canada V8L 5V5; phone: (800) 663-8444; email: 
+<a href="/cdn-cgi/l/email-protection#caa9a5a4bea3a4bfa3a4ade4aba3b8bda5b8bea2a3a4afb9b98abca3a1a3a4adaba3b8e4a9a5a7"><span class="__cf_email__" data-cfemail="e1828e8f95888f94888f86cf808893968e939589888f849292a197888a888f86808893cf828e8c">[email&#160;protected]</span></a>; website: <a href="https://www.vikingair.com">https://www.vikingair.com</a>.
+    (4) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 901 
+Locust, Kansas City, MO 64106. For information on the availability 
+of this material at the FAA, call (817) 222-5110.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email: <a href="/cdn-cgi/l/email-protection#caacb8e4a3a4b9baafa9bea3a5a48aa4abb8abe4ada5bc"><span class="__cf_email__" data-cfemail="3355411d5a5d40435650475a5c5d735d5241521d545c45">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on May 17, 2022.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2022-11559 Filed 5-31-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

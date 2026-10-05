@@ -1,0 +1,436 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 29 (Wednesday, February 12, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 29 (Wednesday, February 12, 2020)]
+[Rules and Regulations]
+[Pages 7857-7860]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-02718]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0720; Product Identifier 2019-NM-117-AD; Amendment 
+39-19831; AD 2020-02-19]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bombardier, Inc., Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2003-09-04 
+R1, which applied to certain Bombardier, Inc., Model CL-600-2B19 
+(Regional Jet series 100 & 440) airplanes. AD 2003-09-04 R1 required 
+revising the airworthiness limitations for certain structural 
+inspections; repair if necessary; and submission of inspection findings 
+to the airplane manufacturer. This AD revises the applicability to 
+include additional airplanes; revises certain compliance times; and 
+requires revising the existing maintenance or inspection program, as 
+applicable, to incorporate new or more restrictive airworthiness 
+limitations. This AD was prompted by a report of fatigue cracks 
+occurring on the pressure floor skin at fuselage stations (FS) 460 and 
+513. The FAA is issuing this AD to address the unsafe condition on 
+these products.
+
+DATES: This AD is effective March 18, 2020.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of March 18, 
+2020.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Bombardier, Inc., 400 C[ocirc]te-Vertu Road West, Dorval, 
+Qu[eacute]bec H4S 1Y9, Canada; Widebody Customer Response Center North 
+America toll-free telephone 1-866-538-1247 or direct-dial telephone 1-
+514-855-2999; fax 514-855-7401; email <a href="/cdn-cgi/l/email-protection#d7b6b4f9aea2bb97b6b2a5b8f9b5b8bab5b6a5b3beb2a5f9b4b8ba"><span class="__cf_email__" data-cfemail="5435377a2d2138143531263b7a363b39363526303d31267a373b39">[email&#160;protected]</span></a>; 
+internet <a href="https://www.bombardier.com">https://www.bombardier.com</a>. You may view this referenced 
+service information at the FAA, Transport Standards Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available on the 
+internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating 
+Docket No. FAA-2019-0720.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. FAA-2019-
+0720; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Andrea Jimenez, Aerospace Engineer, 
+Airframe and Mechanical Systems Section, FAA, New York ACO Branch, 1600 
+Stewart Avenue, Suite 410, Westbury, NY 11590; telephone 516-228-7330; 
+fax 516-794-5531; email <a href="/cdn-cgi/l/email-protection#132a3e7265603e7d6a72707c3e707c60537572723d747c65"><span class="__cf_email__" data-cfemail="7b42561a0d085615021a1814561814083b1d1a1a551c140d">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    Transport Canada Civil Aviation (TCCA), which is the aviation 
+authority for Canada, has issued Canadian AD CF-2002-39R2, dated August 
+15, 2019 (also referred to as the Mandatory Continuing Airworthiness 
+Information, or ``the MCAI''), to correct an unsafe condition for 
+certain Bombardier, Inc., Model CL-600-2B19 (Regional Jet series 100 & 
+440) airplanes. You may examine the MCAI in the AD docket on the 
+internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating 
+Docket No. FAA-2019-0720.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2003-09-04 R1, Amendment 39-13305 (68 FR 
+54985, September 22, 2003) (``AD 2003-09-04 R1''). AD 2003-09-04 R1 
+applied to certain Bombardier, Inc., Model CL-600-2B19 (Regional Jet 
+series 100 & 440) airplanes. The NPRM published in the Federal Register 
+on October 30, 2019 (84 FR 58062). The NPRM was prompted by a report of 
+fatigue cracks occurring on the pressure floor skin at FS 460 and 513. 
+The NPRM proposed to revise the applicability to include additional 
+airplanes; revise certain compliance times; and require revising the 
+existing maintenance or inspection program, as applicable, to 
+incorporate new or more restrictive airworthiness limitations. The FAA 
+is issuing this AD to address fatigue cracks, which could result in 
+failure of the pressure floor skin and consequent rapid decompression 
+of the airplane during flight. See the MCAI for additional background 
+information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comment received 
+on the NPRM and the FAA's response to each comment.
+
+Request To Revise Certain Language
+
+    SkyWest Airlines requested that the FAA revise certain language in 
+the proposed AD. SkyWest Airlines suggested that the wording in 
+paragraph (i)(2) of the proposed AD be revised to more closely match 
+the wording in paragraph (c)(2) of AD 2003-09-04 R1. SkyWest Airlines 
+noted that paragraph (i)(2) of the proposed AD states that new 
+airworthiness limitations and inspection requirements are to be 
+inserted into a Bombardier Temporary Revision, but Temporary Revisions 
+are issued and controlled by Bombardier. SkyWest Airlines stated that 
+it appears that the intent of paragraph (i)(2) of the proposed AD is to 
+track the additional airworthiness limitations and inspection 
+requirements introduced by the repair described in paragraph (i)(1) of 
+the proposed AD.
+    The FAA agrees to clarify. The FAA has revised paragraph (i) of 
+this AD to clarify that operators must comply with any repair 
+instructions, including any new airworthiness limitations and 
+inspection requirements, approved by the FAA, TCCA, or Bombardier, 
+Inc.'s TCCA Design Approval Organization (DAO). As part of this 
+clarification, the FAA revised the content that was in paragraph (i)(2) 
+of the proposed AD, combined the content of paragraph (i)(1) with the 
+revised content of paragraph (i)(2), and moved that combined content 
+into paragraph (i) of this AD (eliminating paragraphs (i)(1) and (2) of 
+the proposed AD).
+
+[[Page 7858]]
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comment 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the change described previously 
+and minor editorial changes. The FAA has determined that these minor 
+changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    The FAA also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    Bombardier has issued Bombardier CL-600-2B19 Temporary Revision 2B-
+2265, dated July 19, 2018, to Appendix B--Airworthiness Limitations, of 
+Part 2 of the Bombardier Maintenance Requirements Manual; and 
+Bombardier CL-600-2B19 Temporary Revision 2B-2266, dated July 19, 2018, 
+to Appendix B--Airworthiness Limitations, of Part 2 of the Bombardier 
+Maintenance Requirements Manual. These temporary revisions describe 
+airworthiness limitations for inspections of the pressure floor skin. 
+These documents are distinct since they describe different 
+airworthiness limitations.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD would affect 37 airplanes of U.S. 
+registry.
+    The FAA has determined that revising the maintenance or inspection 
+program takes an average of 90 work-hours per operator, although the 
+agency recognizes that this number may vary from operator to operator. 
+In the past, the agency has estimated that this action takes 1 work-
+hour per airplane. Since operators incorporate maintenance or 
+inspection program changes for their affected fleet(s), the FAA has 
+determined that a per-operator estimate is more accurate than a per-
+airplane estimate. Therefore, the agency estimates the average total 
+cost per operator to be $7,650 (90 work-hours x $85 per work-hour).
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2003-09-04 R1, Amendment 39-13305 (68 FR 54985, September 22, 2003), 
+and adding the following new AD:
+
+2020-02-19 Bombardier, Inc.: Amendment 39-19831; Docket No. FAA-
+2019-0720; Product Identifier 2019-NM-117-AD.
+
+(a) Effective Date
+
+    This AD is effective March 18, 2020.
+
+(b) Affected ADs
+
+    This AD replaces AD 2003-09-04 R1, Amendment 39-13305 (68 FR 
+54985, September 22, 2003) (``AD 2003-09-04 R1'').
+
+(c) Applicability
+
+    This AD applies to Bombardier, Inc., Model CL-600-2B19 (Regional 
+Jet series 100 & 440) airplanes, certificated in any category, 
+serial numbers 7003 through 8999 inclusive.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a report of fatigue cracks occurring on 
+the pressure floor skin at fuselage stations (FS) 460 and 513. The 
+FAA is issuing this AD to address such fatigue cracks, which could 
+result in failure of the pressure floor skin and consequent rapid 
+decompression of the airplane during flight.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Maintenance Program Revision for Serial Numbers 7003 through 8079
+
+    For airplane serial numbers 7003 through 8079 inclusive: Within 
+30 days from the effective date this AD, revise the existing 
+maintenance or inspection program, as applicable, by incorporating 
+the information specified in Airworthiness Limitations (AWL) task 
+number 53-41-149 specified in Bombardier CL-600-2B19 Airworthiness 
+Requirements Temporary Revision 2B-2265, dated July 19, 2018, to 
+Appendix B--Airworthiness Limitations, of Part 2 of the Bombardier 
+Maintenance Requirements Manual.
+    (1) The initial compliance time for doing the task is at the 
+time specified in figure 1 to paragraph (g)(1) of this AD, or within 
+90 days after the effective date of this AD, whichever occurs later.
+
+[[Page 7859]]
+
+[GRAPHIC] [TIFF OMITTED] TR12FE20.000
+
+    (2) For airplanes on which Bombardier Service Bulletin 601R-53-
+067, Bombardier Service Bulletin 601R-53-077, and AWL task number 
+53-41-194 have been done, the inspections in AWL task number 53-41-
+149 are not required in the areas covered by doublers at FS460 and 
+FS513.
+    (3) For airplanes on which the initial inspection has been 
+accomplished at 18,325 or more total flight cycles, and no cracks 
+were found, as of October 7, 2003 (the effective date of AD 2003-09-
+04), the repetitive interval of 10,000 flight cycles starts from the 
+completion date of the initial inspection.
+    (4) For airplanes that were previously inspected using AWL task 
+number 53-41-193, perform an inspection using the information 
+specified in AWL task number 53-41-149, provided in Bombardier CL-
+600-2B19 Airworthiness Requirements Temporary Revision 2B-2265, 
+dated July 19, 2018, to Appendix B--Airworthiness Limitations, of 
+Part 2 of the Bombardier Maintenance Requirements Manual, within 
+10,000 flight cycles from the previously accomplished inspection.
+
+(h) Maintenance Program Revision for Serial Numbers 8080 through 8999
+
+    (1) For airplane serial numbers 8080 through 8999 inclusive: 
+Within 30 days from the effective date of this AD, revise the 
+existing maintenance or inspection program, as applicable, by 
+incorporating the information specified in AWL task number 53-41-193 
+specified in Bombardier CL-600-2B19 Airworthiness Limitations 
+Temporary Revision 2B-2266, dated July 19, 2018, to Appendix B--
+Airworthiness Limitations, of Part 2 of the Bombardier Maintenance 
+Requirements Manual. Except as specified in paragraph (h)(2) of this 
+AD, the initial compliance time for doing the task is at the time 
+specified in Bombardier CL-600-2B19 Airworthiness Requirements 
+Temporary Revision 2B-2266, dated July 19, 2018, to Appendix B--
+Airworthiness Limitations, of Part 2 of the Bombardier Maintenance 
+Requirements Manual, or within 90 days after the effective date of 
+this AD, whichever occurs later.
+    (2) For airplanes that were previously inspected using AWL task 
+number 53-41-149, perform an inspection by incorporating the 
+information specified in AWL task number 53-41-193, provided in 
+Bombardier CL-600-2B19 Airworthiness Requirements Temporary Revision 
+2B-2265, dated July 19, 2018, to Appendix B--Airworthiness 
+Limitations, of Part 2 of the Bombardier Maintenance Requirements 
+Manual, within 10,000 flight cycles from the previously accomplished 
+inspection.
+
+(i) Corrective Actions
+
+    If any crack is found during any inspection required by this AD, 
+before further flight, repair using a method approved by the 
+Manager, New York ACO Branch, FAA; or Transport Canada Civil 
+Aviation (TCCA); or Bombardier, Inc.'s TCCA Design Approval 
+Organization (DAO), and accomplish any repair instructions, 
+including any new airworthiness limitations and inspection 
+requirements accordingly. If approved by the DAO, the approval must 
+include the DAO-authorized signature.
+
+(j) No Alternative Actions or Intervals
+
+    After the maintenance or inspection program has been revised as 
+required by paragraphs (g), (h), and (i) of this AD, as applicable, 
+no alternative actions (e.g., inspections) or intervals may be used 
+unless the actions or intervals are approved as an AMOC in 
+accordance with the procedures specified in paragraph (k)(1) of this 
+AD.
+
+(k) Other FAA AD Provisions
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, New 
+York ACO Branch, FAA, has the authority to approve AMOCs for this 
+AD, if requested using the procedures found in 14 CFR 39.19. In 
+accordance with 14 CFR 39.19, send your request to your principal 
+inspector or local Flight Standards District Office, as appropriate. 
+If sending information directly to the manager of the certification 
+office, send it to ATTN: Program Manager, Continuing Operational 
+Safety, FAA, New York ACO Branch, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; telephone 516-228-7300; fax 516-794-5531.
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+[[Page 7860]]
+
+    (ii) AMOCs approved previously for AD 2003-09-04 R1 are approved 
+as AMOCs for the corresponding provisions of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, New York ACO 
+Branch, FAA; or TCCA; or Bombardier, Inc.'s TCCA DAO. If approved by 
+the DAO, the approval must include the DAO-authorized signature.
+
+(l) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) Canadian AD CF-2002-39R2, dated August 15, 2019, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket 
+No. FAA-2019-0720.
+    (2) For more information about this AD, contact Andrea Jimenez, 
+Aerospace Engineer, Airframe and Mechanical Systems Section, FAA, 
+New York ACO Branch, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; telephone 516-228-7330; fax 516-794-5531; email <a href="/cdn-cgi/l/email-protection#fec7d39f888dd390879f9d91d39d918dbe989f9fd0999188"><span class="__cf_email__" data-cfemail="734a5e1205005e1d0a12101c5e101c00331512125d141c05">[email&#160;protected]</span></a>.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Bombardier CL-600-2B19 Maintenance Requirements Temporary 
+Revision 2B-2265, dated July 19, 2018, to Appendix B--Airworthiness 
+Limitations, of Part 2 of the Bombardier Maintenance Requirements 
+Manual.
+    (ii) Bombardier CL-600-2B19 Maintenance Requirements Temporary 
+Revision 2B-2266, dated July 19, 2018, to Appendix B--Airworthiness 
+Limitations, of Part 2 of the Bombardier Maintenance Requirements 
+Manual.
+    (3) For service information identified in this AD, contact 
+Bombardier, Inc., 400 C[ocirc]te-Vertu Road West, Dorval, 
+Qu[eacute]bec H4S 1Y9, Canada; Widebody Customer Response Center 
+North America toll-free telephone 1-866-538-1247 or direct-dial 
+telephone 1-514-855-2999; fax 514-855-7401; email 
+<a href="/cdn-cgi/l/email-protection#68090b46111d0428090d1a07460a07050a091a0c010d1a460b0705"><span class="__cf_email__" data-cfemail="badbd994c3cfd6fadbdfc8d594d8d5d7d8dbc8ded3dfc894d9d5d7">[email&#160;protected]</span></a>; internet <a href="https://www.bombardier.com">https://www.bombardier.com</a>.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email <a href="/cdn-cgi/l/email-protection#315754554354561f5d5456505d715f5043501f565e47"><span class="__cf_email__" data-cfemail="9ef8fbfaecfbf9b0f2fbf9fff2def0ffecffb0f9f1e8">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on January 27, 2020.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2020-02718 Filed 2-11-20; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

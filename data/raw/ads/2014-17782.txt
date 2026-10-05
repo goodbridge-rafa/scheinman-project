@@ -1,0 +1,515 @@
+<html>
+<head>
+<title>Federal Register, Volume 79 Issue 148 (Friday, August 1, 2014)</title>
+</head>
+<body><pre>
+[Federal Register Volume 79, Number 148 (Friday, August 1, 2014)]
+[Rules and Regulations]
+[Pages 44660-44663]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2014-17782]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2014-0486; Directorate Identifier 2014-NM-126-AD; 
+Amendment 39-17918; AD 2014-15-16]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A319-111, -112, -115, -132, and -133 airplanes; Model 
+A320-214, -232, and -233 airplanes; and Model A321-211, -231, and -232 
+airplanes. This AD requires a detailed inspection for missing fasteners 
+on the frame between certain stringers; for certain airplanes, a 
+rototest inspection of the fastener holes for cracking; and corrective 
+actions if necessary. This AD was prompted by a report that when the 
+cabin lining was removed during a cabin conversion it was discovered 
+that fasteners were missing on the frame. We are issuing this AD to 
+detect and correct missing fasteners which, if not corrected, could 
+affect the structural integrity of the airframe and could result in 
+rapid decompression.
+
+DATES: This AD becomes effective August 18, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of August 18, 
+2014.
+    We must receive comments on this AD by September 15, 2014.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the instructions for submitting comments.
+    <bullet> Fax: 202-493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+    <bullet> Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    For service information identified in this AD, contact Airbus, 
+Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email <a href="/cdn-cgi/l/email-protection#4f2e2c2c203a213b612e263d38203d3b27622a2e3c0f2e263d2d3a3c612c2022"><span class="__cf_email__" data-cfemail="86e7e5e5e9f3e8f2a8e7eff4f1e9f4f2eeabe3e7f5c6e7eff4e4f3f5a8e5e9eb">[email&#160;protected]</span></a>; Internet <a href="http://www.airbus.com">http://www.airbus.com</a>. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2014-
+0486; or in person at the Docket Operations office between 9 a.m. and 5 
+p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Operations office 
+(telephone 800-647-5527) is in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+Airworthiness Directive 2014-0146, dated June 11, 2014 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A319-111, -112, -115, -132, and -133 airplanes; Model A320-214, -232, 
+and -233 airplanes; and Model A321-211, -231, and -232 airplanes. The 
+MCAI states:
+
+    During cabin conversion of an A320 aeroplane, after removal of 
+the cabin lining, an area was discovered where fasteners were 
+missing at frame (FR) 24 between stringer (STR) 17 and STR18. 
+Investigation results revealed that the available data concerning 
+installation on the final assembly line was insufficient to pinpoint 
+the exact MSN [manufacturer serial number] on which the affected 
+assemblies were installed. However, a `group' of MSN suspected to be 
+affected was identified. Results of the static analysis performed 
+show that the structure is still able to sustain Limit and Ultimate 
+loads. However, the fatigue aspects indicate that long-term effects 
+can be expected.
+    This condition, if not corrected, could affect the structural 
+integrity of the airframe.
+    Prompted by these findings, Airbus issued Alert Operators 
+Transmission (AOT) A53N006-14 and Service Bulletin (SB) A320-53-1285 
+to provide inspection instructions.
+    For the reasons described above, this [EASA] AD requires a one-
+time detailed inspection (DET) [for missing fasteners] of the 
+aeroplane structure at FR24 and, depending on findings, [a rototest 
+inspection of the fastener holes for cracking and] accomplishment of 
+applicable corrective actions.
+
+Corrective actions include repairing cracking and installing fasteners.
+    You may examine the MCAI on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2014-
+0486.
+
+Relevant Service Information
+
+    Airbus has issued the following service information. The actions 
+described in this service information are intended to correct the 
+unsafe condition identified in the MCAI.
+
+<bullet> Alert Operators Transmission A53N006-14, dated May 13, 2014.
+<bullet> Service Bulletin A320-53-1285, dated January 29, 2014.
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are issuing this AD because we 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of these 
+same type designs.
+
+``Contacting the Manufacturer'' Paragraph in This AD
+
+    Since late 2006, we have included a standard paragraph titled 
+``Airworthy Product'' in all MCAI ADs in which the
+
+[[Page 44661]]
+
+FAA develops an AD based on a foreign authority's AD.
+    The MCAI or referenced service information in an FAA AD often 
+directs the owner/operator to contact the manufacturer for corrective 
+actions, such as a repair. Briefly, the Airworthy Product paragraph 
+allowed owners/operators to use corrective actions provided by the 
+manufacturer if those actions were FAA-approved. In addition, the 
+paragraph stated that any actions approved by the State of Design 
+Authority (or its delegated agent) are considered to be FAA-approved.
+    In an NPRM having Directorate Identifier 2012-NM-101-AD (78 FR 
+78285, December 26, 2013), we proposed to prevent the use of repairs 
+that were not specifically developed to correct the unsafe condition, 
+by requiring that the repair approval provided by the State of Design 
+Authority or its delegated agent specifically refer to the FAA AD. This 
+change was intended to clarify the method of compliance and to provide 
+operators with better visibility of repairs that are specifically 
+developed and approved to correct the unsafe condition. In addition, we 
+proposed to change the phrase ``its delegated agent'' to include a 
+design approval holder (DAH) with State of Design Authority design 
+organization approval (DOA), as applicable, to refer to a DAH 
+authorized to approve required repairs for the proposed AD.
+    One commenter to the NPRM having Directorate Identifier 2012-NM-
+101-AD (78 FR 78285, December 26, 2013), stated the following: ``The 
+proposed wording, being specific to repairs, eliminates the 
+interpretation that Airbus messages are acceptable for approving minor 
+deviations (corrective actions) needed during accomplishment of an AD 
+mandated Airbus service bulletin.''
+    This comment has made the FAA aware that some operators have 
+misunderstood or misinterpreted the Airworthy Product paragraph to 
+allow the owner/operator to use messages provided by the manufacturer 
+as approval of deviations during the accomplishment of an AD-mandated 
+action. The Airworthy Product paragraph does not approve messages or 
+other information provided by the manufacturer for deviations to the 
+requirements of the AD-mandated actions. The Airworthy Product 
+paragraph only addresses the requirement to contact the manufacturer 
+for corrective actions for the identified unsafe condition and does not 
+cover deviations from other AD requirements. However, deviations to AD-
+required actions are addressed in 14 CFR 39.17, and anyone may request 
+the approval for an alternative method of compliance to the AD-required 
+actions using the procedures found in 14 CFR 39.19.
+    To address this misunderstanding and misinterpretation of the 
+Airworthy Product paragraph, we have changed that paragraph and 
+retitled it ``Contacting the Manufacturer.'' This paragraph now 
+clarifies that for any requirement in this AD to obtain corrective 
+actions from a manufacturer, the action must be accomplished using a 
+method approved by the FAA, the European Aviation Safety Agency (EASA), 
+or Airbus's EASA DOA.
+    The Contacting the Manufacturer paragraph also clarifies that, if 
+approved by the DOA, the approval must include the DOA-authorized 
+signature. The DOA signature indicates that the data and information 
+contained in the document are EASA-approved, which is also FAA-
+approved. Messages and other information provided by the manufacturer 
+that do not contain the DOA-authorized signature approval are not EASA-
+approved, unless EASA directly approves the manufacturer's message or 
+other information.
+    This clarification does not remove flexibility previously afforded 
+by the Airworthy Product paragraph. Consistent with long-standing FAA 
+policy, such flexibility was never intended for required actions. This 
+is also consistent with the recommendation of the Airworthiness 
+Directive Implementation Aviation Rulemaking Committee to increase 
+flexibility in complying with ADs by identifying those actions in 
+manufacturers' service instructions that are ``Required for 
+Compliance'' with ADs. We continue to work with manufacturers to 
+implement this recommendation. But once we determine that an action is 
+required, any deviation from the requirement must be approved as an 
+alternative method of compliance.
+
+FAA's Determination of the Effective Date
+
+    An unsafe condition exists that requires the immediate adoption of 
+this AD. The FAA has found that the risk to the flying public justifies 
+waiving notice and comment prior to adoption of this rule because 
+missing fasteners on the frame may affect the structural integrity of 
+the circumferential joint, which might result in rapid decompression. 
+Therefore, we determined that notice and opportunity for public comment 
+before issuing this AD are impracticable and that good cause exists for 
+making this amendment effective in fewer than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-20**-*****; Directorate 
+Identifier 2014-NM-126-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD based on 
+those comments.
+    We will post all comments we receive, without change, to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 7 airplanes of U.S. registry.
+    We also estimate that it will take about 1 work-hour per product to 
+comply with the basic requirements of this AD. The average labor rate 
+is $85 per work-hour. Based on these figures, we estimate the cost of 
+this AD on U.S. operators to be $595, or $85 per product.
+    In addition, we estimate that any necessary follow-on actions will 
+take about 39 work-hours and require parts costing $0, for a cost of 
+$3,315 per product. We have no way of determining the number of 
+aircraft that might need these actions.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition repair specified in this AD.
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB control number. The control 
+number for the collection of information
+
+[[Page 44662]]
+
+required by this AD is 2120-0056. The paperwork cost associated with 
+this AD has been detailed in the Costs of Compliance section of this 
+document and includes time for reviewing instructions, as well as 
+completing and reviewing the collection of information. Therefore, all 
+reporting associated with this AD is mandatory. Comments concerning the 
+accuracy of this burden and suggestions for reducing the burden should 
+be directed to the FAA at 800 Independence Ave. SW., Washington, DC 
+20591, ATTN: Information Collection Clearance Officer, AES-200.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2014-15-16 Airbus: Amendment 39-17918. Docket No. FAA-2014-0486; 
+Directorate Identifier 2014-NM-126-AD.
+
+(a) Effective Date
+
+    This AD becomes effective August 18, 2014.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes identified in paragraphs 
+(c)(1), (c)(2), and (c)(3) of this AD, certificated in any category, 
+manufacturer serial numbers (MSN) 5230 through 5300 inclusive, 
+except MSN 5255 and 5295.
+    (1) Model A319-111, -112, -115, -132, and -133 airplanes.
+    (2) Model A320-214, -232, and -233 airplanes.
+    (3) Model A321-211, -231, and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a report that when the cabin lining was 
+removed during a cabin conversion it was discovered that fasteners 
+were missing on the frame. We are issuing this AD to detect and 
+correct missing fasteners which, if not corrected, could affect the 
+structural integrity of the airframe and could result in rapid 
+decompression.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Detailed Inspection
+
+    Within 60 flight cycles after the effective date of this AD: Do 
+a detailed inspection to determine if any fasteners are missing on 
+the structure at frame (FR) 24 between stringer (STR) 17 and STR 18 
+on the right side only, in accordance with the instructions in 
+Airbus Alert Operators Transmission A53N006-14, dated May 13, 2014.
+
+(h) Rototest Inspection and Corrective Actions
+
+    If, during the detailed inspection required by paragraph (g) of 
+this AD, any fastener is found missing: Before the accumulation of 
+3,300 flight cycles since the airplane's first flight, or within 60 
+flight cycles after the effective date of this AD, whichever occurs 
+later, do a rototest inspection of the fastener holes for cracking 
+and do all applicable corrective actions, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-53-1285, 
+dated January 29, 2014, except as required by paragraph (i) of this 
+AD. Do all applicable corrective actions before further flight.
+
+(i) Repair
+
+    If any crack is found during any inspection required by 
+paragraph (h) of this AD: Before further flight, repair using a 
+method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or the European Aviation Safety 
+Agency (EASA); or Airbus's EASA Design Organization Approval (DOA). 
+If approved by the DOA, the approval must include the DOA-authorized 
+signature.
+
+(j) Reporting Requirement
+
+    At the applicable time specified in paragraph (j)(1) or (j)(2) 
+of this AD, report both positive and negative results of the 
+inspections required by paragraphs (g) and (h) of this AD, as 
+applicable, to Airbus, Customer Services Engineering, Emeric Mevel, 
+Structure Engineer, Structure Engineering Support--SEES1, Customer 
+Services; telephone +33(0)5 67-19 02 41; fax +33(0) 5 61 93 36 14; 
+email <a href="/cdn-cgi/l/email-protection#0c6961697e656f2261697a69604c6d657e6e797f226f6361"><span class="__cf_email__" data-cfemail="4e2b232b3c272d60232b382b220e2f273c2c3b3d602d2123">[email&#160;protected]</span></a>. The report must include the 
+information specified in Figure A-FRAAA of Airbus Service Bulletin 
+A320-53-1285, dated January 29, 2014.
+    (1) If the inspection was done on or after the effective date of 
+this AD: Within 30 days after that inspection.
+    (2) If the inspection was done before the effective date of this 
+AD: Within 30 days after the effective date of this AD.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: <a href="/cdn-cgi/l/email-protection#ccf5e18d8281e1fdfdfae18d81838fe19e899d99899f989f8caaadade2aba3ba"><span class="__cf_email__" data-cfemail="350c18747b78180404031874787a76186770646070666166755354541b525a43">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding
+
+[[Page 44663]]
+
+district office. The AMOC approval letter must specifically 
+reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Reporting Requirements: A federal agency may not conduct or 
+sponsor, and a person is not required to respond to, nor shall a 
+person be subject to a penalty for failure to comply with a 
+collection of information subject to the requirements of the 
+Paperwork Reduction Act unless that collection of information 
+displays a current valid OMB Control Number. The OMB Control Number 
+for this information collection is 2120-0056. Public reporting for 
+this collection of information is estimated to be approximately 5 
+minutes per response, including the time for reviewing instructions, 
+completing and reviewing the collection of information. All 
+responses to this collection of information are mandatory. Comments 
+concerning the accuracy of this burden and suggestions for reducing 
+the burden should be directed to the FAA at: 800 Independence Ave. 
+SW., Washington, DC 20591, Attn: Information Collection Clearance 
+Officer, AES-200.
+
+(l) Related Information
+
+    Refer to Mandatory Continuing Airworthiness Information (MCAI) 
+EASA Airworthiness Directive 2014-0146, dated June 11, 2014, for 
+related information. You may examine the MCAI on the Internet at 
+<a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. 
+FAA-2014-0486.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Alert Operators Transmission A53N006-14, dated May 
+13, 2014.
+    (ii) Airbus Service Bulletin A320-53-1285, dated January 29, 
+2014.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email <a href="/cdn-cgi/l/email-protection#86e7e5e5e9f3e8f2a8e7eff4f1e9f4f2eeabe3e7f5c6e7eff4e4f3f5a8e5e9eb"><span class="__cf_email__" data-cfemail="d4b5b7b7bba1baa0fab5bda6a3bba6a0bcf9b1b5a794b5bda6b6a1a7fab7bbb9">[email&#160;protected]</span></a>; Internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on July 12, 2014.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-17782 Filed 7-31-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

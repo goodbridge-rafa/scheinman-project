@@ -1,0 +1,999 @@
+<html>
+<head>
+<title>Federal Register, Volume 67 Issue 105 (Friday, May 31, 2002)</title>
+</head>
+<body><pre>
+[Federal Register Volume 67, Number 105 (Friday, May 31, 2002)]
+[Rules and Regulations]
+[Pages 37967-37975]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 02-13609]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2001-CE-36-AD; Amendment 39-12766; AD 2002-11-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Air Tractor, Inc. Models AT-400, AT-
+401, AT-401B, AT-402, AT-402A, AT-402B, AT-501, AT-802, and AT-802A 
+Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment supersedes Airworthiness Directive (AD) 2001-
+10-04 R1, which lowered the safe life for the wing lower spar cap on 
+certain Air Tractor, Inc. (Air Tractor) AT-400, AT-500, and AT-800 
+series airplanes. AD 2001-10-04 R1 resulted from numerous reports of 
+cracks in the \3/8\-inch bolthole of the wing lower spar cap on the 
+affected airplanes. This AD retains the safe life for the wing lower 
+spar cap and requires you to eddy-current inspect the wing lower spar 
+cap immediately prior to the replacement/modification in order to 
+detect and correct any crack in a bolthole before it extends to the 
+modified center section of the wing. This AD further reduces the safe 
+life for certain Models AT-401, AT-401B, AT-402, AT-402A, AT-402B, and 
+AT-501 airplanes that incorporate or have incorporated Marburger 
+Enterprises, Inc. winglets and removes the Models AT-502, AT-502A, AT-
+502B, and AT-503A airplanes from the applicability. We are issuing 
+another AD action to cover these airplanes. The actions specified by 
+this AD are intended to prevent fatigue cracks from occurring in the 
+wing lower spar cap before the established safe life is reached. 
+Fatigue cracks in the wing lower spar cap, if not detected and 
+corrected, could result in the wing separating from the airplane during 
+flight.
+
+DATES: This AD becomes effective on July 12, 2002.
+    The Director of the Federal Register previously approved the 
+incorporation by reference of certain publications listed in the 
+regulation as of June 8, 2001 (66 FR 27014, May 16, 2001).
+
+ADDRESSES: You may get the service information referenced in this AD 
+from Air Tractor, Incorporated, P.O. Box 485, Olney, Texas 76374; or 
+Marburger Enterprises, Inc., 1227 Hillcourt, Williston, North Dakota 
+58801; telephone: (800) 893-1420 or (701) 774-0230; facsimile: (701) 
+572-2602. You may view this information at the Federal Aviation 
+Administration (FAA), Central Region, Office of the Regional Counsel, 
+Attention: Rules Docket No. 2001-CE-36-AD, 901 Locust, Room 506, Kansas 
+City, Missouri 64106; or at the Office of the Federal Register, 800 
+North Capitol Street, NW., suite 700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Direct all questions to:
+    --For airplanes that do not incorporate and never have incorporated 
+Marburger Enterprises, Inc. winglets: Rob Romero, Aerospace Engineer, 
+FAA, Fort Worth Airplane Certification Office, 2601 Meacham Boulevard, 
+Fort Worth, Texas 76193-0150; telephone: (817) 222-5102; facsimile: 
+(817) 222-5960; and
+    --For certain Models AT-402, AT-402A, AT-402B, and AT-501 airplanes 
+that incorporate or have incorporated Marburger Enterprises, Inc. 
+winglets: John Cecil, Aerospace Engineer, Los Angeles Aircraft 
+Certification Office, FAA, 3960 Paramount Boulevard, Lakewood, 
+California 90712; telephone: (562) 627-5228; facsimile: (562) 627-5210.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+Has FAA Taken Any Action to This Point?
+
+    Several reports of cracked wing lower spar caps on Air Tractor AT-
+500 series airplanes caused the manufacturer (Air Tractor) to 
+recalculate the fatigue life of the wing lower spar cap on Air Tractor 
+AT-400, AT-500, and AT-800 series airplanes. One report was of an 
+accident where the wing separated from the
+
+[[Page 37968]]
+
+airplane during flight. The cracks are originating in the outboard \3/
+8\-inch bolthole of the wing lower spar cap. To address this condition, 
+FAA issued AD 2001-10-04, Amendment 39-12230 (66 FR 27014, May 16, 
+2001), to lower the safe life for the wing lower spar cap on Air 
+Tractor AT-400, AT-500, and AT-800 series airplanes.
+    AD 2001-10-04 also allowed for inspection, using eddy current 
+methods, of the wing lower spar cap for airplanes that are at or over 
+the lower safe life and parts are not available. Operation of the 
+airplane was not allowed if cracks were found and inspections had to be 
+terminated when parts become available or after three repetitive 
+inspections were done.
+    AD 2001-10-04 superseded AD 2000-14-51, Amendment 39-11837 (65 FR 
+46567, July 31, 2000). AD 2000-14-51 required inspection of the wing 
+lower spar cap for cracks on Air Tractor Models AT-501, AT-502, and AT-
+502A airplanes, and modification or replacement of any cracked wing 
+lower spar cap.
+    We inadvertently included certain AT-800 series airplanes in the 
+Applicability of AD 2001-10-04. The AD should not have affected the AT-
+800 series airplanes equipped with the factory-supplied part number 
+80540 computerized fire gate. Therefore, we revised AD 2001-10-04 to 
+incorporate this change. AD 2001-10-04 R1, Amendment 39-12247, was 
+published in the Federal Register on June 4, 2001 (66 FR 29900).
+
+What Has Happened Since AD 2001-10-04 R1 To Initiate This Action?
+
+    In response to AD 2001-10-04 R1, FAA received a comment from the 
+National Transportation Safety Board that recommended an eddy-current 
+inspection requirement immediately prior to the accomplishment of the 
+two-part modification described in Snow Engineering Service Letters 
+#202 or #203, both Revised March 26, 2001, as applicable. This is to 
+eliminate the possibility that a crack existing in a bolt hole prior to 
+the modification is still present after accomplishing the modification. 
+Prior to the modification, any crack present will be larger than it 
+would appear after the outermost bolt holes are enlarged. This makes 
+the crack easier to detect and gives the mechanic an area to 
+concentrate on any post-modification inspections.
+    Additional analysis also indicates a higher wing root bending 
+moment, which reveals the need to further reduce the safe life for 
+certain AT-400 and AT-500 series airplanes with a certain 
+configuration. Airplanes with this configuration either incorporate or 
+have incorporated Marburger Enterprises, Inc. winglets on the wing 
+lower spar cap. These winglets are installed in accordance with 
+Supplemental Type Certificate (STC) SA00490LA. We have developed 
+criteria for determining what the new safe life will be for airplanes 
+that either incorporate or have incorporated these winglets.
+
+What Is The Potential Impact if FAA Took No Action?
+
+    This condition could result in fatigue cracks in the wing lower 
+spar cap before the established safe life is reached. Fatigue cracks in 
+the wing lower spar cap, if not detected and corrected, could result in 
+the wing separating from the airplane during flight.
+
+Has FAA Taken Any Action to This Point?
+
+    We issued a proposal to amend part 39 of the Federal Aviation 
+Regulations (14 CFR part 39) to include an AD that would apply to 
+certain Air Tractor, Inc. (Air Tractor) AT-400, AT-500, and AT-800 
+series airplanes. This proposal was published in the Federal Register 
+as a notice of proposed rulemaking (NPRM) on December 27, 2001 (66 FR 
+66823). The NPRM proposed to supersede AD 2001-10-04 R1 with a new AD 
+that would retain the safe life and would require you to eddy-current 
+inspect the wing lower spar cap immediately prior to the replacement/
+modification in order to detect and correct any crack in a bolthole 
+before it extends to the modified center section of the wing. The NPRM 
+also proposed to further reduce the safe life for AT-400 and AT-500 
+series airplanes that incorporate or have incorporated Marburger 
+Enterprises, Inc. winglets.
+
+Was the Public Invited To Comment on the NPRM?
+
+    The FAA encouraged interested persons to participate in the making 
+of this amendment. In addition to the comments, we received reports of 
+several cracks originating in the outboard \3/8\-inch hole of the main 
+spar lower cap on Air Tractor Models AT-502, AT-502A, AT-502B, and AT-
+503A airplanes at hours time-in-service (TIS) lower than the 
+established safe life.
+    Based on this information, we have determined that:
+    --The safe life on Models AT-502, AT-502A, AT-502B, and AT-503A 
+airplanes should be further reduced;
+    --These airplanes should be removed from the NPRM; and
+    --Final rule; request for comments (immediately adopted rule) AD 
+action should be taken to address this condition.
+    We received one comment in favor of the NPRM as written. The 
+following presents other comments received on the proposal and FAA's 
+response to each comment:
+
+Comment Issue No. 1: Change Step 8 of the Winglet Calculation
+
+What Is the Commenter's Concern?
+
+    Several commenters state that Step 8 of the Appendix to the 
+proposed AD gives an overly conservative safe life for airplanes with 
+the Marburger winglets installed when compared to that recommended by 
+Air Tractor. The commenters recommend that FAA revise this calculation 
+to be more in line with Air Tractor's recommendation.
+
+What Is FAA's Response to the Concern?
+
+    After further evaluating this step in the calculation, we concur 
+that Step 8 results in a more conservative safe life than we intended. 
+We have modified these instructions for computing the safe life of the 
+airplanes with the winglets installed. These modified instructions are 
+included in the Appendix to this AD.
+    The accomplishment of these instructions will provide an increase 
+in the safe life of the affected airplanes over that proposed in the 
+NPRM. Therefore, the burden upon the public is reduced and there is no 
+regulatory requirement for FAA to solicit additional public comments.
+
+Comment Issue No. 2: Allow Repetitive Inspections Instead of 
+Mandatory Modification
+
+What Is the Commenter's Concern?
+
+    One commenter recommends repetitive inspections provided no cracks 
+are found instead of mandatory modification as proposed in the NPRM and 
+required by AD 2001-10-04 R1. The commenter states that this would 
+reduce the economic impact on operators and minimize the risk of 
+reduced agricultural production if the safe life limit is reached 
+during the agricultural spraying season.
+
+What Is FAA's Response to the Concern?
+
+    Although we concur that repetitive inspections may reduce the 
+economic impact and minimize the risk of reduced agricultural 
+production, this will not meet the safety intent of the AD. The FAA has 
+determined that reliance on critical repetitive inspections carries an 
+unnecessary safety risk when parts replacement or modifications exist. 
+In determining what inspections are critical, FAA
+
+[[Page 37969]]
+
+considers (1) the safety consequences of the airplane if the known 
+problem is not detected by the inspection; (2) the reliability of the 
+inspection such as the probability of not detecting the known problem; 
+(3) whether the inspection area is difficult to access; and (4) the 
+possibility of damage to an adjacent structure as a result of the 
+problem.
+    We have included a provision for an alternative method of 
+compliance that allows for repetitive 400-hour time-in-service (TIS) 
+inspections up to 1,200 hours TIS after the safe life limit is reached. 
+However, the replacement/modification must be scheduled. This will 
+allow operators to continue operating during the agricultural spraying 
+season.
+    We have not changed the final rule AD based on this comment.
+
+Comment Issue No. 3: Incorporate One or More Proposed Options 
+Instead of the Required Life Limits for Airplanes with Winglets
+
+What Is the Commenter's Concern?
+
+    One commenter opposes the required life limits for the affected 
+airplanes with Marburger winglets installed because the commenter 
+believes that there are other alternatives. The commenter believes that 
+accomplishing one or more of the following options will meet the safety 
+intent of the AD for those affected airplanes with winglets installed:
+    --Require a takeoff weight limitation that would include a placard 
+and airplane flight manual changes. This weight reduction would offset 
+increased wing bending moments due to the winglet installation;
+    --Place a maximum maneuver load factor limit (n<INF>z</INF>) 
+limitation to reduce the maximum wing bending moment and alleviate the 
+effects of the winglet installation;
+    --Incorporate a damage tolerance-based inspection program. This 
+program could be based on the initial inspection and subsequent 400-
+hour TIS inspections detailed in the alternative method of compliance 
+in AD 2001-10-04 R1 and the NPRM and the Snow Engineering service 
+letters; and/or
+    --Incorporate an inspection program and allow cold-working or 
+reaming of the area where small cracks are found. The inspections could 
+be based on the initial inspection and subsequent 400-hour TIS 
+inspections detailed in the alternative method of compliance in AD 
+2001-10-04 R1 and the NPRM and specified in the Snow Engineering 
+service letters.
+
+What Is FAA's Response to the Concern?
+
+    We do not concur with incorporating any of these alternatives for 
+the following reasons:
+    --Takeoff weight limitation: The FAA has determined that a weight 
+placard limitation is not a reliable method of reducing wing root 
+bending in airplanes utilized in CAM 8 operations. CAM 8 allows for the 
+operation of restricted category agricultural airplanes at weights 
+higher than that specified in the type certification data sheet (TCDS). 
+To effectively alleviate fatigue spectrum loading, any weight 
+limitation must reduce the typical or average weight seen in operation. 
+We have determined that a maximum weight placard will not reliably 
+reduce the fatigue spectrum loading the CAM 8 agricultural operations;
+    --Maximum Maneuver Load Factor Limits (n<INF>z</INF>): These limits 
+would have little effect on the fatigue loading spectrum seen in 
+operation. Fatigue damage accumulates due to maneuvering, gusts, and 
+ground load occurrences. The ground-air-ground cycle also contributes 
+to fatigue damage. The aerial application spectrum displayed in DOT/
+FAA/CT-91-20 ``General Aviation Aircraft--Normal Acceleration Data 
+Analysis and Collection Project'' shows only one occurrence of limit 
+load factor in every 16,500 nautical miles flown. It also shows only 
+one occurrence of 90 percent of limit load factor in every 3,300 
+nautical miles flown. Based on this, we have determined that reducing 
+the maximum maneuver limit load factor would affect only a small 
+percentage of fatigue damage and would not appreciably affect the 
+fatigue safe life;
+    --Damage tolerance-based inspection program: Damage tolerance and 
+service history-based inspection programs are acceptable methods to 
+ensure continuing structural integrity. However, the commenter does not 
+provide adequate substantiating data to justify an inspection-based 
+system instead of the proposed safe life approach. Such a program 
+should include a detailed crack growth analysis with a threshold or 
+initial inspection time and repetitive inspection intervals. Such 
+intervals would be based on the crack growth analysis. Service history-
+based inspection programs should be based on an extensive review and 
+statistical analysis of the existing fleet's service experience. The 
+commenter provides no substantiating data and refers only to the 
+inspections proposed in the NPRM and required by AD 2001-10-04 R1. 
+These inspections are limited in duration and used only to provide 
+relief in the event that repair or replacement parts are not available; 
+and
+    --Repair small cracks through cold-working or reaming the affected 
+area: This is already allowed in limited capacity. Snow Engineering 
+Service Letter #197, which is referenced in the NPRM, specifies 
+drilling the bolt hole to the next larger size if a crack is detected 
+during the eddy-current inspection. If a crack is still detected after 
+the hole is drilled to the next larger size, the service bulletin 
+specifies replacing the cracked part. The FAA infers that the commenter 
+wants this concept used with an inspection program instead of the 
+mandatory safe life modification/replacement program. As previously 
+discussed, this would not meet the safety intent of the AD.
+    We have not changed the final rule (after NPRM) AD based on this 
+comment.
+
+Comment Issue No. 4: Modify the Winglet Usage Factor for Certain 
+Model AT-502A Airplanes
+
+What Is the Commenter's Concern?
+
+    One commenter states that certain Model AT-502A airplanes are 
+equipped with a modification commonly known as the ``Hoerner Tip.'' The 
+commenter suggests that FAA change the winglet usage factor for these 
+airplanes.
+
+What Is FAA's Response to the Concern?
+
+    We concur. Later serial numbers of the Model AT-502A airplanes 
+should have a lower winglet usage factor. As discussed earlier, we are 
+initiating final rule; request for comments (immediately adopted rule) 
+AD action to further reduce the safe life of the Models AT-502, AT-
+502A, AT-502B, and AT-503A airplanes. We will take the commenter's 
+concern into consideration when preparing this AD.
+    We have not changed the final rule (after NPRM) AD based on this 
+comment.
+
+Comment Issue No. 5: Reduce Winglet Usage Factor for All Airplanes
+
+What Is the Commenter's Concern?
+
+    One commenter recommends that FAA reduce the winglet usage factor 
+for all airplanes. This recommendation is based on the weight usage 
+penalty used on Dromader M-18 airplanes compared to the winglet usage 
+factors on the affected Air Tractor airplanes.
+
+What Is FAA's Response to the Concern?
+
+    We do not concur. We extensively reviewed the safe life limits 
+specified in the Snow Engineering service letters along with the 
+substantiating
+
+[[Page 37970]]
+
+engineering analysis. We are confident in Air Tractor's relative 
+analysis between the baseline airplanes and those modified with the 
+Marburger winglet STC.
+    Relative fatigue life comparisons between different airplane models 
+are difficult when the airplanes operate in different regions of the 
+fatigue S-N curve, especially when even later serial numbers of the 
+same model may operate at different stress levels. Relative comparisons 
+based on ratios (as the commenter performed) assume a linear or ``one-
+to-one'' relationship between operating stress and fatigue life. When 
+the operating stress of the two airplanes is significantly different, 
+this ``one-to-one'' relationship assumption is inaccurate.
+    We have not changed the final rule (after NPRM) AD based on this 
+comment.
+
+Comment Issue No. 6: Use Configuration Changes To Reduce the 
+Aerodynamic Effect of the Winglet Installation
+
+What Is the Commenter's Concern?
+
+    One commenter suggests using airplane configuration changes to 
+reduce the aerodynamic effect of the winglet installation and increase 
+the inertia relief available from the winglet installation. This 
+includes winglet incidence, flap droop, and ballast weight in the 
+winglet to offset the increased wing bending moments due to the winglet 
+installation.
+
+What Is FAA's Response to the Concern?
+
+    While we acknowledge that configuration changes may successfully 
+offset the effect of the winglet installation on the wing bending 
+moments, the commenter provides no engineering data to specifically 
+show the changes and substantiate reduced aerodynamic effect. The 
+commenter may send this information to FAA at any time for 
+consideration of an alternative method of compliance to the AD.
+
+FAA's Determination
+
+What Is FAA's Final Determination on This Issue?
+
+    After careful review of all available information related to the 
+subject presented above, we have determined that air safety and the 
+public interest require the adoption of the rule as proposed except for 
+the change in the winglet safe life calculation, the removal of certain 
+airplanes from the applicability, and minor editorial corrections. We 
+have determined that the change, removal, and minor corrections:
+    --Provide the intent that was proposed in the NPRM for correcting 
+the unsafe condition; and
+    --do not add any additional burden upon the public than was already 
+proposed in the NPRM.
+
+Cost Impact
+
+How Many Airplanes Does This AD Impact?
+
+    We estimate that this AD affects 1,179 airplanes in the U.S. 
+registry.
+
+What Is the Cost Impact of This AD on Owners/Operators of the Affected 
+Airplanes?
+
+    We estimate the following costs to accomplish the inspection:
+
+ 
+----------------------------------------------------------------------------------------------------------------
+                                                                                  Total cost per   Total cost on
+                 Labor cost                               Parts cost                 airplane     U.S. operators
+----------------------------------------------------------------------------------------------------------------
+2 workhours at $60 per hour = $120.........  No parts required for inspection...            $120        $141,480
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to accomplish the replacement/
+modification:
+
+ 
+----------------------------------------------------------------------------------------------------------------
+                                                                                  Total cost per   Total cost on
+                 Labor cost                               Parts cost                 airplane     U.S. operators
+----------------------------------------------------------------------------------------------------------------
+120 workhours at $60 per hour = $7,200.....  $4,300.............................         $11,500     $13,558,500
+----------------------------------------------------------------------------------------------------------------
+
+What Is the Difference Between the Cost Impact of This AD and the Cost 
+Impact of AD 2001-10-04 R1?
+
+    AD 2001-10-04 R1 already established the safe life for the lower 
+wing spar cap on the affected airplanes. Therefore, the replacement/
+modification is already required through that AD. The only difference 
+in the cost impact upon the public of this AD and AD 2001-10-04 R1 is 
+the cost for the eddy-current inspection upon replacement and the 
+further safe life reduction for those AT-400 and AT-500 series 
+airplanes that incorporate or have incorporated Marburger Enterprises, 
+Inc. winglets.
+
+Regulatory Impact
+
+Does This AD Impact Various Entities?
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+
+Does This AD Involve a Significant Rule or Regulatory Action?
+
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A copy of the final evaluation prepared for this 
+action is contained in the Rules Docket. A copy of it may be obtained 
+by contacting the Rules Docket at the location provided under the 
+caption ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+[[Page 37971]]
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. FAA amends Sec. 39.13 by removing Airworthiness Directive (AD) 
+2001-10-04 R1, Amendment 39-12247 (66 FR 29900, June 4, 2001), and by 
+adding a new AD to read as follows:
+
+2002-11-05  Air Tractor, Inc.: Amendment 39-12766; Docket No. 2001-
+CE-36-AD.
+
+    (a) What airplanes are affected by this AD? This AD applies to 
+certain Models AT-400, AT-401, AT-401B, AT-402, AT-402A, AT-402B, 
+AT-501, AT-802, and AT-802A airplanes. Use paragraph (a)(1) of this 
+AD for affected airplanes that do not incorporate and never have 
+incorporated winglets. Use paragraph (a)(3) of this AD for certain 
+Models AT-401, AT-401B, AT-402, AT-402A, AT-402B, and AT-501 
+airplanes that incorporate or have incorporated Marburger 
+Enterprises, Inc. winglets.
+    (1) The following presents airplanes (certificated in any 
+category) that are affected by this AD, along with the new safe life 
+(presented in hours time-in-service (TIS)) of the wing lower spar 
+cap for all affected airplane models and serial numbers:
+
+------------------------------------------------------------------------
+        Model              Serial numbers              Safe life
+------------------------------------------------------------------------
+AT-400...............  all serial numbers     13,300 hours TIS.
+                        beginning with 0416.
+------------------------------------------------------------------------
+AT-401...............  0662 through 0951....  10,757 hours TIS.
+------------------------------------------------------------------------
+AT-401B..............  0952 through 1014 and  6,948 hours TIS.
+                        1016 though 1020.
+------------------------------------------------------------------------
+AT-401B..............  1015 and 1021 through  7,777 hours TIS.
+                        1124.
+------------------------------------------------------------------------
+AT-402...............  0694 through 0951....  7,440 hours TIS.
+------------------------------------------------------------------------
+AT-402A..............  0738 through 0951....  7,440 hours TIS.
+------------------------------------------------------------------------
+AT-402A..............  0952 through 1020....  4,589 hours TIS.
+------------------------------------------------------------------------
+AT-402A..............  1021 through 1124....  5,268 hours TIS.
+------------------------------------------------------------------------
+AT-402B..............  0966 through 1020....  4,589 hours TIS.
+------------------------------------------------------------------------
+AT-402B..............  1021 through 1124....  5,268 hours TIS.
+------------------------------------------------------------------------
+AT-501...............  0002 through 0061....  4,531 hours TIS.
+------------------------------------------------------------------------
+AT-501...............  all serial numbers     7,693 hours TIS.
+                        beginning with 0062.
+------------------------------------------------------------------------
+AT-802...............  0001 through 0059      4,132 hours TIS.
+                        except those
+                        equipped with the
+                        factory-supplied
+                        part number 80540
+                        computerized fire
+                        gate.
+------------------------------------------------------------------------
+AT-802...............  0060 through 0091      4,188 hours TIS.
+                        except those
+                        equipped with the
+                        factory-supplied
+                        part number 80540
+                        computerized fire
+                        gate.
+------------------------------------------------------------------------
+AT-802...............  0092 through 0101      8,163 hours TIS.
+                        except those
+                        equipped with the
+                        factory-supplied
+                        part number 80540
+                        computerized fire
+                        gate.
+------------------------------------------------------------------------
+AT-802A..............  0003 through 0059      4,969 hours TIS.
+                        except those
+                        equipped with the
+                        factory-supplied
+                        part number 80540
+                        computerized fire
+                        gate.
+------------------------------------------------------------------------
+AT-802A..............  0060 through 0091      4,531 hours TIS.
+                        except those
+                        equipped with the
+                        factory-supplied
+                        part number 80540
+                        computerized fire
+                        gate.
+------------------------------------------------------------------------
+AT-802A..............  0092 through 0101      8,648 hours TIS.
+                        except those
+                        equipped with the
+                        factory-supplied
+                        part number 80540
+                        computerized fire
+                        gate.
+------------------------------------------------------------------------
+
+
+    Note 1: This AD still applies to those airplanes that have 
+converted between fire fighting and agricultural dispersal.
+
+    (2) If piston powered aircraft have been converted to turbine 
+power, you must use the limits for the corresponding serial number 
+turbine-powered aircraft.
+    (3) The following presents airplanes (certificated in any 
+category) that could incorporate or could have incorporated 
+Marburger Enterprises, Inc. winglets. These winglets are installed 
+in accordance with Supplemental Type Certificate (STC) SA00490LA. 
+Use the winglet usage factor in the table in this paragraph, the 
+safe life specified in paragraph (a)(1) of this AD, and the 
+instructions included in the Appendix to this AD to determine the 
+new safe life of these airplanes:
+
+------------------------------------------------------------------------
+                                                           Winglet usage
+           Model                    Serial numbers            factor
+------------------------------------------------------------------------
+AT-401.....................  0662 through 0951..........  1.6
+------------------------------------------------------------------------
+
+[[Page 37972]]
+
+ 
+AT-401B....................  0952 through 1014 and 1016   1.1
+                              though 1020.
+------------------------------------------------------------------------
+AT-401B....................  1015 and 1021 through 1124.  1.1
+------------------------------------------------------------------------
+AT-402.....................  0694 through 0951..........  1.6
+------------------------------------------------------------------------
+AT-402A....................  0738 through 0951..........  1.6
+------------------------------------------------------------------------
+AT-402A....................  0952 through 1020..........  1.1
+------------------------------------------------------------------------
+AT-402A....................  1021 through 1124..........  1.1
+------------------------------------------------------------------------
+AT-402B....................  0966 through 1020..........  1.1
+------------------------------------------------------------------------
+AT-402B....................  1021 through 1124..........  1.1
+------------------------------------------------------------------------
+AT-501.....................  0002 through 0061..........  1.6
+------------------------------------------------------------------------
+AT-501.....................  all serial numbers           1.6
+                              beginning with 0062.
+------------------------------------------------------------------------
+
+    (b) Who must comply with this AD? Anyone who wishes to operate 
+any of the airplanes identified in paragraph (a) of this AD must 
+comply with this AD.
+    (c) What problem does this AD address? The actions specified by 
+this AD are intended to prevent fatigue cracks from occurring in the 
+wing lower spar cap before the established safe life is reached. 
+Fatigue cracks in the wing lower spar cap, if not detected and 
+corrected, could result in the wing separating from the airplane 
+during flight.
+
+    Note 2: The 10-hour TIS compliance time is maintained from AD 
+2001-10-04 R1.
+
+    (d) What must I do to address this problem? To address this 
+problem, you must accomplish the following actions:
+
+----------------------------------------------------------------------------------------------------------------
+               Actions                             Compliance                            Procedures
+----------------------------------------------------------------------------------------------------------------
+(1) Modify the applicable aircraft    Accomplish the logbook entry within   The owner/operator holding at least
+ records (logbook) as follows to       the next 10 hours TIS after July      a private pilot certificate as
+ show the reduced safe life for the    12, 2002 (the effective date of       authorized by section 43.7 of the
+ wing lower spar cap (use the          this AD).                             Federal Aviation Regulations (14
+ information from the table in                                               CFR 43.7) may modify the aircraft
+ paragraph (a)(1) of this AD and                                             records as specified in paragraphs
+ utilize the information in                                                  (d)(1)(i) and (d)(1)(ii) of this
+ paragraph (a)(3) of this AD and the                                         AD. Make an entry into the aircraft
+ Appendix to this AD, as applicable.                                         records showing compliance with
+(i) For the affected Models AT-802                                           this portion of the AD in
+ and AT-802A airplanes: update the                                           accordance with section 43.9 of the
+ Owners Manual, Section 6--                                                  Federal Aviation Regulations (14
+ Airworthiness Limitations, Life                                             CFR 43.9). Accomplish the actual
+ Limited Parts.                                                              replacement/modification when the
+(ii) For all affected airplanes                                              safe life is reached in accordance
+ other than Models AT-802 and AT-                                            with Snow Engineering Service
+ 802A airplanes, incorporate the                                             Letter #202 or #203, both Revised
+ following into the Aircraft                                                 March 26, 2001, as applicable. The
+ Logbook: ``In accordance with this                                          owner/operator may not accomplish
+ AD, the wing lower spar cap is life                                         the replacement/modification,
+ limited to ______.'' Insert the                                             unless he/she holds the proper
+ applicable safe life number from                                            mechanic authorization.
+ the applicable tables in paragraphs
+ (a)(1) and (a)(3) and the Appendix
+ of this AD.
+(iii) If, as of the time of the
+ logbook entry requirement of
+ paragraph (d)(1) of this AD, your
+ airplane is over or within 10 hours
+ of the safe life, an additional 10
+ hours TIS is allowed to accomplish
+ the replacement/modification.
+----------------------------------------------------------------------------------------------------------------
+
+[[Page 37973]]
+
+ 
+(2) If you have ordered parts from    Inspect prior to further flight       In accordance with the procedures in
+ the factory when it is time to        after ordering the parts and          Snow Engineering Service Letter
+ replace the wing lower spar cap (as   thereafter at intervals not to        #202 or #203, both Revised March
+ required when you reach the           exceed 400 hours TIS until one of     26, 2001, as applicable.
+ established safe life), but the       the criteria in paragraphs
+ parts are not available, you may      (d)(2)(i), (d)(2)(ii), and
+ eddy-current inspect the wing lower   (d)(2)(iii) of this AD are met.
+ spar cap. These inspections are
+ allowed until one of the following
+ occurs, at which time the
+ replacement/modification must be
+ accomplished:
+(i) Crack(s) is/are found;
+(ii) Parts become available from the
+ manufacturer; or
+(iii) Not more than three
+ inspections or 1,200 hours TIS go
+ by: the first inspection would have
+ to be accomplished upon
+ accumulating the safe life; the
+ second inspection would have to be
+ accomplished within 400 hours TIS
+ after accumulating the safe life;
+ the third inspection would have to
+ be accomplished 400 hours TIS after
+ the second inspection; and the
+ replacement/modification would have
+ to be accomplished within 400 hours
+ TIS after the third inspection
+ (maximum elapsed time would be
+ 1,200 hours TIS).
+----------------------------------------------------------------------------------------------------------------
+(3) Eddy-current inspect the wing     Immediately prior to the replacement/ In accordance with the procedures in
+ lower spar cap in order to detect     modification required when you        Snow Engineering Service Letter
+ any crack before it extends to the    reach the new safe life. For          #202 or #203, both Revised March
+ modified center section of the wing   airplanes that had this replacement/  26, 2001, as applicable.
+ and repair that crack or replace      modification accomplished in
+ the wing section. This replacement    accordance with either AD 2001-10-
+ must be accomplished by a Level 2     04 or AD 2001-10-04 R1, accomplish
+ or Level 3 inspector that is          this inspection and any necessary
+ certified for eddy-current            corrective action within the next
+ inspection using the guidelines       400 hours TIS after July 12, 2002
+ established by the American Society   (the effective date of this AD),
+ for Nondestructive Testing or MIL-    unless already accomplished (have
+ STD-410. The inspection must be       the mechanic who accomplished the
+ accomplished by one of the            work mark the logbook accordingly).
+ following:
+(i) a Level 2 or Level 3 inspector
+ that is certified for eddy-current
+ inspection using the guidelines
+ established by the American Society
+ for Nondestructive Testing or MIL-
+ STD-410; or
+(ii) A person authorized to perform
+ AD work who has completed and
+ passed the Air Tractor, Inc.
+ training course on Eddy Current
+ Inspection on wing lower spar caps.
+----------------------------------------------------------------------------------------------------------------
+
+    (e) Can I comply with this AD in any other way?
+    (1) You may use an alternative method of compliance or adjust 
+the compliance time if:
+    (i) Your alternative method of compliance provides an equivalent 
+level of safety; and
+    (ii) The Manager, Fort Worth or Los Angeles Airplane 
+Certification Office (ACO), as applicable, approves your 
+alternative. Submit your request through an FAA Principal 
+Maintenance Inspector. The inspector may add comments before sending 
+it to the Manager, Fort Worth or Los Angeles ACO.
+    (2) Alternative methods of compliance approved for AD 2001-10-04 
+and/or AD 2000-14-51 are not considered approved for this AD.
+    (3) Alternative methods of compliance approved for AD 2001-10-04 
+R1 are considered approved for this AD.
+
+    Note 3: This AD applies to each airplane identified in 
+paragraphs (a)(1) and (a)(3) of this AD, regardless of whether it 
+has been modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (e) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if you have not eliminated the unsafe 
+condition, specific actions you propose to address it.
+
+    (f) Are there any alternative methods of compliance already 
+approved or being considered for this AD? The FAA may approve, as an 
+alternative method of compliance, inspection of the wing lower spar 
+cap. You must submit the request in accordance with the procedures 
+in paragraph (e) of this AD and adhere to the following:
+    (1) If you are over or within 10 hours TIS of the safe life for 
+the wing lower spar cap and you have ordered parts and scheduled a 
+date for the replacement/modification, but having the replacement/
+modification done on this date grounds the airplane, accomplish the 
+following:
+    (i) Inspect the wing lower spar cap within 10 hours TIS after 
+approval of the alternative method of compliance;
+    (ii) Reinspect thereafter at intervals not to exceed 400 hours 
+TIS until either cracks are found, the date of the scheduled 
+replacement/modification occurs, or 1,200 hours TIS after the 
+initial inspection are accumulated, whichever occurs first; and
+    (iii) Accomplish the inspections in accordance with the 
+procedures in Snow Engineering Service Letter #202 or #203, both 
+Revised March 26, 2001, as applicable.
+    (2) Submit the following to the Fort Worth or Los Angeles ACO, 
+as applicable, using the procedures described in paragraph (e) of 
+this AD:
+    (i) The airplane model serial number designation, and airplane 
+registration number (N-number);
+    (ii) The number of hours TIS on the airplane;
+    (iii) The scheduled date for the replacement/modification; and
+    (iv) The name and location of the authorized repair shop.
+
+[[Page 37974]]
+
+    (3) For more information about this issue, contact:
+    (i) For the airplanes that do not incorporate and never have 
+incorporated Marburger Enterprises, Inc. winglets: Rob Romero, 
+Aerospace Engineer, FAA, Fort Worth Airplane Certification Office, 
+2601 Meacham Boulevard, Fort Worth, Texas 76193-0150; telephone: 
+(817) 222-5102; facsimile: (817) 222-5960; and
+    (ii) For the airplanes that incorporate or have incorporated 
+winglets: John Cecil, Aerospace Engineer, Los Angeles Aircraft 
+Certification Office, FAA, 3960 Paramount Boulevard, Lakewood, 
+California 90712; telephone: (562) 627-5228; facsimile: (562) 627-
+5210.
+    (g) What if I need to fly the airplane to another location to 
+comply with this AD? The FAA can issue a special flight permit under 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate your airplane to a location where 
+you can accomplish the requirements of this AD provided that the 
+following is adhered to:
+    (1) Only operate in day visual flight rules (VFR) only.
+    (2) Ensure that the hopper is empty.
+    (3) Limit airspeed to 135 miles per hour (mph) indicated 
+airspeed (IAS).
+    (4) Avoid any unnecessary g-forces.
+    (5) Avoid areas of turbulence.
+    (6) Plan the flight to follow the most direct route.
+    (h) Are any service bulletins incorporated into this AD by 
+reference? Replacement and inspection actions required by this AD 
+must be done in accordance with Snow Engineering Service Letter #202 
+or 203, both Revised March 26, 2001, as applicable. The Director of 
+the Federal Register previously approved this incorporation by 
+reference under 5 U.S.C. 552(a) and 1 CFR part 51, as of June 8, 
+2001 (66 FR 27014, May 16, 2001). You can get copies from Air 
+Tractor, Incorporated, P.O. Box 485, Olney, Texas 76374; or 
+Marburger Enterprises, Inc., 1227 Hillcourt, Williston, North Dakota 
+58801. You can look at copies at the FAA, Central Region, Office of 
+the Regional Counsel, 901 Locust, Room 506, Kansas City, Missouri, 
+or at the Office of the Federal Register, 800 North Capitol Street, 
+NW., suite 700, Washington, DC.
+    (i) Does this AD action affect any existing AD actions? This 
+amendment supersedes AD 2001-10-04 R1, Amendment 39-12247.
+    (j) When does this amendment become effective? This amendment 
+becomes effective on July 12, 2002.
+
+Appendix to AD 2002-11-05
+
+    The following provides procedures for determining the safe life 
+for those Models AT-401, AT-401B, AT-402, AT-402A, AT-402B, and AT-
+501 airplanes that incorporate or have incorporated Marburger 
+Enterprises, Inc. winglets. These winglets are installed in 
+accordance with Supplemental Type Certificate (STC) SA00490LA.
+    What if I removed the Marburger winglets prior to further flight 
+after the effective date of this AD or prior to the effective date 
+of this AD:
+    1. Review your airplane's logbook to determine your airplane's 
+time in service (TIS) with winglets installed per Marburger 
+Enterprises STC SA00490LA. This includes all time spent with the 
+winglets currently installed and any previous installations where 
+the winglet was installed and later removed.
+    Example: A review of your airplane's logbook shows that you have 
+accumulated 350 hours TIS since incorporating the Marburger STC. 
+Further review of the airplane's logbook shows that a previous owner 
+had installed the STC and later removed the winglets after 
+accumulating 150 hours TIS. Therefore, your airplane's TIS with the 
+winglets installed is 500 hours.
+    If you determine that the winglet STC has never been 
+incorporated on your airplane, then your safe life is presented in 
+paragraph (a)(1) of this AD. Any future winglet installation will be 
+subject to a reduced safe life per these instructions.
+    2. Determine your airplane's unmodified safe life from paragraph 
+(a)(1) of this AD.
+    Example: Your airplane is a Model AT-401B, serial number 1022. 
+From paragraph (a)(1) of this AD, the safe life of your airplane is 
+7,777 hours TIS.
+    All examples from hereon will be based on the Model AT-401B, 
+serial number 1022 airplane.
+    3. Determine the winglet usage factor from paragraph (a)(3) of 
+this AD.
+    Example: Again, your airplane is a Model AT-401B, serial number 
+1022. From paragraph (a)(3) of this AD, your winglet usage factor is 
+1.1.
+    4. Adjust the winglet TIS to account for the winglet usage 
+factor. Multiply the winglet TIS (result of Step 1 above) by the 
+winglet usage factor (result of Step 3 above).
+    Example: Winglet TIS is 500 hours X a winglet usage factor of 
+1.1. The adjusted winglet TIS is 550 hours.
+    5. Calculate the winglet usage penalty. Subtract the winglet TIS 
+(result of Step 1 above) from the adjusted winglet TIS (result of 
+Step 4 above).
+
+Example:
+[GRAPHIC] [TIFF OMITTED] TR31MY02.000
+
+    6. Adjust the safe life of your airplane to account for winglet 
+usage. Subtract the winglet usage penalty (result of Step 5 above) 
+result from the unmodified safe life from paragraph (a)(1) of this 
+AD (result of Step 2 above.).
+
+Example:
+[GRAPHIC] [TIFF OMITTED] TR31MY02.001
+
+    7. If you remove the winglets from your airplane prior to 
+further flight or no longer have the winglets installed on your 
+airplane, the safe life of your airplane is the adjusted safe life 
+(result of Step 6 above). Enter this number in paragraph (d)(1)(ii) 
+of this AD and the airplane logbook.
+    What if I have the Marburger winglet installed as of the 
+effective date of this AD and plan to operate my airplane without 
+removing the winglet?
+    1. Review your airplane's logbook to determine your airplane's 
+TIS without the winglets installed.
+    Example: A review of your airplane's logbook shows that you have 
+accumulated 1,500 hours TIS, including 500 hours with the Marburger 
+winglets installed. Therefore, your airplane's TIS without the 
+winglets installed is 1,000 hours.
+    2. Determine your airplane's unmodified safe life from paragraph 
+(a)(1) of this AD.
+    Example: Your airplane is a Model AT-401B, serial number 1022. 
+From paragraph (a)(1) of this AD, the safe life of your airplane is 
+7,777 hours TIS.
+    All examples from hereon will be based on the Model AT-401B, 
+serial number 1022 airplane.
+    3. Determine the winglet usage factor from paragraph (a)(3) of 
+this AD.
+    Example: Again, your airplane is a Model AT-401B, serial number 
+1022. From paragraph (a)(3) of this AD, your winglet usage factor is 
+1.1.
+    4. Determine the potential winglet TIS. Subtract the TIS without 
+the winglets installed (result of Step 1 above) from the unmodified 
+safe life (result of Step 2 above).
+
+Example:
+
+[[Page 37975]]
+
+[GRAPHIC] [TIFF OMITTED] TR31MY02.002
+
+    5. Adjust the potential winglet TIS to account for the winglet 
+usage factor. Divide the potential winglet TIS (result of Step 4 
+above) by the winglet usage factor (result of Step 3 above).
+
+Example:
+[GRAPHIC] [TIFF OMITTED] TR31MY02.003
+
+    6. Calculate the winglet usage penalty. Subtract the adjusted 
+potential winglet TIS (result of Step 5 above) from the potential 
+winglet TIS (result of Step 4 above).
+
+Example:
+[GRAPHIC] [TIFF OMITTED] TR31MY02.004
+
+    7. Adjust the safe life of your airplane to account for the 
+winglet installation. Subtract the winglet usage penalty (result of 
+Step 6 above) from the unmodified safe life from paragraph (a)(1) of 
+this AD (the result of Step 2 above).
+
+Example:
+[GRAPHIC] [TIFF OMITTED] TR31MY02.005
+
+    8. Enter the adjusted safe life (result of Step 7 above) in 
+paragraph (d)(1)(ii) of this AD and the airplane logbook.
+    What if I install or remove the Marburger winglet from my 
+airplane in the future?
+    If, at anytime in the future, you install or remove the 
+Marburger winglet STC from your airplane, you must repeat the 
+procedures in this Appendix to determine the airplane's safe life.
+
+    Issued in Kansas City, Missouri, on May 23, 2002.
+James E. Jackson,
+Acting Manager, Small Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 02-13609 Filed 5-30-02; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

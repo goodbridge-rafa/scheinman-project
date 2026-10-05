@@ -1,0 +1,767 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 193 (Friday, October 4, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 193 (Friday, October 4, 2024)]
+[Rules and Regulations]
+[Pages 80734-80739]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-22908]
+
+
+
+[[Page 80734]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2022-0600; Project Identifier AD-2021-01160-R; 
+Amendment 39-22827; AD 2024-17-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bell Textron Inc. Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Bell Textron Inc. (Bell) Model 204B, 205A, 205A-1, 205B, and 210 
+helicopters. This AD was prompted by an accident and incidents 
+involving failure of the tail boom attachment structure. This AD 
+requires inspecting the tail boom assembly hardware, replacing tail 
+boom attachment hardware, greasing the bolt shanks, and inspecting 
+torque. This AD also prohibits installing steel alloy nuts on any 
+helicopter. The FAA is issuing this AD to address the unsafe condition 
+on these products.
+
+DATES: This AD is effective November 8, 2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of November 8, 
+2024.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2022-0600; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For Bell material identified in this AD, contact Bell 
+Textron Inc., P.O. Box 482, Fort Worth, TX 76101; phone: (450) 437-2862 
+or (800) 363-8023; fax: (450) 433-0272; email: 
+<a href="/cdn-cgi/l/email-protection#2b5b59444f5e485f585e5b5b44595f6b494e47474d47424c435f05484446"><span class="__cf_email__" data-cfemail="fb8b89949f8e988f888e8b8b94898fbb999e97979d97929c938fd5989496">[email&#160;protected]</span></a>; website: <a href="http://bellflight.com/support/contact-support">bellflight.com/support/contact-support</a>.
+    <bullet> You may view this material at the FAA, Office of the 
+Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+    Other Related Material: For other material identified in this final 
+rule, contact Bell Textron Inc., P.O. Box 482, Fort Worth, TX 76101; 
+phone: (450) 437-2862 or (800) 363-8023; fax: (450) 433-0272; email: 
+<a href="/cdn-cgi/l/email-protection#2c5c5e4348594f585f595c5c435e586c4e4940404a40454b4458024f4341"><span class="__cf_email__" data-cfemail="a3d3d1ccc7d6c0d7d0d6d3d3ccd1d7e3c1c6cfcfc5cfcac4cbd78dc0ccce">[email&#160;protected]</span></a>; website: <a href="http://bellflight.com/support/contact-support">bellflight.com/support/contact-support</a>.
+
+FOR FURTHER INFORMATION CONTACT: Michael Perrin, Aviation Safety 
+Engineer, FAA, 1801 S Airport Road, Wichita, KS 67209; phone: (562) 
+627-5362; email: <a href="/cdn-cgi/l/email-protection#7e33171d161f1b125014500e1b0c0c17103e181f1f50191108"><span class="__cf_email__" data-cfemail="afe2c6ccc7cecac381c581dfcaddddc6c1efc9cece81c8c0d9">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued AD 2021-15-14, Amendment 39-21661 (86 FR 39942, July 
+26, 2021) (AD 2021-15-14) for various restricted category helicopters. 
+AD 2021-15-14 was prompted by an accident involving a Model UH-1B 
+helicopter and two forced landings involving Model UH-1H and UH-1F 
+helicopters, due to tail boom attachment structure failures. Each of 
+the three events involved a failure of the upper left-hand (LH) tail 
+boom attachment fitting, which is the most heavily loaded of the four 
+tail boom attach points. The FAA issued AD 2021-15-14 to address 
+fatigue cracking of tail boom attachment fittings, cap angles, 
+longerons, and bolts.
+    Due to their similarity to Model UH-1B, UH-1H, and UH-1F 
+helicopters, the FAA determined that Bell Model 204B, 205A, 205A-1, 
+205B, and 210 helicopters are also affected by the same unsafe 
+condition and issued a notice of proposed rulemaking (NPRM) to propose 
+the same actions as those required in AD 2021-15-14. The NPRM published 
+in the Federal Register on June 7, 2022 (87 FR 34587) to amend 14 CFR 
+part 39 and would have applied to Bell Model 204B, 205A, 205A-1, 205B, 
+and 210 helicopters. In the NPRM, the FAA proposed to require revising 
+the helicopter's existing rotorcraft flight manual to incorporate pre-
+flight checks; removing excess paint and sealant and cleaning certain 
+parts; and repetitively inspecting structural components that attach 
+the tail boom to the fuselage. Depending on the inspection results, the 
+FAA proposed to require repairing or replacing components or re-bonding 
+the structure.
+    Based on comments received on the NPRM, the FAA determined changes 
+to the proposed required actions were necessary. Accordingly, the FAA 
+issued a supplemental notice of proposed rulemaking (SNPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Bell Model 204B, 
+205A, 205A-1, 205B, and 210 helicopters. The SNPRM published in the 
+Federal Register on May 8, 2024 (89 FR 38846).
+    In the SNPRM, for Bell Model 204B helicopters, the FAA proposed to 
+require, with the tail boom assembly removed, removing the upper LH 
+bolt from service and inspecting the bolt's associated attachment 
+hardware and, depending on the inspection results, removing the 
+associated nut from service. The FAA also proposed to require visually 
+inspecting each bulkhead, bolt hole, attachment fitting, the three 
+other nuts, the upper right-hand (RH) bolt, and two lower bolts, 
+including the bolt shank and head radii. Depending on inspection 
+results, the FAA proposed to require repairing or replacing an affected 
+bulkhead or affected fitting, removing certain part-numbered nuts, 
+removing any affected nut and its associated bolt from service, and 
+removing any affected bolt from service.
+    For Bell Model 205A, 205A-1, and 205B helicopters, the FAA proposed 
+to require, with the tail boom assembly removed, removing the upper LH 
+bolt from service and inspecting its associated barrel nut and retainer 
+and, depending on the inspection results, removing barrel nut and 
+retainer from service. The FAA also proposed to require visually 
+inspecting each bulkhead, bolt hole, attachment fitting, the three 
+other barrel nuts, associated retainers, the upper RH bolt, and two 
+lower bolts, including the bolt shank and head radii. Depending on 
+inspection results, the FAA proposed to require repairing or replacing 
+an affected bulkhead or affected fitting, removing certain part-
+numbered barrel nuts and retainers, removing any affected barrel nuts 
+and its associated bolt from service, and removing any affected bolt 
+from service.
+    For Bell Model 210 helicopters, the FAA proposed to require, with 
+the tail boom supported, removing the upper LH steel alloy barrel nut, 
+retainer, and bolt from service and removing the countersunk washer and 
+plain washers and replacing them with a new certain part-numbered 
+nickel alloy barrel nut, new retainer, new bolt, an airworthy 
+countersunk washer, and airworthy plain washers. The FAA also proposed 
+to require visually inspecting the upper RH bolt and its associated 
+hardware and, depending on the inspection results, removing the upper 
+RH bolt and barrel nut from service. Additionally, the FAA proposed to 
+require visually inspecting the two lower bolts and the associated 
+barrel nuts and, depending on the inspection results, removing any 
+affected barrel nut and its associated
+
+[[Page 80735]]
+
+bolt from service and removing any affected bolt from service.
+    For all applicable helicopters, the FAA proposed to require, after 
+the initial inspections have been completed, applying a coating of 
+grease to each bolt shank only, installing the applicable hardware, and 
+torquing each bolt. Thereafter, the FAA proposed to require inspecting 
+the torque applied on each bolt to determine if the torque has 
+stabilized and, depending on the results, replacing and inspecting 
+certain tail boom attachment point hardware and repeating the torque 
+inspections or applying torque stripes.
+    Lastly, the FAA proposed to prohibit installing certain part-
+numbered steel alloy nuts on Model 204B helicopters and certain part-
+numbered steel alloy barrel nuts on Model 205A, 205A-1, 205B, and 210 
+helicopters.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments on the SNPRM from Helicopter Maintenance 
+Corporation. The commenter requested that the FAA revise the proposed 
+AD to allow credit for previous compliance with the visual inspection 
+of the tail boom attach points and bulkhead, replacement of affected 
+hardware, and the recurring inspections involving removal of the tail 
+boom. Helicopter Maintenance Corporation stated that aircraft that are 
+in compliance with ASB 205-21-118 should only be obligated to comply 
+with any differences between the AD and the alert service bulletin.
+    Paragraph (f) of this AD requires compliance unless the actions 
+have already been done. Therefore, where this AD requires actions 
+without incorporating Bell Alert Service Bulletin (ASB) 210-21-15, 
+Revision A, dated February 23, 2022 (ASB 210-21-15, Rev A), by 
+reference, operators may take credit for those actions they if were 
+done before the effective date of this AD. Also, where this AD requires 
+actions in accordance with ASB 210-21-15, Rev A, operators may take 
+credit for those actions only if they were done before the effective 
+date of this AD using ASB 210-21-15, Rev A; this AD does not allow 
+credit for those actions if previously done using the original release 
+of ASB 210-21-15, (dated January 27, 2022). The FAA did not change this 
+AD as a result of this comment.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, this 
+AD is adopted as proposed in the SNPRM.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Bell ASB 210-21-15, Rev A. This material specifies 
+procedures for replacing the steel alloy barrel nuts with nickel alloy 
+barrel nuts, inspecting and replacing the tail boom attachment 
+hardware, stabilizing the tail boom attachment hardware torque, 
+applying torque seals, and subsequently checking the torque.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Other Related Material
+
+    The FAA also reviewed Bell ASB 205-21-118, Bell ASB 204B-21-75, and 
+Bell ASB 205B-21-72, each Revision A and dated February 23, 2022. This 
+material specifies the same procedures as ASB 210-21-15, Rev A.
+
+Differences Between This AD and the Related Material
+
+    The related material specifies checking torque, whereas this AD 
+requires inspecting torque because that action is a maintenance action 
+that must be performed by persons authorized under 14 CFR 43.3.
+    When stabilizing the tail boom attachment hardware torque, the 
+related material does not clearly specify actions for each time the 
+torque is below the minimum limit during any torque stabilization 
+inspection, whereas this AD requires replacing and inspecting certain 
+tail boom attachment point hardware, stabilizing the torque of the 
+replaced hardware set, and applying torque stripes.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 62 (five Model 204B 
+helicopters, fifty-three Model 205A, 205A-1, and 205B helicopters, and 
+four Model 210 helicopters) of U.S. registry. Labor costs are estimated 
+at $85 per work-hour. Based on these numbers, the FAA estimates the 
+following costs to comply with this AD.
+    For the initial requirements for Model 204B helicopters, inspecting 
+or replacing up to four bolts (which includes applying a coating of 
+grease), inspecting each bulkhead, inspecting each fitting and bolt 
+hole, inspecting and stabilizing the torque, and applying torque 
+stripes will take up to approximately 8.5 work-hours for an estimated 
+labor cost of up to $723. The parts cost for an upper LH bolt will be 
+approximately $196 and the parts cost for the other bolts will be 
+approximately $89 per bolt. The parts cost for four new nuts will be 
+approximately $680. The parts cost to apply torque stripes will be a 
+nominal amount. The estimated cost for these actions will be up to 
+approximately $1,866 per helicopter and $9,330 for the U.S. fleet.
+    For the initial requirements for Model 205A, 205A-1, and 205B 
+helicopters, replacing the four steel alloy barrel nuts with new nickel 
+alloy barrel nuts, inspecting or replacing up to four bolts (which 
+includes applying a coating of grease), inspecting each bulkhead, 
+inspecting and stabilizing the torque, and applying torque stripes will 
+take up to approximately 8.5 work-hours for an estimated labor cost of 
+up to $723. The parts cost for the four new nickel alloy barrel nuts 
+(including retainers) will be approximately $680. The parts cost for an 
+upper LH bolt will be approximately $196 and the parts cost for the 
+other bolts will be approximately $89 per bolt. The parts cost to apply 
+torque stripes will be a nominal amount. The estimated cost for these 
+actions will be up to approximately $1,866 per helicopter and $98,898 
+for the U.S. fleet.
+    For the initial requirements for Model 210 helicopters, replacing 
+the four steel alloy barrel nuts with new nickel alloy barrel nuts, 
+inspecting or replacing up to four bolts (which includes applying a 
+coating of grease), inspecting and stabilizing the torque, and applying 
+torque stripes will take up to approximately 8.5 work-hours for an 
+estimated labor cost of up to $723. The parts cost for the four new 
+nickel alloy barrel nuts (including retainers) will be approximately 
+$680. The parts cost for an upper LH bolt will be approximately $196 
+and the parts cost for the other bolts will be approximately $89 per 
+bolt. The parts cost to apply torque stripes will be a nominal amount. 
+The estimated cost for these actions will be up to approximately $1,866 
+per helicopter and $7,464 for the U.S. fleet.
+    For all applicable helicopters, inspecting the torque applied on 
+each bolt will take approximately 1 work-hour for an estimated cost of 
+$85 per helicopter and $5,270 for the U.S. fleet, per inspection cycle.
+    For all applicable helicopters, replacing an upper LH bolt, 
+stabilizing the torque, and applying a torque stripe will take up to 
+approximately 5 work-hours. The parts cost for an upper LH bolt will be 
+approximately $196 and the parts cost to apply a torque stripe will
+
+[[Page 80736]]
+
+be a nominal amount. The estimated cost for these actions will be up to 
+approximately $621 per helicopter and $38,502 for the U.S. fleet, per 
+replacement cycle. Inspecting one of the other bolts, stabilizing the 
+torque, and applying a torque stripe will take up to approximately 3.5 
+work-hours for an estimated cost of $298 per other bolt and $18,476 for 
+the U.S. fleet per other bolt per inspection cycle. If required, 
+replacing a bolt following that inspection will take a minimal amount 
+of additional time and the parts cost will be approximately $89.
+    If required as a result of failing any torque inspection required 
+by this AD, visually inspecting a nut or a barrel nut, replacing a 
+bolt, stabilizing the torque, and applying a torque stripe will take up 
+to approximately 5.5 work-hours per failed hardware set. The parts cost 
+for an upper LH bolt will be approximately $196 and the parts cost for 
+the other bolts will be approximately $89 per bolt. The parts cost to 
+apply a torque stripe will be a nominal amount. The estimated cost for 
+these actions will be $664 (upper LH bolt) or $557 (other bolts), per 
+failed hardware set. If required, replacing a nut following that 
+inspection will take a minimal amount of additional time and the parts 
+cost for a nut will be approximately $89 per nut. If required, 
+replacing a barrel nut following that inspection will take a minimal 
+amount of additional time and a parts cost of approximately $173 per 
+barrel nut.
+    The corrective action that may be needed as a result of the 
+bulkhead inspection could vary significantly from helicopter to 
+helicopter. The FAA has no data to determine the costs to accomplish 
+the corrective action or the number of helicopters that may require 
+corrective action.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2024-17-02 Bell Textron Inc.: Amendment 39-22827; Docket No. FAA-
+2022-0600; Project Identifier AD-2021-01160-R.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective November 8, 2024.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Bell Textron Inc. Model 204B, 205A, 205A-1, 
+205B, and 210 helicopters, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) 5302, Rotorcraft Tail 
+Boom.
+
+(e) Unsafe Condition
+
+    This AD was prompted by an accident and incidents involving 
+failure of the tail boom attachment structure. The FAA is issuing 
+this AD to address fatigue cracking of tail boom attachment 
+fittings, cap angles, longerons, and bolts. The unsafe condition, if 
+not addressed, could result in separation of the tail boom from the 
+helicopter and subsequent loss of control of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+ (g) Allowable Torque Values (in-lbs)
+
+----------------------------------------------------------------------------------------------------------------
+    Tail boom attachment point         Model 204B       Model 205A/205A-1       Model 205B         Model 210
+----------------------------------------------------------------------------------------------------------------
+Upper left-hand bolt.............            570-610             1000-1200          1000-1200          1300-1600
+Upper right-hand bolt............            360-380             1000-1200          1000-1200          1000-1200
+Lower left-hand bolt.............            360-380               400-430            400-430            400-430
+Lower right-hand bolt............            360-380               400-430            400-430            400-430
+----------------------------------------------------------------------------------------------------------------
+
+(h) Required Actions
+
+    (1) Within 300 hours time-in-service (TIS) or 90 days after the 
+effective date of this AD, whichever occurs first, accomplish the 
+actions required by paragraphs (h)(1)(i), (ii), or (iii) of this AD 
+as applicable to your model helicopter. For purposes of this AD, the 
+word ``new'' is defined as having zero total hours TIS.
+    (i) For Model 204B helicopters, accomplish the actions required 
+by paragraphs (h)(1)(i)(A) through (C) of this AD.
+    (A) With the tail boom assembly removed, remove the upper left-
+hand (LH) tail boom attachment bolt (bolt) from service and inspect 
+its associated tail boom attachment nut (nut) for mechanical damage, 
+corrosion, a crack, damaged threads, and wear, and to determine 
+whether it is a steel alloy part number (P/N) NAS679A, NAS1291, or 
+MS21042. If there is any mechanical damage, corrosion, a crack, a 
+damaged thread, or wear, or if nut P/N NAS679A, NAS1291, or MS21042 
+is installed, before further flight, remove the nut from service.
+    (B) Visually inspect each bulkhead (FS 195.00 and FS 195.03) and 
+the bolt holes for mechanical damage, corrosion, and cracks; 
+visually inspect each attachment fitting for
+
+[[Page 80737]]
+
+mechanical damage, corrosion, cracks, and loose fasteners; determine 
+if any of the three other nuts are a steel alloy P/N NAS679A, 
+NAS1291, or MS21042; and visually inspect the other three nuts, the 
+upper right-hand (RH) bolt, and two lower bolts for mechanical 
+damage, corrosion, cracks, damaged threads, and wear, including the 
+bolt shank and head radii of the bolts for a damaged thread, wear, 
+and mechanical damage.
+    (1) If there is any mechanical damage, corrosion, or cracks on 
+any bulkhead (FS 195.00 or FS 195.03), or any mechanical damage, 
+corrosion, or cracks on any bolt holes, or if there is any 
+mechanical damage, corrosion, cracks, or loose fasteners on any 
+attachment fitting, before further flight, repair or replace the 
+affected bulkhead or the affected attachment fitting, as 
+appropriate, in accordance with FAA-approved procedures.
+    (2) If there is any mechanical damage, corrosion, a crack, a 
+damaged thread, or wear on any nut, or if nut P/N NAS679A, NAS1291, 
+or MS21042 is installed, before further flight, remove the affected 
+nut from service. If there is a crack on any nut, before further 
+flight, also remove its associated bolt from service.
+    (3) If there is any mechanical damage, corrosion, a crack, a 
+damaged thread, or wear on the on the upper RH bolt or two lower 
+bolts, which includes the bolt shank or head radii, before further 
+flight, remove the affected bolt from service.
+    (C) Apply a coating of Aeriol ThixO #2 (3810-0) or Aeriol ThixO 
+SYN (3820-0) aviation grease to each bolt shank only. Install the 
+hardware set of each tail boom attachment point (nickel alloy nut P/
+N 90-132L7 or 90-132L6, as applicable to the affected tail boom 
+attachment point, new upper LH bolt P/N NAS627-21, upper RH and two 
+lower bolts P/N NAS626-20, countersunk washer, and plain washers). 
+Torque each bolt by using the torque value information identified in 
+paragraph (g) of this AD.
+    (ii) For Model 205A, 205A-1, and 205B helicopters, accomplish 
+the actions required by paragraphs (h)(1)(ii)(A) through (C) of this 
+AD.
+    (A) With the tail boom assembly removed, remove the upper LH 
+bolt from service and inspect its associated tail boom attachment 
+barrel nut (barrel nut) and retainer for mechanical damage, 
+corrosion, a crack, damaged threads, and wear, and to determine 
+whether it is a steel alloy barrel nut P/N NAS577B8A. If there is 
+any mechanical damage, corrosion, a crack, a damaged thread, or 
+wear, or if barrel nut P/N NAS577B8A is installed, before further 
+flight, remove the barrel nut and its associated retainer from 
+service.
+    (B) Visually inspect each bulkhead (BS 17.31 and FS 243.89) and 
+the bolt holes for mechanical damage, corrosion, and cracks; 
+visually inspect each attachment fitting for mechanical damage, 
+corrosion, cracks, and loose fasteners; determine if any of the 
+three other barrel nuts are steel alloy P/N NAS577B8A or P/N 
+NAS577B6A; and visually inspect the other three barrel nuts and the 
+associated retainers, the upper RH bolt, and two lower bolts for 
+mechanical damage, corrosion, cracks, damaged threads, and wear, 
+including the bolt shank and head radii of the bolts for a damaged 
+thread, wear, and mechanical damage.
+    (1) If there is any mechanical damage, corrosion, or cracks on 
+any bulkhead (BS 17.31 or FS 243.89), or any mechanical damage, 
+corrosion, or cracks on any bolt holes, or if there is any 
+mechanical damage, corrosion, cracks, or loose fasteners on any 
+attachment fitting, before further flight, repair or replace the 
+affected bulkhead or the affected attachment fitting, as 
+appropriate, in accordance with FAA-approved procedures.
+    (2) If there is any mechanical damage, corrosion, a crack, a 
+damaged thread, or wear on any barrel nut or retainer, or if barrel 
+nut P/N NAS577B8A or NAS577B6A is installed, before further flight, 
+remove the affected barrel nut and retainer (as a pair) from 
+service. If there is a crack on any nut, before further flight, also 
+remove its associated bolt from service.
+    (3) If there is any mechanical damage, corrosion, a crack, a 
+damaged thread, or wear on the upper RH bolt or two lower bolts, 
+which includes the bolt shank or head radii, before further flight, 
+remove the affected bolt from service.
+    (C) Apply a coating of Aeriol ThixO #2 (3810-0) or Aeriol ThixO 
+SYN (3820-0) aviation grease to each bolt shank only. Install the 
+hardware set of each tail boom attachment point (nickel alloy barrel 
+nut P/N NAS577C6A or P/N NAS577C8A and retainer P/N NAS578C6A or P/N 
+NAS578C8A, as applicable to the affected tail boom attachment point, 
+new upper LH bolt P/N NAS628-22, upper RH and two lower bolts P/N 
+NAS628-22 or NAS626-18, as applicable to the affected tail boom 
+attachment point, countersunk washer, and plain washers). Torque 
+each bolt by using the torque value information identified in 
+paragraph (g) of this AD.
+    (iii) For Model 210 helicopters, accomplish the actions required 
+by paragraphs (h)(1)(iii)(A) through (C) of this AD.
+    (A) With the tail boom supported, remove the upper LH bolt, and 
+the steel alloy barrel nut P/N NAS577B9A, including the retainer, 
+from service. Remove the countersunk washer, and plain washers, and 
+install new nickel alloy barrel nut P/N NAS577C9A, new retainer P/N 
+NAS578C9A, airworthy countersunk washer, airworthy plain washers, 
+and a new bolt in accordance with the Accomplishment Instructions, 
+Part I, paragraphs 5 through 7 of Bell Alert Service Bulletin (ASB) 
+210-21-15, Revision A, dated February 23, 2022 (ASB 210-21-15, Rev 
+A).
+    (B) Remove the upper RH bolt, steel alloy barrel nut P/N 
+NAS577B8A, countersunk washer, and plain washers. Visually inspect 
+the upper RH bolt for any corrosion, damaged threads, wear, and 
+fatigue cracking. If the upper RH bolt has any corrosion, damaged 
+threads, wear, or fatigue cracking, before further flight, remove 
+the upper RH bolt from service. Visually inspect the removed barrel 
+nut for cracking. If there is any cracking in the barrel nut, before 
+further flight, remove the upper RH bolt from service. Regardless of 
+the result of the upper RH steel alloy barrel nut inspection, 
+replace the barrel nut with a new nickel alloy barrel nut P/N 
+NAS577C8A and new retainer P/N NAS578C8A. Install a new upper RH 
+bolt or reinstall the existing upper RH bolt (if no cracks in the 
+barrel nut, and no corrosion, damaged threads, wear, or fatigue 
+cracking in the bolt were identified), by following the 
+Accomplishment Instructions, part I, paragraphs 11 and 12, including 
+the caution above paragraph 11, of ASB 210-21-15, Rev A.
+    (C) Remove one of the lower bolts, its lower steel alloy barrel 
+nut P/N NAS577B6A, countersunk washer, and plain washers. Visually 
+inspect that lower bolt for any corrosion, damaged threads, wear, 
+and fatigue cracking. If the lower bolt has any corrosion, damaged 
+threads, wear, or fatigue cracking, before further flight, remove 
+the lower bolt from service. Visually inspect the removed lower 
+barrel nut for cracking. If there is any cracking in the lower 
+barrel nut, before further flight, remove the lower bolt from 
+service. Regardless of the result of that lower steel alloy barrel 
+nut inspection, replace the barrel nut with a new nickel alloy 
+barrel nut P/N NAS577C6A and new retainer P/N NAS578C6A. Install a 
+new lower bolt or reinstall the existing lower bolt (if no cracks in 
+the barrel nut, and no corrosion, damaged threads, wear, or fatigue 
+cracking in the bolt were identified), by following the 
+Accomplishment Instructions, part I, paragraphs 16 through 17, 
+including the caution above paragraph 16, of ASB 210-21-15, Rev A. 
+Repeat the actions required by this paragraph for the other lower 
+attachment point.
+    (2) After accumulating 1 hour TIS, but not to exceed 5 hours 
+TIS, after accomplishing the actions required by paragraph (h)(1) of 
+this AD, using the torque value information identified in paragraph 
+(g) of this AD applicable to your model helicopter, inspect the 
+torque applied on each bolt. Thereafter, repeat the torque 
+inspection of each bolt after accumulating 1 hour TIS, but not to 
+exceed 5 hours TIS, to determine if the torque has stabilized. Do 
+not exceed three torque inspections total for each bolt and 
+accomplish the actions required by paragraphs (h)(2)(i) and (ii) of 
+this AD.
+    (i) If the torque on a bolt is below the minimum allowable 
+torque limit as a result of any instance of the torque inspection or 
+if after three torque inspection attempts, the torque on any bolt 
+has not stabilized, before further flight, accomplish the actions 
+required by paragraphs (h)(2)(i)(A) and (B) of this AD.
+    (A) Remove the hardware set of one failed tail boom attachment 
+point (nut, bolt, countersunk washer, and plain washers for Model 
+204B helicopters, and barrel nut, bolt, retainer, countersunk 
+washer, and plain washers for Model 205A, 205A-1, 205B, and 210 
+helicopters). For Model 204B helicopters, remove the nut from 
+service and for Model 205A, 205A-1, 205B, and 210 helicopters, 
+remove the barrel nut and retainer from service as applicable to the 
+affected tail boom attachment point. Visually inspect the removed 
+bolt for any corrosion, damaged threads, wear, and fatigue cracking. 
+If the bolt has any corrosion, a damaged thread, wear, or fatigue 
+cracking, before further flight, remove the bolt from service.
+    (B) Apply a coating of Aeriol ThixO #2 (3810-0) or Aeriol ThixO 
+SYN (3820-0)
+
+[[Page 80738]]
+
+aviation grease to the bolt shank only. Install a new bolt or 
+reinstall the existing bolt (if no corrosion, damaged threads, wear, 
+or fatigue cracking in the bolt were identified) and the hardware 
+set of the affected tail boom attachment point (new nut P/N 90-132L6 
+or 90-132L7, countersunk washer, and plain washers for Model 204B 
+helicopters, and new nickel alloy barrel nut P/N NAS577C6A, 
+NAS577C8A or P/N NAS577C9A and new retainer P/N NAS578C6A, 
+NAS578C8A, or P/N NAS577C9A, countersunk washer, and plain washers 
+for Model 205A, 205A-1, 205B, and 210 helicopters), as applicable to 
+the affected tail boom attachment point. Torque the bolt by using 
+the torque value information identified in paragraph (g) of this AD. 
+Repeat the actions required by paragraphs (h)(2)(i)(A) and (B) of 
+this AD for each failed tail boom attachment point, one hardware set 
+at a time. Then repeat the actions required by paragraph (h)(2) of 
+this AD just for each newly installed or reinstalled bolt until the 
+torque for all four tail boom attachment points stabilize.
+    (ii) If the torque for all four tail boom attachment points has 
+stabilized, before further flight, apply a torque stripe to all four 
+bolts.
+    (3) Within 600 hours TIS or 12 months, whichever occurs first 
+after applying torque stripes to all four bolts as required by 
+paragraph (h)(2)(ii) of this AD, and thereafter within intervals not 
+to exceed 600 hours TIS or 12 months, whichever occurs first, 
+inspect the torque applied on each bolt using the torque value 
+information identified in paragraph (g) of this AD, as applicable to 
+your model helicopter. If the torque on any bolt is below the 
+minimum allowable torque limit, accomplish the actions required by 
+paragraphs (h)(3)(i) and (ii) of this AD.
+    (i) Before further flight, remove the hardware set of one failed 
+tail boom attachment point (nut, bolt, countersunk washer, and plain 
+washers for Model 204B helicopters, and barrel nut, retainer, bolt, 
+countersunk washer, and plain washers for Model 205A, 205A-1, 205B, 
+and 210 helicopters) and then accomplish the actions required by 
+paragraphs (h)(3)(i)(A), (B), or (C) of this AD as applicable to 
+your model helicopter.
+    (A) For Model 204B helicopters, visually inspect the removed nut 
+for cracking, corrosion, and loss of tare torque. If the nut has any 
+cracking, corrosion, or loss of tare toque, before further flight, 
+remove the nut from service and replace with a new nut P/N 90-132L7 
+or 90-132L6 as applicable to the tail boom attachment point. 
+Regardless of the result of the nut inspection, remove the bolt from 
+service and replace it with a new bolt by applying a coating of 
+Aeriol ThixO #2 (3810-0) or Aeriol ThixO SYN (3820-0) aviation 
+grease to the bolt shank only, and install the hardware set of the 
+tail boom attachment point (nut, bolt, and countersunk washer, and 
+plain washers). Torque each bolt by using the torque value 
+information identified in paragraph (g) of this AD. Repeat the 
+actions required by this paragraph for each failed tail boom 
+attachment point, one hardware set at a time.
+    (B) For Model 205A, 205A-1, and 205B helicopters, visually 
+inspect the removed barrel nut for cracking, corrosion, and loss of 
+tare torque. If the barrel nut has any cracking, corrosion, or loss 
+of tare toque, before further flight, remove the barrel nut and 
+retainer from service and replace them with a new nickel alloy 
+barrel nut P/N NAS577C6A, or NAS577C8A, and new retainer P/N 
+NAS578C6A, or NAS578C8A, with the P/N of the new nickel alloy barrel 
+nut and the P/N of the new retainer being as applicable to the 
+affected tail boom attachment point. Regardless of the result of the 
+barrel nut inspection, remove the bolt from service and replace it 
+with a new bolt. Apply a coating of Aeriol ThixO #2 (3810-0) or 
+Aeriol ThixO SYN (3820-0) aviation grease to each bolt shank only. 
+Install the hardware set of each tail boom attachment point (nickel 
+alloy barrel nut, retainer, bolt, countersunk washer, and plain 
+washers). Torque each bolt by using the torque value information 
+identified in paragraph (g) of this AD. Repeat the actions required 
+by this paragraph for each failed tail boom attachment point, one 
+hardware set at a time.
+    (C) For Model 210 helicopters, visually inspect the removed 
+barrel nut for cracking, corrosion, and loss of tare torque. If the 
+barrel nut has any cracking, corrosion, or loss of tare toque, 
+before further flight, remove the barrel nut and retainer from 
+service and replace them with a new nickel alloy barrel nut P/N 
+NAS577C6A, NAS577C8A, or NAS577C9A, and new retainer P/N NAS578C6A, 
+NAS578C8A, or NAS578C9A, with the P/N of the new nickel alloy barrel 
+nut and the P/N of the new retainer being as applicable to the 
+affected tail boom attachment point. Regardless of the result of the 
+barrel nut inspection, remove the bolt from service and replace it 
+with a new bolt, apply a coating of Aeriol ThixO #2 (3810-0) or 
+Aeriol ThixO SYN (3820-0) aviation grease to each bolt shank only, 
+and torque each bolt by using the torque value information 
+identified in paragraph (g) of this AD. Repeat the actions required 
+by this paragraph for each failed tail boom attachment point, one 
+hardware set at a time.
+    (ii) After accumulating 1 hour TIS, but not to exceed 5 hours 
+TIS after accomplishing the actions required by paragraph (h)(3)(i) 
+of this AD, using the torque value information identified in 
+paragraph (g) of this AD as applicable to your model helicopter, 
+inspect the torque applied on each newly installed bolt. Thereafter, 
+repeat the torque inspection of those bolts after accumulating 1 
+hour TIS, but not to exceed 5 hours TIS, to determine if the torque 
+has stabilized. Do not exceed three torque inspections total for 
+those bolts and accomplish the actions required by paragraphs 
+(h)(2)(i) and (ii) of this AD.
+    (4) Within 5,000 hours TIS or 5 years after accomplishing the 
+actions required by paragraph (h)(1) of this AD, whichever occurs 
+first, and thereafter within intervals not to exceed 5,000 hours TIS 
+or 5 years, whichever occurs first, accomplish the actions required 
+by paragraphs (h)(4)(i) and (ii) of this AD.
+    (i) Accomplish the actions required by paragraphs (h)(1)(i), 
+(ii), or (iii) of this AD, as applicable to your model helicopter.
+    (ii) After accumulating 1 hour TIS, but not to exceed 5 hours 
+TIS after accomplishing the actions required by paragraph (h)(4)(i) 
+of this AD, using the torque value information identified in 
+paragraph (g) of this AD as applicable to your model helicopter, 
+inspect the torque applied on each bolt. Thereafter, repeat the 
+torque inspection of those bolts after accumulating 1 hour TIS, but 
+not to exceed 5 hours TIS, to determine if the torque has 
+stabilized. Do not exceed three torque inspections total for those 
+bolts and accomplish the actions required by paragraphs (h)(2)(i) 
+and (ii) of this AD.
+    (5) As of the effective date of this AD, do not install the 
+following parts identified in paragraphs (h)(5)(i) and (ii) of this 
+AD on any helicopter.
+    (i) For Model 204B helicopters: steel alloy nut P/N NAS679A, 
+NAS1291, or MS21042.
+    (ii) For Model 205A, 205A-1, 205B, and 210 helicopters: steel 
+alloy barrel nut P/N NAS577B9A, P/N NAS577B8A, or P/N NAS577B6A.
+
+(i) Special Flight Permit
+
+    A one-time special flight permit may be issued in accordance 
+with 14 CFR 21.197 and 21.199 in order to fly to a maintenance area 
+to perform the required actions in this AD.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Central Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the certification office, send it to the 
+attention of the person identified in paragraph (k) of this AD. 
+Information may be emailed to <a href="/cdn-cgi/l/email-protection#eaaba7a5a9aa8c8b8bc48d859c"><span class="__cf_email__" data-cfemail="4504080a06052324246b222a33">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(k) Related Information
+
+    For more information about this AD, contact Michael Perrin, 
+Aviation Safety Engineer, FAA, 1801 S Airport Road, Wichita, KS 
+67209; phone: (562) 627-5362; email: <a href="/cdn-cgi/l/email-protection#f1bc98929990949ddf9bdf81948383989fb1979090df969e87"><span class="__cf_email__" data-cfemail="3e73575d565f5b521054104e5b4c4c57507e585f5f10595148">[email&#160;protected]</span></a>.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Bell Alert Service Bulletin 210-21-15, Revision A, dated 
+February 23, 2022.
+    (ii) [Reserved]
+    (3) For Bell material identified in this AD, contact Bell 
+Textron Inc., P.O. Box 482, Fort Worth, TX 76101; phone: (450) 437-
+2862 or (800) 363-8023; fax: (450) 433-0272; email: 
+<a href="/cdn-cgi/l/email-protection#dbaba9b4bfaeb8afa8aeababb4a9af9bb9beb7b7bdb7b2bcb3aff5b8b4b6"><span class="__cf_email__" data-cfemail="a5d5d7cac1d0c6d1d6d0d5d5cad7d1e5c7c0c9c9c3c9ccc2cdd18bc6cac8">[email&#160;protected]</span></a>; website: <a href="http://bellflight.com/support/contact-support">bellflight.com/support/contact-support</a>.
+    (4) You may view this material at the FAA, Office of Regional 
+Counsel, Southwest Region, 10101 Hillwood Pkwy., Fort Worth, TX 
+76177. For information on the availability
+
+[[Page 80739]]
+
+of this material at the FAA, call: (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a> or email <a href="/cdn-cgi/l/email-protection#294f5b0740475a594c4a5d4046476947485b48074e465f"><span class="__cf_email__" data-cfemail="1c7a6e3275726f6c797f687573725c727d6e7d327b736a">[email&#160;protected]</span></a>.
+
+    Issued on September 27, 2024.
+Victor Wicklund,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-22908 Filed 10-3-24; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

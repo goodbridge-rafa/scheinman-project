@@ -1,0 +1,416 @@
+<html>
+<head>
+<title>Federal Register, Volume 77 Issue 237 (Monday, December 10, 2012)</title>
+</head>
+<body><pre>
+[Federal Register Volume 77, Number 237 (Monday, December 10, 2012)]
+[Rules and Regulations]
+[Pages 73265-73268]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2012-28434]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2008-1243; Directorate Identifier 2007-SW-03-AD; 
+Amendment 39-17267; AD 2012-23-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Erickson Air-Crane Incorporated 
+Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for 
+Erickson Air-Crane Incorporated (Erickson) Model S-64F helicopters. 
+This AD requires inspecting for cracking or working rivets in each left 
+and right splice fitting (transition fitting), the pylon bulkhead 
+assembly-canted (bulkhead assembly), and the pylon steel strap (strap). 
+This AD was prompted by several reports of cracking in the transition 
+fittings, the bulkhead assembly, and the pylon. The actions specified 
+by this AD are intended to detect cracking in the rotary rudder boom or 
+pylon due to fatigue, and to prevent failure from static overload and 
+subsequent loss of control of the helicopter.
+
+DATES: This AD is effective January 14, 2013.
+
+[[Page 73266]]
+
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain document listed in this AD as of January 14, 
+2013.
+
+ADDRESSES: For service information identified in this AD, contact 
+Erickson Air-Crane Incorporated, ATTN: Chris Erickson/Compliance 
+Officer, 3100 Willow Springs Rd., P.O. Box 3247, Central Point, OR 
+97502; telephone (541) 664-5544; fax (541) 664-2312; email 
+<a href="/cdn-cgi/l/email-protection#b8dbddcad1dbd3cbd7d6f8ddcad1dbd3cbd7d6d9d1cadbcad9d6dd96dbd7d5"><span class="__cf_email__" data-cfemail="0e6d6b7c676d657d61604e6b7c676d657d61606f677c6d7c6f606b206d6163">[email&#160;protected]</span></a>. You may review the referenced service 
+information at the FAA, Office of the Regional Counsel, Southwest 
+Region, 2601 Meacham Blvd., Room 663, Fort Worth, Texas 76137.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Operations Office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, any incorporated-by-reference 
+service information, the economic evaluation, any comments received, 
+and other information. The street address for the Docket Operations 
+Office (phone: 800-647-5527) is U.S. Department of Transportation, 
+Docket Operations Office, M-30, West Building Ground Floor, Room W12-
+140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Michael Kohner, Aviation Safety 
+Engineer, Rotorcraft Certification Office, Rotorcraft Directorate, FAA, 
+2601 Meacham Blvd., Fort Worth, Texas 76137; telephone (817) 222-5170; 
+email <a href="/cdn-cgi/l/email-protection#8dbaa0ecfbfea0ecfefaa0bcbabdcdebececa3eae2fb"><span class="__cf_email__" data-cfemail="ccfbe1adbabfe1adbfbbe1fdfbfc8caaadade2aba3ba">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    On November 26, 2008, at 73 FR 71952, the Federal Register 
+published our notice of proposed rulemaking (NPRM), which proposed to 
+amend 14 CFR part 39 to include an AD that would apply to Erickson 
+Model S-64F helicopters with a transition fitting, part number (P/N) 
+6420-66341-101, -102, -103, or -104; bulkhead assembly, P/N 6420-66340-
+041, -043, or -044; or a strap, P/N 6420-66301-119 or -127, installed. 
+That NPRM proposed to require inspecting for cracking or working rivets 
+in each transition fitting, the bulkhead assembly, the strap, and the 
+attaching rotary rudder boom and pylon structure, and repairing or 
+replacing any cracked or damaged part with an airworthy part. The NPRM 
+also proposed to require, for any part where you could not visually 
+determine that a crack does not exist, inspecting using a 10-power or 
+higher magnifying glass. If you could not determine that a crack does 
+not exist in the part after inspecting it with a 10-power or higher 
+magnifying glass, the NPRM proposed to require performing a fluorescent 
+particle inspection (FPI) of any part other than a strap, and 
+performing a magnetic particle inspection (MPI) of any strap. The NPRM 
+also proposed to require replacing any loose or working rivet. The 
+proposed requirements were intended to detect cracking in the rotary 
+rudder boom or pylon due to fatigue, and to prevent failure from static 
+overload and subsequent loss of control of the helicopter.
+
+Comments
+
+    After our NPRM (73 FR 71952, November 26, 2008) was published, we 
+received comments from one commenter.
+
+Request
+
+    A commenter from Erickson Air-Crane asked that we delete the 
+bulkhead assembly, P/N 6420-66340-041, from the applicability and 
+compliance section of the NPRM (73 FR 71952, November 26, 2008) since 
+that P/N is not used on Erickson Model S-64F helicopters. We agree and 
+have revised this AD accordingly.
+    The commenter also asked that we delete the words ``other than a 
+strap'' from the requirement to perform an FPI on a part other than a 
+strap if you cannot determine that a crack does not exist, and delete 
+the entire requirement to perform an MPI of the strap if you cannot 
+determine that a crack does not exist. The commenter states that an MPI 
+cannot be performed on the strap when it is installed on a helicopter; 
+instead an FPI of the strap would need to be performed with the other 
+parts. We partially agree. We agree that an MPI cannot be performed on 
+the strap while it is installed on the helicopter because the strap is 
+attached to the aluminum pylon section. An MPI for the strap was 
+initially proposed in the NPRM (73 FR 71952, November 26, 2008) because 
+this would be the type of inspection normally used for a steel part. 
+Instead of changing the MPI on the strap to an FPI as requested, after 
+further review, we determined that deleting this inspection, as well as 
+the magnifying glass inspection and certain FPIs that were proposed in 
+the NPRM, will not impact the overall level of safety. These 
+inspections were included in the event a visual inspection was 
+insufficient to determine whether a crack exists. If any additional 
+inspections are necessary to determine if a crack exists, a qualified 
+individual performing the inspection must make this determination.
+
+FAA's Determination
+
+    We have reviewed the relevant information, considered the comments 
+received, and determined that an unsafe condition exists and is likely 
+to exist or develop on other products of the same type design and that 
+air safety and the public interest require adopting the AD requirements 
+as proposed with the changes described previously and minor editorial 
+changes. We have also revised the estimated costs of complying with 
+this AD to reflect an average labor rate of $85 per work-hour instead 
+of $80 per work-hour. These changes are consistent with the intent of 
+the proposals in the NPRM (73 FR 71952, November 26, 2008) and will not 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Related Service Information
+
+    We have reviewed Erickson Service Bulletin (SB) No. 64B20-6, 
+Revision A, dated December 12, 2007, which describes procedures for 
+inspecting the transition fittings, the bulkhead assembly, the strap, 
+and the attaching rotary rudder boom and pylon structure for cracking 
+or working rivets. We have also reviewed Erickson SB No. 64F General-3, 
+Revision C, dated December 12, 2007, which summarizes a listing of a 
+portion of the Model S-64F helicopter components, their part numbers, 
+and the corresponding SBs to use when performing the structural 
+inspections.
+
+Costs of Compliance
+
+    We estimate that this AD will affect 7 helicopters of U.S. 
+Registry. We estimate that operators may incur the following costs in 
+order to comply with this AD. It will take about 0.75 work-hour to 
+visually inspect the transition fittings, skin panels, the bulkhead 
+assembly, strap, and pylon exterior in the strap area; we estimate 30 
+of these visual inspections per year. It will take about 0.50 work-hour 
+to visually inspect the pylon interior in the strap area; we estimate 4 
+of these visual inspections per year. It will take about 0.75 work-hour 
+to visually and fluorescent penetrant inspect the skin panels at the 
+transition fitting; we estimate performing these inspections 1 time per 
+year. It will take about 40 work-hours to repair a pylon structural 
+assembly. The average labor rate is $85 per work-hour and the cost for 
+required parts to repair a pylon structural assembly is approximately 
+$50,000. Based on these figures, we estimate the annual cost of the 
+inspections will be $2,146 per helicopter and $15,024 for the fleet on
+
+[[Page 73267]]
+
+U.S. operators. The estimated cost to repair a pylon structural 
+assembly, including the cost for replacement parts and labor, is 
+$53,400.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979);
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction; and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared an economic evaluation of the estimated costs to comply 
+with this AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2012-23-11 Erickson Air-Crane Incorporated: Amendment 39-17267; 
+Docket No. FAA-2008-1243; Directorate Identifier 2007-SW-03-AD.
+
+(a) Applicability
+
+    This AD applies to Erickson Air-Crane Incorporated (Erickson) 
+Model S-64F helicopters with a left or right splice fitting 
+(transition fitting), part number (P/N) 6420-66341-101, -102, -103, 
+or -104; pylon bulkhead assembly-canted (bulkhead assembly), P/N 
+6420-66340-043 or -044; or a pylon steel strap (strap), P/N 6420-
+66301-119 or -127, installed, certificated in any category.
+
+(b) Unsafe Condition
+
+    This AD defines the unsafe condition as cracking in the rotary 
+rudder boom or pylon due to fatigue, failure from static overload, 
+and subsequent loss of control of the helicopter.
+
+(c) Effective Date
+
+    This AD becomes effective January 14, 2013.
+
+(d) Compliance
+
+    You are responsible for performing each action required by this 
+AD within the specified compliance time unless it has already been 
+accomplished prior to that time.
+
+(e) Required Actions
+
+    (1) Within 20 hours time-in-service (TIS), and thereafter at 
+intervals not to exceed 20 hours (TIS):
+    (i) Visually inspect each transition fitting, P/N 6420-66341-
+101, -102, -103, or -104, for a crack or working rivets on the 
+inboard face of the rotary rudder boom and pylon, paying particular 
+attention to the fastener attachment holes, as depicted in Figure 1, 
+Detail A, of the Accomplishment Instructions in Erickson Air-Crane 
+Incorporated Service Bulletin No. 64B20-6, Revision A, dated 
+December 12, 2007 (SB).
+    (ii) Visually inspect the outboard face of each rotary rudder 
+boom and pylon skin panel (skin panel) that attaches to the 
+transition fittings for a crack or working rivets in the transition 
+fitting attachment areas, paying particular attention to the 
+fastener attachment holes, as shown in Figure 1, Detail B, of the 
+Accomplishment Instructions in the SB.
+    (iii) Visually inspect the forward and aft sides of each 
+bulkhead assembly, P/N 6420-66340-043 or -044, for a crack. Pay 
+particular attention to the circled areas shown in Figure 2 of the 
+Accomplishment Instructions in the SB.
+    (iv) Visually inspect the upper 12 inches of each strap, P/N 
+6420-66301-119 or -127, for a crack or for working rivets as shown 
+in Figure 3 of the Accomplishment Instructions in the SB.
+    (v) Visually inspect the pylon for a crack or working rivets on 
+each side of the upper 12 inches of the strap, and also 6 inches 
+above the end of the strap as shown in Figure 3 of the 
+Accomplishment Instructions in the SB.
+    (2) For any pylon with a strap installed, within 155 hours TIS, 
+and thereafter at intervals not to exceed 155 hours TIS, remove the 
+inspection access covers, P/N 6420-66304-109 and P/N 6420-66303-125, 
+on the forward and aft sides of the pylon and visually inspect the 
+left-hand cap angle (longeron), P/N 6420-66304-136, and the interior 
+area of the pylon adjacent to the upper 12 inches of the strap, as 
+well as 6 inches above the end of the strap, for a crack or working 
+rivets, as shown in Figure 3 of the Accomplishment Instructions in 
+the SB.
+    (3) At each transition fitting replacement, which is required at 
+intervals not to exceed 8,300 hours TIS:
+    (i) With each transition fitting removed, visually inspect both 
+sides of each skin panel for a crack in the areas to which the 
+transition fitting attaches, paying particular attention to the 
+fastener attachment holes, as depicted in Details A and B, Figure 1, 
+of the Accomplishment Instructions in the SB.
+    (ii) Perform a fluorescent penetrant inspection of each skin 
+panel for a crack in the areas around the fastener holes where the 
+transition fittings attach to the rotary rudder boom and pylon.
+    (4) If there is a crack, before further flight, replace any 
+cracked part with an airworthy part, or repair the cracked part if 
+the damage is within the maximum repair damage limits.
+
+    Note to paragraph (e)(4) of this AD:  The maximum repair damage 
+limitations are stated in the applicable Component and Repair 
+Overhaul Manual.
+
+    (5) If any loose or working rivets are found, before further 
+flight, remove the rivets and visually inspect the fastener holes 
+and surrounding area for a crack or any other damage. Replace any 
+part that is cracked with an airworthy part; replace any damaged 
+part with damage exceeding the maximum repair damage limits with an 
+airworthy part; or repair any damaged part that is within the 
+maximum repair damage limits. Also, replace any loose or working 
+rivets.
+
+(f) Special Flight Permits
+
+    Special flight permits may be issued in accordance with 14 CFR 
+21.197 and 21.199 to operate the helicopter to a location where the 
+inspection requirements of this AD can be accomplished. No special 
+flight permits will be issued to accomplish replacements or repairs, 
+or if a crack is suspected.
+
+(g) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Rotorcraft Certification Office, FAA, may 
+approve AMOCs for this AD. Send your proposal to: Michael Kohner, 
+Aviation Safety Engineer, Rotorcraft Certification Office, 
+Rotorcraft Directorate, FAA, 2601 Meacham Blvd., Fort Worth, Texas 
+76137; telephone (817) 222-5170; email <a href="/cdn-cgi/l/email-protection#98afb5f9eeebb5f9ebefb5a9afa8d8fef9f9b6fff7ee"><span class="__cf_email__" data-cfemail="f7c0da968184da968480dac6c0c7b7919696d9909881">[email&#160;protected]</span></a>.
+
+[[Page 73268]]
+
+    (2) For operations conducted under a 14 CFR part 119 operating 
+certificate or under 14 CFR part 91, subpart K, we suggest that you 
+notify your principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office or 
+certificate holding district office before operating any aircraft 
+complying with this AD through an AMOC.
+
+(h) Additional Information
+
+    Erickson Air-Crane Service Bulletin No. 64F General-3, Revision 
+C, dated December 12, 2007, which is not incorporated by reference, 
+contains additional information about the subject of this AD. For 
+this service information, contact Erickson Air-Crane Incorporated, 
+ATTN: Chris Erickson/Compliance Officer, 3100 Willow Springs Rd., 
+P.O. Box 3247, Central Point, OR 97502; telephone (541) 664-5544; 
+fax (541) 664-2312; email <a href="/cdn-cgi/l/email-protection#492a2c3b202a223a2627092c3b202a223a262728203b2a3b28272c672a2624"><span class="__cf_email__" data-cfemail="95f6f0e7fcf6fee6fafbd5f0e7fcf6fee6fafbf4fce7f6e7f4fbf0bbf6faf8">[email&#160;protected]</span></a>. You may 
+also review this service information at the FAA, Office of the 
+Regional Counsel, Southwest Region, 2601 Meacham Blvd., Room 663, 
+Fort Worth, Texas 76137.
+
+(i) Subject
+
+    Joint Aircraft Service Component (JASC) Code: 5302, Rotorcraft 
+Tail Boom.
+
+(j) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Erickson Air-Crane Incorporated Service Bulletin No. 64B20-
+6, Revision A, dated December 12, 2007.
+    (ii) Reserved.
+    (3) For Erickson Air-Crane Incorporated service information 
+identified in this AD, contact Erickson Air-Crane Incorporated, 
+ATTN: Chris Erickson/Compliance Officer, 3100 Willow Springs Rd., 
+P.O. Box 3247, Central Point, OR 97502; telephone (541) 664-5544; 
+fax (541) 664-2312; email <a href="/cdn-cgi/l/email-protection#debdbbacb7bdb5adb1b09ebbacb7bdb5adb1b0bfb7acbdacbfb0bbf0bdb1b3"><span class="__cf_email__" data-cfemail="ccafa9bea5afa7bfa3a28ca9bea5afa7bfa3a2ada5beafbeada2a9e2afa3a1">[email&#160;protected]</span></a>.
+    (4) You may view this service information at FAA, Office of the 
+Regional Counsel, Southwest Region, 2601 Meacham Blvd., Room 663, 
+Fort Worth, Texas 76137. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Fort Worth, Texas, on November 13, 2012.
+Kim Smith,
+Directorate Manager, Rotorcraft Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-28434 Filed 12-7-12; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

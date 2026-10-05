@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "05-9876": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "no person shall install on any airplane a stop support fitting of the MEDs made from either 7079-T651 or 7075-T651 material.",
+     "value": "7079-T651 or 7075-T651"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of main entry door (MED) 3 having certain stop support fittings that are susceptible to stress corrosion cracking.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "perform a detailed inspection to detect cracks of the stop support fitting of the MEDs, in accordance with the applicable service bulletin.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct stress corrosion cracking of the stop support fittings of the MEDs, which could result in damage to the adjacent forward edge frame of the door and consequent loss of a MED and rapid decompression of the airplane.",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "That AD currently requires a one-time inspection to determine the material type of the stop support fittings of the main entry doors (MEDs). That AD also currently requires repetitive detailed inspections to detect cracks of certain stop support fittings of the MEDs, and replacement of any cracked stop support fitting with a certain new stop support fitting. This new AD adds new inspections, and replacement if necessary, of the stop support fittings of MED 3",
+     "value": "repetitive_inspection;one_time_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) This AD supersedes AD 98-26-13, amendment 39-10954.",
+     "value": "AD 98-26-13"
+    }
+   ]
+  },
+  "06-3061": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "After the effective date of this AD, no person may install on any airplane a main fuselage frame made of 7075-T6 aluminum material.",
+     "value": "7075-T6"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from several reports of cracking of the main fuselage frame.",
+     "value": "frame"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "(3) If the crack is in the web, before further flight: Do the action in paragraph (i) of this AD.",
+     "value": "web"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct stress corrosion cracking of the main fuselage frame, which could result in extensive damage to adjacent structure, and reduced structural integrity of the airplane.",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections for stress corrosion cracks of the main fuselage frame, and corrective actions if necessary. ... This AD requires inspection and/or replacement of the main fuselage frame, but not repairs or modification. ... (2) If the crack is in the pocket area and the crack exceeds the crack limits specified in McDonnell Douglas Service Sketch 3529, dated August 23, 1983, before further flight: Do the action in paragraph (i) of this AD.",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2010-1690": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "the accomplishment of certain existing inspections, repairs, and modifications is not adequate to ensure the structural integrity of the affected 7075 series aluminum alloy upper deck floor beam upper chords on airplanes that have exceeded certain thresholds.",
+     "value": "7075 series aluminum alloy"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent cracking of the upper chords and straps (or angles) of the floor beams, which could lead to failure of the floor beams and consequent loss of controllability, rapid decompression, and loss of structural integrity of the airplane.",
+     "value": "floor_beam"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Do an open-hole high frequency eddy current (HFEC) inspection of all the fastener holes accessed for upper chord removal for cracks, and replace the upper chords, straps (or angles), and radius fillers of the upper deck floor beams",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent cracking of the upper chords and straps (or angles) of the floor beams, which could lead to failure of the floor beams",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD also requires repetitive replacements of the upper chords, straps (or angles), and radius fillers of certain upper deck floor beams, and, for any replacement that is done, detailed and open-hole HFEC inspections for cracks of the modified upper deck floor beams, and corrective actions if necessary. ... (i) If any crack is found during any inspection required by this AD: Before further flight, repair the crack using a method approved in accordance with the procedures specified in paragraph (j) of this AD.",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2013-00894": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "It is possible for stress corrosion cracks to occur on engine mount fittings initially made of aluminium alloy AA2024-T351.",
+     "value": "AA2024-T351"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This Airworthiness Directive (AD) is prompted due to the discovery of cracks in the engine mount fittings.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct cracks in the engine mount fittings.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The cracks are caused by stress corrosion.",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "this AD requires a one-time check to identify the material specification and inspect those affected engine mount fittings that are made of aluminium alloy AA2024-T351. Any engine mount fittings found to be cracked must be reported to Pilatus prior to further flight.",
+     "value": "one_time_inspection;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2014-17052": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Control cable pulleys made from plastic (white or brown material) in the rudder control unit were reported to develop cracks due to aging.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as plastic control cable pulleys developing cracks due to aging.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Control cable pulleys made from plastic (white or brown material) in the rudder control unit were reported to develop cracks due to aging.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as plastic control cable pulleys developing cracks due to aging.",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "inspect the rudder control unit for installation of plastic cable pulleys. If plastic cable pulleys are installed, before further flight, replace the plastic cable pulleys with aluminum cable pulleys following the actions and instructions of Fiberglas-Technik Rudolf Lindner GmbH & Co. KG Service Bulletin SB-G05",
+     "value": "one_time_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2015-00010": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as possible cracking from stress corrosion on various parts of the airplane structure made of aluminum alloy AA2024-T351.",
+     "value": "AA2024-T351"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "It is possible that stress corrosion cracks may occur on various parts of the aircraft structure initially made of aluminium alloy AA2024-T351 ... The MCAI also requires replacement of the elevator center control-rod, P/N 116.35.07.271 or 116.35.07.345; and shackle, P/N 116.35.07.183.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as possible cracking from stress corrosion on various parts of the airplane structure made of aluminum alloy AA2024-T351.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "It is possible that stress corrosion cracks may occur on various parts of the aircraft structure initially made of aluminium alloy AA2024-T351 which is susceptible to Stress Corrosion Cracking (SCC).",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "perform a one-time conductivity test of items 6 through 9 and 11 through 13 as listed in paragraph 1.A.(2) of Pilatus PC-7 Service Bulletin No: 51-001 ... do a one-time inspection for cracks. If any cracks are found as a result of the inspection, before further flight, you must contact Pilatus Aircraft Ltd. to obtain FAA-approved repair instructions approved specifically for compliance with this AD and incorporate those instructions. ... replace with a part made of aluminum alloy AA2124-T851.",
+     "value": "one_time_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  }
+ }
+}

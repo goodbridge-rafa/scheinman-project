@@ -1,0 +1,714 @@
+<html>
+<head>
+<title>Federal Register, Volume 70 Issue 113 (Tuesday, June 14, 2005)</title>
+</head>
+<body><pre>
+[Federal Register Volume 70, Number 113 (Tuesday, June 14, 2005)]
+[Rules and Regulations]
+[Pages 34329-34334]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 05-11612]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-05-21176; Directorate Identifier 2005-CE-25-AD; 
+Amendment 39-14128; AD 2005-12-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Cessna Aircraft Company Models 401, 
+401A, 401B, 402, 402A, 402B, 411, and 411A Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) to 
+supersede AD 79-10-15, which applies to all Cessna Aircraft Company 
+(Cessna) Models 401, 401A, 401B, 402, 402A, 402B, 411, and 411A 
+airplanes. AD 79-10-15 currently requires repetitive inspections of the 
+right and left wing spar lower cap areas for fatigue cracks and 
+requires wing spar cap repair or replacement as necessary. This AD is 
+the result of fatigue and crack growth analyses of the wings of these 
+airplanes, recent cracks found on similar design Model 402C airplanes, 
+and the FAA's determination that repetitive inspections and a wing spar 
+modification are necessary to address the unsafe condition. 
+Consequently, this AD would require repetitive inspections and a spar 
+strap modification on each wing. The actions specified by this AD are 
+intended to prevent wing spar cap failure caused by undetected fatigue 
+cracks. Such failure could result in loss of a wing with consequent 
+loss of airplane control. FAA is also issuing AD 2005-12-13 to require 
+the spar strap modification and long-term inspections on Models 402C 
+and 414A airplanes.
+
+DATES: This AD becomes effective on June 22, 2005.
+    As of June 22, 2005, the Director of the Federal Register approved 
+the incorporation by reference of certain publications listed in the 
+regulation.
+    We must receive any comments on this AD by August 3, 2005.
+
+ADDRESSES: Use one of the following to submit comments on this AD:
+    <bullet> DOT Docket Web site: Go to <a href="http://dms.dot.gov">http://dms.dot.gov</a> and follow 
+the instructions for sending your comments electronically.
+    <bullet> Government-wide rulemaking web site: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a> and follow the instructions for sending your 
+comments electronically.
+    <bullet> Mail: Docket Management Facility; U.S. Department of 
+Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, 
+Washington, DC 20590-001.
+    <bullet> Fax: 1-202-493-2251.
+    <bullet> Hand Delivery: Room PL-401 on the plaza level of the 
+Nassif Building, 400 Seventh Street, SW., Washington, DC, between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    To get the service information identified in this AD, contact 
+Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, 
+Kansas 67277; telephone: (316) 517-5800; facsimile: (316) 942-9006.
+    To view the comments to this AD, go to <a href="http://dms.dot.gov">http://dms.dot.gov</a>. The 
+docket number is FAA-05-21176; Directorate Identifier 2005-CE-25-AD.
+
+FOR FURTHER INFORMATION CONTACT: Paul Nguyen, Aerospace Engineer, FAA, 
+ACE-118W, Wichita Aircraft Certification Office, 1801 Airport Road, 
+Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-
+4125; facsimile: (316) 946-4107.
+
+SUPPLEMENTARY INFORMATION:
+
+[[Page 34330]]
+
+What Events Have Caused This AD?
+
+Initial AD Action
+
+    Reports of fatigue cracks of the wing spar lower cap areas caused 
+FAA to issue AD 79-10-15, Amendment 39-3711 against Cessna Models 401, 
+401A, 401B, 402, 402A, 402B, 411, and 411A airplanes. AD 79-10-15 
+currently requires repetitive inspections of the right and left wing 
+spar lower cap areas for fatigue cracks and wing spar cap repair or 
+replacement as necessary.
+    Accomplishment of the actions mandated by AD 79-10-15 currently 
+requires following Cessna Service Bulletin ME79-16, Revision 3, dated 
+February 8, 1980.
+    AD 79-10-15 allows for the incorporation of Cessna Service Kit 
+SK402-36 or SK411-56 on the front wing spar lower cap as terminating 
+action for the repetitive inspections on the applicable wing.
+    In addition to AD 79-10-15, FAA issued AD 99-11-13 (64 FR 29781, 
+June 3, 1999), requiring inspections of the forward, aft, and auxiliary 
+wing spars for cracks on Cessna Models 402C airplanes with repair or 
+replacement as necessary. AD 99-11-13 also required the operator to 
+report the results of the inspections to FAA. AD 99-11-13 resulted from 
+an accident where the right wing of a Cessna 402C failed just inboard 
+of the nacelle at Wing Station (WS) 87. Investigation revealed fatigue 
+cracking of the forward main spar that initiated at the edge of the 
+front spar forward lower spar cap. FAA determined the spar cap cracking 
+could continue to develop over the life of the affected airplanes and 
+issued AD 2000-23-01, Amendment 39-11971 (65 FR 70645, November 27, 
+2000), to require repetitive inspections of the forward, aft, and 
+auxiliary wing spars for cracks on Cessna Models 402C airplanes with 
+repair or replacement as necessary. The Model 402C airplanes have a 
+similar type design to that of the Models 401, 401A, 401B, 402, 402A, 
+402B, 411, 411A, and 414A airplanes.
+
+Wing Analysis
+
+    Cessna analyzed the wing, including fatigue and crack growth 
+analyses, on the affected airplanes. Analysis included:
+
+--A determination of the probable location and modes of damage based on 
+analytical results, available test data, and service information;
+--Classical fatigue analyses;
+--Crack growth and residual strength analyses including use of linear 
+elastic fracture mechanics methods;
+--Full-scale ground testing to validate analytical models; and
+--A flight strain survey to develop stress spectra used in the 
+analyses.
+
+    The inspections required by AD 79-10-15 following Cessna Service 
+Bulletin ME79-16, Revision 3, use a nondestructive inspection (NDI) 
+surface eddy current method.
+    Based on the analysis, Cessna found that the eddy current method 
+will not find the crack until it is .03 inch longer than the critical 
+crack length. When the crack reaches the critical length, it is not 
+reliably detectable because it is under the head of the fastener. Once 
+the main spar cap is severed, the remaining structure will no longer 
+meet the residual strength requirements. Wing separation could then 
+occur under loading conditions less than those established for the 
+design limit load.
+    Cessna reported only one instance where use of the NDI eddy current 
+procedure detected cracks. There are other reported instances where 
+cracks were detected visually on the aft flange in the wheel well area. 
+The access doubler flanges cover a large percentage of the forward spar 
+flange, hampering the effectiveness of visual inspections.
+    To meet industry NDI standards, cracks need to be found on Cessna 
+Models 401, 401A, 401B, 402, 402A, 402B, 411, and 411A airplanes 
+through NDI inspection methods with a 90-percent probability of 
+detection at a 95-percent confidence level.
+    Cessna's analysis indicates the probability and confidence levels 
+are not being met. The FAA concurs.
+
+Action Based on Cessna's Analysis
+
+    We issued proposals to amend part 39 of the Federal Aviation 
+Regulations (14 CFR part 39) to include two ADs that would apply to 
+Cessna Models 401, 401A, 401B, 402, 402A, 402B, 402C, 411, 411A, and 
+414A airplanes. The proposals (Docket Nos. 2002-CE-05-AD and 2002-CE-
+57-AD) published in the Federal Register as notices of proposed 
+rulemaking (NPRMs) on May 15, 2003 (68 FR 26239 and 68 FR 26244). The 
+NPRMs proposed the following:
+    <bullet> Docket No. 2002-CE-05-AD: applied to Cessna Models 401, 
+401A, 401B, 402, 402A, 402B, 411, and 411A airplanes and proposed to 
+supersede AD 79-10-15 with a new AD that would require one of the 
+following (depending on the aircraft configuration):
+
+[<star><star><box><star><loz>] For airplanes that do not incorporate 
+one of the specified Cessna Service Kits: Repetitively inspect the wing 
+spar caps for fatigue cracks and repair or replace the wing spar caps 
+as necessary and incorporate a spar strap modification on each wing 
+spar; or
+[<star><star><box><star><loz>] For airplanes that incorporate one of 
+the specified Cessna Service Kits: Repetitively inspect the wing spar 
+caps and straps for fatigue cracks and repair or replace the wing spar 
+caps and straps as necessary.
+
+    <bullet> Docket No. 2002-CE-57-AD: applied to Cessna Models 402C 
+and 414A airplanes and proposed to supersede AD 2000-23-01 with a new 
+AD that would require you to:
+
+[<star><star><box><star><loz>] Inspect the wing spar caps for fatigue 
+cracks;
+[<star><star><box><star><loz>] Repair or replace the wing spar caps as 
+necessary; and
+[<star><star><box><star><loz>] Incorporate a spar strap modification on 
+each wing spar.
+
+    The FAA invited interested persons to participate in the 
+development of these amendments during the original 75-day comment 
+periods. We extended the comment periods for another 30 days and then 
+reopened the comment periods for another 60 days. We received numerous 
+comments on the NPRMs.
+    In addition, FAA held two public meetings: One on March 3 and 4, 
+2004, in Herndon, Virginia, and another on August 18, 2004, in Kansas 
+City, Missouri. The public meetings allowed an open flow of 
+communication among FAA, the public, and industry on issues related to 
+the NPRMs.
+    After analyzing all information related to this subject, FAA 
+decided not to issue the ADs as proposed, and that the best way to 
+address the unsafe condition is for FAA, the public, and industry to 
+develop alternative solutions to address the unsafe condition.
+    Therefore, FAA withdrew the two NPRMs and gathered the necessary 
+information to address the situation. That information led to FAA's 
+determination, at that time, to initiate AD action against the Models 
+401, 401A, 401B, 402, 402A, 402B, 411, and 411A airplanes; and not 
+against the Models 402C and 414A airplanes. The plan was to address the 
+action through the regular rulemaking process with a notice of proposed 
+rulemaking.
+
+Most Recent Service History
+
+    In 2005, the FAA received reports of (and analyzed data from) 
+cracks found in the wings of two Cessna Model 402C airplanes. The Model 
+402C airplanes have a similar type design to that of the Models 401, 
+401A, 401B, 402, 402A, 402B, 411, 411A, and 414A airplanes.
+    On the first airplane, information indicated the airplane had 
+severe cracking on its left wing in the vicinity of the forward spar 
+and outboard engine beam. The main lower spar cap had completely failed 
+at about WS 114. The airplane had cracks in the lower wing skin and the 
+web splice doubler. Also found were two popped rivets: One
+
+[[Page 34331]]
+
+between the heat shield and the wing skin and another between the 
+factory installed web splice doublers and web. The airplane had 20,355 
+total hours time-in-service (TIS).
+    During the airplane's most recent flights before the cracking was 
+found, the pilot noticed that roll trim was required. The flights 
+required the pilot to use aileron trim to maintain level flight. The 
+airplane landed safely and inspection revealed the cracks.
+    On the second airplane, fatigue cracks were found at about WS 114 
+in the main lower spar cap of another Model 402C airplane that had over 
+20,000 total hours TIS. Fatigue analysis shows that similar fatigue 
+cracks could also develop in the wings of the Model 414A airplanes.
+    Logbook records indicated that both airplanes with cracked spars 
+were in compliance with AD 2000-23-01. The FAA received a third report 
+of another cracked spar found at WS 114 on one of the two Model 402C 
+incident airplanes.
+    Therefore, FAA issued Emergency AD 2005-05-51 to detect and correct 
+cracking in the wing spars of the Cessna Models 402C and 414A airplanes 
+before the cracks could grow to failure. Such a wing failure could 
+result in the wing separating from the airplane with consequent loss of 
+control of the airplane.
+    Emergency AD 2005-05-51 superseded AD 2000-23-01 and:
+    <bullet> Required the visual inspections of the forward, aft, and 
+auxiliary wing spars for cracks more frequently on Model 402C airplanes 
+including special emphasis areas;
+    <bullet> Added inspection requirements for the Model 414A 
+airplanes; and
+    <bullet> Included provisions to position the airplane to a home 
+base, hangar, maintenance facility, etc.
+    Emergency AD 2005-05-51 did not affect those airplanes that 
+incorporated a spar strap modification on each wing following the 
+original release of (or a later FAA-approved revision to) Cessna 
+Service Bulletin MEB02-5 and Cessna Service Kit SK402-47 (currently at 
+MEB02-5 Revision 2 and SK402-47B).
+
+Long-Term Continued Operational Safety
+
+    Emergency AD 2005-05-51 was considered an interim action to 
+immediately require visual inspection of the forward, aft, and 
+auxiliary wing spars for cracks. The intent was to immediately detect 
+existing cracking before it grew to wing failure.
+    Cessna developed inspection techniques (eddy current) for the 
+forward spar that are more effective at detecting cracks before the 
+structural integrity of the wing is compromised. These inspection 
+techniques allow for longer intervals between repetitive inspections 
+than in emergency AD 2005-05-51. Based on this, FAA issued AD 2005-05-
+52, Amendment 39-14022 (70 FR 13362, dated March 21, 2005). The 
+inspection techniques addressed by AD 2005-05-52 for the Cessna Models 
+402C and 414A airplanes are similar to those required by AD 79-10-15 
+for the Models 401, 401A, 401B, 402, 402A, 402B, 411, and 411A 
+airplanes.
+    However, based on the analysis and recent service history, the FAA 
+has determined that the long-term operational safety of the Cessna 
+airplanes addressed by both AD 2005-05-52 and AD 79-10-15 can only be 
+assured through the incorporation of a spar strap modification and 
+long-term repetitive inspections. Since Models 402, 401A, 401B, 402, 
+402A, 402B, 411, and 411A have a similar type design to that of Models 
+402C and 414A airplanes, FAA is also issuing AD 2005-12-13 to require 
+the spar strap modification and long-term inspections on those 
+airplanes.
+    What is the potential impact if FAA took no action? Wing spar cap 
+failure caused by undetected fatigue cracks could result in loss of a 
+wing with consequent loss of airplane control.
+    Is there service information that applies to this subject? Cessna 
+has issued the following:
+
+--Original issue dated September 24, 2001, and Revision 1, dated 
+December 22, 2003, of both Cessna Multi-engine Service Bulletin MEB01-
+06 and Service Kit SK402-46A; and
+--Original issue dated September 24, 2001, of both Cessna Multi-engine 
+Service Bulletin MEB01-07 and Service Kit SK411-59.
+
+    This service information includes procedures for inspecting lower 
+wing spar caps and incorporating a spar strap modification.
+
+FAA's Determination and Requirements of the AD
+
+    What has FAA decided? We have evaluated all pertinent information 
+and identified an unsafe condition that is likely to exist or develop 
+on other products of this same type design.
+    Since the unsafe condition described previously is likely to exist 
+or develop on other Cessna Aircraft Company Models 401, 401A, 401B, 
+402, 402A, 402B, 411, and 411A airplanes of the same type design, we 
+are issuing this AD to detect and correct wing spar cap failure caused 
+by undetected fatigue cracks. Such failure could result in loss of a 
+wing with consequent loss of airplane control.
+    What does this AD require? This AD supersedes AD 79-10-15 with a 
+new AD that incorporates the actions in the previously referenced 
+service bulletins.
+    Why do the compliance times of this AD range between 100 hours TIS 
+and 800 hours TIS? We have established the compliance times based on 
+risk analysis that also allows for compliance scheduling. Some of these 
+airplanes utilize ``for hire'' operations and could accumulate as many 
+as 200 hours TIS in a month. The compliance time range is based on 
+total hours TIS, which will address those high-usage airplanes first.
+    We are issuing this AD as a final rule; request for comments 
+instead of a notice of proposed rulemaking (NPRM). We have evaluated 
+comments from the previous AD actions on this subject and the two 
+public meetings as well as the incidents that have occurred since 
+(e.g., the actions of Emergency AD 2005-05-52). Based on this, FAA has 
+determined that addressing the unsafe condition with public comment 
+prior to issuing this AD action is impracticable. The FAA will evaluate 
+any new comments received and amend the AD as necessary.
+    How does the revision to 14 CFR part 39 affect this AD? On July 10, 
+2002, we published a new version of 14 CFR part 39 (67 FR 47997, July 
+22, 2002), which governs FAA's AD system. This regulation now includes 
+material that relates to altered products, special flight permits, and 
+alternative methods of compliance. This material previously was 
+included in each individual AD. Since this material is included in 14 
+CFR part 39, we will not include it in future AD actions.
+
+Comments Invited
+
+    Will I have the opportunity to comment before you issue the rule? 
+This AD is a final rule that involves requirements affecting flight 
+safety and was not preceded by notice and an opportunity for public 
+comment; however, we invite you to submit any written relevant data, 
+views, or arguments regarding this AD. Send your comments to an address 
+listed under ADDRESSES. Include ``Docket No. FAA-05-21176; Directorate 
+Identifier 2005-CE-25-AD'' in the subject line of your comments. If you 
+want us to acknowledge receipt of your mailed comments, send us a self-
+addressed, stamped postcard with the docket number written on it; we 
+will date-stamp your postcard and mail it back to you. We specifically 
+invite comments on the overall regulatory, economic, environmental, and 
+energy aspects of the rule that might suggest a need to modify it. If a 
+person contacts us
+
+[[Page 34332]]
+
+through a nonwritten communication, and that contact relates to a 
+substantive part of this AD, we will summarize the contact and place 
+the summary in the docket. We will consider all comments received by 
+the closing date and may amend the AD in light of those comments.
+
+Authority for This Rulemaking
+
+    What authority does FAA have for issuing this rulemaking action? 
+Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106 describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this AD.
+
+Regulatory Findings
+
+    Will this AD impact various entities? We have determined that this 
+AD will not have federalism implications under Executive Order 13132. 
+This AD will not have a substantial direct effect on the States, on the 
+relationship between the national government and the States, or on the 
+distribution of power and responsibilities among the various levels of 
+government.
+    Will this AD involve a significant rule or regulatory action? For 
+the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a summary of the costs to comply with this AD (and 
+other information as included in the Regulatory Evaluation) and placed 
+it in the AD Docket. You may get a copy of this summary by sending a 
+request to us at the address listed under ADDRESSES. Include ``AD 
+Docket FAA-05-21176; Directorate Identifier 2005-CE-25-AD'' in your 
+request.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the Federal Aviation Administration amends part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+79-10-15, Amendment 39-3711, and by adding a new AD to read as follows:
+
+2005-12-12 Cessna Aircraft Company: Amendment 39-14128; Docket No. 
+FAA-05-21176; Directorate Identifier 2005-CE-25-AD.
+
+When Does This AD Become Effective?
+
+    (a) This AD becomes effective on June 22, 2005.
+
+Are Any Other ADs Affected by This Action?
+
+    (b) Yes. This AD supersedes AD 79-10-15; Amendment 39-3711.
+
+What Airplanes Are Affected by This AD?
+
+    (c) This AD affects Models 401, 401A, 401B, 402, 402A, 402B, 
+411, and 411A, all serial numbers, that are certificated in any 
+category.
+
+What Is the Unsafe Condition Presented in This AD?
+
+    (d) This AD is the result of fatigue cracks found in the lower 
+wing spar caps. We are issuing this AD to prevent wing spar cap 
+failure caused by undetected fatigue cracks. Such failure could 
+result in loss of a wing with consequent loss of airplane control.
+
+What Must I Do To Address This Problem?
+
+    (e) Repetitive Inspection and Modification of the Wing Spars:
+    (1) For Cessna Models 411 and 411A airplanes that do not 
+incorporate Cessna Service Kit SK411-56, SK411-56A, SK411-56B, or 
+SK411-59, maintain the repetitive inspections required by AD 79-10-
+15, Amendment 39-3711, and do the actions below. You may terminate 
+the repetitive inspections of AD 79-10-15 after you incorporate the 
+modification using the service information in paragraph (h)(2) of 
+this AD:
+
+------------------------------------------------------------------------
+                                                       Then initially
+                                                     inspect and modify
+                                                     using the service
+                                                       information in
+ If you have equal to or more                       paragraph (h)(2) of
+            than--               But less than--        this AD, and
+                                                        reinspect as
+                                                        specified in
+                                                    paragraph (e)(3) of
+                                                          this AD
+------------------------------------------------------------------------
+(i) 18,000 hours time-in-       Not applicable...  Within 1000 hours TIS
+ service (TIS) on the wing or                       after June 22, 2005
+ wing spar.                                         (the effective date
+                                                    of this AD), unless
+                                                    already done.
+(ii) 12,00 hours TIS on the     18,000 hours TIS.  Within 200 hours TIS
+ wing or wing spar.                                 after June 22, 2005
+                                                    (the effective date
+                                                    of this AD), unless
+                                                    already done.
+(iii) 10,000 hours TIS on the   12,000 hours TIS.  Within 400 hours TIS
+ wing or wing spar.                                 after June 22, 2005
+                                                    (the effective date
+                                                    of this AD), unless
+                                                    already done.
+(iv) 5,500 hours TIS on the     10,000 hours TIS.  Within 800 hours TIS
+ wing or wing spar.                                 after June 22, 2005
+                                                    (the effective date
+                                                    of this AD), unless
+                                                    already done.
+(v) 0 hours TIS on the wing or  5,500 hours TIS..  At whichever of the
+ wing spar.                                         following occurs
+                                                    later:
+                                                   <bullet> Upon
+                                                    accumulating 5,500
+                                                    hours TIS on the
+                                                    wing or wing spar;
+                                                    or
+                                                   <bullet> Within 800
+                                                    TIS after June 22,
+                                                    2005 (the effective
+                                                    date of this AD),
+                                                    unless already done.
+------------------------------------------------------------------------
+
+    (vi) If the wings or wing spars were replaced with new or used 
+wings or wing spars during the life of the airplane and logbook 
+records positively show the TIS of the wings or wing spars, then 
+initially inspect and modify at applicable wing or wing spar times 
+in paragraphs (e)(1)(i) through (e)(1)(v) of this AD.
+    (vii) If the wings or wing spars were replaced with new or used 
+wings or wing spars during the life of the airplane and logbook 
+records cannot positively show the TIS of the wings or wing spars, 
+then inspect and modify within 100 hours TIS after June 22, 2005 
+(the effective date of this AD), unless already done.
+    (2) For Cessna Models 401, 401A, 401B, 402, 402A, and 402B 
+airplanes that do not incorporate Cessna Service Kit SK402-36, 
+SK402-36A, SK402-36B, SK402-36C,
+
+[[Page 34333]]
+
+SK402-46, or SK402-46A, maintain the repetitive inspections required 
+by AD 79-10-15, Amendment 39-3711, and do the actions below. You may 
+terminate the repetitive inspections of AD 79-10-15 after you 
+incorporate the modification using the service information in 
+paragraph (h)(1) of this AD:
+
+------------------------------------------------------------------------
+                                                       Then initially
+                                                     inspect and modify
+                                                     using the service
+                                                       information in
+ If you have equal to or more                       paragraph (h)(1) of
+            than--               But less than--        this AD, and
+                                                        reinspect as
+                                                        specified in
+                                                    paragraph (e)(4) of
+                                                          this AD
+------------------------------------------------------------------------
+(i) 18,000 hours TIS on the     Not applicable...  Within 100 hours TIS
+ wing or wing spar.                                 after June 22, 2005
+                                                    (the effective date
+                                                    of this AD), unless
+                                                    already done.
+(ii) 12,000 hours TIS on the    18,000 hours TIS.  Within 200 hours TIS
+ wing or wing spar.                                 after June 22, 2005
+                                                    (the effective date
+                                                    of this AD), unless
+                                                    already done.
+(iii) 10,000 hours TIS on the   12,000 hours TIS.  Within 400 hours TIS
+ wing or wing spar.                                 after June 22, 2005
+                                                    (the effective date
+                                                    of this AD), unless
+                                                    already done.
+(iv) 6,500 hours TIS on the     10,000 hours TIS.  Within 800 hours TIS
+ wing or wing spar.                                 after June 22, 2005
+                                                    (the effective date
+                                                    of this AD), unless
+                                                    already done.
+(v) 0 hours TIS on the wing or  6,500 hours TIS..  At whichever of the
+ wing spar.                                         following occurs
+                                                    later:
+                                                   <bullet> Upon
+                                                    accumulating 6,500
+                                                    hours TIS on the
+                                                    wing or wing spar;
+                                                    or
+                                                   <bullet> Within 800
+                                                    TIS after June 22,
+                                                    2005 (the effective
+                                                    date of this AD),
+                                                    unless already done.
+------------------------------------------------------------------------
+
+    (vi) If the wings or wing spars were replaced with new or used 
+wings or wing spars during the life of the airplane and logbook 
+records positively show the TIS of the wings or wing spars, then 
+initially inspect and modify at applicable wing or wing spar times 
+in paragraphs (e)(2)(i) through (e)(2)(v) of this AD.
+    (vii) If the wings or wing spars were replaced with new or used 
+wings or wing spars during the life of the airplane and logbook 
+records cannot positively show the TIS of the wings or wing spars, 
+then inspect and modify within 100 hours TIS after June 22, 2005 
+(the effective date of this AD), unless already done.
+    (3) For all Cessna Models 411 and 411A airplanes with Cessna 
+Service Kit SK411-56, SK411-56A, SK411-56B, or SK411-59 
+incorporated, inspect in the following areas and repair or replace 
+as necessary prior to further flight after the inspection where 
+cracks are found. Inspection areas and procedures are defined in the 
+Cessna Model 411 Supplemental Inspection Document (SID):
+    (i) Area ``A'' (Inspection ID 57-10-11): Initially upon 
+accumulating 5,500 hours TIS after incorporating the applicable 
+service kit on a wing spar or within the next 100 hours TIS after 
+June 22, 2005 (the effective date of this AD), whichever occurs 
+later, unless already done, and thereafter at intervals not to 
+exceed 2,500 hours TIS.
+    (ii) Area ``B'' (Inspection ID 57-10-12): Initially upon 
+accumulating 5,500 hours TIS after incorporating the applicable 
+service kit on a wing spar or within the next 100 hours TIS after 
+June 22, 2005 (the effective date of this AD), whichever occurs 
+later, unless already done, and thereafter at intervals not to 
+exceed 1,000 hours TIS.
+    (iii) Area ``C'' (Inspection ID 57-10-08): Upon accumulating 
+20,000 hours TIS after incorporating the applicable service kit on a 
+wing spar or within the next 100 hours TIS after June 22, 2005 (the 
+effective date of this AD), whichever occurs later, unless already 
+done, and thereafter at intervals not to exceed 2,000 hours TIS.
+    (4) For all Cessna Models 401, 401A, 401B, 402, 402A, and 402B 
+airplanes with Cessna Service Kit SK402-36, SK402-36A, SK402-36B, 
+SK402-36C, SK402-46, or SK402-46A incorporated, inspect in the 
+following areas and repair or replace as necessary prior to further 
+flight after the inspection where cracks are found. Inspection areas 
+and procedures are defined in the Cessna Models 401and 402 SID 
+(compliance times in this AD take precedence over the compliance 
+times in the SID):
+    (i) Area ``A'' (Inspection ID 57-10-11): Initially upon 
+accumulating 15,000 hours TIS after incorporating the applicable 
+service kit on a wing spar or within the next 100 hours TIS after 
+June 22, 2005 (the effective date of this AD), whichever occurs 
+later, unless already done, and thereafter at intervals not to 
+exceed 5,000 hours TIS.
+    (ii) Area ``B'' (Inspection ID 57-10-12): Initially upon 
+accumulating 7,500 hours TIS after incorporating the applicable 
+service kit on a wing spar or within the next 100 hours TIS after 
+June 22, 2005 (the effective date of this AD), whichever occurs 
+later, unless already done, and thereafter not to exceed 5,000 hours 
+TIS. You may request an alternative method of compliance to adjust 
+the compliance times for these inspections by following the 
+procedures in 14 CFR 39.19 and this AD.
+    (iii) Area ``C'' (Inspection ID 57-10-08): Upon accumulating 
+20,000 hours TIS after incorporating the applicable service kit on a 
+wing spar or within the next 100 hours TIS after June 22, 2005 (the 
+effective date of this AD), whichever occurs later, unless already 
+done, and thereafter at intervals not to exceed 2,500 hours TIS.
+    (f) Wing Spar Replacement if Cracks Found During any Inspection 
+Required by this AD:
+    (1) Prior to further flight, replace the wing spar with a new 
+wing spar or a used wing spar where wing or wing spar hours TIS can 
+be positively identified. Do not install used wings spars when you 
+are not able to positively identify total wing or wing spar hours 
+TIS.
+    (2) After replacement, initially inspect at the applicable time 
+in paragraphs (e)(1)(i) through (e)(1)(vii) or (e)(2)(i) through 
+(e)(2)(vii) of this AD and repetitively inspect at the times 
+specified in paragraphs (e)(3)(i) through (e)(3)(iii) or (e)(4)(i) 
+through (e)(4)(iii) of this AD.
+    (g) Reporting Requirement: Report any cracks you find within 10 
+days after the cracks are found or within 10 days after June 22, 
+2005 (the effective date of this AD), whichever occurs later. Do not 
+report if no cracks are found. Include in your report the aircraft 
+serial number, aircraft TIS, wing spar cap TIS, crack location and 
+size, corrective action taken, and a point of contact name and phone 
+number. Send your report to Paul Nguyen, Aerospace Engineer, FAA, 
+ACE-118W, Wichita Aircraft Certification Office, 1801 Airport Road, 
+Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-
+4125; facsimile: (316) 946-4107.
+    (h) Service Information to Perform the Actions of this AD:
+    (1) Original issue dated September 24, 2001, and Revision 1, 
+dated December 22, 2003, of both Cessna Multi-engine Service 
+Bulletin MEB01-06 and Service Kit SK402-46A; and
+    (2) Original issue dated September 24, 2001, of both Cessna 
+Multi-engine Service Bulletin MEB01-07 and Service Kit SK411-59.
+
+May I Request an Alternative Method of Compliance?
+
+    (i) You may request a different method of compliance or a 
+different compliance time for this AD by following the procedures in 
+14 CFR 39.19. Unless FAA authorizes otherwise, send your request to 
+your principal inspector. The principal inspector may add comments 
+and will send your request to the Manager, Wichita Aircraft 
+Certification Office, FAA. For information on any already approved 
+alternative methods of compliance, contact Paul Nguyen, Aerospace 
+Engineer, FAA, ACE-118W, Wichita Aircraft Certification Office, 1801 
+Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; 
+telephone: (316) 946-4125; facsimile: (316) 946-4107.
+
+Does This AD Incorporate Any Material by Reference?
+
+    (j) You must do the actions required by this AD following the 
+instructions in Cessna Multi-Engine Service Bulletin MEB01-6 and 
+Service Kit SK402-46, both dated September 24, 2001; Cessna Multi-
+Engine Service
+
+[[Page 34334]]
+
+Bulletin MEB01-6, Revision 1 and Service Kit SK402-46A, both dated 
+December 22, 2003; and Cessna Multi-Engine Service Bulletin MEB01-7 
+and Service Kit SK411-59, both dated September 24, 2001. The 
+Director of the Federal Register approved the incorporation by 
+reference of this service bulletin in accordance with 5 U.S.C. 
+552(a) and 1 CFR part 51. To get a copy of this service information, 
+contact Cessna Aircraft Company, Product Support, P.O. Box 7706, 
+Wichita, Kansas 67277; telephone: (316) 517-5800; facsimile: (316) 
+942-9006. To review copies of this service information, go to the 
+National Archives and Records Administration (NARA). For information 
+on the availability of this material at NARA, go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a> or call (202) 741-6030. To view the AD docket, 
+go to the Docket Management Facility; U.S. Department of 
+Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-
+401, Washington, DC 20590-001 or on the Internet at http://
+<a href="<a href="http://dms.dot.gov">http://dms.dot.gov</a>">dms.dot.gov</a>. The docket number is FAA-05-21176; Directorate 
+Identifier 2005-CE-25-AD.
+
+    Issued in Kansas City, Missouri, on June 7, 2005.
+Kim Smith,
+Acting Manager, Small Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 05-11612 Filed 6-13-05; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre></body>
+</html>

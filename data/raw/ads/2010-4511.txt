@@ -1,0 +1,801 @@
+<html>
+<head>
+<title>Federal Register, Volume 75 Issue 45 (Tuesday, March 9, 2010)</title>
+</head>
+<body><pre>
+[Federal Register Volume 75, Number 45 (Tuesday, March 9, 2010)]
+[Rules and Regulations]
+[Pages 10658-10664]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2010-4511]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2009-0452; Directorate Identifier 2007-NM-326-AD; 
+Amendment 39-16223; AD 2010-05-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Model 737-100, -200, 
+-200C, -300, -400, and -500 Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD) that applies to all Model 737-100, -200, -200C, -300, -400, and -
+500 series airplanes. That AD currently requires a one-time inspection 
+for scribe lines and cracks in the fuselage skin at certain lap joints, 
+butt joints, external repair doublers, and other areas; and related 
+investigative/corrective actions if necessary. This new AD expands the 
+area to be inspected and, for certain airplanes, requires earlier 
+inspections for certain inspection zones. This AD results from 
+additional detailed analysis of fuselage skin cracks adjacent to the 
+skin lap joints on airplanes that had scribe lines. The analysis 
+resulted in different inspection zones, thresholds and repetitive 
+intervals, and airplane groupings. We are issuing this AD to prevent 
+rapid decompression of the airplane due to fatigue cracks resulting 
+from scribe lines on pressurized fuselage structure.
+
+DATES: This AD becomes effective April 13, 2010.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of April 13, 
+2010.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1; fax 206-766-5680; e-mail <a href="/cdn-cgi/l/email-protection#761b135814191315191b361419131f18115815191b"><span class="__cf_email__" data-cfemail="6d0008430f02080e02002d0f020804030a430e0200">[email&#160;protected]</span></a>; 
+Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+
+[[Page 10659]]
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (telephone 800-647-5527) is the Document Management 
+Facility, U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Wayne Lockett, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office 
+(ACO), 1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone 
+(425) 917-6447; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that supersedes AD 2006-07-12, Amendment 
+39-14539 (71 FR 16211, March 31, 2006). The existing AD applies to all 
+Model 737-100, -200, -200C, -300, -400, and -500 series airplanes. That 
+NPRM was published in the Federal Register on May 20, 2009 (74 FR 
+23664). That NPRM proposed to expand the area to be inspected and, for 
+certain airplanes, require earlier inspections for certain inspection 
+zones.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments that have been 
+received on the NPRM.
+
+Support for the NPRM
+
+    Air Transport Association (ATA), on behalf of its members Alaska 
+Airlines and United Airlines (United), agrees with the assessment and 
+states that those two members will comply with the requirements of the 
+NPRM.
+
+Request To Change Reference in Paragraph (g)(2) of the NPRM
+
+    Boeing requests that we change paragraph (g)(2) of the NPRM to 
+refer to paragraph (i) of the NPRM instead of paragraph (h) of the 
+NPRM. Boeing notes that this section is in the Restatement of 
+Requirements of AD 2006-07-12, and making this change matches the 
+original AD requirements.
+    We agree to change the reference from paragraph (h) to paragraph 
+(i) of this AD for the reasons stated previously.
+
+Request To Clarify Area of Inspection in Paragraph (r) of the NPRM
+
+    Boeing requests that we remove the parenthetical phrase ``(adjacent 
+to lap joints on skin panels that do not have bonded doublers)'' from 
+paragraph (r) of the NPRM. Boeing states that this statement is not 
+true in all cases. Boeing notes that in some cases the skins under the 
+lap joints in Zones 4 and 5 are bonded, but they are closed pockets 
+that are not chem-milled all the way through the thickness.
+    We agree to remove the parenthetical phrase from paragraph (r) of 
+this AD for the reasons stated previously.
+
+Request To Clarify Instructions for Inspections Under the Edge of 
+Hinges on the Main Cargo Door
+
+    Boeing requests that we clarify the instructions for inspections 
+under the edge of hinges on the main cargo door. Boeing notes that 
+Boeing Alert Service Bulletin 737-53A1262, Revision 3, dated October 
+16, 2008, does not give specific instructions for inspections of scribe 
+lines found under the edge of the hinge on the main cargo door. Boeing 
+requests that we add a statement to provide instructions for 
+inspections in this area. Boeing states that the lap joint inspection 
+method specified in Boeing Alert Service Bulletin 737-53A1262, Revision 
+3, dated October 16, 2008, applies to the hinge detail.
+    We agree that additional clarification is necessary. We have added 
+paragraph (s)(4)(iv) to the AD to provide additional instructions for 
+inspections along the lower edge of the main cargo door for the reasons 
+that the commenter provided. We also determined that this change does 
+not increase the economic burden on any operator or increase the scope 
+of the AD.
+
+Request To Revise Paragraph (t) of the NPRM
+
+    Lufthansa requests that we revise paragraph (t) of the NPRM. 
+Lufthansa requests that we clarify whether Zones 4 and 5 are derived 
+from the former Zones 1, 2, and 3 as identified in the initial release 
+of Boeing Alert Service Bulletin 737-53A1262, dated December 9, 2004. 
+Lufthansa requests that we accept inspections performed in Zones 1, 2, 
+and 3 in accordance with Boeing Alert Service Bulletin 737-53A1262, 
+dated December 9, 2004, as acceptable for compliance with the 
+requirements of paragraphs (q) and (r) of the NPRM.
+    We agree. The new zones were created by moving specific areas from 
+the existing Zones 1, 2, and 3, and have been inspected as required by 
+AD 2006-07-12. We have revised paragraph (t) of this AD to give credit 
+for inspections accomplished before the effective date of this AD as 
+acceptable for compliance for the requirements of paragraphs (q) and 
+(r) of this AD.
+
+Request To Provide an Additional Grace Period
+
+    Lufthansa requests that we provide an additional grace period. 
+Lufthansa notes that areas that were shifted to a more critical zone 
+must be inspected within 4,500 flight cycles after the effective date 
+of the AD or before reaching the applicable zonal inspection threshold, 
+whichever occurs later. For any of the new critical zones that are 
+inspected in accordance with the requirements of the full Limited 
+Return to Service (LRTS) program because of previous scribe line 
+findings in the adjacent zone on the same lap splice between two butt 
+joints, Lufthansa requests that we extend the grace period to reach the 
+next heavy maintenance event to do the inspection. Lufthansa states 
+that this may be valid only for airplanes and areas where the 
+requirements of the full LRTS are applied.
+    We disagree with the request to extend the grace period. The 4,500-
+flight-cycle grace period applies only to the initial scribe line 
+inspections and does not apply to airplanes with scribe lines that are 
+currently being monitored in the LRTS program. Operators may request an 
+alternative method of compliance (AMOC) in accordance with the 
+requirements of paragraph (y) of this AD. We have not changed the AD in 
+regard to this issue.
+
+Request To Clarify Procedures for Scribe Lines Outside Structural 
+Repair Manual (SRM) Limits
+
+    Lufthansa requests that we clarify procedures for areas with scribe 
+lines that have become ``no zone'' (i.e., areas on the fuselage where 
+scribe line inspections are not required) and are inspected in 
+accordance with the LRTS program described in Boeing Alert Service 
+Bulletin 737-53A1262, Revision 3, dated October 16, 2008. Lufthansa 
+notes that the scribe damage in the ``no zone'' may be out of the SRM 
+limits and may need to be repaired before further flight because the 
+LRTS is no longer applicable.
+    We disagree that additional procedures are necessary. Note 5 in 
+paragraph 3.A. in the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 737-53A1262, Revision 3, dated October 16, 2008, 
+provides instructions on how to proceed with
+
+[[Page 10660]]
+
+scribe lines in any area that is not shown in Zone 1, 2, 3, 4, or 5. We 
+have not changed the AD in regard to this issue.
+
+Request To Verify Inspection Threshold
+
+    ATA, on behalf of its member United, requests that we verify the 
+inspection threshold. United notes that the inspection threshold 
+specified in FAA Approval Letter 120S-06-141 is the accumulation of 
+40,000 to 50,000 flight cycles. United states that neither the AMOC nor 
+Boeing Alert Service Bulletin 737-53A1262, Revision 3, dated October 
+16, 2008, requires this terminating inspection to be accomplished after 
+the accumulation of 40,000 flight cycles. United requests that we 
+verify that this inspection cannot be performed before the accumulation 
+of 40,000 flight cycles.
+    We agree that clarification may be necessary, and we agree to 
+verify the threshold. This inspection cannot be performed for credit 
+before the accumulation of 40,000 total flight cycles. After reviewing 
+the scribe line damage adjacent to the lap joints, we determined that 
+the terminating inspection performed in accordance with Boeing Service 
+Bulletin 737-53-1179, Revision 2, dated October 25, 2006, mandated by 
+AD 2003-14-06, Amendment 39-13225 (68 FR 42956, July 21, 2003), should 
+be accomplished again in accordance with AD 2003-14-06 in the areas of 
+known scribe lines after the accumulation of 40,000 total flight 
+cycles. This inspection is designed to ensure that the underlying 
+substructure is intact and would have no effect on the LRTS program. We 
+have not changed the AD regarding this issue.
+
+Request To Clarify Whether Inspection is Required
+
+    ATA, on behalf of its member United, asks that we clarify whether 
+the inspection required by paragraph (g) of the NPRM is required if 
+operators have accomplished the terminating action in accordance with 
+AMOC 120S-06-209 for AD 2003-14-06.
+    We agree that clarification is necessary. We have approved the 
+inspection methods specified in FAA Approval Letter 120S-06-209, dated 
+April 13, 2006, as an AMOC to the terminating action requirements of 
+paragraph (b) of AD 2003-14-06. Paragraph 12.a.(2), of Part 12 of the 
+Accomplishment Instructions of Boeing Service Bulletin 737-53A1262, 
+Revision 1, dated March 1, 2007; Revision 2, dated September 20, 2007; 
+and Revision 3, dated October 16, 2008; specify internal inspections in 
+accordance with Boeing Service Bulletin 737-53-1179, Revision 2, dated 
+October 25, 2001, except for airplanes inspected internally in 
+accordance with paragraph (b) of AD 2003-14-06. Inspections 
+accomplished in accordance with FAA Approval Letter 120S-06-209, dated 
+April 13, 2006, are approved as an acceptable alternative method of 
+compliance to the internal inspections specified in Paragraph 12.a.(2) 
+of Part 12 of the Accomplishment Instructions of Boeing Service 
+Bulletin 737-53A1262, Revision 1, dated March 1, 2007; Revision 2, 
+dated September 20, 2007; and Revision 3, dated October 16, 2008; and 
+required by paragraph (b) of AD 2003-14-06. We have added a reference 
+to previously approved AMOCs in paragraph (x) of this AD.
+
+Request To Clarify Butt-to-Butt Inspection Requirements
+
+    ATA, on behalf of its member United, requests that we clarify that 
+the butt-to-butt inspection is only for areas where a scribe line is 
+found within 0.063 inches of the upper skin areas in a zone.
+    We agree that clarification may be necessary. Figure 128 of Boeing 
+Alert Service Bulletin 737-53A1262, Revision 3, dated October 16, 2008, 
+indicates that butt-to-butt inspections are required for all scribe 
+lines within 0.10 inch of the lap joint upper skin. We have not changed 
+the AD regarding this issue.
+
+Request To Issue Similar Rulemaking
+
+    The National Transportation Safety Board (NTSB) notes that while 
+the NPRM addresses scribe-type damage on Model 737 airplanes, it is 
+concerned that this type of damage is not limited to Model 737 
+airplanes. The NTSB urges that we conduct similar analyses and issue 
+similar rulemaking for other makes and models of airplanes.
+    We acknowledge the NTSB's concerns. This issue is a long-term 
+durability issue that is not limited to any particular airplane model. 
+We are currently working to address scribe line issues on other 
+airplanes. The effect on each airplane model varies with each model's 
+design characteristics and the conditions under which they have been 
+operated. We have been in contact with other governing regulatory 
+agencies and manufacturers, and we may consider further rulemaking as a 
+result of these efforts. We have not changed the AD in regard to this 
+issue.
+
+Explanation of Change Made to This AD
+
+    Boeing Commercial Airplanes has received an Organization 
+Designation Authorization (ODA), which replaces their previous 
+designation as a Delegation Option Authorization (DOA) holder. We have 
+revised paragraph (y)(3) of this AD to delegate the authority to 
+approve an alternative method of compliance for any repair required by 
+this AD to the Boeing Commercial Airplanes ODA.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments that have been received, and determined that air safety and 
+the public interest require adopting the AD with the changes described 
+previously. We have determined that these changes will neither increase 
+the economic burden on any operator nor increase the scope of the AD.
+
+Explanation of Change to Costs of Compliance
+
+    Since issuance of the NPRM, we have increased the labor rate used 
+in the Costs of Compliance from $80 per work-hour to $85 per work-hour. 
+The Costs of Compliance information, below, reflects this increase in 
+the specified hourly labor rate.
+
+Costs of Compliance
+
+    There are about 2,685 airplanes of the affected design in the 
+worldwide fleet. The following table provides the estimated costs, 
+including the costs for the new inspection areas in Zones 4 and 5, for 
+U.S. operators to comply with this AD.
+
+                                                        Estimated Costs Required by AD 2006-07-12
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                          Number of U.S.-
+                 Zone                                Action                 Work hours     Average labor     Cost per       registered      Fleet cost
+                                                                                           rate per hour     airplane        airplanes
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+1.....................................  Sealant removal.................              66             $85          $5,610             787      $4,415,070
+                                        Inspection......................               4              85             340              87         267,580
+2.....................................  Sealant removal.................              38              85           3,230             787       2,542,010
+                                        Inspection......................              29              85           2,465             787       1,939,955
+
+[[Page 10661]]
+
+ 
+3.....................................  Sealant removal.................              88              85           7,480             787       5,886,760
+                                        Inspection......................              38              85           3,230             787       2,542,010
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+                                                   Estimated Costs Required by New Actions of This AD
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                          Number of U.S.-
+                 Zone                                Action                 Work hours     Average labor     Cost per       registered      Fleet cost
+                                                                                           rate per hour     airplane        airplanes
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+4.....................................  Sealant removal.................              15             $85          $1,275             787     $ 1,003,425
+                                        Inspection......................               1              85              85             787          66,895
+5.....................................  Sealant removal.................              31              85           2,635             787       2,073,745
+                                        Inspection......................               2              85             170             787         133,790
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+removing amendment 39-14539 (71 FR 16211, March 31, 2006) and by adding 
+the following new airworthiness directive (AD):
+
+2010-05-13 The Boeing Company: Amendment 39-16223. Docket No. FAA-
+2009-0452; Directorate Identifier 2007-NM-326-AD.
+
+Effective Date
+
+    (a) This AD becomes effective April 13, 2010.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2006-07-12, Amendment 39-14539.
+
+Applicability
+
+    (c) This AD applies to all The Boeing Company Model 737-100, -
+200, -200C, -300, -400, and -500 series airplanes, certificated in 
+any category.
+
+Subject
+
+    (d) Air Transport Association (ATA) of America Code 53: 
+Fuselage.
+
+Unsafe Condition
+
+    (e) This AD results from reports of fuselage skin cracks 
+adjacent to the skin lap joints on airplanes that had scribe lines. 
+Scribe line damage can also occur at many other locations, including 
+butt joints, external doublers, door scuff plates, the wing-to-body 
+fairing, and areas of the fuselage where decals have been applied or 
+removed. We are issuing this AD to prevent rapid decompression of 
+the airplane due to fatigue cracks resulting from scribe lines on 
+pressurized fuselage structure.
+
+Compliance
+
+    (f) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Restatement of Requirements of AD 2006-07-12
+
+Inspection
+
+    (g) Do a detailed inspection for scribe lines and cracks in the 
+fuselage skin at certain lap joints, butt joints, external repair 
+doublers, and other areas, in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 737-53A1262, dated 
+December 9, 2004, except as provided by paragraphs (h), (k), (l), 
+(m), (n), and (o) of this AD. Except as required by paragraph (q) of 
+this AD, do the actions at the time specified in paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1262, dated 
+December 9, 2004, except as required by paragraph (j) of this AD. 
+Acceptable inspection exemptions are described in paragraph 1.E.1. 
+of Boeing Alert Service Bulletin 737-53A1262, dated December 9, 
+2004.
+    (1) If no scribe line is found, no further work is required by 
+this paragraph.
+    (2) If any scribe line is found: Do all applicable investigative 
+and corrective actions at the time specified in paragraph 1.E. of 
+Boeing Alert Service Bulletin 737-53A1262, dated December 9, 2004, 
+by doing all applicable actions specified in Boeing
+
+[[Page 10662]]
+
+Alert Service Bulletin 737-53A1262, dated December 9, 2004, except 
+as required by paragraph (i) of this AD.
+
+    Note 1: A detailed inspection is defined in Note 10 of Boeing 
+Alert Service Bulletin 737-53A1262, dated December 9, 2004, under 
+paragraph 3.A., ``General Information.'' Specific magnification 
+requirements may be specified in the steps of the Work Instructions.
+
+Exceptions to and Clarification of Service Bulletin 737-53A1262 
+Procedures
+
+    (h) Paragraph (g) of this AD requires accomplishment of Parts 1 
+through 11 of Boeing Alert Service Bulletin 737-53A1262, dated 
+December 9, 2004. Parts 12 and 13 of Boeing Alert Service Bulletin 
+737-53A1262, dated December 9, 2004, may be accomplished, if 
+applicable, to allow temporary return to service. This AD does not 
+require accomplishment of Part 14 of Boeing Alert Service Bulletin 
+737-53A1262, dated December 9, 2004, although the FAA-approved 
+procedures described in Part 14 are acceptable for continued 
+operation with scribe lines found before the applicable compliance 
+time.
+    (i) If any scribe line or crack is found during any inspection 
+required by paragraph (g) of this AD, and Boeing Alert Service 
+Bulletin 737-53A1262, dated December 9, 2004, specifies to contact 
+Boeing for appropriate action: Before further flight, inspect or 
+repair scribe lines and repair cracks using a method approved in 
+accordance with the procedures specified in paragraph (y) of this 
+AD.
+    (j) Where Boeing Alert Service Bulletin 737-53A1262, dated 
+December 9, 2004, specifies a compliance time after the issuance of 
+that service bulletin, this AD requires compliance within the 
+specified compliance time after May 5, 2006 (the effective date of 
+AD 2006-07-12).
+    (k) Certain figures are incorrectly identified in Boeing Alert 
+Service Bulletin 737-53A1262, dated December 9, 2004. The figure 
+cited in Part 8, step 3, should be Figure 39, not Figure 38. The 
+figure cited in Part 9, step 4, should be Figure 38, not Figure 39.
+    (l) If the operator's records show that the airplane has never 
+been stripped and repainted under the dorsal fin fairing since 
+delivery from The Boeing Company, then this AD does not require 
+inspections of the butt joint, lap joint, and repair, as specified 
+in paragraph (g) of this AD, in the areas under the dorsal fin 
+fairing.
+    (m) Figure 37 of Boeing Alert Service Bulletin 737-53A1262, 
+dated December 9, 2004, defines ``Restricted Zones'' at door cutouts 
+as the only affected structure. Paragraph (g) of this AD considers 
+this area to also include Zone 1B.
+    (n) In Figure 1, sheets 2 and 3, of Boeing Alert Service 
+Bulletin 737-53A1262, dated December 9, 2004, the first condition 
+for the initial compliance threshold for Areas B, C, and E is for 
+areas where the cutout modification shown in Boeing Service Bulletin 
+737-53A1177 was accomplished. Paragraph (g) of this AD considers 
+this condition to also include Zone 1B.
+    (o) In Figure 1, sheets 2 and 3, of Boeing Alert Service 
+Bulletin 737-53A1262, dated December 9, 2004, the second condition 
+for the initial compliance threshold for Areas B, C, and E is for 
+areas where the cutout modification shown in Boeing Service Bulletin 
+737-53A1177 was not accomplished. Paragraph (g) of this AD considers 
+this condition to apply only to Zone 1A.
+
+Reporting Requirement
+
+    (p) For airplanes on which inspections have been done in 
+accordance with Boeing Alert Service Bulletin 737-53A1262, dated 
+December 9, 2004: At the applicable time specified in paragraph 
+(p)(1) or (p)(2) of this AD, submit a report of positive findings of 
+cracks found during the inspection required by paragraph (g) of this 
+AD to the Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, 
+Washington 98124-2207. Alternatively, operators may submit reports 
+to their Boeing Company field service representatives. The report 
+shall contain, as a minimum, the following information: Airplane 
+serial number, flight cycles at time of discovery, location(s) and 
+extent of positive crack findings. Under the provisions of the 
+Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.), the Office 
+of Management and Budget (OMB) has approved the information 
+collection requirements contained in this AD and has assigned OMB 
+Control Number 2120-0056.
+    (1) If the inspection was done before May 5, 2006: Send the 
+report within 30 days after May 5, 2006.
+    (2) If the inspection was done after May 5, 2006: Send the 
+report within 30 days after the inspection is done.
+
+New Requirements of This AD
+
+Inspection
+
+    (q) As of the effective date of this AD, the actions for Zones 
+1, 2, and 3, as specified in paragraph (g) of this AD, must be done 
+in accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 737-53A1262, Revision 3, dated October 16, 2008, 
+and at the applicable times specified in paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1262, 
+Revision 3, dated October 16, 2008, except as specified in paragraph 
+(s) of this AD.
+
+    Note 2:  Paragraph 1.E.5. of Boeing Alert Service Bulletin 737-
+53A1262, Revision 3, dated October 16, 2008, provides a grace period 
+for airplanes that have exceeded the revised thresholds.
+
+Inspection of Zones 4 and 5
+
+    (r) Do a detailed inspection for scribe lines and cracks in 
+Zones 4 and 5, as specified in Boeing Alert Service Bulletin 737-
+53A1262, Revision 3, dated October 16, 2008. Except as provided by 
+paragraph (s) of this AD, do the actions in accordance with the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 737-
+53A1262, Revision 3, dated October 16, 2008, and at the applicable 
+time specified in paragraph 1.E., ``Compliance,'' of Boeing Alert 
+Service Bulletin 737-53A1262, Revision 3, dated October 16, 2008, or 
+within 4,500 flight cycles after the effective date of this AD, 
+whichever occurs later.
+    (1) If no scribe line or crack is found: No further work is 
+required by this paragraph.
+    (2) If any scribe line or crack is found: Do all applicable 
+investigative and corrective actions at the time specified in 
+paragraph 1.E. of Boeing Alert Service Bulletin 737-53A1262, 
+Revision 3, dated October 16, 2008, by doing all applicable actions 
+specified in the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 737-53A1262, Revision 3, dated October 16, 2008, except as 
+required by paragraph (s)(1) of this AD.
+
+Exceptions to Specifications of Boeing Alert Service Bulletin 737-
+53A1262, Revision 3, dated October 16, 2008
+
+    (s) The following exceptions to Boeing Alert Service Bulletin 
+737-53A1262, Revision 3, dated October 16, 2008, apply to this AD:
+    (1) If any scribe line or crack is found during any inspection 
+required by this AD, and Boeing Alert Service Bulletin 737-53A1262, 
+Revision 3, dated October 16, 2008, specifies to contact The Boeing 
+Company for appropriate action: Before further flight, inspect or 
+repair scribe lines and repair cracks using a method approved in 
+accordance with the procedures specified in paragraph (y) of this 
+AD.
+    (2) Where Boeing Alert Service Bulletin 737-53A1262, Revision 3, 
+dated October 16, 2008, specifies a compliance time after the 
+issuance of that service bulletin, this AD requires compliance 
+within the specified compliance time after the effective date of 
+this AD.
+    (3) If the operator's records show that the airplane has never 
+been stripped and repainted under the dorsal fin fairing since 
+delivery from The Boeing Company, then this AD does not require 
+inspections of the butt joint, lap joint, and repair, as specified 
+in paragraphs (g), (q), and (r) of this AD, in the areas under the 
+dorsal fin fairing.
+    (4) For airplanes in Groups 3 and 29, as identified in Boeing 
+Alert Service Bulletin 737-53A1262, Revision 3, dated October 16, 
+2008: At the applicable times specified in paragraphs (s)(4)(i), 
+(s)(4)(ii), and (s)(4)(iii) of this AD, perform a detailed 
+inspection for scribe lines and cracks on the main cargo door along 
+the lower edge of the upper hinge, around external repairs, and 
+around decals, in accordance with the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 737-53A1262, Revision 3, dated October 
+16, 2008, except as provided by paragraph (s)(4)(iv) of this AD, or 
+using a method approved in accordance with the procedures specified 
+in paragraph (y) of this AD. If no scribe line or crack is found, no 
+further work is required by this paragraph. If any scribe line or 
+crack is found, do all applicable related investigative and 
+corrective actions at the time specified in paragraph 1.E. of Boeing 
+Alert Service Bulletin 737-53A1262, Revision 3, dated October 16, 
+2008, by doing all applicable actions specified in the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 737-
+53A1262, Revision 3, dated October 16, 2008, except as required by 
+paragraphs (s)(1), (s)(2), and (s)(3) of this AD.
+    (i) For areas along the lower edge of the door hinge from body 
+station (BS) 360 to BS 500, the initial compliance threshold is to 
+be determined using Zone 1B.
+
+[[Page 10663]]
+
+    (ii) For external repairs, the initial compliance threshold is 
+to be determined using Zone 1B.
+    (iii) For decals, the initial compliance threshold is to be 
+determined using Zone 2.
+    (iv) When accomplishing scribe line inspections along the lower 
+edge of the main cargo door hinge, consider the hinge-to-skin detail 
+inspection to be equivalent to a lap joint detail inspection and use 
+the lap joint inspection methods in accordance with Boeing Alert 
+Service Bulletin 737-53A1262, Revision 3, dated October 16, 2008.
+    (5) For Group 11 airplanes, as specified in Boeing Alert Service 
+Bulletin 737-53A1262, Revision 3, dated October 16, 2008: Stringer 
+20R between BS 727C and BS 727D+10 is in Zone 1B.
+
+Actions Accomplished in Accordance With Previous Service 
+Information
+
+    (t)(1) Actions accomplished before the effective date of this AD 
+in accordance with Boeing Alert Service Bulletin 737-53A1262, dated 
+December 9, 2004, are acceptable for compliance with the 
+corresponding requirements of paragraphs (q) and (r) of this AD.
+    (2) Actions accomplished before the effective date of this AD in 
+accordance with Boeing Service Bulletin 737-53A1262, Revision 1, 
+dated March 1, 2007; or Revision 2, dated September 20, 2007; are 
+acceptable for compliance with the corresponding requirements of 
+paragraphs (g), (q), and (r) of this AD.
+
+Clarification of Procedures in the Service Bulletin
+
+    (u) For airplanes on which inspections are done as of the 
+effective date of this AD: This AD requires accomplishment of Parts 
+1 through 11, 15, and 16 of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 737-53A1262, Revision 3, dated October 
+16, 2008. Parts 12 and 13 of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 737-53A1262, Revision 3, dated October 
+16, 2008, may be accomplished, if applicable, to allow temporary 
+return to service. This AD does not require accomplishment of Part 
+14 of the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 737-53A1262, Revision 3, dated October 16, 2008, although 
+the FAA-approved procedures described in Part 14 are acceptable for 
+continued operation with scribe lines found before the applicable 
+compliance time.
+
+Report
+
+    (v) For airplanes on which inspections are done in accordance 
+with the service information identified in Table 1 of this AD: At 
+the applicable time specified in paragraph (v)(1) or (v)(2) of this 
+AD, submit a report of positive findings of cracks found during the 
+inspections required by paragraphs (q), (r), and (s)(4) of this AD 
+to the Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, 
+Washington 98124-2207. Alternatively, operators may submit reports 
+to their Boeing Company field service representatives. The report 
+must contain, as a minimum, the following information: airplane 
+serial number, flight cycles at time of discovery, location(s) and 
+extent of positive crack findings. Under the provisions of the 
+Paperwork Reduction Act (44 U.S.C. 3501 et seq.), the Office of 
+Management and Budget (OMB) has approved the information collection 
+requirements contained in this AD and has assigned OMB Control 
+Number 2120-0056.
+    (1) For an inspection done before the effective date of this AD: 
+Send the report within 30 days after the effective date of this AD.
+    (2) For an inspection done after the effective date of this AD: 
+Send the report within 30 days after the inspection is done.
+
+                      Table 1--Service Information
+------------------------------------------------------------------------
+ Boeing Service Information      Revision                Date
+------------------------------------------------------------------------
+Boeing Alert Service                       3  October 16, 2008.
+ Bulletin 737-53A1262.
+Boeing Service Bulletin 737-               1  March 1, 2007.
+ 53A1262.
+Boeing Service Bulletin 737-               2  September 20, 2007.
+ 53A1262.
+------------------------------------------------------------------------
+
+Repair Plan in Lieu of Required Inspections
+
+    (w) A repair plan approved by a Boeing Company Authorized 
+Representative or Designated Engineering Representative before the 
+effective date of this AD is acceptable for compliance with the 
+requirements of paragraphs (g)(2), (i), (q), (r), (s)(1), and (s)(4) 
+of this AD, provided the approval was documented via FAA Form 8110-3 
+or 8100-9, and scribe line damage identified in the title of the 
+form.
+
+Exceptions and Clarification
+
+    (x) Paragraph 12.a.(2) of Part 12 of the Accomplishment 
+Instructions of Boeing Service Bulletin 737-53A1262, Revision 1, 
+dated March 1, 2007; Revision 2, dated September 20, 2007; and 
+Boeing Alert Service Bulletin 737-53A1262, Revision 3, dated October 
+16, 2008; specifies internal inspections in accordance with Boeing 
+Service Bulletin 737-53-1179, Revision 2, dated October 25, 2001, 
+except for airplanes inspected internally in accordance with 
+paragraph (b) of AD 2003-14-06, Amendment 39-13225. Inspections 
+accomplished in accordance with AMOCs previously approved to 
+paragraph (b) of AD 2003-14-06, are approved as an acceptable 
+alternative method of compliance to the internal inspections 
+specified in Part 12 of Boeing Alert Service Bulletin 737-53A1262, 
+Revision 1, dated March 1, 2007; Revision 2, dated September 20, 
+2007; and Revision 3, dated October 16, 2008.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (y)(1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested in 
+accordance with the procedures found in 14 CFR 39.19. Send 
+information to ATTN: Wayne Lockett, Aerospace Engineer, Airframe 
+Branch, ANM-120S, FAA, Seattle ACO, 1601 Lind Avenue, SW., Renton, 
+Washington 98057-3356; telephone (425) 917-6447; fax (425) 917-6590. 
+Or, e-mail information to <a href="/cdn-cgi/l/email-protection#b0899df1fefd9de3d5d1c4c4dcd59df1f3ff9df1fdfff39de2d5c1c5d5c3c4c3f0d6d1d19ed7dfc6"><span class="__cf_email__" data-cfemail="427b6f030c0f6f11272336362e276f03010d6f030f0d016f1027333727313631022423236c252d34">[email&#160;protected]</span></a>.
+    (2) To request a different method of compliance or a different 
+compliance time for this AD, follow the procedures in 14 CFR 39.19. 
+Before using any approved AMOC on any airplane to which the AMOC 
+applies, notify your principal maintenance inspector (PMI) or 
+principal avionics inspector (PAI), as appropriate, or lacking a 
+principal inspector, your local Flight Standards District Office. 
+The AMOC approval letter must specifically reference this AD.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+
+Material Incorporated by Reference
+
+    (z) You must use Boeing Alert Service Bulletin 737-53A1262, 
+Revision 3, dated October 16, 2008; to do the actions required by 
+this AD, unless the AD specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of Boeing Alert Service Bulletin 737-
+53A1262, Revision 3, dated October 16, 2008, under 5 U.S.C. 552(a) 
+and 1 CFR part 51.
+    (2) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 
+206-544-5000, extension 1; fax 206-766-5680; e-mail 
+<a href="/cdn-cgi/l/email-protection#91fcf4bff3fef4f2fefcd1f3fef4f8fff6bff2fefc"><span class="__cf_email__" data-cfemail="2548400b474a40464a4865474a404c4b420b464a48">[email&#160;protected]</span></a>; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (3) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, 
+Washington. For information on the availability of this material at 
+the FAA, call 425-227-1221 or 425-227-1152.
+    (4) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this
+
+[[Page 10664]]
+
+material at NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on February 24, 2010.
+Jeffrey E. Duven,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2010-4511 Filed 3-8-10; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,8 @@
+{
+ "form": "prompts/ad_form_v2.json",
+ "batches": {
+  "b01": [
+   "data/raw/ads/2019-18045.txt"
+  ]
+ }
+}

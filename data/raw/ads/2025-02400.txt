@@ -1,0 +1,408 @@
+<html>
+<head>
+<title>Federal Register, Volume 90 Issue 27 (Tuesday, February 11, 2025)</title>
+</head>
+<body><pre>
+[Federal Register Volume 90, Number 27 (Tuesday, February 11, 2025)]
+[Rules and Regulations]
+[Pages 9283-9286]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2025-02400]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-2140; Project Identifier MCAI-2024-00242-T; 
+Amendment 39-22942; AD 2025-02-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Embraer S.A. (Type Certificate 
+Previously Held by Yabor[atilde] Ind[uacute]stria Aeron[aacute]utica 
+S.A.; Embraer S.A.) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Embraer S.A. Model EMB-120, -120ER, -120FC, -120QC, and -120RT 
+airplanes. This AD was prompted by a structural assessment, which found 
+that the fuselage longitudinal skin splice and panel between certain 
+frames are susceptible to cracking. This AD requires performing 
+repetitive inspections of the fuselage center I longitudinal skin 
+splice and applicable corrective actions, as specified in an 
+Ag[ecirc]ncia Nacional de Avia[ccedil][atilde]o Civil (ANAC) AD, which 
+is incorporated by reference (IBR). The FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+[[Page 9284]]
+
+
+DATES: This AD is effective March 18, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of March 18, 
+2025.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2024-2140; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For ANAC material identified in this AD, contact National 
+Civil Aviation Agency (ANAC), Aeronautical Products Certification 
+Branch (GGCP), Rua Dr. Orlando Feirabend Filho, 230--Centro Empresarial 
+Aquarius--Torre B--Andares 14 a 18, Parque Residencial Aquarius, CEP 
+12.246-190--S[atilde]o Jos[eacute] dos Campos--SP, Brazil; telephone 55 
+(12) 3203-6600; email <a href="/cdn-cgi/l/email-protection#34445557740855145c46515209" http: anac.gov">anac.gov</a>.br">pac@<a href="http://anac.gov">anac.gov</a>.br</a>; website <a href="http://anac.gov">anac.gov</a>.br/en/. You may 
+find this material on the ANAC website at <a href="http://sistemas.anac.gov">sistemas.anac.gov</a>.br/
+certificacao/DA/DAE.asp.
+    <bullet> You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2024-2140.
+
+FOR FURTHER INFORMATION CONTACT: Hassan Ibrahim, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: 206-231-3653; email: <a href="/cdn-cgi/l/email-protection#377f5644445659197a197e5545565f5e5a7751565619505841"><span class="__cf_email__" data-cfemail="afe7cedcdccec181e281e6cdddcec7c6c2efc9cece81c8c0d9">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Embraer S.A. Model 
+EMB-120, -120ER, -120FC, -120QC, and -120RT airplanes. The NPRM 
+published in the Federal Register on September 17, 2024 (89 FR 75977). 
+The NPRM was prompted by AD 2024-04-02R01, effective May 31, 2024, 
+issued by ANAC, which is the aviation authority for Brazil (ANAC AD 
+2024-04-02R01) (also referred to as the MCAI). The MCAI states that a 
+structural assessment found that the fuselage center I longitudinal 
+skin splice and panel between frames 22 and 23 are susceptible to 
+cracking.
+    In the NPRM, the FAA proposed to require performing repetitive 
+inspections of the fuselage center I longitudinal skin splice and 
+applicable corrective actions, as specified in ANAC AD 2024-04-02R01. 
+The FAA is issuing this AD to address the unsafe condition on these 
+products.
+    You may examine the MCAI in the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2024-2140.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comment from Embraer. The following presents the 
+comment received on the NPRM and the FAA's response.
+
+Request for Extension of Compliance Times
+
+    Embraer requested the FAA extend the compliance times of the 
+proposed AD. The commenter stated analysis of data of the lower 
+fuselage center I longitudinal skin splice and panel between frames 22 
+and 23 under operational conditions showed the probability of cracks is 
+less than one percent at 60,000 flight cycles. The commenter stated 
+inspections prior to the accumulation of 50,000 total flight cycles, or 
+within 800 flight cycles after the effective date of this AD, whichever 
+occurs later, as specified in the proposed AD, is overly conservative. 
+The commenter suggested inspections prior to the accumulation of 60,000 
+total flight cycles, or within 2,000 flight cycles after the effective 
+date of this AD, whichever occurs later, would meet the intent of this 
+AD. Embraer added that the compliance times of this AD should be 
+extended to avoid an unnecessary burden for operators.
+    The FAA disagrees with the request. Embraer did not provide data to 
+support its request to extend the compliance times of the proposed AD. 
+However, ANAC, the state of design authority, has advised the FAA that 
+it defined the threshold, intervals, and grace period based on a 
+methodology considering the findings in the full-scale fatigue test 
+(FSFT) and conservative equivalent damage. The FAA concurs with ANAC's 
+determination. The FAA has not changed this AD as a result of this 
+comment.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comment received, and determined that air safety requires adopting this 
+AD as proposed. Accordingly, the FAA is issuing this AD to address the 
+unsafe condition on this product. Except for minor editorial changes, 
+this AD is adopted as proposed in the NPRM. None of the changes will 
+increase the economic burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    ANAC AD 2024-04-02R01 specifies initial and repetitive high-
+frequency eddy current inspections for discrepancies (including cracks, 
+corrosion, scratches, and nicks) of the fuselage center I longitudinal 
+skin splice and panel between frames 22 and 23, from the internal and 
+external sides of the fuselage. ANAC AD 2024-04-02R01 further specifies 
+corrective actions including obtaining and implementing instructions 
+for repair and reporting of the inspection results. This material is 
+reasonably available because the interested parties have access to it 
+through their normal course of business or by the means identified in 
+ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates this AD affects 51 airplanes of U.S. registry. 
+The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                Labor cost                  Parts cost        Cost per product          Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+4 work-hours x $85 per hour = $340 per              $0  $340 per inspection cycle..  $17,340 per inspection
+ inspection cycle.                                                                    cycle.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 9285]]
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the corrective actions specified in this AD.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to take 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden, to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2025-02-09 Embraer S.A. (Type Certificate Previously Held by 
+Yabor[atilde] Ind[uacute]stria Aeron[aacute]utica S.A.; Embraer 
+S.A.): Amendment 39-22942; Docket No. FAA-2024-2140; Project 
+Identifier MCAI-2024-00242-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective March 18, 2025.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Embraer S.A. (Type Certificate previously 
+held by Yabor[atilde] Ind[uacute]stria Aeron[aacute]utica S.A.; 
+Embraer S.A.) Model EMB-120, -120ER, -120FC, -120QC, and -120RT 
+airplanes, certificated in any category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a structural assessment that indicated 
+the fuselage center I longitudinal skin splice and panel between 
+frames 22 and 23 are susceptible to cracking. The FAA is issuing 
+this AD to address undetected cracks in the fuselage center I 
+longitudinal skin splice and panel between frames 22 and 23. The 
+unsafe condition, if not addressed, could result in undetected 
+fuselage crack propagation, and reduced structural integrity of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, Ag[ecirc]ncia Nacional de Avia[ccedil][atilde]o 
+Civil (ANAC) AD 2024-04-02R01, effective May 31, 2024 (ANAC AD 2024-
+04-02R01).
+
+(h) Exceptions to ANAC AD 2024-04-02R01
+
+    (1) Where ANAC AD 2024-04-02R01 refers to its effective date, 
+this AD requires using the effective date of this AD.
+    (2) Where paragraphs (b)(1) and (2) of ANAC AD 2024-04-02R01 
+specify the initial compliance time for the high-frequency eddy 
+current inspection of the fuselage center I longitudinal skin 
+splice--frames 22 and 23, from the internal and external side of the 
+fuselage, for this AD, the initial compliance time for doing the 
+high-frequency eddy current inspection is prior to the accumulation 
+of 50,000 total flight cycles, or within 800 flight cycles after the 
+effective date of this AD, whichever occurs later.
+    (3) Where paragraphs (d)(1) and (2) of ANAC AD 2024-04-02R01 
+specify the initial compliance time for the high-frequency eddy 
+current inspection of the fuselage center I skin panel--frames 22 
+and 23, from the external side of the fuselage, for this AD, the 
+initial compliance time for doing the high-frequency eddy current 
+inspection is prior to the accumulation of 50,000 total flight 
+cycles, or within 800 flight cycles after the effective date of this 
+AD, whichever occurs later.
+    (4) Where paragraphs (b)(3) and (d)(3) of ANAC AD 2024-04-02R01 
+specify corrective actions, for this AD, if any discrepancy 
+including cracking is detected during any inspection required by 
+this AD, the discrepancy must be repaired before further flight 
+using a method approved by the Manager, International Validation 
+Branch, FAA; or ANAC; or Embraer's ANAC Design Organization Approval 
+(DOA). If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (5) Paragraph (f) of ANAC AD 2024-04-02R01 specifies to report 
+inspection results to ANAC and Embraer within a certain compliance 
+time. For this AD, report inspection results at the applicable time 
+specified in paragraph (h)(5)(i) or (ii) of this AD.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 30 days after the inspection.
+    (ii) If the inspection was done before the effective date of 
+this AD: Submit the report within 30 days after the effective date 
+of this AD.
+    (6) This AD does not adopt paragraph (g) of ANAC AD 2024-04-
+02R01.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+
+[[Page 9286]]
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the manager of the 
+International Validation Branch, mail it to the address identified 
+in paragraph (j) of this AD. Information may be emailed to: 
+<a href="/cdn-cgi/l/email-protection#52131f1d11123433337c353d24"><span class="__cf_email__" data-cfemail="e1a0acaea2a1878080cf868e97">[email&#160;protected]</span></a>. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or ANAC; or ANAC's authorized Designee. If 
+approved by the ANAC Designee, the approval must include the 
+Designee's authorized signature.
+
+(j) Additional Information
+
+    For more information about this AD, contact Hassan Ibrahim, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: 206-231-3653; email: 
+<a href="/cdn-cgi/l/email-protection#9ad2fbe9e9fbf4b4d7b4d3f8e8fbf2f3f7dafcfbfbb4fdf5ec"><span class="__cf_email__" data-cfemail="d199b0a2a2b0bfff9cff98b3a3b0b9b8bc91b7b0b0ffb6bea7">[email&#160;protected]</span></a>.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) Ag[ecirc]ncia Nacional de Avia[ccedil][atilde]o Civil (ANAC) 
+AD 2024-04-02R01, effective May 31, 2024.
+    (ii) [Reserved]
+    (3) For ANAC material identified in this AD, contact ANAC, 
+Aeronautical Products Certification Branch (GGCP), Rua Dr. Orlando 
+Feirabend Filho, 230--Centro Empresarial Aquarius--Torre B--Andares 
+14 a 18, Parque Residencial Aquarius, CEP 12.246-190--S[atilde]o 
+Jos[eacute] dos Campos--SP, Brazil; phone 55 (12) 3203-6600; email 
+<a href="/cdn-cgi/l/email-protection#c3b3a2a083ffa2e3abb1a6a5fe" http: anac.gov">anac.gov</a>.br">pac@<a href="http://anac.gov">anac.gov</a>.br</a>; website <a href="http://anac.gov">anac.gov</a>.br/en/. You may find this ANAC AD 
+on the ANAC website <a href="http://sistemas.anac.gov">sistemas.anac.gov</a>.br/certificacao/DA/DAE.asp.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th 
+Street, Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a>, or email <a href="/cdn-cgi/l/email-protection#d4b2a6fabdbaa7a4b1b7a0bdbbba94bab5a6b5fab3bba2"><span class="__cf_email__" data-cfemail="9dfbefb3f4f3eeedf8fee9f4f2f3ddf3fceffcb3faf2eb">[email&#160;protected]</span></a>.
+
+    Issued on January 23, 2025.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-02400 Filed 2-10-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,393 @@
+<html>
+<head>
+<title>Federal Register, Volume 72 Issue 145 (Monday, July 30, 2007)</title>
+</head>
+<body><pre>
+[Federal Register Volume 72, Number 145 (Monday, July 30, 2007)]
+[Rules and Regulations]
+[Pages 41433-41436]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E7-14140]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2007-27359; Directorate Identifier 2006-NM-042-AD; 
+Amendment 39-15136; AD 2007-15-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747-100, 747-100B, 747-
+200B, 747-200C, 747-200F, 747-300, 747SR, and 747SP Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Boeing Model 747-100, 747-100B, 747-200B, 747-200C, 747-200F, 
+747-300, 747SR, and 747SP series airplanes. This AD requires repetitive 
+high frequency eddy current inspections for cracks of the fuselage skin 
+at stringer 5 left and right between stations 340 and 350, and 
+corrective actions if necessary. This AD results from reports of 
+fatigue cracks in the fuselage skin near stringer 5 between stations 
+340 and 350. We are issuing this AD to detect and correct fatigue 
+cracking of the fuselage skin near stringer 5. Cracks in this area 
+could join together and result in in-flight depressurization of the 
+airplane.
+
+DATES: This AD becomes effective September 4, 2007.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of September 4, 
+2007.
+
+[[Page 41434]]
+
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue, SE., Washington, DC.
+    Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for service information identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: Ivan Li, Aerospace Engineer, Airframe 
+Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 1601 Lind 
+Avenue, SW., Renton, Washington 98057-3356; telephone (425) 917-6437; 
+fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Examining the Docket
+
+    You may examine the airworthiness directive (AD) docket on the 
+Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Operations 
+office between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The Docket Operations office (telephone (800) 647-5527) is 
+located on the ground floor of the West Building at the street address 
+stated in the ADDRESSES section.
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that would apply to certain Boeing Model 
+747-100, 747-100B, 747-200B, 747-200C, 747-200F, 747-300, 747SR, and 
+747SP series airplanes. That NPRM was published in the Federal Register 
+on March 6, 2007 (72 FR 9877). That NPRM proposed to require repetitive 
+high frequency eddy current inspections for cracks of the fuselage skin 
+at stringer 5 left and right between stations 340 and 350, and 
+corrective actions if necessary.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Support for the NPRM
+
+    Boeing concurs with the NPRM.
+
+Request for Alternative Method of Repair
+
+    Air Transport Association (ATA) on behalf of its member United 
+Parcel Service (UPS), requests that we allow the use of an alternate 
+method of repair. UPS notes that ``Boeing Alert Service Bulletin 747-
+53A2542 allows operators to install a repair in accordance with the 
+Boeing 747-100/200/300 Structural Repair Manual (SRM) 53-30-03, 
+provided that the repair is removed and replaced with the Boeing 
+Service Bulletin 747-53-2272 modification prior to the threshold of AD 
+90-06-06.'' (We referred to Service Bulletin 747-53-2272, Revision 17, 
+dated November 18, 1999; and Revision 18, dated May 16, 2002; as 
+appropriate sources of service information for doing the terminating 
+action specified in paragraph (g) of the NPRM.) UPS believes that this 
+option is beneficial to operators, in that it would allow operators to 
+effect repairs (if necessary) in an expedient manner, and that this is 
+especially important given that the proposed initial inspection 
+compliance time of 250 cycles may not be sufficient to allow 
+accomplishing the initial inspection in a normal C-check environment. 
+UPS believes that the NPRM should be re-formatted to more clearly 
+specify inspection, repair, and terminating action requirements. 
+Therefore, UPS requests that paragraph (f) be modified to include a 
+standard repair per Boeing 747-100/200/300 SRM 53-30-03 as an 
+acceptable alternative for repairing the crack(s), for airplanes which 
+have not reached the incorporation threshold of AD 90-06-06 (20,000 
+flights is one incorporation threshold described by AD 90-06-06). The 
+SRM repair would then be removed and replaced by the permanent repair 
+per Service Bulletin 747-53-2272, Revision 18 or earlier, prior to 
+reaching 20,000 total aircraft cycles (flights). Further, to clarify 
+the inspection, repair and terminating action requirements, UPS 
+provides a revised paragraph (f) and suggests new paragraphs (g) and 
+(h), which would lead to re-identifying subsequent existing paragraphs.
+    We agree with UPS that the described SRM repair option is 
+beneficial to operators and should be allowed. However, this option is 
+already allowed. Paragraph (f) of the AD requires doing applicable 
+corrective actions in accordance with Boeing Alert Service Bulletin 
+747-53A2542, dated February 16, 2006. The corrective actions described 
+in the alert service bulletin permit operators to choose the option of 
+doing the SRM repair followed by eventual replacement with the 
+permanent repair described in Boeing Service Bulletin 747-53-2272, 
+Revision 18, dated May 16, 2002. Therefore, we have determined that the 
+option described by UPS is already available to the operators, and no 
+change is needed to the AD in this regard.
+
+Change Made to Paragraph (b) of the AD
+
+    We have revised this action to clarify the effects of AD 90-06-06, 
+amendment 39-6490 (55 FR 8374, March 7, 1990) on the repetitive 
+inspection requirements of paragraph (f) of this AD. We have moved the 
+reference to AD 90-06-06 from paragraph (b) to new paragraph (g) of 
+this AD, and reidentified existing paragraphs (g) and (h) of this AD 
+accordingly.
+
+Change Made to Paragraph (g) of the AD
+
+    We have changed paragraph (g) of the AD to specify that the actions 
+required in that paragraph must be done in accordance with a method 
+approved by the Manager, Seattle Aircraft Certification Office, FAA, 
+and that Boeing Service Bulletin 747-53-2272, Revision 18, dated May 
+16, 2002, and earlier revisions, are one approved method of compliance 
+for doing the required actions. After the effective date of this AD, no 
+revision of Service Bulletin 747-53-2272 other than Revision 18 is 
+acceptable as an approved method of compliance. Further, as described 
+above, we have re-identified existing paragraph (g) as paragraph (h) of 
+this AD.
+
+Clarification of Alternative Method of Compliance (AMOC) Paragraph
+
+    We have revised this action to clarify the appropriate procedure 
+for notifying the principal inspector before using any approved AMOC on 
+any airplane to which the AMOC applies.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 281 airplanes of the affected design in the 
+worldwide fleet. This AD will affect about 92 airplanes of U.S. 
+registry. The required inspection will take about 4 work hours per 
+airplane, at an average labor rate of $80 per work hour. Based on these 
+figures, the estimated cost of the inspection for U.S. operators is 
+$29,440, or $320 per airplane, per inspection cycle.
+    For Group 2 airplanes (about 4 of U.S. registry), the mandatory 
+terminating action for the repetitive inspections will take about 1,240 
+work hours, at an average labor rate of $80 per work hour. The 
+manufacturer states that it will supply required parts to the operators 
+at no cost. Based on these figures, the estimated cost of the 
+terminating action
+
+[[Page 41435]]
+
+for U.S. operators is $396,800, or $99,200 per airplane.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+adding the following new airworthiness directive (AD):
+
+2007-15-07 Boeing: Amendment 39-15136. Docket No. FAA-2007-27359; 
+Directorate Identifier 2006-NM-042-AD.
+
+Effective Date
+
+    (a) This AD becomes effective September 4, 2007.
+
+Affected ADs
+
+    (b) Installing external skin doublers as required only for Group 
+2 airplanes by paragraph (h) of this AD, ends the repetitive 
+inspections of the fuselage skin required by paragraph (f) of AD 
+2005-08-01, amendment 39-14053, only for the area near the flight 
+deck windows modified by the external skin doublers.
+
+Applicability
+
+    (c) This AD applies to Boeing Model 747-100, 747-100B, 747-200B, 
+747-200C, 747-200F, 747-300, 747SR, and 747SP series airplanes, 
+certificated in any category; as identified in Boeing Alert Service 
+Bulletin 747-53A2542, dated February 16, 2006.
+
+Unsafe Condition
+
+    (d) This AD results from reports of fatigue cracks in the 
+fuselage skin near stringer 5 between body stations 340 and 350. We 
+are issuing this AD to detect and correct fatigue cracking of the 
+fuselage skin near stringer 5. Cracks in this area could join 
+together and result in in-flight depressurization of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Inspections and Corrective Actions
+
+    (f) For any airplane that has not had external skin doublers 
+installed around the left- or right-side Number 3 flight deck window 
+in accordance with Boeing Service Bulletin 747-53-2272, Revision 18, 
+dated May 16, 2002, or an earlier revision: Do the applicable 
+actions described in paragraphs (f)(1) and (f)(2) of this AD. Do all 
+the actions in and in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 747-53A2542, dated 
+February 16, 2006. Do the actions at the compliance times specified 
+in paragraph 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 
+747-53A2542, dated February 16, 2006, on the side(s) of the airplane 
+on which the doubler installation has not been done; except where 
+the service bulletin specifies compliance times after the date on 
+the service bulletin, this AD requires compliance times after the 
+effective date of this AD. Installing external skin doublers around 
+the left- or right-side Number 3 flight deck windows in accordance 
+with Boeing Service Bulletin 747-53-2272, Revision 18, or an earlier 
+revision, ends the repetitive high-frequency eddy current (HFEC) 
+inspections required by this paragraph on the side of the airplane 
+on which the doublers are installed. After the effective date of 
+this AD, only Boeing Service Bulletin 747-53-2272, Revision 18, may 
+be used to install the external skin doublers around the left- and 
+right-side Number 3 flight deck windows.
+    (1) Do a HFEC inspection for cracks of the fuselage skin at 
+stringer 5, between body stations 340 and 350; and do all applicable 
+corrective actions before further flight.
+    (2) Repeat the HFEC inspection thereafter at the applicable 
+interval specified in paragraph 1.E. of Boeing Alert Service 
+Bulletin 747-53A2542, dated February 16, 2006.
+
+Credit for Actions of Alternative AD
+
+    (g) For Group 1 airplanes only: External skin doublers installed 
+around the left- or right-side Number 3 flight deck windows in 
+accordance with the requirements of AD 90-06-06, amendment 39-6490, 
+end the repetitive HFEC inspections required by paragraph (f) of 
+this AD on the side of the airplane on which the doublers are 
+installed.
+
+Terminating Action
+
+    (h) For Group 2 airplanes only: Before accumulating 24,000 total 
+flight cycles, or within 250 flight cycles after the effective date 
+of the AD, whichever occurs later, install external skin doublers 
+around the left- and right-side Number 3 flight deck windows; in 
+accordance with a method approved by the Manager, Seattle Aircraft 
+Certification Office (ACO), FAA. Boeing Service Bulletin 747-53-
+2272, Revision 17, dated November 18, 1999, and Revision 18, dated 
+May 16, 2002, describe one approved method of compliance for doing 
+the required actions. After the effective date of this AD, only 
+Revision 18 is acceptable as an approved method of compliance. 
+Accomplishing this action ends the repetitive inspections required 
+by paragraph (f) of this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (i)(1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested in 
+accordance with the procedures found in 14 CFR 39.19.
+    (2) To request a different method of compliance or a different 
+compliance time for this AD, follow the procedures in 14 CFR 39.19. 
+Before using any approved AMOC on any airplane to which the AMOC 
+applies, notify your appropriate principal inspector (PI) in the FAA 
+Flight Standards District Office (FSDO), or lacking a PI, your local 
+FSDO.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an 
+Authorized Representative for the Boeing Commercial Airplanes 
+Delegation Option Authorization Organization who has been
+
+[[Page 41436]]
+
+authorized by the Manager, Seattle ACO, to make those findings. For 
+a repair method to be approved, the repair must meet the 
+certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+
+Material Incorporated by Reference
+
+    (j) You must use Boeing Alert Service Bulletin 747-53A2542, 
+dated February 16, 2006, to perform the actions that are required by 
+this AD, unless the AD specifies otherwise. The Director of the 
+Federal Register approved the incorporation by reference of this 
+document in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. 
+Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for a copy of this service information. You 
+may review copies at the FAA, Transport Airplane Directorate, 1601 
+Lind Avenue SW., Renton, Washington; or at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on July 15, 2007.
+Stephen P. Boyd,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. E7-14140 Filed 7-27-07; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

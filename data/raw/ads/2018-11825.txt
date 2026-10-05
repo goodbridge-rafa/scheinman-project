@@ -1,0 +1,982 @@
+<html>
+<head>
+<title>Federal Register, Volume 83 Issue 108 (Tuesday, June 5, 2018)</title>
+</head>
+<body><pre>
+[Federal Register Volume 83, Number 108 (Tuesday, June 5, 2018)]
+[Rules and Regulations]
+[Pages 25885-25891]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2018-11825]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-1421; Product Identifier 2014-NM-177-AD; Amendment 
+39-19302; AD 2018-11-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 767-300 and -300F series airplanes. This AD 
+was prompted by reports of fatigue cracking on airplanes with Aviation 
+Partners Boeing winglets installed. This AD requires high frequency 
+eddy current (HFEC) inspections for cracking of the lower outboard wing 
+skin, and repair or modification if necessary. This AD also requires 
+one of three follow-on actions: Repeating the HFEC inspections, 
+modifying certain internal stringers and oversizing and plugging the 
+existing fastener holes of the lower wing, or modifying the external 
+doubler/tripler and doing repetitive post-modification inspections. We 
+are issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective July 10, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of July 10, 
+2018.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Aviation Partners Boeing, 2811 S. 102nd Street, Suite 200, 
+Seattle, WA 98168; telephone 206-762-1171; internet <a href="https://www.aviationpartnersboeing.com">https://www.aviationpartnersboeing.com</a>. You may view this service information 
+at the FAA, Transport Standards Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+1421.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+1421; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is Docket Operations, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Allen Rauschendorfer, Aerospace 
+Engineer, Airframe Section, FAA, Seattle ACO Branch, 2200 South 216th 
+St., Des Moines, WA; phone and fax: 206-231-3528; email: 
+<a href="/cdn-cgi/l/email-protection#f4959898919ada86958187979c919a909b86929186b4929595da939b82"><span class="__cf_email__" data-cfemail="80e1ecece5eeaef2e1f5f3e3e8e5eee4eff2e6e5f2c0e6e1e1aee7eff6">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain The Boeing Company 
+Model 767-300 and -300F series airplanes. The NPRM published in the 
+Federal Register on June 5, 2015 (80 FR 32066). The NPRM was prompted 
+by reports of fatigue cracking on airplanes with Aviation Partners 
+Boeing winglets installed. The NPRM proposed to require a HFEC 
+inspection for cracking of the lower outboard wing skin, and repair or 
+modification if necessary. The NPRM also proposed to require one of 
+three follow-on actions: Repeating the HFEC inspections, modifying 
+certain internal stringers and oversizing and plugging the existing 
+fastener holes of the lower wing, or modifying the external doubler/
+tripler and doing repetitive post-modification inspections.
+    We issued an SNPRM to amend 14 CFR part 39 by adding an AD that 
+would apply to certain The Boeing Company Model 767-300 and -300F 
+series airplanes. The SNPRM published in the Federal Register on 
+November 27, 2017 (82 FR 55958). The SNPRM proposed adding new HFEC 
+inspections for cracking of an expanded area of the lower outboard wing 
+skin for certain airplanes.
+    We are issuing this AD to address fatigue cracking in the lower 
+outboard wing skin, which could result in failure and subsequent 
+separation of the wing and winglet and consequent reduced 
+controllability of the airplane.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+SNPRM and the FAA's response to each comment. One commenter, Matt 
+Leritz, supported the content of the SNRPM.
+
+Request To Correct Compliance Time
+
+    Aviation Partners Boeing (APB) and United Airlines (UAL) asked that 
+we correct the compliance time in paragraphs (h)(2)(ii) and (h)(3)(ii) 
+of the proposed AD (in the SNPRM). The commenters stated that those 
+paragraphs would require the initial post-repair HFEC inspection of the 
+lower wing skin at stringer L-6.5 at the applicable time specified in 
+paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing Service 
+Bulletin AP767-57-014, Revision 1, dated April 12, 2017. The commenters 
+added that the compliance time for the Part 3 HFEC inspection specified 
+in paragraph 1.E. does not begin after doing the Part 2 repair, but 
+instead begins after the initial issue of the service bulletin (after 
+the effective date of the AD). UAL stated that, as written, this would 
+require doing post-repair inspections on airplanes above the total 
+flight-hour and flight-cycle threshold within 18 months after the 
+effective date of the AD, regardless of if or when the repair was 
+actually done. APB confirmed that the calendar-based compliance time in 
+the referenced service information, for airplanes in Group 1, 
+Configurations 2 and 3, and Groups 2 and 3, should be the same as for 
+airplanes in Group 1, Configuration 1, on which the Part 2 repair has 
+been done. The commenters asked that the compliance time for the Part 3 
+HFEC inspection be corrected to the following: ``Within 6,000 flight 
+cycles after doing the Part 2 repair, or within 18,000 flight hours 
+since doing the Part 2 repair, whichever occurs first.''
+    We agree with the commenters' request for the reasons provided. We 
+have added paragraph (j)(3) of this AD to include this compliance-time 
+exception.
+
+Request To Remove a Certain Terminating Action
+
+    Boeing asked that we remove the terminating action sentence at the 
+end of paragraph (g)(2) of the proposed AD (in the SNPRM). Paragraph 
+(g)(2) of the proposed AD (in the SNPRM) applies to Group 3 airplanes 
+with external doublers, and if a crack is found it requires a repair 
+using a method
+
+[[Page 25886]]
+
+approved by the FAA. That paragraph also specifies that ``[a]n approved 
+repair terminates the repetitive inspections required by paragraph 
+(g)(2) of this AD.'' Boeing stated that any repair for cracks found 
+will require follow-on repetitive inspections, which would be approved 
+as part of the AMOC repair approval process.
+    We agree that the repairs for Group 3 airplanes will have an 
+approved follow-on inspection program, but the repairs may apply to the 
+cracked areas only. We do not agree with removing the terminating 
+action provision because other areas may require the repetitive 
+inspections specified in paragraph (g)(2) of this AD, for which 
+approved terminating action would be appropriate. We have revised that 
+sentence as follows: ``An approved repair terminates the repetitive 
+inspections required by paragraph (g)(2) of this AD for the repaired 
+area only.''
+
+Request To Add Grace Period for Post-Repair (Modification) Inspections
+
+    American Airlines (AAL), APB, UAL, and Delta Airlines (Delta) asked 
+that we add a grace period for the proposed post-repair (modification) 
+inspections.
+    AAL stated that Table 4 of paragraph 1.E., ``Compliance,'' of 
+Aviation Partners Boeing Service Bulletin AP767-57-010, Revision 11, 
+dated April 3, 2017, includes numerous inspections that are due within 
+a specified number of flight hours or flight cycles after previous 
+repair or modification of the airplane. AAL added that since it has 
+completed many repairs and modifications using previous revisions of 
+the referenced service information, there will be airplanes out of 
+compliance with the AD requirements on the effective date because there 
+is no grace period based on the AD due date.
+    APB and Delta stated that paragraph (g) of the proposed AD (in the 
+SNPRM) specifies compliance times specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-57-
+010, Revision 11, dated April 3, 2017, for initial post-repair 
+inspections. APB added that the referenced service information added a 
+flight-hour threshold of 90,000 total flight cycles to the existing 
+flight-cycle threshold of 30,000 total flight cycles for the initial 
+compliance time. APB noted that the grace period published in the 
+referenced service information for airplanes on which the flight-hour 
+or flight-cycle threshold has been reached is set to 18 months after 
+accomplishment of the repair. APB stated that this creates a drop-dead 
+inspection situation for airplanes on which either the flight-hour or 
+flight-cycle threshold has been reached, and on which the Part 8 or 
+Part 11 repair was accomplished over 18 months ago. Delta stated that 
+the compliance table on pages (i) and (ii) of Aviation Partners Boeing 
+Service Bulletin AP767-57-010, Revision 11, dated April 3, 2017, should 
+be added to paragraph 1.E., ``Compliance'' and included in the AD.
+    UAL stated that paragraph (g) of the proposed AD (in the SNPRM) 
+would require the repetitive post-repair inspections specified in Parts 
+9 and 13 of Aviation Partners Boeing Service Bulletin AP767-57-010, 
+Revision 11, dated April 3, 2017, in airplane total times or within 18 
+months after accomplishment of Part 8 and 11 repairs, respectively. UAL 
+is concerned that older airplanes on which the repair was done more 
+than 18 months ago could be out of compliance on the effective date of 
+the AD. UAL noted that the 18-month grace period covers the initial 
+inspection, but does not cover post-repair inspections. UAL suggested 
+that we provide similar relief for airplanes on which the threshold has 
+been exceeded.
+    We do not agree with the commenters' requests to add a grace 
+period. The current revisions of the referenced service information 
+provide a compliance time of 18 months for the initial inspection for 
+all airplanes. The compliance times for certain conditional inspections 
+are in terms of airplane threshold or time since accomplishment of the 
+specified repair or modification. Those previously installed repairs or 
+modifications may have been done using a version of Aviation Partners 
+Boeing Service Bulletin AP767-57-010 before Revision 11 or alternative 
+method, and may involve deviations, additional repair activity, and 
+previous repairs. Under the provisions of paragraph (k) of this AD, we 
+will consider requests for approval of AMOCs to extend the compliance 
+time if sufficient data are submitted to substantiate that it would 
+provide an acceptable level of safety. We have determined that each 
+situation must be handled separately in the AMOC evaluation. We have 
+not changed this AD in this regard.
+
+Request To Add Compliance Tables to Certain Service Information
+
+    Delta asked that a compliance table be added to Aviation Partners 
+Boeing Service Bulletin AP767-57-014, Revision 1, dated April 12, 2017, 
+for airplanes on which the actions specified in Aviation Partners 
+Boeing Service Bulletin AP767-57-010 have been previously accomplished. 
+Delta noted that page i of Aviation Partners Boeing Service Bulletin 
+AP767-57-014, Revision 1, dated April 12, 2017, provides a compliance 
+information table only for Group 3 airplanes; there are no tables for 
+Groups 1 and 2 airplanes.
+    We do not agree with the commenter's request. The compliance 
+information table on page i of Aviation Partners Boeing Service 
+Bulletin AP767-57-014, Revision 1, dated April 12, 2017, provides only 
+a description of additional work, if any, necessary based on work 
+accomplished using the previous revision. These tables are reference 
+information only, and do not reflect all the actions required by the 
+AD. The necessary compliance tables are provided in paragraph 1.E., 
+``Compliance'' of Aviation Partners Boeing Service Bulletin AP767-57-
+014, Revision 1, dated April 12, 2017. Therefore, we have not changed 
+this AD in this regard.
+
+Request To Clarify Group 4 Airplanes Not Affected
+
+    UAL asked that we include a clarification in the proposed AD (in 
+the SNPRM) that Group 4 airplanes are not affected. UAL stated that 
+Group 4 airplanes are identified in the effectivity table in paragraph 
+1.A. of Aviation Partners Boeing Service Bulletin AP767-57-010, 
+Revision 11, dated April 3, 2017. UAL noted that an equivalent change 
+to the service information was incorporated during winglet installation 
+with no additional work being necessary. UAL asked that we add 
+paragraph (g)(3) to the AD to clarify that Group 4 airplanes are not 
+affected by the requirements in the AD.
+    We agree with the commenter for the reasons provided. Aviation 
+Partners Boeing Service Bulletin AP767-57-010, Revision 11, dated April 
+3, 2017, specifies that an equivalent change has been incorporated in 
+APB winglet retrofit kits for Group 4 airplanes, and that no more work 
+is necessary on those airplanes. We have included a clarification in 
+paragraph (g)(3) of this AD that specifies that Group 4 airplanes are 
+not affected by the actions required by paragraph (g) of this AD.
+
+Request To Remove an Airplane Having a Certain Line Number
+
+    FedEx asked that we remove the airplane having line number 1027 
+from the applicability in the proposed AD (in the SNPRM), or allow 
+Aviation Partners Boeing Service Bulletin AP767-57-012, dated September 
+2015, as an AMOC. FedEx stated that it will be modifying that airplane 
+by removing the winglets and installing Boeing wing tips in accordance 
+with Aviation Partners Boeing Service Bulletin AP767-57-012,
+
+[[Page 25887]]
+
+dated September 2015. FedEx anticipated that the modification will be 
+completed prior to the effective date of the AD. FedEx added that the 
+unsafe condition will be addressed when the winglets are removed.
+    We do not agree with the commenter's request. There are many 
+factors that led to the cracking of the lower wing skin, and the 
+additional loading of the winglet is only one of those factors. Other 
+contributory factors are design details with the added internal wing 
+structure, which resulted in shortening the fatigue life of the blended 
+winglet installation. We have not changed this AD in this regard.
+
+Request Approval for Alternative Open Hole HFEC Inspection
+
+    UAL asked that provisions be added to paragraph (g) of the proposed 
+AD (in the SNPRM) to allow an alternative open-hole HFEC inspection 
+procedure to inspect for cracking at the five inboard fastener 
+locations. UAL stated that an open-hole HFEC inspection with the 
+fasteners removed, in accordance with nondestructive test (NDT) Part 6, 
+Chapter 51-00-16, using the same notch sensitivity provides an 
+equivalent crack detection method. UAL added that APB has concurred 
+with the inspection. UAL concluded that it has been performing the 
+optional preventive modification, which trims out the skin containing 
+the five fastener holes, and allows for the open-hole HFEC to be 
+performed easily because the fasteners in the doubler are removed.
+    We do not agree with the commenter's request. Although UAL 
+developed an inspection method that works better for its situation, the 
+HFEC inspection specified in the referenced service information is 
+required by this AD to address all situations. However, under the 
+provisions of paragraph (k) of this AD, we will consider requests for 
+approval of AMOCs if sufficient data are submitted to substantiate that 
+the open-hole HFEC inspection procedure provides an acceptable level of 
+safety. We have not changed this AD in this regard.
+
+Request To Clarify Credit for Previously Accomplished Repairs Approved 
+by an Organization Designation Authorization (ODA)
+
+    All Nippon Airways (ANA), AAL, APB, and Delta asked that we clarify 
+credit in paragraph (i) of the proposed AD (in the SNPRM), for 
+previously accomplished repairs approved by a Boeing ODA prior to June 
+15, 2017.
+    ANA stated that during discussions with the FAA, it was informed 
+that repair deviations approved by Boeing ODAs prior to the FAA 
+approval of the APB revised fatigue analysis issued on June 15, 2017, 
+and the release of Aviation Partners Boeing Service Bulletins AP767-57-
+010, Revision 11, AP767-57-013, Revision 1, and AP767-57-014, Revision 
+1, do not qualify for AMOC credit to the AD after it is released. ANA 
+added that the proposed AD (in the SNPRM) would provide AMOC credit for 
+repair deviations approved by Boeing ODAs with 8100-9 forms dated after 
+June 15, 2017, because the Boeing ODAs would be using the APB revised 
+fatigue analysis.
+    AAL stated that paragraph (i) of the proposed AD (in the SNPRM) 
+specifies that repairs accomplished before June 15, 2017, and before 
+the AD effective date approved by a Boeing ODA can be considered 
+approved repairs in accordance with paragraphs (g) and (h) of the 
+proposed AD (in the SNPRM). AAL added that Boeing has indicated through 
+Multi-Operator Message MOM-MOM-17-0480-01B that repairs approved prior 
+to June 15, 2017, can be re-evaluated and approved on a new 8100-9 
+form. AAL noted that the language in paragraph (i) should be clarified 
+to indicate that repairs accomplished prior to June 15, 2017, are also 
+acceptable, as long as they have an 8100-9 approval from a Boeing ODA 
+dated after June 15, 2017.
+    APB requested that we clarify paragraph (i) of the proposed AD (in 
+the SNPRM) to state that accomplishment of previous revisions of 
+Aviation Partners Boeing Service Bulletins AP767-57-010 should be 
+acceptable for credit for previously accomplished repairs and 
+modifications of the lower outboard wing skin. APB stated that after 
+the effective date of the AD, operators that did not seek relief for 
+previously completed actions would need to request approval of AMOCs.
+    Delta stated that paragraph (i) of the proposed AD (in the SNPRM) 
+provides repair approval for repairs of the lower outboard wing skin 
+done after June 15, 2017, and before the effective date of the AD, that 
+are approved by the Boeing ODA authorized by the Manager, Seattle ACO 
+Branch, are approved for the applicable repairs required by paragraphs 
+(g) and (h) of the AD. Delta added that prior to issuance of the 
+referenced service information, both inspection and repair instructions 
+for stringers L-9.5 and L-6.5 were contained in Revisions 1, 2, 4, 6, 
+7, 8, and 9 of Aviation Partners Boeing Service Bulletin AP767-57-010. 
+Delta added that it has performed many inspections and repairs for 
+stringers L-9.5 and L-6.5 with those revisions. Delta suggested that 
+credit be provided for repairs approved by a Boeing 8100-9 or 
+previously accomplished using Revisions 1, 2, 4, 6, 7, 8, and 9 of 
+Aviation Partners Boeing Service Bulletin AP767-57-010. Delta added 
+that AMOCs will have to be obtained for each approved 8100-9 if no 
+credit is provided.
+    We agree to clarify the language in paragraph (i) of this AD to 
+include certain language provided by the commenters' for the reasons 
+provided. We have clarified the language in paragraph (i) of this AD by 
+adding that the ODA repairs approved after June 15, 2017, and before 
+the effective date of this AD, will have post-installation inspection 
+requirements in lieu of the post-inspection instructions specified in 
+Aviation Partners Boeing Service Bulletin AP767-57-010, Revision 11, 
+dated April 3, 2017; and Aviation Partners Boeing Service Bulletin 
+AP767-57-014, Revision 1, dated April 12, 2017.
+
+Request To Correct Error in Service Information
+
+    APB and UAL asked that we correct an error specified in Part 13 of 
+Aviation Partners Boeing Service Bulletin AP767-57-010, Revision 11, 
+dated April 3, 2017.
+    APB and UAL stated that paragraphs (g)(1)(i)(D)(2), 
+(g)(1)(ii)(B)(2), and (g)(1)(iii)(B)(2) of the proposed AD (in the 
+SNPRM) would require the post-repair HFEC inspection in accordance with 
+Part 13 of the referenced service information. UAL stated that Part 13, 
+Step 1.d., specifies repeating the Part 9 HFEC inspection; however, it 
+should specify repeating the Part 13 HFEC inspection because Part 9 
+applies to airplanes without the stringer replacement. UAL noted that 
+the paragraphs in the proposed AD (in the SNPRM) correctly specify 
+repeating the Part 13 HFEC inspection. UAL added that the steps in the 
+referenced service information are listed as RC (required for 
+compliance), and must be done to comply with the AD.
+    We agree that the error exists in the service information. We have 
+added an exception in paragraph (j)(4) of this AD that specifies 
+repeating the Part 13 HFEC inspection instead of the Part 9 inspection.
+
+Request To Provide Credit for Previous Service Information
+
+    AAL, UAL, and United Parcel Service (UPS) asked that we provide 
+credit for doing the modification required by paragraph (i) of the 
+proposed AD (in the SNPRM) using previous revisions of the referenced 
+service information. UAL and UPS noted that paragraph (i) of the
+
+[[Page 25888]]
+
+proposed AD (in the NPRM), which provided credit for previous actions 
+using previous revisions of the referenced service information, was 
+deleted in the SNPRM.
+    We do not agree with the commenters' requests. No credit is given 
+for previously installed repairs or modifications due to each situation 
+being unique; therefore, a re-evaluation will have to be done and may 
+involve additional work for certain airplanes. Under the provisions of 
+paragraph (k) of this AD, we will consider requests for approval of 
+AMOCs if sufficient data are submitted to substantiate that work done 
+using previous revisions of the service information provides an 
+acceptable level of safety. We have not changed this AD in this regard.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule with the changes described previously and minor 
+editorial changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+SNPRM for addressing the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the SNPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed APB Service Bulletin AP767-57-010, Revision 11, dated 
+April 3, 2017. The service information describes procedures for an HFEC 
+inspection for cracking of the external surface of the lower outboard 
+wing skin at stringer L-9.5, and on-condition actions that include 
+repetitive HFEC inspections, modification by oversizing and plugging 
+the existing fastener holes of the wing skin, repair (modification) of 
+the stringer with new stringer, and repair (modification) of the 
+stringer with external doubler/tripler; repetitive post-repair 
+inspections for cracking, and repair.
+    We also reviewed APB Service Bulletin AP767-57-014, Revision 1, 
+dated April 12, 2017. The service information describes procedures for 
+an HFEC inspection for cracking of the lower outboard wing skin at 
+stringer L-6.5 and on-condition actions that include repetitive HFEC 
+inspections, repair (modification) of the stringer with new stringer, 
+repetitive post-repair HFEC inspections for cracking, and repair.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 140 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                        Estimated Costs--Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+HFEC Inspections......................  6 work-hours x $85 per                $0            $510         $71,400
+                                         hour = $510.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary on-condition 
+actions that would be required based on the results of the inspection. 
+We have no way of determining the number of aircraft that might need 
+these on-condition actions.
+
+                                      Estimated Costs--On-Condition Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Post-repair Inspections.......................  6 work-hours x $85 per hour =                 $0            $510
+                                                 $510 per inspection cycle.
+Repair/Modification...........................  262 work-hours x $85 per hour =                0          22,270
+                                                 $22,270.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for on-condition repairs for the post-repair inspections 
+specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+
+[[Page 25889]]
+
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2018-11-14 The Boeing Company: Amendment 39-19302; Docket No. FAA-
+2015-1421; Product Identifier 2014-NM-177-AD.
+
+(a) Effective Date
+
+    This AD is effective July 10, 2018.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 767-300 and -300F 
+series airplanes, certificated in any category, with Aviation 
+Partners Boeing winglets installed; as identified in Aviation 
+Partners Boeing Service Bulletin AP767-57-010, Revision 11, dated 
+April 3, 2017; and Aviation Partners Boeing Service Bulletin AP767-
+57-014, Revision 1, dated April 12, 2017.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fatigue cracking in the lower 
+outboard wing skin at the inboard fastener of stringer L-9.5, and 
+the lower outboard wing skin of stringer L-6.5, on airplanes with 
+winglets installed per Supplemental Type Certificate ST01920SE. We 
+are issuing this AD to prevent fatigue cracking in the lower 
+outboard wing skin, which could result in failure and subsequent 
+separation of the wing and winglet and consequent reduced 
+controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Stringer L-9.5 Inspections, Modification, Repair 
+(Modification), Repetitive Post-Repair Inspections, and Repair
+
+    (1) For Group 1 and Group 2 airplanes identified in Aviation 
+Partners Boeing Service Bulletin AP767-57-010, Revision 11, dated 
+April 3, 2017: At the applicable time specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-
+57-010, Revision 11, dated April 3, 2017, except as required by 
+paragraph (j)(1) of this AD: Do a high frequency eddy current (HFEC) 
+inspection for cracking of the lower outboard wing skin at stringer 
+L-9.5, in accordance with Part 1 of the Accomplishment Instructions 
+of Aviation Partners Boeing Service Bulletin AP767-57-010, Revision 
+11, dated April 3, 2017.
+    (i) For airplanes on which ``Condition 1'' is found, as defined 
+in the Accomplishment Instructions of Aviation Partners Boeing 
+Service Bulletin AP767-57-010, Revision 11, dated April 3, 2017, 
+during any inspection required by paragraph (g)(1) or (g)(1)(i)(A) 
+of this AD: Do the applicable actions required by paragraph 
+(g)(1)(i)(A), (g)(1)(i)(B), (g)(1)(i)(C), or (g)(1)(i)(D) of this 
+AD.
+    (A) Repeat the inspection specified in paragraph (g)(1) of this 
+AD thereafter at the applicable times specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-
+57-010, Revision 11, dated April 3, 2017.
+    (B) Do the applicable actions required by paragraphs 
+(g)(1)(i)(B)(1), (g)(1)(i)(B)(2), and (g)(1)(i)(B)(3) of this AD.
+    (1) Before further flight, do actions (modifications and repair 
+(modification)) in accordance with Part 2, Part 3, Part 4, and Part 
+5, as applicable, of the Accomplishment Instructions of Aviation 
+Partners Boeing Service Bulletin AP767-57-010, Revision 11, dated 
+April 3, 2017.
+    (2) For airplanes on which the repair (modification) specified 
+in Part 5 of Aviation Partners Boeing Service Bulletin AP767-57-010 
+was done: At the applicable time specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-
+57-010, Revision 11, dated April 3, 2017, do a post-repair HFEC 
+inspection for cracking, in accordance with Part 12 of the 
+Accomplishment Instructions of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; and repeat 
+the inspection thereafter at the applicable times specified in 
+paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017.
+    (3) If any crack is found during any inspection required by 
+paragraph (g)(1)(i)(B)(2) of this AD, repair before further flight 
+using a method approved in accordance with the procedures specified 
+in paragraph (k) of this AD.
+    (C) Do the actions required by paragraphs (g)(1)(i)(C)(1) and 
+(g)(1)(i)(C)(2) of this AD, and do all applicable actions required 
+by paragraph (g)(1)(i)(C)(3) of this AD.
+    (1) Before further flight, repair (modify) in accordance with 
+Part 8 of the Accomplishment Instructions of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017.
+    (2) At the applicable time specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-
+57-010, Revision 11, dated April 3, 2017, do a post-repair HFEC 
+inspection for cracking, in accordance with Part 9 of the 
+Accomplishment Instructions of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; and repeat 
+the inspection thereafter at the applicable times specified in 
+paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017.
+    (3) If any crack is found during any inspection required by 
+paragraph (g)(1)(i)(C)(2) of this AD, repair before further flight 
+using a method approved in accordance with the procedures specified 
+in paragraph (k) of this AD.
+    (D) Do the actions required by paragraphs (g)(1)(i)(D)(1) and 
+(g)(1)(i)(D)(2) of this AD, and do all applicable actions required 
+by paragraph (g)(1)(i)(D)(3) of this AD.
+    (1) Before further flight, repair (modify) in accordance with 
+Part 11 of the Accomplishment Instructions of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017.
+    (2) At the applicable time specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-
+57-010, Revision 11, dated April 3, 2017, do a post-repair HFEC 
+inspection for cracking, in accordance with Part 13 of the 
+Accomplishment Instructions of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; and repeat 
+the inspection thereafter at the applicable times specified in 
+paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; except as 
+required by paragraph (j)(4) of this AD.
+    (3) If any crack is found during any inspection required by 
+paragraph (g)(1)(i)(D)(2) of this AD, repair before further flight 
+using a method approved in accordance with the procedures specified 
+in paragraph (k) of this AD.
+    (ii) For airplanes on which ``Condition 2'' is found, as defined 
+in the Accomplishment Instructions of Aviation Partners Boeing 
+Service Bulletin AP767-57-010, Revision 11, dated April 3, 2017, 
+during any inspection required by paragraph (g)(1) or (g)(1)(i)(A) 
+of this AD: Do the actions required by paragraph (g)(1)(ii)(A) or 
+(g)(1)(ii)(B) of this AD.
+    (A) Do the actions required by paragraphs (g)(1)(ii)(A)(1) and 
+(g)(1)(ii)(A)(2) of this AD, and do all applicable actions required 
+by paragraph (g)(1)(ii)(A)(3) of this AD.
+    (1) Before further flight, repair (modify) in accordance with 
+Part 8 of the Accomplishment Instructions of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017.
+    (2) At the applicable time specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-
+57-
+
+[[Page 25890]]
+
+010, Revision 11, dated April 3, 2017, do a post-repair HFEC 
+inspection for cracking, in accordance with Part 9 of the 
+Accomplishment Instructions of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; and repeat 
+the inspection thereafter at the applicable times specified in 
+paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017.
+    (3) If any crack is found during any inspection required by 
+paragraph (g)(1)(ii)(A)(2) of this AD, repair before further flight 
+using a method approved in accordance with the procedures specified 
+in paragraph (k) of this AD.
+    (B) Do the actions required by paragraphs (g)(1)(ii)(B)(1) and 
+(g)(1)(ii)(B)(2) of this AD, and do all applicable actions required 
+by paragraph (g)(1)(ii)(B)(3) of this AD.
+    (1) Before further flight, repair (modify) in accordance with 
+Part 11 of the Accomplishment Instructions of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017.
+    (2) At the applicable time specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-
+57-010, Revision 11, dated April 3, 2017, do a post-repair HFEC 
+inspection for cracking, in accordance with Part 13 of the 
+Accomplishment Instructions of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; and repeat 
+the inspection thereafter at the applicable times specified in 
+paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; except as 
+required by paragraph (j)(4) of this AD.
+    (3) If any crack is found during any inspection required by 
+paragraph (g)(1)(ii)(B)(2) of this AD, repair before further flight 
+using a method approved in accordance with the procedures specified 
+in paragraph (k) of this AD.
+    (iii) For airplanes on which ``Condition 3'' is found, as 
+defined in the Accomplishment Instructions of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017, during the actions specified in paragraph (g)(1)(i)(B)(1) of 
+this AD: Do the actions required by paragraph (g)(1)(iii)(A) or 
+(g)(1)(iii)(B) of this AD.
+    (A) Do the actions required by paragraphs (g)(1)(iii)(A)(1) and 
+(g)(1)(iii)(A)(2) of this AD, and do all applicable actions required 
+by paragraph (g)(1)(iii)(A)(3) of this AD.
+    (1) Before further flight, repair (modify) in accordance with 
+Part 8 of the Accomplishment Instructions of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017.
+    (2) At the applicable time specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-
+57-010, Revision 11, dated April 3, 2017, do a post-repair HFEC 
+inspection for cracking, in accordance with Part 9 of the 
+Accomplishment Instructions of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; and repeat 
+the inspection thereafter at the applicable times specified in 
+paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017.
+    (3) If any crack is found during any inspection required by 
+paragraph (g)(1)(iii)(A)(2) of this AD, repair before further flight 
+using a method approved in accordance with the procedures specified 
+in paragraph (k) of this AD.
+    (B) Do the actions required by paragraphs (g)(1)(iii)(B)(1) and 
+(g)(1)(iii)(B)(2) of this AD, and do all applicable actions required 
+by paragraph (g)(1)(iii)(B)(3) of this AD.
+    (1) Before further flight, repair (modify) in accordance with 
+Part 11 of the Accomplishment Instructions of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017.
+    (2) At the applicable time specified in paragraph 1.E., 
+``Compliance,'' of Aviation Partners Boeing Service Bulletin AP767-
+57-010, Revision 11, dated April 3, 2017, do a post-repair HFEC 
+inspection for cracking, in accordance with Part 13 of the 
+Accomplishment Instructions of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; and repeat 
+the inspection thereafter at the applicable times specified in 
+paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017; except as 
+required by paragraph (j)(4) of this AD.
+    (3) If any crack is found during any inspection required by 
+paragraph (g)(1)(iii)(B)(2) of this AD, repair before further flight 
+using a method approved in accordance with the procedures specified 
+in paragraph (k) of this AD.
+    (iv) For airplanes on which ``Condition 4'' is found, as defined 
+in the Accomplishment Instructions of Aviation Partners Boeing 
+Service Bulletin AP767-57-010, Revision 11, dated April 3, 2017, 
+during any action specified in paragraph (g)(1)(i)(C)(1), 
+(g)(1)(i)(D)(1) (g)(1)(ii)(A)(1), (g)(1)(ii)(B)(1), 
+(g)(1)(iii)(A)(1), and (g)(1)(iii)(B)(1) of this AD: Repair before 
+further flight using a method approved in accordance with the 
+procedures specified in paragraph (k) of this AD.
+    (2) For Group 3 airplanes identified in Aviation Partners Boeing 
+Service Bulletin AP767-57-010, Revision 11, dated April 3, 2017: At 
+the applicable time specified in paragraph 1.E., ``Compliance,'' of 
+Aviation Partners Boeing Service Bulletin AP767-57-010, Revision 11, 
+dated April 3, 2017, or within 6 months after the effective date of 
+this AD, whichever occurs later, do an HFEC inspection for cracking 
+of the lower outboard wing skin at stringer L-9.5, in accordance 
+with Part 7 of the Accomplishment Instructions of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017. Repeat the inspection thereafter at the applicable time 
+specified in paragraph 1.E., ``Compliance,'' of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017. If any cracking is found during any inspection, repair before 
+further flight using a method approved in accordance with the 
+procedures specified in paragraph (k) of this AD. An approved repair 
+terminates the repetitive inspections required by paragraph (g)(2) 
+of this AD for the repaired area only.
+    (3) Group 4 airplanes identified in Aviation Partners Boeing 
+Service Bulletin AP767-57-010, Revision 11, dated April 3, 2017, are 
+not affected by the actions required by paragraph (g) of this AD.
+
+(h) Repetitive Stringer L-6.5 Inspections, Repair (Modification), 
+Repetitive Post-Repair Inspections, and Repair
+
+    (1) For airplanes identified in Boeing Service Bulletin AP767-
+57-014, Revision 1, dated April 12, 2017: At the applicable time 
+specified in paragraph 1.E., ``Compliance,'' of Aviation Partners 
+Boeing Service Bulletin AP767-57-014, Revision 1, dated April 12, 
+2017, except as required by paragraph (j)(2) of this AD: Do an HFEC 
+inspection for cracking of stringer L-6.5 of the lower outboard wing 
+skin, in accordance with Part 1 of Aviation Partners Boeing Service 
+Bulletin AP767-57-014, Revision 1, dated April 12, 2017. If no 
+cracking is found, repeat the inspection thereafter at the 
+applicable times specified in paragraph 1.E., ``Compliance,'' of 
+Aviation Partners Boeing Service Bulletin AP767-57-014, Revision 1, 
+dated April 12, 2017, except as provided by paragraph (h)(3) of this 
+AD.
+    (2) If any crack is found during any inspection required by 
+paragraph (h)(1) of this AD, do the actions required by paragraphs 
+(h)(2)(i) and (h)(2)(ii) of this AD, and do all applicable actions 
+required by paragraph (h)(2)(iii) of this AD.
+    (i) Before further flight, repair (modify) stringer L-6.5, in 
+accordance with Part 2 of the Accomplishment Instructions of 
+Aviation Partners Boeing Service Bulletin AP767-57-014, Revision 1, 
+dated April 12, 2017.
+    (ii) Except as required by paragraph (j)(3) of this AD: At the 
+applicable time specified in paragraph 1.E., ``Compliance,'' of 
+Aviation Partners Boeing Service Bulletin AP767-57-014, Revision 1, 
+dated April 12, 2017, except as required by paragraph (j)(2) of this 
+AD, do an HFEC post-repair inspection for cracking, in accordance 
+with Part 3 of the Accomplishment Instructions of Aviation Partners 
+Boeing Service Bulletin AP767-57-014, Revision 1, dated April 12, 
+2017, and repeat the inspection thereafter at the applicable times 
+specified in paragraph 1.E., ``Compliance,'' of Aviation Partners 
+Boeing Service Bulletin AP767-57-014, Revision 1, dated April 12, 
+2017.
+    (iii) If any crack is found during any inspection required by 
+paragraph (h)(2)(ii) of this AD, repair before further flight using 
+a method approved in accordance with the procedures specified in 
+paragraph (k) of this AD.
+    (3) As an option to the repetitive inspections required by 
+paragraph (h)(1) of this AD, do the actions required by paragraphs 
+(h)(3)(i) and (h)(3)(ii) of this AD, and do all applicable actions 
+required by paragraph (h)(3)(iii) of this AD.
+    (i) Before further flight after accomplishing the most recent 
+inspection required by paragraph (h)(1) of this AD, repair (modify) 
+stringer L-6.5, in accordance with Part 2 of the Accomplishment 
+Instructions of Aviation Partners Boeing Service Bulletin AP767-57-
+014, Revision 1, dated April 12, 2017.
+    (ii) Except as required by paragraph (j)(3) of this AD: At the 
+applicable time specified
+
+[[Page 25891]]
+
+in paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing 
+Service Bulletin AP767-57-014, Revision 1, dated April 12, 2017, 
+except as required by paragraph (j)(2) of this AD, do a post-repair 
+HFEC inspection for cracking, in accordance with Part 3 of the 
+Accomplishment Instructions of Aviation Partners Boeing Service 
+Bulletin AP767-57-014, Revision 1, dated April 12, 2017, and repeat 
+the inspection thereafter at the applicable times specified in 
+paragraph 1.E., ``Compliance,'' of Aviation Partners Boeing Service 
+Bulletin AP767-57-014, Revision 1, dated April 12, 2017.
+    (iii) If any crack is found during any inspection required by 
+paragraph (h)(3)(ii) of this AD, repair before further flight using 
+a method approved in accordance with the procedures specified in 
+paragraph (k) of this AD.
+
+(i) Repair Approval
+
+    Repairs of the lower outboard wing skin that were approved after 
+June 15, 2017, and before the effective date of this AD, by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO Branch, 
+are approved for the applicable repairs required by paragraphs (g) 
+and (h) of this AD. The ODA repairs will have post-installation 
+inspection requirements in lieu of the post-inspection instructions 
+specified in Aviation Partners Boeing Service Bulletin AP767-57-010, 
+Revision 11, dated April 3, 2017; and Aviation Partners Boeing 
+Service Bulletin AP767-57-014, Revision 1, dated April 12, 2017.
+
+(j) Exceptions to Service Information Specifications
+
+    (1) Where paragraph 1.E., ``Compliance,'' of Aviation Partners 
+Boeing Service Bulletin AP767-57-010, Revision 11, dated April 3, 
+2017, specifies a compliance time ``after the issue date of Revision 
+11 of this service bulletin,'' this AD requires compliance within 
+the specified compliance time after the effective date of this AD.
+    (2) Where paragraph 1.E., ``Compliance,'' of Aviation Partners 
+Boeing Service Bulletin AP767-57-014, Revision 1, dated April 12, 
+2017, specifies a compliance time ``after the initial issue date of 
+this service bulletin,'' this AD requires compliance within the 
+specified compliance time after the effective date of this AD.
+    (3) For Condition 1 and Condition 2 airplanes: Where paragraph 
+1.E., ``Compliance,'' of Aviation Partners Boeing Service Bulletin 
+AP767-57-014, Revision 1, dated April 12, 2017, specifies a 
+compliance time for accomplishing the Part 3 HFEC inspection of 18 
+months ``after the initial issue date of this service bulletin,'' 
+the required compliance time is 6,000 flight cycles or 18,000 flight 
+hours, whichever occurs first, after doing the Part 2 repair.
+    (4) For airplanes on which a stringer L-9.5 replacement was 
+accomplished per Part 11 of Aviation Partners Boeing Service 
+Bulletin AP767-57-010, Revision 11, dated April 3, 2017: Where 
+Aviation Partners Boeing Service Bulletin AP767-57-010, Revision 11, 
+dated April 3, 2017, specifies repeating the post-repair HFEC 
+inspection ``in Part 9,'' this AD requires repeating the post-repair 
+HFEC inspection in Part 13.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle ACO Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or local Flight Standards District 
+Office, as appropriate. If sending information directly to the 
+manager of the certification office, send it to the attention of the 
+person identified in paragraph (l) of this AD. Information may be 
+emailed to: <a href="/cdn-cgi/l/email-protection#86bfabc7c8cbabd5e3e7f2f2eae3abc7c5c9abc7cbc9c5abd4e3f7f3e3f5f2f5c6e0e7e7a8e1e9f0"><span class="__cf_email__" data-cfemail="0a33274b444727596f6b7e7e666f274b4945274b47454927586f7b7f6f797e794a6c6b6b246d657c">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by the Boeing Commercial Airplanes ODA that has 
+been authorized by the Manager, Seattle ACO Branch, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+    (4) Except as required by paragraphs (g)(1)(i)(B)(3), 
+(g)(1)(i)(C)(3), (g)(1)(i)(D)(3), (g)(1)(ii)(A)(3), 
+(g)(1)(ii)(B)(3), (g)(1)(iii)(A)(3), (g)(1)(iii)(B)(3), (g)(1)(iv), 
+(g)(2), (h)(2)(iii), and (h)(3)(iii) of this AD: For service 
+information that contains steps that are labeled as Required for 
+Compliance (RC), the provisions of paragraphs (k)(4)(i) and 
+(k)(4)(ii) of this AD apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. If a step or substep is labeled ``RC Exempt,'' then the 
+RC requirement is removed from that step or substep. An AMOC is 
+required for any deviations to RC steps, including substeps and 
+identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(l) Related Information
+
+    For more information about this AD, contact Allen 
+Rauschendorfer, Aerospace Engineer, Airframe Section, FAA, Seattle 
+ACO Branch, 2200 South 216th St., Des Moines, WA; phone and fax: 
+206-231-3528; email: <a href="/cdn-cgi/l/email-protection#44252828212a6a36253137272c212a202b36222136042225256a232b32"><span class="__cf_email__" data-cfemail="dbbab7b7beb5f5a9baaea8b8b3beb5bfb4a9bdbea99bbdbabaf5bcb4ad">[email&#160;protected]</span></a>.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Aviation Partners Boeing Service Bulletin AP767-57-010, 
+Revision 11, dated April 3, 2017.
+    (ii) Aviation Partners Boeing Service Bulletin AP767-57-014, 
+Revision 1, dated April 12, 2017.
+    (3) For service information identified in this AD, contact 
+Aviation Partners Boeing, 2811 S. 102nd Street, Suite 200, Seattle, 
+WA 98168; telephone 206-762-1171; internet <a href="https://www.aviationpartnersboeing.com">https://www.aviationpartnersboeing.com</a>.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Des Moines, Washington, on May 21, 2018.
+James Cashdollar,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2018-11825 Filed 6-4-18; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

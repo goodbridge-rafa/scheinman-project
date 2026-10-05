@@ -1,0 +1,616 @@
+<html>
+<head>
+<title>Federal Register, Volume 77 Issue 98 (Monday, May 21, 2012)</title>
+</head>
+<body><pre>
+[Federal Register Volume 77, Number 98 (Monday, May 21, 2012)]
+[Rules and Regulations]
+[Pages 29857-29861]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2012-11869]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0645; Directorate Identifier 2010-NM-009-AD; 
+Amendment 39-17052; AD 2012-10-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding an existing airworthiness directive (AD) 
+for certain The Boeing Company Model 747 series airplanes. That AD 
+currently requires repetitive inspections for cracks of the fuselage 
+skin lap splice between body station (BS) 400 and BS 520 at stringers 
+S-6L and S-6R, and repair if necessary. This new AD shortens the 
+interval for the repetitive inspections, requires modification for 
+certain airplanes, and requires certain post-modification inspections 
+for other airplanes. This AD was prompted by reports of multiple 
+adjacent cracks on an airplane, and a recent fleet-wide evaluation of 
+widespread fatigue damage of skin lap joints, which indicated the need 
+for revised procedures and reduced compliance times. We are issuing 
+this AD to detect and correct cracking of the fuselage skin lap splice 
+between BS 400 and BS 520 at stringers S-6L and S-6R, which could 
+result in sudden loss of cabin pressurization and the inability of the 
+fuselage to withstand fail-safe loads.
+
+DATES: This AD is effective June 25, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of June 25, 2012.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1; fax 206-766-5680; email <a href="/cdn-cgi/l/email-protection#7419115a161b11171b1934161b111d1a135a171b19"><span class="__cf_email__" data-cfemail="87eae2a9e5e8e2e4e8eac7e5e8e2eee9e0a9e4e8ea">[email&#160;protected]</span></a>; 
+Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may review copies of the 
+referenced service information at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue SW., Renton, Washington. For information 
+on the availability of this material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Bill Ashforth, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office 
+(ACO), 1601 Lind Avenue SW., Renton, Washington 98057-3356; phone: 425-
+917-6432; fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#06646f6a6a2867756e606974726e4660676728616970"><span class="__cf_email__" data-cfemail="17757e7b7b3976647f717865637f5771767639707861">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 90-21-17, Amendment 39-6768 (55 FR 41510, 
+October 12, 1990). That AD applies to the specified products. The NPRM 
+was published in the Federal Register on June 29, 2011 (76 FR 38074). 
+That NPRM proposed to continue to require repetitive inspections for 
+cracks of the fuselage skin lap splice between body station (BS) 400 
+and BS 520 at stringers S-6L and S-6R, and repair if necessary; and 
+added modification for certain airplanes and certain post-modification 
+inspections for other airplanes.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(76 FR 38074, June 29, 2011) and the FAA's response to each comment.
+
+[[Page 29858]]
+
+Request To Remove Conflicting Requirement
+
+    Boeing stated that certain compliance times conflict in the 
+proposed AD (76 FR 38074, June 29, 2011). To resolve the conflict, 
+Boeing requested that we remove paragraph (k) from the proposed AD. 
+(Paragraph (k) was retained from AD 90-21-17, Amendment 39-6768 (55 FR 
+41510, October 12, 1990).) The initial compliance time for the 
+inspections specified in paragraphs (k), (l), and (m) of the proposed 
+AD is 10,000 flight cycles after certain modifications have been done. 
+Boeing noted that the repetitive interval is 5,000 flight cycles for 
+paragraph (k) of the proposed AD--but Boeing Service Bulletin 747-
+53A2303, Revision 2, dated October 1, 2009, specifies 500 flight cycles 
+for paragraphs (l) and (m) of the proposed AD. Boeing stated that the 
+preventive modifications include the protruding head fastener 
+modification and the external reinforcement doubler installation (which 
+does not cut the lap).
+    We partially agree with the request. We agree that, as written, the 
+compliance times specified in paragraphs (l) and (m) of the proposed AD 
+(76 FR 38074, June 29, 2011) would have conflicted with the compliance 
+time specified in paragraph (k) in the proposed AD, as described by the 
+commenter. But, for airplanes nearing the 5,000-flight-cycle repetitive 
+interval specified in paragraph (k) of the AD on the new effective 
+date, removing paragraph (k) from the AD would allow an unwarranted 
+extension of time to comply, and could compromise the continued safe 
+operation of those airplanes. We have therefore retained paragraph (k) 
+in this AD. We have further determined that, once the applicable 
+inspections specified in paragraph (l) or (m) of the AD have been 
+initiated, the actions in paragraph (k) are no longer necessary. To 
+avoid the conflict described by the commenter, we have revised 
+paragraphs (l) and (m) of this AD to state that their accomplishment 
+terminates the requirements of paragraph (k) of this AD.
+
+Request To Revise Modification Requirements
+
+    Boeing requested that we revise paragraph (n) of the proposed AD 
+(76 FR 38074, June 29, 2011) to specify separate requirements for the 
+two groups of affected airplanes, so that the proposed AD agrees with 
+the actions specified in Table 2 of paragraph 1.E., ``Compliance,'' of 
+Boeing Service Bulletin 747-53A2303, Revision 2, dated October 1, 2009.
+    One group affected by paragraph (n) of the proposed AD (76 FR 
+38074, June 29, 2011) is airplanes on which no previous modification or 
+repair has been installed in the affected area. For those airplanes, 
+Boeing requested that we require a structural modification in 
+accordance with Part 3 of Boeing Service Bulletin 747-53A2303, Revision 
+2, dated October 1, 2009, within the compliance time specified in 
+paragraph A. of AD 90-06-06, Amendment 39-6490 (55 FR 8374, March 7, 
+1990).
+    (AD 90-06-06, Amendment 39-6490 (55 FR 8374, March 7, 1990), 
+applies to certain Boeing Model 747 series airplanes and requires 
+structural modifications in accordance with Boeing Document D6-35999, 
+dated March 31, 1989. That document in turn refers to Boeing Alert 
+Service Bulletin 747-53A2303, dated June 2, 1988, as another source of 
+guidance for doing that modification.)
+    Boeing requested no change for the remaining airplanes identified 
+in paragraph (n) of the proposed AD (76 FR 38074, June 29, 2011).
+    We partially agree. For the referenced airplanes, this same 
+modification is one of the requirements of AD 90-06-06, Amendment 39-
+6490 (55 FR 8374, March 7, 1990). The compliance time for this 
+modification is 23,000 total accumulated flight cycles, or within 4 
+years after the effective date (April 17, 1990), whichever occurs 
+later. To clarify the ADs' requirements, we have removed those 
+airplanes from paragraph (n) of the NPRM (76 FR 38074, June 29, 2011) 
+and added a new paragraph (o) in this AD, which explains that, for 
+those airplanes, accomplishment of the referenced modification 
+satisfies the corresponding requirement for AD 90-06-06, but post-
+modification inspections are required. We have re-identified subsequent 
+paragraphs in this AD accordingly.
+
+Request To Refer to Service Information for Compliance Data
+
+    Boeing requested that the FAA review the compliance data in the 
+proposed AD (76 FR 38074, June 29, 2011). Boeing noted that the 
+proposed AD repeated all the compliance data as stated in Boeing 
+Service Bulletin 747-53A2303, Revision 2, dated October 1, 2009. Boeing 
+requested that we refer to the compliance table in this service 
+bulletin as the source of all compliance data, except as noted.
+    Referring to paragraph 1.E., ``Compliance,'' of a service bulletin 
+may be an efficient way to convey compliance time information in an AD, 
+if the compliance times are complex or numerous. But specifying simpler 
+compliance times within an AD--as in paragraphs (l), (m), and (n) in 
+this AD--is also acceptable and enforceable. For requirements retained 
+from a superseded AD--as in paragraphs (g) through (k) in this AD--we 
+routinely restate the existing language from the AD that is being 
+superseded, including the text describing the compliance times. We have 
+not changed this AD regarding this issue.
+
+Explanation of Additional Changes to This AD
+
+    The information in Note 1 of the proposed AD (76 FR 38074, June 29, 
+2011) has been moved to a new paragraph (g)(4) in this AD.
+    As explained in the proposed AD (76 FR 38074, June 29, 2011), 
+paragraph (p) in the proposed AD (paragraph (q) in this final rule) was 
+revised to add delegation of authority to Boeing Commercial Airplanes 
+Organization Designation Authorization (ODA) to approve an alternative 
+method of compliance for any repair required by this AD. We have also 
+changed paragraph (k) of this AD to reflect this change.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (76 FR 38074, June 29, 2011) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (76 FR 38074, June 29, 2011).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 165 airplanes of the affected design in the 
+worldwide fleet; of these, 64 are U.S.-registered airplanes. The 
+following table provides the estimated costs for U.S. operators to 
+comply with this AD.
+
+[[Page 29859]]
+
+
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 Average labor
+               Action                        Work hours          rate per hour           Parts              Cost per airplane           Fleet cost
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Inspection (required by AD 90-21-17,  8.......................             $85  $0.....................  $680 per inspection      $43,520 per inspection
+ Amendment 39-6768 (55 FR 41510,                                                                          cycle.                   cycle.
+ October 12, 1990).
+Modification (new action)...........  Up to 370...............              85  Between $954 and $2,064  Up to $33,514..........  Up to $2,144,896.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+90-21-17, Amendment 39-6768 (55 FR 41510, October 12, 1990), and adding 
+the following new AD:
+
+2012-10-03 The Boeing Company: Amendment 39-17052; Docket No. FAA-
+2011-0645; Directorate Identifier 2010-NM-009-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective June 25, 2012.
+
+(b) Affected ADs
+
+    This AD supersedes AD 90-21-17, Amendment 39-6768 (55 FR 41510, 
+October 12, 1990).
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 747-100, 747-100B, 
+747-200B, 747-200C, 747-200F, 747-300, 747SR, and 747SP series 
+airplanes, certificated in any category, as identified in Boeing 
+Service Bulletin 747-53A2303, Revision 2, dated October 1, 2009.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by from reports of multiple adjacent cracks 
+on an airplane, and a recent fleet-wide evaluation of widespread 
+fatigue damage of skin lap joints, which indicated the need for 
+revised procedures and reduced compliance times. The Federal 
+Aviation Administration is issuing this AD to detect and correct 
+cracking of the fuselage skin lap splice between body station (BS) 
+400 and BS 520, at stringers S-6L and S-6R. Such cracking could 
+result in sudden loss of cabin pressurization and the inability of 
+the fuselage to withstand fail-safe loads.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+(g) Retained Inspections
+
+    This paragraph restates the requirements of paragraph A. of AD 
+90-21-17, Amendment 39-6768 (55 FR 41510, October 12, 1990), with 
+revised service information, reduced inspection interval, and added 
+subparagraph. Conduct a close visual or detailed inspection, and a 
+high frequency eddy current (HFEC) inspection, of the fuselage skin 
+lap splice between BS 400 and BS 520, at stringers S-6L and S-6R, 
+for cracking, in accordance with Boeing Alert Service Bulletin 747-
+53A2303, dated June 2, 1988, or Revision 1, dated March 29, 1990; or 
+Boeing Service Bulletin 747-53A2303, Revision 2, dated October 1, 
+2009; at the times specified in paragraph (g)(1), (g)(2), or (g)(3) 
+of this AD. After the effective date of this AD, only Boeing Service 
+Bulletin 747-53A2303, Revision 2, dated October 1, 2009, may be 
+used. Adequate lighting must be used for this inspection. The eddy 
+current inspections may be conducted without removal of the paint, 
+provided the paint does not interfere with the inspections. Paint 
+must be removed, using an approved chemical stripper, in any 
+situation where the inspector determines that the paint is 
+interfering with the proper functioning of the inspection 
+instrument.
+    (1) Within the next 100 landings after March 31, 1989 (the 
+effective date of AD 89-05-03, Amendment 39-6146 (54 FR 7397, 
+February 21, 1989), which was superseded by AD 90-21-17, Amendment 
+39-6768 (55 FR 41510, October 12, 1990)), for airplanes that have 
+accumulated 16,000 or more landings as of March 31, 1989, unless 
+previously accomplished within the last 4,900 landings.
+    (2) Within the next 1,000 landings after March 31, 1989, or 
+prior to the accumulation of 16,000 landings, whichever occurs 
+first, for airplanes that have accumulated between 12,000 and 16,000 
+landings, as of March 31, 1989 (the effective date of AD 89-05-03, 
+Amendment 39-6146 (54 FR 7397, February 21, 1989), which was 
+superseded by AD 90-21-17, Amendment 39-6768 (55 FR 41510, October 
+12, 1990)), unless previously accomplished within the last 4,000 
+landings.
+    (3) Prior to the accumulation of 13,000 landings for airplanes 
+that have accumulated 12,000 or fewer landings as of March 31, 1989 
+(the effective date of AD 89-05-03,
+
+[[Page 29860]]
+
+Amendment 39-6146 (54 FR 7397, February 21, 1989), which was 
+superseded by AD 90-21-17, Amendment 39-6768 (55 FR 41510, October 
+12, 1990)), unless previously accomplished within the last 5,000 
+landings.
+    (4) For the purposes of this AD, a detailed inspection is: ``An 
+intensive examination of a specific item, installation, or assembly 
+to detect damage, failure, or irregularity. Available lighting is 
+normally supplemented with a direct source of good lighting at an 
+intensity deemed appropriate. Inspection aids such as mirror, 
+magnifying lenses, etc., may be necessary. Surface cleaning and 
+elaborate procedures may be required.''
+
+(h) Retained Inspection Compliance Time for SUD-Modified Airplanes
+
+    This paragraph restates the requirements of paragraph B. of AD 
+90-21-17, Amendment 39-6768 (55 FR 41510, October 12, 1990), with 
+revised service information. On airplanes which have been modified 
+to the stretched-upper-deck configuration, as identified in Boeing 
+Alert Service Bulletin 747-53A2303, dated June 2, 1988, or Revision 
+1, dated March 29, 1990; or Boeing Service Bulletin 747-53A2303, 
+Revision 2, dated October 1, 2009; the accumulated landing threshold 
+for compliance with paragraph (g) of this AD is measured from the 
+time of the stretched-upper-deck modification.
+
+(i) Retained Repetitive Inspections
+
+    This paragraph restates the requirements of paragraph C. of AD 
+90-21-17, Amendment 39-6768 (55 FR 41510, October 12, 1990), with 
+revised service information. If no cracking is detected during the 
+inspections required by paragraph (g) of this AD, repeat the 
+inspections required by paragraph (g) of this AD one time at the 
+earlier of the times specified in paragraphs (i)(1) and (i)(2) of 
+this AD. Thereafter repeat the inspections at intervals not to 
+exceed 3,000 landings.
+    (1) Within 5,000 landings after the last inspection.
+    (2) Within 3,000 landings after the last inspection, or within 
+1,000 landings after the effective date of this AD, whichever occurs 
+later.
+
+(j) Retained Repair
+
+    This paragraph restates the requirements of paragraph D. of AD 
+90-21-17, Amendment 39-6768 (55 FR 41510, October 12, 1990), with 
+revised service information. If cracks are detected during the 
+inspections required by paragraph (g) of this AD, accomplish the 
+repair or preventive modification of the affected lap splice, in 
+accordance with Boeing Alert Service Bulletin 747-53A2303, dated 
+June 2, 1988, or Revision 1, dated March 29, 1990; or Boeing Service 
+Bulletin 747-53A2303, Revision 2, dated October 1, 2009; prior to 
+further pressurized flight. After the effective date of this AD, 
+only Boeing Service Bulletin747-53A2303, Revision 2, dated October 
+1, 2009, may be used. If cracks are repaired in local areas without 
+accomplishing preventive modification of the entire affected lap 
+area, continue inspections of the unmodified and unrepaired areas of 
+the affected lap splice in accordance with paragraph (i) of this AD.
+
+(k) Retained Inspection Compliance Time for Airplanes With Preventive 
+Modification
+
+    This paragraph restates the requirements of paragraph E. of AD 
+90-21-17, Amendment 39-6768 (55 FR 41510, October 12, 1990), with 
+revised service information. For airplanes incorporating the 
+preventive modification, as described in Boeing Alert Service 
+Bulletin 747-53A2303, dated June 2, 1988, or Revision 1, dated March 
+29, 1990; or Boeing Service Bulletin 747-53A2303, Revision 2, dated 
+October 1, 2009; accomplish the inspections required by paragraph 
+(g) of this AD prior to the accumulation of 10,000 landings after 
+the modification and thereafter at intervals not to exceed 5,000 
+landings. If cracks are found, repair using a method approved in 
+accordance with the procedures specified in paragraph (q) of this 
+AD, prior to further pressurized flight.
+
+(l) New Requirement of This AD: Post-Modification Inspections
+
+    For airplanes on which a protruding head fastener modification 
+has been done in accordance with Boeing Alert Service Bulletin 747-
+53A2303, dated June 2, 1988, or Revision 1, dated March 29, 1990: 
+Within 10,000 flight cycles after modification, or within 500 flight 
+cycles after the effective date of this AD, whichever occurs later, 
+do an external HFEC inspection for cracking in the skin around the 
+fasteners in the upper row of the lap joint, in accordance with Part 
+5 of the Accomplishment Instructions of Boeing Service Bulletin 747-
+53A2303, Revision 2, dated October 1, 2009. If any crack is found, 
+before further flight repair in accordance with Boeing Service 
+Bulletin 747-53A2303, Revision 2, dated October 1, 2009 (except as 
+required by paragraph (p) of this AD), or do the modification 
+specified in paragraph (n) of this AD. Repeat the inspection in 
+affected uncracked areas at intervals not to exceed 500 flight 
+cycles, until the modification specified in paragraph (n) of this AD 
+is done. Accomplishment of the initial inspection and all applicable 
+corrective actions specified in this paragraph terminates the 
+requirements of paragraph (k) of this AD.
+
+(m) New Requirement of This AD: Internal HFEC Inspection
+
+    For airplanes on which an external doubler repair has been 
+installed as a modification that was done using a method other than 
+that specified in Boeing 747 structural repair manual (SRM) 53-30-
+03, Figure 19, 25, 28 or 34: Within 10,000 flight cycles after 
+modification, or within 500 flight cycles after the effective date 
+of this AD, whichever occurs later, do an internal HFEC inspection 
+for cracking in the skin around the fasteners in the upper row of 
+the lap joint, in accordance with Part 5 of the Accomplishment 
+Instructions of Boeing Service Bulletin 747-53A2303, Revision 2, 
+dated October 1, 2009. If any crack is found, before further flight 
+repair in accordance with Boeing Service Bulletin 747-53A2303, 
+Revision 2, dated October 1, 2009 (except as required by paragraph 
+(p) of this AD), or do the modification specified in paragraph (n) 
+of this AD. Repeat the inspection in affected uncracked areas at 
+intervals not to exceed 500 flight cycles, until the modification 
+specified in paragraph (n) of this AD is done. Accomplishment of the 
+initial inspection and all applicable corrective actions specified 
+in this paragraph terminates the requirements of paragraph (k) of 
+this AD.
+
+(n) New Requirement of This AD: External Doubler Modification
+
+    For airplanes on which a protruding head fastener modification 
+or a Boeing 747 SRM 53-30-03 repair or modification has been 
+installed that was not done using Boeing 747 SRM 53-30-03, Figure 
+19, 25, 28, or 34, for the full length of the lap splice: Within 
+14,000 flight cycles after the first repair or modification was 
+done, or within 3,000 flight cycles after the effective date of this 
+AD, whichever occurs later, modify the skin and do all post-
+modification inspections and repairs, in accordance with Part 3 of 
+the Accomplishment Instructions of Boeing Service Bulletin 747-
+53A2303, Revision 2, dated October 1, 2009, except as required by 
+paragraph (o) of this AD. Do the post-modification inspection within 
+10,000 flight cycles after installation of the modification. Repeat 
+the inspection thereafter at intervals not to exceed 3,000 flight 
+cycles. All applicable repairs must be done before further flight.
+
+(o) Structural Modification
+
+    The provisions of paragraphs (o)(1) and (o)(2) of this AD apply 
+to airplanes on which no previous modification or repair has been 
+installed in the affected area.
+    (1) Accomplishment of the structural modification specified in 
+Part 3 of the Accomplishment Instructions of Boeing Service Bulletin 
+747-53A2303, Revision 2, dated October 1, 2009, satisfies the 
+requirements of AD 90-06-06, Amendment 39-6490 (55 FR 8374, March 7, 
+1990), for only the corresponding modification specified in Boeing 
+Alert Service Bulletin 747-53A2303, dated June 2, 1988, and Revision 
+1, dated March 29, 1990; and Boeing Service Bulletin 747-53A2303, 
+Revision 2, dated October 1, 2009.
+    (2) After accomplishment of the modification specified in 
+paragraph (o)(1) of this AD, the applicable requirements and 
+compliance times of paragraphs (l) and (m) of this AD apply.
+
+(p) Exception to Service Bulletin Specification
+
+    Where Boeing Service Bulletin 747-53A2303, Revision 2, dated 
+October 1, 2009, specifies to contact Boeing for appropriate action: 
+Before further flight, repair using a method approved in accordance 
+with the procedures specified in paragraph (q) of this AD.
+
+(q) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly
+
+[[Page 29861]]
+
+to the manager of the ACO, send it to the attention of the person 
+identified in the Related Information section of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#5e67731f1013730d3b3f2a2a323b731f1d11731f13111d730c3b2f2b3b2d2a2d1e383f3f70393128"><span class="__cf_email__" data-cfemail="b68f9bf7f8fb9be5d3d7c2c2dad39bf7f5f99bf7fbf9f59be4d3c7c3d3c5c2c5f6d0d7d798d1d9c0">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) or other person who has been authorized by the Manager, 
+Seattle ACO, to make those findings. For a repair method to be 
+approved, the repair must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+    (4) AMOCs approved previously in accordance with AD 90-21-17, 
+Amendment 39-6768 (55 FR 41510, October 12, 1990), are approved as 
+AMOCs for the corresponding provisions of paragraphs (g) and (i) of 
+this AD. AMOCs approved previously in accordance with AD 90-21-17, 
+Amendment 39-6768 (55 FR 41510, October 12, 1990), are approved as 
+AMOCs for the corresponding provisions of paragraphs (j) and (n) of 
+this AD only if the repair or preventive modification of the 
+affected lap splice was done in accordance with Boeing Service 
+Bulletin 747-53A2303, Revision 2, dated October 1, 2009, including 
+Boeing Designated Engineering Representative (DER) or Airworthiness 
+Representative (AR) approvals of deviations to Boeing Service 
+Bulletin 747-53A2303, Revision 2, dated October 1, 2009.
+
+(r) Related Information
+
+    For more information about this AD, contact Bill Ashforth, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft 
+Certification Office (ACO), 1601 Lind Avenue SW., Renton, Washington 
+98057-3356; telephone 425-917-6432; fax 425-917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#4e2c272222602f3d2628213c3a260e282f2f60292138"><span class="__cf_email__" data-cfemail="d1b3b8bdbdffb0a2b9b7bea3a5b991b7b0b0ffb6bea7">[email&#160;protected]</span></a>.
+
+(s) Material Incorporated by Reference
+
+    (1) You must use the following service information to do the 
+actions required by this AD, unless the AD specifies otherwise. The 
+Director of the Federal Register approved the incorporation by 
+reference (IBR) of the following service information under 5 U.S.C. 
+552(a) and 1 CFR part 51:
+    (i) Boeing Alert Service Bulletin 747-53A2303, dated June 2, 
+1988.
+    (ii) Boeing Alert Service Bulletin 747-53A2303, Revision 1, 
+dated March 29, 1990.
+    (iii) Boeing Service Bulletin 747-53A2303, Revision 2, dated 
+October 1, 2009.
+    (2) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 
+206-544-5000, extension 1; fax 206-766-5680; email 
+<a href="/cdn-cgi/l/email-protection#a5c8c08bc7cac0c6cac8e5c7cac0cccbc28bc6cac8"><span class="__cf_email__" data-cfemail="ea878fc488858f898587aa88858f83848dc4898587">[email&#160;protected]</span></a>; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (3) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, 
+Washington. For information on the availability of this material at 
+the FAA, call 425-227-1221.
+    (4) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at an NARA facility, call 202-741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on May 8, 2012.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-11869 Filed 5-18-12; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

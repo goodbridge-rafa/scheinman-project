@@ -1,0 +1,535 @@
+<html>
+<head>
+<title>Federal Register, Volume 69 Issue 115 (Wednesday, June 16, 2004)</title>
+</head>
+<body><pre>
+[Federal Register Volume 69, Number 115 (Wednesday, June 16, 2004)]
+[Rules and Regulations]
+[Pages 33561-33565]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 04-13144]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-NM-376-AD; Amendment 39-13666; AD 2004-12-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 757 Series Airplanes 
+Equipped With Rolls Royce RB211 Engines
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+[[Page 33562]]
+
+SUMMARY: This amendment supersedes an existing airworthiness directive 
+(AD), applicable to certain Boeing Model 757 series airplanes equipped 
+with Rolls Royce RB211 engines, that currently requires modification of 
+the nacelle strut and wing structure. This amendment requires, for 
+certain airplanes, repetitive detailed inspections of certain aft 
+bulkhead fasteners for loose or missing fasteners, and corrective 
+action if necessary. For certain other airplanes, this amendment 
+requires a one-time detailed inspection of the middle gusset of the 
+inboard side load fitting for proper alignment and realignment if 
+necessary; a one-time eddy current inspection of certain fastener holes 
+for cracking, and repair if necessary; and a detailed inspection of 
+certain fasteners for loose or missing fasteners; and replacement with 
+new fasteners if necessary. The actions specified by this AD are 
+intended to prevent fatigue cracking in primary strut structure and 
+consequent reduced structural integrity of the strut. These actions are 
+intended to address the identified unsafe condition.
+
+DATES: Effective July 21, 2004.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of July 21, 2004.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, 1601 
+Lind Avenue, SW., Renton, Washington; or at the National Archives and 
+Records Administration (NARA). For information on the availability of 
+this material at NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+FOR FURTHER INFORMATION CONTACT: Dennis Stremick, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+917-6450; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) by superseding AD 99-24-07, 
+amendment 39-11431 (64 FR 66370, November 26, 1999), which is 
+applicable to certain Boeing Model 757 series airplanes equipped with 
+Rolls Royce RB211 engines, was published as a supplemental Notice of 
+Proposed Rulemaking in the Federal Register on April 15, 2003 (68 FR 
+18170). The action proposed to continue to require modification of the 
+nacelle strut and wing structure. The action proposed to require, for 
+certain airplanes, repetitive detailed inspections of certain aft 
+bulkhead fasteners for loose or missing fasteners, and corrective 
+action if necessary. For certain other airplanes, the action proposed 
+to require a one-time detailed inspection of the middle gusset of the 
+inboard side load fitting for proper alignment and realignment if 
+necessary; a one-time eddy current inspection of certain fasteners 
+holes for cracking; and repair if necessary; and a detailed inspection 
+of certain fasteners for loose or missing fasteners; and replacement 
+with new fasteners if necessary. Additionally, the action proposed to 
+require that certain actions specified in Boeing Service Bulletin 757-
+54-0035, Revision 2, dated June 13, 2002 (specified in the supplemental 
+NPRM as one of the appropriate sources of service information), be done 
+using Boeing-supplied tools.
+
+Request for Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Comments Received That Resulted in Changes to the AD
+
+Requests To Extend Repetitive Inspection Interval
+
+    Several commenters request that the repetitive inspection interval 
+of every six months proposed by paragraph (b) of the supplemental NPRM 
+be extended. Two commenters state that repetitive inspection intervals 
+of every 3,000 flight cycles would be less of a burden for the 
+operators. Another commenter advises that the airplane manufacturer's 
+intent was to require repetitive inspections every 12,000 flight cycles 
+or 72 months, whichever occurs first.
+    The FAA concurs that the repetitive inspection interval may be 
+extended somewhat. We understand that the manufacturer has recommended 
+an interval of every 12,000 flight cycles or 72 months. However, we 
+have recently received reports of field experience that show the 
+fasteners can loosen in less than 72 months. Therefore, we have revised 
+paragraph (b) of the AD to specify a repetitive inspection interval not 
+to exceed 6,000 flight cycles or 36 months, whichever occurs first.
+
+Requests To Clarify Paragraph (f) of the Supplemental NPRM
+
+    One commenter states that the way the supplemental NPRM is written, 
+it would require the actions specified in paragraph (f) of the 
+supplemental NPRM to be accomplished after each repetitive inspection 
+required by paragraph (b) of the supplemental NPRM. Two commenters 
+request that the supplemental NPRM be revised to clearly specify that 
+accomplishment of the requirements of paragraph (f) of the supplemental 
+NPRM is terminating action.
+    We agree with the need to clarify paragraph (f) of the supplemental 
+NPRM. The requirements of paragraph (f) of the AD (to increase the 
+diameter of the fastener holes and to install new fasteners) apply to 
+those airplanes on which the actions specified in paragraph (d) of the 
+AD have been accomplished. We have revised paragraph (f) of the AD to 
+reflect that clarification. Additionally, we agree that the actions 
+specified in paragraph (f) of this AD terminates the repetitive 
+inspection requirements of this AD. We have revised the AD accordingly.
+
+Comments Received That Resulted in No Change to the Supplemental NPRM
+
+Requests To Withdraw Rulemaking Until New Service Information Is Issued
+
+    Several commenters request that the supplemental NPRM be withdrawn 
+and that, instead, new rulemaking be proposed to specify that the 
+initial inspection specified in paragraph (b) of the supplemental NPRM 
+be accomplished within 90 days after the release of a new Boeing 
+service bulletin (Boeing Alert Service Bulletin 757-54A0047). The 
+commenters state that using the new service information would simplify 
+and clarify the actions proposed in the supplemental NPRM.
+    We do not agree that this AD should be withdrawn. We have not 
+reviewed or approved new service information specified by the 
+commenters. In this case, we find that to withdraw this AD and initiate 
+new proposed rulemaking (providing for public opportunity to comment) 
+would significantly delay the rulemaking process and would be 
+inappropriate in light of the identified unsafe condition. Therefore, 
+no change is necessary to the AD in this regard. In the future, if the 
+manufacturer elects to provide new service information, the service 
+information can be evaluated and approved in accordance with paragraph 
+(h) of this AD.
+
+[[Page 33563]]
+
+Request To Extend Compliance Time of Paragraph (b) of the Supplemental 
+NPRM
+
+    One commenter requests that, for airplanes that have completed the 
+modification specified in Boeing Service Bulletin 757-54-0035, the 
+compliance time specified in paragraph (b) of the supplemental NPRM be 
+extended. The commenter states that the compliance time should be 
+extended because the previous modification was done on those airplanes 
+in a shop environment.
+    We do not agree that extending the compliance time specified in 
+paragraph (b) of this AD is necessary. The requirements of paragraph 
+(b) of this AD apply only to airplanes that have not been modified per 
+Boeing Service Bulletin 757-54-0035. Therefore, no change is necessary 
+in this regard to the AD.
+
+Requests To Revise Inspection Method for Loose or Missing Fasteners
+
+    Two commenters request that a method of inspecting for loose or 
+missing fasteners without the engine in place be specified. The 
+commenters state that the inspection method specified in the 
+supplemental NPRM is burdensome to accomplish with the engine in place.
+    We do not agree with the commenters' request. Since the 
+manufacturer has not provided us with service information describing 
+such a method of inspection, we have not reviewed and approved such an 
+inspection method. However, under the provisions of paragraph (h) of 
+the AD, we may approve requests for an alternative inspection method if 
+data are submitted to substantiate that such an alternative inspection 
+method would provide an acceptable level of safety.
+
+Request for an Alternative Inspection Method
+
+    One commenter, the manufacturer, requests that a simple gap check 
+be performed with a feeler or wire gage in lieu of the inspection in 
+paragraph (c) of the supplemental NPRM. The commenter explains that 
+this can be done with the strut still installed, which is described in 
+Boeing Service Bulletin 757-54-0035, Revision 2. The commenter further 
+recommends that a minimum gap of 0.030 inch be maintained between the 
+middle gusset on the inboard side load fitting and the strut clevis 
+lug.
+    We do not agree with permitting such an alternative method of 
+inspection at this time, since the gap check has not been sufficiently 
+defined for us to review and approve. However, under the provisions of 
+paragraph (h) of the AD, we may approve requests for an alternative 
+inspection method if data are submitted to substantiate that such an 
+alternative method would provide an acceptable level of safety.
+
+Request To Use Alternative Method of Oversizing Holes
+
+    One commenter requests approval for using procedures to oversize 
+holes specified in the Structural Repair Manual (SRM) in lieu of using 
+Boeing-supplied tools specified in paragraph (g) of the supplemental 
+NPRM. The commenter notes that there is a limited supply of those 
+tools.
+    We do not agree with the commenter's request. In certain cases, 
+operator supplied tools have contributed to unsafe conditions. However, 
+under the provisions of paragraph (h) of the AD, we may approve 
+requests for an alternative method of oversizing holes if data are 
+submitted to substantiate that such a method to oversize holes would 
+provide an acceptable level of safety.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Change to the Code of Federal Regulations
+
+    On July 10, 2002, the FAA issued a new version of 14 CFR part 39 
+(67 FR 47997, July 22, 2002), which governs the FAA's airworthiness 
+directives system. The regulation now includes material that relates to 
+altered products, special flight permits, and alternative methods of 
+compliance. Because we have now included this material in part 39, only 
+the office authorized to approve AMOCs is identified in each individual 
+AD. However, for clarity and consistency in this AD, we have retained 
+the language of the supplemental NPRM regarding that material.
+
+Change to Labor Rate Estimate
+
+    We have reviewed the figures we have used over the past several 
+years to calculate AD costs to operators. To account for various 
+inflationary costs in the airline industry, we find it necessary to 
+increase the labor rate used in these calculations from $60 per work 
+hour to $65 per work hour. The cost impact information, below, reflects 
+this increase in the specified hourly labor rate.
+
+Cost Impact
+
+    There are approximately 394 airplanes of the affected design in the 
+worldwide fleet. The FAA estimates that 176 airplanes of U.S. registry 
+will be affected by this AD.
+    The modification that is currently required by AD 99-24-07 takes 
+approximately 1,049 work hours per airplane to accomplish, at an 
+average labor rate of $65 per work hour. This work hour figure includes 
+the time it will take to remove and reinstall the struts from the 
+airplane as well as the time required to gain and close access to the 
+adjacent wing structure. Based on these figures, the cost impact of the 
+currently required modification on U.S. operators is estimated to be 
+$12,000,560, or $68,185, per airplane.
+    This cost impact figure does not reflect the cost of the 
+terminating actions described in the service bulletins listed in 
+paragraph I.C., Table I, ``Strut Improvement Bulletins,'' on page 7 of 
+Revision 2 of Boeing Service Bulletin 757-54-0035, that are required to 
+be accomplished prior to, or concurrently with, the modification of the 
+nacelle strut and wing structure. Since some operators may have 
+accomplished certain modifications on some or all of the airplanes in 
+the fleet, while other operators may not have accomplished any of the 
+modifications on any of the airplanes in the fleet, the FAA is unable 
+to provide a reasonable estimate of the cost of accomplishing the 
+terminating actions described in the service bulletins listed in Table 
+I of the service bulletin.
+    It will take approximately 1 work hour per airplane to accomplish 
+the new detailed inspection of the middle gusset, at an average labor 
+rate of $65 per work hour. Based on these figures, the cost impact of 
+the inspection required by this AD is estimated to be $11,440, or $65 
+per airplane.
+    It will take approximately 8 work hours per airplane to accomplish 
+the new fastener removal and eddy current inspection, at an average 
+labor rate of $65 per work hour. Based on these figures, the cost 
+impact of the removal and inspection required by this AD is estimated 
+to be $91,520, or $520 per airplane.
+    The cost impact figures discussed above are based on assumptions 
+that no operator has yet accomplished any of the requirements of this 
+AD action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions
+
+[[Page 33564]]
+
+actually required by the AD. These figures typically do not include 
+incidental costs, such as the time required to gain access and close 
+up, planning time, or time necessitated by other administrative 
+actions.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. Section 39.13 is amended by removing amendment 39-11431 (64 FR 
+66370, November 26, 1999), and by adding a new airworthiness directive 
+(AD), amendment 39-13666, to read as follows:
+
+2004-12-07 Boeing: Amendment 39-13666. Docket 2000-NM-376-AD. 
+Supersedes AD 99-24-07, Amendment 39-11431.
+
+    Applicability: Model 757 series airplanes equipped with Rolls 
+Royce RB211 engines, line numbers 1 through 735 inclusive; 
+certificated in any category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance (AMOC) in accordance with paragraph 
+(h)(1) of this AD. The request should include an assessment of the 
+effect of the modification, alteration, or repair on the unsafe 
+condition addressed by this AD; and, if the unsafe condition has not 
+been eliminated, the request should include specific proposed 
+actions to address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent fatigue cracking in primary strut structure and 
+consequent reduced structural integrity of the strut, accomplish the 
+following:
+
+Restatement of Requirements of AD 99-24-07
+
+Modification
+
+    (a) Modify the nacelle strut and wing structure according to 
+Boeing Service Bulletin 757-54-0035, dated July 17, 1997; Revision 
+1, dated April 15, 1999; or Revision 2, dated June 13, 2002, at the 
+later of the times specified in paragraph (a)(1) or (a)(2) of this 
+AD. All of the terminating actions described in the service 
+bulletins and listed in paragraph I.C., Table I, ``Strut Improvement 
+Bulletins,'' on page 6 of Boeing Service Bulletin 757-54-0035, on 
+page 7 of Revision 1 of the service bulletin, and on Page 7 of 
+Revision 2 of the service bulletin, as applicable, must be 
+accomplished according to those service bulletins prior to, or 
+concurrently with, the accomplishment of the modification of the 
+nacelle strut and wing structure required by this paragraph. After 
+the effective date of this AD, use only Revision 2 of the service 
+bulletin.
+    (1) Prior to the accumulation of 37,500 total flight cycles, or 
+prior to 20 years since the date of manufacture of the airplane, 
+whichever occurs first.
+    (2) Within 3,000 flight cycles after January 3, 2000 (the 
+effective date of AD 99-24-07, amendment 39-11431).
+
+New Requirements of This AD
+
+Inspections/Corrective Actions
+
+    (b) For airplanes on which the modification required by 
+paragraph (a) of this AD has not been done according to Boeing 
+Service Bulletin 757-54-0035, dated July 17, 1997: Before the 
+accumulation of 15,000 total flight cycles, or within 6 months after 
+the effective date of this AD, whichever is later, do a detailed 
+inspection of the 20 aft bulkhead fasteners of the lower spar 
+fitting for loose or missing fasteners, according to a method 
+approved by the Manager, Seattle Aircraft Certification Office 
+(ACO), FAA. Before further flight, replace any loose or missing 
+fasteners with new fasteners according to Boeing Service Bulletin 
+757-54-0035, Revision 1, dated April 15, 1999; or Revision 2, dated 
+June 13, 2002, excluding Evaluation Form. Repeat the inspection 
+thereafter at intervals not to exceed 6,000 flight cycles or 36 
+months, whichever occurs first. Accomplishment of the actions 
+required by paragraph (a) of this AD constitutes terminating action 
+for the requirements of this paragraph.
+
+    Note 2: The 20 aft bulkhead fasteners are located in Panel 7 at 
+Locations 36, 37, and 41. The number of fasteners at Location 37 has 
+increased from 2 to 8 fasteners. Figure 30 of Boeing Service 
+Bulletin 757-54-0035, Revision 2, dated June 13, 2002, illustrates 
+the location of the fasteners.
+
+
+    Note 3: For the purposes of this AD, a detailed inspection is 
+defined as: ``An intensive visual examination of a specific 
+structural area, system, installation, or assembly to detect damage, 
+failure, or irregularity. Available lighting is normally 
+supplemented with a direct source of good lighting at intensity 
+deemed appropriate by the inspector. Inspection aids such as mirror, 
+magnifying lenses, etc., may be used. Surface cleaning and elaborate 
+access procedures may be required.''
+
+    (c) For airplanes on which the modification required by 
+paragraph (a) of this AD has been done according to Boeing Service 
+Bulletin 757-54-0035, dated July 17, 1997: Within 15,000 flight 
+cycles after doing the modification required by paragraph (a) of 
+this AD, or within 3 years after the effective date of this AD, 
+whichever is later; do a one-time detailed inspection of the middle 
+gusset of the inboard side load fitting for proper alignment, 
+according to Part II of the Accomplishment Instructions of Boeing 
+Service Bulletin 757-54-0035, Revision 1, dated April 15, 1999; or 
+Revision 2, dated June 13, 2002, excluding Evaluation Form. If the 
+gusset is not aligned properly, before further flight, machine the 
+gusset to the specified angle according to the service bulletin.
+    (d) Before further flight after doing paragraph (c) of this AD, 
+do the actions required by paragraphs (d)(1) and (d)(2) of this AD.
+    (1) Remove the aft bulkhead fasteners of the lower spar fitting 
+and do a one-time eddy current inspection of those fastener holes 
+for cracking, according to Part V of the Accomplishment Instructions 
+of Boeing Service Bulletin 757-54-0035, Revision 1, dated April 15, 
+1999; or Revision 2, dated June 13, 2002, excluding Evaluation Form.
+    (2) Do a detailed inspection of the 8 fasteners of the lower 
+spar fitting for loose or missing fasteners, according to a method 
+approved by the Manager, Seattle ACO. Before further flight, replace 
+any loose or missing fasteners with new fasteners according to 
+Boeing Service Bulletin 757-54-0035, Revision 1, dated April 15, 
+1999; or Revision 2, dated June 13, 2002, excluding Evaluation Form.
+
+    Note 4: The 8 fasteners are located in Panel 7 at Location 37. 
+The number of fasteners at Location 37 has increased from 2 to 8 
+fasteners. Figure 30 of Boeing Service Bulletin 757-54-0035, 
+Revision 2, dated June 13, 2002, excluding Evaluation Form, 
+illustrates the location of the fasteners.
+
+    (e) If any cracking is found during any inspection required by 
+this AD: Before
+
+[[Page 33565]]
+
+further flight, repair according to a method approved by the 
+Manager, Seattle ACO; or according to data meeting the type 
+certification basis of the airplane approved by a Boeing Company 
+Designated Engineering Representative who has been authorized by the 
+Manager, Seattle ACO, to make such findings. For a repair method to 
+be approved by the Manager, Seattle ACO, as required by this 
+paragraph, the Manager's approval letter must specifically reference 
+this AD.
+    (f) If no cracking is found during the inspection required by 
+paragraph (d) of this AD, before further flight, increase the 
+diameter of the fastener holes and install new fasteners according 
+to Boeing Service Bulletin 757-54-0035, Revision 2, dated June 13, 
+2002, excluding Evaluation Form.
+    (g) Except as identified in Figures 3 and 5 of the 
+Accomplishment Instructions of Boeing Service Bulletin 757-54-0035, 
+Revision 2, dated June 13, 2002, excluding Evaluation Form, the 
+actions must be done using Boeing-supplied tools.
+
+Alternative Methods of Compliance
+
+    (h)(1) An AMOC or adjustment of the compliance time that 
+provides an acceptable level of safety may be used if approved by 
+the Manager, Seattle ACO. Operators shall submit their requests 
+through an appropriate FAA Principal Maintenance Inspector, who may 
+add comments and then send it to the Manager, Seattle ACO.
+    (2) AMOCs, approved previously in accordance with AD 99-24-07, 
+amendment 39-11431, are approved as AMOCs with paragraph (a) of this 
+AD.
+
+    Note 5: Information concerning the existence of approved AMOCs 
+with this AD, if any, may be obtained from the Seattle ACO.
+
+Special Flight Permit
+
+    (i) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (j) Unless otherwise specified, the actions shall be done in 
+accordance with Boeing Service Bulletin 757-54-0035, Revision 1, 
+dated April 15, 1999; or Boeing Service Bulletin 757-54-0035, 
+Revision 2, dated June 13, 2002. This incorporation by reference was 
+approved by the Director of the Federal Register in accordance with 
+5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from 
+Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 
+98124-2207. Copies may be inspected at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+National Archives and Records Administration (NARA). For information 
+on the availability of this material at NARA, call (202) 741-6030, 
+or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+Effective Date
+
+    (k) This amendment becomes effective on July 21, 2004.
+
+    Issued in Renton, Washington, on May 25, 2004.
+Kalene C. Yanamura,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 04-13144 Filed 6-15-04; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

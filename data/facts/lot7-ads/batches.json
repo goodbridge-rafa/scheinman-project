@@ -1,0 +1,51 @@
+{
+ "form": "prompts/ad_form_v2.json",
+ "selection": "index docs without fetch_error, not yet extracted, text mentions 'alumin' (2026-08-30 wave 2)",
+ "batches": {
+  "b01": [
+   "data/raw/ads/00-19672.txt",
+   "data/raw/ads/00-28236.txt",
+   "data/raw/ads/02-8280.txt",
+   "data/raw/ads/03-25869.txt",
+   "data/raw/ads/04-12442.txt",
+   "data/raw/ads/04-20205.txt"
+  ],
+  "b02": [
+   "data/raw/ads/05-9876.txt",
+   "data/raw/ads/06-3061.txt",
+   "data/raw/ads/2010-1690.txt",
+   "data/raw/ads/2013-00894.txt",
+   "data/raw/ads/2014-17052.txt",
+   "data/raw/ads/2015-00010.txt"
+  ],
+  "b03": [
+   "data/raw/ads/2016-20074.txt",
+   "data/raw/ads/2017-26040.txt",
+   "data/raw/ads/2018-10921.txt",
+   "data/raw/ads/2018-20357.txt",
+   "data/raw/ads/2020-17900.txt",
+   "data/raw/ads/2022-14490.txt"
+  ],
+  "b04": [
+   "data/raw/ads/2023-17501.txt",
+   "data/raw/ads/2023-28769.txt",
+   "data/raw/ads/2024-09353.txt",
+   "data/raw/ads/2024-15808.txt",
+   "data/raw/ads/2024-21177.txt",
+   "data/raw/ads/2024-24386.txt"
+  ],
+  "b05": [
+   "data/raw/ads/2024-25977.txt",
+   "data/raw/ads/2025-03698.txt",
+   "data/raw/ads/2025-14390.txt",
+   "data/raw/ads/2025-19555.txt",
+   "data/raw/ads/2025-22320.txt",
+   "data/raw/ads/E7-11287.txt"
+  ],
+  "b06": [
+   "data/raw/ads/E8-12754.txt",
+   "data/raw/ads/E9-21922.txt",
+   "data/raw/ads/E9-9793.txt"
+  ]
+ }
+}

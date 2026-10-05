@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "00-19672": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The front spar is made from 7079-T6 aluminum, a material that was used for this component until the manufacturer determined that the material is susceptible to stress corrosion cracking.",
+     "value": "7079-T6"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "operators found stress corrosion cracks in the front spar of the center section of the horizontal stabilizer on two Boeing Model 737-100 and -200 series airplanes",
+     "value": "stabilizer"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "perform a detailed visual inspection to detect cracks in the front spar of the center section of the horizontal stabilizer",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This action is necessary to detect and correct stress corrosion cracking in the front spar of the center section of the horizontal stabilizer",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Thereafter, repeat the inspection twice more at intervals not to exceed 200 days, and thereafter at intervals not to exceed 24 months or 4,000 flight cycles, whichever occurs first. ... if any crack is detected during any inspection required by paragraph (a) of this AD, prior to further flight, accomplish rework of the front spar of the center section of the horizontal stabilizer ... prior to further flight, repair in accordance with a method approved by the Manager, Seattle Aircraft Certification Office (ACO), FAA",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This amendment adopts a new airworthiness directive (AD) that is applicable to certain Boeing Model 737-100, -200, and -200C series airplanes.",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "00-28236": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Several lots of the yokes were machined from 2024-T3 aluminum billet, which has poor stress corrosion properties in the transverse grain directions.",
+     "value": "2024-T3"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD requires checking the yoke half assembly (yoke) for any crack and replacing a cracked yoke assembly before further flight.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Before further flight and thereafter before the first flight of each day, check the identified area of each yoke for a crack.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "When these areas are exposed to a corrosive environment, such as salty air, stress corrosion causes crack formation and growth.",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(a) Before further flight and thereafter before the first flight of each day, check each yoke for a crack. ... (b) If a yoke is cracked, before further flight, replace the yokes with airworthy yokes, P/N A203-7. ... replace yokes, P/N A203-5, with airworthy yokes, P/N A203-7.",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2. Section 39.13 is amended by adding a new airworthiness directive to read as follows: 2000-20-51 Robinson Helicopter Company: Amendment 39-11960.",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "02-8280": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The diagonal brace material is aluminum 7075-T73, with a specified conductivity range of 38.0 through 42.5 percent International Annealed Copper Standard (IACS).",
+     "value": "7075-T73"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "One operator reported significant heat damage to the forward end of the diagonal brace on the left strut of a General Electric GE90 powered airplane.",
+     "value": "pylon"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do the conductivity inspection of all areas of the forward clevis lugs and brace body of the diagonal brace, as specified in and per Part 2 of the Accomplishment Instructions of the service bulletin",
+     "value": "lug"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Investigation revealed that the damage was caused by primary engine exhaust entering the aft fairing of the strut through a gap in the heat shield and elevating the temperature, resulting in heat damage to the primary fire seal, heat shield seal, and secondary fluid seal.",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "If no discrepancies are found, repeat the inspection after that every 1,000 flight hours. ... before further flight, replace the diagonal brace with a new brace per Part 4 of the Accomplishment Instructions of the service bulletin; or rework the diagonal brace per a method approved by the Manager, Seattle ACO ... before further flight, do the replacement or temporary repair of the seal per the AOM",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This amendment adopts a new airworthiness directive (AD) that is applicable to certain Boeing Model 777-200 series airplanes equipped with General Electric GE90 series engines.",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "03-25869": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "If the material of the lower inboard auxiliary spar cap found during the inspection required by paragraph (a) of this AD is 7075-T6 aluminum: Within 2 years or 2,000 flight cycles, whichever occurs first, after accomplishing the inspection required by paragraph (a) of this AD, perform a detailed inspection and a dye penetrant inspection for cracking",
+     "value": "7075-T6"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "requires an inspection to determine the material composition of the lower inboard auxiliary spar cap of the left and right wings",
+     "value": "wing_spar"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "perform a detailed inspection and a dye penetrant inspection for cracking of both of the lower inboard auxiliary spar caps; per McDonnell Douglas DC-8 Service Bulletin 57-85, Revision 1, dated July 5, 1991",
+     "value": "chord"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This action is necessary to detect and correct stress corrosion cracking of the auxiliary spar cap, which could cause excessive loads to the structure attaching the support fitting of the main landing gear (MLG) to the wing, and result in loss of the MLG.",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(a) Within 24 months or 2,000 flight cycles after the effective date of this AD, whichever occurs later, inspect to determine the material composition of the lower inboard auxiliary spar cap ... If no cracking is detected, repeat the inspection at intervals not to exceed 6,400 flight hours ... accomplish the applicable corrective actions (rework, repair, apply corrosion inhibiting compound, or replace fittings) per the service bulletin ... replace the auxiliary spar cap with a cap composed of 7075-T73 aluminum",
+     "value": "one_time_inspection;repetitive_inspection;repair;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This amendment adopts a new airworthiness directive (AD), applicable to certain McDonnell Douglas transport category airplanes",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "04-12442": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This amendment is prompted by the discovery of a crack in the upper shaft extension of an assembly.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to detect a crack in the upper shaft extension, which could result in catastrophic failure of the assembly and subsequent loss of control of the helicopter.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "describes procedures for inspecting the inside diameter surfaces of the 114D3248 upper shaft extension of the 234D3300 aft vertical shaft assembly for cracks",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The manufacturer subsequently determined that the crack initiated at an arc burn that occurred during the silver-plating process of the part.",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires, before further flight, inspecting the upper shaft extension for a crack and modifying the aft vertical shaft assembly (assembly). Thereafter, this AD requires, before the first flight of each day, inspecting the upper shaft extension for any crack. If any crack is found during any of the inspections, replacing the assembly with an airworthy assembly is required before further flight.",
+     "value": "repetitive_inspection;modification;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2. Section 39.13 is amended by adding a new airworthiness directive to read as follows: 2004-06-51 Boeing Defense and Space Group: Amendment 39-13651.",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "04-20205": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "any attach fitting is found to have P/N 65-19296-1 through -8 inclusive (attach fitting made of 7079-T6 aluminum): Before further flight, perform the actions in paragraphs (d)(1) and (d)(2) of this AD",
+     "value": "7079-T6"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "To detect and correct cracks and corrosion on the attach fitting holes of the forward trunnion attach fittings of the main landing gear (MLG), which could result in the collapse of the MLG",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Do detailed and high frequency eddy current inspections of the attach fitting holes for cracks and corrosion, repair any crack or corrosion found, and rework the attach fitting holes",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This action is necessary to detect and correct cracks and corrosion on the attach fitting holes of the forward trunnion attach fittings of the MLG, which could result in the collapse of the MLG.",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(b) Perform an inspection of the forward trunnion attach fittings of the MLG to determine the part number (P/N) of the attach fitting ... repair any crack or corrosion found, and rework the attach fitting holes ... (e) Within 120 months after the effective date of this AD, replace attach fittings that have P/N 65-19296-1 through -8 (attach fittings made of 7079-T6 aluminum) with new attach fittings",
+     "value": "one_time_inspection;repair;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This amendment adopts a new airworthiness directive (AD), applicable to certain Boeing Model 727, 727C, 727-100, -100C, and -200 series airplanes.",
+     "value": "none_stated"
+    }
+   ]
+  }
+ }
+}

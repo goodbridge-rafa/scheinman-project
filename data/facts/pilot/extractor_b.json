@@ -1,0 +1,12 @@
+{"fields": [
+  {"field_id": "bus_definition", "value": "BUS is the maximum stress withstood by a bearing specimen.", "snippet": "1.4.7.1 Bearing Yield and Ultimate Stresses (BYS or Fbry) and (BUS or Fbru) — BUS is the maximum stress withstood by a bearing specimen.", "page": 24},
+  {"field_id": "bys_offset_factor", "value": 0.02, "snippet": "BYS is computed from a bearing stress-deformation curve by drawing a line parallel to the initial slope at an offset of 0.02 times the pin diameter.", "page": 24},
+  {"field_id": "ed_ratios_tabulated", "value": "1.5 and 2.0", "snippet": "Tabulated design properties for bearing yield stress (Fbry) and bearing ultimate stress (Fbru) are provided throughout the Handbook for edge margins of e/D = 1.5 and 2.0.", "page": 24},
+  {"field_id": "ed_low_caution", "value": "Bearing values for e/D of 1.5 are not intended for designs of e/D < 1.5.", "snippet": "Bearing values for e/D of 1.5 are not intended for designs of e/D < 1.5.  Bearing values for e/D < 1.5 must be substantiated by adequate", "page": 24},
+  {"field_id": "spec_7075_sheet", "value": "AMS 4045 and AMS-QQ-A-250/12", "snippet": "Specification . . . AMS 4045 and AMS-QQ-A-250/12", "page": 673},
+  {"field_id": "t6_thinnest_range_in", "value": "0.008-0.011", "snippet": "Form: Sheet | Temper: T6 and T62 | Thickness, in. . . . 0.008-0.011 | Basis: S", "page": 673},
+  {"field_id": "t6_thinnest_ftu_L_A_ksi", "value": null, "snippet": null, "page": 673},
+  {"field_id": "t6_thinnest_fty_L_A_ksi", "value": null, "snippet": null, "page": 673},
+  {"field_id": "t6_thinnest_fcy_L_A_ksi", "value": null, "snippet": null, "page": 673},
+  {"field_id": "modulus_e_ksi", "value": 10.3, "snippet": "E, 10^3 ksi . . . 10.3", "page": 673}
+]}

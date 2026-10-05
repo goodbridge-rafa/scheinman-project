@@ -1,0 +1,492 @@
+<html>
+<head>
+<title>Federal Register, Volume 65 Issue 153 (Tuesday, August 8, 2000)</title>
+</head>
+<body><pre>
+[Federal Register Volume 65, Number 153 (Tuesday, August 8, 2000)]
+[Rules and Regulations]
+[Pages 48368-48371]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 00-19816]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 99-NM-227-AD; Amendment 39-11849; AD 2000-15-17]
+RIN 2120-AA64
+
+
+Airworthiness Directives; McDonnell Douglas Model DC-9-81 (MD-
+81), DC-9-82 (MD-82), DC-9-83 (MD-83), and DC-9-87 (MD-87); Model MD-88 
+Airplanes; and Model MD-90-30 Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain McDonnell Douglas Model DC-9-81 (MD-81), DC-9-82 
+(MD-82), DC-9-83 (MD-83), and DC-9-87 (MD-87); Model MD-88 airplanes; 
+and Model MD-90-30 series airplanes; that requires installation of a 
+pipe support and clamps on the hydraulic lines in the aft fuselage; 
+replacement of the hydraulic pipe assembly in the aft fuselage with a 
+new pipe assembly; and installation of drain tube assemblies and 
+diverter assemblies in the area of the auxiliary power unit (APU) 
+inlet; as applicable. This amendment is prompted by reports of smoke 
+and odor in the passenger cabin and cockpit due to hydraulic fluid 
+leaking into the APU inlet, and subsequently, into the air conditioning 
+system. The actions specified by this AD are intended to prevent such 
+hydraulic fluid leakage due to fatigue vibration and cracking in the 
+flared radius of a hydraulic pipe in the aft fuselage, which could 
+result in smoke and odors in the passenger cabin or cockpit.
+
+DATES: Effective September 12, 2000.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of September 12, 2000.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Aircraft Group, Long Beach Division, 
+3855 Lakewood Boulevard, Long Beach, California 90846, Attention: 
+Technical Publications Business Administration, Dept. C1-L51 (2-60). 
+This information may be examined at the Federal Aviation Administration 
+(FAA), Transport Airplane Directorate, Rules Docket, 1601 Lind Avenue, 
+SW., Renton, Washington; or at the FAA, Transport Airplane Directorate, 
+Los Angeles Aircraft Certification Office, 3960 Paramount Boulevard, 
+Lakewood, California; or at the Office of the Federal Register, 800 
+North Capitol Street, NW., suite 700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Albert Lam, Aerospace Engineer, 
+Systems and Equipment Branch, ANM-130L, FAA, Transport Airplane 
+Directorate, Los Angeles Aircraft Certification Office, 3960 Paramount 
+Boulevard, Lakewood, California 90712-4137; telephone (562) 627-5346; 
+fax (562) 627-5210.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain McDonnell Douglas Model 
+DC-9-81 (MD-81), DC-9-82 (MD-82), DC-9-83 (MD-83), and DC-9-87 (MD-87); 
+Model MD-88 airplanes; and Model MD-90-30 series airplanes; was 
+published in the Federal Register on January 18, 2000 (65 FR 2555). 
+That action proposed to require installation of a pipe support and 
+clamps on the hydraulic lines in the aft fuselage; replacement of the 
+hydraulic pipe assembly in the aft fuselage with a new pipe assembly; 
+and installation of drain tube assemblies and diverter assemblies in 
+the area of the auxiliary power unit (APU) inlet; as applicable.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Requests for Alternative Methods of Compliance (AMOC)
+
+    One commenter requests that operators be allowed to install NAS 
+1252-10H washers in lieu of the NAS1149D0363H washers specified in 
+McDonnell Douglas Service Bulletin MD80-29-056, dated June 18, 1996 
+[which was referenced in paragraph (a) of the proposed AD as the 
+appropriate source of service information for accomplishing the 
+required installation]. The commenter states that NAS 1252-10H washers 
+are manufactured from 7075-T6 aluminum alloy and are more wear 
+resistant than NAS1149D0363H washers manufactured from 2024-T3 aluminum 
+alloy.
+    The FAA partially concurs. The FAA acknowledges that 7075-T6 
+aluminum alloy material is more durable than 2024-T3 aluminum alloy 
+material. However, the commenter did not provide any data, such as the 
+size or thickness of a NAS 1252-10H washer, to substantiate that this 
+alternative washer would provide an acceptable level of safety. 
+However, under the provisions of paragraph (e) of the final rule, the 
+FAA may consider requests for approval of an AMOC if sufficient data 
+are submitted to substantiate that such a design change would provide 
+an acceptable level of safety.
+    One commenter requests that, in lieu of replacing the hydraulic 
+pipe assembly in the aft fuselage with a new pipe assembly having a 
+greater wall thickness [required by paragraph (b) of the proposed AD], 
+operators be allowed to manufacture and install this tube assembly with 
+flares in order to minimize preload. The commenter states that the 
+failure rate of the hydraulic pipe assembly is compounded due to a 
+preload situation at the flanges. Flange failure will consequently 
+occur more often when a pre-assembled tube is installed. The commenter 
+also states that this configuration will improve the reliability of the 
+tube assembly, which would reduce the possibility of smoke/odor in the 
+cabin.
+    The FAA does not concur. The FAA has received no reports of failure 
+of the new pipe assembly having a greater wall thickness. The FAA has 
+determined that replacement of the hydraulic pipe assembly in the aft 
+fuselage with a new pipe assembly having a greater wall thickness will 
+adequately address the identified unsafe condition. In addition, the 
+commenter did not provide any data to support its request. However, the 
+FAA may consider requests for approval of an AMOC under the provisions 
+of paragraph (e) of this AD if sufficient data are submitted to 
+substantiate that such a design change would provide an acceptable 
+level of safety.
+    One commenter requests that operators be allowed to install the 
+drain tubes and diverter assemblies, as required by paragraph (c) of 
+the proposed AD, using blind rivets rather than solid rivets. The 
+commenter states that blind rivets provide a structurally
+
+[[Page 48369]]
+
+sound installation and an equivalent level of safety as the solid 
+rivets.
+    The FAA does not concur. The FAA finds that blind rivets in the 
+tail area of airplanes are highly susceptible to vibration from the 
+engine and APU, which, over time, could loosen the blind rivets. 
+However, under the provisions of paragraph (e) of the final rule, the 
+FAA may consider requests for approval of an AMOC if sufficient data 
+are submitted to substantiate that such a design change would provide 
+an acceptable level of safety.
+
+Requests To Revise Certain Compliance Times
+
+    Four commenters request that the 18-month compliance time for 
+accomplishing the installation of drain tube assemblies and diverter 
+assemblies required by paragraph (c) of the proposed AD be extended. 
+Each commenter suggested different times (i.e, 3, 4, and 5 years). 
+Three of the commenters state that such an extension would allow the 
+subject installation to be accomplished during a regularly scheduled 
+heavy ``C'' check where trained personnel will be available, if 
+necessary, and will allow time for procurement of additional parts. One 
+commenter states that the airplane manufacturer is currently quoting a 
+10-month lead time for the availability of all parts needed for 
+accomplishing the required installation.
+    One of the commenters also requests that the 18-month compliance 
+time for accomplishing the replacement of the hydraulic pipe assembly 
+required by paragraph (c) of the proposed AD be extended to 3 years. 
+The commenter states that a 3-year compliance time would provide 
+operators with more time to investigate the true cause of smoke/odor in 
+the cabin.
+    The FAA concurs that the compliance time can be extended somewhat. 
+In developing an appropriate compliance time for this AD action, the 
+FAA considered not only the degree of urgency associated with 
+addressing the subject unsafe condition, but the practical aspect of 
+incorporating the required modification into affected operators' 
+maintenance schedules in a timely manner. Based on the information 
+supplied by the commenters, the FAA now recognizes that 24 months 
+corresponds more closely to the interval representative of most of the 
+affected operators' normal maintenance schedules for accomplishing the 
+requirements of paragraph (c) of this AD. The FAA has reviewed data 
+submitted by the manufacturer regarding parts availability and finds 
+that there is approximately a 10-month lead time for procuring certain 
+parts. Therefore, the FAA has revised paragraph (c) of the final rule 
+to reflect a compliance time of 36 months. The FAA does not consider 
+that these extensions will adversely affect safety.
+
+Requests That the Installation of Drain Tube and Diverter 
+Assemblies Be Optional
+
+    Two commenters request that the requirements (i.e., installation of 
+drain tube assemblies and diverter assemblies) of paragraph (c) of the 
+proposed AD be optional. One commenter states that the installation of 
+the drainage tubing does nothing to increase safety. Another commenter 
+states that it is pursuing the installation of center diverters, and 
+that it does not see the advantage of side diverters. The commenter 
+also states that, based on data collected from cabin smoke/odor events, 
+the occurrences caused by APU engine oil ingestion outnumber those 
+caused by skydrol (hydraulic fluid) ingestion at a ratio of four to one 
+(4:1). The side diverters appear to be focused mainly on the skydrol 
+ingestion. The commenter further states that these instances are the 
+exception rather than the rule and do not warrant the increase in cost 
+and maintenance time.
+    The FAA does not concur. As discussed in the preamble of the NPRM, 
+the FAA has received several reports of smoke and odor in the passenger 
+cabin and cockpit due to hydraulic fluid leaking into the APU inlet, 
+and subsequently, into the air conditioning system. The FAA is also 
+aware of a similar event that resulted in an emergency evacuation of an 
+airplane and consequent injury to several passengers. Further, the 
+results of drain tests, conducted by the airplane manufacturer, 
+indicate that installation of drain tubes and diverter assemblies 
+prevent fluid from being ingested into the APU when hydraulic fluids 
+leak into the bilge area of the tailcone. The FAA acknowledges that the 
+required installation is mainly focused on preventing skydrol ingestion 
+into the APU inlet and does not prevent any fluid from leaking within 
+the APU or environmental control system of the airplane. However, the 
+FAA has identified an unsafe condition that must be corrected. If any 
+other unsafe condition is identified subsequent to the release of this 
+AD, the FAA may consider further rulemaking. Therefore, in light of 
+these findings, the FAA finds the installation of drain tube assemblies 
+and diverter assemblies in the area of the APU inlet required by 
+paragraph (c) of this AD is warranted.
+
+Request To Devise a Certain Work Hour Estimate
+
+    One commenter notes that the FAA estimates 14 work hours per 
+airplane for accomplishing the proposed installation of drain tube 
+assemblies and diverter assemblies, whereas the referenced service 
+bulletins estimate 44.8 work hours per airplane. However, the commenter 
+states that it would take 60 work hours per airplane to accomplish the 
+proposed installation.
+    From this comment, the FAA infers that the commenter is requesting 
+that the work hour estimate for accomplishing the proposed installation 
+be revised from 14 work hours per airplane to 60 work hours per 
+airplane. The FAA does not concur. The cost impact information, below, 
+describes only the ``direct'' costs of the specific actions required by 
+this AD. The number of work hours necessary to accomplish the required 
+installation of drain tube assemblies and diverter assemblies, 
+specified as 14 in the cost impact information, below, was provided to 
+the FAA by the manufacturer based on the best data available to date. 
+This number represents the time necessary to perform only the actions 
+actually required by this AD. The FAA recognizes that, in accomplishing 
+the requirements of any AD, operators may incur ``incidental'' costs in 
+addition to the ``direct'' costs. The cost analysis in AD rulemaking 
+actions, however, typically does not include incidental costs, such as 
+the time required to gain access and close up; planning time; or time 
+necessitated by other administrative actions. Because incidental costs 
+may vary significantly from operator to operator, they are almost 
+impossible to calculate.
+
+Explanation of Change to Cost Impact
+
+    The FAA's estimate of the number of affected airplanes of U.S. 
+registry (i.e., 634 airplanes) in the Cost Impact section of the 
+proposed AD is incorrect. The correct figure is 656. Also, the FAA 
+inadvertently omitted some of the affected airplanes [i.e., 634 Model 
+DC-9-81 (MD-81), DC-9-82 (MD-82), DC-9-83 (MD-83), and DC-9-87 (MD-87) 
+series airplanes; Model MD-88 airplanes] from the cost figures for 
+accomplishing the required installation of the drain tube assemblies 
+and diverter assemblies. Therefore, the FAA has revised the final rule 
+accordingly.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the
+
+[[Page 48370]]
+
+adoption of the rule with the changes previously described. The FAA has 
+determined that these changes will neither increase the economic burden 
+on any operator nor increase the scope of the AD.
+
+Cost Impact
+
+    There are approximately 1,126 Model DC-9-81 (MD-81), DC-9-82 (MD-
+82), DC-9-83 (MD-83), and DC-987 (MD-87); Model MD-88 airplanes; and 
+Model MD-90-30 series airplanes of the affected design in the worldwide 
+fleet. The FAA estimates that 656 airplanes of U.S. registry will be 
+affected by this AD.
+    It will take approximately 2 work hours per airplane [for 512 Model 
+DC-9-81 (MD-81), DC-9-82 (MD-82), DC-9-83 (MD-83), and DC-9-87 (MD-87) 
+series airplanes] to accomplish the required installation of the pipe 
+support and clamps, at an average labor rate of $60 per work hour. 
+Required parts will cost approximately $226 per airplane. Based on 
+these figures, the cost impact of this installation required by AD on 
+U.S. operators is estimated to be $177,152, or $346 per airplane.
+    It will take approximately 2 work hours per airplane [for 634 Model 
+DC-9-81 (MD-81), DC-9-82 (MD-82), DC-9-83 (MD-83), and DC-9-87 (MD-87) 
+series airplanes, and Model MD-88 airplanes] to accomplish the required 
+replacement of the hydraulic pipe assembly, at an average labor rate of 
+$60 per work hour. Required parts will cost approximately $520 per 
+airplane. Based on these figures, the cost impact of this replacement 
+required by this AD on U.S. operators is estimated to be $405,760, or 
+$640 per airplane.
+    It will take approximately 14 work hours per airplane [for 656 
+Model DC-9-81 (MD-81), DC-9-82 (MD-82), DC-9-83 (MD-83), and DC-9-87 
+(MD-87) series airplanes; Model MD-88 airplanes; and Model MD-90-30 
+series airplanes] to accomplish the required installation of drain tube 
+assemblies and diverter assemblies, at an average labor rate of $60 per 
+work hour. Required parts will cost approximately $4,503 per airplane. 
+Based on these figures, the cost impact of this installation required 
+by this AD on U.S. operators is estimated to be $3,505,008, or $5,343 
+per airplane.
+    The cost impact figures discussed above are based on assumptions 
+that no operator has yet accomplished any of the requirements of this 
+AD action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2000-15-17  McDonnell Douglas: Amendment 39-11849. Docket 99-NM-227-
+AD.
+
+    Applicability: Models and series of airplanes as listed in the 
+applicable McDonnell Douglas service bulletin(s) specified in Table 
+1 of this AD, certificated in any category.
+
+                                 Table 1
+------------------------------------------------------------------------
+                                            McDonnell Douglas Service
+           Model of airplane                       Bulletin(s)
+------------------------------------------------------------------------
+DC-9-81 (MD-81), DC-9-82 (MD-82), DC-9-  MD80-29-056, dated June 18,
+ 83 (MD-83), and DC-9-87 (MD-87) series   1996; MD80-29-062, Revision
+ airplanes.                               01, dated August 3, 1999; and
+                                          MD80-53-286, dated September
+                                          3, 1999.
+MD-88 airplanes........................  MD80-29-062, Revision 01, dated
+                                          August 3, 1999; and MD80-53-
+                                          286, dated September 3, 1999.
+MD-90-30 series airplanes..............  MD90-53-018, dated September 3,
+                                          1999.
+------------------------------------------------------------------------
+
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (e) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent hydraulic fluid leakage into the auxiliary power unit 
+(APU) inlet due to fatigue vibration and cracking in the flared 
+radius of a hydraulic pipe in the aft fuselage, which could result 
+in smoke and odors in the passenger cabin or cockpit; accomplish the 
+following:
+
+Installation of a Pipe Support and Clamps
+
+    (a) For Model DC-9-81 (MD-81), DC-9-82 (MD-82), DC-9-83 (MD-83), 
+and DC-9-87 (MD-87) series airplanes, as listed in McDonnell Douglas 
+Service Bulletin MD80-29-056, dated June 18, 1996: Within 18 months 
+after the effective date of this AD, install a pipe support and 
+clamps on the hydraulic lines in the aft fuselage in accordance with 
+the service bulletin.
+
+Replacement of the Hydraulic Pipe Assembly
+
+    (b) For Model DC-9-81 (MD-81), DC-9-82 (MD-82), DC-9-83 (MD-83), 
+and DC-9-87 (MD-87) series airplanes, and Model MD-88 airplanes, as 
+listed McDonnell Douglas Service Bulletin MD80-29-062, Revision 01,
+
+[[Page 48371]]
+
+dated August 3, 1999: Within 18 months after the effective date of 
+this AD, replace the hydraulic pipe assembly in the aft fuselage 
+with a new pipe assembly having a greater wall thickness, in 
+accordance with the service bulletin. Except for Model MD-88 
+airplanes that have been modified in accordance with McDonnell 
+Douglas MD-80 Service Bulletin 29-54, dated February 2, 1993, or 
+Revision 2, dated December 17, 1993, the requirements of this 
+paragraph must be accomplished concurrently with the requirements of 
+paragraph (a) of this AD.
+
+Installation of Drain Tube Assemblies and Diverter Assemblies
+
+    (c) For Model DC-9-81 (MD-81), DC-9-82 (MD-82), DC-9-83 (MD-83), 
+and DC-9-87 (MD-87) series airplanes, as listed in McDonnell Douglas 
+Service Bulletin MD80-53-286, dated September 3, 1999; and Model MD-
+90-30 series airplanes, as listed in McDonnell Douglas Service 
+Bulletin MD90-53-018, dated September 3, 1999: Within 36 months 
+after the effective date of this AD, install drain tube assemblies 
+and diverter assemblies in the area of the APU inlet, in accordance 
+with the applicable service bulletin.
+
+Spares
+
+    (d) As of the effective date of this AD, no person shall install 
+a hydraulic pipe assembly, part number 7936907-603, on any airplane.
+
+Alternative Methods of Compliance
+
+    (e) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Los Angeles Aircraft Certification 
+Office (ACO), FAA, Transport Airplane Directorate. Operators shall 
+submit their requests through an appropriate FAA Principal 
+Maintenance Inspector, who may add comments and then send it to the 
+Manager, Los Angeles ACO.
+
+    Note 2: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Los Angeles ACO.
+
+Special Flight Permits
+
+    (f) Special flight permits may be issued in accordance with 
+Secs. 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 
+21.197 and 21.199) to operate the airplane to a location where the 
+requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (g) The actions shall be done in accordance with McDonnell 
+Douglas Service Bulletin MD80-29-056, dated June 18, 1996; McDonnell 
+Douglas Service Bulletin MD80-29-062, Revision 01, dated August 3, 
+1999; McDonnell Douglas Service Bulletin MD80-53-286, dated 
+September 3, 1999; or McDonnell Douglas Service Bulletin MD90-53-
+018, dated September 3, 1999; as applicable. This incorporation by 
+reference was approved by the Director of the Federal Register in 
+accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be 
+obtained from Boeing Commercial Aircraft Group, Long Beach Division, 
+3855 Lakewood Boulevard, Long Beach, California 90846, Attention: 
+Technical Publications Business Administration, Dept. C1-L51 (2-60). 
+Copies may be inspected at the FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington; or at the FAA, Transport 
+Airplane Directorate, Los Angeles Aircraft Certification Office, 
+3960 Paramount Boulevard, Lakewood, California; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+Effective Date
+
+    (h) This amendment becomes effective on September 12, 2000.
+
+    Issued in Renton, Washington, on July 31, 2000.
+Donald L. Riggin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 00-19816 Filed 8-7-00; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre></body>
+</html>

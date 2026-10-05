@@ -1,0 +1,626 @@
+<html>
+<head>
+<title>Federal Register, Volume 73 Issue 168 (Thursday, August 28, 2008)</title>
+</head>
+<body><pre>
+[Federal Register Volume 73, Number 168 (Thursday, August 28, 2008)]
+[Rules and Regulations]
+[Pages 50705-50709]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E8-19137]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2007-0223; Directorate Identifier 2007-NM-156-AD; 
+Amendment 39-15652; AD 2008-17-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 727 Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD), which applies to certain Boeing Model 727 series airplanes. That 
+AD currently requires repetitive inspections to detect cracks and loose 
+brackets of the elevator rear spar, and corrective actions if 
+necessary. The existing AD also provides for an optional terminating 
+action for the repetitive inspections. This new AD reduces the 
+repetitive intervals of the inspections, mandates the previously 
+optional terminating action for the repetitive inspections, and no 
+longer allows stop-drilling. This AD results from new reports of 
+cracks, elongated fastener holes, and loose fittings of the elevator 
+rear spar. We are issuing this AD to prevent cracking of the elevator 
+rear spar at the tab hinge locations, which could cause excessive 
+freeplay of the elevator control tab and possible tab flutter, and 
+consequent loss of control of the airplane.
+
+DATES: This AD becomes effective October 2, 2008.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of October 2, 
+2008.
+    On April 22, 1996 (61 FR 11529, March 21, 1996), the Director of 
+the Federal Register approved the incorporation by reference of Boeing 
+Service Bulletin 727-55-0089, dated June 29, 1995.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-
+2207.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (telephone 800-647-5527) is the Document Management 
+Facility, U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Berhane Alazar, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone (425) 
+917-6577; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that supersedes AD 96-06-05, amendment 39-
+9542 (61 FR 11529, March 21, 1996). The existing AD applies to certain 
+Boeing Model 727 series airplanes. That NPRM was published in the 
+Federal Register on November 23, 2007 (72 FR 65678). That NPRM proposed 
+to require repetitive inspections to detect cracks and loose brackets 
+of the elevator rear spar, and corrective actions if necessary. The 
+NPRM also proposed to reduce the repetitive intervals of the 
+inspections, mandate the previously optional terminating action for the 
+repetitive inspection, and no longer allow stop-drilling.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments that have been 
+received on the NPRM.
+
+Request To Extend Compliance Time for Terminating Action (Spar 
+Replacement)
+
+    Several commenters (Boeing, Champion Air, DHL, FedEx, and 
+ReadyJetGo) request that we extend the compliance time (18 months) for 
+the terminating action specified in the NPRM. Boeing, Champion Air, and 
+ReadyJetGo request an extension from 18 months to 24 months; DHL 
+requests 36 months; and FedEx requests 36 months or 3,600 flight hours, 
+whichever
+
+[[Page 50706]]
+
+occurs later. The commenters request the extension for the following 
+reasons:
+    <bullet> The parts supply is limited. Champion Air and FedEx note 
+that Boeing does not have any complete kits available. Boeing estimates 
+it will not have any complete kits available until October 1, 2008.
+    <bullet> An extension of the compliance time would permit the spar 
+replacement to be done during most operators' scheduled C-check 
+maintenance intervals, and at a maintenance facility (FedEx), which is 
+preferred due to the work-hours and skills involved with the 
+modification.
+    <bullet> The number of cracks found during accomplishment of 
+inspections required by AD 96-06-05 is low. Champion Air notes it has 
+had zero findings from 89 inspections. DHL reports 3 findings. FedEx 
+has documented 7 findings from 991 inspections.
+    <bullet> The repair of stop-drilled cracks in combination with the 
+current inspections will maintain fleet safety during this extended 
+time period.
+    We partially agree with the commenters' request to extend the 
+compliance time for the terminating replacement. We have determined 
+that 24 months for the spar replacement will not adversely affect 
+safety. However, in considering the other factors to extend the 
+compliance time (data submitted, maintenance schedule differences, 
+stop-drilling as a suggested repair method), we found that those 
+factors were not sufficient to extend the compliance time further.
+    In developing an appropriate compliance time for this action, we 
+considered the urgency associated with the subject unsafe condition, 
+the availability of required parts, and the practical aspect of 
+accomplishing the required action within a period of time that 
+corresponds to the normal scheduled maintenance for most affected 
+operators. We have confirmed with Boeing that there is a parts supply 
+problem. We have determined that we will extend the compliance time for 
+the spar replacement from 18 to 24 months as recommended by the 
+manufacturer due to the parts supply problem. We have revised paragraph 
+(q) of this AD accordingly.
+
+Request To Change From Calendar-Based to Use-Based Compliance Time for 
+Terminating Replacement
+
+    Champion Air notes that in the ``Differences Between the Proposed 
+AD and Service Information'' section in the NPRM, we stated that a 
+calendar time is not appropriate for addressing problems associated 
+with fatigue. However, for the terminating replacement, the NPRM 
+specifies a compliance time in terms of months instead of hours or 
+cycles.
+    We understand the comment and while Champion Air does not request a 
+specific change, we consider that clarification is appropriate. While 
+most initial and all repeat inspection times specified in this AD are 
+given in flight hours because the inspections are intended to find 
+problems associated with fatigue issues, the terminating action 
+(replacement) is intended to ensure that there is not an undue reliance 
+on inspections to maintain the safety of the fleet and to ensure that 
+the terminating action is accomplished within an appropriate time 
+period. We have not changed the AD in this regard.
+
+Request To Lengthen Inspection Intervals
+
+    DHL requests that we lengthen the repetitive inspection interval 
+from 1,600 flight hours to 2,400 flight hours so that the intervals 
+match the heavy maintenance intervals in their approved maintenance 
+program.
+    We do not agree with the commenter's request to lengthen the 
+inspection interval. In light of the inspection results, and the 
+analysis and recommendation of the airplane manufacturer, we have 
+determined that 1,600 flight hours is an appropriate repetitive 
+inspection interval. However, according to the provisions of paragraph 
+(s) of this AD, we might approve requests to adjust the compliance time 
+if the request includes data that prove the new compliance time would 
+provide an acceptable level of safety. We have not changed the AD in 
+this regard.
+
+Request for Further Clarification on Effect of Human Factors on 
+Repetitive Inspections
+
+    FedEx requests further clarification of why the repetitive 
+inspections required by AD 96-06-05 are no longer considered adequate. 
+Such information could be used to better evaluate FedEx's current 
+maintenance program. FedEx notes that the NPRM states ``human factors 
+associated with numerous continual inspections'' have led to an 
+emphasis on design change.
+    As discussed in the ``Actions Since Existing AD Was Issued'' 
+section of the NPRM, which is not repeated in this final rule, we 
+determined that the existing long-term repetitive inspections do not 
+provide an acceptable level of safety. This determination, in part, is 
+based on a better understanding of the human factors element that 
+errors do occur when associated with numerous continual inspections. 
+This has led us to consider placing less emphasis on inspections and 
+more emphasis on design improvements. Therefore, for consistency with 
+our policy, we have determined that it is necessary to require 
+modifications to adequately address the identified unsafe condition of 
+this AD rather than continued reliance on inspections.
+    In regard to FedEx's request for further information to assist the 
+evaluation of their maintenance program, we have determined that this 
+request would be best posed to their FAA Principal Maintenance 
+Inspector. We have not changed the AD in this regard.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments that have been received, and determined that air safety and 
+the public interest require adopting the AD with the change described 
+previously. We have determined that this change will neither increase 
+the economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 815 airplanes of the affected design in the 
+worldwide fleet. The following table provides the estimated costs for 
+U.S. operators to comply with this AD.
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                     Number of
+                                                      Average                                                          U.S.-
+                Action                  Work hours   labor rate            Parts              Cost per airplane      registered         Fleet cost
+                                                      per hour                                                       airplanes
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Detailed Inspection (required by AD             17          $80  None....................  $1,360, per inspection           448  $609,280, per
+ 96-06-05).                                                                                 cycle.                                inspection cycle.
+
+[[Page 50707]]
+
+ 
+Terminating action (new action)......          416          $80  $14,975.................  $48,255................          448  $21,618,240
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+removing amendment 39-9542 (61 FR 11529, March 21, 1996) and by adding 
+the following new airworthiness directive (AD):
+
+2008-17-14 Boeing: Amendment 39-15652. Docket No. FAA-2007-0223; 
+Directorate Identifier 2007-NM-156-AD.
+
+Effective Date
+
+    (a) This AD becomes effective October 2, 2008.
+
+Affected ADs
+
+    (b) This AD supersedes AD 96-06-05.
+
+Applicability
+
+    (c) This AD applies to Boeing Model 727, 727C, 727-100, 727-
+100C, 727-200, and 727-200F series airplanes, certificated in any 
+category, as identified in Boeing Service Bulletin 727-55-0089, 
+Revision 1, dated March 2, 2000.
+
+Unsafe Condition
+
+    (d) This AD results from new reports of cracks, elongated 
+fastener holes, and loose fittings of the elevator rear spar. We are 
+issuing this AD to prevent cracking of the elevator rear spar at the 
+tab hinge locations, which could cause excessive freeplay of the 
+elevator control tab and possible tab flutter, and consequent loss 
+of control of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Requirements of AD 96-06-05
+
+Repetitive Inspections and Follow-On Actions
+
+    (f) For airplanes on which the modification or repair described 
+in Boeing Service Bulletin 727-55-0085, dated August 31, 1984 
+(specified as terminating action in AD 84-22-02, amendment 39-4951), 
+has not been accomplished and the repetitive inspections required by 
+AD 84-22-02 have not been initiated: Prior to the accumulation of 
+8,000 total flight hours since date of manufacture, or within 300 
+flight hours after April 22, 1996 (the effective date of AD 96-06-
+05), whichever occurs later, perform a detailed inspection to detect 
+cracks and loose hinge brackets of the elevator rear spar in the 
+area along the upper and lower edges at the shear plate, in 
+accordance with Boeing Service Bulletin 727-55-0089, dated June 29, 
+1995. Then accomplish the follow-on actions (i.e., repetitive 
+inspections, stop-drilling, modification) in accordance with that 
+service bulletin, at the times specified as follows:
+
+    Note 1: For the purposes of this AD, a detailed inspection is: 
+``An intensive examination of a specific item, installation, or 
+assembly to detect damage, failure, or irregularity. Available 
+lighting is normally supplemented with a direct source of good 
+lighting at an intensity deemed appropriate. Inspection aids such as 
+mirror, magnifying lenses, etc., may be necessary. Surface cleaning 
+and elaborate procedures may be required.''
+
+
+    Note 2: AD 84-22-02 pertains to the one-piece elevator rear 
+spar.
+    (1) Repeat the detailed inspection thereafter at intervals not 
+to exceed 1,600 flight hours.
+    (2) If any crack is detected and stop-drilled as a result of any 
+inspection required by this paragraph, accomplish the requirements 
+of paragraph (l) of this AD, except as provided by paragraph (o) of 
+this AD, at the times specified in paragraph (l) of this AD.
+
+Repetitive Inspections and Follow-On Actions
+
+    (g) For airplanes on which the modification or repair described 
+in Boeing Service Bulletin 727-55-0085, dated August 31, 1984 
+(specified as terminating action in AD 84-22-02), has not been 
+accomplished and the repetitive inspections required by AD 84-22-02 
+have been initiated: Accomplish either paragraph (g)(1) or (g)(2) of 
+this AD, as applicable.
+    (1) If no crack has been detected as a result of inspections 
+required by AD 84-22-02: Within 1,600 flight hours after the last 
+inspection required by that AD, perform a detailed inspection to 
+detect cracks and loose brackets of the elevator rear spar in the 
+area along the upper and lower edges at the shear plate, in 
+accordance with the Boeing Service Bulletin 727-55-0089, dated June 
+29, 1995. Accomplish follow-on actions (i.e., repetitive inspection, 
+stop-drilling, modification) in accordance with that service 
+bulletin, except
+
+[[Page 50708]]
+
+as provided by paragraph (o) of this AD, at the times specified as 
+follows:
+    (i) Repeat the detailed inspection thereafter at intervals not 
+to exceed 1,600 flight hours.
+    (ii) If any crack is detected and stop-drilled as a result of 
+any inspection required by this paragraph, accomplish the 
+requirements of paragraph (l) of this AD, except as provided by 
+paragraph (o) of this AD, at the times specified in paragraph (l) of 
+this AD.
+    (2) If any crack has been stop-drilled in accordance with AD 84-
+22-02, accomplish the requirements of paragraph (l) of this AD, 
+except as provided by paragraph (o) of this AD, at the times 
+specified in paragraph (l) of this AD.
+    (h) For airplanes on which the modification or repair described 
+in Boeing Service Bulletin 727-55-0085, dated August 31, 1984 
+(specified as terminating action in AD 84-22-02, amendment 39-4951), 
+has been accomplished: Within 4,000 flight hours after April 22, 
+1996, perform a detailed inspection to detect cracks and loose hinge 
+brackets of the elevator rear spar in the area along the upper and 
+lower edges at the shear plate, in accordance with Boeing Service 
+Bulletin 727-55-0089, dated June 29, 1995. Accomplish follow-on 
+actions (i.e., repetitive inspections, stop-drilling, modification) 
+in accordance with that service bulletin, except as provided by 
+paragraph (o) of this AD, at the times specified as follows:
+    (1) Repeat the detailed inspection thereafter at intervals not 
+to exceed 4,000 flight hours, except as provided by paragraph (n) of 
+this AD.
+    (2) If any crack is detected and stop-drilled as a result of any 
+inspection required by this paragraph, accomplish the requirements 
+of paragraph (l) of this AD, except as provided by paragraph (o) of 
+this AD, at the times specified in paragraph (l) of this AD.
+    (i) For airplanes on which the modification or repair described 
+in Boeing Service Bulletin 727-55-087, dated June 20, 1986 
+(specified as terminating action in AD 87-24-03, amendment 39-5769), 
+has not been accomplished and the repetitive inspections required by 
+AD 87-24-03 have not been initiated: Accomplish the requirements of 
+paragraph (i)(1) of this AD at the earliest of the times specified 
+in paragraph (i)(2) of this AD.
+
+    Note 3: AD 87-24-03 pertains to the two-piece elevator rear 
+spar.
+
+    (1) Perform a detailed inspection to detect cracks and loose 
+hinge brackets of the elevator rear spar in the area along the upper 
+and lower edges at the shear plate, at the earliest of the times 
+specified in paragraph (i)(2) of this AD, and in accordance with 
+Boeing Service Bulletin 727-55-0089, dated June 29, 1995. Accomplish 
+follow-on actions (i.e., repetitive inspection, stop-drilling, 
+modification) in accordance with that service bulletin, at the times 
+specified as follows:
+    (i) Repeat the detailed inspection thereafter at intervals not 
+to exceed 4,000 flight hours, except as provided by paragraph (n) of 
+this AD.
+    (ii) If any crack is detected and stop-drilled as a result of 
+any inspection required by this paragraph, accomplish the 
+requirements of paragraph (l) of this AD, except as provided by 
+paragraph (o) of this AD, at the times specified in paragraph (l) of 
+this AD.
+    (2) Accomplish the initial detailed inspection required by 
+paragraph (i)(1) of this AD at the earliest of the following times:
+    (i) Prior to the accumulation of 27,000 total flight hours since 
+date of manufacture, or within 4,000 flight hours after December 24, 
+1987 (the effective date of AD 87-24-03), whichever occurs later; or
+    (ii) Prior to the accumulation of 12,000 total flight hours 
+since date of manufacture, or within 4,000 flight hours after April 
+22, 1996, whichever occurs later; or
+    (iii) Prior to the accumulation of 27,300 total flight hours 
+since date of manufacture, or within 300 flight hours after April 
+22, 1996, whichever occurs later.
+    (j) For airplanes on which the modification or repair described 
+in Boeing Service Bulletin 727-55-087, dated June 20, 1986 
+(specified as terminating action in AD 87-24-03), has not been 
+accomplished and the repetitive inspections required by AD 87-24-03 
+have been initiated: Accomplish either paragraph (j)(1) or (j)(2) of 
+this AD, as applicable.
+    (1) If no crack has been detected as a result of inspections 
+required by AD 87-24-03: Within 4,000 flight hours after the last 
+inspection required by that AD, perform a detailed inspection to 
+detect cracks and loose brackets of the elevator rear spar in the 
+area along the upper and lower edges at the shear plate, in 
+accordance with Boeing Service Bulletin 727-55-0089, dated June 29, 
+1995, except as provided by paragraph (m) of this AD. Accomplish 
+follow-on actions (i.e., repetitive inspection, stop-drilling, 
+modification) in accordance with that service bulletin, except as 
+provided by paragraph (o) of this AD, at the times specified as 
+follows:
+    (i) Repeat the detailed inspection thereafter at intervals not 
+to exceed 4,000 flight hours, except as provided by paragraph (n) of 
+this AD.
+    (ii) If any crack is detected and stop-drilled as a result of 
+any inspection required by paragraph (j)(1) of this AD, accomplish 
+the requirements of paragraph (l) of this AD, except as provided by 
+paragraph (o) of this AD, at the times specified in paragraph (l) of 
+this AD.
+    (2) If any crack has been detected and stop-drilled in 
+accordance with AD 87-24-03, accomplish the requirements of 
+paragraph (l) of this AD, except as provided by paragraph (o) of 
+this AD, at the times specified in paragraph (l) of this AD.
+    (k) For airplanes on which the modification or repair described 
+in Boeing Service Bulletin 727-55-087, dated June 20, 1986 
+(specified as terminating action in AD 87-24-03), has been 
+accomplished: Within 4,000 flight hours after April 22, 1996, 
+perform a detailed inspection to detect cracks and loose hinge 
+brackets of the elevator rear spar in the area along the upper and 
+lower edges at the shear plate, in accordance with Boeing Service 
+Bulletin 727-55-0089, dated June 29, 1995. Accomplish follow-on 
+actions (i.e., repetitive inspection, stop-drilling, modification) 
+in accordance with the service bulletin, except as provided by 
+paragraph (o) of this AD, at the times specified as follows:
+    (1) Repeat the detailed inspection thereafter at intervals not 
+to exceed 4,000 flight hours, except as provided by paragraph (n) of 
+this AD.
+    (2) If any crack is detected and stop-drilled as a result of any 
+inspection required by this paragraph, accomplish the requirements 
+of paragraph (l) of this AD, except as provided by paragraph (o) of 
+this AD, at the times specified in that paragraph.
+    (l) If any crack is detected and stop-drilled in accordance with 
+paragraph (f)(2), (g)(1)(ii), (g)(2), (h)(2), (i)(1)(ii), 
+(j)(1)(ii), (j)(2), or (k)(2) of this AD, accomplish the following, 
+except as provided by paragraphs (o) and (p) of this AD:
+    (1) Within 1,600 flight hours after stop-drilling, perform a 
+detailed inspection to detect cracks and loose hinge brackets of the 
+elevator rear spar in the area along the upper and lower edges at 
+the shear plate, and accomplish follow-on actions (i.e., stop-
+drilling, modification) in accordance with the service bulletin. If 
+any crack growth is detected after stop-drilling, prior to further 
+flight, modify the elevator rear spar in accordance with Part II of 
+the Accomplishment Instructions of Boeing Service Bulletin 727-55-
+0089, dated June 29, 1995. Accomplishment of this modification 
+constitutes terminating action for the repetitive inspection 
+requirements of this AD.
+    (2) Within 3,200 flight hours after stop-drilling, modify the 
+elevator rear spar in accordance with Part II of the Accomplishment 
+Instructions of Boeing Service Bulletin 727-55-0089, dated June 29, 
+1995. Accomplishment of this modification constitutes terminating 
+action for the repetitive inspection requirements of this AD.
+
+New Actions Required by This AD
+
+New Service Information
+
+    (m) As of the effective date of this AD, use only the 
+Accomplishment Instructions of Boeing Service Bulletin 727-55-0089, 
+Revision 1, dated March 2, 2000, to do the repetitive detailed 
+inspections required by this AD.
+
+Certain Repetitive Inspections at Reduced Intervals
+
+    (n) For airplanes being inspected at intervals not to exceed 
+4,000 flight hours in accordance with paragraphs (h)(1), (i)(1)(i), 
+(j)(1)(i), and (k)(1) of this AD: As of the effective date of this 
+AD, do those inspections within 1,600 flight hours since the last 
+detailed inspection or 6 months after the effective date of this AD, 
+whichever occurs later, and thereafter at intervals not to exceed 
+1,600 flight hours.
+
+Stop-Drilling Prohibited
+
+    (o) As of the effective date of this AD, stop-drilling required 
+by paragraphs (f) through (l) inclusive of this AD is prohibited.
+
+Replacement of Cracked Rear Spars/Loose Brackets
+
+    (p) As of the effective date of this AD, if any cracked rear 
+spar or loose bracket is detected during any inspection required by 
+this AD, before further flight, do the replacement specified in 
+paragraph (q) of this AD.
+
+[[Page 50709]]
+
+Terminating Replacement
+
+    (q) Within 24 months after the effective date of this AD, 
+replace the elevator rear spar with a new elevator rear spar and 
+support fittings, in accordance with Part II of the Accomplishment 
+Instructions of Boeing Service Bulletin 727-55-0089, Revision 1, 
+dated March 2, 2000. Accomplishing the replacement constitutes 
+terminating action for the requirements of this AD.
+    (r) Accomplishing the replacement before the effective date of 
+this AD in accordance with Boeing Service Bulletin 727-55-0089, 
+dated June 29, 1995, is considered acceptable for compliance with 
+the corresponding action specified in paragraph (q) of this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (s)(1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, ATTN: Berhane Alazar, Aerospace Engineer, Airframe Branch, ANM-
+120S, FAA, Seattle ACO, 1601 Lind Avenue SW., Renton, Washington 
+98057-3356; telephone (425) 917-6577; fax (425) 917-6590; has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19.
+    (2) To request a different method of compliance or a different 
+compliance time for this AD, follow the procedures in 14 CFR 39.19. 
+Before using any approved AMOC on any airplane to which the AMOC 
+applies, notify your appropriate principal inspector (PI) in the FAA 
+Flight Standards District Office (FSDO), or lacking a PI, your local 
+FSDO.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an 
+Authorized Representative for the Boeing Commercial Airplanes 
+Delegation Option Authorization Organization who has been authorized 
+by the Manager, Seattle ACO, to make those findings. For a repair 
+method to be approved, the repair must meet the certification basis 
+of the airplane, and the approval must specifically refer to this 
+AD.
+    (4) AMOCs approved previously in accordance with AD 96-06-05 are 
+approved as AMOCs for the corresponding provisions of this AD.
+
+Material Incorporated by Reference
+
+    (t) You must use Boeing Service Bulletin 727-55-0089, dated June 
+29, 1995; or Boeing Service Bulletin 727-55-0089, Revision 1, dated 
+March 2, 2000; as applicable; to perform the actions that are 
+required by this AD, unless the AD specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of Boeing Service Bulletin 727-55-0089, 
+Revision 1, dated March 2, 2000, in accordance with 5 U.S.C. 552(a) 
+and 1 CFR part 51.
+    (2) On April 22, 1996 (61 FR 11529, March 21, 1996), the 
+Director of the Federal Register approved the incorporation by 
+reference of Boeing Service Bulletin 727-55-0089, dated June 29, 
+1995.
+    (3) Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for a copy of this service information. You 
+may review copies at the FAA, Transport Airplane Directorate, 1601 
+Lind Avenue, SW., Renton, Washington; or at the National Archives 
+and Records Administration (NARA). For information on the 
+availability of this material at NARA, call 202-741-6030, or go to: 
+<a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on August 7, 2008.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. E8-19137 Filed 8-27-08; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

@@ -1,0 +1,454 @@
+<html>
+<head>
+<title>Federal Register, Volume 70 Issue 96 (Thursday, May 19, 2005)</title>
+</head>
+<body><pre>
+[Federal Register Volume 70, Number 96 (Thursday, May 19, 2005)]
+[Rules and Regulations]
+[Pages 28803-28806]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 05-9880]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2004-19538; Directorate Identifier 2003-NM-99-AD; 
+Amendment 39-14098; AD 2005-10-21]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747 Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD), which applies to certain Boeing Model 747 airplanes. That AD 
+currently requires inspections to detect cracks in the front spar 
+pressure bulkhead chord, and repair if necessary. This new AD requires 
+repetitive high frequency eddy current (HFEC) inspections of the body 
+station (BS) 1000 bulkhead chord for cracks, repetitive detailed 
+inspections of the bathtub fittings, if installed, for cracks, and 
+corrective action if necessary. Initiation of the new inspections ends 
+the inspections of the existing AD. This AD also revises the 
+applicability of the existing AD to include additional airplanes. This 
+AD is
+
+[[Page 28804]]
+
+prompted by reports of cracks in the BS 1000 bulkhead chord. We are 
+issuing this AD to detect and correct fatigue cracks in the BS 1000 
+bulkhead chord, which, if not repaired before they reach critical 
+length, could result in the failure of the adjacent structure and skin 
+and lead to in-flight depressurization of the airplane.
+
+DATES: This AD becomes effective June 23, 2005.
+    The incorporation by reference of Boeing Alert Service Bulletin 
+747-53A2471, dated March 27, 2003; and Boeing Service Bulletin 747-53-
+2064, Revision 4, including Addendum, dated September 23, 1983; as 
+listed in the regulations; is approved by the Director of the Federal 
+Register as of June 23, 2005.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-
+2207. You can examine this information at the National Archives and 
+Records Administration (NARA). For information on the availability of 
+this material at NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+    Docket: The AD docket contains the proposed AD, comments, and any 
+final disposition. You can examine the AD docket on the Internet at 
+<a href="http://dms.dot.gov">http://dms.dot.gov</a>, or in person at the Docket Management Facility 
+office between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The Docket Management Facility office (telephone (800) 647-
+5227) is located on the plaza level of the Nassif Building at the U.S. 
+Department of Transportation, 400 Seventh Street SW., room PL-401, 
+Washington, DC. This docket number is FAA-2004-19538; the directorate 
+identifier for this docket is 2003-NM-99-AD.
+
+FOR FURTHER INFORMATION CONTACT: Nick Kusz, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+917-6432; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend part 39 of the 
+Federal Aviation Regulations (14 CFR part 39) with an AD to supersede 
+AD 90-09-09, amendment 39-6586 (55 FR 17928, April 30, 1990), for 
+certain Boeing Model 747 airplanes (a correction of that AD was 
+published in the Federal Register on May 21, 1990 (55 FR 20894)). That 
+action, published in the Federal Register on November 5, 2004 (69 FR 
+64517), proposed to require inspections to detect cracks in the front 
+spar pressure bulkhead chord, and repair if necessary (the actions 
+previously required by AD 90-09-09). That action also proposed to 
+require repetitive high frequency eddy current inspections of the body 
+station 1000 bulkhead chord for cracks, repetitive detailed inspections 
+of the bathtub fittings, if installed, for cracks, and corrective 
+action, if necessary.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments that have been 
+submitted on the proposed AD.
+
+Request To Clarify Paragraph (h); Meaning of ``All'' Actions
+
+    One commenter states that, as the proposed rule is currently 
+written, operators would be required to replace all bathtub fittings if 
+cracks are found at just one fitting. The operator points out that the 
+referenced service bulletin states that operators replace only the 
+items that are found to be cracked. However, the commenter points out 
+that paragraph (h) of the proposed rule specifies that the corrective 
+action must be taken by accomplishing ``all'' the actions specified in 
+the accomplishment instructions of the service bulletin. The commenter 
+states that a literal review and interpretation of paragraph (h) and 
+the service bulletin could lead operators to the conclusion that all 
+four bathtub fittings must be replaced if only one is found to be 
+cracked.
+    We agree. The intent of the proposed rule was not to require 
+operators to replace all fittings in the event that only one is found 
+cracked. However, it is important to note that the 6,000-cycle post-
+modification inspection threshold is valid only if the chord is 
+replaced along with all bathtub fittings that correspond to the side of 
+the airplane (left or right) in which the chord was replaced. We have 
+added a note to paragraph (h) of this final rule and revised (k) of the 
+final rule to reflect this change. We have re-numbered the notes in the 
+final rule accordingly.
+
+Request To Remove Replacement Requirement
+
+    One commenter requests that we remove the requirement to replace 
+the bathtub fittings in order to be eligible for the 6,000-cycle post-
+modification threshold after the chord replacement. The commenter gives 
+several reasons for this request: There have been no reports of cracked 
+bathtub fittings; the replacement bathtub fittings are the same 
+material, in some cases, as the original fittings; and bathtub fittings 
+must be removed for chord replacement, thereby allowing thorough 
+inspections of the fittings.
+    We disagree. Although the commenter states otherwise, we have 
+received reports of cracked bathtub fittings. In addition, the fact 
+that the replacement fittings are of the same material as the original 
+fittings does not mean that the fittings should not be replaced. 
+Moreover, replacing all fittings, not just the damaged ones, is 
+necessary in order to apply the 6,000-cycle post-modification 
+threshold. Operators still have the option to replace only those 
+bathtub fittings with detected cracking, and to continue with the 
+3,000-cycle inspection interval. No change to the final rule is 
+necessary in this regard.
+
+Request To Revise Cost Estimate
+
+    One commenter, an airplane operator having no technical objections, 
+requests that the cost estimate be recalculated to include the work 
+hours necessary for access and restoration. The commenter states that 
+access and restoration can require up to 24 work hours for each 
+airplane, and that such tasks do not occur frequently enough to warrant 
+leaving them out of the cost estimate.
+    We disagree. In establishing the requirements of all ADs, we 
+typically do not include incidental costs such as the time required to 
+gain access and close up, planning time, or the time needed for other 
+administrative actions. Because incidental costs may vary significantly 
+from operator to operator, they are almost impossible to calculate. The 
+work hours that are needed to accomplish the actions required by this 
+AD represent the time necessary to perform only the actions actually 
+required by this AD (that is, the inspection). No change to the final 
+rule is necessary in this regard.
+
+Explanation of Changes Made to the Proposed AD
+
+    We have revised the subject heading to identify model designations 
+as published in the most recent type certificate data sheet for the 
+affected models.
+    Boeing has received a Delegation Option Authorization (DOA). We 
+have revised paragraph (l) of the final rule to delegate the authority 
+to approve an alternative method of compliance for any repair required 
+by this AD to the Authorized Representative for the Boeing DOA 
+Organization.
+    We have also revised paragraph (i) of the final rule to allow any 
+crack in the subject area to be repaired according to data that conform 
+to the airplane's type
+
+[[Page 28805]]
+
+certificate and that are approved by an Authorized Representative for 
+the Boeing DOA Organization whom we have authorized to make such 
+findings.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments that have been submitted, and determined that air safety and 
+the public interest require adopting the AD with the changes described 
+previously. We have determined that these changes will neither increase 
+the economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 1,350 Model 747 series airplanes worldwide of the 
+affected design. This AD affects about 245 airplanes of U.S. registry.
+    The actions that are required by AD 90-09-09 and retained in this 
+AD take about 84 work hours per airplane, at an average labor rate of 
+$65 per work hour. We estimate 102 airplanes of U.S. registry are 
+affected by AD 90-09-09. Based on these figures, the estimated cost of 
+the currently required actions is $556,920, or $5,460 per airplane, per 
+inspection cycle.
+    The new inspections take about 14 work hours per airplane, at an 
+average labor rate of $65 per work hour. Based on these figures, the 
+estimated cost of the new actions specified in this AD for U.S. 
+operators is $222,950, or $910 per airplane, per inspection cycle.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD. See the ADDRESSES section for a location to 
+examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing amendment 39-6586 (55 FR 
+17928, April 30, 1990), corrected at 55 FR 20894, May 21, 1990, and by 
+adding the following new airworthiness directive (AD):
+
+2005-10-21 Boeing: Amendment 39-14098. Docket No. FAA-2004-19538; 
+Directorate Identifier 2003-NM-99-AD.
+
+Effective Date
+
+    (a) This AD becomes effective June 23, 2005.
+
+Affected ADs
+
+    (b) This AD supersedes AD 90-09-09, amendment 39-6586 (55 FR 
+20894, May 21, 1990).
+
+Applicability
+
+    (c) This AD applies to Boeing Model 747 series airplanes, line 
+numbers 1 through 1307 inclusive, 1309 through 1312 inclusive, and 
+1314; certificated in any category.
+
+Unsafe Condition
+
+    (d) This AD was prompted by reports of cracks in the body 
+station (BS) 1000 bulkhead chord. We are issuing this AD to detect 
+and correct fatigue cracks in the BS 1000 bulkhead chord, which, if 
+not repaired before they reach critical length, could result in the 
+failure of the adjacent structure and skin and lead to in-flight 
+depressurization of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Restatement of Requirements of AD 90-09-09
+
+    (f) For airplanes listed in Boeing Service Bulletin 747-53-2064, 
+Revision 4, dated September 23, 1983, that have not been modified in 
+accordance with Boeing Service Bulletin 747-53-2064, dated July 25, 
+1972: Within the next 1,000 landings after October 15, 1984 (the 
+effective date of AD 84-18-06, amendment 39-4912), or prior to the 
+accumulation of 10,000 landings, whichever occurs later, and 
+thereafter at intervals not to exceed 7,000 landings, conduct a high 
+frequency eddy current (HFEC) inspection of the chord to detect 
+cracks between stringers S-37 and S-39 at the chord radius, heel, 
+and flanges adjacent to the fastener holes identified for inspection 
+in Boeing Service Bulletin 747-53-2064, Revision 4, dated September 
+23, 1983. If cracks are found in the pressure bulkhead chord, 
+accomplish the repair in accordance with the service bulletin before 
+further flight. Repair of cracks along the chord radius under 5 
+inches in length, or across a chord flange that have not severed the 
+chord flange, may be deferred 1,000 landings by stop drilling and 
+reinspecting for crack progression every 200 landings using HFEC. If 
+crack progression is found, repair in accordance with the service 
+bulletin prior to further flight. Inspections are to continue at 
+intervals not to exceed 7,000 landings after repair.
+    (g) For airplanes listed in Boeing Service Bulletin 747-53-2064, 
+Revision 4, dated September 23, 1983, that have been modified in 
+accordance with Boeing Service Bulletin 747-53-2064, dated July 25, 
+1972: Within the next 1,000 landings after October 15, 1984, or 
+prior to the accumulation of 10,000 landings after the modification, 
+whichever is later, and thereafter at intervals not to exceed 10,000 
+landings, conduct an HFEC inspection to detect cracks in the front 
+spar pressure bulkhead lower chord heel from stringers S-37 to S-39, 
+and conduct an ultrasonic inspection to detect cracks in the 
+fuselage skin originating at the indicated fastener holes beneath 
+the forward drag splice fitting flanges, in accordance with the 
+service bulletin. If any cracks are found, repair in accordance with 
+Boeing Service Bulletin 747-53-2064, Revision 4, dated September 23, 
+1983, before further flight. Inspections are to continue at 
+intervals not to exceed 10,000 landings after repair.
+
+New Requirements of This AD
+
+Initial Inspections
+
+    (h) At the later of the times specified in paragraph (h)(1), 
+(h)(2), or (h)(3) of this AD: Except as provided by paragraph (i) of 
+this
+
+[[Page 28806]]
+
+AD, perform an HFEC inspection of BS 1000 bulkhead chord for cracks, 
+a detailed inspection of the bathtub fittings, if installed, for 
+cracks, and corrective action, as applicable, by accomplishing all 
+the actions specified in the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 747-53A2471, dated March 27, 2003. Any 
+applicable corrective action must be done before further flight. 
+Corrective actions include replacing only those bathtub fittings 
+that are found to be cracked. Accomplishment of the HFEC and 
+detailed inspections required by this paragraph ends the 
+requirements of paragraphs (f) and (g) of this AD.
+    Note 1: The 6,000-cycle post-modification inspection threshold 
+in paragraph (k) of this AD is valid only if the chord is replaced 
+along with all bathtub fittings corresponding to the side of the 
+airplane (left or right) in which the chord was replaced.
+    Note 2: For the purposes of this AD, a detailed inspection is 
+``an intensive examination of a specific item, installation, or 
+assembly to detect damage, failure, or irregularity. Available 
+lighting is normally supplemented with a direct source of good 
+lighting at an intensity deemed appropriate. Inspection aids such as 
+mirrors, magnifying lenses, etc., may be necessary. Surface cleaning 
+and elaborate procedures may be required.''
+    (1) Prior to the accumulation of 10,000 total flight cycles.
+    (2) Within 18 months after the effective date of this AD.
+    (3) For airplanes on which the repair (i.e., chord replacement) 
+has been accomplished in accordance with Boeing Service Bulletin 
+747-53-2362, dated March 26, 1992, or in accordance with paragraph 
+(f) or (g) of this AD (i.e., per Boeing Service Bulletin 747-53-
+2064, Revision 4, dated September 23, 1983): Within 3,000 flight 
+cycles after the replacement was accomplished.
+    Note 3: Repairs (i.e., chord replacement) accomplished prior to 
+the effective date of this AD in accordance with Boeing Service 
+Bulletin 747-53-2064, Revision 1, dated May 18, 1973; Revision 2, 
+dated February 22, 1974; Revision 3, dated September 13, 1974; 
+Revision 5, dated July 23, 1987; or Revision 6, dated June 22, 1989; 
+are also considered to be applicable to the inspection threshold 
+specified in paragraph (h)(3) of this AD.
+    (i) If any crack is found during any inspection required by 
+paragraph (h) of this AD, and Boeing Alert Service Bulletin 747-
+53A2471, dated March 27, 2003, specifies contacting Boeing for 
+additional information: Before further flight, repair according to a 
+method approved by the Manager, Seattle Aircraft Certification 
+Office (ACO), FAA; or according to data meeting the certification 
+basis of the airplane approved by an Authorized Representative for 
+the Boeing Delegation Option Authorization Organization who has been 
+authorized by the Manager, Seattle ACO, to make those findings. For 
+a repair method to be approved, the repair must meet the 
+certification basis of the airplane, and the approval must 
+specifically reference this AD.
+
+Repetitive Inspections
+
+    (j) Except as provided by paragraph (k) of this AD, repeat the 
+inspections required by paragraph (h) of this AD thereafter at 
+intervals not to exceed 3,000 flight cycles.
+    (k) For the side of the airplane on which the chord and all 
+corresponding bathtub fittings for that side of the airplane (left 
+or right) were replaced in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 747-53A2471, dated 
+March 27, 2003: Repeat the inspections required by paragraph (h) of 
+this AD within 6,000 flight cycles after accomplishing replacement 
+of the chord and bathtub fittings. Thereafter repeat the inspections 
+at intervals not to exceed 3,000 flight cycles.
+
+Alternative Methods of Compliance (AMOC)
+
+    (l)(1) In accordance with 14 CFR 39.19, the Manager, Seattle 
+ACO, FAA, is authorized to approve AMOCs for this AD.
+    (2) AMOCs, approved previously in accordance with AD 90-09-09, 
+amendment 39-6586, are approved as AMOCs to paragraph (f) or (g) of 
+this AD, as applicable.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an 
+Authorized Representative for the Boeing Delegation Option 
+Authorization Organization who has been authorized by the Manager, 
+Seattle ACO, to make those findings. For a repair method to be 
+approved, the approval must specifically refer to this AD.
+
+Material Incorporated by Reference
+
+    (m) You must use Boeing Alert Service Bulletin 747-53A2471, 
+dated March 27, 2003; and Boeing Service Bulletin 747-53-2064, 
+Revision 4, including Addendum, dated September 23, 1983; as 
+applicable, to perform the actions that are required by this AD, 
+unless the AD specifies otherwise. The Director of the Federal 
+Register approves the incorporation by reference of this document in 
+accordance with 5 U.S.C. 552(a) and 1 CFR part 51. For copies of the 
+service information, contact Boeing Commercial Airplanes, P.O. Box 
+3707, Seattle, Washington 98124-2207.
+    You may view the AD docket at the Docket Management Facility, 
+U.S. Department of Transportation, 400 Seventh Street SW, room PL-
+401, Nassif Building, Washington, DC. To review copies of the 
+service information, go the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at the NARA, call (202) 741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on May 11, 2005.
+Jeffrey E. Duven,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 05-9880 Filed 5-18-05; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

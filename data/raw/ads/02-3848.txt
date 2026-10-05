@@ -1,0 +1,568 @@
+<html>
+<head>
+<title>Federal Register, Volume 67 Issue 35 (Thursday, February 21, 2002)</title>
+</head>
+<body><pre>
+[Federal Register Volume 67, Number 35 (Thursday, February 21, 2002)]
+[Rules and Regulations]
+[Pages 7949-7952]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 02-3848]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 97-NM-298-AD; Amendment 39-12658; AD 2002-04-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; McDonnell Douglas Model DC-9, DC-9-80, 
+and C-9 Series Airplanes; Model MD-88 Airplanes; and Model MD-90 
+Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment supersedes an existing airworthiness directive 
+(AD), applicable to certain McDonnell Douglas Model DC-9, DC-9-80, and 
+C-9 series airplanes; Model MD-88 airplanes; and Model MD-90 airplanes, 
+that currently requires a visual check to determine the part and serial 
+numbers of the upper lock link assembly of the nose landing gear (NLG); 
+repetitive inspections of certain upper lock link assemblies to detect 
+fatigue cracking; and modification of the NLG. The existing AD also 
+provides for terminating action for the repetitive inspections. This 
+amendment requires, among other actions, expanding the applicability of 
+the existing AD, revising compliance times; and adding new inspection 
+requirements. This amendment is prompted by a report indicating that an 
+NLG upper lock link fractured prior to landing and jammed against the 
+NLG shock strut, restricting the NLG from fully extending. The actions 
+specified by this AD are intended to prevent the upper lock link 
+assembly from fracturing due to fatigue cracking, and the NLG 
+consequently failing to extend fully; this condition could result in 
+injury to passengers and flight crew, and damage to the airplane.
+
+DATES: Effective March 28, 2002.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of March 28, 2002.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Aircraft Group, Long Beach Division, 
+3855 Lakewood Boulevard, Long Beach, California 90846, Attention: Data 
+and Service Management, Dept. C1-L5A (D800-0024). This information may 
+be examined at the Federal Aviation Administration (FAA), Transport 
+Airplane Directorate, Rules Docket, 1601 Lind Avenue, SW., Renton, 
+Washington; or at the FAA, Los Angeles Aircraft Certification Office, 
+3960 Paramount Boulevard, Lakewood, California; or at the Office of the 
+Federal Register, 800 North Capitol Street, NW., suite 700, Washington, 
+DC.
+
+FOR FURTHER INFORMATION CONTACT: Brent Bandley, Aerospace Engineer, 
+Airframe Branch, ANM-120L, FAA, Los Angeles Aircraft Certification 
+Office, 3960 Paramount Boulevard, Lakewood, California 90712-4137; 
+telephone (562) 627-5237; fax (562) 627-5210.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) by superseding AD 97-02-10, 
+amendment 39-9895 (62 FR 3781, January 27, 1997), applicable to certain 
+McDonnell Douglas Model DC-9, DC-9-80, and C-9 series airplanes; Model 
+MD-88 airplanes; and Model MD-90 airplanes, was published as a 
+supplemental notice of proposed rulemaking (NPRM) in the Federal 
+Register on February 14, 2001 (66 FR 10243). That supplemental NPRM 
+would have, among other actions, revised a list of suspect parts; 
+delayed accomplishment of a certain replacement; and revised the 
+initial compliance time proposed by the original NPRM.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Request for Credit for Previously Accomplished Actions
+
+    One commenter requests that the FAA revise the proposed AD to 
+specify that operators will be given ``credit'' for having previously 
+accomplished the actions required by AD 97-02-10 per McDonnell Douglas 
+Service Bulletin DC9-32-315 and Boeing Service Bulletin MD90-32-033, 
+Revision 01, both dated October 24, 2000. The commenter states that 
+both of those service bulletins contain statements that they have been 
+approved as an alternative methods of compliance (AMOC) with the 
+requirements of AD 97-02-10. The commenter notes that paragraph (f)(2) 
+of the proposed AD states, ``Alternative methods of compliance, 
+approved previously in accordance with AD 97-02-10, amendment 39-9895, 
+are approved as alternative methods of compliance with paragraph (f)(1) 
+of this AD.''
+    The FAA partially agrees. Operators are given credit for work 
+previously performed by means of the phrase in the ``Compliance'' 
+section of the AD that states, ``Required as indicated, unless 
+accomplished previously.'' Therefore, in the case of this AD, if the 
+required actions have been accomplished before the effective date of 
+this AD, this AD does not require those actions to be repeated. 
+However, we find that clarification with regard to paragraph (f)(2) of 
+this AD is necessary. AMOCs approved previously in accordance with AD 
+97-02-10 are approved as AMOCs with this AD, not just paragraph (f)(1) 
+of this AD as referenced in the proposed AD. Therefore, we have revised 
+paragraph (f)(2) of this AD accordingly.
+
+Request To Revise Applicability Statement
+
+    One commenter requests that the applicability of the proposed AD be 
+revised to apply to affected airplanes on which upper lock link, part 
+number (P/N) 3914464, has been installed.
+    The FAA agrees that revising the applicability would clarify that 
+the AD affects those applicable airplanes equipped with upper lock 
+links, P/N 3914464-1, -501, or -503. We have revised the applicability 
+of the final rule to ``Model DC-9, DC-9-80, and C-9 series airplanes; 
+Model MD-88 airplanes; and Model MD-90 airplanes; as listed in Boeing 
+Service Bulletins DC9-32-315, and MD90-32-033, both Revision 01, dated 
+October 24, 2000; certificated in any category; equipped with upper 
+lock links, P/N 3914464-1, -501, or -503.'' In addition, we have 
+revised the P/N of those links in paragraphs (a) and (c)(2)(iii) of the 
+final
+
+[[Page 7950]]
+
+rule to include the specific dash numbers.
+
+Request To Revise the Applicability of Certain Paragraphs
+
+    One commenter requests that the applicability of paragraphs (a)(1) 
+and (a)(2) of the proposed AD be revised to include a reference to 
+paragraph (c) of AD 97-02-10, in addition to the reference to paragraph 
+(c)(1) of AD 97-02-10. The commenter is concerned that there is a time 
+gap between inspections required by paragraph (c) of AD 97-02-10 and 
+those required by paragraphs (a)(1) and (a)(2) of the proposed AD.
+    The FAA does not agree. We did not reference paragraph (c) of AD 
+97-02-10 in the applicability of paragraph (a)(1) or (a)(2) of the 
+proposed AD because that paragraph only requires an initial inspection. 
+The follow-on (i.e., repetitive inspections) and corrective (i.e., 
+replacement) actions occur in paragraph (c)(1) of AD 97-02-10.
+    The FAA's intent in paragraph (a)(1) of this AD is to ensure that 
+operators that have accomplished the inspection per paragraph (c)(1) of 
+AD 97-02-10 will accomplish the required removal and inspections 
+``before 5,000 landings since the last inspection done per paragraph 
+(c)(1) of AD 97-02-10, or within 90 days after the effective date of 
+this AD, whichever occurs later.'' If an airplane accumulates 5,000 
+landings just after the effective date of this AD, then the operator 
+would have 90 days to accomplish the AD.
+    The FAA's intent in paragraph (a)(2) of this AD is to ensure that 
+operators that have NOT accomplished the inspection per paragraph 
+(c)(1) of AD 97-02-10 will accomplish the required removal and 
+inspections ``within 2,500 landings on the NLG after the effective date 
+of this AD.'' Those affected by paragraph (a)(2) of this AD include but 
+are not limited to: the upper lock links found to be exempt in AD 97-
+02-10 and airplanes that have been added to the applicability of this 
+AD, which were NOT subject to the requirements of AD 97-02-10.
+    In light of these findings, the FAA finds that no change to the 
+final rule is necessary in this regard.
+
+Request for an Alternative Method of Compliance
+
+    One commenter requests that all areas of the proposed AD that 
+specify reidentifying the lock link with an ``F'' after the part number 
+include a ``compressive vibro-peening etch'' method in addition to the 
+electro chemical deep etch method identified in the proposed AD. The 
+commenter states that the results of a Boeing stress analysis revealed 
+that, ``although an electro chemical deep etch process is the preferred 
+method, the use of a vibro-peening, compressing tool to scribe an ``F'' 
+after the part number will not reduce the overall strength or fatigue 
+life of the unit.'' The commenter also notes that McDonnell Douglas 
+Service Bulletin DC9-32-315, dated March 11, 1999, describes procedures 
+for a non-descript procedure ``electro etch'' to apply an ``F'' after 
+the part number, and that it used a ``vibro-peening'' tool to etch the 
+``F'' in the material on all of its airplanes.
+    The FAA does not agree. As discussed in the preamble of the 
+supplemental NPRM, Revision 01 of Boeing Service Bulletin DC9-32-315, 
+dated October 24, 2000, redefines the type of etching method to be used 
+when marking certain parts as ``electro chemical deep etch method.'' We 
+find only the electro chemical deep etch method to be acceptable for 
+compliance with the reidentification requirements of this AD based on 
+the testing that Boeing has done to support this method. At this time, 
+Boeing has not conducted sufficient testing of the compressive vibro-
+peening process.
+
+Request To Revise Certain Compliance Times
+
+    For clarification purposes, one commenter requests that the 
+compliance time specified in paragraphs (a)(2) and (d) of the proposed 
+AD be revised to within 2,500 landings on the NLG ``upper lock link.'' 
+The FAA concurs and has revised those paragraphs of the final rule 
+accordingly.
+
+Request To Remove Requirement for Black Stripe
+
+    One commenter requests that paragraph (c)(2)(ii) of the proposed AD 
+be revised to include the following statement: ``If an operator can 
+track the location and limits of each individual link, then painting of 
+the black stripe is not necessary.'' The commenter states that adding a 
+black paint strip to the non-die forged link will add no value to the 
+inspection and replacement tracking of the part for ABX.
+    The FAA does not agree. The black stripe is used to distinguish the 
+upper lock links made from plate or bar material that are being 
+repetitively inspected until they are replaced. We have confidence that 
+operators have the capability to track these parts. However, we have 
+determined that the black stripe should be painted adjacent to the part 
+number to distinguish the upper lock link from other parts.
+
+Request for Clarification
+
+    One commenter would like confirmation that if no manufacturer's 
+serial number is found stamped on the upper lock link, the link is not 
+from the affected lot of hand forged links.
+    The FAA agrees with the commenter that if no manufacturer's serial 
+number is found stamped on the upper lock link, the link is not from 
+the affected lot of hand forged links. Therefore, operators must 
+accomplish the etch inspection required by paragraph (c) of this AD, as 
+specified in paragraph (b)(1) of this AD.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 2,100 Model DC-9, DC-9-80, and C-9 series 
+airplanes; Model MD-88 airplanes; and Model MD-90 airplanes of the 
+affected design in the worldwide fleet. The FAA estimates that 1,400 
+airplanes of U.S. registry will be affected by this AD.
+    It will take approximately 1 work hour per airplane to accomplish 
+the required inspections of the NLG upper lock link, at an average 
+labor rate of $60 per work hour. Based on these figures, the cost 
+impact of this inspection required by this AD on U.S. operators is 
+estimated to be $84,000, or $60 per airplane.
+    It will take approximately 4 work hours per airplane to accomplish 
+each required replacement of the NLG upper lock link, at an average 
+labor rate of $60 per work hour. Required parts will cost approximately 
+$5,803 per airplane. Based on these figures, the cost impact of each 
+replacement required by this AD on U.S. operators is estimated to be 
+$8,460,200, or $6,043 per airplane.
+    The cost impact figures discussed above are based on assumptions 
+that no operator has yet accomplished any of the requirements of this 
+AD action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time
+
+[[Page 7951]]
+
+required to gain access and close up, planning time, or time 
+necessitated by other administrative actions.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by removing amendment 39-9895 (62 FR 
+3781, January 27, 1997), and by adding a new airworthiness directive 
+(AD), amendment 39-12658, to read as follows:
+
+2002-04-01  McDonnell Douglas: Amendment 39-12658. Docket 97-NM-298-
+AD. Supersedes AD 97-02-10, Amendment 39-9895.
+
+    Applicability: Model DC-9, DC-9-80, and C-9 series airplanes; 
+Model MD-88 airplanes; and Model MD-90 airplanes; as listed in 
+Boeing Service Bulletins DC9-32-315, and MD90-32-033, both Revision 
+01, dated October 24, 2000; certificated in any category; equipped 
+with upper lock links, part number (P/N) 3914464-1, -501, or -503.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (f)(1) 
+of this AD. The request should include an assessment of the effect 
+of the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent the upper lock link assembly of the nose landing gear 
+(NLG) from fracturing due to fatigue cracking, and the NLG 
+consequently failing to extend fully, which could result in injury 
+to passengers and flight crew, and damage to the airplane, 
+accomplish the following:
+
+Removing and Retaining Upper Lock Link
+
+    (a) Remove and retain the upper lock link, P/N 3914464-1, -501, 
+or -503, and attaching parts; and do the inspections required by 
+paragraphs (b) and (c) of this AD, per either applicable Boeing and 
+McDonnell Douglas service bulletins listed in Table 1 of this AD. 
+The actions required by this paragraph shall be done at the 
+applicable time specified in paragraph (a)(1) or (a)(2) of this AD. 
+Table 1 is as follows:
+
+                                                     Table 1
+----------------------------------------------------------------------------------------------------------------
+              Model                 Service bulletin         Revision level                    Date
+----------------------------------------------------------------------------------------------------------------
+DC-9, DC-9-80, and C-9 series     McDonnell Douglas    Original.................  March 11, 1999.
+ airplanes; and MD-88 airplanes.   Service Bulletin
+                                   DC9-32-315.
+                                 -------------------------------------------------------------------------------
+                                  Boeing Service       Revision 01..............  October 24, 2000.
+                                   Bulletin DC9-32-
+                                   315.
+----------------------------------------------------------------------------------------------------------------
+MD-90 airplanes.................  McDonnell Douglas    Original.................  March 11, 1999.
+                                   Service Bulletin
+                                   MD90-32-033.
+                                 -------------------------------------------------------------------------------
+                                  Boeing Service       Revision 01..............  October 24, 2000.
+                                   Bulletin MD90-32-
+                                   033.
+----------------------------------------------------------------------------------------------------------------
+
+    (1) For airplanes on which the inspection required by paragraph 
+(c)(1) of AD 97-02-10 has been done: Do the actions before 5,000 
+landings since the last inspection done per paragraph (c)(1) of AD 
+97-02-10, or within 90 days after the effective date of this AD, 
+whichever occurs later.
+    (2) For airplanes on which the inspection required by paragraph 
+(c)(1) of AD 97-02-10 has NOT been done: Do the actions within 2,500 
+landings on the NLG upper lock link after the effective date of this 
+AD.
+
+Inspection
+
+    (b) Do a one-time inspection of the NLG upper lock link assembly 
+per Revision 01 of the applicable service bulletin listed in Table 1 
+of this AD to determine whether the serial number of the lock link 
+is identified in the affected lot specified in Condition 1 of the 
+Accomplishment Instructions of Revision 01 of the applicable Boeing 
+and McDonnell Douglas service bulletins listed in Table 1 of this 
+AD.
+
+Condition 1 (Hand Forging Serial Number)
+
+    (1) If the serial number of the upper lock link is not from the 
+affected lot specified in Revision 01 of the applicable service 
+bulletin (Condition 1), before further flight, do the etch 
+inspection required by paragraph (c) of this AD.
+    (2) If the serial number of the upper lock link is from the 
+affected lot specified in the Revision 01 of the applicable service 
+bulletin (Condition 1), before further flight, replace the lock link 
+with a new upper lock link, P/N 3914464-507; a reidentified upper 
+lock link by adding an ``F'' to the part number, using an electro 
+chemical deep etch method; or a new upper lock link assembly, P/N 
+5965065-507; all made from die forged aluminum material; per the 
+applicable service bulletin. Accomplishment of the replacement 
+constitutes terminating action for the requirements of this AD.
+
+Etch Inspection
+
+    (c) Perform a one-time etch inspection of the NLG upper lock 
+link to determine whether the lock link is made from die forged 
+aluminum material (Condition 2), or from plate or bar material 
+(Condition 3); per the applicable Boeing and McDonnell Douglas 
+service bulletins listed in Table 1 of this AD.
+
+[[Page 7952]]
+
+Condition 2 (Die Forged Aluminum Material)
+
+    (1) If the upper lock link is made from die forged aluminum 
+material, before further flight, restore the finish and reidentify 
+the lock link by adding an ``F'' to the part number, using an 
+electro chemical deep etch method, per the applicable service 
+bulletin. Identification of the lock link as being made from die 
+forged aluminum material constitutes terminating action for the 
+requirements of this AD.
+
+Condition 3 (Plate or Bar Material)
+
+    (2) If the NLG upper lock link is made from plate or bar 
+material, before further flight, do either Condition 3, Option 1, as 
+specified by paragraph (c)(2)(i) of this AD, or Condition 3, Option 
+2, as specified by paragraphs (c)(2)(ii) and (c)(2)(iii) of this AD.
+
+Condition 3, Option 1
+
+    (i) Permanently remove any discrepant upper lock link and 
+replace with a new upper lock link, P/N 3914464-507; a reidentified 
+upper lock link by adding an ``F'' to the part number, using an 
+electro chemical deep etch method; or a new upper lock link 
+assembly, P/N 5965065-507; all made from die forged aluminum 
+material; per the applicable service bulletin. Accomplishment of the 
+replacement constitutes terminating action for the requirements of 
+this AD.
+
+Condition 3, Option 2
+
+    (ii) Restore the link finish and reidentify the upper lock link 
+by adding a black paint stripe adjacent to the part number, 
+indicating that the part is not made from die forged aluminum 
+material, per the applicable service bulletin.
+    (iii) Do a high frequency eddy current (HFEC) or Type I 
+fluorescent penetrant inspection of the upper lock link assembly, P/
+N 3914464-1, -501, or -503, to detect cracking of the assembly; per 
+McDonnell Douglas Alert Service Bulletin DC9-32A298 R02, Revision 02 
+(for Model DC-9, DC-9-80, and C-9 series airplanes; and Model MD-88 
+airplanes), or Alert Service Bulletin MD90-32A019 R02, Revision 02 
+(for Model MD-90 airplanes), both dated October 29, 1997; as 
+applicable.
+
+Actions Following the Inspection Required by Paragraph (c)(2)(iii) of 
+This AD
+
+    (d) If no crack is detected during the HFEC or Type I 
+fluorescent penetrant inspection required by paragraph (c)(2)(iii) 
+of this AD, within 2,500 landings on the NLG upper lock link since 
+accomplishment of the inspection performed per paragraph (c)(2)(iii) 
+of this AD, as applicable, do that inspection a second time. If no 
+crack is detected during this second inspection, within 2,500 
+landings after accomplishment of the second inspection, replace the 
+upper lock link with a new upper lock link, P/N 3914464-507; a 
+reidentified upper lock link by adding an ``F'' to the part number, 
+using an electro chemical deep etch method; or a new upper lock link 
+assembly, P/N 5965065-507; all made from die forged aluminum 
+material; per the applicable Boeing and McDonnell Douglas service 
+bulletins listed in Table 1 of this AD. Accomplishment of the 
+replacement action constitutes terminating action for the 
+requirements of this AD.
+    (e) If any crack is detected during the HFEC or Type I 
+fluorescent penetrant inspection required by paragraph (c)(2)(iii) 
+or (d) of this AD, before further flight, replace the discrepant NLG 
+upper lock link with a new upper lock link, P/N 3914464-507; a 
+reidentified upper lock link by adding an ``F'' to the part number, 
+using an electro chemical deep etch method; or a new upper lock link 
+assembly, P/N 5965065-507; all made from die forged aluminum 
+material; per the applicable Boeing and McDonnell Douglas service 
+bulletins listed in Table 1 of this AD. Accomplishment of the 
+replacement constitutes terminating action for the requirements of 
+this AD.
+
+Alternative Methods of Compliance
+
+    (f)(1) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Los Angeles Aircraft Certification 
+Office (ACO), FAA. Operators shall submit their requests through an 
+appropriate FAA Principal Maintenance Inspector, who may add 
+comments and then send it to the Manager, Los Angeles ACO.
+
+    Note 2: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Los Angeles ACO.
+
+    (2) Alternative methods of compliance, approved previously in 
+accordance with AD 97-02-10, amendment 39-9895, are approved as 
+alternative methods of compliance with this AD.
+
+Special Flight Permits
+
+    (g) Special flight permits may be issued in accordance with 
+Secs. 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 
+21.197 and 21.199) to operate the airplane to a location where the 
+requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (h)(1) The actions shall be done per the applicable Boeing 
+service bulletin listed in Table 2 of this AD. Table 2 is as 
+follows:
+
+                                                     Table 2
+----------------------------------------------------------------------------------------------------------------
+            Service bulletin                      Revision level                            Date
+----------------------------------------------------------------------------------------------------------------
+(i) McDonnell Douglas Service Bulletin   Original........................  March 11, 1999.
+ DC9-32-315.
+----------------------------------------------------------------------------------------------------------------
+(ii) Boeing Service Bulletin DC9-32-315  01..............................  October 24, 2000.
+----------------------------------------------------------------------------------------------------------------
+(iii) McDonnell Douglas Service          Original........................  March 11, 1999.
+ Bulletin MD90-32-033.
+----------------------------------------------------------------------------------------------------------------
+(iv) Boeing Service Bulletin MD90-32-    01..............................  October 24, 2000.
+ 033.
+----------------------------------------------------------------------------------------------------------------
+(v) McDonnell Douglas Alert Service      02..............................  October 29, 1997.
+ Bulletin DC9-32A298 R02.
+----------------------------------------------------------------------------------------------------------------
+(vi) McDonnell Douglas Alert Service     02..............................  October 29, 1997.
+ Bulletin MD90-32A019 R02.
+----------------------------------------------------------------------------------------------------------------
+
+    (2) This incorporation by reference was approved by the Director 
+of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR 
+part 51. Copies may be obtained from Boeing Commercial Aircraft 
+Group, Long Beach Division, 3855 Lakewood Boulevard, Long Beach, 
+California 90846, Attention: Data and Service Management, Dept. C1-
+L5A (D800-0024). Copies may be inspected at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or 
+at the FAA, Los Angeles Aircraft Certification Office, 3960 
+Paramount Boulevard, Lakewood, California; or at the Office of the 
+Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+Effective Date
+
+    (i) This amendment becomes effective on March 28, 2002.
+
+    Issued in Renton, Washington, on February 11, 2002.
+Vi L. Lipski,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+
+[FR Doc. 02-3848 Filed 2-20-02; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

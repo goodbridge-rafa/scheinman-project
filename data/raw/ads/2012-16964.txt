@@ -1,0 +1,337 @@
+<html>
+<head>
+<title>Federal Register, Volume 77 Issue 141 (Monday, July 23, 2012)</title>
+</head>
+<body><pre>
+[Federal Register Volume 77, Number 141 (Monday, July 23, 2012)]
+[Rules and Regulations]
+[Pages 42962-42964]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2012-16964]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-0149; Directorate Identifier 2011-NM-255-AD; 
+Amendment 39-17117; AD 2012-14-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 777-200 and -300 series airplanes. This AD was 
+prompted by reports of fatigue cracks in the lap joints, which 
+initiated at scribe lines that were made during production when maskant 
+was removed from the affected skin panels during the chemical milling 
+process. This AD requires repetitive external phased-array ultrasonic 
+inspections to detect cracks of the affected fuselage skin lap splices 
+in Sections 41, 43, and 44, as applicable, and repair if necessary. We 
+are issuing
+
+[[Page 42963]]
+
+this AD to detect and correct such fatigue cracking, which could grow 
+large and cause sudden decompression and the inability to sustain limit 
+flight and pressure loads.
+
+DATES: This AD is effective August 27, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of August 27, 
+2012.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may review copies of the referenced service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, Washington. For information on the availability of 
+this material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: James Sutherland, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue SW., Renton, Washington 98057-3356; phone: 425-917-
+6533; fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#7c361d11190f522f090814190e101d12183c1a1d1d521b130a"><span class="__cf_email__" data-cfemail="490328242c3a671a3c3d212c3b2528272d092f2828672e263f">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+That NPRM published in the Federal Register on February 22, 2012 (77 FR 
+10411). That NPRM proposed to require repetitive external phased-array 
+ultrasonic inspections to detect cracks of the affected fuselage skin 
+lap splices in Sections 41, 43, and 44, as applicable, and repair if 
+necessary.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(77 FR 10411, February 22, 2012) and the FAA's response to each 
+comment.
+
+Request To Allow Certain Repairs
+
+    Boeing requested we add additional text to the end of paragraph 
+(h)(2) of the NPRM (77 FR 10411, February 22, 2012) stating ``* * * 
+unless all cracked material has been completely removed and the repair 
+is a reinforcing repair that has been FAA approved to [Federal Aviation 
+Regulations] 14 CFR 25.571 and 14 CFR 26.43 (c) or (d).'' Boeing stated 
+that reinforcing repairs which are FAA approved to 14 CFR 25.571 at the 
+certification basis for the subject Model 777 airplanes and 14 CFR 
+26.43(c) or (d) must have been evaluated for damage tolerance, and 
+would have the damage tolerance inspection requirements in place in 
+order to maintain the safety of the airplane at the repaired area. 
+Boeing asserted that the requirement to obtain an alternative method of 
+compliance (AMOC) approval for such repairs would therefore not be 
+required to ensure the safety of the repaired airplane.
+    We disagree. The change proposed by Boeing would only require 
+compliance for two certain regulations and would not require other 
+necessary regulatory standards. The requirements defined in the 
+existing AMOC delegation authority include other FAA regulations and 
+manufacturer's design considerations beyond those listed on the 
+airplane type certificate data sheet. We have not changed the final 
+rule in this regard.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comment received, and 
+determined that air safety and the public interest require adopting the 
+AD as proposed.
+
+Costs of Compliance
+
+    We estimate that this AD affects 46 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspections for Group 1 airplanes  126 work-hours x                 $0  $10,710 per          $267,750 per
+ (25 airplanes).                    $85 per hour =                       inspection cycle.    inspection cycle.
+                                    $10,710 per
+                                    inspection cycle.
+Inspections for Group 2 airplanes  50 work-hours x $85               0  $4,250 per           $89,250 per
+ (21 airplanes).                    per hour = $4,250                    inspection cycle.    inspection cycle.
+                                    per inspection
+                                    cycle.
+----------------------------------------------------------------------------------------------------------------
+
+     We have received no definitive data that would enable us to 
+provide cost estimates for the on-condition repair.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+
+[[Page 42964]]
+
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2012-14-03 The Boeing Company: Amendment 39-17117; Docket No. FAA-
+2012-0149; Directorate Identifier 2011-NM-255-AD.
+
+(a) Effective Date
+
+    This AD is effective August 27, 2012.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 777-200 and -300 
+series airplanes, certificated in any category, as identified in 
+Boeing Alert Service Bulletin 777-53A0043, dated November 9, 2011.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fatigue cracks in the lap 
+joints, which initiated at scribe lines that were made during 
+production when maskant was removed from the affected skin panels 
+during the chemical milling process. We are issuing this AD to 
+detect and correct such fatigue cracking, which could grow large and 
+cause sudden decompression and the inability to sustain limit flight 
+and pressure loads.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspections and Repair
+
+    Except as provided by paragraph (h)(1) of this AD, at the 
+applicable time identified in paragraph 1.E., ``Compliance,'' of 
+Boeing Alert Service Bulletin 777-53A0043, dated November 9, 2011: 
+Do external phased-array ultrasonic inspections to detect cracks of 
+the affected fuselage skin lap splices in Sections 41, 43, and 44, 
+as applicable, in accordance with the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 777-53A0043, dated November 9, 2011. 
+If any crack is found, before further flight, repair in accordance 
+with the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 777-53A0043, dated November 9, 2011; except as required by 
+paragraph (h)(2) of this AD. Repeat the inspections of unrepaired 
+areas thereafter at intervals not to exceed 4,200 flight cycles.
+
+(h) Exception to Service Information
+
+    (1) Where Boeing Alert Service Bulletin 777-53A0043, dated 
+November 9, 2011, specifies a compliance time ``after the original 
+issue date on this service bulletin,'' this AD requires compliance 
+within the specified compliance time after the effective date of 
+this AD.
+    (2) Where Boeing Alert Service Bulletin 777-53A0043, dated 
+November 9, 2011, specifies that ``other approved methods'' may be 
+used to install a repair, this AD requires that the repair be done 
+using a method approved in accordance with the procedures specified 
+in paragraph (i) of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in the Related Information 
+section of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#b38a9ef2fdfe9ee0d6d2c7c7dfd69ef2f0fc9ef2fefcf09ee1d6c2c6d6c0c7c0f3d5d2d29dd4dcc5"><span class="__cf_email__" data-cfemail="e7decaa6a9aacab4828693938b82caa6a4a8caa6aaa8a4cab582969282949394a7818686c9808891">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+
+(j) Related Information
+
+    For more information about this AD, contact James Sutherland, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft 
+Certification Office, 1601 Lind Avenue SW., Renton, Washington 
+98057-3356; phone: 425-917-6533; fax: 425-917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#2d674c40485e037e585945485f414c43496d4b4c4c034a425b"><span class="__cf_email__" data-cfemail="165c777b7365384563627e73647a7778725670777738717960">[email&#160;protected]</span></a>.
+
+(k) Material Incorporated by Reference
+
+    (1) You must use the following service information to do the 
+actions required by this AD, unless the AD specifies otherwise. The 
+Director of the Federal Register approved the incorporation by 
+reference (IBR) of the following service information under 5 U.S.C. 
+552(a) and 1 CFR part 51.
+    (i) Boeing Alert Service Bulletin 777-53A0043, dated November 9, 
+2011.
+    (ii) Reserved.
+    (2) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 
+206-544-5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (3) You may review copies of the referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, Washington. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+    (4) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on June 28, 2012.
+Kalene C. Yanamura,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-16964 Filed 7-20-12; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

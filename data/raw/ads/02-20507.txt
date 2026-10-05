@@ -1,0 +1,1659 @@
+<html>
+<head>
+<title>Federal Register, Volume 67 Issue 158 (Thursday, August 15, 2002)</title>
+</head>
+<body><pre>
+[Federal Register Volume 67, Number 158 (Thursday, August 15, 2002)]
+[Rules and Regulations]
+[Pages 53410-53422]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 02-20507]
+
+
+
+[[Page 53410]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 97-NM-233-AD; Amendment 39-12859; AD 2002-16-20]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 727 Series Airplanes 
+Modified in Accordance With Supplemental Type Certificate SA1368SO, 
+SA1797SO, or SA1798SO
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Boeing Model 727 series airplanes that have been 
+converted from a passenger- to a cargo-carrying (``freighter'') 
+configuration, that requires require, among other actions, installation 
+of a fail-safe hinge, redesigned main deck cargo door warning and power 
+control systems, and 9g cargo barrier. This amendment is prompted by 
+the FAA's determination that the main deck cargo door hinge is not 
+fail-safe; that certain main deck cargo door control systems do not 
+provide an adequate level of safety; and that the main deck cargo 
+barrier is not structurally adequate during an emergency landing. The 
+actions specified by this AD are intended to prevent structural failure 
+of the main deck cargo door hinge or failure of the cargo door system, 
+which could result in the loss or opening of the cargo door while the 
+airplane is in flight, and consequent rapid decompression of the 
+airplane, including possible loss of flight control or severe 
+structural damage; and to prevent failure of the main deck cargo 
+barrier during an emergency landing, which could injure occupants.
+
+DATES: Effective September 19, 2002.
+
+ADDRESSES: Information pertaining to this amendment may be examined at 
+the Federal Aviation Administration (FAA), Transport Airplane 
+Directorate, Rules Docket, 1601 Lind Avenue, SW., Renton, Washington; 
+or at the FAA, Atlanta Aircraft Certification Office, One Crown Center, 
+1895 Phoenix Boulevard, Suite 450, Atlanta, Georgia.
+
+FOR FURTHER INFORMATION CONTACT: Paul Sconyers, Associate Manager, 
+Airframe and Propulsion Branch, ACE-117A, FAA, Atlanta Aircraft 
+Certification Office, One Crown Center, 1895 Phoenix Boulevard, Suite 
+450, Atlanta, Georgia 30349; telephone (770) 703-6076; fax (770) 703-
+6097.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain Boeing Model 727 series 
+airplanes that have been converted from a passenger to a cargo-carrying 
+(``freighter'') configuration was published in the Federal Register on 
+November 12, 1999 (64 FR 61547). That action proposed to require, among 
+other actions, installation of a fail-safe hinge, redesigned main deck 
+cargo door warning and power control systems, and 9g crash barrier.
+
+Background
+
+    For the convenience of the reader, certain excerpts and 
+information, below, from the following sections of the preamble of the 
+notice of proposed rulemaking (NPRM) are provided in this final rule: 
+Discussion, Main Deck Cargo Door Hinge, Main Deck Cargo Door Systems, 
+and Cargo Restraint Barrier.
+
+Discussion
+
+    Supplemental Type Certificates (STC) SA1797SO and SA1368SO (held by 
+Aeronautical Engineers, Inc.) specify a design for a main deck cargo 
+door, associated cargo door cutout, and door systems. STC SA1798SO 
+(held by Aeronautical Engineers, Inc.) specifies a design for a Class 
+``E'' cargo interior with a cargo barrier. As discussed in NPRM, Rules 
+Docket No. 97-NM-79-AD (the final rule, AD 98-26-19, amendment 39-
+10962, was published in the Federal Register on January 12, 1999 (64 FR 
+2016)), which is applicable to certain Boeing Model 727 series 
+airplanes that have been converted from a passenger to a cargo-carrying 
+(``freighter'') configuration, the FAA has conducted a design review of 
+Boeing Model 727 series airplanes modified in accordance with STCs 
+SA1797SO and SA1798SO and has identified several potential unsafe 
+conditions. [Results of this design review are contained in ``FAA 
+Freighter Conversion STC Review, Report Number 3, dated January 27, 
+1997,'' hereinafter referred to as ``the Design Review Report,'' which 
+is included in the Rules Docket for 97-NM-233-AD.] This NPRM proposes 
+corrective action for three of those potential unsafe conditions that 
+relate to the following three areas: main deck cargo door hinge, main 
+deck cargo door systems, and main deck cargo barrier.
+
+Main Deck Cargo Door Hinge
+
+    In order to avoid catastrophic structural failure, it has been a 
+typical industry approach to design outward opening cargo doors and 
+their attaching structure to be fail-safe (i.e., designed so that if a 
+single structural element fails, other structural elements are able to 
+carry resulting loads). Another potential design approach is safe-life, 
+where the critical structure is shown by analyses and/or tests to be 
+capable of withstanding the repeated loads of variable magnitude 
+expected in service for a specific service life. Safe-life is usually 
+not used on critical structure because it is difficult to account for 
+manufacturing or in-service accidental damage. For this reason, plus 
+the fact that none of the STC holders have provided data in support of 
+this approach, the safe-life approach will not be discussed further 
+regarding the design and construction of the main deck cargo door 
+hinge.
+    Structural elements such as the main deck cargo door hinge are 
+subject to severe in-service operating conditions that could result in 
+corrosion, binding, or seizure of the hinge. These conditions, in 
+addition to the normal operational loads, can lead to early and 
+unpredictable fatigue cracking. If a main deck cargo door hinge is not 
+a fail-safe design, a fatigue crack could initiate and propagate 
+longitudinally undetected, which could lead to a complete hinge 
+failure. A possible consequence of this undetected failure is the 
+opening of the main deck cargo door while the airplane is in flight. 
+Service experience indicates that the opening of a cargo door while the 
+airplane is in flight can be extremely hazardous in a variety of ways 
+including possible loss of flight control, severe structural damage, or 
+rapid decompression, any of which could lead to loss of the airplane.
+    The design of the main deck cargo door hinge must be in compliance 
+with Civil Air Regulations (CAR) part 4b, including CAR Sec. 4b.270, 
+which requires, in part, that catastrophic failure or excessive 
+structural deformation, which could adversely affect the flight 
+characteristics of the airplane, is not probable after fatigue failure 
+or obvious partial failure of a single principal structural element. 
+One common feature of a fail-safe hinge design is a division of the 
+hinge into multiple segments such that, following failure of any one 
+segment, the remaining segments would support the redistributed load.
+    The main deck cargo door installed in accordance with STCs SA1797SO 
+and SA1368SO is supported by latches along the bottom of the door and a 
+two-
+
+[[Page 53411]]
+
+segment hinge along the top. This two-segment hinge is considered a 
+critical structural element for these STCs. A crack that initiates and 
+propagates longitudinally along either segment of the hinge will 
+eventually result in failure of the entire hinge, because the remaining 
+segment of the hinge is unable to support the redistributed loads. 
+Failure of the entire hinge can result in the opening of the main deck 
+cargo door while the airplane is in flight.
+    As discussed in the Design Review Report, an inspection of one 
+Boeing Model 727 series airplane modified in accordance with STCs 
+SA1797SO and SA1798SO revealed a number of fasteners with both short 
+edge margins and short spacing in the cargo door cutout external 
+doublers. Some edge margins were as small as one fastener diameter. 
+Fasteners that are placed too close to the edge of a structural member 
+or spaced too close to an adjacent fastener can result in inadequate 
+joint strength and stress concentrations, which may result in fatigue 
+cracking of the skin. If such defects were to exist in the structure of 
+the door or the fuselage to which the main deck cargo door hinge is 
+attached, the attachment of the hinge could fail, and consequently 
+cause the door to open while the airplane is in flight.
+
+Main Deck Cargo Door Systems
+
+    In early 1989, two transport airplane accidents were attributed to 
+cargo doors coming open during flight. The first accident involved a 
+Boeing 747 series airplane in which the cargo door separated from the 
+airplane, and damaged the fuselage structure, engines, and passenger 
+cabin. The second accident involved a McDonnell Douglas DC-9 series 
+airplane in which the cargo door opened but did not separate from its 
+hinge. The open door disturbed the airflow over the empennage, which 
+resulted in loss of flight control and consequent loss of the airplane. 
+Although cargo doors have opened occasionally without mishap during 
+takeoff, these two accidents serve to highlight the extreme potential 
+dangers associated with the opening of a cargo door while the airplane 
+is in flight.
+    As a result of these cargo door opening accidents, the Air 
+Transport Association (ATA) of America formed a task force, including 
+representatives of the FAA, to review the design, manufacture, 
+maintenance, and operation of airplanes fitted with outward opening 
+cargo doors, and to make recommendations to prevent inadvertent cargo 
+door openings while the airplane is in flight. A design working group 
+was tasked with reviewing 14 CFR part 25.783 (and its accompanying 
+Advisory Circular (AC) 25.783-1, dated December 10, 1986) with the 
+intent of clarifying its contents and recommending revisions to enhance 
+future cargo door designs. This design group also was tasked with 
+providing specific recommendations regarding design criteria to be 
+applied to existing outward opening cargo doors to ensure that 
+inadvertent openings would not occur in the current transport category 
+fleet of airplanes.
+    The ATA task force made its recommendations in the ``ATA Cargo Door 
+Task Force Final Report,'' dated May 15, 1991 (hereinafter referred to 
+as ``the ATA Final Report''). On March 20, 1992, the FAA issued a 
+memorandum to the Director-Airworthiness and Technical Standards of ATA 
+(hereinafter referred to as ``the FAA Memorandum''), acknowledging 
+ATA's recommendations and providing additional guidance for purposes of 
+assessing the continuing airworthiness of existing designs of outward 
+opening doors. The FAA Memorandum was not intended to upgrade the 
+certification basis of the various airplanes, but rather to identify 
+criteria to evaluate potential unsafe conditions demonstrated on in-
+service airplanes. Appendix 1 of this AD contains the specific 
+paragraphs from the FAA Memorandum that set forth the criteria to which 
+the outward opening doors should be shown to comply.
+    Applying the applicable requirements of CAR part 4b and design 
+criteria provided by the FAA Memorandum, the FAA has reviewed the 
+original type design of major transport airplanes, including Boeing 727 
+airplanes equipped with outward opening doors, for any design 
+deficiency or service difficulty. Based on that review, the FAA 
+identified unsafe conditions and issued, among others, the following 
+ADs:
+    <bullet> For certain McDonnell Douglas Model DC-9 series airplanes: 
+AD 89-11-02, amendment 39-6216 (54 FR 21416, May 18, 1989);
+    <bullet> For all Boeing Model 747 series airplanes: AD 90-09-06, 
+amendment 39-6581 (55 FR 15217, April 23, 1990);
+    <bullet> For certain McDonnell Douglas Model DC-8 series airplanes: 
+AD 93-20-02, amendment 39-8709 (58 FR 471545, October 18, 1993);
+    <bullet> For certain Boeing Model 747-100 and -200 series 
+airplanes: AD 96-01-51, amendment 39-9492 (61 FR 1703, January 23, 
+1996); and
+    <bullet> For certain Boeing Model 727-100 and -200 series 
+airplanes: AD 96-16-08, amendment 39-9708 (61 FR 41733, August 12, 
+1996).
+    Using the criteria specified in the ATA Final Report and the FAA 
+Memorandum as evaluation guides, the FAA conducted an engineering 
+design review and inspection of an airplane modified in accordance with 
+STCs SA1797SO and SA1798SO (held by Aeronautical Engineers, Inc.). The 
+FAA identified a number of unsafe conditions with the main deck cargo 
+door systems of these STCs. The FAA design review team determined that 
+the design data of these STCs did not include a safety analysis of the 
+main deck cargo door systems.
+    For airplanes modified in accordance with STC SA1797SO, SA1798SO, 
+or SA1368SO, the FAA considers the following four specific design 
+deficiencies of the main deck cargo door systems to be unsafe:
+1. Indication System
+    The main deck cargo door indication system for STCs SA1368SO and 
+SA1797SO uses warning lights at the door operator's control panel and a 
+light at the flight engineer's panel. These lights indicate the status 
+of the cargo door closed, latched and locked configurations. All three 
+conditions (i.e., door closed, latched, and locked) should be monitored 
+directly so that the door indication system cannot display either 
+``latched'' before the door is closed or ``locked'' before the door is 
+latched. The latch and lock sensors are wired in parallel and are tied 
+to a single indicator light. This design can illuminate the ``locked 
+light'' on the control panel of the main deck cargo door even if the 
+latches are latched but not locked. If a sequencing error causes the 
+door to latch and lock without being fully closed, the subject 
+indication system, as designed, may not alert the door operator or the 
+flight engineer of this condition. As a result, the airplane could be 
+dispatched with the main deck cargo door unsecured, which could lead to 
+the cargo door opening while the airplane is in flight and possible 
+loss of the airplane.
+    The light on the flight engineer's panel is labeled ``DOOR CARGO'' 
+and is displayed in red since it indicates an event that requires 
+immediate pilot action. However, if the flight engineer is temporarily 
+away from his station, a door unsafe warning indication could be missed 
+by the pilots. In addition, the flight engineer could miss such an 
+indication by not scanning the panel. As a result, the pilots and 
+flight engineer could be unaware of, or misinterpret, an unsafe 
+condition and could fail to respond in the correct manner. Therefore, 
+an indicator light should be located in front of and in plain view of
+
+[[Page 53412]]
+
+both pilots since one of the pilot's stations is always occupied during 
+flight operations.
+    Based on the review of the electrical drawings of the door control 
+and door monitoring/annunciation systems and observations from an 
+inspection of an airplane modified in accordance with the subject STCs, 
+the FAA concludes that latent failures (i.e., failures of system 
+components that are not monitored and would go undetected) in the 
+closed, latched, and locked functions may occur and lead to the main 
+deck cargo door opening during flight of the airplane.
+    The FAA has determined that the main deck cargo door indication 
+system of STCs SA1368SO and SA1797SO also does not meet the improbable 
+level of reliability regarding false indication that is considered 
+adequate for safe operation. Many components are exposed to the 
+environment during cargo loading operations and may be contaminated by 
+precipitation, dirt, and grease, or damaged by foreign objects or cargo 
+loading equipment. As a result, wires, switches, and relays can fail, 
+jam, or short circuit and cause a loss of indication or a false 
+indication to the door operator and flight crew. The design logic of 
+the indication system (i.e., lights which extinguish when the door is 
+locked) could, in the event of latent failures that would extinguish 
+the light, result in an erroneous ``safe'' indication regardless of 
+actual door status.
+    STCs SA1368SO and SA1797SO lack a safety analysis of the main deck 
+cargo door systems. As a result, even though the light at the door 
+operator's control panel and the light at the flight engineer's panel 
+annunciate the status of closed, latched, and locked, a safety analysis 
+must be developed to show whether the design of the wiring of the main 
+deck cargo door monitoring system meets all FAA requirements.
+2. Means To Visually Inspect the Locking Mechanism
+    The two view ports installed in accordance with STCs SA1797SO and 
+SA1368SO are located externally on the door for the purpose of viewing 
+locking pins at the No. 2 and No. 7 latch positions of the main deck 
+cargo door. These view ports are intended to allow the flight crew to 
+conduct a visual inspection of the cargo door locking mechanism to 
+determine whether the cargo door is closed, latched, and locked. The 
+view ports are used in conjunction with the door warning system and is 
+intended to provide a suitable back-up in the event that the main deck 
+cargo door warning system malfunctions.
+    However, because of the location of these view ports on the main 
+deck cargo door, a visual inspection may not result in the detection of 
+certain failures (e.g., bending or shearing of locking pins), and 
+consequently the airplane could be dispatched with the main deck cargo 
+door unsecured. Therefore, the FAA finds that these view ports are not 
+a suitable back-up when the cargo door warning system malfunctions.
+    As discussed in the ATA Final Report and the FAA Memorandum, there 
+must be a means of directly inspecting each lock or, at a minimum, the 
+locks at each end of the lock shaft of certain designs, such that a 
+failure condition in the lock shaft would be detectable.
+3. Means To Prevent Pressurization to an Unsafe Level
+    Boeing 727-200 airplanes modified to install a cargo door in 
+accordance with STC SA1797SO are configured to utilize a mechanical 
+vent door for the purpose of preventing pressurization of the airplane 
+to an unsafe level in the event the main deck cargo door is not closed, 
+latched, and locked. However, Boeing 727-100 airplanes that have been 
+modified in accordance with STC SA1368SO do not have a vent door design 
+to prevent pressurization as part of the STC.
+    The results of an FAA inspection of the vent door linkage revealed 
+that the linkage design could exhibit single failures that could cause 
+the vent door to malfunction. A complete safety analysis of the vent 
+door mechanical design is necessary to identify and correct all such 
+malfunctions. No single failure of the mechanisms can defeat the 
+intended function of the vent door system.
+4. Powered Lock Systems
+    The main deck cargo door control system for STCs SA1368SO and 
+SA1797SO that utilizes electrical interlock switches is designed to 
+remove door control power (electrical and hydraulic) prior to flight 
+and to prevent inadvertent door openings. Failure modes have been found 
+in the electrical portion of the door control panel, which, in turn, 
+activates the door control hydraulics. The potential for the occurrence 
+of these failure conditions is increased by the harsh operating 
+environment of freighter airplanes. Door system components are 
+routinely exposed to precipitation, dirt, grease, and foreign object 
+intrusion, all of which increase the likelihood of damage. As a result, 
+wires, switches, and relays have a greater potential to fail or short 
+circuit in such a way as to allow the cargo door to be powered open 
+without an operator's command and regardless of electrical interlock 
+positions.
+    A systems safety analysis would normally evaluate and resolve the 
+potential for these types of unsafe conditions. However, the FAA has 
+reviewed the design data for STCs SA1368SO and SA1797SO. The FAA finds 
+that the powered lock systems of the main deck cargo door do not comply 
+with criteria specified in Appendix 1 of this AD and considers the 
+design of these systems to be unsafe. The need for a system safety 
+analysis is identified in the ATA Final Report and the FAA Memorandum.
+
+Cargo Barrier
+
+    In order to ensure the safety of occupants during emergency landing 
+conditions, the FAA first established in 1934, a set of inertia load 
+factors used to design the structure for restraining items of mass in 
+the fuselage. Because the airplane landing speeds have increased over 
+the years as the fleet has transitioned from propeller to jet design, 
+inertia load factors were changed as specified in CAR part 4b.260. 
+Experience has shown that an airplane designed to this regulation has a 
+reasonable probability of protecting its occupants from serious injury 
+in an emergency landing. The 727 passenger airplane was designed to 
+these criteria which specified an ultimate inertia load requirement of 
+9g in the forward direction. These criteria were applied to the seats 
+and structure restraining the occupants, including the flight crew, as 
+well as other items of mass in the fuselage.
+    When the 727 passenger airplane is converted to carry cargo on the 
+main deck, a cargo barrier is required, since most cargo containers and 
+the container-to-floor attaching devices are not designed to withstand 
+emergency landing loads. In fact, the FAA estimates that the container-
+to-floor attaching devices will only support approximately 1.5g's to 
+3g's in the forward direction. Without a 9g cargo barrier, it is 
+probable that the loads associated with an emergency landing would 
+cause the cargo to be unrestrained and impact the occupants of the 
+airplane, which could result in serious injury or death.
+    The structural inadequacy of the cargo barrier was evident to the 
+FAA during its review in October 1997 of a Boeing 727 modified in 
+accordance with STC SA1798SO. The observations revealed that the design 
+of the cargo barrier floor attachment and circumferential supporting 
+structure does not provide
+
+[[Page 53413]]
+
+adequate strength to withstand the 9g forward inertia load generated by 
+the main deck cargo mass, nor does it provide a load path to 
+effectively transfer the loads from the cargo barrier to the fuselage 
+structure of the airplane. These observations are supported by data 
+contained in ``ER 2785, Structural Substantiation of the 50k 9g 
+Bulkhead Restraint System in Support of STC SA1543SO PN 53-1292-401 for 
+the 9g Bulkhead 53-1980-300 Assembly with Upper Attachment Structure, 
+Lower Attachment Structure, Floor Shear Web Structure, Seat Track 
+Splice Fittings, Seat Tracks, and Seat Track Splices,'' dated September 
+29, 1996, by M. F. Daniel. Although this report was specific to STC 
+SA1543SO, the FAA has determined that the data are applicable to 
+airplanes modified in accordance with STC SA1798SO because the design 
+principles for attachment of the barriers in both STCs are the same. 
+The report reveals that structural deficiencies were found in the net 
+attach plates and floor attachment structure of the cargo barrier. The 
+data show large negative margins of safety, which indicate that the 
+inertia load capability of the cargo barrier is closer to 2g than the 
+required 9g in the forward direction. From these analyses, it is 
+evident that the cargo barrier would not be capable of preventing 
+serious injury to the occupants during an emergency landing event with 
+the full allowable cargo load.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+    The FAA has received comments in response to the four NPRM actions 
+(i.e., Rules Dockets 97-NM-232-AD, 97-NM-233-AD, 97-NM-234-AD, and 97-
+NM-235-AD) that address the same subjects described above for four 
+different sets of cargo modification STCs. Some of these comments 
+addressed only one NPRM, while others addressed all four. Because in 
+most cases the issues raised by the commenters are generally relevant 
+to all four NPRMs, each final rule includes a discussion of all 
+comments received.
+
+Definition of Detailed Visual Inspection
+
+    One commenter provided Boeing's definition of a detailed visual 
+inspection. The commenter requests that the FAA approve Boeing's 
+definition as meeting the ``detailed visual inspection'' definition 
+specified in Note 2 of the NPRM. The commenter states that it has 
+incorporated Boeing's definition into its General Maintenance Manual 
+(GMM), and that it is performing the detailed visual inspection of the 
+main deck cargo door hinge in accordance with the GMM. The commenter 
+also states that acceptance of the existing Boeing's definition will 
+allow for work standardization and consistency.
+    The FAA partially concurs. The FAA concurs that, for the purpose of 
+this AD, the definition provided by the commenter satisfies the intent 
+of the definition contained in Note 2 of this AD. The detailed 
+inspection definition specified in Note 2 of this AD is a standard 
+definition that is used in all ADs that require a detailed inspection. 
+Therefore, the FAA finds that no change to Note 2 of the final rule is 
+necessary. However, for clarification purposes, the FAA has revised all 
+references to a ``detailed visual inspection'' in the NPRM to 
+``detailed inspection'' in the final rule.
+
+Main Deck Cargo Door Hinge
+
+    Two commenters request that the compliance time for accomplishing 
+the detailed visual inspection required by paragraph (a) of the NPRM be 
+revised. One commenter states that the compliance time should include a 
+threshold of ``prior to the accumulation of five years since 
+accomplishment of the original conversion.'' The commenter states that 
+operators of newly modified airplanes should not have to accomplish the 
+detailed visual inspection required by paragraph (a) of the NPRM 
+because it would be unlikely that brand new hinges would develop cracks 
+within 250 flight cycles after being installed. The other commenter 
+states that the compliance time should be revised to ``at the next 
+scheduled `B' check, or 350 cycles after the effective date of the 
+NPRM, whichever occurs first.'' The commenter states that such an 
+extension would allow the inspection to be accomplished during a 
+regularly scheduled ``B'' check and would not be disruptive of normal 
+maintenance inspection scheduling.
+    The FAA partially concurs. The FAA does not concur that the 
+compliance time should be extended from 250 flight cycles to 350 flight 
+cycles. In developing an appropriate compliance time for the detailed 
+inspection required by paragraph (a) of this AD, the FAA considered the 
+degree of urgency associated with addressing the subject unsafe 
+condition; the results from an FAA report, ``Damage Tolerance Analysis 
+of 727 Cargo Door Hinge,'' dated October 10, 1997; and the practical 
+aspect of accomplishing the required inspection within an interval of 
+time that parallels the typical ``A'' check scheduled maintenance 
+interval for the majority of affected operators.
+    However, the FAA concurs with the commenter about the unlikelihood 
+of a newly modified airplane developing cracks within 250 flight cycles 
+since installation. Based on the referenced FAA damage tolerance 
+report, the FAA finds that it is unlikely that a significant crack 
+would occur in the hinge within 4,000 flight cycles since installation. 
+Therefore, the FAA finds that operators must accomplish the detailed 
+inspection ``prior to accumulation of 4,000 flight cycles since 
+accomplishment of the installation of the main deck cargo door, or 
+within 250 flight cycles after the effective date of this AD, whichever 
+occurs later.'' The FAA has revised paragraph (a) of the final rule 
+accordingly.
+    One commenter requests that a high frequency eddy current (HFEC) 
+inspection be required in paragraph (a) of the NPRM in lieu of the 
+detailed visual inspection. The commenter states that an HFEC 
+inspection should be used because there are no proposed repetitive 
+inspections and a detailed visual inspection can only detect limited 
+crack size.
+    The FAA does not concur. The FAA finds that accomplishment of the 
+detailed inspection required by paragraph (a) of this AD, in 
+conjunction with the detailed inspection required by paragraph (b)(1) 
+of this AD and the modification required by paragraph (b)(2) of this 
+AD, will ensure the integrity of the door and fuselage structure to 
+which the hinge is attached. Therefore, no change to the final rule is 
+necessary in this regard.
+    Two commenters request that the FAA revise paragraph (a) of the 
+NPRM to specify that operators will be given ``credit'' for having 
+previously accomplished the proposed detailed visual inspection of the 
+main deck cargo door hinge in accordance with a method approved by the 
+appropriate Aircraft Certification Office (ACO) prior to the effective 
+date of the final rule. One commenter states that operators who 
+accomplished the subject inspection before the effective date of this 
+AD should not be penalized by being forced to reinspect after the 
+effective date of this AD.
+    The FAA does not consider that a change to the final rule is 
+necessary to give operators such credit. Operators are given credit for 
+work previously performed by means of the phrase in the ``Compliance'' 
+section of the AD that states, ``Required as indicated, unless 
+accomplished previously.'' Therefore, in the case of this AD, if the 
+required detailed inspection has been
+
+[[Page 53414]]
+
+accomplished prior to the effective date of this AD in accordance with 
+a method approved by the FAA, this AD does not require that it be 
+repeated.
+    One commenter requests that the detailed visual inspection required 
+by paragraph (b)(1) of the NPRM be accomplished at the next ``C'' check 
+after five years have elapsed since the airplane was converted from a 
+passenger- to a cargo-carrying (``freighter'') configuration. The 
+commenter also states that a ``C'' check would allow operators to 
+accomplish the inspection during a heavy maintenance visit.
+    The FAA does not concur. The FAA finds that accomplishment of the 
+detailed inspection required by paragraph (b)(1) of this AD prior to or 
+concurrently with requirements of paragraph (b)(2) of this AD (i.e., 
+installation of a main deck cargo door hinge) will ensure the 
+structural integrity of mating surfaces of the hinge. However, 
+paragraph (g) of this AD does provide affected operators the 
+opportunity to apply for an adjustment of the compliance time if data 
+are presented to justify such an adjustment.
+    One commenter requests that the detailed visual inspection required 
+by paragraph (b)(1) of the NPRM apply only to airplanes that have been 
+in service for five or more years since installation of the cargo door, 
+because the likelihood of damage increases with time in service. The 
+commenter states that the compliance time specified in paragraph (b) of 
+the NPRM should start from the date that the modification was installed 
+on the airplane.
+    The FAA does not concur. The FAA finds that the potential for 
+cracks in the hinge is primarily related to flight cycles (i.e., number 
+of fuselage pressure cycles) and, to a lesser extent, calendar time. 
+Therefore, the FAA has determined that the compliance time specified in 
+paragraph (b) of this AD should be related to flight cycles, not 
+calendar time. No change to the final rule is necessary is this regard.
+    One commenter requests that the NPRM, Rules Docket 97-NM-234-AD, be 
+revised to reference Kitty Hawk Service Bulletin KHA 727-004, Revision 
+A, as an appropriate source of service information for accomplishing 
+the detailed visual inspection required by paragraphs (a) and (b)(1) of 
+the NPRM and the modification required by paragraph (b)(2) of that 
+NPRM. The commenter states that this service bulletin has been 
+submitted to the FAA for approval and should be approved by the FAA 
+prior to the issuance of the NPRM.
+    Another commenter states that it has developed and submitted to the 
+FAA for approval a modification that segments the hinge on existing 
+cargo converted airplanes and installs a segmented hinge on the new 
+conversion. From this comment, the FAA infers that the commenter is 
+requesting that the NPRM, Rules Docket 97-NM-233-AD, be revised to 
+reference this modification as a terminating action for the 
+requirements of paragraphs (b) and (c) of that NPRM.
+    The FAA concurs with the commenters' requests to reference service 
+bulletins that constitute compliance with the requirements of 
+paragraphs (b) and (c) of ADs, Rules Dockets 97-NM-233-AD and 97-NM-
+234-AD. The FAA has reviewed and approved Kitty Hawk Service Bulletin 
+KHA 727-004, Revision B, dated March 3, 1999, as opposed to the 
+Revision A mentioned by one of the commenters. The FAA also has 
+reviewed and approved Aeronautical Engineers Incorporated (AEI) Service 
+Bulletin AEI01-01, Revision B, dated October 26, 2001. These service 
+bulletins describe the following procedures:
+    1. Visual inspection of all areas of the hinge for cracks or other 
+signs of damage;
+    2. Inspection of the mating surfaces of the main deck cargo door 
+hinge and the external doubler for discrepancies (i.e., scratches, 
+gouges, or corrosion);
+    3. Repair of any crack, damage, or discrepancy, if necessary; and
+    4. Installation of a main deck cargo door hinge that complies with 
+the applicable requirements of CAR part 4b, including fail-safe 
+requirements.
+    In addition, the FAA has reviewed and approved Federal Express E.O. 
+Revision Record 7-5230-7-5000, Revision B, release date December 18, 
+2001, and Pemco Service Bulletin 727-53-0006, Revision 1, dated 
+December 4, 2001. The procedures in these service bulletins are similar 
+to those described in AEI Service Bulletin AEI01-01, Revision B, and 
+Kitty Hawk Service Bulletin KHA 727-004, Revision B.
+    The FAA finds that accomplishment of the actions specified in the 
+four service bulletins described previously constitutes compliance with 
+the requirements of paragraphs (b) and (c) of final rules, Rules 
+Dockets 97-NM-232-AD, 97-NM-233-AD, 97-NM-234-AD, and 97-NM-235-AD; as 
+applicable. Therefore, the FAA has revised those final rules to include 
+a new note that references the subject service bulletins as a source of 
+service information for accomplishing the actions required by 
+paragraphs (b) and (c) of those final rules; as applicable.
+    One commenter requests that a subparagraph be added to paragraph 
+(b) of the NPRM to require that the detailed visual inspection required 
+by paragraph (b)(1) of the NPRM be accomplished just prior to final 
+hinge installation during the process of converting an airplane from a 
+passenger- to cargo-carrying (``freighter'') configuration. The 
+commenter states that this revision would eliminate its concerns about 
+the installation defects that could cause future problems.
+    The FAA does not concur. The FAA finds that any FAA-approved 
+corrective action that satisfies the requirements of paragraph (b)(2) 
+of this AD will also address the installation of a hinge during the 
+process of converting a Boeing Model 727 series airplane from a 
+passenger- to a cargo-carrying (``freighter'') configuration. Normally, 
+good manufacturing procedures during production should preclude the 
+necessity for the inspection. No change to the final rule is necessary 
+in this regard.
+    One commenter notes that paragraph (b)(2) of the NPRM references 
+CAR part 4b. The commenter asks, ``If the FAA, as evidenced by the 
+awarding of an STC, certified the cargo door hinge, how can the current 
+hinge not meet CAR requirements?'' The commenter also asks, ``Wasn't 
+the original STC determined to be in compliance with those 
+requirements? If so, what specifically needs to be done to eliminate 
+the FAA safety concerns about hinges that do not appear to have a 
+problem?'' The commenter suggests that paragraph (b)(2) of the NPRM be 
+revised to require STC holders to design and make available an 
+acceptable replacement hinge. The commenter states that this suggestion 
+should be a condition for STC holders to continue to hold their STC 
+approval.
+    From the commenter's questions, the FAA infers that the commenter 
+believes a main deck cargo door hinge with an approved STC is compliant 
+with the requirements of CAR part 4b. The FAA finds that clarification 
+is necessary. Generally, there is a presumption by operators that 
+demonstrations of compliance with the requirements of CAR part 4b is a 
+prerequisite for granting an STC. However, the applicant for any design 
+approval is responsible for compliance with all applicable FAA 
+regulations. The FAA has the discretion to review or otherwise evaluate 
+the applicant's compliance to the degree the FAA considers appropriate 
+in the interest of safety. The normal certification process allows for 
+the review and approval of data by FAA designees. Consequently, the FAA 
+office
+
+[[Page 53415]]
+
+responsible for the certification of an airplane or modification to an 
+airplane or an aeronautical appliance may not review all details 
+regarding compliance with the appropriate regulations. As explained in 
+the NPRM, the FAA has conducted design reviews and airplane inspections 
+and has identified a potential unsafe condition that relates to the 
+main deck cargo door hinge.
+    In addition, the FAA does not concur with the commenter's request 
+to revise paragraph (b)(2) of the AD to require STC holders to design 
+and make available an acceptable replacement hinge. The FAA finds that 
+such a requirement is unnecessary, because as previously discussed, the 
+FAA has revised this final rule to include a new note that references 
+the applicable STC holder's service bulletin as a source of service 
+information for accomplishing the actions required by paragraphs (b) 
+and (c) of this final rule.
+
+Main Deck Cargo Door Systems
+
+    One commenter requests that the compliance time for accomplishing 
+the Airplane Flight Manual (AFM) revisions required by paragraph (d) of 
+the NPRM be revised from ``within 60 days after the effective date of 
+this AD'' to ``within 60 days after submission of the procedures to the 
+FAA.'' The commenter states that operators should be able to design 
+revisions to the AFM within the proposed 60 days. However, the 
+commenter believes that the Atlanta ACO will not be able to approve 
+every one of those AFM Supplements within that time period.
+    The FAA does not concur. Since the release of the NPRM, some of the 
+affected STC holders and operators have already developed AFM 
+procedures acceptable to the FAA. The FAA finds that a 60-day 
+compliance time is sufficient to allow the remaining operators and STC 
+holders to develop revisions to the applicable AFMs and their 
+supplements and for the Atlanta ACO to review and approve those AFM 
+revisions.
+    One commenter submitted procedures for accomplishing the 
+requirements of paragraph (d) of NPRM, Rules Docket 97NM-232AD. The 
+commenter requests that the FAA approve those procedures prior to 
+issuance of the final rule and include those procedures in the final 
+rule. The commenter states that it has completed a Safety Assessment 
+Report for each of the door configurations currently operating in its 
+fleet. The commenter believes the results of the report demonstrate 
+that it is ``extremely improbable'' that the door will inadvertently 
+open in flight for any reason. Although the analysis does not 
+demonstrate compliance with the ``extremely improbable'' standard, the 
+commenter states that for a limited time of 36 months the door system, 
+as installed, provides a sufficient level of safety to be considered 
+acceptable with no modification or change in operational procedures.
+    The FAA partially concurs. In order to gain a better understanding 
+of the referenced Safety Assessment Report, the FAA had a telecon with 
+the commenter on February 19, 2000, to discuss a series of questions, 
+which were provided to the commenter prior to the telecon, about the 
+report. (The minutes of this telecon are included in Rules Docket 97NM-
+232AD.) In addition to the information that it provided at the telecon, 
+the commenter also provided an analysis of the Safety Assessment Report 
+in a letter, dated February 16, 2000, and a revised table of the Safety 
+Assessment Report in a letter, dated March 6, 2000. The analysis in 
+these letters provided, for a variety of failure modes, the probability 
+of the main deck cargo door not being in the closed, latched, and 
+locked condition prior to dispatch. The analysis showed that the 
+warning systems of the main deck cargo door and the means to prevent 
+pressurization if the door is not closed, latched, and locked, only 
+meet some of the requirements of CAR Sec. 4b.606 and criteria specified 
+in FAA memorandum, dated March 20, 1992 (referenced in the preamble of 
+the NPRM). The commenter also provided Revision 16 of its Boeing B-727 
+Flight Manual, which further clarifies a change in the procedures for 
+verifying that the main deck cargo door is closed, latched, and locked.
+    In light of the clarification provided by the commenter, the FAA 
+concurs that the procedures submitted by the commenter provide an 
+adequate level of safety until the requirements of paragraph (e) of 
+this AD have been accomplished, considering the level of probability of 
+occurrence of certain failures of the warning systems of the main deck 
+cargo door and strict adherence to the door checking procedures and 
+associated training requirements. Since issuance of the NPRM, the FAA 
+has reviewed and approved Federal Express Service Bulletin FX727-2001-
+5230-01, dated July 30, 2001, which describes procedures for ensuring 
+that the main deck cargo door is closed, latched, and locked prior to 
+dispatch. Accomplishment of these actions constitutes compliance with 
+the requirements of paragraph (d) of final rule, Rules Docket 97-NM-
+232-AD. Therefore, the FAA has revised the final rule, Rules Docket 97-
+NM-232-AD, to include a new note that references the subject service 
+bulletin as a source of service information for accomplishing the 
+actions required by paragraph (d) of that final rule.
+    One commenter provided procedures for accomplishing the 
+requirements of paragraph (d) of NPRM, Rules Docket 97-NM-233-AD, on 
+airplanes modified in accordance with STC SA1368SO, on which a vent 
+door has not been installed, and on airplanes modified in accordance 
+with STC SA1797SO, on which a vent door has been installed. The 
+commenter states that its procedures will ensure that the main deck 
+cargo door is properly closed, latched, and locked prior to flight.
+    From this comment, the FAA infers that the commenter is requesting 
+that the FAA approve its procedures as an acceptable means of 
+compliance to the requirements of paragraph (d) of the final rule, 
+Rules Docket 97-NM-233-AD. The FAA does not concur. The FAA finds that 
+any proposed operating procedure must have sufficient validation and 
+verification that the procedures are realistic and designed to minimize 
+possible human error. The procedure also must provide for adequate 
+checks and balances in the event the procedure is not strictly 
+followed. In addition, the commenter did not provide any validation of 
+the operating procedure or results of a safety analysis. However, the 
+FAA may approve requests for an alternative method of compliance (AMOC) 
+under the provisions of paragraph (g) of AD, Rules Docket 97-NM-233-AD, 
+if sufficient data are submitted to substantiate that such a operating 
+procedure would provide an acceptable level of safety.
+    One commenter provided procedures for accomplishing the 
+requirements of paragraph (d) of NPRM, Rules Docket 97-NM-234-AD. In 
+support of its procedures, the commenter states, among other items, 
+that an internal direct visual inspection of the latching and locking 
+system is not possible on Model 727 series airplanes affected by that 
+NPRM because the latching and locking systems are covered by a 
+protective guard/cover that prevents direct viewing of these systems. 
+Removing these covers would expose the latching and locking systems to 
+possible foreign object damage (FOD) or damage from shifting freight. 
+The commenter states that this condition is far more dangerous than a 
+failure of the latching and locking systems. The commenter also states 
+that most of the affected airplanes are equipped with flip up sill 
+protectors, which further block
+
+[[Page 53416]]
+
+the visibility of the bottom of the cargo door area (latch and lock 
+area). The commenter concludes that a visual inspection of the latching 
+and locking mechanisms is not appropriate for the airplane type and 
+would create severe operational disruption with no benefit.
+    The FAA concurs with the commenter's conclusion that a visual 
+inspection of the latching and locking mechanisms is not appropriate 
+for accomplishing the requirements of paragraph (d) of final rule, 
+Rules Docket 97-NM-234-AD. The FAA notes that paragraph (d) of that 
+final rule does not specifically require a visual inspection of the 
+locking mechanisms of the main deck cargo door after the door is 
+closed, as suggested by the commenter. Since issuance of the NPRM, the 
+FAA has reviewed and approved Kitty Hawk Service Bulletin KHA 727-008, 
+dated January 7, 2000, which describes procedures for ensuring that the 
+main deck cargo door is closed, latched, and locked prior to dispatch. 
+These procedures are identical to those procedures provided by the 
+commenter. Accomplishment of these actions constitutes compliance with 
+the requirements of paragraph (d) of final rule, Rules Docket 97-NM-
+234-AD. Therefore, the FAA has revised final rule, Rules Docket 97-NM-
+234-AD, to include a new note to reference the subject service bulletin 
+as a source of service information for accomplishing the actions 
+required by paragraph (d) of that final rule.
+    One commenter states that the requirements for ``a means to prevent 
+pressurization to an unsafe level'' and ``direct visual examination of 
+all locks'' are not included in the certification basis of Model 727 
+series airplanes and should not be required for the interim action.
+    From this comment, the FAA infers that the commenter is referring 
+to the interim actions required by paragraph (d) of the NPRM and to 
+extracts from Appendix 1 of this AD, which sets forth the industry-
+accepted criteria to which the outward opening doors must be shown to 
+comply per paragraph (e) of the NPRM. The FAA does not concur. The 
+commenter has misinterpreted the requirements of paragraph (d) of this 
+AD. Paragraph (d) of this AD requires procedures to ensure that all 
+power is removed from the main deck cargo door prior to dispatch and to 
+ensure that the main deck cargo door is closed, latched, and locked 
+prior to dispatch of the airplane. This paragraph does not specify or 
+limit what means or actions would be acceptable to the FAA. Operators 
+could submit a means to prevent pressurization to an unsafe level and 
+direct visual inspection of the locks as possible ways to ensure that 
+the main deck cargo door is secure, in accordance with paragraph (d) of 
+this AD. In addition, to comply with paragraph (e) of this AD, the 
+criteria specified in Appendix 1 of this AD must be applied, 
+irrespective of the certification basis of the airplane. Therefore, no 
+change to the final rule is necessary in this regard.
+    One commenter requests that the proposed compliance time specified 
+in paragraph (e) of the NPRM be revised from ``within 36 months after 
+the effective date of this AD'' to ``at the next `C' check after the 
+modifications are approved by the Manager, Atlanta ACO.'' The commenter 
+states that such a compliance time would make everybody (i.e., 
+designer, operator, and FAA) share responsibility for time delays 
+encountered during the modification design and approval process.
+    The FAA does not concur. Since issuance of the NPRM, the FAA has 
+reviewed and approved two modifications (i.e., National Aircraft 
+Service, Inc. (NASI) STC ST01438CH and Pemco STC ST01270CH) as 
+acceptable means for compliance with the requirements of paragraph (e) 
+of final rules, Rules Dockets 97-NM-232-AD and 97-NM-235-AD; as 
+applicable. Therefore, the FAA has revised the final rules, Rules 
+Dockets 97-NM-232-AD and 97-NM-235-AD, to include a new note to 
+reference the applicable STC as a source of service information for 
+accomplishing the requirements of paragraph (e) of those final rules. 
+The FAA finds that a 36-month compliance time for accomplishing the 
+action specified in paragraph (e) of those final rules is not only 
+sufficient for the design of the corrective actions, but also provides 
+adequate time for operators to schedule the installation within an 
+interval of time that parallels a heavy maintenance visit. However, 
+under the provisions of paragraph (g) of final rules, Rules Dockets 97-
+NM-232-AD and 97-NM-235-AD, the FAA may approve requests for an 
+adjustment of compliance times if data are submitted to substantiate 
+that such an adjustment would provide an acceptable level of safety.
+
+Main Deck Cargo Barrier
+
+    One commenter requests that, before issuance of the final rule, 
+industry and the FAA form a review team to find a way of lowering the 
+costs associated with accomplishing the proposed installation of a 9g 
+crash barrier. The commenter suggests that lower costs could be 
+achieved by fixing the existing barrier (e.g., the loads could be 
+spread by the addition of structural reinforcement attachment angles) 
+or designing a new barrier. The commenter states that the Ventura 
+Aerospace, Inc., cargo barrier STC ST00848LA, which is an approved 
+means of compliance with the requirements of paragraph (f) of NPRMs, 
+Rules Dockets 97-NM-233-AD, 97-NM-234-AD, and 97-NM-235-AD, is an 
+adequate barrier; however, the parts and installation cost estimates 
+for the installation in those NPRMs are too low. The commenter gave 
+examples of various actions and associated work hours that would be 
+necessary to accomplish the proposed installation of the Ventura 9g 
+crash barrier.
+    The FAA does not concur with the commenter that a review team is 
+necessary, and that the cost estimates of NPRMs, Rules Dockets 97-NM-
+233-AD, 97-NM-234-AD, and 97-NM-235-AD, for accomplishing the 
+installation of a main deck cargo barrier are too low. The FAA 
+acknowledges that installation of a Ventura Aerospace, Inc., cargo 
+barrier STC ST00848LA is an approved means of compliance with the 
+requirements of paragraph (f) of final rules, Rules Dockets 97-NM-233-
+AD, 97-NM-234-AD, and 97-NM-235-AD. However, the cost estimates in the 
+subject NPRMs were not specifically for installation of the subject 
+Ventura 9g crash barrier, but were for installation of a 9g crash 
+barrier that complies with the applicable requirements of CAR part 4b. 
+The installation cost estimate of the NPRMs was provided to the FAA by 
+Pemco based on the best data available to date.
+    The FAA recognizes that, in accomplishing the requirements of any 
+AD, operators may incur ``incidental'' costs in addition to the 
+``direct'' costs. The cost analysis in AD rulemaking actions, however, 
+typically does not include incidental costs, such as the time required 
+to gain access and close up; planning time; or time necessitated by 
+other administrative actions. Because incidental costs may vary 
+significantly from operator to operator, they are almost impossible to 
+calculate. Furthermore, because the FAA generally attempts to impose 
+compliance times that coincide with operators' scheduled maintenance, 
+the FAA considers it inappropriate to attribute the costs associated 
+with aircraft ``downtime'' to the cost of the AD, because, normally, 
+compliance with the AD will not necessitate any additional downtime 
+beyond that of a regularly scheduled maintenance visit.
+
+Public Meeting
+
+    Several commenters request that the FAA hold a public meeting prior 
+to the issuance of the final rule in the event
+
+[[Page 53417]]
+
+that the FAA does not find their procedures acceptable for compliance 
+with the requirements of paragraph (d) of the NPRM. The commenters 
+state that such a meeting would provide a forum for productive face-to-
+face discussions similar to the process used by industry's B-727 
+Working Group.
+    The FAA does not concur. As discussed previously, the FAA has 
+accepted some of the procedures submitted by the commenters. Also, in 
+consideration of the differing configurations of the main deck cargo 
+door systems between the various affected STCs, a public meeting to 
+discuss the AD may be significantly restricted in some cases because of 
+the proprietary design and data issues. However, the FAA is available 
+to discuss any particular proposal for procedures specific to the 
+airplane configuration with each of the affected STC holders or 
+operators. Further, the FAA may approve requests for an AMOC under the 
+provisions of paragraph (g) of this AD if sufficient data are submitted 
+to substantiate that such a procedure would provide an acceptable level 
+of safety. Therefore, the FAA finds that no public meeting is 
+necessary.
+
+Issue Separate ADs
+
+    One commenter requests that the NPRM be split into separate ADs for 
+each issue--main deck cargo door hinge, main deck cargo door systems, 
+and 9g crash barrier. The commenter states that multiple actions 
+addressed by a single AD make managing the actions very unwieldy and 
+complicated.
+    The FAA does not concur. The FAA is not convinced that separate ADs 
+for each issue would resolve the complexity of this AD. The FAA has 
+determined that a less burdensome approach is to issue only one AD for 
+each STC holder that addresses the potential unsafe conditions that 
+relate to the main deck cargo door hinge, main deck cargo door systems, 
+and main deck cargo barrier. In addition, operators have already 
+initiated actions to accomplish the requirements of this AD without 
+apparent complications.
+
+ACO Approval
+
+    One commenter requests that the actions required by the NPRM that 
+must be accomplished in accordance with a method approved by the 
+Manager, Atlanta ACO, be approved by the Manager, Transport Airplane 
+Directorate. The commenter states that the affected Boeing Model 727 
+series airplanes are not small airplanes, and that the approving 
+authority should be someone in an ACO from the Transport Airplane 
+Directorate who understands structural repairs of transport category 
+airplanes.
+    The FAA does not concur. Since the subject STCs were issued by the 
+Atlanta ACO, that office has certificate responsibility for the 
+airplanes affected by this AD. The Atlanta ACO is most cognizant of the 
+design details of the subject STCs and, therefore is more able to 
+address each operator's specific issues for complying with paragraph 
+(d) of this AD. The Manager of the Atlanta ACO will coordinate the 
+review of the submittals with the Transport Airplane Directorate, which 
+has established a team consisting of members from several ACOs to 
+review all requests in accordance with paragraphs (b)(1), (b)(2), (c), 
+(d), (e), and (f) of this AD.
+
+Principal Maintenance Inspector (PMI) or Principal Operations 
+Inspector (POI) Approval
+
+    One commenter requests that the FAA allow the individual operator's 
+local PMI or POI to approve the AFM procedures for ensuring that the 
+main deck cargo door is closed, latched, and locked required by the 
+NPRM, or provide an option in the NPRM that allows the procedures to be 
+added to the airplane operator manual (AOM), if applicable. The 
+commenter states that such approval would ensure that the approval 
+process is accomplished quickly.
+    The FAA does not concur. Paragraph (d) of this AD requires 
+comprehensive engineering evaluation in consideration of the applicable 
+requirements of CAR part 4b and the criteria specified in Appendix 1 of 
+this AD. Consequently, the evaluation must be conducted by the Manager, 
+Atlanta ACO, to determine an acceptable level of safety. The PMI or POI 
+for the air carrier is normally not familiar with all the design 
+considerations provided by the requirements of CAR part 4b and Appendix 
+1 of this AD.
+
+Cost
+
+    One commenter requests that an industry/FAA team determine a less 
+costly method to fix the existing barriers to satisfy the FAA's 
+concerns. For example, the loads could be spread by the addition of 
+structural reinforcement attachment angles. The commenter states that 
+replacing the barrier is an extreme measure, and that there must be 
+some kind of structural additions that could be made to the existing 
+barrier to make it acceptable at a much lower cost.
+    The FAA partially concurs. The STC holders and operators are 
+certainly free to form an industry team to find common solutions. 
+However, the FAA's reason for participation would not be for the 
+purpose of developing a less costly design, but rather to ensure that 
+the final design is compliant with the applicable regulations.
+    One commenter requests that the FAA require STC holders to design 
+the correction for the NPRM as a warranty issue. The commenter states 
+that small operators, who do not have in-house engineering capability, 
+will be at a great disadvantage when attempting to design remedies for 
+this NPRM. The commenter also states that this NPRM places a 
+substantial financial and operational burden on ``small entities'' just 
+from the standpoint of not having a remedy already designed and 
+approved.
+    The FAA does not concur. Any warranty agreements between the 
+operator and an STC holder are not the responsibility of the FAA. The 
+burden on small entities is addressed in the Regulatory Flexibility 
+Analysis and Summary and Regulatory Sections of this AD.
+
+Descriptive Language of Preamble
+
+    One commenter states that it found the following four factual 
+inaccuracies in the NPRM, Rules Docket 97-NM-232-AD, and requests that 
+the FAA correct them.
+    1. The commenter notes that paragraph six under the heading ``Main 
+Deck Cargo Door System'' reads, ``* * * However, the FAA is aware of 
+two events in which the main deck cargo door opened during flight. 
+These events occurred on FedEx passenger/freighter conversion STC's in 
+October 1996, and March 1995.'' The commenter states that it does not 
+have any information or records indicating that the main deck cargo 
+door opened in flight in October 1996 or March 1995. In the March 1995 
+incident, the commenter contends that the door, upon landing, was found 
+to be closed and locked, and that the lock bar was found to be in the 
+unlocked position. The commenter states that it found a control valve 
+electrical connection of the main deck cargo door to be disconnected, 
+and that the door operated normally once it was reconnected.
+    2. The commenter disagrees with the sentence under the heading ``1. 
+Indication System'' in the preamble of the NPRM that reads, ``Both of 
+these lights indicate the status of the cargo door latch and lock 
+positions, but do not indicate either the door open or closed status.'' 
+The commenter states that its system does monitor and indicate the door 
+closed status. If the door closed switch is not depressed, the light 
+will stay illuminated, even if the door lock
+
+[[Page 53418]]
+
+latches have rolled and the lock bar has moved into place.
+    3. The commenter notes that paragraph two under the heading ``2. 
+Means to Visually Inspect the Locking Mechanism'' reads, ``* * * 
+Although an indicator flag attached to the lock shaft can be seen 
+through the view port when the shaft is in the `locked' position, a 
+failure between the shaft and the pins could go undetected, because 
+this flag is attached to the lock shaft and not the actual lock pins.''
+    The commenter states that the flag is attached to the lock bar on 
+Model 727-100 series airplanes. The lock plates are also bolted 
+directly to the lock bar (no linkages). Therefore, the commenter 
+contends that both the flag and lock plates become integrated parts of 
+the lock bar.
+    In addition, the commenter states that the flag is attached to a 
+lock pin on Model 727-200 series airplanes, and that the lock pin 
+linkage does not have springs or an actuator attached to it. The 
+commenter also contends that movement would have to be transmitted 
+through the lock bar. The commenter further states that the stress 
+analysis for Model 727-200 series airplanes shows high margins of 
+safety in yield, bending, and shear for the locking hinges and 
+fasteners.
+    4. The commenter notes that paragraph three under the heading ``3. 
+Means to Prevent Pressurization to an Unsafe Level'' in the preamble of 
+the NPRM reads, ``Boeing 727-100 airplanes modified in accordance with 
+the subject STC's have no means of preventing pressurization in the 
+event that the main deck cargo door is not closed, latched, and locked, 
+and therefore, have a higher risk of a cargo door opening while the 
+airplane is in flight and possible loss of the airplane.'' The 
+commenter states that the system used on Model 727-100 series airplanes 
+has a relay that drives the ground venturi system, which in turns opens 
+the outflow valve when the main deck cargo door is not closed and 
+locked, hence pressurization is not possible.
+    For item 1 above, the FAA partially agrees with the commenter. In 
+the preamble of the NPRM, the FAA incorrectly referenced October 1996 
+as a date of a door opening event. The correct date is December 9, 
+1994. The pilots' report (which is included in Rules Docket 97-NM-232-
+AD) on this event states that shortly after takeoff the warning light 
+for the main deck cargo door illuminated. Following the open in-flight 
+procedures for the main deck cargo door, the flight crew safely 
+returned the airplane to the departure airport. The post-flight 
+inspection revealed that the main deck cargo door opened approximately 
+two feet. Also, in reference to the March event where the commenter 
+states that the door did not open in flight, a verbal report (i.e., 
+``FAA Freighter Conversion STC Review Report Number 2, dated October 
+16-18, 1996,'' which is included in Rules Docket 97-NM-232-AD) from the 
+maintenance organization of the commenter's company states that the 
+main deck cargo door was unlocked, and that the door was flush with the 
+exterior of the airplane. The report on this latter event states that, 
+following departure and at 17,000 feet, the warning light of the main 
+deck cargo door came on followed by cabin altitude climbing. While it 
+is not clear to the FAA whether or not the main deck cargo door opened 
+while the airplane was in flight, the condition for possible door 
+opening (i.e., rotation of the lock bar to the unlocked position in 
+flight) did occur, which could have led to a door opening while the 
+airplane is in flight. Therefore, the FAA has revised the 
+``Background'' Section (``Main Deck Cargo Door Systems'' subsection) in 
+the preamble of final rule, Rules Docket 97-NM-232-AD, to correct the 
+date of the subject event.
+    For items 2. and 4. above, the FAA agrees with the commenter's 
+correction to items 2. and 4. above and has revised the ``Background'' 
+Section (``Indication System'' and ``Means to Prevent Pressurization to 
+an Unsafe Level'' subsections) in the preamble of final rule, Rules 
+Docket 97-NM-232-AD, accordingly. However, we find that the correction 
+to item 2. does not alleviate the unsafe design features that were 
+single point failures in the door control/outflow valve interface, 
+which could result in the valve not sensing and responding to an unsafe 
+door condition. With the current design, it is possible that the 
+outflow valve or associated controllers may not perform their intended 
+function when utilized for the purpose of preventing pressurization of 
+the airplane in the event of an unsecured door. This condition could 
+result in cabin pressurization forcing an unsecured door open while the 
+airplane is in flight and possible loss of the airplane.
+    Further, we find that the correction to item 4. does not alleviate 
+the safety concern regarding the design feature where ALL three 
+conditions (i.e., door closed, latched, and locked) are not directly 
+monitored. If a sequencing error caused the door to latch and lock 
+without being fully closed, the subject indication system, as designed, 
+would not directly alert the door operator or the flight engineer of 
+this condition. As a result, the airplane could be dispatched with an 
+unsecured main deck cargo door, which could lead to the cargo door 
+opening while the airplane is in flight and possible loss of the 
+airplane.
+    For item 3. above, the FAA does not concur that the attachment of 
+the ``flag'' to the lock bar on Model 727-100 series airplanes is 
+sufficient to indicate the position of the lock pins, even though the 
+lock pins are bolted to the lock bar. The FAA has determined that any 
+failure condition of a lock pin would not be detected when observing 
+the position of the flag through the view port.
+
+Explanation of Change to Unsafe Condition
+
+    To more accurately reflect the identified unsafe condition of this 
+AD, the FAA has revised the final rule where applicable to read, ``to 
+prevent structural failure of the main deck cargo door hinge or failure 
+of the cargo door system, which could result in the loss or opening of 
+the cargo door while the airplane is in flight and consequent rapid 
+decompression of the airplane, including possible loss of flight 
+control or severe structural damage; and to prevent failure of the main 
+deck cargo barrier during an emergency landing, which could injure 
+occupants.''
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Regulatory Evaluation Summary
+
+    This analysis estimates the costs of AD, Rules Docket 97-NM-233-AD, 
+which requires installation of a fail-safe hinge; redesigned warning 
+and power control systems of the main deck cargo door; and a 9g crash 
+barrier on Boeing Model 727 series airplanes that have been modified in 
+accordance with certain STCs held by AEI. As discussed above, the FAA 
+has determined that:
+    1. The main deck cargo door hinge is not fail-safe;
+    2. Certain control systems of the main deck cargo door do not 
+provide an adequate level of safety; and
+    3. The 9g crash barrier is not structurally adequate during a minor 
+crash landing.
+    It is estimated that 78 U.S.-registered Boeing Model 727 series 
+airplanes will
+
+[[Page 53419]]
+
+be affected by this AD. The following discussion addresses, in 
+sequence, the actions in this rulemaking and the estimated cost 
+associated with each of these actions. An analysis of the costs is also 
+available in Rules Docket 97-NM-233-AD.
+
+1. Main Deck Cargo Door Hinge
+
+    Since unsafe conditions have been identified that are likely to 
+exist or develop on other modified Boeing Model 727 series airplanes, 
+paragraph (a) of this AD requires, prior to the accumulation of 4,000 
+flight cycles since accomplishment of the installation of the main deck 
+cargo door, or within 250 flight cycles after the effective date of 
+this AD, whichever occurs later, a detailed inspection of the external 
+surface of the main deck cargo door hinge to detect cracks. AEI 
+estimates that this inspection will take 2 work hours per airplane. At 
+a mechanic's burdened labor rate of $60 per work hour, the cost per 
+airplane will be $120 or $9,360 for the 78 affected Boeing Model 727 
+series airplanes.
+    Paragraph (b)(1) of this AD requires, within 36 months or 4,000 
+cycles after the effective date of the AD, whichever occurs first, a 
+detailed inspection of the mating surfaces of both the hinge and the 
+door skin, and the hinge and the external fuselage doubler underlying 
+the hinge. The FAA estimates that compliance with this inspection will 
+take 200 work hours per airplane, and that the average labor rate is 
+$60 per work hour. The estimated cost per airplane will be $12,000, or 
+$936,000 for the affected fleet of 78 Boeing Model 727 series 
+airplanes.
+    Paragraph (b)(2) of the AD requires the installation of a fail-safe 
+door hinge. The compliance time for this installation is also within 36 
+months or 4,000 cycles after the effective date of this AD, whichever 
+occurs first. AEI estimates that the cost to design and certificate 
+such a hinge will be $25,000, and that the modification work for the 
+hinge will take 50 hours of work per airplane. The modification will 
+include the cutting of the existing hinge into an acceptable number of 
+sections, so that it results in a fail-safe door hinge. Total 
+compliance cost for this provision for the affected fleet of 78 
+airplanes is estimated to be $259,000.
+    Paragraph (c) of the AD requires that, if any crack or discrepancy 
+is detected during the inspection required by paragraph (a) or (b)(1) 
+of the AD, a repair must be made prior to further flight. The cost of 
+this repair is not attributable to this AD.
+    For purposes of analysis, the FAA assumes an effective date of some 
+time in the fourth quarter of 2002. The FAA also assumes that the 
+installation of the main deck cargo door hinge (paragraph (b)(2) of 
+this AD) will be accomplished at the same time as the detailed 
+inspection of fastener holes (paragraph (b)(1) of this AD). The FAA 
+also assumes that the affected carriers will perform these two 
+activities uniformly throughout the 36-month compliance time. Finally, 
+the certification cost for the main deck cargo door hinge is expected 
+to be incurred within the first 6 months after the effective date of 
+the AD. Consequently, the cost to comply with paragraphs (a) through 
+(c) of this AD is estimated to be $1.2 million, in undiscounted values, 
+or $1.1 million, discounted to present value (at 7 percent).
+
+2. Main Deck Cargo Door Systems
+
+    Work on the main deck cargo door systems relates to paragraphs (d) 
+and (e) of the AD. Paragraph (d) of this AD requires, within 60 days 
+after the effective date of this AD, revising the Limitations Section 
+of the FAA-approved AFM Supplement to provide the flight crew with 
+procedures to ensure that all power is removed from the main deck cargo 
+door prior to dispatch of the airplane, and that the main deck cargo 
+door is closed, latched, and locked prior to dispatch of the airplane. 
+These procedures are expected to include an inspection (until the 
+incorporation of the redesigned main deck cargo door systems), 
+described in the next paragraph. In addition, paragraph (d) of the AD 
+requires the installation of any associated placards.
+    The FAA assumes that Boeing Model 727 series airplanes, converted 
+under an AEI STC, will have an acceptable pressurization vent door 
+installed, which operators could use to visually determine whether the 
+vent is in the proper position prior to dispatch, indicating that the 
+door is closed, latched, and locked. The FAA estimates that this 
+activity will take no more than 30 minutes. Assuming that each affected 
+airplane flies one flight per day and 260 days per year, the cost per 
+inspection is estimated to be $30 (for 30 minutes), or $7,800 per 
+airplane per year, until the door system is changed. This results in a 
+total cost of $1,825,200 undiscounted, for the affected fleet, over 36 
+months.
+    Paragraph (e) of the AD requires, within 36 months after the 
+effective date of the AD, incorporation of redesigned main deck cargo 
+door systems. The FAA estimates that the development and certification 
+of the system will cost $25,000. Modification parts will cost $5,000 
+per airplane, and that labor costs will be $6,000 per airplane for 100 
+hours of work. The FAA assumes that the operators will incorporate 
+redesigned main deck cargo door systems during regularly scheduled 
+maintenance. The total costs of installing redesigned main deck cargo 
+door systems, including certification, parts, and labor are estimated 
+to be $883,000 for the affected fleet over the 36-month compliance 
+time.
+    The total estimated cost to comply with the requirements for 
+incorporating main deck cargo door systems is $2.7 million, 
+undiscounted, or $2.4 million, discounted to present value.
+
+3. 9g Crash Barrier
+
+    Paragraph (f) of the AD requires, within 36 months or 4,000 flight 
+cycles after the effective date of the AD, whichever occurs first, 
+installation of a main deck cargo barrier that complies with the 
+applicable requirements of CAR part 4b. Ventura Aerospace holds an STC 
+for an approved 9g crash barrier, and the FAA expects that operators 
+whose airplanes have been modified in accordance with AEI STCs will 
+purchase 9g crash barrier kits from Ventura Aerospace. In response to 
+one public comment and based on new data, there was an increase in the 
+cost estimate for the Ventura 9g barrier in this final regulatory 
+evaluation from that shown in the NPRM. The cost of a barrier kit is 
+$67,000, while labor cost (to install the 9g crash barrier) is 
+estimated at $33,000 per airplane (for 550 hours of work). Also, while 
+the 9g crash barrier is installed, an affected airplane is expected to 
+be out of service for 7 additional days, at an estimated out-of-service 
+cost of $15,000 per day. The commenter estimated the cost per airplane, 
+for the Ventura 9g crash barrier, at $193,500. With the new data, the 
+FAA estimated the cost per airplane (for the Ventura 9g barrier) at 
+$205,000.
+    The FAA assumes that operators will install 9g crash barriers 
+uniformly over the 36-month compliance time. The total cost for the 78 
+airplanes to comply with paragraph (f) of the AD is estimated to be 
+$16.0 million, undiscounted, or $14.0 million discounted to present 
+value.
+
+4. AMOC and Special Flight Permits
+
+    Paragraph (g) of the AD allows an AMOC or adjustment of compliance 
+time that provides an acceptable level of safety if approved by the 
+Manager of the Atlanta ACO. The FAA is unable to determine the cost of 
+an AMOC, but assumes that it will be less than the cost of complying 
+with the provisions in paragraphs (a) through (f) of the AD.
+    Paragraph (h) of the AD allows special flight permits in accordance 
+with the
+
+[[Page 53420]]
+
+regulations to operate an affected airplane to a location where the 
+requirements of the AD could be accomplished.
+
+5. Total Cost of the AD
+
+    The FAA estimates that the total compliance cost of the AD will be 
+$19.9 million, undiscounted, or $17.4 million discounted to present 
+value.
+
+Regulatory Flexibility Analysis
+
+    The Regulatory Flexibility Act (RFA) of 1980 establishes ``as a 
+principle of regulatory issuance that agencies shall endeavor, 
+consistent with the objective of the rule and of applicable statutes, 
+to fit regulatory and informational requirements to the scale of the 
+business, organizations, and governmental jurisdictions subject to 
+regulation.'' To achieve that principle, the RFA of 1980 requires 
+agencies to solicit and consider flexible regulatory proposals and to 
+explain the rationale for their actions. The RFA of 1980 covers a wide-
+range of small entities, including small businesses, not-for-profit 
+organizations, and small governmental jurisdictions.
+    Agencies must perform an assessment of all rules to determine 
+whether the rule will have a significant economic impact on a 
+substantial number of small entities. If the determination is that the 
+rule will have such an impact, the agency must prepare a regulatory 
+flexibility analysis as described in the RFA of 1980. However, if after 
+an assessment of a proposed or final rule, an agency determines that a 
+rule is not expected to have a significant economic impact on a 
+substantial number of small entities, section 605(b) of the RFA of 1980 
+provides that the head of the agency may so certify. The certification 
+must include a statement providing the factual basis for this 
+determination, and the reasoning should be clear.
+
+Issues To Be Addressed in a Final Regulatory Flexibility Analysis 
+(FRFA)
+
+    The central focus of the FRFA, like the initial Regulatory 
+Flexibility Analysis, is the requirement that agencies evaluate the 
+impact of a rule on small entities and analyze regulatory alternatives 
+that minimize the impact when there will be a significant economics 
+impact on a substantial number of small entities.
+    The requirements, outlined in section 604(a)(1-5) are listed and 
+discussed below:
+    1. A succinct statement of the need for, and objectives of, the 
+rule:
+    The FAA has determined that the main deck cargo door hinge is not 
+fail-safe; certain main deck cargo door control systems do not provide 
+an adequate level of safety; and the main deck cargo barrier is not 
+structurally adequate during a minor crash landing. The actions 
+specified in the AD are intended to prevent structural failure of the 
+main deck cargo door hinge or failure of the cargo door system, which 
+could result in the loss or opening of the cargo door while the 
+airplane is in flight, and consequent rapid decompression of the 
+airplane, including possible loss of flight control or severe 
+structural damage; and to prevent failure of the main deck cargo 
+barrier during an emergency landing, which could injure occupants.
+    Under the United States Code (U.S.C.), the FAA Administrator is 
+required to consider the following matter, among others, as being in 
+the public interest: assigning, maintaining, and enhancing safety and 
+security as the highest priorities in air commerce (see 49 U.S.C. 
+44101(d)). Forty-nine U.S.C. 44701(a) provides broad rulemaking 
+authority to ``promote safe flight of civil aircraft in air commerce.'' 
+Accordingly, this AD will amend Title 14 of the CFRs to require 
+operators of Boeing Model 727 series airplanes that have been converted 
+from a passenger to a cargo-carrying configuration to correct the 
+identified unsafe condition.
+    2. A summary of the significant issues raised by the public 
+comments in response to the initial Regulatory Flexibility Analysis, a 
+summary of the assessment of the agency of such issues, and a statement 
+of any changes made in the proposed rule as a result of such comments:
+    There was one public comment that related to small entities/
+operators. That comment indicated that the designing of remedies to 
+address the items required by the AD would create a burden for those 
+small operators who do not have in-house engineering capability to 
+design such remedies.
+    In response, the FAA states that the STC holders, including AEI, 
+have developed solutions for the items required by the AD, which will 
+be available to small operators.
+    3. A description of, and an estimate of the number of, small 
+entities to which the rule will apply or an explanation of why no such 
+estimate is available:
+    The entities affected by the rule are those operating U.S.-
+registered converted Boeing Model 727 series airplanes. The FAA 
+estimates that 24 carriers operate airplanes that will be affected by 
+this AD. Six of these operators are foreign entities. Of the U.S. 
+operators, 5 entities are large (they employ more than 1,500 people). 
+The estimated discounted cost of the AD, for the 78 affected airplanes, 
+is $17.4 million ($19.9 million, undiscounted). This translates into a 
+discounted cost per affected airplane of about $223,000, or about 
+$85,000 in (average) annualized cost per affected airplane (over the 
+36-month compliance time).
+    The annualized cost of the AD for each affected small operator was 
+estimated by multiplying the number of affected airplanes per operator 
+by the annualized cost per airplane. This cost was then compared to 
+(divided by) the annual revenues (mostly for 1998) of the affected 
+small operators. With regard to revenue data, these data were not 
+easily available for all carriers. In some cases, the annual revenue 
+estimate was the midpoint of a range (provided in a public source).
+    The resulting ratio, for each affected small operator, showed that 
+in five cases, this ratio was either equal to, or exceeded, one 
+percent. In two cases, the ratio exceeded three percent. Based on these 
+estimates, the FAA has determined that the rule will have a significant 
+impact on a substantial number of small entities.
+    4. A description of the projected reporting, record-keeping, and 
+other compliance requirements of the rule, including an estimate of the 
+classes of small entities, which will be subject to the requirement, 
+and the type of professional skills necessary for preparation of the 
+report or record:
+    With two minor exceptions, the rule will not mandate additional 
+reporting or record-keeping. The rule will not overlap, duplicate, or 
+conflict with existing Federal rules.
+    The AD will require operators to report results of the visual 
+inspection of the main deck cargo door hinge and the visual inspection 
+of the fastener holes common to the main deck cargo door hinge and 
+underlying door and fuselage structure. The cost of these reports is 
+negligible.
+    5. A description of the steps the agency has taken to minimize the 
+significant economic impact on small entities consistent with the 
+stated objectives of applicable statutes, including a statement of the 
+factual, policy, and legal reasons for selecting the alternative 
+adopted in the final rule and why each one of the other significant 
+alternatives to the rule considered by the agency which affect the 
+impact on small entities was rejected:
+    The FAA acknowledges that the rule will impose a financial 
+requirement on small entities. Therefore, the agency considered 
+alternatives to the rule. These alternatives are:
+    <bullet> Exclude small entities; and
+
+[[Page 53421]]
+
+    <bullet> Extend the compliance date for small entities.
+    The FAA has determined that the option to exclude small entities 
+from the requirements of the rule is not justified. The unsafe 
+condition that exists on an affected Boeing Model 727 series airplane 
+operated by a small entity is as potentially catastrophic as that on an 
+affected Model 727 series airplane operated by a large entity.
+    The FAA also considered options to extend the compliance period for 
+small operators. The Boeing 727 Freighter Industry Working Group, which 
+includes all affected U.S. operators (including small entities), 
+provided input on the incorporation of corrective actions for the door 
+hinge, door systems, and 9g crash barrier issues. The FAA initially 
+proposed a compliance time of 28 months, consistent with a related AD 
+dealing with the cargo floor structure on the same airplanes. The 
+working group requested an extension to 36 months. Following review of 
+the working group's request, the FAA finds 36 months to be an 
+acceptable compliance time. Therefore, the FAA has, in fact, considered 
+and accepted this alternative and has accommodated small entity 
+concerns about compliance time.
+
+Unfunded Mandates
+
+    The Unfunded Mandates Reform Act of 1995 (the Act), enacted as 
+Public Law 104-4 on March 22, 1995, is intended, among other things, to 
+curb the practice of imposing unfunded Federal mandates on State, 
+local, and tribal governments.
+    Title II of the Act requires each Federal agency to prepare a 
+written statement assessing the effects of any Federal mandate in a 
+proposed or final agency rule that may result in an expenditure of $100 
+million or more (adjusted annually for inflation) in any one year by 
+State, local, and tribal governments, in the aggregate, or by the 
+private sector. Such a mandate is deemed to be a ``significant 
+regulatory action.''
+    This AD does not contain such a mandate. Therefore, the 
+requirements of Title II of the Act do not apply.
+
+Federalism Implications
+
+    The regulations of this AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, in 
+accordance with Executive Order 13132, it is determined that this AD 
+will not have sufficient federalism implications to warrant the 
+preparation of a federalism assessment.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2002-16-20   Boeing:  Amendment 39-12859. Docket 97-NM-233-AD.
+
+    Applicability: Model 727 series airplanes that have been 
+converted from a passenger-to a cargo-carrying (``freighter'') 
+configuration in accordance with Supplemental Type Certificate (STC) 
+SA1368SO, SA1797SO, or SA1798SO; certificated in any category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+otherwise modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (g) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent structural failure of the main deck cargo door hinge 
+or failure of the cargo door system, which could result in the loss 
+or opening of the cargo door while the airplane is in flight, and 
+consequent rapid decompression of the airplane, including possible 
+loss of flight control or severe structural damage; and to prevent 
+failure of the main deck cargo barrier during an emergency landing, 
+which could injure occupants; accomplish the following:
+
+Actions Addressing the Main Deck Cargo Door Hinge
+
+    (a) Prior to the accumulation of 4,000 flight cycles since 
+accomplishment of the installation of the main deck cargo door, or 
+within 250 flight cycles after the effective date of this AD, 
+whichever occurs later, perform a detailed inspection of the 
+external surface of the main deck cargo door hinge (both fuselage 
+and door side hinge elements) to detect cracks.
+
+    Note 2: For the purposes of this AD, a detailed inspection is 
+defined as: ``An intensive visual examination of a specific 
+structural area, system, installation, or assembly to detect damage, 
+failure, or irregularity. Available lighting is normally 
+supplemented with a direct source of good lighting at intensity 
+deemed appropriate by the inspector. Inspection aids such as mirror, 
+magnifying lenses, etc., may be used. Surface cleaning and elaborate 
+access procedures may be required.''
+
+    (b) Within 36 months or 4,000 flight cycles after the effective 
+date of this AD, whichever occurs first, accomplish paragraphs 
+(b)(1) and (b)(2) of this AD.
+    (1) Perform a detailed inspection of the mating surfaces of both 
+the hinge and the door skin and external fuselage doubler underlying 
+the hinge to detect cracks or other discrepancies (e.g., double or 
+closely drilled holes, corrosion, chips, scratches, or gouges). The 
+detailed inspection shall be accomplished in accordance with a 
+method approved by the Manager, Atlanta Aircraft Certification 
+Office (ACO), FAA. The requirements of this paragraph may be 
+accomplished prior to or concurrently with the requirements of 
+paragraph (b)(2) of this AD.
+    (2) Install a main deck cargo door hinge that complies with the 
+applicable requirements of Civil Air Regulations (CAR) part 4b, 
+including fail-safe requirements, in accordance with a method 
+approved by the Manager, Atlanta ACO.
+    (c) If any crack or discrepancy is detected during the detailed 
+inspection required by either paragraph (a) or (b)(1) of this AD, 
+prior to further flight, repair in accordance with a method approved 
+by the Manager, Atlanta ACO.
+
+    Note 3: Accomplishment of the actions in accordance with 
+Aeronautical Engineers Incorporated (AEI) Service Bulletin AEI01-01, 
+Revision B, dated October 26, 2001, constitutes compliance with the 
+requirements of paragraphs (b) and (c) of this AD.
+
+Actions Addressing the Main Deck Cargo Door Systems
+
+    (d) Within 60 days after the effective date of this AD, revise 
+the Limitations Section of the FAA-approved Airplane Flight Manual 
+(AFM) Supplement by inserting therein procedures to ensure that the 
+main deck cargo door is closed, latched, and locked prior to 
+dispatch of the airplane, and install any associated placards. The 
+AFM revision procedures and installation of any associated placards 
+shall be accomplished in accordance with a method approved by the 
+Manager, Atlanta ACO.
+    (e) Within 36 months after the effective date of this AD, 
+incorporate redesigned main deck cargo door systems (e.g., warning/
+monitoring, power control, view ports, and means to prevent 
+pressurization to an unsafe level if the main deck cargo door is not 
+closed, latched, and locked), including any associated procedures 
+and placards, that comply with the applicable requirements of CAR 
+part 4b and criteria specified in Appendix 1 of this AD; in 
+accordance with
+
+[[Page 53422]]
+
+a method approved by the Manager, Atlanta ACO.
+
+    Note 4: The design data submitted for approval should include a 
+Systems Safety Analysis and Instructions for Continued Airworthiness 
+that are acceptable to the Manager, Atlanta ACO.
+
+Actions Addressing the Main Deck Cargo Barrier
+
+    (f) Within 36 months or 4,000 flight cycles after the effective 
+date of this AD, whichever occurs first, install a main deck cargo 
+barrier that complies with the applicable requirements of CAR part 
+4b, in accordance with a method approved by the Manager, Atlanta 
+ACO.
+
+    Note 5: The maximum main deck total payload that can be carried 
+is limited to the lesser of the approved cargo barrier weight limit, 
+weight permitted by the approved maximum zero fuel weight, weight 
+permitted by the approved main deck position weights, weight 
+permitted by the approved main deck running load or distributed load 
+limitations, or approved cumulative zone or fuselage monocoque 
+structural loading limitations (including lower hold cargo).
+
+
+    Note 6: Installation of a Ventura Aerospace Inc. cargo barrier 
+STC ST00848LA is an approved means of compliance with the 
+requirements of paragraph (f) of this AD.
+
+Alternative Methods of Compliance
+
+    (g) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Atlanta ACO. Operators shall submit 
+their requests through an appropriate FAA Principal Maintenance 
+Inspector, who may add comments and then send it to the Manager, 
+Atlanta ACO.
+
+    Note 7: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Atlanta ACO.
+
+Special Flight Permits
+
+    (h) Special flight permits may be issued in accordance with 
+Secs. 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 
+21.197 and 21.199) to operate the airplane to a location where the 
+requirements of this AD can be accomplished.
+
+Effective Date
+
+    (i) This amendment becomes effective on September 19, 2002.
+
+Appendix 1
+
+    Excerpt From an FAA Memorandum to the Director-Airworthiness and 
+Technical Standards of ATA, Dated March 20, 1992
+    ``(1) Indication System: (a) The indication system must monitor 
+the closed, latched, and locked positions, directly.
+    (b) The indicator should be amber unless it concerns an outward 
+opening door whose opening during takeoff could present an immediate 
+hazard to the airplane. In that case the indicator must be red and 
+located in plain view in front of the pilots. An aural warning is 
+also advisable. A display on the master caution/warning system is 
+also acceptable as an indicator. For the purpose of complying with 
+this paragraph, an immediate hazard is defined as significant 
+reduction in controllability, structural damage, or impact with 
+other structures, engines, or controls.
+    (c) Loss of indication or a false indication of a closed, 
+latched, and locked condition must be improbable.
+    (d) A warning indication must be provided at the door operators 
+station that monitors the door latched and locked conditions 
+directly, unless the operator has a visual indication that the door 
+is fully closed and locked. For example, a vent door that monitors 
+the door locks and can be seen from the operators station would meet 
+this requirement.
+    (2) Means to Visually Inspect the Locking Mechanism: There must 
+be a visual means of directly inspecting the locks. Where all locks 
+are tied to a common lock shaft, a means of inspecting the locks at 
+each end may be sufficient to meet this requirement provided no 
+failure condition in the lock shaft would go undetected when viewing 
+the end locks. Viewing latches may be used as an alternate to 
+viewing locks on some installations where there are other 
+compensating features.
+    (3) Means to Prevent Pressurization: All doors must have 
+provisions to prevent initiation of pressurization of the airplane 
+to an unsafe level, if the door is not fully closed, latched and 
+locked.
+    (4) Lock Strength: Locks must be designed to withstand the 
+maximum output power of the actuators and maximum expected manual 
+operating forces treated as a limit load. Under these conditions, 
+the door must remain closed, latched and locked.
+    (5) Power Availability: All power to the door must be removed in 
+flight and it must not be possible for the flight crew to restore 
+power to the door while in flight.
+    (6) Powered Lock Systems: For doors that have powered lock 
+systems, it must be shown by safety analysis that inadvertent 
+opening of the door after it is fully closed, latched and locked, is 
+extremely improbable.''
+
+    Issued in Renton, Washington, on August 6, 2002.
+Vi Lipski,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 02-20507 Filed 8-14-02; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "conference": 1,
+  "date_adjudicated": "2026-08-31",
+  "adjudicator": "owner (human, independent of the extraction machine)",
+  "method": "guided compare-the-picture page (relatorios/2026-08-31-conferencia-1-guiada.html); each fact shown beside a code-located crop of the official source page",
+  "facts_total": 13,
+  "facts_wrong": [],
+  "invention_rate": 0.0,
+  "owner_reply_verbatim": "Conferência 1: todos os 13 certos",
+  "bonus_blanks_validated": true,
+  "bonus_note": "owner confirmed both honest-blank showcases (p.673 dotted L-direction cells; p.566 elongation footnote c)",
+  "sources": {
+    "facts": [
+      "data/facts/pilot/merged.json",
+      "data/facts/lot2/merged.json"
+    ],
+    "canonical_list": "relatorios/2026-08-30-conferencia-1.md"
+  },
+  "facts_sha256": "32b8895ac2146963eeef188ecdecfe94ca36b8329f154b9782fe650523a647ef",
+  "facts_sha256_note": "Added 2026-09-02 by code (audit finding DIM-06): SHA-256 over the sorted (lot, field_id, value, snippet, page) tuples of the 13 adjudicated facts, so the stamp cannot survive a change to what was adjudicated. tests/test_gold_set.py recomputes it."
+}

@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "2012-28434": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD defines the unsafe condition as cracking in the rotary rudder boom or pylon due to fatigue, failure from static overload, and subsequent loss of control of the helicopter.",
+     "value": "pylon"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Visually inspect each transition fitting, P/N 6420-66341-101, -102, -103, or -104, for a crack or working rivets on the inboard face of the rotary rudder boom and pylon, paying particular attention to the fastener attachment holes",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to detect cracking in the rotary rudder boom or pylon due to fatigue, and to prevent failure from static overload and subsequent loss of control of the helicopter.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Within 20 hours time-in-service (TIS), and thereafter at intervals not to exceed 20 hours (TIS) ... If there is a crack, before further flight, replace any cracked part with an airworthy part, or repair the cracked part if the damage is within the maximum repair damage limits.",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  },
+  "2013-10006": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct cracking and damage in the flap track, which could cause loss of the outboard trailing edge flap and consequent reduced controllability of the airplane.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Eddy current inspection for damage (including cracking) of the flap track web and flanges.",
+     "value": "web"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports that the work sequence and procedures used during installation of replacement tracks could cause loose or cracked tracks.",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Repeat the inspection thereafter at intervals not to exceed 1,200 flight cycles. ... before further flight, replace the flap track assembly with a new or serviceable flap track assembly ... Prior to further flight, repair according to a method approved by the Manager, Seattle ACO, FAA ... Do an overhaul of the flap track ... Repeat the overhaul thereafter at intervals not to exceed 20,000 flight cycles on the flap track or 96 months, whichever occurs first.",
+     "value": "repetitive_inspection;replacement;repair;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD supersedes ADs 2000-25-07, Amendment 39-12041 (65 FR 78913, December 18, 2000); and 2002-05-07, Amendment 39-12675 (67 FR 11891, March 18, 2002).",
+     "value": "2000-25-07; 2002-05-07"
+    }
+   ]
+  },
+  "2013-10797": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent fatigue cracking of the lower corners of the door frame and number 5 cross beam of the forward cargo door, which could result in rapid depressurization of the airplane.",
+     "value": "door"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD was prompted by additional reports of fatigue cracking in the radius of the lower frames and in the lower number 5 cross beam of the forward cargo door.",
+     "value": "radius_or_fillet"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by additional reports of fatigue cracking in the radius of the lower frames and in the lower number 5 cross beam of the forward cargo door.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "That AD currently requires repetitive inspections to detect cracking of the lower corners of the door frame and cross beam of the forward cargo door ... That AD also requires eventual modification of the outboard radius of the lower corners of the door frame and reinforcement of the cross beam of the forward cargo door ... this new AD also adds a one-time inspection for airplanes previously modified or repaired, and a one-time inspection of the reinforcement angle for excessive shimming or fastener pull-up ... Replace the door frame of the forward cargo door with a new door frame ... prior to further flight, repair in accordance with a method approved by the Manager, Seattle ACO",
+     "value": "repetitive_inspection;one_time_inspection;replacement;modification;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD supersedes AD 2000-07-06, Amendment 39-11660 (65 FR 19302, April 11, 2000).",
+     "value": "2000-07-06"
+    }
+   ]
+  },
+  "2014-30132": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by a report of a cracked reveal made from a casting found within a group of airplanes that should only have machined reveals made from 6061 aluminum. ... do a material type inspection to determine if the lower forward corner reveal is made from 6061 machined aluminum plate or 356 aluminum casting",
+     "value": "356 aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct fatigue cracking of the lower forward corner reveal of the number 3 main entry doors (MEDs)",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do a detailed inspection for a sharp edge, in accordance with Part 1 of the Accomplishment Instructions of Boeing Special Attention Service Bulletin 747-53-2460, Revision 2, dated December 22, 2010; and do a detailed inspection for cracking of the corner reveal",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct fatigue cracking of the lower forward corner reveal of the number 3 main entry doors (MEDs)",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires an inspection to determine the material of the number 3 main entry door (MED) corner reveal, repetitive inspections of certain reveals for cracking, and corrective action if necessary. This AD also requires repetitive inspections for cracking of 6061 machined aluminum one-piece corner reveals, and replacement with 6061 machined aluminum two-piece corner reveals if necessary ... Repair all cracking, before further flight",
+     "value": "repetitive_inspection;one_time_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Certain requirements of this AD terminate certain requirements of AD 2008-18-07, Amendment 39-15664 (73 FR 56960, October 1, 2008).",
+     "value": "2008-18-07"
+    }
+   ]
+  },
+  "2016-00949": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct fatigue cracking in the pressurized floor fittings at frame 36, which could result in failure of a floor fitting and subsequent depressurization of the fuselage.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct fatigue cracking in the pressurized floor fittings at frame 36, which could result in failure of a floor fitting and subsequent depressurization of the fuselage.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "perform a visual inspection to detect cracks of the 6 fittings of the pressurized floor at frame 36 under the lower surface panel ... Repeat the visual inspection thereafter at intervals not to exceed 12,000 landings. ... If no cracking is found, prior to further flight, renew the zone protective finish ... replace the cracked fitting with a new fitting ... Before further flight, repair using a method approved by the Manager, International Branch, ANM-116, Transport Airplane Directorate, FAA",
+     "value": "repetitive_inspection;replacement;repair;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "We are superseding Airworthiness Directive (AD) 96-18-06 for certain Airbus Model A320-211 and -231 airplanes.",
+     "value": "96-18-06"
+    }
+   ]
+  },
+  "2016-05249": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracked and severed tension ties, broken fasteners, and cracks in the frame, shear web, and shear ties adjacent to tension ties for the upper deck.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do an open hole high frequency eddy current (HFEC) inspection for cracking in the forward and aft tension tie channels at 12 fastener locations inboard of the aluminum straps at STA 1140",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent fatigue cracking of the tension ties, shear webs, and frames of the upper deck, which could result in rapid decompression and reduced structural integrity of the airplane.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "modify the frame-to-tension-tie joints at STAs 1120 through 1220 ... do the repetitive post-modification detailed inspections for cracking of the tension tie and frame structure and all applicable corrective actions ... Retained One-Time Inspection for Incorrectly Installed Angles ... before further flight, repair the crack using a method approved in accordance with the procedures specified in paragraph (t) of this AD",
+     "value": "repetitive_inspection;one_time_inspection;modification;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "We are superseding Airworthiness Directive (AD) 2012-15-13, for certain The Boeing Company Model 747-100B SUD, 747-300, 747-400, and 747-400D series airplanes",
+     "value": "2012-15-13"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1748 @@
+{
+ "documents": {
+  "00-19672": {
+   "blanks": [
+    {
+     "candidate_a": "7079-T6",
+     "candidate_b": "7079-T6 aluminum",
+     "field_id": "alloy_as_stated",
+     "reason": "extractors disagree"
+    }
+   ],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "operators found stress corrosion cracks in the front spar of the center section of the horizontal stabilizer on two Boeing Model 737-100 and -200 series airplanes",
+     "unit": "text",
+     "value": "stabilizer"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "perform a detailed visual inspection to detect cracks in the front spar of the center section of the horizontal stabilizer",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This action is necessary to detect and correct stress corrosion cracking in the front spar of the center section of the horizontal stabilizer",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Thereafter, repeat the inspection twice more at intervals not to exceed 200 days, and thereafter at intervals not to exceed 24 months or 4,000 flight cycles, whichever occurs first. ... if any crack is detected during any inspection required by paragraph (a) of this AD, prior to further flight, accomplish rework of the front spar of the center section of the horizontal stabilizer ... prior to further flight, repair in accordance with a method approved by the Manager, Seattle Aircraft Certification Office (ACO), FAA",
+     "unit": "text",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This amendment adopts a new airworthiness directive (AD) that is applicable to certain Boeing Model 737-100, -200, and -200C series airplanes.",
+     "unit": "text",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "00-28236": {
+   "blanks": [
+    {
+     "candidate_a": "2024-T3",
+     "candidate_b": "2024-T3 aluminum",
+     "field_id": "alloy_as_stated",
+     "reason": "extractors disagree"
+    },
+    {
+     "candidate_a": "none_stated",
+     "candidate_b": null,
+     "field_id": "feature_class",
+     "reason": "only one extractor answered"
+    }
+   ],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD requires checking the yoke half assembly (yoke) for any crack and replacing a cracked yoke assembly before further flight.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "When these areas are exposed to a corrosive environment, such as salty air, stress corrosion causes crack formation and growth.",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(a) Before further flight and thereafter before the first flight of each day, check each yoke for a crack. ... (b) If a yoke is cracked, before further flight, replace the yokes with airworthy yokes, P/N A203-7. ... replace yokes, P/N A203-5, with airworthy yokes, P/N A203-7.",
+     "unit": "text",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2. Section 39.13 is amended by adding a new airworthiness directive to read as follows: 2000-20-51 Robinson Helicopter Company: Amendment 39-11960.",
+     "unit": "text",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "02-8280": {
+   "blanks": [
+    {
+     "candidate_a": "7075-T73",
+     "candidate_b": "aluminum 7075-T73",
+     "field_id": "alloy_as_stated",
+     "reason": "extractors disagree"
+    }
+   ],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "One operator reported significant heat damage to the forward end of the diagonal brace on the left strut of a General Electric GE90 powered airplane.",
+     "unit": "text",
+     "value": "pylon"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do the conductivity inspection of all areas of the forward clevis lugs and brace body of the diagonal brace, as specified in and per Part 2 of the Accomplishment Instructions of the service bulletin",
+     "unit": "text",
+     "value": "lug"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Investigation revealed that the damage was caused by primary engine exhaust entering the aft fairing of the strut through a gap in the heat shield and elevating the temperature, resulting in heat damage to the primary fire seal, heat shield seal, and secondary fluid seal.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "If no discrepancies are found, repeat the inspection after that every 1,000 flight hours. ... before further flight, replace the diagonal brace with a new brace per Part 4 of the Accomplishment Instructions of the service bulletin; or rework the diagonal brace per a method approved by the Manager, Seattle ACO ... before further flight, do the replacement or temporary repair of the seal per the AOM",
+     "unit": "text",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This amendment adopts a new airworthiness directive (AD) that is applicable to certain Boeing Model 777-200 series airplanes equipped with General Electric GE90 series engines.",
+     "unit": "text",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "03-25869": {
+   "blanks": [
+    {
+     "candidate_a": "7075-T6",
+     "candidate_b": "7075-T6 aluminum",
+     "field_id": "alloy_as_stated",
+     "reason": "extractors disagree"
+    }
+   ],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "requires an inspection to determine the material composition of the lower inboard auxiliary spar cap of the left and right wings",
+     "unit": "text",
+     "value": "wing_spar"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "perform a detailed inspection and a dye penetrant inspection for cracking of both of the lower inboard auxiliary spar caps; per McDonnell Douglas DC-8 Service Bulletin 57-85, Revision 1, dated July 5, 1991",
+     "unit": "text",
+     "value": "chord"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This action is necessary to detect and correct stress corrosion cracking of the auxiliary spar cap, which could cause excessive loads to the structure attaching the support fitting of the main landing gear (MLG) to the wing, and result in loss of the MLG.",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(a) Within 24 months or 2,000 flight cycles after the effective date of this AD, whichever occurs later, inspect to determine the material composition of the lower inboard auxiliary spar cap ... If no cracking is detected, repeat the inspection at intervals not to exceed 6,400 flight hours ... accomplish the applicable corrective actions (rework, repair, apply corrosion inhibiting compound, or replace fittings) per the service bulletin ... replace the auxiliary spar cap with a cap composed of 7075-T73 aluminum",
+     "unit": "text",
+     "value": "one_time_inspection;repetitive_inspection;repair;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This amendment adopts a new airworthiness directive (AD), applicable to certain McDonnell Douglas transport category airplanes",
+     "unit": "text",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "04-12442": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This amendment is prompted by the discovery of a crack in the upper shaft extension of an assembly.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to detect a crack in the upper shaft extension, which could result in catastrophic failure of the assembly and subsequent loss of control of the helicopter.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "describes procedures for inspecting the inside diameter surfaces of the 114D3248 upper shaft extension of the 234D3300 aft vertical shaft assembly for cracks",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The manufacturer subsequently determined that the crack initiated at an arc burn that occurred during the silver-plating process of the part.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires, before further flight, inspecting the upper shaft extension for a crack and modifying the aft vertical shaft assembly (assembly). Thereafter, this AD requires, before the first flight of each day, inspecting the upper shaft extension for any crack. If any crack is found during any of the inspections, replacing the assembly with an airworthy assembly is required before further flight.",
+     "unit": "text",
+     "value": "repetitive_inspection;modification;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2. Section 39.13 is amended by adding a new airworthiness directive to read as follows: 2004-06-51 Boeing Defense and Space Group: Amendment 39-13651.",
+     "unit": "text",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "04-20205": {
+   "blanks": [
+    {
+     "candidate_a": "7079-T6",
+     "candidate_b": "7079-T6 aluminum",
+     "field_id": "alloy_as_stated",
+     "reason": "extractors disagree"
+    }
+   ],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "To detect and correct cracks and corrosion on the attach fitting holes of the forward trunnion attach fittings of the main landing gear (MLG), which could result in the collapse of the MLG",
+     "unit": "text",
+     "value": "fitting"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Do detailed and high frequency eddy current inspections of the attach fitting holes for cracks and corrosion, repair any crack or corrosion found, and rework the attach fitting holes",
+     "unit": "text",
+     "value": "fastener_hole"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This action is necessary to detect and correct cracks and corrosion on the attach fitting holes of the forward trunnion attach fittings of the MLG, which could result in the collapse of the MLG.",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(b) Perform an inspection of the forward trunnion attach fittings of the MLG to determine the part number (P/N) of the attach fitting ... repair any crack or corrosion found, and rework the attach fitting holes ... (e) Within 120 months after the effective date of this AD, replace attach fittings that have P/N 65-19296-1 through -8 (attach fittings made of 7079-T6 aluminum) with new attach fittings",
+     "unit": "text",
+     "value": "one_time_inspection;repair;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This amendment adopts a new airworthiness directive (AD), applicable to certain Boeing Model 727, 727C, 727-100, -100C, and -200 series airplanes.",
+     "unit": "text",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "05-9876": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "no person shall install on any airplane a stop support fitting of the MEDs made from either 7079-T651 or 7075-T651 material.",
+     "unit": "text",
+     "value": "7079-T651 or 7075-T651"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of main entry door (MED) 3 having certain stop support fittings that are susceptible to stress corrosion cracking.",
+     "unit": "text",
+     "value": "fitting"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "perform a detailed inspection to detect cracks of the stop support fitting of the MEDs, in accordance with the applicable service bulletin.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct stress corrosion cracking of the stop support fittings of the MEDs, which could result in damage to the adjacent forward edge frame of the door and consequent loss of a MED and rapid decompression of the airplane.",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "That AD currently requires a one-time inspection to determine the material type of the stop support fittings of the main entry doors (MEDs). That AD also currently requires repetitive detailed inspections to detect cracks of certain stop support fittings of the MEDs, and replacement of any cracked stop support fitting with a certain new stop support fitting. This new AD adds new inspections, and replacement if necessary, of the stop support fittings of MED 3",
+     "unit": "text",
+     "value": "repetitive_inspection;one_time_inspection;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) This AD supersedes AD 98-26-13, amendment 39-10954.",
+     "unit": "text",
+     "value": "AD 98-26-13"
+    }
+   ]
+  },
+  "06-3061": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "After the effective date of this AD, no person may install on any airplane a main fuselage frame made of 7075-T6 aluminum material.",
+     "unit": "text",
+     "value": "7075-T6"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from several reports of cracking of the main fuselage frame.",
+     "unit": "text",
+     "value": "frame"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "(3) If the crack is in the web, before further flight: Do the action in paragraph (i) of this AD.",
+     "unit": "text",
+     "value": "web"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct stress corrosion cracking of the main fuselage frame, which could result in extensive damage to adjacent structure, and reduced structural integrity of the airplane.",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections for stress corrosion cracks of the main fuselage frame, and corrective actions if necessary. ... This AD requires inspection and/or replacement of the main fuselage frame, but not repairs or modification. ... (2) If the crack is in the pocket area and the crack exceeds the crack limits specified in McDonnell Douglas Service Sketch 3529, dated August 23, 1983, before further flight: Do the action in paragraph (i) of this AD.",
+     "unit": "text",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2010-1690": {
+   "blanks": [
+    {
+     "candidate_a": "fastener_hole",
+     "candidate_b": "chord",
+     "field_id": "feature_class",
+     "reason": "extractors disagree"
+    }
+   ],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "the accomplishment of certain existing inspections, repairs, and modifications is not adequate to ensure the structural integrity of the affected 7075 series aluminum alloy upper deck floor beam upper chords on airplanes that have exceeded certain thresholds.",
+     "unit": "text",
+     "value": "7075 series aluminum alloy"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent cracking of the upper chords and straps (or angles) of the floor beams, which could lead to failure of the floor beams and consequent loss of controllability, rapid decompression, and loss of structural integrity of the airplane.",
+     "unit": "text",
+     "value": "floor_beam"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent cracking of the upper chords and straps (or angles) of the floor beams, which could lead to failure of the floor beams",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD also requires repetitive replacements of the upper chords, straps (or angles), and radius fillers of certain upper deck floor beams, and, for any replacement that is done, detailed and open-hole HFEC inspections for cracks of the modified upper deck floor beams, and corrective actions if necessary. ... (i) If any crack is found during any inspection required by this AD: Before further flight, repair the crack using a method approved in accordance with the procedures specified in paragraph (j) of this AD.",
+     "unit": "text",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2013-00894": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "It is possible for stress corrosion cracks to occur on engine mount fittings initially made of aluminium alloy AA2024-T351.",
+     "unit": "text",
+     "value": "AA2024-T351"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This Airworthiness Directive (AD) is prompted due to the discovery of cracks in the engine mount fittings.",
+     "unit": "text",
+     "value": "fitting"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to detect and correct cracks in the engine mount fittings.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The cracks are caused by stress corrosion.",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "this AD requires a one-time check to identify the material specification and inspect those affected engine mount fittings that are made of aluminium alloy AA2024-T351. Any engine mount fittings found to be cracked must be reported to Pilatus prior to further flight.",
+     "unit": "text",
+     "value": "one_time_inspection;other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2014-17052": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Control cable pulleys made from plastic (white or brown material) in the rudder control unit were reported to develop cracks due to aging.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as plastic control cable pulleys developing cracks due to aging.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Control cable pulleys made from plastic (white or brown material) in the rudder control unit were reported to develop cracks due to aging.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as plastic control cable pulleys developing cracks due to aging.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "inspect the rudder control unit for installation of plastic cable pulleys. If plastic cable pulleys are installed, before further flight, replace the plastic cable pulleys with aluminum cable pulleys following the actions and instructions of Fiberglas-Technik Rudolf Lindner GmbH & Co. KG Service Bulletin SB-G05",
+     "unit": "text",
+     "value": "one_time_inspection;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2015-00010": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as possible cracking from stress corrosion on various parts of the airplane structure made of aluminum alloy AA2024-T351.",
+     "unit": "text",
+     "value": "AA2024-T351"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "It is possible that stress corrosion cracks may occur on various parts of the aircraft structure initially made of aluminium alloy AA2024-T351 ... The MCAI also requires replacement of the elevator center control-rod, P/N 116.35.07.271 or 116.35.07.345; and shackle, P/N 116.35.07.183.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as possible cracking from stress corrosion on various parts of the airplane structure made of aluminum alloy AA2024-T351.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "It is possible that stress corrosion cracks may occur on various parts of the aircraft structure initially made of aluminium alloy AA2024-T351 which is susceptible to Stress Corrosion Cracking (SCC).",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "perform a one-time conductivity test of items 6 through 9 and 11 through 13 as listed in paragraph 1.A.(2) of Pilatus PC-7 Service Bulletin No: 51-001 ... do a one-time inspection for cracks. If any cracks are found as a result of the inspection, before further flight, you must contact Pilatus Aircraft Ltd. to obtain FAA-approved repair instructions approved specifically for compliance with this AD and incorporate those instructions. ... replace with a part made of aluminum alloy AA2124-T851.",
+     "unit": "text",
+     "value": "one_time_inspection;replacement;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2016-20074": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "If fittings made of aluminum alloy AA2024-T351 are found during the inspection required by paragraph (f)(1) of this AD, before further flight, and repetitively thereafter at intervals not to exceed 12 months, inspect FR 11 left fitting, P/N 112.35.07.489 and the FR 11 right fitting, P/N 112.35.07.490, for cracks",
+     "unit": "text",
+     "value": "AA2024-T351"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This Airworthiness Directive (AD) is prompted due to a report of Stress Corrosion Cracking (SCC) on the Main Frame on Frame (FR) 11 left fitting Part Number (P/N) 112.35.07.489 and right fitting P/N 112.35.07.490.",
+     "unit": "text",
+     "value": "fitting"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "inspect FR 11 left fitting, P/N 112.35.07.489 and the FR 11 right fitting, P/N 112.35.07.490, for cracks following the Accomplishment Instructions in paragraph 3.C. of PILATUS Aircraft Ltd. PC-7 Service Bulletin No: 53-013, dated February 25, 2016.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as stress corrosion cracking on the main frame on frame 11 left and right fittings, which can cause potential loss of the horizontal stabilizer.",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "this AD requires a one-time check to identify the material specification and inspect the affected areas of the airframe that are made of aluminum alloy AA2024-T351 ... before further flight, and repetitively thereafter at intervals not to exceed 12 months, inspect FR 11 left fitting, P/N 112.35.07.489 and the FR 11 right fitting, P/N 112.35.07.490, for cracks ... If cracks are found during any inspection required in paragraph (f)(3) of this AD, before further flight, replace the fittings",
+     "unit": "text",
+     "value": "one_time_inspection;repetitive_inspection;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2017-26040": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "If the fuselage STA 1380 frame inner chord material 7075-T73 aluminum alloy is found during any identification required by the introductory text of paragraph (h) of this AD: Before further flight, do a surface HFEC inspection for any cracking of the fuselage STA 1380 frame inner chord",
+     "unit": "text",
+     "value": "7075-T73"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking found at the fuselage station (STA) 1380 frame inner chord.",
+     "unit": "text",
+     "value": "frame"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do a surface high frequency eddy current (HFEC) inspection for any cracking of the fuselage STA 1380 frame inner chord",
+     "unit": "text",
+     "value": "chord"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking found at a certain fuselage frame inner chord.",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections for any cracking of a certain fuselage frame inner chord; identification of the material of a certain fuselage frame inner chord for certain airplanes; and applicable corrective actions. ... Before further flight, repair the crack using a method approved in accordance with the procedures specified in paragraph (j) of this AD.",
+     "unit": "text",
+     "value": "repetitive_inspection;one_time_inspection;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2018-10921": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD applies to Model AS332L2 and Model EC225LP helicopters, certificated in any category, with an extended aluminum splice installed on frame 5295, except helicopters with steel splice kit part number 332A08-2649-3072 installed.",
+     "unit": "text",
+     "value": "aluminum"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracks on frame 5295 and on splices installed to prevent those cracks.",
+     "unit": "text",
+     "value": "frame"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "EASA advises of a report of a crack that initiated on a splice in an area hidden by the overlapping junction profile of the cabin sliding door rail support and then spread to the frame.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD defines the unsafe condition as a crack on helicopter frame 5295. This condition could result in structural failure of the frame and subsequent loss of control of the helicopter.",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires installing a cut-out for the left-hand (LH) and right-hand (RH) rail support junction profiles and inspecting splices, frame 5295, and related equipment for a crack. ... Thereafter at intervals not to exceed 110 hours TIS, inspect each splice for a crack in the area depicted as Area Y in Figure 3 of ASB EC225-05A038 or ASB AS332-05.00.97. If a crack exists, repair or replace the splice before further flight.",
+     "unit": "text",
+     "value": "modification;repetitive_inspection;repair;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "We are adopting a new airworthiness directive (AD) for Airbus Helicopters Model AS332L2 and EC225LP helicopters.",
+     "unit": "text",
+     "value": "none_stated"
+    }
+   ]
+  },
+  "2018-20357": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Investigation determined that the corrosion is triggered by galvanic effect, due to a direct contact between the horizontal stabilizer rear spar, made from CFRP (carbon fibre reinforced plastic), and the aluminium rear attachment fitting.",
+     "unit": "text",
+     "value": "aluminium"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "Occurrences were reported on horizontal stabilizer bearing supports being found corroded at the contact surface to the horizontal stabilizer rear spar. ... This condition, if not detected and corrected, could lead to failure of the fitting and loss of one load path of the horizontal stabilizer attachment",
+     "unit": "text",
+     "value": "fitting"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The corroded area was at the lower flange position, which is connected to the stabilizer rear spar and not visible without detachment of the fitting.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports indicating corrosion on the horizontal stabilizer bearing supports at the contact surface to the horizontal stabilizer rear spar.",
+     "unit": "text",
+     "value": "corrosion"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "this [EASA] AD requires a one-time inspection [detailed visual inspection and an eddy current inspection for chafing and corrosion] of the horizontal stabilizer rear bearing supports ... This AD requires inspections for corrosion and any other damage (i.e., cracking and chafing) of the horizontal stabilizer rear bearing supports, replacement of the affected horizontal stabilizer rear bearing supports if necessary, and modification of the horizontal stabilizer rear spar.",
+     "unit": "text",
+     "value": "one_time_inspection;replacement;modification"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2020-17900": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "These fittings are geometrically similar to the legacy fittings and are made of a different aluminum alloy that is less susceptible to stress corrosion cracking.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The MCAI describes the unsafe condition as cracks reported on the forward and aft float strut wire pull fittings.",
+     "unit": "text",
+     "value": "fitting"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "visually inspect each forward wire pull fitting for corrosion and cracks",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "An investigation found that the forward and aft wire pull fittings (P/N VALTBS1245-1/-2 and P/N VALTBS1244-1, respectively) are prone to stress corrosion cracking at low cycles/hours.",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Replace each forward wire pull fitting P/N VALTBS1245-1 and P/N VALTBS1245-2 with P/N VALTBS1245-3 Left Hand (LH) or P/N VALTBS1245-4 Right Hand (RH) ... Within 110 hours time-in-service (TIS) after the replacement of the forward wire pull fittings and thereafter at intervals not to exceed 110 hours TIS, visually inspect each forward wire pull fitting for corrosion and cracks.",
+     "unit": "text",
+     "value": "replacement;repetitive_inspection"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2022-14490": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "If the fuselage STA 1380 frame inner chord material 7075-T73 aluminum alloy is found during any identification required by the introductory text of paragraph (h) of this AD: Before further flight, do a surface HFEC inspection for any cracking of the fuselage STA 1380 frame inner chord",
+     "unit": "text",
+     "value": "7075-T73"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking found at the fuselage station (STA) 1380 frame inner chord and by reports of new crack findings outside of the AD 2017-24-10 inspection area, which the existing inspections will not detect.",
+     "unit": "text",
+     "value": "frame"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "AMOCs previously approved for AD 2017-24-10 do not address the unsafe condition identified in this final rule (cracks initiating in the STA 1380 frame web)",
+     "unit": "text",
+     "value": "web"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking found at the fuselage station (STA) 1380 frame inner chord and by reports of new crack findings outside of the AD 2017-24-10 inspection area, which the existing inspections will not detect.",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "AD 2017-24-10 required repetitive inspections for any cracking of a certain fuselage frame inner chord; identification of the material of a certain fuselage frame inner chord for certain airplanes; and applicable corrective actions. ... repetitive surface high frequency eddy current (HFEC) inspections of the STA 1380 frame inner chord and frame web for any cracking, repetitive sub-surface low frequency eddy current (LFEC) inspections of the STA 1380 frame inner chord for any cracking, and applicable corrective actions. Corrective actions include repair.",
+     "unit": "text",
+     "value": "repetitive_inspection;one_time_inspection;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2017-24-10, Amendment 39-19114 (82 FR 57343, December 5, 2017) (AD 2017-24-10).",
+     "unit": "text",
+     "value": "AD 2017-24-10"
+    }
+   ]
+  },
+  "2023-17501": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "engine inlet attach fittings (those having certain part numbers and made of aluminum alloy 7175-T66 or 7075-T6)",
+     "unit": "text",
+     "value": "aluminum alloy 7175-T66 or 7075-T6"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of corrosion and cracks found on engine inlet attach fittings.",
+     "unit": "text",
+     "value": "fitting"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD requires an inspection to determine whether affected engine inlet attach fittings are installed, and replacement of those affected engine inlet attach fittings or replacement with and inlet cowl having no affected engine inlet attach fittings",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "It was determined that the affected fittings are susceptible to stress corrosion cracking due to the material used for the fittings.",
+     "unit": "text",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "specifies procedures for an inspection to determine whether affected engine inlet attach fittings (those having certain part numbers and made of aluminum alloy 7175-T66 or 7075-T6) are installed, and replacement of those affected engine inlet attach fittings with serviceable parts or replacement with an inlet cowl having no affected engine inlet attach fittings",
+     "unit": "text",
+     "value": "one_time_inspection;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2023-28769": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box",
+     "unit": "text",
+     "value": "aluminum alloy"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD is prompted by a report of corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box caused by a humid environment inside the box from water ingress and/or condensation.",
+     "unit": "text",
+     "value": "stabilizer"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time detailed inspection of the HS central box for corrosion; an assessment of the corrosion level; and depending on the determination, repetitive detailed inspections of the HS central box for corrosion and the internal composite structure for surface cracks, distortion, and damage",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD is prompted by a report of corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box",
+     "unit": "text",
+     "value": "corrosion"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time detailed inspection of the HS central box for corrosion; an assessment of the corrosion level; and depending on the determination, repetitive detailed inspections of the HS central box for corrosion and the internal composite structure for surface cracks, distortion, and damage; and repair or replacement of the HS assembly.",
+     "unit": "text",
+     "value": "one_time_inspection;repetitive_inspection;repair;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2024-09353": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The MCAI states that cracks were found on the trunnion arms of the inboard flap assemblies that were made of forging aluminum 7037.",
+     "unit": "text",
+     "value": "forging aluminum 7037"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by a report of cracks found on the trunnion arms of the inboard flap assemblies.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections for cracking of the trunnion arms of the inboard flap assembly, and applicable corrective actions",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by a report of cracks found on the trunnion arms of the inboard flap assemblies.",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections for cracking of the trunnion arms of the inboard flap assembly, and applicable corrective actions ... if any cracking is detected, the cracking must be repaired before further flight using a method approved by the Manager, International Validation Branch, FAA; or EASA; or Airbus SAS's EASA Design Organization Approval (DOA)",
+     "unit": "text",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2024-15808": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by a report that a certain part-numbered fuel system standpipe assembly (standpipe) may have sharp edges at the interval weld joints due to a quality escape during the manufacturing process.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "a certain part-numbered fuel system standpipe assembly (standpipe) may have sharp edges at the interval weld joints",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "inspect the interior of the standpipe for any sharp edges on each internal weld joint",
+     "unit": "text",
+     "value": "weld_joint"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "certain standpipes may have sharp edges at the interval weld joints due to a quality escape during the manufacturing process",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires inspecting certain fuel system parts and, depending on the inspection results, taking corrective actions and performing a fuel quantity gauging system calibration. ... a one-time visual inspection of the internal weld joints of standpipe P/N 407-062-032-103. If there are any sharp edges, this service information specifies rework procedures, which include deburring the sharp edges ... remove the harness assembly from service and replace it with an airworthy harness assembly",
+     "unit": "text",
+     "value": "one_time_inspection;repair;replacement;other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2024-21177": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by occurrences of premature cracks in the outer layer of certain flight deck side windows caused by interference due to manufacturing tolerances.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "occurrences of premature cracks in the outer layer of certain flight deck side windows",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "premature cracks have occurred in the outer layer of left-hand and right-hand flight deck side windows with part number (P/N) NP-200402-7 or P/N NP-200402-8",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "premature cracks in the outer layer of certain flight deck side windows caused by interference due to manufacturing tolerances",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires initial and repetitive inspections of the flight deck side windows and applicable corrective actions ... Corrective actions include window replacement and other maintenance procedures depending on the extent of the findings.",
+     "unit": "text",
+     "value": "repetitive_inspection;replacement;other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2024-24386": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of a broken attachment eyebolt in a Collins Aerospace JB6 Commuter Class passenger seat.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of a broken attachment eyebolt in a Collins Aerospace JB6 Commuter Class passenger seat.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "a one-time detailed inspection of affected eyebolt and spreader for correct installation and discrepancies (i.e., cracks, traces of aluminum flakes or remainders of ripped-out threads in the tip threads, and damaged thread runs)",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of a broken attachment eyebolt in a Collins Aerospace JB6 Commuter Class passenger seat.",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time detailed inspection of each affected part, and applicable corrective actions ... applicable corrective actions (obtaining and following repair instructions and replacing the affected parts)",
+     "unit": "text",
+     "value": "one_time_inspection;repair;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2024-25977": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of the failure of emergency locator transmitter (ELT) antennas, including an in-service failure that occurred before the repetitive replacement interval required by AD 2021-09-03, and by the development of a terminating action.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "detailed inspection for damage (including cracking) of the exterior fuselage skin around the ELT antenna attachment holes, and repair of any damage",
+     "unit": "text",
+     "value": "fuselage_skin"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "inspection of the exterior fuselage skin around the ELT antenna attachment holes for damage, repairing any damage found before further flight",
+     "unit": "text",
+     "value": "fastener_hole"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "could result in loss of the ELT antenna and the development of fuselage cracks that can result in an inability to maintain cabin pressure",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Repetitive replacements of the ELT antenna with a new ELT antenna and repetitive inspections for damage (including cracking) of the exterior fuselage skin around the ELT antenna attachment area, and ... A one-time replacement of the ELT antenna with a new aluminum ELT antenna, and detailed inspection for damage (including cracking) of the exterior fuselage skin around the ELT antenna attachment holes, and repair of any damage, which terminate the repetitive replacements and inspections.",
+     "unit": "text",
+     "value": "repetitive_inspection;one_time_inspection;replacement;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2021-09-03, Amendment 39-21516 (86 FR 20266, April 19, 2021); corrected April 27, 2021 (86 FR 22111) (AD 2021-09-03).",
+     "unit": "text",
+     "value": "AD 2021-09-03"
+    }
+   ]
+  },
+  "2025-03698": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "the upper stiffener of the central firewall, made of aluminum, in the engine compartment was found damaged",
+     "unit": "text",
+     "value": "aluminum"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "the upper stiffener of the central firewall, made of aluminum, in the engine compartment was found damaged ... Joint Aircraft System Component (JASC) Code 5412, Nacelle/Pylon, Bulkhead/Firewall.",
+     "unit": "text",
+     "value": "bulkhead"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD was prompted by an engine compartment fire where the upper stiffener of the central firewall, made of aluminum, in the engine compartment was found damaged.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "failure of a central firewall stiffener made of aluminum, possibly due to its inability to withstand high temperatures of an engine fire and subsequently not seal the engine compartment properly",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires replacing the aluminum central firewall stiffener with a titanium central firewall stiffener and prohibits installing an aluminum central firewall stiffener.",
+     "unit": "text",
+     "value": "replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2025-14390": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by a report of corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box",
+     "unit": "text",
+     "value": "aluminum alloy"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "a report of corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box caused by a humid environment inside the box",
+     "unit": "text",
+     "value": "stabilizer"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "corrosion of differing levels of severity was found on various aluminum alloy reinforcements in the HS central box of all the inspected airplanes ... do a detailed inspection of the HS central box for corrosion",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box caused by a humid environment inside the box from water ingress and/or condensation",
+     "unit": "text",
+     "value": "corrosion"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Table 1 to Paragraph (g)(1)--HS Central Box One Time Inspection ... thereafter at intervals not to exceed 400 hours TIS or 12 months, whichever occurs first after the most recent inspection, repeat the inspection required by paragraph (g)(1) of this AD ... before further flight, replace the HS assembly or repair the HS assembly",
+     "unit": "text",
+     "value": "one_time_inspection;repetitive_inspection;replacement;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2023-25-03, Amendment 39-22630 (88 FR 90085, December 29, 2023).",
+     "unit": "text",
+     "value": "AD 2023-25-03"
+    }
+   ]
+  },
+  "2025-19555": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by multiple reports of cracks in the cylinder heads, which can cause engine coolant to leak into the combustion chamber.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "multiple reports of cracks in the cylinder heads, which can cause engine coolant to leak into the combustion chamber",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD was prompted by multiple reports of cracks in the cylinder heads, which can cause engine coolant to leak into the combustion chamber.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by multiple reports of cracks in the cylinder heads, which can cause engine coolant to leak into the combustion chamber. The root cause of this damage is unknown, and the investigation is ongoing.",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time inspection of the engine coolant for contamination and, depending on the inspection results, replacement of the coolant and replacement of the cylinder heads.",
+     "unit": "text",
+     "value": "one_time_inspection;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "2025-22320": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "several commenters stated the urethane paint will crack along with the aluminum if a crack appears and thus ensure that any cracks won't be concealed by the existing paint",
+     "unit": "text",
+     "value": "aluminum"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracked main rotor swashplates (swashplates).",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "visually inspect with a flashlight all six arms of both the rotating and non-rotating swashplates for a crack, paying particular attention to each face of each clevis arm",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Guimbal concluded that the cracks were likely caused by aging and corrosion.",
+     "unit": "text",
+     "value": "corrosion"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitively inspecting certain swashplates for cracks and, depending on the results, removing and replacing each cracked swashplate.",
+     "unit": "text",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "E7-11287": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "the aluminium fitting attached to the engine gearbox holding lines and fittings of the propeller control system was found to be cracked",
+     "unit": "text",
+     "value": "aluminium"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "the aluminium fitting attached to the engine gearbox holding lines and fittings of the propeller control system was found to be cracked",
+     "unit": "text",
+     "value": "fitting"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Investigation determined that the area is critical for cracks due to combination of mass, material and installation torque values.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Investigation determined that the area is critical for cracks due to combination of mass, material and installation torque values. Diamond Aircraft Industries incorporated with Design Change M[Auml]M 42-184 an additional bracket into production airplanes to improve the installations and prevent vibration cracks.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "install the additional steel bracket following Diamond Aircraft Industries GmbH Mandatory Service Bulletin NO. MSB-42-024/3, dated September 19, 2006",
+     "unit": "text",
+     "value": "modification"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "E8-12754": {
+   "blanks": [
+    {
+     "candidate_a": "none_stated",
+     "candidate_b": "other",
+     "field_id": "feature_class",
+     "reason": "extractors disagree"
+    },
+    {
+     "candidate_a": "one_time_inspection;replacement;repetitive_inspection;inspection_program_revision",
+     "candidate_b": "repetitive_inspection;replacement;inspection_program_revision",
+     "field_id": "action_class",
+     "reason": "extractors disagree"
+    }
+   ],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Up to serial number (s/n) 0044 inclusive those inserts have been produced from aluminium alloy which has been found to be susceptible of cracks.",
+     "unit": "text",
+     "value": "aluminium alloy"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "Vortex inserts are used inside the heat exchanger of the carburettor heating system.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "those inserts have been produced from aluminium alloy which has been found to be susceptible of cracks",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs (b) None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "E9-21922": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking in fuselage frames made of 2024 aluminum alloy that were installed during previous modification of the frames in section 41 and during production.",
+     "unit": "text",
+     "value": "2024 aluminum alloy"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking in fuselage frames made of 2024 aluminum alloy",
+     "unit": "text",
+     "value": "frame"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do the detailed inspection for cracking of the fuselage frames in section 41, and do all applicable corrective actions",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking in fuselage frames made of 2024 aluminum alloy",
+     "unit": "text",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections for cracking of the fuselage frames in section 41, and corrective actions if necessary. ... Before further flight, repair the cracking using a method approved in accordance with the procedures specified in paragraph (j) of this AD.",
+     "unit": "text",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs (b) None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  },
+  "E9-9793": {
+   "blanks": [],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The cracks occurred because of corrosion of the anodized 2024 aluminum brackets.",
+     "unit": "text",
+     "value": "2024 aluminum"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from reports that cracked lower rudder hinge brackets were found on two of the affected airplanes.",
+     "unit": "text",
+     "value": "fitting"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "By design, the bearings are pressed into hinge elements and then staked on either side. In the staking process, the anodized protection is lost.",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The cracks occurred because of corrosion of the anodized 2024 aluminum brackets.",
+     "unit": "text",
+     "value": "corrosion"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires you to repetitively inspect the rudder hinges and the rudder hinge brackets for damage, i.e., cracking, deformation, and discoloration. If damage is found during any inspection, this AD also requires you to replace the damaged rudder hinge and/or rudder hinge bracket.",
+     "unit": "text",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs (b) None.",
+     "unit": "text",
+     "value": "none"
+    }
+   ]
+  }
+ },
+ "stats": {
+  "blanks": 9,
+  "divergence_rate": 0.0455,
+  "documents": 33,
+  "facts": 189
+ }
+}

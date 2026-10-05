@@ -1,0 +1,449 @@
+<html>
+<head>
+<title>Federal Register, Volume 65 Issue 118 (Monday, June 19, 2000)</title>
+</head>
+<body><pre>
+[Federal Register Volume 65, Number 118 (Monday, June 19, 2000)]
+[Rules and Regulations]
+[Pages 37843-37845]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 00-15183]
+
+
+
+[[Page 37843]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 99-NM-182-AD; Amendment 39-11795; AD 2000-12-17]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 767 Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Boeing Model 767 series airplanes, that requires 
+repetitive inspections to detect fatigue cracking of the pitch load 
+fittings of the wing front spar, and rework, if necessary. This 
+amendment also provides for optional terminating action for the 
+repetitive inspections required by this AD. This amendment is prompted 
+by a structural fatigue analysis that shows that the operational loads 
+of the nacelle are higher than the loads used during initial design of 
+the Model 767. The actions specified by this AD are intended to detect 
+and correct fatigue cracking in the pitch load fittings of the wing 
+front spar, which could result in reduced structural integrity of the 
+strut.
+
+DATES: Effective July 24, 2000.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of July 24, 2000.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, 
+Washington, 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: James G. Rehrl, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Transport Airplane Directorate, Seattle 
+Aircraft Certification Office, 1601 Lind Avenue, SW., Renton, 
+Washington 98055-4056; telephone (425) 227-2783; fax (425) 227-1181.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain Boeing Model 767 series 
+airplanes was published in the Federal Register on December 6, 1999 (64 
+FR 68058). That action proposed to require repetitive inspections to 
+detect fatigue cracking of the pitch load fittings of the wing front 
+spar, and rework, if necessary.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Support for the Proposed Rule
+
+    One commenter supports the proposed rule.
+
+Request To Allow Alternative Inspection Method
+
+    Two commenters request that the FAA revise paragraph (c)(1) of the 
+proposed rule to allow a dye penetrant inspection to be performed in 
+lieu of the high frequency eddy current (HFEC) inspection specified in 
+that paragraph. Both commenters point out that Boeing Service Bulletin 
+767-57-0053, Revision 2, dated September 23, 1999, describes a dye 
+penetrant inspection that may be used instead of the HFEC inspection. 
+One of the commenters also points out that the original issue, dated 
+June 27, 1996, and Revision 1, dated October 31, 1996, of the service 
+bulletin reference a dye penetrant inspection but not an HFEC 
+inspection, and some operators have already accomplished the inspection 
+in accordance with one of the earlier issues of the service bulletin. 
+(``Note 2'' of the proposed rule states that use of the original issue 
+or Revision 1 of the service bulletin is acceptable for compliance with 
+this AD.)
+    The FAA concurs with the commenters' request to revise paragraph 
+(c)(1) of this AD. The FAA's intent in the proposed rule was to allow 
+accomplishment of the dye penetrant inspection in lieu of the HFEC 
+inspection; however, the proposed rule did not explicitly state that. 
+Therefore, the FAA has revised paragraph (c)(1) of this final rule to 
+require accomplishment of either an HFEC or a dye penetrant inspection.
+
+Request to Reference Terminating Action
+
+    Several commenters request that the proposed rule be revised to 
+specify a terminating action for the proposed repetitive inspections. 
+Though Boeing Service Bulletin 767-57-0053, Revision 2, specifies that 
+incorporation of certain strut improvement program (SIP) service 
+bulletins is terminating action, the proposed rule does not mention a 
+terminating action. One commenter, the airplane manufacturer, states 
+that the proposed rule should be revised to state that accomplishment 
+of the applicable SIP service bulletin, along with the bushing removal, 
+lug bore inspections, and insurance cut specified in Boeing Service 
+Bulletin 767-57-0053, constitutes terminating action for the repetitive 
+inspection requirements of this AD. One commenter, an operator, also 
+points out that the SIP service bulletin that is applicable to its 
+airplanes recommends accomplishment of Boeing Service Bulletin 767-57-
+0053, Revision 1, dated October 31, 1996, prior to or concurrent with 
+the SIP bulletin, but the SIP service bulletin does not list Boeing 
+Service Bulletin 767-57-0053, Revision 2. The commenter states that the 
+bulletins ``do not provide a clear direction on what needs to be 
+accomplished to terminate the inspection requirements stated in the 
+NPRM.''
+    The FAA concurs with the commenters' request. The SIP service 
+bulletins referenced by the commenter and Boeing Service Bulletin 767-
+57-0053, Revision 2, do reference one another, and modification of the 
+nacelle strut and wing structure as specified in the applicable SIP 
+service bulletin does constitute terminating action for the repetitive 
+inspections required by this AD, provided that the lug bore inspections 
+and the insurance cut described in this AD are also accomplished. 
+Therefore, a new paragraph (g) has been added to this final rule to 
+provide this as an optional terminating action.
+    In addition, the FAA is considering separate rulemaking actions to 
+mandate accomplishment of the SIP service bulletins, and Boeing Service 
+Bulletin 767-57-0053, Revision 2 (as well as the earlier revisions of 
+that service bulletin), will be specified as an integral part of the 
+actions required to accomplish the SIP service bulletins. A new ``Note 
+4'' has been included in this final rule to clarify this.
+
+Request To Specify Removal of Bushings
+
+    One commenter requests that paragraph (c) of the proposed rule be 
+revised to specify that the pitch load fitting bushings must be removed 
+to accomplish the inspection of the lug bores. The commenter points out 
+that removal of both the upper link and pitch load fitting bushings is 
+specified in Figure 1 of the service bulletin. The commenter states 
+that the omission is an error in the proposed rule.
+    The FAA does not concur with the commenter's request to revise 
+paragraph
+
+[[Page 37844]]
+
+(c) of the proposed rule. The FAA acknowledges that the pitch load 
+fitting bushings must be removed prior to inspection of the lug bores. 
+Though this was not explicitly stated in the proposed rule, the FAA 
+finds that it is implied by the wording of paragraph (c), which reads, 
+``accomplish the requirements of paragraphs (c)(1) and (c)(2) of this 
+AD in accordance with [the service bulletin.]'' The service bulletin 
+states that the HFEC inspection, which is specified in paragraph (c)(1) 
+of this AD, is to be accomplished ``as specified in Figure 3'' of the 
+service bulletin. In turn, Figure 3 instructs operators to remove the 
+bushings prior to accomplishment of the inspection. The FAA finds that 
+to specify every action contained in the service bulletin would 
+unnecessarily complicate this AD. Therefore, no change to the final 
+rule is necessary in this regard.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 663 Model 767 series airplanes of the 
+affected design in the worldwide fleet. The FAA estimates that 312 
+airplanes of U.S. registry will be affected by this AD, that it will 
+take approximately 10 work hours per airplane to accomplish the 
+required inspections, and that the average labor rate is $60 per work 
+hour. Based on these figures, the cost impact of the AD on U.S. 
+operators is estimated to be $187,200, or $600 per airplane, per 
+inspection cycle.
+    The cost impact figure discussed above is based on assumptions that 
+no operator has yet accomplished any of the requirements of this AD 
+action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2000-12-17:  Boeing: Amendment 39-11795. Docket 99-NM-182-AD.
+
+    Applicability: Model 767 series airplanes, line numbers 1 
+through 663 inclusive, certificated in any category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (h) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To detect fatigue cracks in the pitch load fittings of the wing 
+front spar, which could result in reduced structural integrity of 
+the strut, accomplish the following:
+    (a) Accomplish the requirements of either paragraph (b) or (c) 
+of this AD at the later of the times specified in paragraphs (a)(1) 
+and (a)(2) of this AD.
+    (1) Prior to the initial inspection threshold specified in 
+Figure 1, Table 1.1 of Boeing Service Bulletin 767-57-0053, Revision 
+2, dated September 23, 1999.
+    (2) Within 3,000 flight cycles or 18 months after the effective 
+date of this AD, whichever occurs first.
+
+    Note 2: Inspections and repairs accomplished prior to the 
+effective date of this AD in accordance with Boeing Service Bulletin 
+767-57-0053, dated June 27, 1996; or Revision 1, dated October 31, 
+1996; are considered acceptable for compliance with the applicable 
+action specified in this amendment.
+
+Option 1: Ultrasonic and Eddy Current Inspections
+
+    (b) Perform ultrasonic and eddy current inspections to detect 
+cracks of the pitch load fittings of the wing front spar, in 
+accordance with Boeing Service Bulletin 767-57-0053, Revision 2, 
+dated September 23, 1999.
+    (1) If no crack is detected, repeat the inspections thereafter 
+at the interval specified in Table 1.2 of Figure 1 of the service 
+bulletin.
+    (2) If any crack is detected, prior to further flight, remove 
+the upper link and the pitch load fitting bushings, and accomplish 
+both paragraphs (b)(2)(i) and (b)(2)(ii) of this AD.
+    (i) Perform a detailed visual inspection of the inner and outer 
+face pad-up areas of the pitch load fittings to detect damage or 
+corrosion and to determine if the pad-up areas are parallel, in 
+accordance with the service bulletin. Except as provided by 
+paragraph (f) of this AD, if any damage, corrosion, or non-
+parallelism is detected, prior to further flight, rework the inner 
+or outer face of the pitch load fitting where damage or corrosion 
+was detected, and make pad-up areas parallel, as applicable, in 
+accordance with the service bulletin.
+
+[[Page 37845]]
+
+    (ii) Accomplish paragraph (d) of this AD.
+
+    Note 3: For the purposes of this AD, a detailed visual 
+inspection is defined as:
+
+    ``An intensive visual examination of a specific structural area, 
+system, installation, or assembly to detect damage, failure, or 
+irregularity. Available lighting is normally supplemented with a 
+direct source of good lighting at intensity deemed appropriate by 
+the inspector. Inspection aids such as mirror, magnifying lenses, 
+etc., may be used. Surface cleaning and elaborate access procedures 
+may be required.''
+
+Option 2: High Frequency Eddy Current and Detailed Visual Inspections
+
+    (c) Remove the upper link and accomplish the requirements of 
+paragraphs (c)(1) and (c)(2) of this AD, in accordance with Boeing 
+Service Bulletin 767-57-0053, Revision 2, dated September 23, 1999.
+    (1) Perform a high frequency eddy current inspection or a dye 
+penetrant inspection to detect cracking of the pitch load fittings 
+of the wing front spar.
+    (2) Perform a detailed visual inspection of the inner and outer 
+face pad-up areas of the pitch load fittings to detect damage or 
+corrosion and to determine if the pad-up areas are parallel. Except 
+as provided by paragraph (f) of this AD, if any damage, corrosion, 
+or non-parallelism is detected, prior to further flight, rework the 
+inner or outer face of the pitch load fitting where damage or 
+corrosion was detected, and make pad-up areas parallel, as 
+applicable, in accordance with the service bulletin.
+
+Rework
+
+    (d) For airplanes on which any cracking is detected during any 
+inspection required by paragraph (b) of this AD, or on which the 
+requirements of paragraph (c) of this AD have been accomplished: 
+Prior to further flight, accomplish paragraph (d)(1) or (d)(2) of 
+this AD, as applicable, in accordance with Boeing Service Bulletin 
+767-57-0053, Revision 2, dated September 23, 1999; and accomplish 
+paragraph (e) of this AD.
+    (1) For airplanes inspected in accordance with paragraph (c) of 
+this AD and on which no cracking was detected: Make an insurance cut 
+of the pitch load fitting lug.
+    (2) For airplanes on which any cracking was detected during any 
+inspection required by paragraph (b) or (c) of this AD: Except as 
+provided by paragraph (f) of this AD, rework the lugs of the pitch 
+load fittings of the wing front spar.
+
+Bushing Installation
+
+    (e) For airplanes on which the requirements specified in 
+paragraph (d) of this AD have been accomplished: Prior to further 
+flight, install new bushings in the pitch load fittings of the wing 
+front spar as specified in paragraph (e)(1) or (e)(2) of this AD, in 
+accordance with Boeing Service Bulletin 767-57-0053, Revision 2, 
+dated September 23, 1999.
+    (1) Option 1: Install new bushings using the high interference 
+fit method, and repeat the inspections required by paragraph (b) or 
+(c) of this AD at the intervals specified in Table 1.3 of Figure 1. 
+of the service bulletin.
+    (2) Option 2: Install new bushings using the FORCEMATE method, 
+and repeat the inspections required by paragraph (b) or (c) of this 
+AD at the interval specified in Table 1.4 of Figure 1. of the 
+service bulletin.
+
+Repair
+
+    (f) If any damage is detected that is outside the limits 
+specified in Boeing Service Bulletin 767-57-0053, Revision 2, dated 
+September 23, 1999, and the service bulletin specifies to contact 
+Boeing for appropriate action: Prior to further flight, repair in 
+accordance with a method approved by the Manager, Seattle Aircraft 
+Certification Office (ACO), FAA, Transport Airplane Directorate; or 
+in accordance with data meeting the type certification basis of the 
+airplane approved by a Boeing Company Designated Engineering 
+Representative (DER) who has been authorized by the Manager, Seattle 
+ACO, to make such findings. For a repair method to be approved, as 
+required by this paragraph, the approval letter must specifically 
+reference this AD.
+
+Optional Terminating Action
+
+    (g) Accomplishment of the actions specified in paragraphs (g)(1) 
+and (g)(2) of this AD constitutes terminating action for the actions 
+required by this AD.
+    (1) Modify the nacelle strut and wing structure in accordance 
+with Boeing Service Bulletin 767-54-0080, dated October 7, 1999 (for 
+Model 767 series airplanes powered by Pratt & Whitney engines); 
+Boeing Service Bulletin 767-54-0081, dated July 29, 1999 (for Model 
+767 series airplanes powered by General Electric engines); or Boeing 
+Service Bulletin 767-54-0082, dated October 28, 1999 (for Model 767 
+series airplanes powered by Rolls-Royce engines); as applicable.
+    (2) Accomplish the lug bore inspections and insurance cut of the 
+pitch load fitting in accordance with Boeing Service Bulletin 767-
+57-0053, Revision 2, dated September 23, 1999.
+
+    Note 4: The FAA is considering separate rulemaking actions to 
+mandate accomplishment of Boeing Service Bulletins 767-54-0080, 767-
+54-0081, and 767-54-0082. Actions described in Boeing Service 
+Bulletin 767-57-0053, Revision 2 (or previous issues of that service 
+bulletin), as required by this AD will be specified as an integral 
+part of the actions required to accomplish these service bulletins.
+
+Alternative Methods of Compliance
+
+    (h) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle ACO. Operators shall submit 
+their requests through an appropriate FAA Principal Maintenance 
+Inspector, who may add comments and then send it to the Manager, 
+Seattle ACO.
+
+    Note 5: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Seattle ACO.
+
+Special Flight Permits
+
+    (i) Special flight permits may be issued in accordance with 
+Secs. 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 
+21.197 and 21.199) to operate the airplane to a location where the 
+requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (j) Except as provided in paragraphs (f) and (g)(1) of this AD, 
+the actions shall be done in accordance with Boeing Service Bulletin 
+767-57-0053, Revision 2, dated September 23, 1999. This 
+incorporation by reference was approved by the Director of the 
+Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 
+51. Copies may be obtained from Boeing Commercial Airplane Group, 
+P.O. Box 3707, Seattle, Washington, 98124-2207. Copies may be 
+inspected at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the Office of the Federal 
+Register, 800 North Capitol Street, NW., suite 700, Washington, DC.
+
+Effective Date
+
+    (k) This amendment becomes effective on July 24, 2000.
+
+    Issued in Renton, Washington, on June 9, 2000.
+Donald L. Riggin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 00-15183 Filed 6-16-00; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre></body>
+</html>

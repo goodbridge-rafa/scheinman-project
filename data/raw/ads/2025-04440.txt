@@ -1,0 +1,525 @@
+<html>
+<head>
+<title>Federal Register, Volume 90 Issue 52 (Wednesday, March 19, 2025)</title>
+</head>
+<body><pre>
+[Federal Register Volume 90, Number 52 (Wednesday, March 19, 2025)]
+[Rules and Regulations]
+[Pages 12682-12685]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2025-04440]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-2151; Project Identifier AD-2023-00984-T; 
+Amendment 39-22990; AD 2025-06-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+The Boeing Company Model 777-200, -200LR, -300, -300ER, and 777F series 
+airplanes. This AD was prompted by a report of a 5-inch crack on the 
+upper wing skin at a certain wing station of the right wing. This AD 
+requires repetitive inspections for cracking of the upper wing skin 
+common to certain fasteners and applicable on-condition actions. The 
+FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+DATES: This AD is effective April 23, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of April 23, 
+2025.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2023-2151; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website <a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    <bullet> You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2023-2151.
+
+FOR FURTHER INFORMATION CONTACT: Luis Cortez-Muniz, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3958; email: <a href="/cdn-cgi/l/email-protection#c985bca0bae788e78aa6bbbdacb3e484bca7a0b389afa8a8e7aea6bf"><span class="__cf_email__" data-cfemail="aae6dfc3d984eb84e9c5d8decfd087e7dfc4c3d0eacccbcb84cdc5dc">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all The Boeing Company 
+Model 777-200, -200LR, -300, -300ER, and 777F series airplanes. The 
+NPRM published in the Federal Register on November 17, 2023 (88 FR 
+80216). The NPRM was prompted by a report of a 5-inch crack on the 
+upper wing skin at wing station (WSTA) 460 of the right wing. In the 
+NPRM, the FAA proposed to require repetitive inspections for cracking 
+of the upper wing skin common to certain fasteners and applicable on-
+condition actions, including repair.
+    The FAA issued a supplemental notice of proposed rulemaking (SNPRM) 
+to amend 14 CFR part 39 by adding an AD that would apply to all The 
+Boeing Company Model 777-200, -200LR, -300, -300ER, and 777F series 
+airplanes. The SNPRM published in the Federal Register on September 20, 
+2024 (89 FR 77049). The SNPRM was prompted by reports from Boeing of 
+two events of cracking at the fastener 6 and 7 locations where the 
+cracks initiated in the spanwise (inboard/outboard) direction. These 
+cracks were detected only because of a repair accomplished on an 
+adjacent fastener. The areas around the repaired fasteners were 
+subsequently inspected with an open hole high frequency eddy current 
+(HFEC) inspection, rather than with the ultrasonic (UT) inspection that 
+was proposed in the NPRM. The SNPRM therefore proposed to require open 
+hole HFEC inspections instead of UT inspections. The FAA is issuing 
+this AD to address the possibility of an undetected upper wing skin 
+crack.
+
+[[Page 12683]]
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from five commenters, including Boeing 
+and three individuals who supported the SNPRM without change, and 
+American Airlines who supported the inspections specified in the SNPRM 
+and also provided additional comments.
+    The FAA received additional comments from five commenters, 
+including All Nippon Airways, Air France, FedEx, American Airlines, and 
+United Airlines (United). The following presents the comments received 
+on the SNPRM and the FAA's response to each comment.
+
+Request for Compliance Time Extension
+
+    American Airlines and United requested a compliance time extension 
+for previously inspected airplanes. American Airlines requested that 
+airplanes on which Boeing Alert Requirements Bulletin 777-57A0125 RB, 
+dated July 25, 2023, is accomplished by completing the UT inspections 
+without the fastener 6 and 7 open hole HFEC inspections and had no 
+crack findings be allowed to fly up to 4,700 flight cycles or 10,300 
+flight hours from the time of the inspection before they have to be 
+brought back to accomplish the inspections with the newly proposed open 
+hole HFEC inspections. The commenters did not provide justification for 
+the request.
+    United requested an additional grace period to conduct the fastener 
+6 and 7 open hole HFEC inspection on airplanes where the UT inspection 
+was already conducted prior to the issuance of the final rule. United 
+stated that this additional time is requested to allow for proper 
+planning and execution of the open hole HFEC inspection; these 
+inspections require a significant amount of time and effort to 
+accomplish and will impact United's maintenance check scheduling. 
+Additionally, United noted the materials required for the on-condition 
+corrective action are currently out of stock and are subject to 
+extended lead times from Boeing.
+    The FAA disagrees with the request for an extended compliance time 
+for airplanes on which UT inspections have been done as specified in 
+the NPRM prior to the publication of the final rule. As the UT 
+inspection would not adequately detect cracks common to the 6 and 7 
+fasteners, a grace period extension or allowing credit for accomplish 
+the UT inspection may not adequately maintain an acceptable level of 
+safety due to factors such as airplane age, utilization, inspection 
+history, etc. In addition, the FAA notes that the on-condition 
+corrective action is to contact Boeing for repair instructions and do 
+the repair. The parts needed to do the repair will vary depending on 
+the inspection findings. If parts for a specific repair are not 
+available, operators may request a compliance time extension through 
+alternative methods of compliance (AMOC) in accordance with paragraph 
+(i) of this AD provided sufficient supporting data is submitted to show 
+an acceptable level of safety is maintained.
+
+Request for Clarification of Inspection Compliance Time
+
+    Air France requested that the FAA clarify the fastener inspection 
+compliance time for airplanes that have already accomplished inspection 
+instructions in accordance with Boeing Alert Requirements Bulletin 777-
+57A0125 RB, dated July 25, 2023, prior to the emergence of the issue 
+regarding open hole HFEC inspection of fasteners 6 and 7. Air France 
+requested compliance time clarification since Air France had already 
+inspected some group 4 airplanes with no finding after the UT 
+inspection to comply with Boeing Alert Requirements Bulletin 777-
+57A0125 RB, dated July 25, 2023. Air France stated that no open hole 
+HFEC inspection was performed on fasteners 6 and 7 on these airplanes 
+and they are scheduled to be reinspected within 4,700 flight cycles or 
+10,300 flight hours, whichever occurs first, after the first 
+inspection. For these affected airplanes, Air France would like the FAA 
+to specify if the open hole HFEC inspection on fasteners 6 and 7 is to 
+be performed within 12 months or 4,300 flight hours, whichever occurs 
+first, from the effective date of the proposed AD or at the next repeat 
+inspection per Boeing Alert Requirements Bulletin 777-57A0125 RB, dated 
+July 25, 2023, instructions.
+    The FAA agrees to clarify the inspection compliance time. For 
+airplanes on which the inspections specified in Boeing Alert 
+Requirements Bulletin 777-57A0125 RB, dated July 25, 2023, were 
+accomplished, without the open hole HFEC inspection for fasteners 6 and 
+7, accomplishing the open hole HFEC inspection for the subject 
+fasteners is required within the inspection compliance times required 
+by this AD, as required by paragraphs (g) and (h) of this AD, which 
+includes a grace period of within 12 months or 4,300 flight hours, 
+whichever occurs first, after the effective date of this AD. For any 
+airplanes inspected in accordance with Boeing Alert Requirements 
+Bulletin 777-57A0125 RB, dated July 25, 2023, without the open hole 
+HFEC inspection of the subject fasteners prior to the issuance of this 
+AD, the FAA may consider compliance time extensions through AMOCs in 
+accordance with paragraph (i) of this AD, provided sufficient 
+supporting data is submitted to show an acceptable level of safety is 
+maintained.
+
+Request Credit for Previous Actions
+
+    American Airlines and United requested credit for previous actions 
+for fasteners 6 and 7. American Airlines requested that previous 
+accomplishment of open hole HFEC inspections at fastener 6 and 7 during 
+repairs of cracks in the subject inspection area are considered 
+compliant with the initial inspections on the subject wing side. United 
+requested credit for conducting open hole HFEC inspections on fasteners 
+6 and 7 on group 4 airplanes before the AD issue date. The commenters 
+did not provide justification for this request.
+    The FAA agrees that previous accomplishment of open hole HFEC 
+inspections at the subject fasteners are considered compliant if done 
+as specified in paragraphs (g) and (h) of this AD. Paragraph (f) of 
+this AD states to accomplish the required actions within the compliance 
+times specified, ``unless already done.'' Therefore, if operators have 
+accomplished the initial inspections required for compliance with this 
+AD before the effective date of this AD, they are in compliance with 
+those requirements. The FAA has not revised this AD in this regard.
+
+Request for FAA To Allow Open Hole HFEC Inspections in Lieu of UT 
+Inspections
+
+    All Nippon Airways requested that the FAA accept the procedure to 
+perform open hole HFEC inspections in lieu of UT inspections for 
+affected fasteners or release an AD that requires revised service 
+information reflecting this content. The commenter states that Boeing 
+Information Notice 777-57A0125 IN 01, dated July 19, 2024, instructs 
+operators to perform open hole HFEC in lieu of UT inspection. The 
+commenter also stated formal Boeing approval via FAA Form 8100-9 will 
+be needed because the open hole HFEC inspection in lieu of UT 
+inspection has not been considered acceptable by the FAA.
+    The FAA disagrees with the request to release an AD that requires 
+revised service information to accept the procedure to perform open 
+hole HFEC inspections in lieu of UT inspections for affected fasteners 
+because the FAA has already identified the open hole HFEC procedure as 
+indicated in paragraphs
+
+[[Page 12684]]
+
+(h)(4) through (7) of this AD. Additional approval would not be 
+required as the open hole HFEC procedure is already required by the FAA 
+in this AD. The FAA has not changed this AD in this regard.
+
+Request To Limit Inspection to Certain Airplanes
+
+    FedEx requested that paragraph (h)(7) of the proposed AD be revised 
+to limit it to Model 777F (Group 6) airplanes with more than 40,000 
+total flight hours or 6,500 total flight cycles. FedEx stated that 
+based on its inspection results, the inspection intervals in Boeing 
+Alert Requirements Bulletin 777-57A0125 RB, dated July 25, 2023, and 
+the added requirements in paragraph (h)(7) of the proposed AD are not 
+in the public interest.
+    FedEx noted that no cracks were found on airplanes with less than 
+48,000 total flight hours and for airplanes with more than 40,000 total 
+flight hours, there is a low rate of crack findings with small cracks 
+being found. FedEx concluded that the mandate to perform open hole HFEC 
+inspections would result in a requirement to perform at least three 
+sets of invasive, open hole inspections before an airplane reached 
+48,000 total flight hours when micro-cracking was first observed. FedEx 
+also stated that the removal of interference fit fasteners will 
+typically require subsequent installation of an oversize fasteners and 
+multiple fastener replacements is expected to adversely affect the 
+joint stiffness and fatigue life of the subject wing spar region.
+    The FAA acknowledges that removal of interference fit fasteners may 
+require oversizing the fastener hole but does not agree with delaying 
+the inspections because the FAA considered crack reports across the 
+entire 777 fleet of airplanes in determining the compliance times. The 
+FAA received reports of crack findings earlier than 40,000 total flight 
+hours or 6,500 total flight cycles. Therefore, the FAA has not changed 
+this AD in this regard. The FAA will, however, consider AMOCs in 
+accordance with the paragraph (i) of this AD for compliance time 
+extensions provided substantiation data is submitted to show an 
+acceptable level of safety is maintained with the alternate inspection 
+intervals.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, this 
+AD is adopted as proposed in the SNPRM. None of the changes will 
+increase the economic burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin 777-57A0125 RB, 
+dated July 25, 2023. This material specifies procedures for repetitive 
+inspections for cracking of the upper wing skin common to certain 
+fasteners and applicable on-condition actions. On-condition actions 
+include repair.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 323 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspections......................  40 work-hours x $85        * $1,480  $4,880 per           $1,576,240 per
+                                    per hour = $3,400                    inspection cycle.    inspection cycle.
+                                    per inspection
+                                    cycle.
+----------------------------------------------------------------------------------------------------------------
+* An inspection kit is required.
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition repairs specified in this AD.
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this AD may be covered under warranty, thereby reducing the cost impact 
+on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(f), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+
+[[Page 12685]]
+
+
+2025-06-02 The Boeing Company: Amendment 39-22990; Docket No. FAA-
+2023-2151; Project Identifier AD-2023-00984-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective April 23, 2025.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model 777-200, -200LR, 
+-300, -300ER, and 777F series airplanes, certificated in any 
+category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of a 5-inch crack on the upper 
+wing skin at wing station (WSTA) 460 of the right wing. The FAA is 
+issuing this AD to address the possibility of an undetected upper 
+wing skin crack. The unsafe condition, if not addressed, could 
+result in the inability of the primary structural element to sustain 
+limit load and could adversely affect the structural integrity of 
+the airplane, resulting in loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified by paragraph (h) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin 777-57A0125 RB, dated July 25, 2023, do 
+all applicable actions identified in, and in accordance with, the 
+Accomplishment Instructions of Boeing Alert Requirements Bulletin 
+777-57A0125 RB, dated July 25, 2023.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+777-57A0125, dated July 25, 2023, which is referred to in Boeing 
+Alert Requirements Bulletin 777-57A0125 RB, dated July 25, 2023.
+
+(h) Exceptions to Service Information Specifications
+
+    (1) Where Boeing Alert Requirements Bulletin 777-57A0125 RB, 
+dated July 25, 2023, uses the phrase ``the original issue date of 
+Requirements Bulletin 777-57A0125 RB,'' this AD requires using the 
+effective date of this AD.
+    (2) Where Boeing Alert Requirements Bulletin 777-57A0125 RB, 
+dated July 25, 2023, specifies contacting Boeing for repair 
+instructions: This AD requires doing the repair before further 
+flight using a method approved in accordance with the procedures 
+specified in paragraph (i) of this AD.
+    (3) Where note (a) of the tables in the ``Compliance'' paragraph 
+and Accomplishment Instructions of Boeing Alert Requirements 
+Bulletin 777-57A0125 RB, dated July 25, 2023, specifies that a 
+``repair for any crack found on the left wing is terminating action 
+to the repeat inspection on the left wing only,'' or that a ``repair 
+for any crack found on the right wing is terminating action to the 
+repeat inspection on the right wing only,'' for this AD, performing 
+a repair for any crack in accordance with the procedures specified 
+in paragraph (i) of this AD terminates the repetitive inspections 
+required by (g) of this AD at the repaired area only.
+    (4) For Model 777-300 (Group 3) airplanes, where Boeing Alert 
+Requirements Bulletin 777-57A0125 RB, dated July 25, 2023, specifies 
+an ultrasonic (UT) inspection of the upper wing skin common to 
+fasteners 11 and 12, this AD requires an open hole high frequency 
+eddy current (HFEC) inspection of fasteners 11 and 12 in accordance 
+with Figures 5 and 6 (for the left wing) or Figures 18 and 19 (for 
+the right wing), as applicable.
+    (5) For Model 777-300ER (Group 4) airplanes, where Boeing Alert 
+Requirements Bulletin 777-57A0125 RB, dated July 25, 2023, requires 
+a UT inspection of the upper wing skin common to fasteners 6 and 7, 
+this AD requires this AD requires an open hole HFEC inspection of 
+fasteners 6 and 7 in accordance with Figures 30 and 34 (for the left 
+wing) or Figures 39 and 43 (for the right wing), as applicable.
+    (6) For Model 777-200LR (Group 5) airplanes, where Boeing Alert 
+Requirements Bulletin 777-57A0125 RB, dated July 25, 2023, requires 
+a UT inspection of the upper wing skin common to fasteners 6 and 7, 
+this AD requires an open hole HFEC inspection of fasteners 6 and 7 
+in accordance with Figures 30 and 34 (for the left wing) or Figures 
+39 and 43 (for the right wing), as applicable.
+    (7) For Model 777F (Group 6) airplanes, where Boeing Alert 
+Requirements Bulletin 777-57A0125 RB, dated July 25, 2023, requires 
+a UT inspection of the upper wing skin common to fasteners 6 and 7, 
+this AD requires an open hole HFEC inspection of fasteners 6 and 7 
+in accordance with Figures 30 and 34 (for the left wing) or Figures 
+39 and 43 (for the right wing), as applicable.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the certification office, 
+send it to the attention of the person identified in paragraph 
+(j)(1) of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#eeafa3a1adae888f8fc0898198"><span class="__cf_email__" data-cfemail="46070b09050620272768212930">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact Luis Cortez-
+Muniz, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 206-231-3958; email: <a href="/cdn-cgi/l/email-protection#e1ad948892cfa0cfa28e9395849bccac948f889ba1878080cf868e97"><span class="__cf_email__" data-cfemail="87cbf2eef4a9c6a9c4e8f5f3e2fdaacaf2e9eefdc7e1e6e6a9e0e8f1">[email&#160;protected]</span></a>.
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (k)(3) 
+this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Requirements Bulletin 777-57A0125 RB, dated 
+July 25, 2023.
+    (ii) [Reserved]
+    (3) For Boeing material, contact Boeing Commercial Airplanes, 
+Attention: Contractual & Data Services (C&DS), 2600 Westminster 
+Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; telephone 562-797-
+1717; website <a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a> or email <a href="/cdn-cgi/l/email-protection#395f4b1750574a495c5a4d5056577957584b58175e564f"><span class="__cf_email__" data-cfemail="583e2a7631362b283d3b2c3137361836392a39763f372e">[email&#160;protected]</span></a>.
+
+    Issued on March 13, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-04440 Filed 3-18-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

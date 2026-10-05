@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SCHEINMAN &middot; Archive</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="$FONTS">
+<style>
+$WORLD
+  .key-form { display: flex; gap: var(--s3); flex-wrap: wrap; align-items: center; }
+  .key-form input { min-width: 300px; flex: 1 1 300px; }
+  .empty { border: 1px dashed var(--hairline-2); padding: var(--s7) var(--s5); text-align: center;
+    display: grid; gap: var(--s3); justify-items: center; }
+  .closed { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="frame">
+$RAIL
+  <div class="column">
+$TOPBAR
+    <main>
+      <div class="wrap">
+
+        <section id="opening">
+          <div class="dim"><h2>Your archive</h2><span class="rule"></span>
+            <span class="label count">Every job ever run</span></div>
+          <p class="lead" id="opening-note">Opening the archive...</p>
+        </section>
+
+        <section id="gate" hidden>
+          <div class="dim"><h2>Your archive</h2><span class="rule"></span>
+            <span class="label count">Every job ever run</span></div>
+          <p class="lead">Every finished job is kept here for good. A visitor's link closes after 30
+            days; nothing behind it is deleted, and this page still opens it. Your session did not
+            open it, so paste the operator key.</p>
+          <form id="gate-form" class="key-form" style="margin-top: var(--s5);">
+            <label class="label" for="key">Operator key</label>
+            <input type="password" id="key" autocomplete="current-password" placeholder="paste the key">
+            <button type="submit" class="btn">Open</button>
+          </form>
+          <div id="gate-error" class="banner is-stop" role="alert" style="margin-top: var(--s4);" hidden></div>
+        </section>
+
+        <section id="list" hidden>
+          <div class="dim"><h2>Your archive</h2><span class="rule"></span>
+            <span class="label count" id="count"></span></div>
+          <p class="lead" id="summary"></p>
+
+          <div id="empty" class="empty" style="margin-top: var(--s5);" hidden>
+            <span class="label">Nothing here yet</span>
+            <p class="note">No part has been through the counter. The first one you send appears
+              here the moment it arrives.</p>
+            <a class="btn-ghost" href="$BASE/inspect">Inspect a part</a>
+          </div>
+
+          <div class="scroll" id="table-wrap" style="margin-top: var(--s5);">
+            <table class="data">
+              <thead><tr><th>Submitted</th><th>Part</th><th>Context</th><th>Verdict</th>
+                <th>Findings</th><th>Visitor link</th><th></th></tr></thead>
+              <tbody id="rows"></tbody>
+            </table>
+          </div>
+          <p class="note" style="margin-top: var(--s4);"><span id="key-note">This key is remembered in
+            this browser only, so opening a closed job from here just works.</span>
+            <button type="button" class="btn-ghost btn-small" id="forget">Forget the key</button></p>
+        </section>
+
+      </div>
+    </main>
+$FOOT
+  </div>
+</div>
+$LOCK
+<script>
+(function () {
+  'use strict';
+  var $ = function (id) { return document.getElementById(id); };
+  var STORE = 'scheinman-owner-key';
+
+  function escapeHtml(text) {
+    return String(text == null ? '' : text).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+  // Browser storage is scoped to the ORIGIN, never to the path. On a hostname
+  // this app shares with other pages (shared-host mounting, 2026-09-15) any script there
+  // could read an owner key kept here, so under a prefix the key is used for
+  // the request and never written down; anything an earlier build left behind
+  // is cleared on load. On its own hostname nothing changes.
+  var SHARED_ORIGIN = '$BASE' !== '';
+  function remembered() {
+    if (SHARED_ORIGIN) return null;
+    try { return localStorage.getItem(STORE); } catch (e) { return null; }
+  }
+  function remember(key) {
+    if (SHARED_ORIGIN) return;
+    try { localStorage.setItem(STORE, key); } catch (e) {}
+  }
+  function forget() { try { localStorage.removeItem(STORE); } catch (e) {} }
+  if (SHARED_ORIGIN) {
+    forget();
+    // Nothing is kept here, so the page must not claim it is. On a shared
+    // hostname the key is used for the request and never written down, and the
+    // door is what proved who this visitor is.
+    $('key-note').textContent =
+      'This page is open because the door is. The operator key is never stored in this browser.';
+    $('forget').hidden = true;
+  }
+
+  function open(key) {
+    // While the site is password-gated, the door already proved who this is, so
+    // the archive opens with no key at all. The key stays for a script, or for
+    // the day the password comes off.
+    var headers = key ? { 'x-scheinman-owner': key } : {};
+    return fetch('$BASE/api/archive', { headers: headers }).then(function (r) {
+      if (r.status === 401) throw new Error('That key does not open the archive.');
+      if (!r.ok) throw new Error('The archive could not be read right now.');
+      return r.json();
+    }, function () {
+      // A dropped connection reports itself as "Failed to fetch", which is the
+      // browser talking to a developer, not this page talking to its reader.
+      throw new Error('The archive could not be reached from this browser.');
+    });
+  }
+
+  var VERDICT_CLASS = {
+    clean: 'is-pass', corrected: 'is-pass', uncorrected: 'is-live',
+    refused: 'is-stop', error: 'is-stop', queued: 'is-line', running: 'is-line'
+  };
+
+  function render(data) {
+    var jobs = data.jobs || [];
+    $('opening').hidden = true;
+    $('gate').hidden = true;
+    $('list').hidden = false;
+    $('count').textContent = (data.total || jobs.length) + ' job' +
+      ((data.total || jobs.length) === 1 ? '' : 's') +
+      (data.more ? ' (showing the newest ' + jobs.length + ')' : '');
+    var done = jobs.filter(function (j) { return j.status !== 'queued' && j.status !== 'running'; });
+    var corrected = jobs.filter(function (j) { return j.status === 'corrected'; }).length;
+    $('summary').textContent = done.length + ' finished, ' + corrected +
+      ' of them corrected and proven by re-measurement. Nothing here expires.';
+    $('empty').hidden = jobs.length !== 0;
+    $('table-wrap').hidden = jobs.length === 0;
+    if (!jobs.length) { $('summary').textContent = 'Nothing has been run yet.'; return; }
+    var now = Date.now();
+    $('rows').innerHTML = jobs.map(function (j) {
+      var closed = j.public_until && new Date(j.public_until).getTime() < now;
+      return '<tr>' +
+        '<td class="n">' + escapeHtml((j.created_at || '').slice(0, 16).replace('T', ' ')) + '</td>' +
+        '<td>' + escapeHtml(j.part_name) + '</td>' +
+        '<td class="n">' + escapeHtml(j.material_series) + ' · ' + escapeHtml(j.loading) + '</td>' +
+        '<td><span class="tag ' + (VERDICT_CLASS[j.status] || '') + '">' + escapeHtml(j.status) + '</span></td>' +
+        '<td class="n">' + (j.findings || 0) + '</td>' +
+        '<td class="' + (closed ? 'closed' : '') + '">' +
+        (closed ? 'closed ' + escapeHtml((j.public_until || '').slice(0, 10))
+                : 'open until ' + escapeHtml((j.public_until || '').slice(0, 10))) + '</td>' +
+        '<td><a class="btn-ghost btn-small" href="$BASE/inspect?job=' + escapeHtml(j.id) + '">Open</a></td>' +
+        '</tr>';
+    }).join('');
+  }
+
+  $('gate-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var key = $('key').value.trim();
+    if (!key) return;
+    $('gate-error').hidden = true;
+    open(key).then(function (data) { remember(key); render(data); })
+      .catch(function (error) {
+        $('gate-error').textContent = error.message;
+        $('gate-error').hidden = false;
+      });
+  });
+
+  $('forget').addEventListener('click', function () { forget(); location.reload(); });
+
+  open(remembered() || '')
+    .then(render)
+    .catch(function (error) {
+      // A refused key is forgotten; a network hiccup is not a reason to forget
+      // anything, and the page says which of the two happened.
+      $('opening').hidden = true;
+      $('gate').hidden = false;
+      if (/does not open/.test(error.message)) {
+        if (remembered()) {
+          forget();
+          $('gate-error').textContent = 'The remembered key no longer opens the archive. Paste the current one.';
+          $('gate-error').hidden = false;
+        }
+      } else {
+        $('gate-error').textContent = error.message + ' Reload to try again.';
+        $('gate-error').hidden = false;
+      }
+    });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,411 @@
+<html>
+<head>
+<title>Federal Register, Volume 66 Issue 128 (Tuesday, July 3, 2001)</title>
+</head>
+<body><pre>
+[Federal Register Volume 66, Number 128 (Tuesday, July 3, 2001)]
+[Rules and Regulations]
+[Pages 35077-35080]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 01-16200]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 98-NM-271-AD; Amendment 39-12296; AD 2001-13-15]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 757 Series Airplanes 
+Equipped with Rolls Royce Engines
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Boeing Model 757 series airplanes, that requires 
+a one-time inspection to find wire chafing of the left and right engine 
+fuel shutoff valve wire bundles at Power Plant Station 278 on each 
+engine strut, and repair if necessary. This amendment also requires 
+replacement of three wire support brackets with improved wire support 
+brackets. This amendment is prompted by reports that such wire support 
+brackets failed due to fatigue, which subsequently caused the fuel 
+shutoff valve wire to chafe and to experience a short circuit. The 
+actions specified by this AD are intended to prevent such conditions, 
+which could result in either the possible ignition of fuel vapors in a 
+flammable leakage zone or in the inability to stop the flow of fuel in 
+the event of an engine fire.
+
+DATES: Effective August 7, 2001.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of August 7, 2001.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, 
+Washington 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Stephen S. Oshiro, Aerospace Engineer, 
+Systems and Equipment Branch, ANM-130S, FAA, Seattle Aircraft 
+Certification Office, 1601 Lind Avenue, SW., Renton, Washington 98055-
+4056; telephone (425) 227-2793; fax (425) 227-1181.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain Boeing Model 757 series 
+airplanes was published in the Federal Register on August 4, 1999 (64 
+FR 42050). That action proposed to require repetitive inspections to 
+detect wire chafing of the left and right engine fuel shutoff valve 
+wire bundles at Power Plant Station 278 on each engine strut, and 
+repair if necessary. That action also proposed to require repetitive 
+replacement of three wire support brackets with improved wire support 
+brackets.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due
+
+[[Page 35078]]
+
+consideration has been given to the comments received.
+
+Addition of Service Bulletin Information Notice
+
+    One commenter, the airplane manufacturer, indicates that during its 
+investigation of the wire support bracket failure it established that 
+Boeing Service Bulletin 757-54-0013, Revision 3, dated October 23, 1997 
+(cited in the proposal as the source of service information for doing 
+the specified actions) contained an incorrect part number for an 
+attachment fastener. The commenter adds that the part number was 
+corrected in Boeing Information Notice 757-54-0013 IN 01, dated October 
+22, 1998.
+    The FAA infers that the commenter wants to add IN 01 to the service 
+information cited in the final rule. Subsequent to receipt of this 
+comment, we reviewed and approved Boeing Information Notice 757-54-0013 
+IN 02, dated April 8, 1999, which supersedes IN 01. IN 02 contains 
+additional information for proper accomplishment of the modifications 
+described in the service bulletin, as well as the corrected part number 
+specified by the commenter. We concur with the commenter's request, but 
+will add IN 02 to the service information cited in the final rule.
+
+Revise Paragraph (a)
+
+    One commenter, the airplane manufacturer, states that it did an 
+analysis of the new, improved wire support brackets to determine the 
+fatigue level allowable. The analysis showed that the two lower 
+aluminum brackets were undersized for the vibration environment in the 
+aft strut area, and that the nickel alloy brackets were capable of 
+withstanding the vibration environment, with fatigue allowables that 
+exceed the stress levels by 80 percent. Analysis done on the third 
+bracket showed that the aluminum brackets are also satisfactory. This 
+analysis was conducted per standard Boeing practice for equipment in 
+the nacelle and strut areas, using well-established stress values.
+    Based on the above information, the commenter states that replacing 
+all 6 brackets every 12 months is unnecessary and will impose a 
+considerable economic burden on affected operators. The commenter 
+proposes revising paragraph (a) of the proposed rule as follows:
+    <bullet> Incorporate Boeing Service Bulletin 757-54-0013, Revision 
+3, dated October 23, 1997, within 12 months after the effective date of 
+the AD. This would constitute terminating action for the proposed rule. 
+Or
+    <bullet> For operators that do not incorporate the Revision 3 of 
+the service bulletin, repetitively inspect the installation for chafing 
+or damage of the wire bundle, and for cracked or fractured brackets. 
+The repetitive inspection should be accomplished at intervals not to 
+exceed 18 months, with bracket replacement if any evidence of cracking 
+or damage is found.
+    The FAA partially agrees with the commenter's proposal, as follows:
+    We agree with the assessment that the replacement brackets 
+specified in Revision 3 of the service bulletin are adequate to meet 
+the strut vibration environment, and that incorporation of such 
+replacement brackets would eliminate the need for the repetitive 
+inspections and repetitive replacements of the wire support brackets 
+specified in the proposed rule. Therefore, paragraphs (a) and (b) have 
+been combined into paragraph (a) with the repetitive inspections and 
+replacements omitted, and subsequent paragraphs have been re-numbered 
+accordingly. Additionally, the preamble and the cost impact sections of 
+the final rule have been changed.
+    We do not agree with the commenter's proposal to allow continued 
+use of the existing brackets with repetitive inspections beyond the 
+initial 12-month compliance time. The commenter did not submit adequate 
+justification for allowing the continued use of these brackets, or 
+extending the compliance time for the repetitive inspections from 12 to 
+18 months. The existing brackets can fail in service, and such failures 
+could result in damage to wiring, ignition of fuel vapors in a 
+flammable leakage zone, or loss of the fuel shutoff valve function. 
+Considering these safety concerns, repetitive inspections without 
+replacement of the wire support brackets after the doing the inspection 
+would not adequately address the identified unsafe condition.
+
+Withdraw Proposed Rule
+
+    One commenter asks that the FAA withdraw the proposed rule. The 
+commenter provided in service data showing that airplanes which have 
+replaced the wire support brackets per Boeing Service Bulletin 757-54-
+0013, Revision 3, have experienced no problems with the brackets. The 
+commenter states that the annual bracket replacement (every 12 months) 
+is not possible or practical because the repetitive bracket 
+replacements would involve repetitive replacement of close tolerance 
+fasteners, and would require repeated oversizing of the existing 
+airplane mounting holes. This could result in the holes being too large 
+for proper installation of the brackets. The commenter adds that a 
+deviation to the proposed rule would be necessary each time the 
+fasteners are replaced.
+    The FAA concurs with the commenter's assessment that the brackets 
+that were replaced per Revision 3 of the service bulletin are adequate; 
+however, we do not agree with the request to withdraw the proposed 
+rule. Failure to install the replacement brackets per the referenced 
+service bulletin could result in the unsafe conditions stated under the 
+previous section titled ``Revise Paragraph (a).'' Also stated in that 
+section is our intent to omit the repetitive inspections and repetitive 
+bracket replacements specified in paragraph (a) of the proposed rule. 
+Paragraph (a) of the final rule has been revised to require a one-time 
+inspection and one-time replacement of the wire support brackets.
+
+Reduce Compliance Time
+
+    One commenter asks that the FAA reduce the proposed compliance time 
+for the initial inspection specified in paragraph (a) of the proposed 
+rule from 12 months to 6 months after the effective date of the AD. The 
+commenter states that 12 months is too long and notes that, based on 
+previous administrative procedures and industry practices, it could be 
+almost 18 months before an airplane is inspected. The commenter adds 
+that this places the traveling public at an elevated risk and greatly 
+reduces the margin of safety on the airplane.
+    The FAA does not agree. As discussed in the section ``Differences 
+Between Proposed Rule and Service Bulletin'' in the preamble of the 
+proposed rule, we find that a 12-month compliance time for the initial 
+inspection would address the unsafe condition in a timely manner. In 
+developing an appropriate compliance time for the proposed AD, we 
+considered not only the manufacturer's recommendation, but the degree 
+of urgency associated with addressing the subject unsafe condition, the 
+average utilization of the affected fleet, and the time necessary to do 
+the initial inspection/modification.
+    Operators are always permitted to accomplish the requirements of an 
+AD at a time earlier than that specified as the compliance time; 
+therefore, if an operator wants to do the initial inspection required 
+by paragraph (a) of this AD earlier than 12 months after the effective 
+date of the AD, the operator can do so. Therefore, no change to the 
+compliance time for the initial inspection required by paragraph (a) of 
+the final rule is necessary.
+
+[[Page 35079]]
+
+Extend Compliance Time
+
+    One commenter states that the proposed 12-month compliance 
+timetable for the bracket replacement is unrealistic and asks that the 
+compliance time be extended to 18 months. The commenter notes that it 
+is currently implementing the modification at its C-check, and requires 
+18 months to modify its entire fleet. The commenter also states that 
+the manufacturer has quoted a 22-month lead time for obtaining the 
+necessary kits, which is not compatible with the timetable specified in 
+the proposed rule.
+    The FAA does not agree. As stated above, we find that a 12-month 
+compliance time for the initial inspection/modification is appropriate.
+
+Fuel Shutoff Valve (FSOV)
+
+    One commenter notes that the FSOV can be closed using the redundant 
+circuit routed on the front spar, as long as power is available to that 
+circuit. The FAA agrees with the statement and infers that the 
+commenter wants further explanation of the procedures available should 
+this situation occur. This can occur only if the engine fuel cutoff 
+switch is placed in the ``cutoff'' position before the engine fire 
+handle is pulled. The procedural information is described in the 
+Emergency Procedures section of the 757 Airplane Flight Manual.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 501 airplanes of the affected design in the 
+worldwide fleet. The FAA estimates that 249 airplanes of U.S. registry 
+will be affected by this AD.
+    It will take approximately 2 work hours to accomplish the required 
+inspection and approximately 6 work hours per airplane to accomplish 
+the required replacement. The average labor rate is estimated to be $60 
+per work hour. Required parts will cost approximately $525 per 
+airplane. Based on these figures, the cost impact of the AD on U.S. 
+operators is estimated to be $250,245, or $1,005 per airplane.
+    The cost impact figures discussed above are based on assumptions 
+that no operator has yet accomplished any of the requirements of this 
+AD action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2001-13-15  Boeing: Amendment 39-12296. Docket 98-NM-271-AD.
+
+    Applicability: Model 757 series airplanes, certificated in any 
+category, equipped with Rolls Royce engines.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (c) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent a short circuit that could result in either the 
+possible ignition of fuel vapors in a flammable leakage zone or in 
+the inability to stop the flow of fuel in the event of an engine 
+fire, accomplish the following:
+
+Inspection/Corrective Action
+
+    (a) Within 12 months after the effective date of this AD, 
+accomplish paragraphs (a)(1) and (a)(2) of this AD.
+    (1) Do a one-time detailed visual inspection of the wire bundles 
+that pass through the three wire support brackets located at Power 
+Plant Station (PPS) 278 on each engine strut, to find wire chafing. 
+If any chafing is found, before further flight, repair the wire 
+bundle per the Boeing Standard Wiring Practices Manual, Document D6-
+54446, Revision 23, dated August 1998.
+    (2) Replace all three existing wire support brackets located at 
+PPS 278 on each engine strut with new, improved wire support 
+brackets, per Boeing Service Bulletin 757-54-0013, Revision 3, dated 
+October 23, 1997, as revised by Boeing Information Notice 757-54-
+0013 IN 02, dated April 8, 1999.
+
+    Note 2: For the purposes of this AD, a detailed visual 
+inspection is defined as: ``An intensive visual examination of a 
+specific structural area, system, installation or assembly to detect 
+damage, failure, or irregularity. Available lighting is normally 
+supplemented with a direct source of good lighting at intensity 
+deemed appropriate by the inspector. Inspection aids such as mirror, 
+magnifying lenses, etc., may be used. Surface cleaning and elaborate 
+access procedures may be required.''
+
+Spares Paragraph
+
+    (b) As of the effective date of this AD, no person shall install 
+a wire support bracket having P/N 287N1112-8, -9, -20, or -21 on any 
+airplane.
+
+Alternative Methods of Compliance
+
+    (c) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle Aircraft Certification 
+Office (ACO), FAA. Operators shall submit their requests through an 
+appropriate FAA Principal Maintenance
+
+[[Page 35080]]
+
+Inspector, who may add comments and then send it to the Manager, 
+Seattle ACO.
+
+    Note 3: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Seattle ACO.
+
+Special Flight Permits
+
+    (d) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (e) Except as provide by paragraph (a)(1) of this AD, the 
+actions shall be done in accordance with Boeing Service Bulletin 
+757-54-0013, Revision 3, dated October 23, 1997, as revised by 
+Boeing Information Notice 757-54-0013 IN 02, dated April 8, 1999. 
+This incorporation by reference was approved by the Director of the 
+Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 
+51. Copies may be obtained from Boeing Commercial Airplane Group, 
+P.O. Box 3707, Seattle, Washington 98124-2207. Copies may be 
+inspected at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the Office of the Federal 
+Register, 800 North Capitol Street, NW., suite 700, Washington, DC.
+
+Effective Date
+
+    (f) This amendment becomes effective on August 7, 2001.
+
+    Issued in Renton, Washington, on June 21, 2001.
+Kalene C. Yanamura,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 01-16200 Filed 7-2-01; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

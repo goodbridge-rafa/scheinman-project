@@ -1,0 +1,495 @@
+<html>
+<head>
+<title>Federal Register, Volume 90 Issue 234 (Tuesday, December 9, 2025)</title>
+</head>
+<body><pre>
+[Federal Register Volume 90, Number 234 (Tuesday, December 9, 2025)]
+[Rules and Regulations]
+[Pages 56977-56980]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2025-22363]
+
+
+
+[[Page 56977]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0338; Project Identifier AD-2024-00641-T; 
+Amendment 39-23188; AD 2025-23-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. 
+This AD was prompted by reports of multiple nonconformances, including 
+excessive gaps and pull-up, in the forward pressure bulkhead. This AD 
+requires an internal and external detailed inspection (DET) of the 
+forward pressure bulkhead (FPB) for any damage and performing 
+applicable on-condition actions. The FAA is issuing this AD to address 
+the unsafe condition on these products.
+
+DATES: This AD is effective January 13, 2026.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of January 13, 
+2026.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-0338; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building, Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website <a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    <bullet> You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-0338.
+
+FOR FURTHER INFORMATION CONTACT: Joseph Hodgin, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3962; email: <a href="/cdn-cgi/l/email-protection#147e7b6771647c3a7e3a7c7b70737d7a547275753a737b62"><span class="__cf_email__" data-cfemail="553f3a2630253d7b3f7b3d3a31323c3b153334347b323a23">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain The Boeing 
+Company Model 787-8, 787-9, and 787-10 airplanes. The NPRM was 
+published in the Federal Register on March 14, 2025 (90 FR 12115). The 
+NPRM was prompted by reports of multiple nonconformances, including 
+excessive gaps and pull-up, in the forward pressure bulkhead. In the 
+NPRM, the FAA proposed to require an internal and external DET of the 
+FPB for any damage and performing applicable on-condition actions. The 
+FAA is issuing this AD to address fatigue cracks that can develop prior 
+to baseline structural inspection thresholds. The unsafe condition, if 
+not addressed, could result in undetected fatigue cracks that can grow 
+to weaken the primary structure where it cannot sustain limit load, 
+which could adversely affect the structural integrity of the airplane.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from Boeing, ProTech Aero Services 
+Limited (ProTech), two individuals, and two anonymous commenters who 
+supported the NPRM without change.
+    The FAA also received comments from Qantas Airlines (Qantas) and 
+United Airlines (UAL), who supported the NPRM but also requested 
+changes as discussed below.
+    The FAA received additional comments from three other commenters, 
+including the Foundation for Aviation Safety, an individual, and an 
+anonymous commenter. The following presents the comments received on 
+the NPRM and the FAA's response to each comment.
+
+Request To Correct a Typographical Error
+
+    UAL and Qantas requested that the FAA revise paragraph (d) of the 
+proposed AD to read ``Air Transport Association (ATA) of America Code 
+53, Fuselage.'' Qantas commented that ATA 41 is a minor error in 
+paragraph (d) in the proposed AD. Both commenters stated that the ATA 
+code should be 53.
+    The FAA agrees to correct the typographical error. The FAA has 
+revised paragraph (d) of this AD accordingly.
+
+Request To Revise Work Instructions
+
+    UAL requested that the FAA revise the Work Instructions of Boeing 
+Alert Service Bulletin B787-81205-SB530093-00, Issue 001, dated October 
+5, 2024, to remove step (b) of Part 1 from the service bulletin or make 
+it optional. UAL commented that step (b) of Part 1 instructs to remove 
+the insulation blanket from the nose radome area and stated that no 
+insulation blanket is present per Boeing Illustrated Parts Data (IPD) 
+53-13-01-01.
+    The FAA disagrees with UAL's request. Step (b) of Part 1 of Boeing 
+Alert Service Bulletin B787-81205-SB530093-00, Issue 001, dated October 
+5, 2024, is not a Required for Compliance (RC) step, therefore it is 
+optional to perform. The FAA has not changed this AD in this regard.
+
+Request for Reporting to the FAA
+
+    An anonymous commenter requested that all inspection reports be 
+submitted to the FAA in anonymized form to facilitate broader data 
+collection and trend analysis.
+    The FAA disagrees with the commenter's request. The actions 
+required by this AD address the identified unsafe condition. The FAA 
+notes that if any cracking is found as the result of any inspections, 
+then it must be reported in accordance with 14 CFR 21.3 The FAA has not 
+changed this AD in this regard.
+
+Request To Expand Inspections and Mandate Re-Inspection
+
+    An anonymous commenter requested that the FAA expand the 
+inspections to include adjacent fuselage structures potentially 
+affected by assembly errors to prevent undetected cascading structural 
+failures. The commenter also requested that the FAA mandate periodic 
+re-inspection schedules beyond the initial compliance for affected 
+aircraft.
+    The FAA disagrees with the commenter's request. The actions 
+required by this AD address the identified unsafe condition. The FAA 
+notes that for any repaired area, post-repair inspections are required 
+by maintenance and operational rules; therefore, it is not necessary to 
+mandate them in this AD. However, if additional data are presented that 
+would justify expanding the inspection area or mandating repetitive 
+inspections, the FAA might consider further rulemaking
+
+[[Page 56978]]
+
+on this issue. The FAA has not revised this AD in this regard.
+
+Request To Address Costs of Compliance
+
+    An anonymous commenter requested that, given that on-condition 
+repairs may not be fully covered under warranty, the FAA provide more 
+detailed cost ranges to better inform small operators and promote 
+economic equity.
+    The FAA acknowledges the commenter's concern. For this AD, the 
+repair costs will vary depending on what damage is found, so the FAA 
+has no way of estimating them. Although this AD imposes certain 
+operational costs (inspections) on operators, all operators have an 
+obligation to ensure that their airplanes are in airworthy condition. 
+The FAA has not changed the AD in this regard.
+
+Feedback on Training, Environmental Impact, Supply Chain, Worker 
+Safety, Diversity, and New Technology
+
+    An anonymous commenter provided feedback on a range of topics, 
+including workforce training, environmental impact, supply chain 
+oversight, worker safety reporting, diversity and equity 
+considerations, and new technologies.
+    The FAA acknowledges the commenter's feedback; however, these 
+matters are outside the scope of this AD, and the commenter did not 
+request any specific revisions to the proposed AD. The FAA has not 
+changed this AD in this regard.
+
+Request To Address Concerns With Forward Pressure Bulkheads
+
+    An individual expressed concern that the proposed AD is inadequate 
+and does not adequately address the underlying issues with non-
+compliant forward pressure bulkheads. The commenter stated there are 
+some problems with the forward pressure bulkhead and commented on 
+Boeing Alert Requirements Bulletin B787-81205-SB530093-00 RB, Issue 
+001, dated October 5, 2024. The commenter urged that the FAA further 
+investigate pressure bulkhead safety risks for the safety of the 
+public.
+    The FAA acknowledges the commenter's concern. The FAA investigated 
+and verified with Boeing that the concerns regarding problems with 
+forward pressure bulkheads were appropriately addressed in the analysis 
+conducted during the safety investigation. The FAA has determined that 
+an unsafe condition exists related to the forward pressure bulkhead, as 
+specified in paragraph (e) of this AD, and has worked with Boeing to 
+ensure all known non-conformances were considered during the evaluation 
+of this safety issue.
+
+Comments on Mandated Service Information
+
+    The same individual also provided comments on Boeing Alert 
+Requirements Bulletin B787-81205-SB530093-00 RB, Issue 001, dated 
+October 5, 2024, that relate to accomplishing the required actions. The 
+following specifies those comments that implicate a request for 
+changes, and the FAA's responses.
+    The commenter stated that the detailed inspection is inadequate 
+because sealant covers the inspection zone and stated that a non-
+destructive inspection (NDI) for cracking should instead be done.
+    The FAA notes that only the fastener is encased in sealant and that 
+it is not necessary to see the fastener to do the detailed inspection, 
+which looks for cracks that will extend beyond the fastener sealant and 
+cracks near the chord radius. An NDI is not required to detect such 
+cracking. The detailed inspections required by this AD detect any early 
+cracking resulting from identified non-conformances. However, if 
+additional data are presented that would justify requiring NDIs in the 
+subject area, the FAA might consider further rulemaking.
+    The commenter noted that for torque values, the structural repair 
+manual (SRM) should be followed on interference fit.
+    The FAA notes that the commenter referred to ``torque values'' in a 
+standard note in the General Information paragraph of the 
+Accomplishment Instructions of Boeing Alert Requirements Bulletin B787-
+81205-SB530093-00 RB, Issue 001, dated October 5, 2024. The removal and 
+installation of fasteners common to the forward pressure bulkhead is 
+not an action specified in the requirements bulletin. If, however, any 
+damage is detected during an inspection specified in Boeing Alert 
+Requirements Bulletin B787-81205-SB530093-00 RB, Issue 001, dated 
+October 5, 2024, the operator is instructed to contact Boeing for 
+repair instructions and do the repair. The repair instructions would 
+include fastener installation requirements such as torquing values and 
+appropriate hole fit requirements.
+    The commenter suggested ``a remove and replace'' in a standard note 
+in the General Information paragraph of the Accomplishment Instructions 
+of Boeing Alert Requirements Bulletin B787-81205-SB530093-00 RB, Issue 
+001, dated October 5, 2024.
+    The FAA notes that this is a standard note for removing parts for 
+access. No removal of structure is necessary to perform the required 
+detailed inspection. If, however, any damage is detected during an 
+inspection specified in Boeing Alert Requirements Bulletin B787-81205-
+SB530093-00 RB, Issue 001, dated October 5, 2024, the operator is 
+instructed to contact Boeing for repair instructions and do the repair. 
+The repair instructions would include any applicable removal and 
+replacement requirements.
+    The FAA has not changed this AD in regard to these comments.
+
+Support for Previous Commenter
+
+    The Foundation for Aviation Safety expressed support for the points 
+made by the individual who requested changes to the mandated service 
+instructions. They also expressed concern for the manufacturing of 
+Boeing airplanes, and the actions government agencies are taking to 
+mitigate what it described as chronic manufacturing problems.
+    The FAA addressed the referenced individual's comments above. 
+Otherwise, the Foundation for Aviation Safety did not request any 
+change to the AD.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, and 
+any other changes described previously, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin B787-81205-
+SB530093-00 RB, Issue 001, dated October 5, 2024. This material 
+specifies procedures for an internal DET of the FPB attach angle and 
+splice chords as well as an external DET of the FPB dome web and Y-
+chord for any damage and applicable on-condition actions including 
+repair. This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 135 airplanes of U.S. 
+registry.
+
+[[Page 56979]]
+
+The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspections...........................  10 work-hours x $85 per               $0            $850        $114,750
+                                         hour = $850.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition repairs specified in this AD.
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this AD may be covered under warranty, thereby reducing the cost impact 
+on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2025-23-05 The Boeing Company: Amendment 39-23188; Docket No. FAA-
+2025-0338; Project Identifier AD-2024-00641-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective January 13, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 787-8, 787-9, and 
+787-10 airplanes, certificated in any category, as identified in 
+Boeing Alert Requirements Bulletin B787-81205-SB530093-00 RB, Issue 
+001, dated October 5, 2024.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of multiple nonconformances, 
+including excessive gaps and pull-up, in the forward pressure 
+bulkhead. The FAA is issuing this AD to address fatigue cracks that 
+can develop prior to baseline structural inspection thresholds. The 
+unsafe condition, if not addressed, could result in undetected 
+fatigue cracks that can grow to weaken the primary structure where 
+it cannot sustain limit load, which could adversely affect the 
+structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified by paragraph (h) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin B787-81205-SB530093-00 RB, Issue 001, 
+dated October 5, 2024, do all applicable actions identified in, and 
+in accordance with, the Accomplishment Instructions of Boeing Alert 
+Requirements Bulletin B787-81205-SB530093-00 RB, Issue 001, dated 
+October 5, 2024.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+B787-81205-SB530093-00, Issue 001, dated October 5, 2024, which is 
+referred to in Boeing Alert Requirements Bulletin B787-81205-
+SB530093-00 RB, Issue 001, dated October 5, 2024.
+
+(h) Exceptions to Requirements Bulletin Specifications
+
+    (1) Where the Compliance Time columns of the tables in the 
+``Compliance'' paragraph of Boeing Alert Requirements Bulletin B787-
+81205-SB530093-00 RB, Issue 001, dated October 5, 2024, refer to the 
+Issue 001 date of Requirements Bulletin B787-81205-SB530093-00 RB, 
+this AD requires using the effective date of this AD.
+    (2) Where Boeing Alert Requirements Bulletin B787-81205-
+SB530093-00 RB, Issue 001, dated October 5, 2024, specifies 
+contacting Boeing for repair instructions, this AD requires doing 
+the repair using a method approved in accordance with the procedures 
+specified in paragraph (i) of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the certification office, 
+send it to the attention of the person identified in paragraph 
+(j)(1) of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#793834363a391f1818571e160f"><span class="__cf_email__" data-cfemail="e8a9a5a7aba88e8989c68f879e">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this
+
+[[Page 56980]]
+
+AD if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact Joseph Hodgin, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3962; email: <a href="/cdn-cgi/l/email-protection#85efeaf6e0f5edabefabedeae1e2ecebc5e3e4e4abe2eaf3"><span class="__cf_email__" data-cfemail="caa0a5b9afbaa2e4a0e4a2a5aeada3a48aacababe4ada5bc">[email&#160;protected]</span></a>.
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (k)(3) 
+this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Requirements Bulletin B787-81205-SB530093-00 
+RB, Issue 001, dated October 5, 2024.
+    (ii) [Reserved]
+    (3) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website <a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a> or email <a href="/cdn-cgi/l/email-protection#badcc894d3d4c9cadfd9ced3d5d4fad4dbc8db94ddd5cc"><span class="__cf_email__" data-cfemail="7513075b1c1b06051016011c1a1b351b1407145b121a03">[email&#160;protected]</span></a>.
+
+    Issued on December 5, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-22363 Filed 12-8-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

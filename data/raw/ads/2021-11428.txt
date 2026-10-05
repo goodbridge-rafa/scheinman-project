@@ -1,0 +1,423 @@
+<html>
+<head>
+<title>Federal Register, Volume 86 Issue 103 (Tuesday, June 1, 2021)</title>
+</head>
+<body><pre>
+[Federal Register Volume 86, Number 103 (Tuesday, June 1, 2021)]
+[Rules and Regulations]
+[Pages 29181-29183]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2021-11428]
+
+
+
+[[Page 29181]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2021-0367; Project Identifier MCAI-2020-01398-T; 
+Amendment 39-21562; AD 2021-10-29]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes. This AD was prompted by a determination that the 
+cabin swift broadband antenna doubler installation does not meet 
+widespread fatigue damage (WFD) requirements. This AD requires a one-
+time special detailed inspection of certain fastener holes, replacement 
+of the cabin swift broadband antenna doubler, and repair if necessary, 
+as specified in a European Union Aviation Safety Agency (EASA) AD, 
+which is incorporated by reference. The FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+DATES: This AD becomes effective June 16, 2021.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of June 16, 
+2021.
+    The FAA must receive comments on this AD by July 16, 2021.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to <a href="https://www.regulations.gov">https://www.regulations.gov</a>. Follow the instructions for submitting comments.
+    <bullet> Fax: 202-493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    <bullet> Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For material incorporated by reference (IBR) in this AD, contact 
+EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email <a href="/cdn-cgi/l/email-protection#5514112615303426347b3020273a25347b3020"><span class="__cf_email__" data-cfemail="2f6e6b5c6f4a4e5c4e014a5a5d405f4e014a5a">[email&#160;protected]</span></a>; internet www.easa.europa.eu. You 
+may find this IBR material on the EASA website at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>. You may view this IBR material at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available in the AD 
+docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for 
+and locating Docket No. FAA-2021-0367.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. FAA-2021-
+0367; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD, any comments received, and other information. The street 
+address for Docket Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+Large Aircraft Section, International Validation Branch, FAA, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; 
+email <a href="/cdn-cgi/l/email-protection#a3d0c2cdc9c2da8dd1c2cfcbc2cde3c5c2c28dc4ccd5"><span class="__cf_email__" data-cfemail="2a594b44404b5304584b46424b446a4c4b4b044d455c">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2020-0218, dated October 12, 2020 
+(EASA AD 2020-0218) (also referred to as the Mandatory Continuing 
+Airworthiness Information, or the MCAI), to correct an unsafe condition 
+for certain Airbus SAS Model A319-111, -112, -113, -114, -115, -131, -
+132, and -133 airplanes.
+    This AD was prompted by a determination that the cabin swift 
+broadband antenna doubler installation does not meet WFD requirements. 
+The FAA is issuing this AD to address the potential effects of WFD on 
+the installation. This condition, if not corrected, could reduce the 
+structural integrity of the fuselage. See the MCAI for additional 
+background information.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2020-0218 describes procedures for accomplishing a special 
+detailed inspection (roto test high frequency eddy current) of the 
+affected fastener holes, repairing, if any cracks or other 
+discrepancies (e.g. oversized hole, corrosion, or other damage) are 
+found, and replacing the cabin swift broadband antenna doubler with a 
+modified doubler.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to the FAA's bilateral agreement with the State of Design Authority, 
+the FAA has been notified of the unsafe condition described in the MCAI 
+referenced above. The FAA is issuing this AD because the FAA evaluated 
+all pertinent information and determined the unsafe condition exists 
+and is likely to exist or develop on other products of the same type 
+design.
+
+Requirements of This AD
+
+    This AD requires accomplishing the actions specified in EASA AD 
+2020-0218 described previously, as incorporated by reference, except 
+for any differences identified as exceptions in the regulatory text of 
+this AD.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA initially worked with Airbus and EASA to develop a 
+process to use certain EASA ADs as the primary source of information 
+for compliance with requirements for corresponding FAA ADs. The FAA has 
+since coordinated with other manufacturers and civil aviation 
+authorities (CAAs) to use this process. As a result, EASA AD 2020-0218 
+is incorporated by reference in this final rule. This AD, therefore, 
+requires compliance with EASA AD 2020-0218 in its entirety, through 
+that incorporation, except for any differences identified as exceptions 
+in the regulatory text of this AD. Using common terms that are the same 
+as the heading of a particular section in the EASA AD does not mean 
+that operators need comply only with that section. For example, where 
+the AD requirement refers to ``all required actions and compliance 
+times,'' compliance with this AD requirement is not limited to the 
+section titled ``Required Action(s) and Compliance Time(s)'' in the 
+EASA AD. Service information specified in EASA AD 2020-0218 that is 
+required for compliance with EASA AD 2020-0218 is available on the 
+internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating 
+Docket No. FAA-2021-0367.
+
+[[Page 29182]]
+
+FAA's Justification and Determination of the Effective Date
+
+    Section 553(b)(3)(B) of the Administrative Procedure Act (APA) (5 
+U.S.C. 551 et seq.) authorizes agencies to dispense with notice and 
+comment procedures for rules when the agency, for ``good cause,'' finds 
+that those procedures are ``impracticable, unnecessary, or contrary to 
+the public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    There are currently no U.S.-registered airplanes affected by this 
+AD. Accordingly, notice and opportunity for prior public comment are 
+unnecessary, pursuant to 5 U.S.C. 553(b)(3). In addition, for the 
+foregoing reason(s), the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days.
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+ADDRESSES. Include ``Docket No. FAA-2021-0367; Project Identifier MCAI-
+2020-01398-T'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the final rule, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+<a href="https://www.regulations.gov">https://www.regulations.gov</a>, including any personal information you 
+provide. The agency will also post a report summarizing each 
+substantive verbal contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to Sanjay 
+Ralhan, Aerospace Engineer, Large Aircraft Section, International 
+Validation Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; 
+telephone and fax 206-231-3223; email <a href="/cdn-cgi/l/email-protection#cfbcaea1a5aeb6e1bdaea3a7aea18fa9aeaee1a8a0b9"><span class="__cf_email__" data-cfemail="1566747b7f746c3b6774797d747b557374743b727a63">[email&#160;protected]</span></a>. Any 
+commentary that the FAA receives which is not specifically designated 
+as CBI will be placed in the public docket for this rulemaking.
+
+Regulatory Flexibility Act (RFA)
+
+    The requirements of the RFA do not apply when an agency finds good 
+cause pursuant to 5 U.S.C. 553 to adopt a rule without prior notice and 
+comment. Because the FAA has determined that it has good cause to adopt 
+this rule without notice and comment, RFA analysis is not required.
+
+Costs of Compliance
+
+    Currently, there are no affected U.S.-registered airplanes. If an 
+affected airplane is imported and placed on the U.S. Register in the 
+future, the FAA provides the following cost estimates to comply with 
+this AD:
+
+                  Estimated Costs for Required Actions
+------------------------------------------------------------------------
+           Labor cost                 Parts cost       Cost per product
+------------------------------------------------------------------------
+239 work-hours x $85 per hour =   Up to $3,400......  Up to $23,715.
+ $20,315.
+------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition repairs specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by
+
+adding the following new airworthiness directive:2021-10-29 Airbus 
+SAS: Amendment 39-21562; Docket No. FAA-2021-0367; Project 
+Identifier MCAI-2020-01398-T.
+
+[[Page 29183]]
+
+(a) Effective Date
+
+    This airworthiness directive (AD) becomes effective June 16, 
+2021.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A319-111, -112, -113, -114, 
+-115, -131, -132, and -133 airplanes, certificated in any category, 
+as identified in European Union Aviation Safety Agency (EASA) AD 
+2020-0218, dated October 12, 2020 (EASA AD 2020-0218).
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a determination that the cabin swift 
+broadband antenna doubler installation does not meet widespread 
+fatigue damage (WFD) requirements. The FAA is issuing this AD to 
+address the potential effects of WFD on the installation. This 
+condition, if not corrected, could reduce the structural integrity 
+of the fuselage.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2020-0218.
+
+(h) Exceptions to EASA AD 2020-0218
+
+    (1) Where EASA AD 2020-0218 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) The ``Remarks'' section of EASA AD 2020-0218 does not apply 
+to this AD.
+    (3) Where paragraph (3) of EASA AD 2020-0218 specifies actions 
+if ``any discrepancy is detected,'' for this AD a ``discrepancy'' is 
+defined as any crack, oversized hole, corrosion, or other damage.
+    (4) Where paragraph (3) of EASA AD 2020-0218 specifies to 
+``contact Airbus for applicable corrective actions,'' if corrective 
+actions are associated with cracking, the cracking must be repaired 
+before further flight using a method approved by the Manager, Large 
+Aircraft Section, International Validation Branch, FAA; or EASA; or 
+Airbus SAS's EASA Design Organization Approval (DOA). If approved by 
+the DOA, the approval must include the DOA-authorized signature.
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the Large Aircraft Section, International Validation Branch, send it 
+to the attention of the person identified in paragraph (j) of this 
+AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#c5fce8849396e8848c97e8f2f6f5e884888a8685a3a4a4eba2aab3"><span class="__cf_email__" data-cfemail="b68f9bf7e0e59bf7ffe49b8185869bf7fbf9f5f6d0d7d798d1d9c0">[email&#160;protected]</span></a>. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA DOA. If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(j) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223; email <a href="/cdn-cgi/l/email-protection#acdfcdc2c6cdd582decdc0c4cdc2eccacdcd82cbc3da"><span class="__cf_email__" data-cfemail="0576646b6f647c2b7764696d646b456364642b626a73">[email&#160;protected]</span></a>.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0218, 
+dated October 12, 2020.
+    (ii) [Reserved]
+    (3) For EASA AD 2020-0218, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+<a href="/cdn-cgi/l/email-protection#18595c6b587d796b79367d6d6a776879367d6d"><span class="__cf_email__" data-cfemail="4a0b0e390a2f2b392b642f3f38253a2b642f3f">[email&#160;protected]</span></a>; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195. This material may be found in the AD 
+docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching 
+for and locating Docket No. FAA-2021-0367.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+<a href="/cdn-cgi/l/email-protection#6f090a0b1d0a0841030a080e032f010e1d0e41080019"><span class="__cf_email__" data-cfemail="81e7e4e5f3e4e6afede4e6e0edc1efe0f3e0afe6eef7">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on May 7, 2021.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-11428 Filed 5-28-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

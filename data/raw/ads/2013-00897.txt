@@ -1,0 +1,740 @@
+<html>
+<head>
+<title>Federal Register, Volume 78 Issue 13 (Friday, January 18, 2013)</title>
+</head>
+<body><pre>
+[Federal Register Volume 78, Number 13 (Friday, January 18, 2013)]
+[Rules and Regulations]
+[Pages 4042-4047]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2013-00897]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0724; Directorate Identifier 2010-NM-181-AD; 
+Amendment 39-17299; AD 2012-26-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding an existing airworthiness directive (AD) 
+for certain The Boeing Company Model 757-200, -200PF, and -200CB series 
+airplanes powered by Rolls-Royce engines. That AD currently requires 
+repetitive inspections of the shim installation between the drag brace 
+fitting vertical flange and bulkhead, and repair if necessary; for 
+certain airplanes, an inspection for cracking of the four critical 
+fastener holes in the horizontal flange, and repair if necessary; and, 
+for airplanes without conclusive records of previous inspections, 
+performing the existing actions. This new AD reduces the repetitive 
+inspection interval; adds repetitive detailed inspections for cracking 
+of the bulkhead, and repair if necessary; allows an extension of the 
+repetitive intervals for certain airplanes by also doing repetitive 
+ultrasonic inspections for cracking of the bulkhead, and repair if 
+necessary; and provides an option for a high frequency eddy current 
+inspection for cracking of the critical fastener holes, and repair if 
+necessary. This action also adds a terminating action for certain 
+repetitive inspections. This AD was prompted by reports of loose 
+fasteners and cracks at the joint common to the aft torque bulkhead and 
+strut-to-diagonal brace fitting, and one report of such damage 
+occurring less than 3,000 flight cycles after the last inspection. We 
+are issuing this AD to detect and correct cracks, loose and broken 
+bolts, and shim migration in the joint between the aft torque bulkhead 
+and the strut-to-diagonal brace fitting, which could result in damage 
+to the strut and consequent separation of the strut and engine from the 
+airplane.
+
+DATES: This AD is effective February 22, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of February 22, 
+2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of August 
+24, 2007 (72 FR 44753, August 9, 2007).
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; phone: 206-544-5000, 
+extension 1; fax: 206-766-5680; Internet: <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may review copies of the referenced service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, WA. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Nancy Marsh, Aerospace Engineer, 
+Airframe Branch, ANM-120S, Seattle Aircraft Certification Office (ACO), 
+FAA, 1601 Lind Avenue SW., Renton, Washington 98057-3356; phone 425-
+917-6440; fax 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#602e010e03194e2d01121308200601014e070f16"><span class="__cf_email__" data-cfemail="bff1ded1dcc691f2decdccd7ffd9dede91d8d0c9">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a supplemental notice of proposed rulemaking (SNPRM) to 
+amend 14 CFR part 39 to supersede airworthiness directive (AD) 2008-05-
+10, Amendment 39-15404 (73 FR 11347, March 3, 2008). (AD 2008-05-10 
+superseded AD 2007-16-13, Amendment 39-15152 (72 FR 44753, August 9, 
+2007); and AD 2007-16-13 superseded AD 2005-12-04, Amendment 39-14120 
+(70 FR 34313, June 14, 2005).) AD 2008-05-10 applies to the specified 
+products. The SNPRM published in the Federal Register on June 21, 2012 
+(77 FR 37332). The original NPRM (76 FR 52901, August 24, 2011) 
+proposed to continue to require repetitive inspections of the shim 
+installation between the engine strut vertical flange and bulkhead, and 
+repair if necessary. That NPRM also proposed to continue to require, 
+for certain airplanes, inspecting for cracking of the four critical 
+fastener holes in the horizontal flange, and repair if necessary; and, 
+for airplanes without conclusive records of previous inspections, 
+performing the existing actions. Additionally, that NPRM proposed to 
+reduce the repetitive inspection interval, add repetitive detailed 
+inspections for cracking of the bulkhead, and repair if necessary; 
+extend the repetitive intervals for certain airplanes by also doing 
+repetitive ultrasonic inspections for cracking of the bulkhead, and 
+repair if necessary; and add an option for a high frequency eddy 
+current inspection for cracking of the critical fastener holes, and 
+repair if necessary. The SNPRM proposed to add a terminating action for 
+certain repetitive inspections.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(77 FR 37332, June 21, 2012) and the FAA's response to each comment.
+
+[[Page 4043]]
+
+Support for the SNPRM (77 FR 37332, June 21, 2012)
+
+    United Airlines (United) stated that it has 41 Model 757-200 
+airplanes affected by the SNPRM (77 FR 37332, June 21, 2012). United 
+stated that, in general, it concurs with the SNPRM to mandate the 
+inspections and modifications described in Boeing Alert Service 
+Bulletin 757-54A0047, Revision 5, dated June 9, 2011.
+    UPS stated that it concurs with the reduced inspection interval 
+specified in the SNPRM (77 FR 37332, June 21, 2012), as it provides 
+additional opportunity beyond that required by AD 2008-05-10, Amendment 
+39-15404 (73 FR 11347, March 3, 2008), to find and correct any damage.
+
+Request To Change Compliance Time
+
+    United requested that we remove the 54-month compliance time in 
+favor of only a 9,000 airplane-cycle limit for the modification 
+specified in paragraph (o) of the SNPRM (77 FR 37332, June 21, 2012). 
+United stated that the 54-month compliance time does not align with 
+current 72-month heavy check intervals at United. United stated that it 
+understands the related bulkhead cracking to be a fatigue related 
+failure, thus negating the need for a calendar driven modification 
+limit. United stated it believes that the currently mandated repetitive 
+inspection limits, in conjunction with a 9,000-airplane-cycle mandated 
+modification limit only, would provide a safe program that would allow 
+for a controlled implementation that minimizes the negative financial 
+impact to operators.
+    We disagree with the request to change the specified compliance 
+time. We have determined that the 54-month compliance time (grace 
+period), as specified in Boeing Alert Service Bulletin 757-54A0047, 
+Revision 5, dated June 9, 2011, is necessary to adequately address the 
+identified unsafe condition. This structure has been the subject of AD 
+2008-05-10, Amendment 39-15404 (73 FR 11347, March 3, 2008); which 
+superseded AD 2007-16-13, Amendment 39-15152 (72 FR 44753, August 9, 
+2007); which superseded AD 2005-12-04, Amendment 39-14120 (70 FR 34313, 
+June 14, 2005). In each of these ADs, the results from the new 
+inspection found more damage than anticipated, and more frequent and 
+complicated inspections were needed.
+    In developing an appropriate compliance time for the modification 
+specified in paragraph (o) of this AD, we considered the safety 
+implications, the time necessary to design an acceptable modification, 
+and normal maintenance schedules for timely accomplishment of the 
+modification. In light of these items, we have determined that a 54-
+month compliance time (grace period) is appropriate. However, under the 
+provisions of paragraph (q) of this AD, we will consider requests for 
+approval of an extension of the compliance time if sufficient data are 
+submitted to substantiate that the extension would provide an 
+acceptable level of safety. We have not changed the AD in this regard.
+
+Request To Change Terminating Action
+
+    UPS requested that the terminating action proposed in the SNPRM (77 
+FR 37332, June 21, 2012) be optional in lieu of continued reduced 
+interval inspections, and the terminating action be required only if 
+the reduced interval inspections find cracks or other damage at the 
+fitting.
+    We do not agree to change the required terminating action specified 
+in this AD because this portion of the Model 757 pylon has been the 
+subject of AD 2008-05-10, Amendment 39-15404 (73 FR 11347, March 3, 
+2008); which superseded AD 2007-16-13, Amendment 39-15152 (72 FR 44753, 
+August 9, 2007); which superseded AD 2005-12-04, Amendment 39-14120 (70 
+FR 34313, June 14, 2005). In each of these ADs, results from the new, 
+more frequent, and more complicated inspections showed more damage than 
+anticipated. Under the provisions of paragraph (q) of this AD, we will 
+consider requests for approval of alternative methods of compliance 
+(AMOC) if sufficient data are submitted to substantiate that continued 
+inspections without the terminating action can mitigate the identified 
+unsafe condition. We have not changed the AD in this regard.
+
+Request To Specify Certain Section of Service Information
+
+    Boeing requested that we specifically call out Part V of the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 757-
+54A0047, Revision 5, dated June 9, 2011, in paragraph (o) of the SNPRM 
+(77 FR 37332, June 21, 2012) to prevent misinterpretation in that 
+paragraph because it is different than all other locations in the 
+SNPRM.
+    We agree to specify Part V in paragraph (o) of this AD, as 
+requested by Boeing, since doing so will help prevent 
+misinterpretation. We have changed paragraph (o) of this AD to specify 
+PART V of the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 757-54A0047, Revision 5, dated June 9, 2011.
+
+Request To Change Paragraph Header
+
+    Boeing requested that we revise the header of paragraph (g) of the 
+SNPRM (77 FR 37332, June 21, 2012), by deleting ``With Reduced 
+Repetitive Intervals and New Optional Inspection Method.'' Boeing 
+stated that there are no repetitive inspection requirements in 
+paragraph (g) of the SNPRM.
+    We agree to modify the specified header, since the repetitive 
+inspection is specified in paragraph (h) of this AD. We have removed 
+the words ``Reduced Repetitive Intervals and New Optional Inspection 
+Interval'' from the header of paragraph (g) of this AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously--and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+SNPRM (77 FR 37332, June 21, 2012) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the SNPRM (77 FR 37332, June 21, 2012).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 309 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Part I inspection on fasteners     28 work-hours x $85              $0  $2,380 per           $735,420 per
+ and shims--vertical flange         per hour = $2,380                    inspection cycle.    inspection cycle.
+ [retained actions from AD 2008-    per inspection
+ 05-10, Amendment 39-15404 (73 FR   cycle.
+ 11347, March 3, 2008)].
+
+[[Page 4044]]
+
+ 
+Part II inspection on fasteners--  6 work-hours x $85                0  $510 per inspection  $157,590 per
+ horizontal flange [retained        per hour = $510                      cycle.               inspection cycle.
+ actions from AD 2008-05-10,        per inspection
+ Amendment 39-15404 (73 FR 11347,   cycle.
+ March 3, 2008)].
+Part IV inspection on critical     6 work-hours x $85                0  $510 per inspection  $157,590 per
+ fasteners--horizontal flange       per hour = $510                      cycle.               inspection cycle.
+ [retained action from AD 2008-05-  per inspection
+ 10, Amendment 39-15404 (73 FR      cycle.
+ 11347, March 3, 2008)].
+Part II additional inspection on   10 work-hours x $85               0  $850 per inspection  $262,650 per
+ fasteners--horizontal flange       per hour = $850                      cycle.               inspection cycle.
+ [new action].                      per inspection
+                                    cycle.
+Part IV inspection on critical     8 to 22 work-hours                0  $680 to $1,870 per   $210,120 to
+ fasteners--horizontal flange       x $85 per hour =                     inspection cycle.    $577,830 per
+ [new action].                      $680 to $1,870 per                                        inspection cycle.
+                                    inspection cycle.
+Part V fastener replacement        Up to 37 work-hours             750  Up to $3,895 per     Up to $1,203,555
+ flange [new action].               x $85 per hour =                     strut.               per strut.
+                                    $3,145 per strut.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2008-05-10, Amendment 39-15404 (73 FR 11347, March 3, 2008), and adding 
+the following new AD:
+
+2012-26-04 The Boeing Company: Amendment 39-17299; Docket No. FAA-
+2011-0724; Directorate Identifier 2010-NM-181-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective February 22, 
+2013.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2008-05-10, Amendment 39-15404 (73 FR 
+11347, March 3, 2008).
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 757-200, -200PF, and 
+-200CB series airplanes; certificated in any category; line numbers 
+1 through 1048 inclusive; powered by Rolls-Royce engines.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 54, Nacelles/Pylons.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of loose fasteners and cracks at 
+the joint common to the aft torque bulkhead and strut-to-diagonal 
+brace fitting, and one report of such damage occurring less than 
+3,000 flight cycles after the last inspection. We are issuing this 
+AD to detect and correct cracks, loose and broken bolts, and shim 
+migration in the joint between the aft torque bulkhead and the 
+strut-to-diagonal brace fitting, which could result in damage to the 
+strut and consequent separation of the strut and engine from the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained One-Time Inspection and Repair With Optional Inspection 
+Method
+
+    This paragraph restates the one-time inspection and repair 
+required by paragraph (g) of AD 2008-05-10, Amendment 39-15404 (73 
+FR 11347, March 3, 2008), with optional inspection method and 
+revised service information. For airplanes identified in paragraphs 
+(g)(1) and (g)(2) of this AD: Within 90 days after August 24, 2007 
+(the effective date of AD 2007-16-13, Amendment 39-15152 (72 FR 
+44753, August 9, 2007)), do a high frequency eddy current (HFEC) 
+inspection for cracking of the four critical fastener holes in the 
+horizontal flange and, before further flight, do all applicable 
+repairs, in accordance with Part IV of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 757-54A0047, Revision 
+3, dated June 27, 2007; Boeing Alert Service
+
+[[Page 4045]]
+
+Bulletin 757-54A0047, Revision 4, dated June 24, 2010; or Boeing 
+Alert Service Bulletin 757-54A0047, Revision 5, dated June 9, 2011; 
+except as required by paragraph (i)(3) of this AD. As of the 
+effective date of this AD, only Boeing Alert Service Bulletin 757-
+54A0047, Revision 5, dated June 9, 2011, may be used to accomplish 
+the actions required by this paragraph. Doing an ultrasonic 
+inspection for cracking of the fasteners, in accordance with Part IV 
+of the Accomplishment Instructions of Boeing Alert Service Bulletin 
+757-54A0047, Revision 4, dated June 24, 2010; or Boeing Alert 
+Service Bulletin 757-54A0047, Revision 5, dated June 9, 2011; is an 
+acceptable method of compliance with the HFEC inspection requirement 
+of this paragraph.
+    (1) Airplanes on which findings on the horizontal or vertical 
+fasteners or the shims led to a rejection of any fastener during the 
+actions specified in Boeing Alert Service Bulletin 757-54A0047, 
+dated November 13, 2003; or Boeing Service Bulletin 757-54A0047, 
+Revision 1, dated March 24, 2005.
+    (2) Airplanes that had equivalent findings prior to the actions 
+specified in Boeing Alert Service Bulletin 757-54A0047, dated 
+November 13, 2003, except for findings on airplanes identified as 
+Group 1, Configuration 2, in Boeing Alert Service Bulletin 757-
+54A0047, Revision 3, dated June 27, 2007, that were prior to the 
+incorporation of Boeing Service Bulletin 757-54-0035.
+
+(h) Retained Repetitive Inspection and Repair With Reduced Interval
+
+    This paragraph restates the repetitive inspections and repair 
+required by paragraph (h) of AD 2008-05-10, Amendment 39-15404 (73 
+FR 11347, March 3, 2008), with reduced repetitive intervals and 
+revised service information. At the applicable initial times 
+specified in paragraph 1.E., ``Compliance,'' of Boeing Alert Service 
+Bulletin 757-54A0047, Revision 3, dated June 27, 2007, except as 
+required by paragraphs (i)(1) and (i)(2) of this AD: Do the 
+inspections specified in paragraphs (h)(1), (h)(2), and (h)(3) of 
+this AD, and, before further flight, do all the applicable related 
+investigative actions and repairs, by doing all the actions 
+specified in Parts I and II of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 757-54A0047, Revision 3, dated June 
+27, 2007; or by doing all the actions specified in Part I, and in 
+Step 2 of Part II, of the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 757-54A0047 Revision 4, dated June 24, 2010, 
+or Boeing Alert Service Bulletin 757-54A0047, Revision 5, dated June 
+9, 2011, except as required by paragraph (i)(3) of this AD. As of 
+the effective date of this AD, only Boeing Alert Service Bulletin 
+757-54A0047, Revision 5, dated June 9, 2011, may be used to 
+accomplish the actions required by this paragraph. Repeat the 
+inspections required by this paragraph at the times specified in 
+paragraph (h)(4) of this AD.
+    (1) Do detailed inspections of the shim installations between 
+the vertical flange and bulkhead to determine if there are signs of 
+movement.
+    (2) Do detailed inspections of the four fasteners in the 
+vertical flange to determine if there are signs of movement or if 
+there are gaps under the head or collar.
+    (3) Do detailed inspections of the fasteners that hold the strut 
+to the horizontal flange of the strut-to-diagonal brace fitting to 
+determine if there are signs of movement or if there are gaps under 
+the head or collar.
+    (4) Repeat the inspections required by paragraph (h) of this AD 
+at the earlier of the times specified in paragraphs (h)(4)(i) and 
+(h)(4)(ii) of this AD. Thereafter, repeat the inspections at 
+intervals not to exceed the applicable intervals specified in 
+paragraph 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 
+757-54A0047, Revision 5, dated June 9, 2011.
+    (i) At intervals not to exceed the applicable intervals 
+specified in paragraph 1.E., ``Compliance,'' of Boeing Alert Service 
+Bulletin 757-54A0047, Revision 3, dated June 27, 2007.
+    (ii) At intervals not to exceed the applicable intervals 
+specified in paragraph 1.E., ``Compliance,'' of Boeing Alert Service 
+Bulletin 757-54A0047, Revision 5, dated June 9, 2011, or within 90 
+days after the effective date of this AD, whichever occurs later.
+
+(i) Retained Exceptions To Alert Service Bulletin Procedures
+
+    This paragraph restates the exceptions to alert service bulletin 
+procedures specified in paragraphs (i), (j), and (k) of AD 2008-05-
+10, Amendment 39-15404 (73 FR 11347, March 3, 2008), with revised 
+service information.
+    (1) Where Boeing Alert Service Bulletin 757-54A0047, Revision 3, 
+dated June 27, 2007, specifies a compliance time relative to ``the 
+date on this service bulletin,'' this AD requires compliance within 
+the corresponding specified time relative to the effective date of 
+AD 2007-16-13, Amendment 39-15152 (72 FR 44753, August 9, 2007).
+    (2) Where Boeing Alert Service Bulletin 757-54A0047, Revision 3, 
+dated June 27, 2007, specifies a compliance time relative to the 
+``date of issuance of airworthiness certificate,'' this AD requires 
+compliance within the corresponding time relative to the date of 
+issuance of the original standard airworthiness certificate or the 
+date of issuance of the original export certificate of 
+airworthiness.
+    (3) If any crack is found during any inspection required by this 
+AD, and Boeing Alert Service Bulletin 757-54A0047, Revision 3, dated 
+June 27, 2007; Boeing Alert Service Bulletin 757-54A0047, Revision 
+4, dated June 24, 2010; or Boeing Alert Service Bulletin 757-
+54A0047, Revision 5, dated June 9, 2011; specifies to contact Boeing 
+for appropriate action: Before further flight, repair the crack 
+using a method approved in accordance with the procedures specified 
+in paragraph (q) of this AD.
+
+(j) Retained Inspection/Repair for Airplanes for Which There Are No 
+Conclusive Inspection Records
+
+    This paragraph restates the inspection and repair requirements 
+for airplanes for which there are no conclusive inspection records, 
+as required by paragraph (l) of AD 2008-05-10, Amendment 39-15404 
+(73 FR 11347, March 3, 2008), with revised service information. For 
+airplanes for which there are no conclusive records showing no loose 
+or missing fasteners during previous inspections done in accordance 
+with the requirements of AD 2007-16-13, Amendment 39-15152 (72 FR 
+44753, August 9, 2007); or AD 2005-12-04, Amendment 39-14120 (70 FR 
+34313 June 14, 2005): Do the actions specified in paragraphs (j)(1) 
+and (j)(2) of this AD, at the times specified in those paragraphs, 
+as applicable.
+    (1) Within 90 days after March 18, 2008 (the effective date of 
+AD 2008-05-10, Amendment 39-15404 (73 FR 11347, March 3, 2008)), do 
+the actions specified in paragraph (g) of this AD, except as 
+required by paragraph (i)(3) of this AD.
+    (2) At the applicable initial times specified in paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 757-54A0047, 
+Revision 3, dated June 27, 2007, do the actions specified in 
+paragraph (h) of this AD, except as required by paragraphs (i)(2) 
+and (k) of this AD. And, before further flight, do all applicable 
+related investigative actions and repairs, by doing all the actions 
+specified in Parts I and II of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 757-54A0047, Revision 3, dated June 
+27, 2007; or in Part 1 and in Step 2 of Part II of the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 757-
+54A0047, Revision 4, dated June 24, 2010, or Boeing Alert Service 
+Bulletin 757-54A0047, Revision 5, dated June 9, 2011; except as 
+required by paragraph (i)(3) of this AD. As of the effective date of 
+this AD, only Boeing Alert Service Bulletin 757-54A0047, Revision 5, 
+dated June 9, 2011, may be used to accomplish the actions required 
+by this paragraph. Repeat the actions specified in paragraph (h) of 
+this AD at the times specified in paragraph (h)(4) of this AD.
+
+(k) Retained Additional Exception To Alert Service Bulletin Procedures
+
+    This paragraph restates the exception to alert service bulletin 
+procedures required by paragraph (m) of AD 2008-05-10, Amendment 39-
+15404 (73 FR 11347, March 3, 2008). Where Boeing Alert Service 
+Bulletin 757-54A0047, Revision 3, dated June 27, 2007, specifies a 
+compliance time relative to ``the date on this service bulletin,'' 
+this AD requires compliance within the corresponding specified time 
+relative to March 18, 2008 (the effective date of AD 2008-05-10).
+
+(l) Retained Acceptable Method of Compliance with Certain Requirements 
+of AD 2004-12-07, Amendment 39-13666 (69 FR 33561 June 16, 2004)
+
+    This paragraph restates an acceptable method of compliance with 
+certain requirements of AD 2004-12-07, Amendment 39-13666 (69 FR 
+33561 June 16, 2004), specified by paragraph (p) of AD 2008-05-10, 
+Amendment 39-15404 (73 FR 11347, March 3, 2008). Accomplishing the 
+actions specified in paragraphs (g) and (h) of this AD terminates 
+the requirements specified in paragraphs (b) and (d) of AD 2004-12-
+07.
+
+[[Page 4046]]
+
+(m) New Repetitive Inspections and Repair
+
+    At the applicable initial compliance times specified in 
+paragraph (n) of this AD: Do the applicable actions specified in 
+paragraph (m)(1) or (m)(2) of this AD, in accordance with Step 3 of 
+Part II of the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 757-54A0047, Revision 4, dated June 24, 2010; or Boeing 
+Alert Service Bulletin 757-54A0047, Revision 5, dated June 9, 2011. 
+If no cracking is found, repeat the inspections thereafter at 
+intervals not to exceed the applicable intervals specified in 
+paragraph 1.E., ``Compliance,'' of the Accomplishment Instructions 
+of Boeing Alert Service Bulletin 757-54A0047, Revision 5, dated June 
+9, 2011. If any crack is found during any inspection required by 
+this paragraph, before further flight, repair the crack using a 
+method approved in accordance with the procedures specified in 
+paragraph (q) of this AD.
+    (1) For Group 1, Configuration 1 airplanes identified in Boeing 
+Alert Service Bulletin 757-54A0047, Revision 5, dated June 9, 2011: 
+Do the actions specified in paragraph (m)(1)(i) or (m)(1)(ii) of 
+this AD.
+    (i) Do a detailed inspection for cracking of the bulkhead in the 
+area around the access door cutout and around the critical fasteners 
+in the horizontal flange.
+    (ii) Do a detailed inspection for cracking of the bulkhead in 
+the area around the access door cutout and around the critical 
+fasteners in the horizontal flange, and do an ultrasonic inspection 
+for cracking of the bulkhead around the fasteners in the horizontal 
+flange. Doing the actions in this paragraph extends the repetitive 
+intervals of the inspections required by paragraph (n) of this AD.
+    (2) For Group 1, Configuration 2 airplanes; and Group 2 
+airplanes; identified in Boeing Alert Service Bulletin 757-54A0047, 
+Revision 5, dated June 9, 2011: Do a detailed inspection for 
+cracking of the bulkhead in the area around the access door cutout 
+and around the critical fasteners in the horizontal flange.
+
+(n) New Compliance Times for Paragraph (m) of This AD
+
+    At the applicable times specified in paragraphs (n)(1) and 
+(n)(2) of this AD, do the actions required by paragraph (m) of this 
+AD.
+    (1) For Group 1, Configuration 1 airplanes identified in Boeing 
+Alert Service Bulletin 757-54A0047, Revision 5, dated June 9, 2011: 
+At the later of the times specified in paragraph (n)(1)(i) or 
+(n)(1)(ii) of this AD.
+    (i) Within 1,800 flight cycles after accomplishing the most 
+recent inspection required by paragraph (h) or (j) of this AD.
+    (ii) Within 90 days after the effective date of this AD.
+    (2) For Group 1, Configuration 2 airplanes; and Group 2 
+airplanes; identified in Boeing Alert Service Bulletin 757-54A0047, 
+Revision 5, dated June 9, 2011: At the later of the times specified 
+in paragraph (n)(2)(i) or (n)(2)(ii) of this AD.
+    (i) Within 3,000 flight cycles after accomplishing the most 
+recent inspection required by paragraph (h) or (j) of this AD.
+    (ii) Within 90 days after the effective date of this AD.
+
+(o) New Terminating Action for Certain Airplanes: Fastener Replacement
+
+    For Group 1, Configuration 2 airplanes; and Group 2 airplanes; 
+as identified in Boeing Alert Service Bulletin 757-54A0047, Revision 
+5, dated June 9, 2011: Within 9,000 flight cycles or 54 months after 
+the effective date of this AD, whichever occurs first, replace the 
+horizontal and vertical flange fasteners in the strut-to-diagonal 
+brace fitting on the number 1 and number 2 struts with new 
+fasteners, and do all related investigative and applicable 
+corrective actions, in accordance with PART V of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 757-54A0047, Revision 
+5, dated June 9, 2011, except where Boeing Alert Service Bulletin 
+757-54A0047, Revision 5, dated June 9, 2011, specifies to contact 
+Boeing for repair instructions, before further flight, repair using 
+a method approved in accordance with the procedures specified in 
+paragraph (q) of this AD. Do all related investigative and 
+corrective actions before further flight. Accomplishment of the 
+actions required in paragraph (o) of this AD terminates the 
+inspection requirements of paragraphs (g), (h), (j), and (m) of this 
+AD for Group 1, Configuration 2 airplanes; and Group 2 airplanes; as 
+identified in Boeing Alert Service Bulletin 757-54A0047, Revision 5, 
+dated June 9, 2011.
+
+(p) Credit for Previous Actions
+
+    (1) Except for the actions specified in paragraphs (j), (m), and 
+(o) of this AD, this paragraph provides credit for the actions 
+required by paragraphs (g) and (h) of this AD, if those actions were 
+performed before March 18, 2008 (the effective date of AD 2008-05-
+10, Amendment 39-15404 (73 FR 11347, March 3, 2008), using Boeing 
+Service Bulletin 757-54A0047, Revision 1, dated March 24, 2005; or 
+Boeing Alert Service Bulletin 757-54A0047, Revision 2, dated January 
+31, 2007 (which are not incorporated by reference in this AD).
+    (2) This paragraph provides credit for the initial inspection 
+required by paragraph (h) of this AD, if that inspection was 
+performed before June 29, 2005 (the effective date of AD 2005-12-04, 
+Amendment 39-14120 (70 FR 34313, June 14, 2005)), using the actions 
+required by paragraph (b) or (d), as applicable, of AD 2004-12-07, 
+Amendment 39-13666 (69 FR 33561, June 16, 2004).
+
+(q) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in the Related Information 
+section of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#b58c98f4fbf898e6d0d4c1c1d9d098f4f6fa98f4f8faf698e7d0c4c0d0c6c1c6f5d3d4d49bd2dac3"><span class="__cf_email__" data-cfemail="6b52462a252646380e0a1f1f070e462a2824462a26242846390e1a1e0e181f182b0d0a0a450c041d">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane and the approval must 
+specifically refer to this AD.
+    (4) AMOCs approved previously in accordance with AD 2004-12-07, 
+Amendment 39-13666 (69 FR 33561, June 16, 2004), are approved as 
+AMOCs for the corresponding provisions of this AD.
+    (5) AMOCs approved previously in accordance with AD 2005-12-04, 
+Amendment 39-14120 (70 FR 34313, June 14, 2005), are approved as 
+AMOCs for the corresponding provisions of this AD.
+    (6) AMOCs approved previously in accordance with AD 2007-16-13, 
+Amendment 39-15152 (72 FR 44753, August 9, 2007), are approved as 
+AMOCs for the corresponding provisions of this AD.
+    (7) AMOCs approved previously in accordance with AD 2008-05-10, 
+Amendment 39-15404 (73 FR 11347, March 3, 2008), are approved as 
+AMOCs for the corresponding provisions of this AD.
+
+(r) Related Information
+
+    (1) For more information about this AD, Nancy Marsh, Aerospace 
+Engineer, Airframe Branch, ANM-120S, Seattle Aircraft Certification 
+Office (ACO), FAA, 1601 Lind Avenue SW., Renton, Washington 98057-
+3356; phone: 425-917-6440; fax: 425-917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#d29cb3bcb1abfc9fb3a0a1ba92b4b3b3fcb5bda4"><span class="__cf_email__" data-cfemail="87c9e6e9e4fea9cae6f5f4efc7e1e6e6a9e0e8f1">[email&#160;protected]</span></a>.
+    (2) For Boeing service information identified in this AD, 
+contact Boeing Commercial Airplanes, Attention: Data & Services 
+Management, P. O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; phone: 
+206-544-5000, extension 1; fax: 206-766-5680; Internet: <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+
+(s) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+February 22, 2013.
+    (i) Boeing Alert Service Bulletin 757-54A0047, Revision 4, dated 
+June 24, 2010.
+    (ii) Boeing Alert Service Bulletin 757-54A0047, Revision 5, 
+dated June 9, 2011.
+    (4) The following service information was approved for IBR on 
+August 24, 2007, (72 FR 44753, August 9, 2007).
+    (i) Boeing Alert Service Bulletin 757-54A0047, Revision 3, dated 
+June 27, 2007.
+    (ii) Reserved.
+    (5) For Boeing service information identified in this AD, 
+contact Boeing Commercial Airplanes, Attention: Data & Services 
+Management, P. O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; phone: 
+206-544-5000, extension 1; fax: 206-766-5680; Internet: <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+
+[[Page 4047]]
+
+    (6) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton Washington, on December 17, 2012.
+Kalene C. Yanamura,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-00897 Filed 1-17-13; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,501 @@
+<html>
+<head>
+<title>Federal Register, Volume 69 Issue 243 (Monday, December 20, 2004)</title>
+</head>
+<body><pre>
+[Federal Register Volume 69, Number 243 (Monday, December 20, 2004)]
+[Rules and Regulations]
+[Pages 75826-75829]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 04-27506]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2002-NM-347-AD; Amendment 39-13908; AD 2004-25-20]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Saab Model SAAB 2000 Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Saab Model SAAB 2000 series airplanes. This 
+action requires various repetitive inspections for cracking of the drag 
+and shear angles that attach the nacelle to the wing, and related 
+corrective action. This action also requires eventual modification of 
+the drag and shear angles, which would end the repetitive inspections. 
+This action is necessary to prevent fatigue cracking of the drag and 
+shear angles, which could result in reduced structural integrity of the 
+nacelle attachment to the wing. This action is intended to address the 
+identified unsafe condition.
+
+DATES: Effective January 24, 2005.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of January 24, 2005.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Saab Aircraft AB, SAAB Aircraft Product Support, S-
+581.88, Link[ouml]ping, Sweden. This information may be examined at the 
+Federal Aviation Administration (FAA), Transport Airplane Directorate, 
+Rules Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+National Archives and Records Administration (NARA). For information on 
+the availability of this material at NARA, call (202) 741-6030, or go 
+to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4057; telephone (425) 
+227-2125; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD)
+
+[[Page 75827]]
+
+that is applicable to certain Saab Model SAAB 2000 series airplanes was 
+published in the Federal Register on May 19, 2004 (69 FR 28860). That 
+action proposed to require various repetitive inspections for cracking 
+of the drag and shear angles that attach the nacelle to the front spar 
+of the wing, and related corrective action. That action also proposed 
+to require eventual modification of the drag and shear angles, which 
+would end the repetitive inspections.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Request To Allow Temporary Flight With Known Cracking
+
+    The commenter, the manufacturer, states that the Swedish 
+airworthiness directives and the Saab service bulletins specify that 
+operators may temporarily continue operating an airplane with known 
+cracking in the drag and shear angles. The commenter notes that the 
+proposed AD does not allow flight with any known cracking. The 
+commenter also notes that it is aware of an FAA policy that does not 
+allow airplanes to operate with known cracking, but that the FAA has 
+allowed deviation from that policy under certain conditions. The 
+commenter states that, for the proposed AD, these conditions apply:
+    <bullet> The repairs are complicated and time consuming and can 
+only be performed during a major maintenance stop.
+    <bullet> The cracking is probably caused by secondary local bending 
+of the flanges of the angles due to wing deflections.
+    <bullet> Analysis shows that the structure will maintain the 
+capability to sustain ultimate loads for cracking.
+    <bullet> The maximum deferral time before repairing known cracking 
+is 20,000 flights.
+    <bullet> Repair methods and terminating action have been identified 
+and repair material is available for operators.
+    We infer that the commenter is requesting that the proposed AD be 
+revised to allow temporary flight with known cracking.
+    We agree. While it is not our normal policy to allow flight with 
+known cracking, based upon our review of the substantiating data 
+submitted by the manufacturer, we have determined that we can allow 
+temporary flight with known cracking within the limits specified in the 
+applicable Saab service bulletins. We have determined that, if the 
+crack size limits are strictly observed, and if repetitive inspections 
+are performed at the required intervals, cracking that grows beyond the 
+specified limits will be detected, and corrective action taken, before 
+the cracking can grow to a size that would create an unacceptable risk 
+of structural failure. Paragraph (c) of this final rule allows 
+temporary flight with known cracking within the limits specified in the 
+applicable Saab service bulletins.
+
+Request To Clarify Compliance Time for Initial Inspections
+
+    The commenter requests that the compliance times specified in 
+paragraphs (b)(2) and (b)(3) of the proposed AD be changed to include 
+the phrases ``but not later than at 14,500 flight cycles'' and ``but 
+not later than at 11,000 flight cycles,'' respectively. The commenter 
+did not provide any justification for this request.
+    We agree with the commenter's request to add the phrases stated 
+above to paragraphs (b)(2) and (b)(3) of this final rule. Upon review 
+of the compliance times specified in the applicable service bulletins, 
+we find that this information was inadvertently omitted from the 
+compliance times stated in the proposed AD. We have determined that 
+including this information in this final rule imposes no additional 
+burden on any U.S.-registered airplane because none of these airplanes 
+have accumulated the number of flight cycles that would make these 
+provisions applicable. This change also provides harmonization between 
+the Swedish airworthiness directives, Saab service bulletins, and this 
+final rule.
+
+Request To Clarify Unsafe Condition
+
+    The commenter suggests that the unsafe condition statement in the 
+Summary and Discussion sections and the body of the proposed AD be 
+changed to include the phrase ``attachment to the wing.'' The commenter 
+states that it is the integrity of the attachment of the nacelle to the 
+wing that can be reduced, not the structural integrity of the nacelle 
+or the wing.
+    We agree. The unsafe condition in the Summary, Discussion, and body 
+sections of the proposed AD states ``This action is necessary to 
+prevent fatigue cracking of the drag and shear angles, which could 
+result in reduced structural integrity of the nacelle and wing.'' The 
+unsafe condition statement in the Summary and body of this final rule 
+is ``To prevent fatigue cracking of the drag and shear angles, which 
+could result in reduced structural integrity of the nacelle attachment 
+to the wing.'' The Discussion section is not restated in this final 
+rule, so no change to the final rule is necessary in this regard.
+
+Request for Changes to Paragraph (a)
+
+    The commenter requests that, after the word ``fasteners'' in 
+paragraph (a)(1) of the proposed AD, the words ``and in the radius of 
+the shear angle'' be included. The commenter also requests that, after 
+the words ``around the fasteners'' in paragraph (a)(2) of the proposed 
+AD, the words ``as applicable'' be included. The commenter did not 
+provide any justification for the request. We infer that the commenter 
+requests these changes for clarification purposes.
+    We agree. Paragraph (a)(1) of this final rule includes the words 
+``and in the radii of the shear angles.'' (We have pluralized the 
+wording since more than one angle is being inspected.) Paragraph (a)(2) 
+of this final rule includes the words ``where applicable.''
+
+Request To Clarify Termination of Repetitive Inspections
+
+    The commenter requests that the Summary section of the proposed AD 
+be changed to clarify that the terminating action specified in the 
+proposed AD would only end the repetitive inspections identified in the 
+Saab service bulletins. The commenter states that the structural 
+inspection program will continue to require inspections of the drag and 
+shear angles.
+    We do not agree with the commenter's request to change the proposed 
+AD to specify that only the repetitive inspections identified in the 
+service bulletins will be terminated. Paragraph (e) of the proposed AD, 
+which is the Terminating Action paragraph, clearly states, 
+``Accomplishment of these modifications ends the repetitive inspections 
+required by paragraphs (a) and (b) of this AD.'' Furthermore, an AD is 
+not the vehicle for terminating inspections in operators' maintenance 
+programs. No change to the final rule is necessary in this regard.
+
+Request To Include Reporting Information to the Manufacturer
+
+    The commenter notes that the proposed AD does not include a 
+reporting requirement. The Saab service bulletins referenced in the 
+proposed AD include instructions for reporting inspection information 
+to the manufacturer. The commenter states that feedback from operators 
+is important to ``keep a high confidence in the analysis and to be able 
+to plan supply of repair and modification material.'' We infer that the 
+commenter requests that the proposed AD include a reporting 
+requirement.
+
+[[Page 75828]]
+
+    We do not agree. We understand the need for manufacturers to 
+collect useful data; however, we do not require this information. The 
+Paperwork Reduction Act requires agencies to consider the extent of the 
+paperwork burden that will accompany any new rule. This Act is intended 
+to reduce these burdens by requiring agencies not only to analyze the 
+information collection and reporting costs they are imposing on the 
+private sector, but also to use those analyses to minimize the cost. 
+Since we do not need the information regarding the inspection findings, 
+we will not include a reporting requirement in this final rule. 
+Operators may voluntarily submit inspection results to the 
+manufacturer.
+
+Request To Change Explanation of Relevant Service Information
+
+    The commenter requests the following changes to the Explanation of 
+Relevant Service Information section of the proposed AD:
+    <bullet> Delete `` * * * and related corrective action'' in the 
+first paragraph. This paragraph discusses the procedures included in 
+Saab Service Bulletins 2000-54-026 and 2000-54-028, both Revision 01, 
+both dated June 20, 2002. The commenter notes that the corrective 
+actions are included in Saab Service Bulletins 2000-54-027 and 2000-54-
+029, both dated November 4, 2002.
+    <bullet> Change the order of the procedures in the second paragraph 
+so the order of the procedures correlates to the order of the service 
+bulletin references. The commenter suggests, ``Additionally, the 
+manufacturer has issued Service Bulletins 2000-54-027 and 2000-54-029, 
+both dated November 4, 2002, which describe procedures for modification 
+of the shear angles and of the upper and lower drag angles.'' The 
+commenter notes that Service Bulletin 2000-54-027 addresses 
+modification of the shear angles and Service Bulletin 2000-54-029 
+addresses modification of the upper and lower drag angles.
+    <bullet> Delete the parenthetical reference, ``rotating probe,'' 
+that appears in the second paragraph. The commenter states that this 
+phrase is not applicable.
+    <bullet> Change the last sentence of the second paragraph to ``If 
+any cracking is found, repair and modifications of the drag angles are 
+detailed in the associated service bulletins. Both service bulletins 
+describe procedures for determining the length and position of each 
+crack and sending a report to the manufacturer.''
+    We agree with the commenter's suggestions. However, since the 
+Explanation of Relevant Service Information section of the proposed AD 
+is not restated in this final rule, no change to this final rule is 
+necessary in this regard.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes described 
+previously. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    We estimate that 3 airplanes of U.S. registry will be affected by 
+this AD.
+    It will take about 6 work hours per airplane to do the inspections, 
+at an average labor rate of $65 per work hour. Based on these figures, 
+the cost impact of the inspections on U.S. operators is estimated to be 
+$1,170, or $390 per airplane, per inspection cycle.
+    It will take about 40 work hours per airplane to do the 
+modification of the shear angles, at an average labor rate of $65 per 
+work hour. Required parts will cost about $6,200 per airplane. Based on 
+these figures, the cost impact of the modification on U.S. operators is 
+estimated to be $26,400, or $8,800 per airplane.
+    It will take about 400 work hours per airplane to do the 
+modification of the drag angles, at an average labor rate of $65 per 
+work hour. Required parts will cost about $41,794 per airplane. Based 
+on these figures, the cost impact of the modification on U.S. operators 
+is estimated to be $203,382, or $67,794 per airplane.
+    The cost impact figures discussed above are based on assumptions 
+that no operator has yet accomplished any of the requirements of this 
+AD action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+
+Authority for This Rulemaking
+
+    The FAA's authority to issue rules regarding aviation safety is 
+found in Title 49 of the United States Code. Subtitle I, section 106 
+describes the authority of the FAA Administrator. Subtitle VII, 
+Aviation Programs, describes in more detail the scope of the agency's 
+authority.
+    This rulemaking is promulgated under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, the FAA is charged with promoting 
+safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this AD.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the National 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. Section 39.13 is amended by adding the following new airworthiness 
+directive:
+
+2004-25-20 Saab Aircraft AB: Amendment 39-13908. Docket 2002-NM-347-
+AD.
+
+
+[[Page 75829]]
+
+
+    Applicability: Model SAAB 2000 series airplanes, certificated in 
+any category, serial numbers -004 through -063 inclusive.
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent fatigue cracking of the drag and shear angles of the 
+wing, which could result in reduced structural integrity of the 
+nacelle attachment to the wing, accomplish the following:
+
+Repetitive Inspections
+
+    (a) Do the inspections required by paragraphs (a)(1) and (a)(2) 
+of this AD, at the applicable time specified in paragraph (b) of 
+this AD.
+    (1) Do a detailed inspection for cracking of the shear angles 
+which attach the nacelle to the front spar of the wing, and an eddy 
+current inspection for cracking around the fasteners and in the 
+radii of the shear angles, by doing all the actions per the 
+Accomplishment Instructions of Saab Service Bulletin 2000-54-026, 
+Revision 01, dated June 20, 2002.
+    (2) Do an endoscope inspection of the upper and lower drag 
+angles for cracking, and an eddy current inspection for cracking 
+around the fasteners where applicable, by doing all the actions per 
+the Accomplishment Instructions of Saab Service Bulletin 2000-54-
+028, Revision 01, dated June 20, 2002.
+
+    Note 1: For the purposes of this AD, a detailed inspection is 
+defined as: ``An intensive visual examination of a specific 
+structural area, system, installation, or assembly to detect damage, 
+failure, or irregularity. Available lighting is normally 
+supplemented with a direct source of good lighting at intensity 
+deemed appropriate by the inspector. Inspection aids such as mirror, 
+magnifying lenses, etc., may be used. Surface cleaning and elaborate 
+access procedures may be required.''
+
+Compliance Times
+
+    (b) Do the inspections required by paragraph (a) of this AD at 
+the applicable compliance time specified in paragraph (b)(1), 
+(b)(2), or (b)(3) of this AD. Repeat the inspections thereafter at 
+intervals not to exceed 4,000 flight cycles until the modification 
+required by paragraph (e) of this AD is done.
+    (1) For airplanes that have accumulated 14,000 or more total 
+flight cycles as of the effective date of this AD: Inspect within 
+500 flight cycles after the effective date of this AD.
+    (2) For airplanes that have accumulated 10,000 or more total 
+flight cycles, but fewer than 14,000 total flight cycles as of the 
+effective date of this AD: Inspect within 1,000 flight cycles after 
+the effective date of this AD, but not later then 14,500 total 
+flight cycles.
+    (3) For airplanes that have accumulated fewer than 10,000 total 
+flight cycles as of the effective date of this AD: Inspect within 
+2,000 flight cycles after the effective date of this AD, but not 
+later then 11,500 total flight cycles.
+
+Corrective Action
+
+    (c) If any cracking is found during any inspection required by 
+this AD: Except as provided by paragraph (f) of this AD, do the 
+actions specified in and at the times specified in Table 1 of the 
+Accomplishment Instructions of Saab Service Bulletin 2000-54-026, 
+Revision 01, dated June 20, 2002; or Saab Service Bulletin 2000-54-
+028, Revision 01, dated June 20, 2002; as applicable. Where the 
+service bulletins specify to contact the manufacturer, before 
+further flight, repair the cracking in accordance with a method 
+approved by either the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or the Luftfartsverket (or its 
+delegated agent). Instead of repairing the cracking, doing the 
+modifications required by paragraph (e) of this AD before further 
+flight, terminates the repetitive inspections required by paragraphs 
+(a) and (b) of this AD.
+
+Inspections Done Per Previous Issues of Service Bulletins
+
+    (d) Inspections done before the effective date of this AD per 
+Saab Service Bulletins 2000-54-026 and 2000-54-028, both dated April 
+26, 2002, are considered acceptable for compliance with the 
+corresponding actions specified in this AD.
+
+Terminating Action
+
+    (e) Except as provided by paragraph (c) of this AD: Do the 
+modifications of the drag and shear angles of the wing at the times 
+specified in paragraphs (e)(1) and (e)(2) of this AD. Accomplishment 
+of these modifications ends the repetitive inspections required by 
+paragraphs (a) and (b) of this AD.
+    (1) Before the accumulation of 20,000 total flight cycles: 
+Modify the shear angles that attach the nacelle to the front spar of 
+the wing by doing all the actions per the Accomplishment 
+Instructions of Saab Service Bulletin 2000-54-027, dated November 4, 
+2002.
+    (2) Before the accumulation of 24,000 total flight cycles: 
+Modify the upper and lower drag angles by doing all the actions per 
+the Accomplishment Instructions of Saab Service Bulletin 2000-54-
+029, dated November 4, 2002.
+
+No Reporting Requirement
+
+    (f) Although the Saab service bulletins referenced in this AD 
+recommend submitting certain information to the manufacturer, this 
+AD does not include such a requirement.
+
+Alternative Methods of Compliance
+
+    (g) In accordance with 14 CFR 39.19, the Manager, International 
+Branch, ANM-116, is authorized to approve alternative methods of 
+compliance for this AD.
+
+Incorporation by Reference
+
+    (h) Unless otherwise specified in this AD, the actions shall be 
+done in accordance with the service bulletins listed in Table 1 of 
+this AD.
+
+          Table 1.--Service Bulletins Incorporated by Reference
+------------------------------------------------------------------------
+                              Revision level--
+   Saab service bulletin--                               Date--
+------------------------------------------------------------------------
+2000-54-026.................  01.............  June 20, 2002.
+2000-54-027.................  Original.......  November 4, 2002.
+2000-54-028.................  01.............  June 20, 2002.
+2000-54-029.................  Original.......  November 4, 2002.
+------------------------------------------------------------------------
+
+    This incorporation by reference was approved by the Director of 
+the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR 
+part 51. Copies may be obtained from Saab Aircraft AB, SAAB Aircraft 
+Product Support, S-581.88, Link[ouml]ping, Sweden. Copies may be 
+inspected at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Note 2: The subject of this AD is addressed in Swedish 
+airworthiness directives 1-174 and 1-175, both effective April 30, 
+2002; and Swedish airworthiness directives 1-1180 and 1-181, both 
+effective November 8, 2002.
+
+Effective Date
+
+    (i) This amendment becomes effective on January 24, 2005.
+
+    Issued in Renton, Washington, on December 6, 2004.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 04-27506 Filed 12-17-04; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

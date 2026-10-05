@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "01-26951": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "It should be noted that the wing terminal fittings are steel, while the spar chords are constructed of aluminum.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by reports of cracking and corrosion of the wing spar.",
+     "value": "wing_spar"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "To date five of the B-17s either flying or capable of being restored to flight status are known to have cracks in their wing spar chords.",
+     "value": "chord"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The FAA finds that the longitudinal nature of the cracks discovered so far is indicative of expansion due to corrosion products in the spar chord to terminal fitting joints.",
+     "value": "corrosion"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(a) Within 180 days after the effective date of this AD, accomplish the requirements of paragraphs (a)(1) and (a)(2) of this AD. ... replace any corroded bolt with a new bolt having a P/N in the NAS 6606 series in accordance with Army Technical Order Number 01-20EF-2. ... Repeat the requirements of this paragraph thereafter at intervals not to exceed 36 months. ... (c) If any cracking and/or corrosion is detected during any of the inspections required by paragraphs (a) and (b) of this AD, prior to further flight, repair in accordance with a method approved by the Manager, Seattle ACO.",
+     "value": "repetitive_inspection;one_time_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  },
+  "01-26952": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by reports of fatigue cracking in the fuselage skin and adjacent structure.",
+     "value": "fuselage_skin"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This amendment requires new repetitive inspections for cracking of the fuselage skin adjacent to the drag splice fitting.",
+     "value": "skin_panel"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by reports of fatigue cracking in the fuselage skin and adjacent structure.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Perform a one-time external detailed visual inspection of the fuselage skin adjacent to the drag splice fitting ... Repeat the applicable inspections at the intervals shown in Figure 1 of the Logic Diagram of the service bulletin. ... (b) If any cracking is detected during any inspection required by this AD, prior to further flight, repair in accordance with Boeing Alert Service Bulletin 747-53A2444, Revision 2, dated May 24, 2001.",
+     "value": "repetitive_inspection;one_time_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Supersedes AD 2000-14-04, Amendment 39-11813.",
+     "value": "AD 2000-14-04"
+    }
+   ]
+  },
+  "02-15937": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Preliminary reports indicate that fatigue caused the lower aluminum spar cap to fail across the \\3/8\\-inch bolt hole (6.5 inches outboard of the fuselage centerline in the centersplice connection).",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD requires you to inspect (one-time) the wing centerline splice joint for cracks and, if any crack is found, replace the affected wing spar lower cap.",
+     "value": "wing_spar"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Preliminary reports indicate that fatigue caused the lower aluminum spar cap to fail across the \\3/8\\-inch bolt hole (6.5 inches outboard of the fuselage centerline in the centersplice connection).",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Investigation reveals that the right-hand lower spar cap failed due to fatigue at the \\3/8\\-inch outboard bolt, which is located 6.5 inches outboard of the fuselage centerline.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires you to inspect (one-time) the wing centerline splice joint for cracks and, if any crack is found, replace the affected wing spar lower cap. This AD also requires you to report the results of the inspection to the Federal Aviation Administration (FAA) and replace the wing spar lower caps after a certain amount of usage.",
+     "value": "one_time_inspection;replacement;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  },
+  "02-3848": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "(c) Perform a one-time etch inspection of the NLG upper lock link to determine whether the lock link is made from die forged aluminum material (Condition 2), or from plate or bar material (Condition 3); per the applicable Boeing and McDonnell Douglas service bulletins listed in Table 1 of this AD.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by a report indicating that an NLG upper lock link fractured prior to landing and jammed against the NLG shock strut, restricting the NLG from fully extending.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to prevent the upper lock link assembly from fracturing due to fatigue cracking, and the NLG consequently failing to extend fully; this condition could result in injury to passengers and flight crew, and damage to the airplane.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(b) Do a one-time inspection of the NLG upper lock link assembly per Revision 01 of the applicable service bulletin listed in Table 1 of this AD ... within 2,500 landings on the NLG upper lock link since accomplishment of the inspection performed per paragraph (c)(2)(iii) of this AD, as applicable, do that inspection a second time ... before further flight, replace the discrepant NLG upper lock link with a new upper lock link, P/N 3914464-507 ... restore the finish and reidentify the lock link by adding an ``F'' to the part number, using an electro chemical deep etch method",
+     "value": "repetitive_inspection;one_time_inspection;replacement;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Supersedes AD 97-02-10, Amendment 39-9895.",
+     "value": "AD 97-02-10"
+    }
+   ]
+  },
+  "02-6201": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to find and fix discrepancies of the inboard tracks of the outboard flaps, which could result in loss of the outboard trailing edge flaps and consequent reduced controllability of the airplane.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "For all airplanes, this action requires repetitive inspections for cracks in the upper flange of the inboard flap tracks at the rear spar attachments, and corrective action, if necessary.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "eddy current and ultrasonic inspections for fatigue cracking of the flap tracks",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "repeat the inspections specified in paragraph (a) of this AD at intervals not to exceed 9 months ... accomplish rework of the flap track assembly and aft flap track attachments ... including replacement of the flap tracks, as applicable ... Prior to further flight, repair according to a method approved by the Manager, Seattle Aircraft Certification Office (ACO), FAA",
+     "value": "repetitive_inspection;replacement;repair;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  },
+  "03-226": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "On August 19, 2002, the FAA was notified by Hartzell Propeller Inc. that certain two-bladed aluminum propeller hub SN's installed in 2-bladed propellers were found to have subsurface discontinuities in the aluminum.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "On August 19, 2002, the FAA was notified by Hartzell Propeller Inc. that certain two-bladed aluminum propeller hub SN's installed in 2-bladed propellers were found to have subsurface discontinuities in the aluminum.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The discontinuities were not removed during the propeller hub forging process, and could initiate fatigue cracking in the propeller hub arms.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "certain two-bladed aluminum propeller hub SN's installed in 2-bladed propellers were found to have subsurface discontinuities in the aluminum ... The discontinuities were not removed during the propeller hub forging process, and could initiate fatigue cracking in the propeller hub arms.",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This action requires removal from service of those certain SN's of two-bladed aluminum propeller hubs and replacement with serviceable hubs.",
+     "value": "replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  }
+ }
+}

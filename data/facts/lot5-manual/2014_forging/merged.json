@@ -1,0 +1,70 @@
+{
+ "snippet_convention": "snippet = the verbatim page text; a parenthetical after two spaces is the reader's location commentary, NOT page text. Marked 2026-09-01 (deep audit): the annotation pattern predates the convention and stays untouched — data is marked, never rewritten.",
+ "facts": [
+  {
+   "field_id": "spec_2014_die_forging",
+   "value": "AMS 4133, AMS-A-22771, and AMS-QQ-A-367",
+   "unit": "text",
+   "snippet": "Specification . . . . . AMS 4133, AMS-A-22771, and AMS-QQ-A-367",
+   "page": 335,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "tempers_printed",
+   "value": "T6; T652",
+   "unit": "text",
+   "snippet": "Temper . . . . . . . . . T6a | T652",
+   "page": 335,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "first_range_thickness_in",
+   "value": "≤ 1.000",
+   "unit": "in",
+   "snippet": "Thicknessb, in. . . . . ≤ 1.000 | 1.001-2.000 | 2.001-3.000 | 3.001-4.000",
+   "page": 335,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "t6_ftu_L_A_ksi",
+   "value": "65",
+   "unit": "ksi",
+   "snippet": "Ftu, ksi: L . . . . . . . . . . . . 65 67 (A B, ≤ 1.000, T6)",
+   "page": 335,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "t6_fty_L_A_ksi",
+   "value": "56",
+   "unit": "ksi",
+   "snippet": "Fty, ksi: L . . . . . . . . . . . . 56 59 (A B, ≤ 1.000, T6)",
+   "page": 335,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "t6_fbru_2p0_A_ksi",
+   "value": "123",
+   "unit": "ksi",
+   "snippet": "Fbru,e ksi: (e/D = 2.0) . . . 123 127 (A B, ≤ 1.000, T6)",
+   "page": 335,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "e_modulus_ksi",
+   "value": "10.5",
+   "unit": "10^3 ksi",
+   "snippet": "E, 103 ksi . . . . . . . 10.5",
+   "page": 335,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "density_lb_in3",
+   "value": "0.101",
+   "unit": "lb/in^3",
+   "snippet": "Physical Properties: ω, lb/in.3 . . . . . . . 0.101",
+   "page": 335,
+   "agreement": "both extractors, blind, identical after normalization"
+  }
+ ],
+ "blanks": []
+}

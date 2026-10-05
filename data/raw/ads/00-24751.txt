@@ -1,0 +1,483 @@
+<html>
+<head>
+<title>Federal Register, Volume 65 Issue 191 (Monday, October 2, 2000)</title>
+</head>
+<body><pre>
+[Federal Register Volume 65, Number 191 (Monday, October 2, 2000)]
+[Rules and Regulations]
+[Pages 58641-58645]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 00-24751]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-NM-140-AD; Amendment 39-11910; AD 2000-19-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 767 Series Airplanes 
+Powered by Rolls-Royce RB211 Series Engines
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD) that 
+is applicable to certain Boeing Model 767 series airplanes powered by 
+Rolls-Royce RB211 series engines. This action requires modification of 
+the nacelle strut and wing structure. This action is necessary to 
+prevent fatigue cracking in primary strut structure and consequent 
+reduced structural integrity of the strut. This action is intended to 
+address the identified unsafe condition.
+
+DATES: Effective October 17, 2000.
+
+[[Page 58642]]
+
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of October 17, 2000.
+    The incorporation by reference of Boeing Service Bulletin 767-57-
+0053, Revision 2, dated September 23, 1999, as listed in the 
+regulations, was approved previously by the Director of the Federal 
+Register as of July 24, 2000 (65 FR 37843, June 19, 2000).
+    Comments for inclusion in the Rules Docket must be received on or 
+before December 1, 2000.
+
+ADDRESSES: Submit comments in triplicate to the Federal Aviation 
+Administration (FAA), Transport Airplane Directorate, ANM-114, 
+Attention: Rules Docket No. 2000-NM-140-AD, 1601 Lind Avenue, SW., 
+Renton, Washington 98055-4056. Comments may be inspected at this 
+location between 9:00 a.m. and 3:00 p.m., Monday through Friday, except 
+Federal holidays. Comments may be submitted via fax to (425) 227-1232. 
+Comments may also be sent via the Internet using the following address: 
+<a href="/cdn-cgi/l/email-protection#556c78343b38783c3427363a3838303b21153334347b323a23"><span class="__cf_email__" data-cfemail="d4edf9b5bab9f9bdb5a6b7bbb9b9b1baa094b2b5b5fab3bba2">[email&#160;protected]</span></a>. Comments sent via fax or the Internet must 
+contain ``Docket No. 2000-NM-140-AD'' in the subject line and need not 
+be submitted in triplicate. Comments sent via the Internet as attached 
+electronic files must be formatted in Microsoft Word 97 for Windows or 
+ASCII text.
+    The service information referenced in this AD may be obtained from 
+Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, Washington 
+98124-2207. This information may be examined at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at 
+the Office of the Federal Register, 800 North Capitol Street, NW., 
+suite 700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: James Rehrl, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2783; fax (425) 227-1181.
+
+SUPPLEMENTARY INFORMATION: The FAA has received reports indicating that 
+the airplane manufacturer has accomplished a structural reassessment of 
+the damage tolerance capabilities of the Boeing Model 767 series 
+airplanes powered by Rolls-Royce RB211 series engines. This 
+reassessment indicates that the actual operational loads applied to the 
+nacelle strut and wing structure are higher than the analytical loads 
+that were used during the initial design. Subsequent analysis and 
+service history, which includes numerous reports of fatigue cracking on 
+certain strut and wing structure, indicate that fatigue cracking can 
+occur on the primary strut structure before an airplane reaches its 
+design service objective of 20 years or 50,000 flight cycles. Analysis 
+also indicates that such cracking, if it were to occur, would grow at a 
+much greater rate than originally expected. Fatigue cracking in primary 
+strut structure would result in reduced structural integrity of the 
+strut.
+
+Explanation of Relevant Service Information
+
+    Boeing recently developed a modification of the strut-to-wing 
+attachment structure installed on Boeing Model 767 series airplanes 
+powered by Rolls-Royce RB211 series engines. This modification 
+significantly improves the load-carrying capability and durability of 
+the strut-to-wing attachments. Such improvement also will substantially 
+reduce the possibility of fatigue cracking and corrosion developing in 
+the attachments.
+    The FAA has reviewed and approved Boeing Service Bulletin 767-54-
+0082, dated October 28, 1999, which describes procedures for 
+modification of the nacelle strut and wing structure. The modification 
+consists of the following actions:
+    <bullet> Detailed visual inspections for migration of the midspar, 
+upper spar, and lower spar fitting bushings and the strut side link 
+fitting bearings of the strut.
+    <bullet> Installation of new tension bolts in the aft pitch load 
+fitting and a new side link fitting of the wing.
+    <bullet> Inspection and rework of the side load fittings of the 
+wing and rework of the forward pitch load fitting of the wing.
+    <bullet> Replacement of many of the significant load-bearing 
+components of the strut-to-wing attachment (e.g., midspar fuse pins, 
+side links, side link fuse pins, diagonal brace, and diagonal brace 
+fuse pins) with improved components.
+    The service bulletin contains a formula for calculating an optional 
+compliance threshold for the specified modification. This formula is 
+intended to be used as an alternative to the 20-year calendar threshold 
+specified in the service bulletin.
+    In addition, Table 2 of the service bulletin identifies six related 
+service bulletin modifications that must be accomplished before or at 
+the same time as the modification in Boeing Service Bulletin 767-54-
+0082:
+    <bullet> Boeing Service Bulletin 767-29-0057: The FAA has reviewed 
+and approved Boeing Service Bulletin 767-29-0057, dated December 16, 
+1993, which describes procedures for modification of the electrical 
+wiring support of the alternating current motor pump of the main 
+hydraulic power system. The modification involves installing new band 
+clamps and index-straps, and on certain airplanes, new wire support 
+brackets on the strut bulkhead.
+    <bullet> Boeing Service Bulletin 767-54-0059: The FAA has reviewed 
+and approved Boeing Service Bulletin 767-54-0059, dated July 28, 1994, 
+which describes procedures for removing the midspar fuse pins, 
+performing repetitive detailed visual inspections for cracked or broken 
+sealant or migration or rotation of the midspar attachment fitting 
+bushings, and accomplishing follow-on corrective actions (including 
+replacing the bushings), if necessary.
+    <bullet> Boeing Service Bulletin 767-54-0069: The FAA has reviewed 
+and approved Boeing Service Bulletin 767-54-0069, Revision 1, dated 
+January 29, 1998, which describes procedures for rework of the side 
+load fitting and tension fasteners, as applicable, and replacement of 
+midspar fuse pins with new, higher-strength midspar fuse pins. The 
+rework involves increasing the size of the tension bolts of the inboard 
+and outboard side load fittings. The replacement also involves 
+installing new, higher-strength bolts and radius fillers in the side 
+load fittings and backup support structure, and installing higher-
+strength fasteners common to the front spar and rib number 8 rib post.
+    <bullet> Boeing Service Bulletin 767-54-0083: The FAA has reviewed 
+and approved Boeing Service Bulletin 767-54-0083, dated September 17, 
+1998, which describes procedures for replacement of the upper link 
+assembly with a new, improved assembly that will increase the strength 
+and durability of the upper link installation. That service bulletin 
+also describes procedures for modification of the wire support brackets 
+attached to the upper link.
+    <bullet> Boeing Service Bulletin 767-54-0088: The FAA has reviewed 
+and approved Boeing Service Bulletin 767-54-0088, Revision 1, dated 
+July 29, 1999, which describes procedures for replacement of the upper 
+link fuse pin and aft pin with new, improved pins that will increase 
+the strength and durability of the upper link installation.
+    <bullet> Boeing Service Bulletin 767-57-0053, Revision 1, dated 
+October 31, 1996: The FAA has previously issued AD 2000-12-17, 
+amendment 39-11795 (65 FR 37843, June 19, 2000), which requires 
+repetitive inspections to detect fatigue cracking of the pitch load 
+fitting
+
+[[Page 58643]]
+
+lugs of the wing front spar, and rework, if necessary, in accordance 
+with Boeing Service Bulletin 767-57-0053, Revision 2, dated September 
+23, 1999. ``NOTE 2'' of that AD states that inspections and rework 
+accomplished prior to July 24, 2000 (the effective date of AD 2000-12-
+17) under Boeing Service Bulletin 767-57-0053, dated June 27, 1996, or 
+Revision 1, dated October 31, 1996, are acceptable for compliance with 
+that AD.
+
+Explanation of Requirements of the Rule
+
+    Since an unsafe condition has been identified that is likely to 
+exist or develop on other airplanes of the same type design, this AD is 
+being issued to prevent fatigue cracking in primary strut structure and 
+consequent reduced structural integrity of the strut. This AD requires 
+accomplishment of the actions specified in the service bulletins 
+described previously, except as discussed below.
+
+Differences Between Service Bulletin and This AD
+
+    Boeing Service Bulletin 767-54-0082 recommends accomplishment of 
+the actions in Boeing Service Bulletin 767-57-0053, Revision 1, prior 
+to or concurrently with the actions in Boeing Service Bulletin 767-54-
+0082. However, as discussed above, the FAA has previously issued AD 
+2000-12-17 to require Boeing Service Bulletin 767-57-0053, Revision 2. 
+Therefore, paragraph (b) of this AD requires accomplishment of Boeing 
+Service Bulletin 767-57-0053, Revision 2, instead of Revision 1. 
+However, as specified in ``Note 2'' of this AD, Revision 1 is 
+acceptable for compliance with this requirement.
+
+Cost Impact
+
+    None of the airplanes affected by this action are on the U.S. 
+Register. All airplanes included in the applicability of this rule 
+currently are operated by non-U.S. operators under foreign registry; 
+therefore, they are not directly affected by this AD action. However, 
+the FAA considers that this rule is necessary to ensure that the unsafe 
+condition is addressed in the event that any of these subject airplanes 
+are imported and placed on the U.S. Register in the future.
+    The following are costs associated with this AD that would apply if 
+an affected airplane is imported and placed on the U.S. Register in the 
+future:
+    <bullet> It would require approximately 314 work hours to 
+accomplish the actions described in Boeing Service Bulletin 767-54-
+0082, at an average labor rate of $60 per work hour. The manufacturer 
+has committed previously to its customers that it will bear the cost of 
+replacement parts. As a result, the cost of those parts is not 
+attributable to this AD. Based on these figures, the cost impact of 
+this action would be $18,840 per airplane.
+    <bullet> It would take approximately 16 work hours per airplane to 
+accomplish the actions described in Boeing Service Bulletin 767-29-
+0057, at an average labor rate of $60 per work hour. Required parts 
+would be provided at no cost by the airplane manufacturer. Based on 
+these figures, the cost impact of this action would be $960 per 
+airplane.
+    <bullet> It would take approximately 6 work hours per airplane to 
+accomplish the actions described in Boeing Service Bulletin 767-54-
+0059, at an average labor rate of $60 per work hour. Required parts 
+would be provided at no cost by the airplane manufacturer. Based on 
+these figures, the cost impact of this action would be $360 per 
+airplane.
+    <bullet> It would take approximately 212 work hours per airplane to 
+accomplish the actions described in Boeing Service Bulletin 767-53-
+0069, Revision 1, at an average labor rate of $60 per work hour. 
+Required parts would be provided at no cost by the airplane 
+manufacturer. Based on these figures, the cost impact of this action 
+would be $12,720 per airplane.
+    <bullet> It would take approximately 1 work hour per airplane to 
+accomplish the actions described in Boeing Service Bulletin 767-54-
+0083, at an average labor rate of $60 per work hour. Required parts 
+would be provided at no cost by the airplane manufacturer. Based on 
+these figures, the cost impact of this action would be $60 per 
+airplane.
+    <bullet> It would take approximately 4 work hours per airplane to 
+accomplish the actions described in Boeing Service Bulletin 767-54-
+0088, Revision 1, at an average labor rate of $60 per work hour. 
+Required parts would be provided at no cost by the airplane 
+manufacturer. Based on these figures, the cost impact of this action 
+would be $240 per airplane.
+    <bullet> It would take approximately 5 work hours per airplane to 
+accomplish the actions described in Boeing Service Bulletin 767-57-
+0053, Revision 2, at an average labor rate of $60 per work hour. Based 
+on these figures, the cost impact of these actions would be $300 per 
+airplane. Because the actions described in this service bulletin are 
+already required by another AD action, this requirement adds no new 
+costs for affected operators.
+
+Determination of Rule's Effective Date
+
+    Since this AD action does not affect any airplane that is currently 
+on the U.S. register, it has no adverse economic impact and imposes no 
+additional burden on any person. Therefore, prior notice and public 
+procedures hereon are unnecessary and the amendment may be made 
+effective in less than 30 days after publication in the Federal 
+Register.
+
+Comments Invited
+
+    Although this action is in the form of a final rule and was not 
+preceded by notice and opportunity for public comment, comments are 
+invited on this rule. Interested persons are invited to comment on this 
+rule by submitting such written data, views, or arguments as they may 
+desire. Communications shall identify the Rules Docket number and be 
+submitted in triplicate to the address specified under the caption 
+ADDRESSES. All communications received on or before the closing date 
+for comments will be considered, and this rule may be amended in light 
+of the comments received. Factual information that supports the 
+commenter's ideas and suggestions is extremely helpful in evaluating 
+the effectiveness of the AD action and determining whether additional 
+rulemaking action would be needed.
+    Submit comments using the following format:
+    <bullet> Organize comments issue-by-issue. For example, discuss a 
+request to change the compliance time and a request to change the 
+service bulletin reference as two separate issues.
+    <bullet> For each issue, state what specific change to the AD is 
+being requested.
+    <bullet> Include justification (e.g., reasons or data) for each 
+request.
+    Comments are specifically invited on the overall regulatory, 
+economic, environmental, and energy aspects of the rule that might 
+suggest a need to modify the rule. All comments submitted will be 
+available, both before and after the closing date for comments, in the 
+Rules Docket for examination by interested persons. A report that 
+summarizes each FAA-public contact concerned with the substance of this 
+AD will be filed in the Rules Docket.
+    Commenters wishing the FAA to acknowledge receipt of their comments 
+submitted in response to this rule must submit a self-addressed, 
+stamped postcard on which the following statement is made: ``Comments 
+to Docket Number 2000-NM-140-AD.'' The postcard will be date stamped 
+and returned to the commenter.
+
+[[Page 58644]]
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2000-19-09 Boeing: Amendment 39-11910. Docket 2000-NM-140-AD.
+    Applicability: Model 767 series airplanes powered by Rolls-Royce 
+RB211 series engines, line numbers 1 through 663 inclusive, 
+certificated in any category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (d) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent fatigue cracking in primary strut structure and 
+consequent reduced structural integrity of the strut, accomplish the 
+following:
+
+Modifications
+
+    (a) At the later of the times specified in paragraph (a)(1) or 
+(a)(2) of this AD, modify the nacelle strut and wing structure on 
+both the left and right sides of the airplane, in accordance with 
+Boeing Service Bulletin 767-54-0082, dated October 28, 1999:
+    (1) Prior to the accumulation of 37,500 total flight cycles, or 
+within 20 years since the date of manufacture, whichever occurs 
+first. Use of the optional threshold formula described in Figure 1 
+of the service bulletin is an acceptable alternative to the 20-year 
+threshold, provided that the additional criteria specified in the 
+service bulletin are met; or
+    (2) Within 3,000 flight cycles after the effective date of this 
+AD.
+    (b) Prior to or concurrently with the accomplishment of the 
+modification of the nacelle strut and wing structure required by 
+paragraph (a) of this AD, as specified in paragraph 1.D., Table 2, 
+``Prior or Concurrent Service Bulletins,'' on page 3 of Boeing 
+Service Bulletin 767-54-0082, dated October 28, 1999, accomplish the 
+actions specified in the following service bulletins: Boeing Service 
+Bulletin 767-29-0057, dated December 16, 1993; Boeing Service 
+Bulletin 767-54-0059, dated July 28, 1994; Boeing Service Bulletin 
+767-54-0069, Revision 1, dated January 29, 1998; Boeing Service 
+Bulletin 767-54-0083, dated September 17, 1998; Boeing Service 
+Bulletin 767-54-0088, Revision 1, dated July 29, 1999; and Boeing 
+Service Bulletin 767-57-0053, Revision 2, dated September 23, 1999.
+
+    Note 2: AD 2000-12-17, amendment 39-11795, requires 
+accomplishment of Boeing Service Bulletin 767-57-0053, Revision 2, 
+dated September 23, 1999. However, inspections and rework 
+accomplished in accordance with Boeing Service Bulletin 767-57-0053, 
+dated June 27, 1996, or Revision 1, dated October 31, 1996, are 
+acceptable for compliance with the applicable action required by 
+paragraph (b) of this AD.
+
+Repair
+
+    (c) If any damage to airplane structure is found during the 
+accomplishment of any modification required by paragraph (a) or (b) 
+of this AD, and the applicable service bulletin specifies to contact 
+Boeing for appropriate action, then prior to further flight, repair 
+in accordance with a method approved by the Manager, Seattle 
+Aircraft Certification Office (ACO), FAA. For a repair method to be 
+approved by the Manager, Seattle ACO, as required by this paragraph, 
+the Manager's approval letter must specifically reference this AD.
+
+Alternative Methods of Compliance
+
+    (d) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle ACO. Operators shall submit 
+their requests through an appropriate FAA Principal Maintenance 
+Inspector, who may add comments and then send it to the Manager, 
+Seattle ACO.
+
+    Note 3: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Seattle ACO.
+
+Special Flight Permits
+
+    (e) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (f) Except as provided by paragraph (c) of this AD, the actions 
+shall be done in accordance with Boeing Service Bulletin 767-54-
+0082, dated October 28, 1999; Boeing Service Bulletin 767-29-0057, 
+dated December 16, 1993; Boeing Service Bulletin 767-54-0059, dated 
+July 28, 1994; Boeing Service Bulletin 767-54-0069, Revision 1, 
+dated January 29, 1998; Boeing Service Bulletin 767-54-0083, dated 
+September 17, 1998; Boeing Service Bulletin 767-54-0088, Revision 1, 
+dated July 29, 1999; and Boeing Service Bulletin 767-57-0053, 
+Revision 2, dated September 23, 1999; as applicable.
+    (1) The incorporation by reference of Boeing Service Bulletin 
+767-54-0082, dated October 28, 1999; Boeing Service Bulletin 767-29-
+0057, dated December 16, 1993; Boeing Service Bulletin 767-54-0059, 
+dated July 28, 1994; Boeing Service Bulletin 767-54-0069, Revision 
+1, dated January 29, 1998; Boeing Service Bulletin 767-54-0083, 
+dated September 17, 1998; and Boeing Service Bulletin 767-54-0088, 
+Revision 1, dated July 29, 1999; is approved by the Director of the 
+Federal Register, in accordance with 5 U.S.C. 552(a) and 1 CFR part 
+51.
+    (2) The incorporation by reference of Boeing Service Bulletin 
+767-57-0053, Revision 2, dated September 23, 1999, was approved 
+previously by the Director of the Federal Register as of July 24, 
+2000 (65 FR 37843, June 19, 2000).
+    (3) Copies may be obtained from Boeing Commercial Airplane 
+Group, P.O. Box 3707, Seattle, Washington 98124-2207. Copies may be 
+inspected at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the Office of the Federal 
+Register, 800 North Capitol Street, NW., suite 700, Washington, DC.
+
+Effective Date
+
+    (g) This amendment becomes effective on October 17, 2000.
+
+
+[[Page 58645]]
+
+
+    Issued in Renton, Washington, on September 21, 2000.
+Donald L. Riggin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 00-24751 Filed 9-29-00; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

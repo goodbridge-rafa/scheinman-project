@@ -1,0 +1,58 @@
+{
+ "fields": [
+  {
+   "field_id": "spec_2024_sheet",
+   "value": "AMS 4037 and AMS-QQ-A-250/4; AMS-QQ-A-250/4",
+   "snippet": "Specification . . . AMS 4037 and AMS-QQ-A-250/4 | AMS-QQ-A-250/4 (two specification spans printed in the Table 3.2.3.0(b1) header)",
+   "page": 373
+  },
+  {
+   "field_id": "tempers_printed",
+   "value": "T3; T351; T361",
+   "snippet": "Temper . . . T3 | T351 | T361",
+   "page": 373
+  },
+  {
+   "field_id": "t3_first_range_with_AB_in",
+   "value": "0.010-0.128",
+   "snippet": "Thickness, in. . . . 0.010-0.128 / Basis . . . A B (first T3 column is 0.008-0.009 with Basis S only)",
+   "page": 373
+  },
+  {
+   "field_id": "t3_ftu_L_A_ksi",
+   "value": "64",
+   "snippet": "Ftu, ksi: L . . . | T3, 0.010-0.128, A basis: 64 (B basis prints 65)",
+   "page": 373
+  },
+  {
+   "field_id": "t3_fty_L_A_ksi",
+   "value": "47",
+   "snippet": "Fty, ksi: L . . . | T3, 0.010-0.128, A basis: 47 (B basis prints 48)",
+   "page": 373
+  },
+  {
+   "field_id": "t3_ftu_ST_A_ksi",
+   "value": null,
+   "snippet": "Ftu, ksi: ST . . . | T3, 0.010-0.128, A basis cell prints only dots (...), no numeric value",
+   "page": 373
+  },
+  {
+   "field_id": "t3_fbru_2p0_A_ksi",
+   "value": "129",
+   "snippet": "Fbru, ksi: (e/D = 2.0) . . . | T3, 0.010-0.128, A basis: 129 (B basis prints 131)",
+   "page": 373
+  },
+  {
+   "field_id": "e_modulus_ksi",
+   "value": "10.5",
+   "snippet": "E, 10^3 ksi . . . 10.5 (block spanning the T3 Sheet columns; Ec prints 10.7, G 4.0, mu 0.33)",
+   "page": 373
+  },
+  {
+   "field_id": "density_lb_in3",
+   "value": "0.100",
+   "snippet": "Physical Properties: omega, lb/in.3 . . . 0.100",
+   "page": 373
+  }
+ ]
+}

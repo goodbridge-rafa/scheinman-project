@@ -1,0 +1,566 @@
+<html>
+<head>
+<title>Federal Register, Volume 73 Issue 82 (Monday, April 28, 2008)</title>
+</head>
+<body><pre>
+[Federal Register Volume 73, Number 82 (Monday, April 28, 2008)]
+[Rules and Regulations]
+[Pages 22795-22800]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E8-9058]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2008-0476; Directorate Identifier 2008-CE-018-AD; 
+Amendment 39-15491; AD 2008-09-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Air Tractor, Inc. Models AT-300, AT-
+301, AT-302, AT-400, and AT-400A Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) to 
+supersede AD 2003-06-01, which applies to all Air Tractor, Inc. (Air 
+Tractor) Models AT-300, AT-301, AT-302, and AT-400A airplanes that have 
+aluminum spar caps; certain Air Tractor Models AT-400 airplanes that 
+have aluminum spar caps; and all Models AT-300 and AT-301 airplanes 
+that have aluminum spar caps and are or have been converted to turbine 
+power. AD 2003-06-01 requires replacing the wing spar lower caps at a 
+specified safe life limit; allows extending the safe life limit on 
+certain airplanes if a wing lower spar cap splice rework is done; 
+allows a limited time of continued operation beyond the safe life limit 
+provided parts are ordered, the replacement is scheduled, and 
+repetitive inspections reveal no cracks; and requires a report of any 
+cracks found during any inspection to the FAA. This AD results from a 
+recent report of cracks found on a Model AT-301 airplane at hours below 
+the modification time specified in AD 2003-06-01. Consequently, this AD 
+retains the wing spar lower cap replacement and reporting requirements 
+from AD 2003-06-01 and adds a repetitive eddy-current inspection. We 
+are issuing this AD to detect and correct cracks in the wing centerline 
+splice joint. If not detected and corrected, these cracks could result 
+in the wing separating from the airplane during flight.
+
+DATES: This AD becomes effective on May 8, 2008.
+    On May 8, 2008, the Director of the Federal Register approved the 
+incorporation by reference of Snow Engineering Co. Service Letter 
+<greek-i>55, revised October 4, 2004, listed in this AD.
+    As of April 4, 2003, (68 FR 13221, March 19, 2003), the Director of 
+the Federal Register approved the incorporation by reference of Snow 
+Engineering Co. Service Letter <greek-i>55, revised October 23, 2002, 
+and Snow Engineering Co. Process Specification Number 197, revised June 
+4, 2002, listed in this AD.
+    We must receive any comments on this AD by June 27, 2008.
+
+ADDRESSES: Use one of the following addresses to comment on this AD.
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the instructions for submitting comments.
+    <bullet> Fax: (202) 493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC 20590.
+    <bullet> Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC 20590, between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays.
+    To get the service information identified in this AD, contact Air 
+Tractor, Inc., P.O. Box 485, Olney, Texas 76374; telephone: (940) 564-
+5616; facsimile: (940) 564-5612.
+    To view the comments to this AD, go to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. 
+The docket number is FAA-2008-0476; Directorate Identifier 2008-CE-018-
+AD.
+
+FOR FURTHER INFORMATION CONTACT: Rob Romero, Aerospace Engineer, FAA, 
+Fort Worth Airplane Certification Office (ACO), 2601 Meacham Boulevard, 
+Fort Worth, Texas 76193-0150; telephone: (817) 222-5102; facsimile: 
+(817) 222-5960; or Andrew McAnaul, Aerospace Engineer, FAA, Fort Worth 
+ACO (c/o MIDO-43), 10100 Reunion Place, Suite 650, San Antonio, Texas 
+78216; telephone: (210) 308-3365; facsimile: (210) 308-3370.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    An incident on an Air Tractor Model AT-400A where the wing 
+separated from the airplane caused us to issue AD 2002-13-02, Amendment 
+39-12789 (67 FR 44024, July 1, 2002). Investigation revealed that the 
+right-hand lower spar cap failed due to fatigue at the \3/8\-inch 
+outboard bolt, which is located 6.5 inches outboard of the fuselage 
+centerline.
+
+[[Page 22796]]
+
+    The airplanes affected by AD 2002-13-02 have a similar type design 
+to that of the accident airplane. AD 2002-13-02 required inspecting 
+(one-time) the wing centerline splice joint for cracks and, if any 
+crack was found, replacing the affected wing spar lower cap; reporting 
+the results of the inspection to the FAA; and replacing the wing spar 
+lower caps after a certain amount of usage.
+    The inspection reports submitted to the FAA (as required in AD 
+2002-13-02) revealed a Model AT-400A airplane with a cracked spar cap. 
+The damage was significant enough to require spar cap replacement. 
+Based on this damage and the results of the inspection reports, we 
+determined that the mandatory replacement time for the wing spar lower 
+cap on the affected turbine engine powered airplanes should be reduced.
+    This prompted us to issue AD 2003-06-01, Amendment 39-13088 (68 FR 
+13221, March 19, 2003) to supersede AD 2002-13-02. AD 2003-06-01 
+requires replacing the wing spar lower caps at a specified safe life 
+limit; allows extending the safe life limit on certain airplanes if a 
+wing lower spar cap splice rework is done; allows a limited time of 
+continued operation beyond the safe life limit provided parts are 
+ordered, the replacement is scheduled, and repetitive inspections 
+reveal no cracks; and requires a report of any cracks found during any 
+inspection to the FAA.
+    The FAA recently received a report of cracks found on a Model AT-
+301 airplane with less hours than the modification time specified in AD 
+2003-06-01. Based on this incident, we reevaluated the fatigue 
+management plan for the AT-300 and AT-400 series airplanes that have 
+aluminum spar caps without part number 20990-1/-2 steel web plate 
+installed. We have determined that repetitive eddy-current inspections 
+are needed on these airplanes in order to detect any cracks that may 
+develop on the wing spar lower cap before reaching the safe life limit.
+    This condition, if not corrected, could result in the wing 
+separating from the airplane during flight.
+
+Relevant Service Information
+
+    The manufacturer has issued the following service information to 
+address this situation:
+    <bullet> Snow Engineering Co. Service Letter <greek-i>55, revised 
+October 23, 2002, which includes procedures and information for doing 
+the wing lower spar cap splice joint modification rework on all AT-300 
+and AT-301 series airplanes;
+    <bullet> Snow Engineering Co. Service Letter <greek-i>55, revised 
+October 4, 2004, which includes revised procedures and information for 
+doing the wing lower spar cap splice joint modification rework on all 
+AT-300 and AT-301 series airplanes; and
+    <bullet> Snow Engineering Co. Process Specification Number 197, 
+revised June 4, 2002, which provides procedures for accomplishing eddy 
+current inspections of the wing lower spar caps.
+
+FAA's Determination and Requirements of This AD
+
+    We are issuing this AD because we evaluated all the information and 
+determined the unsafe condition described previously is likely to exist 
+or develop on other products of the same type design. This AD 
+supersedes AD 2003-06-01 with a new AD that:
+    <bullet> Requires repetitive eddy-current inspections;
+    <bullet> Requires you to replace the wing spar lower caps at 
+specified times;
+    <bullet> Allows you to extend the time for replacement on certain 
+airplanes if a wing lower spar cap splice rework is done;
+    <bullet> Requires you to inspect the wing lower spar cap 
+immediately prior to modification; and
+    <bullet> Requires you to report any cracks found during the 
+inspections to the FAA.
+    We are not retaining from AD 2003-06-01 the provision to allow a 
+limited time of continued operation beyond the safe life limit.
+    In preparing this rule, we contacted type clubs and aircraft 
+operators to get technical information and information on operational 
+and economic impacts. We did not receive any information through these 
+contacts. If received, we would have included a discussion of any 
+information that may have influenced this action in the rulemaking 
+docket.
+
+FAA's Determination of the Effective Date
+
+    Since an unsafe condition exists that requires the immediate 
+adoption of this AD, we determined that notice and opportunity for 
+public comment before issuing this AD are impracticable, and that good 
+cause exists for making this amendment effective in fewer than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and an opportunity for 
+public comment. We invite you to send any written relevant data, views, 
+or arguments regarding this AD. Send your comments to an address listed 
+under the ADDRESSES section. Include the docket number ``FAA-2008-0476; 
+Directorate Identifier 2008-CE-018-AD'' at the beginning of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of the AD. We will consider 
+all comments received by the closing date and may amend the AD in light 
+of those comments.
+    We will post all comments we receive, without change, to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive concerning this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+[[Page 22797]]
+
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket.
+
+Examining the AD Docket
+
+    You may examine the AD docket that contains the AD, the regulatory 
+evaluation, any comments received, and other information on the 
+Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket 
+Management Facility between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The Docket Office (telephone (800) 647-5527) 
+is located at the street address stated in the ADDRESSES section. 
+Comments will be available in the AD docket shortly after receipt.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2003-06-01, Amendment 39-13088 (68 FR 13221, March 19, 2003), and by 
+adding a new AD to read as follows:
+
+2008-09-10 Air Tractor, Inc.: Amendment 39-15491; Docket No. FAA-
+2008-0476; Directorate Identifier 2008-CE-018-AD.
+
+Effective Date
+
+    (a) This AD becomes effective on May 8, 2008.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2003-06-01, Amendment 39-13088.
+
+Applicability
+
+    (c) This AD applies to the following airplanes that are 
+certificated in any category:
+    (1) Models AT-300, AT-301, AT-302, and AT-400A airplanes, all 
+serial numbers, that have aluminum spar caps;
+    (2) Models AT-400 airplanes, serial numbers 400-0244 through 
+400-0415, that have aluminum spar caps; and
+    (3) Models AT-300 and AT-301 airplanes, all serial numbers that 
+have aluminum spar caps and are or have been converted to turbine 
+power.
+
+Unsafe Condition
+
+    (d) This AD is the result of service reports and analysis done 
+on wing lower spar caps of Air Tractor, Inc. airplanes. The actions 
+specified by this AD are intended to prevent fatigue cracks from 
+occurring in the wing lower spar cap before the established safe 
+life is reached. Fatigue cracks in the wing lower spar cap, if not 
+detected and corrected, could result in failure of the spar cap and 
+lead to wing separation and loss of control.
+
+Compliance
+
+    (e) To address this problem, you must do the following, unless 
+already done:
+    (1) For all affected airplanes without steel web plates, part 
+numbers (P/N) 20990-1 or 20990-2, or steel spar caps installed, 
+eddy-current inspect the left and right wing spar lower cap outboard 
+holes for cracks following Snow Engineering Co. Process 
+Specification <greek-i>197, revised June 4, 2002. Do the inspections 
+at the following compliance times:
+
+------------------------------------------------------------------------
+                               Initial compliance        Repetitive
+     Affected airplanes               time             compliance time
+------------------------------------------------------------------------
+(i) For all airplanes.......  Initially inspect     Repetitively inspect
+                               upon reaching 3,500   thereafter at
+                               total hours time-in-  intervals not to
+                               service (TIS) on      exceed 450 hours
+                               the wing spar lower   TIS until the wing
+                               cap or within the     spar center splice
+                               next 10 hours TIS     joint modification
+                               after May 8, 2008     or the required
+                               (the effective date   wing spar lower cap
+                               of this AD),          replacement. After
+                               whichever occurs      each replacement,
+                               later.                initially inspect
+                                                     upon reaching 3,500
+                                                     total hours TIS on
+                                                     either wing spar
+                                                     lower cap, and
+                                                     repetitively
+                                                     inspect thereafter
+                                                     at intervals not to
+                                                     exceed 450 hours
+                                                     TIS until the wing
+                                                     spar center splice
+                                                     joint modification
+                                                     or the required
+                                                     wing spar lower cap
+                                                     replacement.
+(ii) Airplanes that have had  You may take credit   Repetitively inspect
+ an eddy-current inspection    for that              thereafter at
+ done on the wing spar lower   inspection.           intervals not-to-
+ cap within the last 450       Continue with the     exceed 450 hours
+ hours TIS before the          required repetitive   TIS from the time
+ effective date of this AD.    inspection            of the last
+                               intervals.            inspection until
+                                                     the wing spar
+                                                     center splice joint
+                                                     modification or the
+                                                     required wing spar
+                                                     lower cap
+                                                     replacement. After
+                                                     each replacement,
+                                                     initially inspect
+                                                     upon reaching 3,500
+                                                     total hours TIS on
+                                                     either wing spar
+                                                     lower cap, and
+                                                     repetitively
+                                                     inspect thereafter
+                                                     at intervals not to
+                                                     exceed 450 hours
+                                                     TIS until the wing
+                                                     spar center splice
+                                                     joint modification
+                                                     or the required
+                                                     wing spar lower cap
+                                                     replacement.
+------------------------------------------------------------------------
+
+    (2) For all affected Models AT-300 and AT-301 airplanes with 
+reciprocating engines, the 450-hour repetitive inspections required 
+in this AD are terminated after the wing spar center splice joint 
+modification is incorporated in accordance with paragraph (g) of 
+this AD or when the wing lower spar caps are replaced. The 
+replacement specified in paragraph (f)(2) of this AD is still 
+applicable.
+    (3) If cracks are found during any inspection required in 
+paragraphs (e)(1)(i), (e)(1)(ii), or (g)(2) of this AD, replace the 
+wing lower spar cap before further flight.
+    (f) Replace each wing lower spar cap in accordance with the 
+applicable maintenance manual, as follows:
+
+[[Page 22798]]
+
+
+
+------------------------------------------------------------------------
+                                                         Repetitive
+                               Initial replacement      replacement/
+     Affected airplanes          compliance time         inspection
+                                                       compliance time
+------------------------------------------------------------------------
+(1) For all affected Models   Upon reaching 5,000   Replace each time
+ AT-300 and AT-301 airplanes   total hours TIS on    the safe life limit
+ with reciprocating engines    either wing spar      of 5,000 total
+ and that do not incorporate   lower cap or within   hours TIS on either
+ the wing spar center splice   the next 25 hours     wing spar lower cap
+ joint modification.           TIS after April 4,    is reached. After
+                               2003 (the effective   each replacement,
+                               date of AD 2003-06-   inspect as
+                               01), whichever        specified in
+                               occurs later.         paragraph (e)(1) of
+                                                     this AD until the
+                                                     wing spar center
+                                                     splice joint
+                                                     modification or the
+                                                     required wing spar
+                                                     lower cap
+                                                     replacement.
+(2) For all affected Models   Upon reaching the     Replace each time
+ AT-300 and AT-301 airplanes   safe life limit of    the safe life limit
+ with reciprocating engines    7,000 total hours     of 7,000 total
+ that do incorporate the       TIS on either wing    hours TIS on either
+ wing spar center splice       spar lower cap or     wing spar lower cap
+ joint modification done in    within the next 25    is reached. After
+ accordance paragraph (g) of   hours TIS after       each replacement,
+ this AD.                      April 4, 2003 (the    inspect as
+                               effective date of     specified in
+                               AD 2003-06-01),       paragraph (e)(1) of
+                               whichever occurs      this AD until the
+                               later.                wing spar center
+                                                     splice joint
+                                                     modification or the
+                                                     required wing spar
+                                                     lower cap
+                                                     replacement.
+(3) For all affected AT-302,  Upon reaching 4,450   Replace each time
+ AT-400, and AT-400A           total hours TIS on    the safe life limit
+ airplanes with aluminum       either wing spar      of 4,450 total
+ spar caps; and all affected   lower cap or within   hours TIS on the
+ Models AT-300 and AT-301      the next 25 hours     wing spar lower cap
+ airplanes with aluminum       TIS after April 4,    is reached. After
+ spar caps that are or have    2003 (the effective   each replacement
+ ever been converted to        date of AD 2003-06-   inspect as
+ turbine power.                01), whichever        specified in
+                               occurs later.         paragraph (e)(1) of
+                                                     this AD until the
+                                                     required wing spar
+                                                     lower cap
+                                                     replacement.
+------------------------------------------------------------------------
+
+    (g) For airplanes specified in paragraph (f)(1) of this AD, you 
+may extend the safe life limit of the wing spar lower cap to 7,000 
+hours TIS by incorporating the wing spar center splice joint 
+modification following the procedures in Snow Engineering Co. 
+Service Letter <greek-i>55, revised October 23, 2002; or Snow 
+Engineering Co. Service Letter <greek-i>55, revised October 4, 2004, 
+with the following requirements:
+    (1) This modification must be done no earlier than 4,600 total 
+hours TIS on the wing spar lower cap and no later than 5,000 total 
+hours TIS on the wing spar lower cap.
+    (2) Immediately before incorporating the modification, you must 
+do an eddy-current inspection for cracks following Snow Engineering 
+Co. Process Specification <greek-i>197, revised June 4, 2002.
+    (3) After each replacement, inspect as specified in paragraph 
+(e)(1) of this AD until the wing spar center splice joint 
+modification or the required wing spar lower cap replacement.
+    (h) Eddy-current inspections required by this AD must be done by 
+one of the following:
+    (1) A level 2 or 3 inspector certified in eddy-current 
+inspection using the guidelines established by the American Society 
+for Nondestructive Testing or NAS 410; or
+    (2) A person authorized to perform AD maintenance work and who 
+has completed and passed the Air Tractor, Inc. training course on 
+eddy-current inspection on wing lower spar caps.
+
+    Note 1: We are not retaining from AD 2003-06-01 the provision to 
+allow a limited time of continued operation beyond the safe life 
+limit provided parts are ordered, the replacement is scheduled, and 
+repetitive inspections reveal no cracks. That provision was put in 
+AD 2003-06-01 to prevent airplanes from being inadvertently grounded 
+if parts were not available. If parts availability were to ever 
+become a problem in the future, the owner/operator could request an 
+alternative method of compliance following the procedures in 14 CFR 
+39.19 and this AD.
+
+    (i) Report the results of any inspection required by this AD 
+where cracks are found to the FAA.
+    (1) Submit this report within 10 days after the inspection.
+    (2) Use the form (Figure 1 of this AD) and submit it to FAA, 
+Fort Worth Airplane Certification Office (ACO), 2601 Meacham 
+Boulevard, Fort Worth, Texas 76193-0150; telephone: (817) 222-5156; 
+facsimile: (817) 222-5960.
+    (3) The Office of Management and Budget (OMB) approved the 
+information collection requirements contained in this regulation 
+under the provisions of the Paperwork Reduction Act of 1980 (44 
+U.S.C. 3501 et seq.) and assigned OMB Control Number 2120-0056.
+BILLING CODE 4910-13-P
+
+[[Page 22799]]
+
+[GRAPHIC] [TIFF OMITTED] TR28AP08.001
+
+BILLING CODE 4910-13-C
+
+Alternative Methods of Compliance (AMOCs)
+
+    (j) The Manager, Fort Worth ACO, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. Send information to ATTN: Rob Romero, Aerospace 
+Engineer, FAA, Fort Worth ACO, 2601 Meacham Boulevard, Fort Worth, 
+Texas 76193-0150; telephone: (817) 222-5102; facsimile: (817) 222-
+5960; or Andrew McAnaul, Aerospace Engineer, ASW-150 (c/o MIDO-43), 
+10100 Reunion Place, Suite 650, San Antonio, Texas 78216; telephone: 
+(210) 308-3365; facsimile: (210) 308-3370. Before using any approved 
+AMOC on any airplane to which the AMOC applies, notify your 
+appropriate principal inspector (PI) in the FAA Flight Standards 
+District Office (FSDO), or lacking a PI, your local FSDO.
+    (k) AMOCs approved for AD 2003-06-01 are approved for this AD.
+
+[[Page 22800]]
+
+Special Flight Permit
+
+    (l) Under 14 CFR part 39.23, we are limiting the special flight 
+permits for this AD by the following conditions:
+    (1) Operate only in day visual flight rules (VFR).
+    (2) Ensure that the hopper is empty.
+    (3) Limit airspeed to 135 miles per hour (mph) indicated 
+airspeed (IAS).
+    (4) Avoid any unnecessary g-forces.
+    (5) Avoid areas of turbulence.
+    (6) Plan the flight to follow the most direct route.
+
+Material Incorporated by Reference
+
+    (m) You must use Snow Engineering Co. Service Letter 
+<greek-i>55, revised October 23, 2002; Snow Engineering Co. Service 
+Letter <greek-i>55, revised October 4, 2004; and Snow Engineering 
+Co. Process Specification Number 197, revised June 4, 2002, to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of Snow Engineering Co. Service Letter 
+<greek-i>55, revised October 4, 2004, under 5 U.S.C. 552(a) and 1 
+CFR part 51.
+    (2) On April 4, 2003, (68 FR 13221, March 19, 2003), the 
+Director of the Federal Register approved the incorporation by 
+reference of Snow Engineering Co. Service Letter <greek-i>55, 
+revised October 23, 2002, and Snow Engineering Process Specification 
+Number 197, revised June 4, 2002.
+    (3) For service information identified in this AD, contact 
+Tractor, Inc., P.O. Box 485, Olney, Texas 76374.
+    (4) You may review copies at the FAA, Central Region, Office of 
+the Regional Counsel, 901 Locust, Kansas City, Missouri 64106; or at 
+the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, call 202-
+741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Kansas City, Missouri, on April 18, 2008.
+David R. Showers,
+Acting Manager, Small Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. E8-9058 Filed 4-25-08; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

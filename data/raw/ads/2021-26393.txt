@@ -1,0 +1,453 @@
+<html>
+<head>
+<title>Federal Register, Volume 86 Issue 231 (Monday, December 6, 2021)</title>
+</head>
+<body><pre>
+[Federal Register Volume 86, Number 231 (Monday, December 6, 2021)]
+[Rules and Regulations]
+[Pages 68902-68905]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2021-26393]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2021-0332; Project Identifier AD-2020-01414-T; 
+Amendment 39-21819; AD 2021-23-20]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain The Boeing Company Model 787-8 and 787-9 airplanes. This AD was 
+prompted by reports that shimming requirements were not met during the 
+assembly of certain structural joints, which can result in reduced 
+fatigue thresholds of the affected structural joints. This AD requires 
+repetitive inspections for cracking of certain areas of the front spar 
+pickle fork and front spar outer chord and repair of any cracking 
+found. The FAA is issuing this AD to address the unsafe condition on 
+these products.
+
+DATES: This AD is effective January 10, 2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of January 10, 
+2022.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this service information at the 
+FAA, Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability of 
+this material at the FAA, call 206-231-3195. It is also available at 
+<a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. 
+FAA-2021-0332.
+
+Examining the AD Docket
+
+    You may examine the AD docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by 
+searching for and locating Docket No. FAA-2021-0332; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, any 
+comments received, and other information. The address for Docket 
+Operations is U.S. Department of Transportation, Docket Operations, M-
+30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue 
+SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Greg Rutar, Aerospace Engineer, 
+Airframe Section, FAA, Seattle ACO Branch, 2200 South 216th St., Des 
+Moines, WA 98198; phone and fax: 206-231-3529; email: 
+<a href="/cdn-cgi/l/email-protection#13546176743d4166677261537572723d747c65"><span class="__cf_email__" data-cfemail="2c6b5e494b027e59584d5e6c4a4d4d024b435a">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain The Boeing 
+Company Model 787-8 and 787-9 airplanes. The NPRM published in the 
+Federal Register on May 7, 2021 (86 FR 24551). The NPRM was prompted by 
+reports that shimming requirements were not met during the assembly of 
+certain structural joints, which can result in reduced fatigue 
+thresholds of the affected structural joints. In the NPRM, the FAA 
+proposed to require repetitive inspections for cracking of certain 
+areas of the front spar pickle fork and front spar outer chord and 
+repair of any cracking found. The FAA is issuing this AD to address 
+undetected fatigue cracking, which could weaken primary structure so it 
+cannot sustain limit load, and could result in reduced structural 
+integrity of the airplane.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from American Airlines (AAL) who 
+supported the NPRM.
+    The FAA received additional comments from four commenters, 
+including Boeing, United Airlines (UAL), Avianca Airlines (AVA), and 
+AAL. The following presents the comments received on the NPRM and the 
+FAA's response to each comment.
+
+Request To Clarify Applicability
+
+    Boeing asked that the applicability specified in paragraph (c) of 
+the proposed AD be clarified, as follows: ``This AD applies to The 
+Boeing Company Model 787-8 and 787-9 airplanes, certificated in any 
+category, as identified in Boeing Alert Requirements Bulletins B787-
+81205-SB530075-00 RB and B787-81205-SB530076-00 RB, both Issue 001, 
+both dated September 8, 2020.'' Boeing stated that, although the 
+applicability is the same in each bulletin, identifying both will avoid 
+confusion for operators.
+    The FAA agrees with the commenter for the reason provided. 
+Paragraph (c) of
+
+[[Page 68903]]
+
+the proposed AD only identifies Boeing Alert Requirements Bulletin 
+B787-81205-SB530075-00 RB, Issue 001, dated September 8, 2020; 
+therefore, the FAA has changed paragraph (c) of this AD to identify 
+both bulletins, as requested by the commenter.
+
+Request To Remove Certain Thresholds
+
+    AAL asked that the FAA remove the flight length sensitive (FLS) 
+threshold requirements in paragraph (g) of the proposed AD. AAL stated 
+that the ``Compliance'' paragraph specified in Boeing Alert 
+Requirements Bulletins B787-81205-SB530075-00 RB and B787-81205-
+SB530076-00 RB, both Issue 001, both dated September 8, 2020, includes 
+the formulas to calculate the FLS threshold, and these formulas are 
+based on aircraft cycles and hours. AAL added that its internal 
+tracking process can only use flight-cycles, flight-hours, and days, 
+its systems cannot use formulas to take full advantage of the FLS 
+threshold. AAL noted that the current compliance data would require the 
+use of the most conservative values or constant monitoring of aircraft 
+utilization. AAL suggested that the FAA include simplified limits in 
+this paragraph, allowing operators to maximize the hours and cycle 
+threshold.
+    UAL also asked that the FAA remove the formula for the threshold 
+requirements in paragraph (g) of the proposed AD. UAL suggested 
+incorporating simplified flight-hour and flight-cycle limits that can 
+be easily tracked in its existing system. UAL added that its system is 
+not able to accommodate the existing formula.
+    The FAA does not agree with the commenter's request. FLS threshold 
+requirements were developed with the flexibility to take advantage of 
+individual aircraft utilization. An operator may choose to develop 
+simplified thresholds, provided they are at or below the required 
+compliance times. As stated in paragraph (g) of this AD, guidance for 
+accomplishing the actions required by this AD can be found in Boeing 
+Alert Service Bulletins B787-81205-SB530075-00 and B787-81205-SB530076-
+00, both Issue 001, dated both September 8, 2020. Appendix A of these 
+documents is particularly instructive regarding compliance times. The 
+FAA has not changed this AD in this regard.
+
+Request To Use Alternative Repair Method
+
+    AVA asked that the FAA change the following language used in 
+paragraph (h)(2) of the proposed AD ``This AD requires doing the repair 
+using a method approved in accordance with the procedures specified in 
+paragraph (i) of this AD.'' AVA stated that this means submitting a 
+request for an alternative method of compliance (AMOC) is required in 
+accordance with paragraph (i)(3) of the proposed AD. AVA added that the 
+proposed repair is based on the time delay required to obtain an AMOC 
+letter, which affects the operational return to service of the affected 
+aircraft, and noted that a Form 8100-9 is already an approved document 
+that certifies compliance with the airworthiness standard. AVA proposed 
+that only an 8100-9 approval form be required for doing a repair after 
+contacting Boeing.
+    The FAA does not agree with the commenter's request. An FAA Form 
+8100-9, which is both a repair data approval and AMOC approval, may be 
+issued by the Boeing Company Organization Designation Authorization 
+(ODA), provided it has been authorized by the Manager, Seattle ACO 
+Branch, FAA, as required by paragraph (i)(3) of this AD. Therefore, the 
+FAA has not changed this AD in this regard.
+
+Request To Use Later Revision of the Service Information
+
+    AVA asked that the FAA include a paragraph in this AD that approves 
+any further revision or issue of Boeing Alert Requirements Bulletins 
+B787-81205-SB530075-00 RB and B787-81205-SB530076-00 RB, both Issue 
+001, both dated September 8, 2020, for compliance with this AD.
+    The FAA does not agree with the commenter's request. The FAA may 
+not in an AD refer to any document that does not yet exist. In general 
+terms, the FAA is required by Office of the Federal Register (OFR) 
+regulations for approval of materials incorporated by reference, as 
+specified in 1 CFR 51.1(f), to either publish the service document 
+contents as part of the actual AD language; or submit the service 
+document to the OFR for approval as referenced material, in which case 
+the FAA may only refer to such material in the text of an AD. The AD 
+may refer to the service document only if the OFR approved it for 
+incorporation by reference. See 1 CFR part 51.
+    To allow operators to use later revisions of the referenced 
+document (issued after publication of the AD), either the FAA must 
+revise the AD to reference specific later revisions, or operators must 
+request approval to use later revisions as an alternative method of 
+compliance with this AD under the provisions of paragraph (i) of this 
+AD.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Except for minor editorial changes, and any other changes 
+described previously, this AD is adopted as proposed in the NPRM. None 
+of the changes will increase the economic burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin B787-81205-
+SB530075-00 RB, Issue 001, dated September 8, 2020. The service 
+information describes procedures for repetitive high frequency eddy 
+current (HFEC) inspections for cracking around all the fasteners common 
+to the front spar pickle fork outer chord surface between stringer S-22 
+and stringer S-24 at station (STA) 873 on the left and right sides, and 
+along the entire forward edge of the front spar pickle fork outer chord 
+covered by the body chord splice angle between stringer S-24 and 
+stringer S-25 at STA 873 on the left and right sides, and repair of any 
+cracking found. The service information also describes procedures for 
+repetitive ultrasonic (UT) inspections for cracking of the front spar 
+pickle fork outer chord along the upper, lower and aft edges of the end 
+fittings at stringer S-23 at STA 873, on the left and right sides, and 
+repair of any cracking found.
+    The FAA also reviewed Boeing Alert Requirements Bulletin B787-
+81205-SB530076-00 RB, Issue 001, dated September 8, 2020. The service 
+information describes procedures for repetitive HFEC inspections for 
+cracking along the entire forward edge of the front spar body chord in 
+the area covered by the body chord splice angle at stringer S-25 on the 
+left and right sides, and the splice fitting at BL 0, STA 873, and 
+repair of any cracking found. The service information also describes 
+procedures for repetitive detailed inspections of the front spar body 
+chord horizontal flange surface between stringer S-26 to stringer S-40 
+at STA 873 on the left and right sides and repair of any cracking 
+found. The service information also describes procedures for repetitive 
+UT inspections for cracking of the of the front spar body chord 
+horizontal flange along the upper and lower edges of the end fittings 
+at stringer S-27, at STA 873 on the left and right sides, and repair of 
+any cracking found.
+    This service information is reasonably available because the 
+interested parties
+
+[[Page 68904]]
+
+have access to it through their normal course of business or by the 
+means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 79 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                          Estimated Costs for Required Actions
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+              Action                    Labor cost        Parts cost              Cost per product                       Cost on U.S. operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Repetitive inspections...........  14 work-hours x $85            $0  $1,190 per inspection cycle.............  $94,010 per inspection cycle.
+                                    per hour = $1,190
+                                    per inspection
+                                    cycle.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition repairs specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2021-23-20 The Boeing Company: Amendment 39-21819; Docket No. FAA-
+2021-0332; Project Identifier AD-2020-01414-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective January 10, 2022.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 787-8 and 787-9 
+airplanes, certificated in any category, as identified in Boeing 
+Alert Requirements Bulletins B787-81205-SB530075-00 RB and B787-
+81205-SB530076-00 RB, both Issue 001, both dated September 8, 2020.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports that shimming requirements were 
+not met during the assembly of certain areas of the front spar 
+pickle fork and front spar outer chord structural joints, which can 
+result in reduced fatigue thresholds of the affected structural 
+joints. The FAA is issuing this AD to address undetected fatigue 
+cracking, which could weaken primary structure so it cannot sustain 
+limit load, and could result in reduced structural integrity of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified by paragraph (h) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletins B787-81205-SB530075-00 RB and B787-
+81205-SB530076-00 RB, both Issue 001, both dated September 8, 2020, 
+do all applicable actions identified in, and in accordance with, the 
+Accomplishment Instructions of Boeing Alert Requirements Bulletins 
+B787-81205-SB530075-00 RB and B787-81205-SB530076-00 RB, both Issue 
+001, both dated September 8, 2020.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletins 
+B787-81205-SB530075-00 and B787-81205-SB530076-00, both Issue 001, 
+dated both September 8, 2020, which are referred to in Boeing Alert 
+Requirements Bulletins B787-81205-SB530075-00 RB and B787-81205-
+SB530076-00 RB, both Issue 001, both dated September 8, 2020.
+
+(h) Exceptions to Service Information Specifications
+
+    (1) Where Boeing Alert Requirements Bulletin B787-81205-
+SB530076-00 RB, Issue 001, dated September 8, 2020, uses the phrase 
+``the issue 001 date of the Requirements Bulletin B787-81205-
+SB530076-00 RB,'' this AD requires using ``the effective date of 
+this AD.''
+    (2) Where Boeing Alert Requirements Bulletins B787-81205-
+SB530075-00 RB and B787-81205-SB530076-00 RB, both Issue 001, both 
+dated September 8, 2020, specify contacting Boeing for repair 
+instructions: This AD requires doing the repair using a method 
+approved in accordance with the procedures specified in paragraph 
+(i) of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle ACO Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the certification office, send it to the attention of the person 
+identified in paragraph (j) of this AD. Information may be emailed 
+to: <a href="/cdn-cgi/l/email-protection#ebd2c6aaa5a6c6b88e8a9f9f878ec6aaa8a4c6aaa6a4a8c6b98e9a9e8e989f98ab8d8a8ac58c849d"><span class="__cf_email__" data-cfemail="d2ebff939c9fff81b7b3a6a6beb7ff93919dff939f9d91ff80b7a3a7b7a1a6a192b4b3b3fcb5bda4">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+
+[[Page 68905]]
+
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, Seattle 
+ACO Branch, FAA, to make those findings. To be approved, the repair 
+method, modification deviation, or alteration deviation must meet 
+the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+
+(j) Related Information
+
+    For more information about this AD, contact Greg Rutar, 
+Aerospace Engineer, Airframe Section, FAA, Seattle ACO Branch, 2200 
+South 216th St., Des Moines, WA 98198; phone and fax: 206-231-3529; 
+email: <a href="/cdn-cgi/l/email-protection#b1f6c3d4d69fe3c4c5d0c3f1d7d0d09fd6dec7"><span class="__cf_email__" data-cfemail="c88fbaadafe69abdbca9ba88aea9a9e6afa7be">[email&#160;protected]</span></a>.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Requirements Bulletin B787-81205-SB530075-00 
+RB, Issue 001, dated September 8, 2020.
+    (ii) Boeing Alert Requirements Bulletin B787-81205-SB530076-00 
+RB, Issue 001, dated September 8, 2020.
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Contractual & Data Services 
+(C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-
+5600; telephone 562-797-1717; internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability 
+of this material at the FAA, call 206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, <a href="/cdn-cgi/l/email-protection#abcdd985c2c5d8dbcec8dfc2c4c5ebc5cad9ca85ccc4dd"><span class="__cf_email__" data-cfemail="167064387f7865667375627f7978567877647738717960">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on November 5, 2021.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-26393 Filed 12-3-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

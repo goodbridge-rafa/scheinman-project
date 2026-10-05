@@ -1,0 +1,421 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 86 (Thursday, May 2, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 86 (Thursday, May 2, 2024)]
+[Rules and Regulations]
+[Pages 35698-35701]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-09353]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-1883; Project Identifier MCAI-2023-00804-T; 
+Amendment 39-22734; AD 2024-08-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A350-941 airplanes. This AD was prompted by a 
+report of cracks found on the trunnion arms of the inboard flap 
+assemblies. This AD requires repetitive inspections for cracking of the 
+trunnion arms of the inboard flap assembly, and applicable corrective 
+actions, as specified in a European Union Aviation Safety Agency (EASA) 
+AD, which is incorporated by reference. This AD also prohibits the 
+installation of affected parts. The FAA is issuing this AD to address 
+the unsafe condition on these products.
+
+DATES: This AD is effective June 6, 2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of June 6, 
+2024.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2023-1883; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For EASA material incorporated by reference in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email <a href="/cdn-cgi/l/email-protection#d69792a596b3b7a5b7f8b3a3a4b9a6b7f8b3a3"><span class="__cf_email__" data-cfemail="3372774073565240521d5646415c43521d5646">[email&#160;protected]</span></a>; website easa.europa.eu. You 
+may find this material on the EASA website at ad.easa.europa.eu.
+    <bullet> You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this
+
+[[Page 35699]]
+
+material at the FAA, call 206-231-3195. It is also available in the AD 
+docket at <a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2023-1883.
+
+FOR FURTHER INFORMATION CONTACT: Dat Le, Aviation Safety Engineer, FAA, 
+1600 Stewart Avenue, Suite 410, Westbury, NY 11590; telephone 516-228-
+7300; email <a href="/cdn-cgi/l/email-protection#774e5a1601045a190e1614185a1418043711161659101801"><span class="__cf_email__" data-cfemail="340d19554247195a4d55575b19575b47745255551a535b42">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Airbus SAS 
+Model A350-941 airplanes. The NPRM published in the Federal Register on 
+September 22, 2023 (88 FR 65328). The NPRM was prompted by AD 2023-
+0132, dated July 3, 2023 (EASA AD 2023-0132) (also referred to as the 
+MCAI), issued by EASA, which is the Technical Agent for the Member 
+States of the European Union. The MCAI states that cracks were found on 
+the trunnion arms of the inboard flap assemblies that were made of 
+forging aluminum 7037.
+    In the NPRM, the FAA proposed to require repetitive inspections for 
+cracking of the trunnion arms of the inboard flap assembly, and 
+applicable corrective actions, as specified in EASA AD 2023-0132. The 
+NPRM also proposed to prohibit the installation of affected parts. The 
+FAA is issuing this AD to address potential cracks of the trunnion 
+arms. The unsafe condition, if not detected and corrected, could 
+adversely affect the structural integrity of the trunnion arms.
+    You may examine the MCAI in the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2023-1883.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comment from Delta Airlines. The following 
+presents the comment received on the NPRM and the FAA's response.
+
+Request To Clarify Requirements
+
+    Delta Air Lines (Delta) requested that the proposed AD be revised 
+to add a clear statement addressing the relation between the 
+instructions in the service information specified in EASA AD 2023-0132 
+and paragraph (i)(2) of the proposed AD for any deviations to the 
+instructions, including those that are Required for Compliance (RC). 
+Delta pointed out that a note in Paragraph 3., Accomplishment 
+Instructions, of Airbus Service Bulletin A350-57-P077, dated January 
+31, 2023, states to contact Airbus for any deviations to the 
+instructions, including those that are RC. Delta added that paragraph 
+(i)(2) of the proposed AD states that for any requirement in the AD to 
+obtain instructions from a manufacturer, the instructions must be done 
+using a method approved by the FAA, EASA, or Airbus' EASA Design 
+Organization Approval (DOA). Delta provided several examples of cases 
+where it has obtained approval from the manufacturer in accordance with 
+the requirement defined in the proposed AD--a method that is DOA 
+approved--and wondered if those types of deviations from instructions 
+found in RC steps that are obtained from the manufacturer may be 
+implemented without further FAA approval. Based on the language in the 
+service information and paragraph (i)(2) of the proposed AD, Delta 
+explained that it interprets this to mean that approval for any 
+deviations from the service information--including RC steps--with a DOA 
+approval may be used without further FAA approval.
+    The FAA disagrees with revising the regulatory text of this AD. 
+However, the following explanation is provided for clarification of the 
+RC process. Any deviation to any and all RC actions identified in 
+required service information as ``in accordance with'' a specific 
+method requires approval of an FAA alternative method of compliance 
+(AMOC). The ``contact the manufacturer'' language in paragraph (i)(2) 
+of this AD applies to RC actions within the service information that 
+specify, for example, to ``contact the manufacturer [e.g., Airbus] for 
+repair instructions and do the repair.''
+    If the accomplishment step in the service information is labeled RC 
+and has substeps or tasks with no paragraph designation under the 
+labeled RC step, then all of the substeps or tasks must also be 
+completed. In addition, if an accomplishment step in the service 
+information is marked RC and states to do the work ``in accordance 
+with'' a figure, drawing, or illustration, then all of the information 
+in the figure, drawing, or illustration is mandatory. If a step is 
+marked RC and a procedure or document must be followed to accomplish a 
+task in a service bulletin, the appropriate terminology to cite the 
+procedure or document is ``in accordance with.'' However, if a step is 
+marked RC and a procedure or document may be followed to accomplish an 
+action (e.g., the design approval holder's procedure or document may be 
+used, but an FAA-accepted procedure could also be used), the 
+appropriate terminology to use to cite the procedure or document is 
+``refer to . . . as an accepted procedure.''
+
+Additional Changes Made to This AD
+
+    Since the FAA issued the NPRM, EASA revised EASA AD 2023-0132 and 
+issued EASA AD 2023-0132R1, dated March 20, 2024, which adds an 
+optional terminating action for the repetitive inspections.
+    The FAA has revised paragraph (g) of this AD to also refer to EASA 
+AD 2023-0132R1, dated March 20, 2024, as an appropriate source of 
+service information for accomplishing the required actions.
+    The FAA has revised paragraph (c) of this AD to refer to EASA AD 
+2023-0132R1, dated March 20, 2024, for the affected airplanes, which 
+are the same between EASA AD revisions.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comment received, and determined that air safety requires adopting this 
+AD as proposed. Accordingly, the FAA is issuing this AD to address the 
+unsafe condition on this product. Except for minor editorial changes, 
+and any other changes described previously, this AD is adopted as 
+proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2023-0132 specifies procedures for repetitive ultrasonic 
+inspections for cracking of the trunnion arms of the inboard flap 
+assemblies, and corrective actions, as applicable. Corrective actions 
+include obtaining and following repair instructions if any cracking is 
+found. EASA AD 2023-0132 also prohibits the installation of affected 
+parts.
+    EASA AD 2023-0132R1, dated March 20, 2024, specifies the same 
+procedures as EASA AD 2023-0132 and provides on optional terminating 
+action for the repetitive inspections, which consists of replacing the 
+left-hand and right-hand inboard flap, as applicable, with a modified 
+inboard flap.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 4 airplanes of U.S. 
+registry. The
+
+[[Page 35700]]
+
+FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+               Labor cost                   Parts cost         Cost per product         Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+Up to 17 work-hours x $85 per hour =                 $10  Up to $1,455..............  Up to $5,820.
+ $1,445.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition repairs specified in this AD.
+
+                  Estimated Costs for Optional Actions
+------------------------------------------------------------------------
+           Labor cost                 Parts cost       Cost per product
+------------------------------------------------------------------------
+Up to 122 work-hours x $85 per    Up to $31,930.....  Up to $42,300.
+ hour = $10,370.
+------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2024-08-01 Airbus SAS: Amendment 39-22734; Docket No. FAA-2023-1883; 
+Project Identifier MCAI-2023-00804-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective June 6, 2024.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A350-941 airplanes, 
+certificated in any category, as identified in European Union 
+Aviation Safety Agency (EASA) AD 2023-0132R1, dated March 20, 2024 
+(EASA AD 2023-0132R1).
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code: 57, Wings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of cracks found on the trunnion 
+arms of the inboard flap assemblies. The FAA is issuing this AD to 
+address potential cracks of the trunnion arms. The unsafe condition, 
+if not addressed, could adversely affect the structural integrity of 
+the trunnion arms.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2023-0132, dated July 3, 2023 (EASA AD 
+2023-0132) or EASA AD 2023-0132R1.
+
+(h) Exceptions to EASA AD 2023-0132 and EASA AD 2023-0132R1
+
+    (1) Where EASA AD 2023-0132 refers to its effective date, or 
+EASA AD 2023-0132R1 refers to July 17, 2023 (the effective date of 
+EASA AD 2023-0132), this AD requires using the effective date of 
+this AD.
+    (2) Where paragraph (2) of EASA AD 2023-0132 and EASA AD 2023-
+0132R1 specifies if ``any crack is detected, before next flight, 
+contact Airbus for approved instructions and, within the compliance 
+time(s) specified in those instructions, accomplish those 
+instructions accordingly,'' this AD requires replacing that text 
+with ``if any cracking is detected, the cracking must be repaired 
+before further flight using a method approved by the Manager, 
+International Validation Branch, FAA; or EASA; or Airbus SAS's EASA 
+Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.''
+    (3) This AD does not adopt the ``Remarks'' section of EASA AD 
+2023-0132 and EASA AD 2023-0132R1.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the International 
+Validation Branch, send
+
+[[Page 35701]]
+
+it to the attention of the person identified in paragraph (j) of 
+this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#c8f1e5899e9be589819ae5fffbf8e58985878b88aea9a9e6afa7be"><span class="__cf_email__" data-cfemail="d1e8fc908782fc909883fce6e2e1fc909c9e9291b7b0b0ffb6bea7">[email&#160;protected]</span></a>. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; or Airbus SAS's EASA DOA. If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(j) Additional Information
+
+    For more information about this AD, contact Dat Le, Aviation 
+Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; telephone: 516-228-7300; email: <a href="/cdn-cgi/l/email-protection#a29b8fc3d4d18fccdbc3c1cd8fc1cdd1e2c4c3c38cc5cdd4"><span class="__cf_email__" data-cfemail="30091d5146431d5e4951535f1d535f43705651511e575f46">[email&#160;protected]</span></a>.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2023-0132, 
+dated July 3, 2023.
+    (ii) EASA AD 2023-0132R1, dated March 20, 2024.
+    Note 1 to paragraph (k)(2)(ii): EASA AD 2023-0132R1 can be 
+accessed in the zipped file at the bottom of the web page for EASA 
+AD 2023-0132. When EASA posts a revised AD on their website, they 
+watermark the previous AD as ``Revised,'' alter the file name by 
+adding ``_revised'' to the end, and move it into a zipped file 
+attached at the bottom of the AD web page.
+    (3) For EASA AD 2023-0132 and EASA AD 2023-0132R1, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email <a href="/cdn-cgi/l/email-protection#f2b3b681b297938193dc9787809d8293dc9787"><span class="__cf_email__" data-cfemail="f5b4b186b590948694db9080879a8594db9080">[email&#160;protected]</span></a>; website easa.europa.eu. You may 
+find this EASA AD on the EASA website ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th 
+Street, Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a>, or email <a href="/cdn-cgi/l/email-protection#b7d1c599ded9c4c7d2d4c3ded8d9f7d9d6c5d699d0d8c1"><span class="__cf_email__" data-cfemail="274155094e4954574244534e4849674946554609404851">[email&#160;protected]</span></a>.
+
+    Issued on April 12, 2024.
+Victor Wicklund,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-09353 Filed 5-1-24; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

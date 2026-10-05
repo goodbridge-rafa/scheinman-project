@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "03-6262": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "(1) Models AT-300, AT-301, AT-302, and AT-400A airplanes, all serial numbers, that have aluminum spar caps;",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "AD 2002-13-02 currently requires you to inspect (one-time) the wing centerline splice joint for cracks and, if any crack is found, replace the affected wing spar lower cap",
+     "value": "wing_spar"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Investigation reveals that the right-hand lower spar cap failed due to fatigue at the \\3/8\\-inch outboard bolt, which is located 6.5 inches outboard of the fuselage centerline.",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Investigation reveals that the right-hand lower spar cap failed due to fatigue at the \\3/8\\-inch outboard bolt, which is located 6.5 inches outboard of the fuselage centerline.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD maintains the wing spar lower cap replacement and reporting requirements from AD 2002-13-02 and reduces the compliance time of these replacements.",
+     "value": "replacement;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(j) Does this AD action affect any existing AD actions? This amendment supersedes AD 2002-13-02, Amendment 39-12789.",
+     "value": "AD 2002-13-02"
+    }
+   ]
+  },
+  "03-7747": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "AD 95-20-06 applied to airplanes with \\3/16\\-inch thick and \\1/4\\-inch thick aluminum fin front spar fittings installed.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD is the result of a report of failure of a \\1/4\\-inch thick vertical fin front spar fitting.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Recently, a Model AT-502 airplane was found with a cracked \\1/4\\-inch thick fin front spar fitting. The crack was found during a routine inspection. The rear spar had not yet failed. This recent finding demonstrates that Air Tractor models with a \\1/4\\-inch thick fin front spar fitting are subject to fatigue failure.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires you to repetitively inspect the vertical fin front spar fitting for cracks and replace any cracked fitting found. This AD also requires you to install a steel doubler as a terminating action for the repetitive inspections.",
+     "value": "repetitive_inspection;replacement;modification"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  },
+  "04-15373": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "applicable to certain Airbus Model A310 series airplanes, that currently requires repetitive inspections of the fuselage skin to detect corrosion or fatigue cracking around and under the chafing plates of the wing root; and corrective actions, if necessary.",
+     "value": "fuselage_skin"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "requires repetitive inspections of the fuselage skin to detect corrosion or fatigue cracking around and under the chafing plates of the wing root",
+     "value": "skin_panel"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This amendment reinstates repetitive inspections in certain areas where corrosion was detected and reworked as required by the existing AD.",
+     "value": "corrosion"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "If any discrepancy is found, prior to further flight, accomplish follow-on corrective actions (i.e., removal of corrosion, corrosion protection, high frequency eddy current inspection, x-ray inspection), as applicable, in accordance with the applicable service bulletin. Repeat the inspections thereafter at the intervals specified in the applicable service bulletin.",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2004-14-06 Airbus: Amendment 39-13715. Docket 2002-NM-175-AD. Supersedes AD 98-09-20, Amendment 39-10501.",
+     "value": "AD 98-09-20"
+    }
+   ]
+  },
+  "05-19144": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Two commenters request that we revise paragraph (h) of the proposed AD to add the option of replacing a cracked stiffener with a new stiffener of the existing type design (made from 7075-T6511 aluminum extrusion).",
+     "value": "7075-T6511"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD is prompted by reports of cracks in the stiffeners at LBL and RBL 6.15 on the rear spar of the wing center section.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD is prompted by reports of cracks in the stiffeners at LBL and RBL 6.15 on the rear spar of the wing center section.",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections of the stiffeners at left buttock line (LBL) and right buttock line (RBL) 6.15 for cracks; and replacement of both stiffeners with new, improved stiffeners if any stiffener is found cracked.",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n(b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "05-4410": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD is prompted by reports indicating that severed tension ties were found at the fuselage frame joints at BS 1120 and 1140.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Perform a detailed inspection for discrepancies of the fuselage frame to tension tie joints at BS 1120 through BS 1220, and to determine if steel splice plates are installed on the fuselage frames.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent fatigue cracking of the fuselage frame to tension tie joints, which could result in severing of the tension ties and consequent rapid decompression of the airplane fuselage.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time inspection for discrepancies of the fuselage frame to tension tie joints at body stations (BS) 1120 through 1220 and to determine if steel splice plates are installed on the fuselage frames, and related investigative and corrective actions.",
+     "value": "one_time_inspection;repair;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n(b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "06-2849": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD also mandates eventual replacement of aluminum upper arms with steel upper arms, which would end the repetitive inspections.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from two reports of rupture of the upper arm of the MLG secondary side brace due to fatigue cracking.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "(d) This AD was prompted by two reports of rupture of the upper arm of the main landing gear (MLG) secondary side brace assembly due to fatigue cracking.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time general visual inspection for contamination of the surface of the upper arms of the main landing gear (MLG) secondary side brace assemblies; and repetitive eddy current inspections for cracking of the upper arms, and related specified and corrective actions if necessary. This AD also mandates eventual replacement of aluminum upper arms with steel upper arms, which would end the repetitive inspections.",
+     "value": "one_time_inspection;repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n(b) None.",
+     "value": "none"
+    }
+   ]
+  }
+ }
+}

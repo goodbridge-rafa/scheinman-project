@@ -1,0 +1,412 @@
+<html>
+<head>
+<title>Federal Register, Volume 86 Issue 241 (Monday, December 20, 2021)</title>
+</head>
+<body><pre>
+[Federal Register Volume 86, Number 241 (Monday, December 20, 2021)]
+[Rules and Regulations]
+[Pages 71815-71818]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2021-27409]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2021-0214; Project Identifier 2018-CE-064-AD; Amendment 
+39-21839; AD 2021-24-18]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Viking Aircraft Limited Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Viking Air Limited Model DHC-3 airplanes. This AD results from 
+mandatory continuing airworthiness information (MCAI) originated by an 
+aviation authority of another country to identify and correct an unsafe 
+condition on an aviation product. The MCAI identifies the unsafe 
+condition as fatigue damage of the wing strut lug fitting components 
+and the fuselage to wing strut attachment (tie-bar). This AD requires 
+determining service life limits
+
+[[Page 71816]]
+
+for the wing strut fitting on the main spar and for the tie-bar and 
+following instructions for removal and replacement of affected parts. 
+The FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+DATES: This AD is effective January 24, 2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of January 24, 
+2022.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Viking Air Limited Technical Support, 1959 De Havilland Way, 
+Sidney, British Columbia, Canada, V8L 5V5; phone: (North America) (800) 
+663-8444; fax: (250) 656-0673; email: <a href="/cdn-cgi/l/email-protection#344051575c5a5d5755581a474144445b464074425d5f5d5a53555d461a575b59"><span class="__cf_email__" data-cfemail="fb8f9e98939592989a97d5888e8b8b94898fbb8d929092959c9a9289d5989496">[email&#160;protected]</span></a>; 
+website: <a href="https://www.vikingair.com/support/service-bulletins">https://www.vikingair.com/support/service-bulletins</a>. You may 
+view this service information at the FAA, Airworthiness Products 
+Section, Operational Safety Branch, 901 Locust, Kansas City, MO 64106. 
+For information on the availability of this material at the FAA, call 
+(816) 329-4148. It is also available at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by 
+searching for and locating Docket No. FAA-2021-0214.
+
+Examining the AD Docket
+
+    You may examine the AD docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by 
+searching for and locating Docket No. FAA-2021-0214; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, the 
+MCAI, any comments received, and other information. The address for 
+Docket Operations is U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Aziz Ahmed, Aviation Safety Engineer, 
+New York ACO Branch, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; phone: (516) 287-7329; fax: (516) 794-5531; email: 
+<a href="/cdn-cgi/l/email-protection#7918031003571811141c1d391f1818571e160f"><span class="__cf_email__" data-cfemail="ceafb4a7b4e0afa6a3abaa8ea8afafe0a9a1b8">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Viking Air Limited 
+Model DHC-3 airplanes. The NPRM published in the Federal Register on 
+June 28, 2021 (86 FR 33916). The NPRM was prompted by MCAI originated 
+by Transport Canada, which is the aviation authority for Canada. 
+Transport Canada has issued AD CF-2017-29, dated August 24, 2017 
+(referred to after this as ``the MCAI''), to correct an unsafe 
+condition for Viking Air Limited Model DHC-3 airplanes. The MCAI 
+states:
+
+    It has been determined that the current maintenance program does 
+not adequately address potential fatigue damage of the wing strut 
+lug fitting components or the fuselage to wing strut attachment (Tie 
+Bar). Affected parts must be replaced before specified air time 
+limits are reached to avoid fatigue cracking of the affected parts. 
+Cracking which is not detected may compromise the structural 
+integrity of the wing or the Tie-Bar.
+    Fatigue damage occurs more rapidly on aeroplanes that are 
+operated at higher gross weights. For that reason, the corrective 
+actions of this [Transport Canada] AD must be accomplished sooner 
+for aeroplanes that have been certified for operation at higher 
+gross weights.
+    Fatigue damage also occurs more rapidly on aeroplanes that are 
+operated below 2000 feet above ground level (AGL) over land due to 
+higher and more frequent gust and maneuvering loads. Low level 
+flights over water are not known to produce increased fatigue damage 
+on the DHC-3. For that reason, the corrective actions of this 
+[Transport Canada] AD must be accomplished sooner for aeroplanes 
+that have been operated at low altitudes over land.
+
+    This condition, if not addressed, could result in cracking and 
+failure of the structural integrity of the wing or the tie-bar.
+    You may examine the MCAI in the AD docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. FAA-2021-
+0214.
+    In the NPRM, the FAA proposed to require determining service life 
+limits for the wing strut fitting on the main spar and for the tie-bar 
+and following instructions for removal and replacement of affected 
+parts. The FAA is issuing this AD to address the unsafe condition on 
+these products.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from two commenters. The commenters were 
+Talkeetna Air Taxi Inc. (Talkeetna Air) and Rust's Flying Service/K2 
+Aviation (Rust's Flying Service). The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Request Regarding Equivalent Air Time
+
+    Both commenters requested the FAA change the proposed method of 
+calculating equivalent air time by doubling the total hours on each 
+component. Talkeetna Air requested the FAA allow increased visual and 
+non-destructive testing inspections instead. Talkeetna Air and Rust's 
+Flying Service suggested the FAA allow operators to calculate by using 
+the formula and estimating the altitudes at which an airplane has 
+operated, as provided in the service information, instead of by 
+assuming all operations occur below 2,000 feet. Rust's Flying Service 
+stated it has data to verify the operating altitudes of its aircraft.
+    As the FAA explained in the NPRM, there is no regulatory 
+requirement for owners or operators to record or maintain the operating 
+altitude history of an airplane. As a result, this AD requires 
+calculating the compliance time by assuming all operations occurred 
+below 2,000 feet AGL (and therefore doubling the total hours). However, 
+operators may request approval to determine equivalent air time 
+differently as an alternative method of compliance under the provisions 
+of paragraph (g)(1) of this AD. The FAA did not change this AD based on 
+this comment.
+
+Request Regarding Costs of Compliance
+
+    Talkeetna Air requested that the FAA adjust its estimated costs of 
+compliance. The commenter stated that the hourly rate and number of 
+estimated labor hours is too low for what would be required.
+    The FAA obtained the 300-hour labor time estimated in the NPRM from 
+Viking Air Limited DHC-3 Otter Service Bulletin Number V3/0008, 
+Revision NC, dated February 9, 2017. The FAA verified this number with 
+Viking Air Limited and confirmed it is valid.
+    The FAA Office of Aviation Policy and Plans provides the labor rate 
+of $85 per work-hour for the FAA to use when estimating the labor costs 
+of complying with AD requirements.
+    The FAA did not change this AD based on this comment.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered any 
+comments received, and determined that air safety requires adopting 
+this AD as proposed. Accordingly, the FAA is issuing this AD to address 
+the unsafe condition on these products. This AD is adopted as proposed 
+in the NPRM.
+
+[[Page 71817]]
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Viking DHC-3 Otter Service Bulletin Number V3/
+0008, Revision NC, dated February 9, 2017. The service information 
+specifies determining service life limits for the wing strut fitting on 
+the main spar and for the tie-bar and contains instructions for removal 
+and replacement. The FAA also reviewed De Havilland Aircraft of Canada, 
+Limited DHC-3 Otter Service Bulletin Number 3/37, Revision B, dated 
+October 8, 1982. The service information specifies instructions for 
+removing and replacing the fuselage to wing strut attachment tie-bar. 
+This service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in ADDRESSES.
+
+Differences Between This AD and the MCAI
+
+    The MCAI requires calculating the compliance time by using a 
+formula and estimating the altitudes at which an airplane has operated. 
+The MCAI also instructs operators to assume operations below 2,000 feet 
+AGL when the operating altitude of the airplane is unknown. Because the 
+FAA has no regulatory requirement for owners or operators to record or 
+maintain the operating altitude history of an airplane, this AD 
+requires calculating the compliance time by assuming all operations 
+occurred below 2,000 feel AGL.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 41 airplanes of U.S. 
+registry.
+    The FAA also estimates that it would take about 300 work-hours per 
+airplane to replace both the wing strut fitting and the tie-bar. The 
+average labor rate is $85 per work-hour. Required parts would cost 
+about $5,599 per airplane.
+    Based on these figures, the FAA estimates the cost of this AD on 
+U.S. operators to be $1,275,059 or $31,099 per airplane.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2021-24-18 Viking Air Limited: Amendment 39-21839; Docket No. FAA-
+2021-0214; Project Identifier 2018-CE-064-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective January 24, 2022.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Viking Air Limited Model DHC-3 airplanes, all 
+serial numbers, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5700, Wing 
+Structure.
+
+(e) Unsafe Condition
+
+    This AD was prompted by mandatory continuing airworthiness 
+information (MCAI) originated by an aviation authority of another 
+country to identify and correct an unsafe condition on an aviation 
+product. The MCAI describes the unsafe condition as fatigue damage 
+of the wing strut lug fitting components or the fuselage to wing 
+strut attachment (tie-bar). The FAA is issuing this AD to identify 
+and correct potential fatigue damage of the wing strut lug fitting 
+components of the fuselage to wing strut attachment. The unsafe 
+condition, if not addressed, could result in cracking and failure of 
+the structural integrity of the wing or the tie-bar.
+
+(f) Actions and Compliance
+
+    Unless already done, do the following actions in paragraphs 
+(f)(1) through (3) of this AD:
+    (1) For all airplanes: Within 3 months after the effective date 
+of this AD, determine and record the number of equivalent air time 
+hours on each wing and tie-bar by doubling the total hours time-in-
+service (TIS) accumulated on each part. If the total hours TIS of a 
+tie-bar is unknown or cannot be determined, use the total hours TIS 
+of the wing strut lug fitting on the main spar.
+    (2) For airplanes with a maximum certificated gross weight that 
+has never exceeded 8,000 pounds: Remove from service each left-hand 
+and right-hand wing strut fitting and tie-bar by following the 
+Accomplishment Instructions in Viking DHC-3 Otter SB V3/0008, 
+Revision NC, dated February 9, 2017, and the Replacement section of 
+the Accomplishment instructions in De Havilland Aircraft of Canada, 
+Limited DHC-3 Otter Service Bulletin Number 3/37, Revision B, dated 
+October 8, 1982, at whichever of the following compliance times that 
+occurs later:
+    (i) Before the part accumulates 40,000 equivalent air time 
+hours, or
+    (ii) Within 12 months after the effective date of this AD.
+    (3) For airplanes with a maximum certificated gross weight that 
+has ever exceeded 8,000 pounds: Remove from service each left-hand 
+and right-hand wing strut fitting and tie-bar by following the 
+Accomplishment Instructions in Viking DHC-3 Otter SB V3/0008, 
+Revision NC, dated February 9, 2017, and the Replacement section of 
+the Accomplishment instructions in De Havilland Aircraft of Canada, 
+Limited DHC-3 Otter Service Bulletin Number 3/37, Revision B, dated 
+October 8, 1982, at whichever of the following compliance times that 
+occurs later:
+    (i) Before the part accumulates 32,200 equivalent air time 
+hours, or
+    (ii) Within 12 months after the effective date of this AD.
+
+(g) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, New York ACO Branch, FAA, has the authority to 
+approve AMOCs
+
+[[Page 71818]]
+
+for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+ACO Branch, send it to the attention of the person identified in 
+paragraph (h)(1) of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(h) Related Information
+
+    (1) For more information about this AD, contact Aziz Ahmed, 
+Aviation Safety Engineer, New York ACO Branch, FAA, 1600 Stewart 
+Avenue, Suite 410, Westbury, NY 11590; phone: (516) 287-7329; fax: 
+(516) 794-5531; email: <a href="/cdn-cgi/l/email-protection#1d7c677467337c757078795d7b7c7c337a726b"><span class="__cf_email__" data-cfemail="74150e1d0e5a151c191110341215155a131b02">[email&#160;protected]</span></a>.
+    (2) Refer to Transport Canada AD CF-2017-29, dated August 24, 
+2017, for more information. You may examine the Transport Canada AD 
+at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket 
+No. FAA-2021-0214.
+
+(i) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Viking DHC-3 Otter Service Bulletin Number V3/0008, Revision 
+NC, dated February 9, 2017.
+    (ii) De Havilland Aircraft of Canada, Limited DHC-3 Otter 
+Service Bulletin Number 3/37, Revision B, dated October 8, 1982.
+    Note to paragraph (i)(2)(ii): Although De Havilland Aircraft of 
+Canada Limited DHC-3 Otter Service Bulletin Number 3/37, Revision B, 
+dated October 8, 1982, is at revision B, the footer on pages 3 
+through 6 shows revision ``A,'' dated May 14, 1982.
+    (3) For both Viking and De Havilland Aircraft of Canada, Limited 
+service information identified in this AD, contact Viking Air 
+Limited Technical Support, 1959 De Havilland Way, Sidney, British 
+Columbia, Canada, V8L 5V5; phone: (North America) (800) 663-8444; 
+fax: (250) 656-0673; email: <a href="/cdn-cgi/l/email-protection#c7b3a2a4afa9aea4a6abe9b4b2b7b7a8b5b387b1aeacaea9a0a6aeb5e9a4a8aa"><span class="__cf_email__" data-cfemail="abdfcec8c3c5c2c8cac785d8dedbdbc4d9dfebddc2c0c2c5cccac2d985c8c4c6">[email&#160;protected]</span></a>; 
+website: <a href="https://www.vikingair.com/support/service-bulletins">https://www.vikingair.com/support/service-bulletins</a>.
+    (4) You may view this service information at FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas 
+City, MO 64106. For information on the availability of this material 
+at the FAA, call (816) 329-4148.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email: <a href="/cdn-cgi/l/email-protection#5533277b3c3b26253036213c3a3b153b3427347b323a23"><span class="__cf_email__" data-cfemail="bfd9cd91d6d1cccfdadccbd6d0d1ffd1decdde91d8d0c9">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on November 19, 2021.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-27409 Filed 12-17-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

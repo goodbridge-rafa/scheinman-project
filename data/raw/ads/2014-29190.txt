@@ -1,0 +1,594 @@
+<html>
+<head>
+<title>Federal Register, Volume 79 Issue 241 (Tuesday, December 16, 2014)</title>
+</head>
+<body><pre>
+[Federal Register Volume 79, Number 241 (Tuesday, December 16, 2014)]
+[Rules and Regulations]
+[Pages 74599-74603]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2014-29190]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2014-0257; Directorate Identifier 2014-NM-012-AD; 
+Amendment 39-18051; AD 2014-25-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 737-100, -200, -200C, -300, -400, and -500 
+series airplanes. This AD was prompted by reports of fatigue cracking 
+in the skin assembly and bear strap of the aft lower corner of the 
+forward airstair stowage doorway. This AD requires repetitive 
+inspections for cracking of the skin assembly and bear strap of the 
+forward airstair stowage doorway; post-repair and post-modification 
+inspections for certain airplanes; and related investigative and 
+corrective actions, if necessary. This AD also provides optional 
+terminating actions for certain inspections. We are issuing this AD to 
+detect and correct fatigue cracking, which could result in rapid loss 
+of cabin pressure.
+
+DATES: This AD is effective January 20, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of January 20, 
+2015.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet https://
+
+[[Page 74600]]
+
+www.myboeingfleet.com. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2014-
+0257; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Alan Pohl, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; phone: (425) 917-6450; 
+fax: (425) 917-6590; email: <a href="/cdn-cgi/l/email-protection#6a0b060b04441a0502062a0c0b0b440d051c"><span class="__cf_email__" data-cfemail="1f7e737e71316f7077735f797e7e31787069">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain The Boeing Company 
+Model 737-100, -200, -200C, -300, -400, and -500 series airplanes. The 
+NPRM published in the Federal Register on May 1, 2014 (79 FR 24628). 
+The NPRM was prompted by reports of fatigue cracking in certain areas. 
+The NPRM proposed to require repetitive inspections for cracking of the 
+skin assembly and bear strap of the forward airstair stowage doorway; 
+post-repair and post-modification inspections for certain airplanes; 
+and related investigative and corrective actions, if necessary. The 
+NPRM also proposed to provide optional terminating actions for certain 
+inspections. We are issuing this AD to detect and correct fatigue 
+cracking, which could result in rapid loss of cabin pressure.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (79 
+FR 24628, May 1, 2014) and the FAA's response to each comment.
+
+Effect of Winglets on AD
+
+    Aviation Partners Boeing and UPS stated that the installation of 
+winglets per Supplemental Type Certificate (STC) ST01219SE (http://
+rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/
+ebd1cec7b301293e86257cb30045557a/$FILE/ST01219SE.pdf) does not affect 
+the accomplishment of the manufacturer's service instructions.
+    We agree with the commenters' statement. We have redesignated 
+paragraph (c) of the NPRM (79 FR 24628, May 1, 2014) as (c)(1) in this 
+AD and added new paragraph (c)(2) to this AD to state that the 
+installation of winglets as specified in STC ST01219SE (http://
+rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/
+ebd1cec7b301293e86257cb30045557a/$FILE/ST01219SE.pdf) does not affect 
+accomplishment of the requirements of this AD, and for airplanes on 
+which STC ST01219SE is installed, a ``change in product'' alternative 
+method of compliance (AMOC) approval request is not necessary to comply 
+with the requirements of section 39.17 of the Federal Aviation 
+Regulations (14 CFR 39.17).
+
+Request To Revise Paragraph (m) of the NPRM (79 FR 24628, May 1, 2014)
+
+    Southwest Airlines (SWA) stated that the NPRM (79 FR 24628, May 1, 
+2014), does not address terminating the initial inspection if a repair 
+was previously installed using Boeing Service Bulletin 737-53-1058, 
+Revision 4, dated January 9, 2014. SWA requested that we revise the 
+text of paragraph (m)(3) of the NPRM, to state that repairs or 
+modifications using Boeing Service Bulletin 737-53-1058, Revision 4, 
+dated January 9, 2014, terminates both the initial and repetitive 
+inspections required by paragraph (j) of this AD. SWA also requested 
+that repairs previously approved by a Boeing authorized representative 
+via an FAA 8100-9 form are terminating action to both the initial and 
+repetitive inspection requirements required by paragraph (j) of the 
+NPRM.
+    We agree with the request because it was not intended that a 
+separate initial inspection would be performed on airplanes that have 
+the repair previously installed. We have deleted the word 
+``repetitive'' from paragraphs (m)(1) through (m)(3) of this AD to 
+clarify that accomplishing the actions in those paragraphs terminates 
+certain initial and repetitive inspections. We have also added 
+paragraph (m)(4) to this final rule, which specifies that the 
+accomplishment of a repair of the aft lower corner of the forward 
+airstair stowage doorway that was previously approved using FAA Form 
+8100-9, terminates the inspections required by paragraph (j) of this 
+AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> [Agr]re consistent with the intent that was proposed in 
+the NPRM (79 FR 24628, May 1, 2014) for correcting the unsafe 
+condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (79 FR 24628, May 1, 2014).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 132 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+        Action                 Labor cost              Parts cost         Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection...........  5 work-hours x $85 per     None................  $425 per inspection  $56,100 per
+                        hour = $425 per                                  cycle.               inspection cycle.
+                        inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for any on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue
+
+[[Page 74601]]
+
+rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2014-25-09 The Boeing Company: Amendment 39-18051; Docket No. FAA-
+2014-0257; Directorate Identifier 2014-NM-012-AD.
+
+(a) Effective Date
+
+    This AD is effective January 20, 2015.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    (1) This AD applies to The Boeing Company Model 737-100, -200, -
+200C, -300, -400, and -500 series airplanes, certificated in any 
+category, as identified in Boeing Service Bulletin 737-53-1058, 
+Revision 4, dated January 9, 2014.
+    (2) Installation of Supplemental Type Certificate (STC) 
+ST01219SE (http://rgl.faa.gov/Regulatory_and_Guidance_Library/
+rgstc.nsf/0/ebd1cec7b301293e86257cb30045557a/$FILE/ST01219SE.pdf) 
+does not affect the ability to accomplish the actions required by 
+this AD. Therefore, for airplanes on which STC ST01219SE is 
+installed, a ``change in product'' alternative method of compliance 
+(AMOC) approval request is not necessary to comply with the 
+requirements of 14 CFR 39.17.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fatigue cracking in the skin 
+assembly and bear strap of the aft lower corner of the forward 
+airstair stowage doorway. We are issuing this AD to detect and 
+correct fatigue cracking, which could result in rapid loss of cabin 
+pressure.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspections and Corrective Actions for Group 1 and Group 2 
+Airplanes That Do Not Have a Certain Repair or Preventative 
+Modification Installed
+
+    For Group 1 and Group 2 airplanes identified in Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014, on which no 
+repair or preventative modification has been done as specified in 
+any of the service information identified in paragraphs (g)(1) 
+through (g)(4) of this AD: At the applicable times specified in 
+Table 1 of paragraph 1.E., ``Compliance,'' of Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014, except as 
+required by paragraph (o)(1) of this AD, do high frequency eddy 
+current and detailed inspections for cracking of the skin assembly 
+and bear strap of the forward airstair stowage doorway, and do all 
+applicable related investigative and corrective actions, in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014, except as 
+required by paragraph (o)(2) of this AD. Do all applicable related 
+investigative and corrective actions before further flight. Repeat 
+the inspections at the applicable times specified in Table 1 of 
+paragraph 1.E., ``Compliance,'' of Boeing Service Bulletin 737-53-
+1058, Revision 4, dated January 9, 2014, until the applicable 
+terminating action specified in paragraph (m) of this AD is done.
+    (1) Boeing Service Bulletin 737-53-1058, dated April 4, 1980.
+    (2) Boeing Service Bulletin 737-53-1058, Revision 1, dated March 
+5, 1987.
+    (3) Boeing Service Bulletin 737-53-1058, Revision 2, dated 
+December 7, 1989.
+    (4) Boeing Service Bulletin 737-53-1058, Revision 3, dated March 
+11, 1993.
+
+(h) Inspections and Corrective Actions for Group 1 and Group 2 
+Airplanes That Have a Certain Repair Installed
+
+    For Group 1 and Group 2 airplanes identified in Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014, on which a 
+repair has been installed as specified in Boeing Service Bulletin 
+737-53-1058, dated April 4, 1980: Within the applicable times 
+specified in Table 1 of paragraph 1.E., ``Compliance,'' of Boeing 
+Service Bulletin 737-53-1058, Revision 4, dated January 9, 2014, 
+except as required by paragraph (o)(1) of this AD, do a high 
+frequency eddy current inspection for cracking of the bear strap of 
+the forward airstair stowage doorway, and do low frequency eddy 
+current and detailed inspections for cracking of the skin assembly 
+and bear strap of the forward airstair stowage doorway; and do all 
+applicable related investigative and corrective actions; in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014, except as 
+required by paragraph (o)(2) of this AD. Do all applicable related 
+investigative and corrective actions before further flight. Repeat 
+the inspections at the applicable times specified in Table 1 of 
+paragraph 1.E., ``Compliance,'' of Boeing Service Bulletin 737-53-
+1058, Revision 4, dated January 9, 2014, until the applicable 
+terminating action specified in paragraph (m) of this AD is done.
+
+(i) Inspections and Corrective Actions for Group 1 and Group 2 
+Airplanes That Have a Certain Preventative Modification Installed
+
+    For Group 1 and Group 2 airplanes identified in Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014, on which a 
+preventative modification has been installed as specified in any of 
+the service information identified in paragraphs (i)(1) through 
+(i)(4) of this AD: Within the applicable times specified in Table 1 
+of paragraph 1.E., ``Compliance,'' of Boeing Service Bulletin 737-
+53-1058, Revision 4, dated January 9, 2014, except as required by 
+paragraph (o)(1) of this AD, do a high frequency eddy current 
+inspection for cracking of the bear strap of the forward airstair 
+stowage doorway, a low frequency eddy current inspection for 
+cracking of the skin assembly and bear strap of the forward airstair 
+stowage doorway, and detailed inspections for cracking of the skin 
+assembly and bear strap of the forward airstair stowage doorway; and 
+do all related investigative and applicable corrective actions; in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 737-53-1058,
+
+[[Page 74602]]
+
+Revision 4, dated January 9, 2014, except as required by paragraph 
+(o)(2) of this AD. Do all applicable related investigative and 
+corrective actions before further flight. Repeat the inspections at 
+the applicable times specified in Table 1 of paragraph 1.E., 
+``Compliance,'' of Boeing Service Bulletin 737-53-1058, Revision 4, 
+dated January 9, 2014, until the applicable terminating action 
+specified in paragraph (m) of this AD is done.
+    (1) Boeing Service Bulletin 737-53-1058, dated April 4, 1980.
+    (2) Boeing Service Bulletin 737-53-1058, Revision 1, dated March 
+5, 1987.
+    (3) Boeing Service Bulletin 737-53-1058, Revision 2, dated 
+December 7, 1989.
+    (4) Boeing Service Bulletin 737-53-1058, Revision 3, dated March 
+11, 1993.
+
+(j) Inspections and Corrective Actions for Group 3 Through Group 5 
+Airplanes
+
+    For Group 3 through Group 5 airplanes identified in Boeing 
+Service Bulletin 737-53-1058, Revision 4, dated January 9, 2014: At 
+the applicable times specified in Table 2 of paragraph 1.E., 
+``Compliance,'' of Boeing Service Bulletin 737-53-1058, Revision 4, 
+dated January 9, 2014, except as required by paragraph (o)(1) of 
+this AD, do a high frequency eddy current inspection for cracking of 
+the bear strap of the forward airstair stowage doorway, a low 
+frequency eddy current inspection for cracking of the skin assembly 
+and bear strap of the forward airstair stowage doorway, and detailed 
+inspections for cracking of the skin assembly and bear strap of the 
+forward airstair stowage doorway; and do all related investigative 
+and applicable corrective actions; in accordance with the 
+Accomplishment Instructions of Boeing Service Bulletin 737-53-1058, 
+Revision 4, dated January 9, 2014, except as required by paragraph 
+(o)(2) of this AD. Do all applicable related investigative and 
+corrective actions before further flight. Repeat the inspections at 
+the applicable times specified in Table 2 of paragraph 1.E., 
+``Compliance,'' of Boeing Service Bulletin 737-53-1058, Revision 4, 
+dated January 9, 2014, until the applicable terminating action 
+specified in paragraph (m) of this AD is done.
+
+(k) Inspections and Corrective Actions for Group 6 Airplanes
+
+    For Group 6 airplanes identified in Boeing Service Bulletin 737-
+53-1058, Revision 4, dated January 9, 2014: Within 120 days after 
+the effective date of this AD, inspect and repair any cracking using 
+a method approved in accordance with the procedures specified in 
+paragraph (q) of this AD.
+
+(l) Post-Repair and Post-Modification Inspections for Group 1 and Group 
+2 Airplanes
+
+    For Group 1 and Group 2 airplanes on which any repair has been 
+done as specified in any of the service information identified in 
+paragraphs (l)(1) through (l)(3) of this AD, or on which any repair 
+or modification has been done as specified in the service 
+information identified in paragraph (l)(4) of this AD: At the 
+applicable times specified in Table 3 of paragraph 1.E., 
+``Compliance,'' of Boeing Service Bulletin 737-53-1058, Revision 4, 
+dated January 9, 2014, except as required by paragraph (o)(1) of 
+this AD, do a high frequency eddy current inspection for cracking in 
+the bear strap and skin assembly and a general visual inspection for 
+cracking in the frame of the forward airstair stowage doorway; or do 
+low frequency eddy current inspections for cracking of the skin 
+assembly and bear strap of the forward airstair stowage doorway; in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014. Options 
+provided in Boeing Service Bulletin 737-53-1058, Revision 4, dated 
+January 9, 2014, for accomplishing the inspections are acceptable 
+for compliance with the corresponding requirements of this paragraph 
+provided that the inspections are done at the applicable times 
+specified in paragraph 1.E., ``Compliance,'' of the Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014. If any 
+cracking is found, before further flight, repair the cracking using 
+a method approved in accordance with the procedures specified in 
+paragraph (q) of this AD. Repeat the inspections at the applicable 
+times specified in Table 3 of paragraph 1.E., ``Compliance,'' of 
+Boeing Service Bulletin 737-53-1058, Revision 4, dated January 9, 
+2014.
+    (1) Boeing Service Bulletin 737-53-1058, Revision 1, dated March 
+5, 1987.
+    (2) Boeing Service Bulletin 737-53-1058, Revision 2, dated 
+December 7, 1989.
+    (3) Boeing Service Bulletin 737-53-1058, Revision 3, dated March 
+11, 1993.
+    (4) Boeing Service Bulletin 737-53-1058, Revision 4, dated 
+January 9, 2014.
+
+(m) Optional Terminating Actions
+
+    (1) For Group 1 and Group 2 airplanes identified in Boeing 
+Service Bulletin 737-53-1058, Revision 4, dated January 9, 2014: 
+Accomplishment of a repair for cracking of the skin assembly and 
+bear strap of the forward airstair stowage doorway before the 
+effective date of this AD, using any service information specified 
+in paragraphs (m)(1)(i) through (m)(1)(iv) of this AD, terminates 
+the inspections required by paragraphs (g), (h), and (i) of this AD.
+    (i) Boeing Service Bulletin 737-53-1058, Revision 1, dated March 
+5, 1987.
+    (ii) Boeing Service Bulletin 737-53-1058, Revision 2, dated 
+December 7, 1989.
+    (iii) Boeing Service Bulletin 737-53-1058, Revision 3, dated 
+March 11, 1993.
+    (iv) Boeing Service Bulletin 737-53-1058, Revision 4, dated 
+January 9, 2014.
+    (2) For Group 1 and Group 2 airplanes identified in Boeing 
+Service Bulletin 737-53-1058, Revision 4, dated January 9, 2014: 
+Accomplishment of a preventative modification for cracking of the 
+skin assembly and bear strap of the forward airstair stowage doorway 
+before the effective date of this AD, in accordance with the 
+Accomplishment Instructions of Boeing Service Bulletin 737-53-1058, 
+Revision 4, dated January 9, 2014, terminates the inspections 
+required by paragraphs (g), (h), and (i) of this AD.
+    (3) For Group 3 through Group 5 airplanes identified in Boeing 
+Service Bulletin 737-53-1058, Revision 4, dated January 9, 2014: 
+Repairing or modifying the forward airstair stowage doorway, in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014, terminates 
+the inspections required by paragraph (j) of this AD.
+    (4) Accomplishment, prior to the effective date of this AD, of a 
+repair of the aft lower corner of the forward airstair stowage 
+doorway that was approved by Boeing Commercial Airplanes 
+Organization Designation Authorization (ODA) using FAA Form 8100-9, 
+terminates the inspections required by paragraph (j) of this AD.
+
+(n) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraphs (g), (h), and (i) of this AD, if those actions were 
+performed before the effective date of this AD using any service 
+information specified in paragraphs (n)(i) through (n)(iii) of this 
+AD.
+    (i) Boeing Service Bulletin 737-53-1058, Revision 1, dated March 
+5, 1987.
+    (ii) Boeing Service Bulletin 737-53-1058, Revision 2, dated 
+December 7, 1989.
+    (iii) Boeing Service Bulletin 737-53-1058, Revision 3, dated 
+March 11, 1993.
+
+(o) Exceptions to the Service Information
+
+    (1) Where Boeing Service Bulletin 737-53-1058, Revision 4, dated 
+January 9, 2014, specifies a compliance time ``after the Revision 4 
+date of this service bulletin,'' this AD requires compliance within 
+the specified compliance time ``after the effective date of this 
+AD.''
+    (2) Where Boeing Service Bulletin 737-53-1058, Revision 4, dated 
+January 9, 2014, specifies to contact Boeing for repair 
+instructions: Before further flight, repair using a method approved 
+in accordance with the procedures specified in paragraph (q) of this 
+AD.
+
+(p) Post-Repair and Post-Modification Inspections for Group 3 Through 
+Group 5 Airplanes Not Required
+
+    The post-repair and post-modification inspections specified in 
+Table 4 of paragraph 1.E., ``Compliance,'' of Boeing Service 
+Bulletin 737-53-1058, Revision 4, dated January 9, 2014, are not 
+required by this AD.
+
+    Note 1 to paragraph (p) of this AD:  The post-repair and post-
+modification inspections specified in Table 4 of paragraph 1.E., 
+``Compliance,'' of Boeing Service Bulletin 737-53-1058, Revision 4, 
+dated January 9, 2014, may be used in support of compliance with 
+section 121.1109(c)(2) or 129.109(b)(2) of the Federal Aviation 
+Regulations (14 CFR 121.1109(c)(2) or 14 CFR 129.109(b)(2)).
+
+(q) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (r)(1) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#a29b8fe3ecef8ff1c7c3d6d6cec78fe3e1ed8fe3efede18ff0c7d3d7c7d1d6d1e2c4c3c38cc5cdd4"><span class="__cf_email__" data-cfemail="bd8490fcf3f090eed8dcc9c9d1d890fcfef290fcf0f2fe90efd8ccc8d8cec9cefddbdcdc93dad2cb">[email&#160;protected]</span></a>.
+
+[[Page 74603]]
+
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+
+(r) Related Information
+
+    (1) For more information about this AD, contact Nenita Odesa, 
+Aerospace Engineer, Airframe Branch, ANM-120L, FAA, Los Angeles 
+Aircraft Certification Office, 3960 Paramount Boulevard, Lakewood, 
+CA 90712-4137; phone: (562) 627-5234; fax: (562) 627-5210; email: 
+<a href="/cdn-cgi/l/email-protection#94faf1fafde0f5bafbf0f1e7f5d4f2f5f5baf3fbe2"><span class="__cf_email__" data-cfemail="026c676c6b76632c6d66677163426463632c656d74">[email&#160;protected]</span></a>.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (s)(3) and (s)(4) of this AD.
+
+(s) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Service Bulletin 737-53-1058, Revision 4, dated 
+January 9, 2014.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on December 5, 2014.
+Michael J. Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-29190 Filed 12-15-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

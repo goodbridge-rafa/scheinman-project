@@ -1,0 +1,343 @@
+<html>
+<head>
+<title>Federal Register, Volume 66 Issue 134 (Thursday, July 12, 2001)</title>
+</head>
+<body><pre>
+[Federal Register Volume 66, Number 134 (Thursday, July 12, 2001)]
+[Rules and Regulations]
+[Pages 36443-36445]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 01-17119]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-NM-251-AD; Amendment 39-12318; AD 2001-14-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747 Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Boeing Model 747 series airplanes, that requires 
+repetitive high frequency eddy current inspections to find cracking of 
+the bulkhead frame support at body station 2598 under the hinge support 
+fittings of the horizontal stabilizer, and repair if cracking is found. 
+These actions are necessary to find and fix fatigue cracking in the 
+frame support, which could result in inability of the structure to 
+carry horizontal stabilizer flight loads and reduced controllability of 
+the horizontal stabilizer. This action is intended to address the 
+identified unsafe condition.
+
+DATES: Effective August 16, 2001.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of August 16, 2001.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, 
+Washington 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Rick Kawaguchi, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-1153; fax (425) 227-1181.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to all Boeing Model 747 series 
+airplanes was published in the Federal Register on February 21, 2001 
+(66 FR 10974). That action proposed to require repetitive high 
+frequency eddy current inspections to find cracking of the bulkhead 
+frame support at body station 2598 under the hinge support fittings of 
+the horizontal stabilizer, and repair if cracking is found.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Revised Service Information
+
+    Two commenters ask that the FAA approve Boeing Service Bulletin 
+747-53A2449, Revision 1, dated May 24, 2001, as another source of 
+service information for doing the actions specified in the proposed 
+rule. The proposed rule cited Boeing Alert Service Bulletin 747-
+53A2449, dated June 8, 2000, as the proper source of service 
+information for doing the specified actions.
+    One commenter, the manufacturer, states that the revised service 
+bulletin changes the airplane effectivity by limiting the affected 
+airplanes to line numbers (L/N) 1 through 1307, inclusive. Airplanes 
+delivered after L/N 1307 have been redesigned to reduce the possibility 
+of early cracking of the bulkhead in the subject area. The revised 
+bulletin also corrects the bolt torque values specified in the original 
+issue of the service bulletin. The commenter adds that using the torque 
+values in the original issue could lead to over-torque of the bolts 
+during installation.
+    Another commenter suggests that, when a revised service bulletin is 
+released, it should specify the correct torque values for the shear 
+bolts, or reference the Structural Repair Manual, Chapter 51-30-04 or 
+51-40-04. The commenter adds that the manufacturer informed the 
+commenter by telex that, if the shear bolts are torqued per the service 
+bulletin specified in the proposed rule, they will be over-torqued. The 
+commenter does not intend to do the inspections until a revised service 
+bulletin is issued, in order to minimize the risk of over-torquing the 
+shear bolts and to avoid the need to rework and replace the bolts.
+    The FAA concurs with the commenters and has reviewed and approved 
+Boeing Service Bulletin 747-53A2449, Revision 1, dated May 24, 2001; 
+which is referenced in the final rule as the proper source of service 
+information for doing the actions specified. Accordingly, the 
+applicability section has been changed to specify Model 747 series 
+airplanes, as listed in Revision 1 of the service bulletin; the number 
+of airplanes, as well as the number of work hours, which were increased 
+in Revision 1 of the service bulletin, have been changed in the cost 
+impact section; and a new Note 2 has been added to specify that actions 
+done before the effective date of this AD, per the original issue of 
+the service bulletin, are acceptable for compliance with paragraph (a) 
+of the final rule.
+    Although the torque values have been corrected in the revised 
+service bulletin, operators who used the incorrect torque values during 
+re-installation of the bolts can wait until the next repeat inspection 
+to use the correct torque values. We have determined that over-torqued 
+bolts will not compromise safety, as long as the bolts are properly 
+torqued during the next repeat inspection.
+
+[[Page 36444]]
+
+Extend Compliance Time
+
+    One commenter asks that the compliance time for the proposed rule 
+be extended from before the accumulation of 10,000 total flight cycles, 
+or within 1,000 flight cycles after the effective date of this AD, 
+whichever occurs later; to before the accumulation of 10,000 total 
+flight cycles, or within 1,200 flight cycles after the effective date 
+of this AD, whichever occurs later. The commenter states that its 
+recommendation will allow the accomplishment of the initial inspection 
+during its regularly scheduled heavy maintenance checks, while still 
+maintaining an equivalent level of safety.
+    The FAA does not concur with the commenter's request because the 
+cracking of the bulkhead frame support is caused by fatigue, which is 
+contingent on the number of accumulated flight cycles. In developing an 
+appropriate compliance time for this action, we considered not only the 
+degree of urgency associated with addressing the subject unsafe 
+condition, but the manufacturer's recommendation as to an appropriate 
+compliance time, and the practical aspect of accomplishing the required 
+inspection within an interval of time that parallels normal scheduled 
+maintenance for the majority of affected operators. We have determined 
+that before the accumulation of 10,000 total flight cycles, or within 
+1,000 flight cycles after the effective date of this AD, whichever 
+occurs later, represents an appropriate compliance time allowable for 
+the initial inspection to be accomplished during scheduled maintenance 
+intervals. However, under the provisions of paragraph (c) of the final 
+rule, we may approve requests for adjustments to the compliance time if 
+data are submitted to substantiate that such an adjustment would 
+provide an acceptable level of safety.
+
+Terminating Action
+
+    One commenter asks that a terminating action, such as oversizing 
+the subject fastener holes, be provided by the manufacturer. The 
+commenter states that this would alleviate potential structural damage 
+caused by the repeated fastener and sealant removal, and installation 
+at a critical joint. The FAA agrees with the intent of the comment, but 
+until the manufacturer provides adequate service information giving 
+procedures for a terminating action, such action cannot be added. If 
+terminating action becomes available in the future, we may consider 
+additional rulemaking. No change to the final rule is necessary in this 
+regard.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 1,147 airplanes of the affected design in 
+the worldwide fleet. The FAA estimates that 261 airplanes of U.S. 
+registry will be affected by this AD, that it will take approximately 
+18 work hours (9 work hours per side) per airplane to accomplish the 
+required inspections, and that the average labor rate is $60 per work 
+hour. Based on these figures, the cost impact of the AD on U.S. 
+operators is estimated to be $281,880, or $1,080 per airplane, per 
+inspection cycle.
+    The cost impact figure discussed above is based on assumptions that 
+no operator has yet accomplished any of the requirements of this AD 
+action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2001-14-07  Boeing: Amendment 39-12318. Docket 2000-NM-251-AD.
+
+    Applicability: Model 747 series airplanes, as listed in Boeing 
+Service Bulletin 747-53A2449, Revision 1, dated May 24, 2001, 
+certificated in any category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (c) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To find and fix fatigue cracking in the bulkhead frame support 
+at body station (BS) 2598 under the hinge support fittings of the 
+horizontal stabilizer, which could result in inability of the 
+structure to carry horizontal stabilizer flight loads and reduced 
+controllability of the horizontal stabilizer, accomplish the 
+following:
+
+Repetitive High Frequency Eddy Current (HFEC) Inspections
+
+    (a) Before the accumulation of 10,000 total flight cycles, or 
+within 1,000 flight cycles after the effective date of this AD, 
+whichever occurs later: Do an open-hole HFEC inspection to find 
+cracking of the bulkhead frame support under the hinge support 
+fittings of the horizontal stabilizer on the left and right sides at 
+BS 2598, per Figure 2 of
+
+[[Page 36445]]
+
+the Accomplishment Instructions of Boeing Service Bulletin 747-
+53A2449, Revision 1, dated May 24, 2001. Repeat the inspection after 
+that at intervals not to exceed 3,000 flight cycles.
+
+    Note 2: Inspections accomplished before the effective date of 
+this AD per Boeing Alert Service Bulletin 747-53A2449, dated June 8, 
+2000, are considered acceptable for compliance with the applicable 
+inspection specified in paragraph (a) of this AD.
+
+Repair
+
+    (b) If any cracking is found during any inspection required by 
+paragraph (a) of this AD, before further flight, repair per a method 
+approved by the Manager, Seattle Aircraft Certification Office 
+(ACO), FAA; or per data meeting the type certification basis of the 
+airplane approved by a Boeing Company Designated Engineering 
+Representative who has been authorized by the Manager, Seattle ACO, 
+to make such findings. For a repair method to be approved by the 
+Manager, Seattle ACO, as required by this paragraph, the approval 
+letter must specifically reference this AD.
+
+Alternative Methods of Compliance
+
+    (c) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle ACO. Operators shall submit 
+their requests through an appropriate FAA Principal Maintenance 
+Inspector, who may add comments and then send it to the Manager, 
+Seattle ACO.
+
+    Note 3: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Seattle ACO.
+
+Special Flight Permits
+
+    (d) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (e) Except as provided by paragraph (b) of this AD, the actions 
+shall be done per Boeing Service Bulletin 747-53A2449, Revision 1, 
+dated May 24, 2001. This incorporation by reference was approved by 
+the Director of the Federal Register in accordance with 5 U.S.C. 
+552(a) and 1 CFR part 51. Copies may be obtained from Boeing 
+Commercial Airplane Group, P.O. Box 3707, Seattle, Washington 98124-
+2207. Copies may be inspected at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+Office of the Federal Register, 800 North Capitol Street, NW., suite 
+700, Washington, DC.
+
+Effective Date
+
+    (f) This amendment becomes effective on August 16, 2001.
+
+    Issued in Renton, Washington, on July 2, 2001.
+Vi L. Lipski,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 01-17119 Filed 7-11-01; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre></body>
+</html>

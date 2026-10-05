@@ -1,0 +1,58 @@
+{
+ "fields": [
+  {
+   "field_id": "spec_2024_sheet",
+   "value": "AMS 4037 and AMS-QQ-A-250/4; AMS-QQ-A-250/4",
+   "snippet": "Specification . . . AMS 4037 and AMS-QQ-A-250/4   AMS-QQ-A-250/4",
+   "page": 373
+  },
+  {
+   "field_id": "tempers_printed",
+   "value": "T3; T351; T361",
+   "snippet": "Temper . . . T3   T351   T361",
+   "page": 373
+  },
+  {
+   "field_id": "t3_first_range_with_AB_in",
+   "value": "0.010-0.128",
+   "snippet": "Thickness, in. . . . 0.010-0.128   Basis . . . A  B",
+   "page": 373
+  },
+  {
+   "field_id": "t3_ftu_L_A_ksi",
+   "value": "64",
+   "snippet": "Ftu, ksi: L . . . 64 65 (A and B columns of 0.010-0.128)",
+   "page": 373
+  },
+  {
+   "field_id": "t3_fty_L_A_ksi",
+   "value": "47",
+   "snippet": "Fty, ksi: L . . . 47 48 (A and B columns of 0.010-0.128)",
+   "page": 373
+  },
+  {
+   "field_id": "t3_ftu_ST_A_ksi",
+   "value": null,
+   "snippet": "Ftu, ksi: ST . . . ... (cell prints only dots in the 0.010-0.128 column)",
+   "page": 373
+  },
+  {
+   "field_id": "t3_fbru_2p0_A_ksi",
+   "value": "129",
+   "snippet": "Fbru, ksi: (e/D = 2.0) . . . 129 131 (A and B columns of 0.010-0.128)",
+   "page": 373
+  },
+  {
+   "field_id": "e_modulus_ksi",
+   "value": "10.5",
+   "snippet": "E, 10^3 ksi . . . 10.5 (T3 sheet column block)",
+   "page": 373
+  },
+  {
+   "field_id": "density_lb_in3",
+   "value": "0.100",
+   "snippet": "Physical Properties: ω, lb/in. . . . 0.100",
+   "page": 373
+  }
+ ]
+}

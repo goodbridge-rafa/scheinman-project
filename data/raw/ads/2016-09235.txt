@@ -1,0 +1,385 @@
+<html>
+<head>
+<title>Federal Register, Volume 81 Issue 84 (Monday, May 2, 2016)</title>
+</head>
+<body><pre>
+[Federal Register Volume 81, Number 84 (Monday, May 2, 2016)]
+[Rules and Regulations]
+[Pages 26103-26106]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-09235]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-3970; Directorate Identifier 2015-SW-006-AD; 
+Amendment 39-18497; AD 2016-08-20]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Helicopters (Previously 
+Eurocopter France)
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding airworthiness directive (AD) 2014-12-51 for 
+Airbus Helicopters (previously Eurocopter France) Model EC130B4 and
+
+[[Page 26104]]
+
+EC130T2 helicopters. AD 2014-12-51 required repetitively inspecting the 
+tailboom to Fenestron junction frame (junction frame) for a crack. This 
+new AD retains the requirements of AD 2014-12-51, changes the 
+applicability from helicopters with certain hours time-in-service (TIS) 
+to junction frames with certain hours TIS, and adds a compliance time 
+for sling cycles to the junction frame inspection interval. The actions 
+of this AD are intended to detect a crack and to prevent failure of the 
+junction frame, which could result in loss of the Fenestron and 
+subsequent loss of control of the helicopter.
+
+DATES: This AD is effective June 6, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain document listed in this AD as of June 6, 2016.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus Helicopters, Inc., 2701 N. Forum Drive, Grand Prairie, 
+TX 75052; telephone (972) 641-0000 or (800) 232-0323; fax (972) 641-
+3775; or at <a href="http://www.airbushelicopters.com/techpub">http://www.airbushelicopters.com/techpub</a>. You may review 
+the referenced service information at the FAA, Office of the Regional 
+Counsel, Southwest Region, 10101 Hillwood Pkwy, Room 6N-321, Fort 
+Worth, TX 76177. It is also on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+3970.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+3970; or in person at the Docket Operations Office between 9 a.m. and 5 
+p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the European Aviation Safety Agency (EASA) AD, any 
+incorporated-by-reference service information, the economic evaluation, 
+any comments received, and other information. The street address for 
+the Docket Operations Office (phone: 800-647-5527) is U.S. Department 
+of Transportation, Docket Operations Office, M-30, West Building Ground 
+Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Robert Grant, Aviation Safety 
+Engineer, Safety Management Group, FAA, Rotorcraft Directorate, FAA, 
+10101 Hillwood Pkwy, Fort Worth, TX 76177; email <a href="/cdn-cgi/l/email-protection#fa8895989f888ed49d889b948eba9c9b9bd49d958c"><span class="__cf_email__" data-cfemail="8cfee3eee9fef8a2ebfeede2f8cceaededa2ebe3fa">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    On September 25, 2015, at 80 FR 57742, the Federal Register 
+published our notice of proposed rulemaking (NPRM) to amend 14 CFR part 
+39 to remove AD 2014-12-51, Amendment 39-17921 (79 FR 45335, August 5, 
+2014), and add a new AD. AD 2014-12-51 applied to Airbus Helicopters 
+Model EC130B4 and EC130T2 helicopters with 690 or more hours TIS and 
+required, within 10 hours TIS, dye-penetrant inspecting certain areas 
+of the junction frame for a crack. AD 2014-12-51 also required, at 
+intervals not exceeding 25 hours TIS, either repeating the dye-
+penetrant inspection or performing a borescope inspection of certain 
+areas of the junction frame for a crack. If there was a crack, AD 2014-
+12-51 required replacing the junction frame. AD 2014-12-51 was prompted 
+by two incidents of crack propagation through the junction frame that 
+initiated in the lower right-hand side between the web and the flange 
+where the lower spar of the tailboom is joined. The cracks were 
+significant in length and not visible from the outside of the 
+helicopter.
+    The NPRM was prompted by AD No. 2015-0033-E dated February 24, 2015 
+(AD 2015-0033-E), issued by EASA, which is the Technical Agent for the 
+Member States of the European Union, to correct an unsafe condition on 
+Airbus Helicopters EC130B4 and EC130T2 helicopters. The NPRM proposed 
+to require retaining the dye penetrant and borescope inspections in AD 
+2014-12-51 but with revised compliance times. The NRPM also proposed to 
+change the applicability to helicopters with 690 hours TIS accumulated 
+on the junction frame instead of on the helicopter, and proposed 
+including an inspection interval defined in sling cycles. These actions 
+were intended to detect a crack and to prevent failure of the junction 
+frame, which could result in loss of the Fenestron and subsequent loss 
+of control of the helicopter.
+
+Comments
+
+    After our NPRM (80 FR 57742, September 25, 2015) was published, we 
+received a comment from one commenter.
+
+Request
+
+    One commenter requested the addition of a 10-hour or 250-sling 
+cycle visual pilot check for helicopters with Modification 350A087421 
+or that have complied with Airbus Helicopters Service Bulletin No. 
+EC130-53-029, Revision 0, dated February 20, 2015 (SB EC130-53-029). 
+The commenter stated this pilot check would benefit operators and 
+provide the same level of safety.
+    We disagree. While the EASA AD allows the check requested by the 
+commenter as an alternative method, because the cause of the fatigue 
+cracking is still under investigation, we cannot determine that this 
+method would correct the unsafe condition.
+
+FAA's Determination
+
+    These helicopters have been approved by the aviation authority of 
+France and are approved for operation in the United States. Pursuant to 
+our bilateral agreement with France, EASA, its technical 
+representative, has notified us of the unsafe condition described in 
+the EASA AD. We are issuing this AD because we evaluated all 
+information provided by EASA, reviewed the relevant information, 
+considered the comment received, and determined the unsafe condition 
+exists and is likely to exist or develop on other helicopters of the 
+same type designs and that air safety and the public interest require 
+adopting the AD requirements as proposed.
+
+Interim Action
+
+    We consider this AD to be an interim action. If final action is 
+later identified, we might consider further rulemaking then.
+
+Differences Between This AD and the EASA AD
+
+    The EASA AD includes alternate compliance instructions for 
+helicopters modified with a cut-out in production by Airbus Helicopters 
+Modification 350A087421 or in service by compliance with SB EC130-53-
+029. This AD does not.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Airbus Helicopters Emergency Alert Service Bulletin No. 
+05A017, Revision 2, dated February 20, 2015 (EASB 05A017), for Model 
+EC130B4 and EC130T2 helicopters. EASB 05A017 describes alternate 
+procedures for inspecting outside the tailboom for a crack at reduced 
+inspection intervals in combination with the internal inspections at 
+extended intervals. EASB 05A017 also specifies adding sling cycles to 
+the existing flight hour inspection interval for helicopters that 
+perform external load-carrying operations. EASA issued AD No. 2015-
+0033-E mandating the requirements in EASB 05A017 to ensure the 
+continued airworthiness of these helicopters.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal
+
+[[Page 26105]]
+
+course of business or by the means identified in the ADDRESSES section.
+
+Other Related Service Information
+
+    Airbus Helicopters also issued SB EC130-53-029, which contains 
+procedures to cut out the skin and splice at the junction frame to 
+facilitate the external inspection specified in EASB 05A017.
+
+Costs of Compliance
+
+    We estimate that this AD affects 208 helicopters of U.S. Registry. 
+We estimate that operators may incur the following costs in order to 
+comply with this AD. At an average labor rate of $85 per work-hour, 
+dye-penetrant inspecting the junction frame will require 1 work-hour, 
+for a cost of $85 per helicopter and a total cost of $17,680 for the 
+U.S. fleet, per inspection cycle. Borescope inspecting the junction 
+frame will require 0.5 work-hour, for a cost of $43 per helicopter and 
+a total cost of $8,944 for the U.S. fleet, per inspection cycle.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on helicopters identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979);
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction; and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared an economic evaluation of the estimated costs to comply 
+with this AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2014-12-51, Amendment 39-17921 (79 FR 45335, August 5, 2014), and 
+adding the following new AD:
+
+2016-08-20 Airbus Helicopters (Previously Eurocopter France): 
+Amendment 39-18497; Docket No. FAA-2015-3970; Directorate Identifier 
+2015-SW-006-AD.
+
+(a) Applicability
+
+    This AD applies to Airbus Helicopters Model EC130B4 and EC130T2 
+helicopters with a tailboom to fenestron junction frame (junction 
+frame) that has 690 or more hours time-in-service (TIS), 
+certificated in any category.
+
+(b) Unsafe Condition
+
+    This AD defines the unsafe condition as a crack in the junction 
+frame. This condition could result in failure of the junction frame, 
+which could result in loss of the Fenestron and subsequent loss of 
+control of the helicopter.
+
+(c) Affected ADs
+
+    This AD supersedes AD 2014-12-51, Amendment 39-17921 (79 FR 
+45335, August 5, 2014).
+
+(d) Effective Date
+
+    This AD becomes effective June 6, 2016.
+
+(e) Compliance
+
+    You are responsible for performing each action required by this 
+AD within the specified compliance time unless it has already been 
+accomplished prior to that time.
+
+(f) Required Actions
+
+    (1) Before the junction frame reaches 700 hours TIS or within 10 
+hours TIS, whichever occurs later, remove the horizontal stabilizer, 
+clean the junction frame, and dye-penetrant inspect around the 
+circumference of the junction frame for a crack in the areas shown 
+in Figure 1 of Airbus Helicopters EC130 Emergency Alert Service 
+Bulletin No. 05A017, Revision 2, dated February 20, 2015 (EASB 
+05A017). Pay particular attention to the area around the 4 spars 
+(item b) of Figure 1 of EASB 05A017. An example of a crack is shown 
+in Figure 3 of EASB 05A017.
+    (2) Within 25 hours TIS or 390 sling cycles, whichever occurs 
+first after the inspection required by paragraph (f)(1) of this AD, 
+and thereafter at intervals not exceeding 25 hours TIS or 390 sling 
+cycles, whichever occurs first, either perform the actions of 
+paragraph (f)(1) of this AD or, if the area is clean, using a 
+borescope, inspect around the circumference of the junction frame 
+for a crack in the areas shown in Figure 2 of EASB 05A017. Pay 
+particular attention to the area around the 4 spars (item b) of 
+Figure 2 of EASB 05A017. An example of a crack is shown in Figure 3 
+of EASB 05A017. For purposes of this AD, a sling cycle is defined as 
+one landing with or without stopping the rotor or one external load-
+carrying operation; an external load-carrying operation occurs each 
+time a helicopter picks up an external load and drops it off.
+    (3) If there is a crack, before further flight, replace the 
+junction frame.
+
+(g) Special Flight Permits
+
+    Special flight permits are prohibited.
+
+(h) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Safety Management Group, FAA, may approve AMOCs 
+for this AD. Send your proposal to: Robert Grant, Aviation Safety 
+Engineer, Safety Management Group, Rotorcraft Directorate, FAA, 
+10101 Hillwood Pkwy., Fort Worth, TX 76177; telephone (817) 222-
+5110; email <a href="/cdn-cgi/l/email-protection#92abbfd3c1c5bfd4c6c5bfd3dfddd1bfc0f7e3e7f7e1e6e1d2f4f3f3bcf5fde4"><span class="__cf_email__" data-cfemail="8ab3a7cbd9dda7ccdedda7cbc7c5c9a7d8effbffeff9fef9caecebeba4ede5fc">[email&#160;protected]</span></a>.
+    (2) For operations conducted under a 14 CFR part 119 operating 
+certificate or under 14 CFR part 91, subpart K, we suggest that you 
+notify your principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office or 
+certificate holding district office, before operating any aircraft 
+complying with this AD through an AMOC.
+
+(i) Additional Information
+
+    (1) Airbus Helicopters Service Bulletin No. EC130-53-029, 
+Revision 0, dated February 20, 2015, which is not incorporated by 
+reference, contains additional information about the subject of this 
+final rule. For service information identified in this final rule, 
+contact Airbus Helicopters, Inc., 2701 N. Forum Drive, Grand 
+Prairie, TX 75052; telephone (972) 641-0000 or (800) 232-0323; fax 
+(972) 641-3775; or at <a href="http://www.airbushelicopters.com/techpub">http://www.airbushelicopters.com/techpub</a>. You 
+may review a copy of the service information at the FAA, Office of 
+the Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 
+6N-321, Fort Worth, TX 76177.
+
+[[Page 26106]]
+
+    (2) The subject of this AD is addressed in European Aviation 
+Safety Agency (EASA) AD No. 2015-0033-E, dated February 24, 2015. 
+You may view the EASA AD on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> in Docket No. FAA-2015-3970.
+
+(j) Subject
+
+    Joint Aircraft Service Component (JASC) Code: 5302: Rotorcraft 
+Tailboom.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Airbus Helicopters Emergency Alert Service Bulletin No. 
+05A017, Revision 2, dated February 20, 2015.
+    (ii) Reserved.
+    (3) For Airbus Helicopters service information identified in 
+this final rule, contact Airbus Helicopters, Inc., 2701 N. Forum 
+Drive, Grand Prairie, TX 75052; telephone (972) 641-0000 or (800) 
+232-0323; fax (972) 641-3775; or at <a href="http://www.airbushelicopters.com/techpub">http://www.airbushelicopters.com/techpub</a>.
+    (4) You may view this service information at FAA, Office of the 
+Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-
+321, Fort Worth, TX 76177. For information on the availability of 
+this material at the FAA, call (817) 222-5110.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Fort Worth, Texas, on April 15, 2016.
+Scott A. Horn,
+Acting Manager, Rotorcraft Directorate, Aircraft Certification Service.
+[FR Doc. 2016-09235 Filed 4-29-16; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

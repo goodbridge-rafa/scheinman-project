@@ -1,0 +1,124 @@
+{
+ "ads": {
+  "E8-12754": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Up to serial number (s/n) 0044 inclusive those inserts have been produced from aluminium alloy which has been found to be susceptible of cracks.",
+     "value": "aluminium alloy"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "inspect the vortex inserts inside the carburetor heating system heat exchanger for cracks and/or loose or missing rivets",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "inspect the vortex inserts inside the carburetor heating system heat exchanger for cracks and/or loose or missing rivets",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "those inserts have been produced from aluminium alloy which has been found to be susceptible of cracks. As a consequence, if left uncorrected some loose parts could migrate in the induction system",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "this Airworthiness Directive (AD) mandates initial inspections of the heat exchanger vortex inserts and replacement of the aluminium inserts by stainless steel ones if any damage is found; and recurrent inspections to be done as incorporated in the Revision of Airplane Maintenance Manual. | incorporate new pages 01-11, 01-12, 01-24, 01-35, 05-28, 75-7, 75-7A, 75-7B, and 75-8 of ZLIN Z 143 L Airplane Maintenance Manual, Revision No. 9, dated: June 8, 2007, into your maintenance program. These pages include compliance times and procedures for repetitive inspections and corrective actions.",
+     "value": "repetitive_inspection;replacement;inspection_program_revision"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs (b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "E9-21922": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking in fuselage frames made of 2024 aluminum alloy that were installed during previous modification of the frames in section 41 and during production.",
+     "value": "2024 aluminum alloy"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking in fuselage frames made of 2024 aluminum alloy that were installed during previous modification of the frames in section 41 and during production.",
+     "value": "frame"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "do the detailed inspection for cracking of the fuselage frames in section 41, and do all applicable corrective actions",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD results from reports of cracking in fuselage frames made of 2024 aluminum alloy that were installed during previous modification of the frames in section 41 and during production.",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Repeat the inspection at intervals not to exceed those specified in paragraph 1.E. of Boeing Alert Service Bulletin 747-53A2732 or 747-53A2753, both dated August 28, 2008, as applicable. | Before further flight, repair the cracking using a method approved in accordance with the procedures specified in paragraph (j) of this AD.",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs (b) None.",
+     "value": "none"
+    }
+   ]
+  },
+  "E9-9793": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The cracks occurred because of corrosion of the anodized 2024 aluminum brackets.",
+     "value": "2024 aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD results from reports that cracked lower rudder hinge brackets were found on two of the affected airplanes.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "By design, the bearings are pressed into hinge elements and then staked on either side. In the staking process, the anodized protection is lost.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The cracks occurred because of corrosion of the anodized 2024 aluminum brackets.",
+     "value": "corrosion"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires you to repetitively inspect the rudder hinges and the rudder hinge brackets for damage, i.e., cracking, deformation, and discoloration. If damage is found during any inspection, this AD also requires you to replace the damaged rudder hinge and/or rudder hinge bracket.",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs (b) None.",
+     "value": "none"
+    }
+   ]
+  }
+ }
+}

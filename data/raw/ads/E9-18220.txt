@@ -1,0 +1,495 @@
+<html>
+<head>
+<title>Federal Register, Volume 74 Issue 149 (Wednesday, August 5, 2009)</title>
+</head>
+<body><pre>
+[Federal Register Volume 74, Number 149 (Wednesday, August 5, 2009)]
+[Rules and Regulations]
+[Pages 38896-38899]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E9-18220]
+
+
+
+[[Page 38896]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2007-0051; Directorate Identifier 2007-NE-37-AD; 
+Amendment 39-15986; AD 2009-16-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Teledyne Continental Motors (TCM) IO-
+520, TSIO-520, and IO-550 Series Reciprocating Engines With Superior 
+Air Parts, Inc. (SAP) Cylinder Assemblies Installed
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain TCM IO-520, TSIO-520, and IO-550 series reciprocating engines, 
+with certain SAP investment cast cylinder assemblies installed. This AD 
+requires initial and repetitive inspections and compression tests to 
+detect cracks in those cylinders with more than 750 flight hours (FH) 
+time-in-service (TIS). This AD results from reports of cracks in the 
+area of the exhaust valve and separation of cylinder heads from the 
+barrels of SAP cylinder assemblies with certain part numbers. We are 
+issuing this AD to prevent the separation of the cylinder head, which 
+could result in immediate loss of engine power, possible structural 
+damage to the engine, and possible fire in the engine compartment.
+
+DATES: This AD becomes effective September 9, 2009. The Director of the 
+Federal Register approved the incorporation by reference of certain 
+publications listed in the regulations as of September 9, 2009.
+
+ADDRESSES: You can get the service information identified in this AD 
+from Teledyne Continental Motors, Inc., P.O. Box 90, Mobile, Alabama; 
+telephone (251) 438-3411, or go to: <a href="http://www.genuinecontinental.aero">http://www.genuinecontinental.aero</a>.
+    The Docket Operations office is located at Docket Management 
+Facility, U.S. Department of Transportation, 1200 New Jersey Avenue, 
+SE., West Building Ground Floor, Room W12-140, Washington, DC 20590-
+0001.
+
+FOR FURTHER INFORMATION CONTACT: Peter W. Hakala, Aerospace Engineer, 
+Special Certification Office, FAA, Rotorcraft Directorate, 2601 Meacham 
+Blvd., Fort Worth, TX 76137; e-mail: <a href="/cdn-cgi/l/email-protection#bcccd9c8d9ce92cb92d4ddd7ddd0ddfcdadddd92dbd3ca"><span class="__cf_email__" data-cfemail="ff8f9a8b9a8dd188d1979e949e939ebf999e9ed1989089">[email&#160;protected]</span></a>; telephone 
+(817) 222-5145; fax (817) 222-5785.
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend 14 CFR part 39 
+with a proposed AD. The proposed AD applies to certain TCM IO-520, 
+TSIO-520, and IO-550 reciprocating engines with SAP investment cast 
+cylinder assemblies, part numbers (P/Ns) SA52000-A1, SA52000-A20P, 
+SA52000-A21P, SA52000-A22P, SA52000-A23P, SA55000-A1, or SA55000-A20P, 
+installed. We published the proposed AD in the Federal Register on 
+April 11, 2008, (73 FR 19772). That action proposed to require initial 
+and repetitive inspections and compression tests to detect cracks in 
+those cylinders with more than 750 FH TIS.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The street address for 
+the Docket Operations office (telephone (800) 647-5527) is provided in 
+the ADDRESSES section. Comments will be available in the AD docket 
+shortly after receipt.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Requests to Not Issue an AD Against the SAP Cylinders
+
+    Four commenters suggest we not issue an AD against the SAP 
+cylinders because the SAP cylinder assemblies have a lower failure rate 
+than the OEM cylinder assemblies. One commenter suggests that SAP 
+should issue a detailed service bulletin to address the service 
+difficulty conditions.
+    We don't agree. We confirmed that nine SAP cylinder assemblies 
+failed with a head separation condition, which could result in loss of 
+control of the airplane. Superior Air Parts, Inc. investigated the 
+cause for the failure of the cylinder assemblies. Because the cylinder 
+assemblies failed with a separation condition from propagation of metal 
+fatigue cracks, we determined that this failure condition is a direct 
+safety hazard to the airplane. This proposed AD is necessary to ensure 
+that these cylinder assemblies are periodically inspected, and removed 
+from service at engine overhaul to prevent this unsafe condition. We 
+did not change the AD.
+
+Absence of Data To Show Serial Number Distribution
+
+    One commenter suggests we examine the distribution of the cracks 
+across the range of serial numbers and perform a statistical analysis 
+to try to identify a process change or a design change that may be a 
+contributor to the failed SAP cylinder assemblies.
+    We agree. We examined the distribution of the cracks, and collected 
+and analyzed in service data of the cylinder assemblies. We found the 
+failed cylinder assemblies were not in any specific serial number 
+sequence. The failed serial numbers ranged from low to high within the 
+serial number range, so the time to failure of the cylinder assemblies 
+were unpredictable. We did not change the AD.
+
+Requests To Change 50-Hour Inspections to 100-Hour or Annual 
+Inspections
+
+    Twenty commenters suggest that requiring a 50-hour repetitive 
+inspection for cylinder leaks is unnecessary and burdensome at 50-hour 
+intervals. The commenters suggest that we change the repetitive 
+inspection requirements to allow performing the inspections at the 100-
+hour or annual inspections.
+    We don't agree. We selected a 50-hour inspection interval so we can 
+detect leaks and replace the cylinder before a head separation occurs. 
+By removing leaking cylinder heads discovered with the periodic 50-hour 
+inspections, the probability of having an in-flight separation is 
+greatly reduced. Also, the 50-hour inspection coincides with the 
+scheduled maintenance for normal engine oil and filter changes. The 
+costs of compliance in the NPRM included costs for the additional 
+cylinder assembly inspections. We did not change the AD.
+
+Suggestion To Replace All SAP Cylinders With Fewer Than 823 Hours Time-
+In-Service
+
+    One commenter suggests that we require replacing all SAP cylinders 
+with fewer than 823 hours TIS. The commenter states that because of a 
+lack of engineering data to justify the proposed corrective action, we 
+should require removing all the remaining cylinder assemblies now in 
+service, at no later than 823 hours TIS.
+    We don't agree. The lowest TIS of a failed cylinder assembly is 823 
+hours TIS. Many of the cylinders have operated well past 823 hours TIS 
+and some to the time-between-overhaul limit. The initial 25 hour TIS 
+inspection and subsequent 50 hour inspections will provide satisfactory 
+safety oversight to
+
+[[Page 38897]]
+
+prevent future head separations without putting an unnecessary burden 
+on the public by requiring replacing all 23,000 of the SAP cylinders 
+produced. We did not change the AD.
+
+Request To Increase the Fuel-Air Ratios on TCM Engines That Use SAP 
+Cylinders
+
+    One commenter states the corrective action should be an immediate 
+FAA authorization to increase the full power fuel flows above the type 
+certificate limits as necessary to return the fuel-air ratios to those 
+of stock TCM engines. The commenter stated that the SAP cylinders are 
+not direct replacements for TCM cylinders because of their increased 
+volumetric efficiency (more air without more fuel).
+    We don't agree. Superior Air Parts, Inc. has not made any public 
+claims of increased horsepower or increased volumetric efficiency for 
+the cylinders. Testing during certification of the SAP cylinders did 
+not reveal any appreciable power output difference, outside of normal 
+variation. While it may be due to a slightly higher volumetric 
+efficiency, as compared to the original equipment manufacturer's (OEM) 
+cylinders, the observed and resulting temperature differences were not 
+of such a magnitude as to cause a safety of flight issue. The SAP 
+cylinders are subject to the same FAA-approved cylinder head 
+temperature limitation as the OEM cylinders. Both the SAP cylinders and 
+the OEM cylinders were certified and approved to operate continuously 
+at the maximum certificated temperature. We did not change the AD.
+
+Observation That a Large Number of SAP Cylinder Failures Occurred in 
+Alaska
+
+    Six commenters state that a large number of SAP cylinder assembly 
+failures occurred in Alaska among commercial operators that had 
+airplanes with high-usage rates. They state that the operators have 
+high-thermal cycles per hour. The commenters define a thermal cycle as 
+an engine start, an aircraft takeoff, an aircraft landing, and an 
+engine shutdown. One of the commenters stated that shock heating is far 
+more destructive than shock cooling. Another commenter stated that 
+their facility has installed the affected investment cast cylinders on 
+hundreds of aircraft and has operated in an environment that would be 
+expected to be as adverse as any other identifiable operating 
+environment as measured by three critical engineering parameters:
+    (1) The average repetitive internal temperature experienced by the 
+cylinder head,
+    (2) The number of thermal cycles, and
+    (3) The magnitude of the maximum cylinder head temperature during 
+exposure to peak thermal cycles.
+    That commenter goes on to state that they haven't encountered any 
+cracks in this population of SAP cylinders over the last decade.
+    We accept these comments as possible metallurgical explanations for 
+fatigue cracks starting and growing, however; other engine operating 
+conditions could contribute to metal fatigue failures. We did not 
+change the AD.
+
+Type of Cylinder Head Casting Questioned
+
+    One commenter asks if the cylinder head casting is a sand casting 
+or an investment casting. The commenter states that the AD should 
+specify the type of casting. The commenter also asks that the proposed 
+AD should state that most failures were due to a high number of thermal 
+cycles for the total number of engine operating hours. The commenter 
+states that a thermal cycle should be defined as ``an engine start up, 
+airplane takeoff, airplane landing, and an engine shutdown'' and not as 
+a ``high ratio of take offs and landings per flight hour.''
+    We partially agree. The proposed AD does state that the cylinder 
+assemblies have an investment cast aluminum head. After additional 
+research, we agree that a high number of thermal cycles, for example 
+engine start up, airplane takeoff, airplane landing, and engine 
+shutdown can increase the thermal fatigue of the cylinder assemblies. 
+However, the number of engine starts and thermal cycles are not 
+recorded and cannot be correlated. We changed the AD for clarity to 
+refer to the cylinder heads as ``investment cast,'' and provided a 
+process in paragraph (f) for determining the cylinder P/N if it is not 
+in the engine records.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD will affect 8,000 engines installed on 
+airplanes of U.S. registry. We also estimate that it will take about 5 
+work-hours per cylinder to perform the actions, and that the average 
+labor rate is $80 per work-hour. Required parts will cost about $1,150 
+per cylinder. Based on these figures, we estimate the total cost of 
+this AD to U.S. operators to be $12,400,000.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a summary of the costs to comply with this AD and 
+placed it in the AD Docket. You may get a copy of this summary at the 
+address listed under ADDRESSES.
+
+List of Subjects in 14 CFR part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator,
+
+[[Page 38898]]
+
+the Federal Aviation Administration amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2009-16-03 Superior Air Parts, Inc. (SAP): Amendment 39-15986. 
+Docket No. FAA-2007-0051; Directorate Identifier 2007-NE-37-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) becomes effective 
+September 9, 2009.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to Teledyne Continental Motors (TCM) IO-520, 
+TSIO-520, and IO-550 series reciprocating engines with SAP 
+investment cast cylinder assemblies, part numbers (P/Ns) SA52000-A1, 
+SA52000-A20P, SA52000-A21P, SA52000-A22P, SA52000-A23P, SA55000-A1, 
+or SA55000-A20P, installed. These engines are installed on, but not 
+limited to, the airplanes listed in Table 1 of this AD.
+
+                          Table 1--Teledyne Continental Motors-Related Aircraft Models
+----------------------------------------------------------------------------------------------------------------
+              Engine model                  Aircraft manufacturer             Aircraft model designation
+----------------------------------------------------------------------------------------------------------------
+IO-520-A...............................  Cessna....................  210 D, E, F, G, & H.
+IO-520-A...............................  Cessna....................  206.
+IO-520-A...............................  Cessna....................  P206.
+IO-520-A...............................  Rockwell..................  200 D.
+IO-520-B...............................  Beechcraft................  36 Bonanza.
+IO-520-B...............................  Beechcraft................  A36.
+IO-520-B...............................  Navion....................  Range Master.
+IO-520-BA..............................  Beechcraft................  A36.
+IO-520-BA..............................  Beechcraft................  S & V35, V35A, V35B.
+IO-520-BA..............................  Beechcraft................  C33 A.
+IO-520-BA..............................  Beechcraft................  E33 A & C.
+IO-520-BA..............................  Beechcraft................  F33 A & C.
+IO-520-BA..............................  Navion....................  Range Master.
+IO-520-BB..............................  Beechcraft................  A36.
+IO-520-BB..............................  Beechcraft................  V35B.
+IO-520-BB..............................  Beechcraft................  F33 A.
+IO-520-C & CB..........................  Beechcraft................  C55-E55 Baron.
+IO-520-D...............................  Bellanca..................  17-30 Viking.
+IO-520-D...............................  Cessna....................  A188-300 AG Truck.
+IO-520-D...............................  Cessna....................  185.
+IO-520-E...............................  (Cessna 310)..............  Exec 600.
+IO-520-E...............................  (Beech Baron).............  Pres 600.
+IO-520-F...............................  Cessna....................  207.
+IO-520-F...............................  Cessna....................  U206.
+IO-520-K...............................  Bellanca..................  17-30A.
+IO-520-L...............................  Cessna....................  210 K, L, M, N & R.
+IO-520-L...............................  Cessna....................  210N II.
+IO-520-L...............................  Cessna....................  210R.
+IO-520-M...............................  Cessna....................  310R.
+IO-520-MB..............................  Cessna....................  310R.
+IO-550-A...............................  Cessna....................  310 Conversion.
+IO-550-B...............................  Beechcraft................  A36.
+IO-550-B...............................  (Beech Bonanza)...........  Foxstar.
+IO-550-C...............................  Beechcraft................  58 Baron.
+IO-550-D...............................  Cessna....................  185/188 Conversion.
+IO-550-E...............................  Cessna....................  310 Conversion.
+IO-550-F...............................  Cessna....................  206/207 Conversion.
+IO-550-L...............................  Cessna....................  210 Conversion.
+----------------------------------------------------------------------------------------------------------------
+
+Unsafe Condition
+
+    (d) This AD results from reports of cracks in the area of the 
+exhaust valve and separation of cylinder heads from the barrels of 
+SAP cylinder assemblies with certain part numbers. We are issuing 
+this AD to prevent the separation of the cylinder head, which could 
+result in immediate loss of engine power, possible structural damage 
+to the engine, and possible fire in the engine compartment.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified unless the 
+actions have already been done.
+
+Inspecting SAP Cylinder Assemblies
+
+    (f) If the engine records don't contain the P/N of the cylinder 
+heads, do the following:
+    (1) Remove the valve cover from the cylinder assembly.
+    (2) Look at the cylinder head for the P/N SAC 52001 I or SAC 
+55001 I and the word ``AMCAST.''
+    (g) For TCM IO-520, TSIO-520, and IO-550 series reciprocating 
+engines with SAP investment cast cylinder assemblies, P/Ns SA52000-
+A1, SA52000-A20P, SA52000-A21P, SA52000-A22P, SA52000-A23P, SA55000-
+A1, or SA55000-A20P, installed, with over 750 flight hours (FH) 
+time-in-service (TIS), do the following within 25 FH TIS after the 
+effective date of this AD:
+    (1) Inspect each cylinder head around the exhaust valve side for 
+visual cracks or any signs of black combustion leakage.
+    (2) Replace any cracked or leaking cylinders before further 
+flight.
+    (3) Perform a standard cylinder compression test. Guidance on 
+standard cylinder compression tests can be found in Teledyne 
+Continental Aircraft Engine Service Bulletin SB03-3, Differential 
+Pressure Test and Borescope Inspection Procedures for Cylinders, 
+dated March 28, 2003.
+
+[[Page 38899]]
+
+    (i) If the cylinder pressure gauge reads below 60 pounds per-
+square inch, determine if the unacceptable pressure is due to a 
+cracked cylinder.
+    (ii) To check the cylinder, apply a 2 percent soapy water 
+solution to the side of the leaking cylinder.
+    (iii) If you see air bubbles, indicating air leakage, on the 
+side of the cylinder head, or near the head-to-cylinder interface, 
+replace the cylinder assembly before further flight.
+    (h) Thereafter, repeat the cylinder visual inspections and 
+compression tests within 50 FH time-since-last inspection (TSLI) 
+until the cylinders reach their time-between-overhaul (TBO) limits 
+specified in Teledyne Continental Aircraft Engine Service 
+Information Letter SIL98-9A, Revision A, dated March 28, 2003.
+
+Replacing SAP Cylinder Assemblies
+
+    (i) For TCM IO-520, TSIO-520, and IO-550 series reciprocating 
+engines with SAP investment cast cylinder assemblies, P/Ns SA52000-
+A1, SA52000-A20P, SA52000-A21P, SA52000-A22P, SA52000-A23P, SA55000-
+A1, or SA55000-A20P, replace the SAP cylinder head assembly at the 
+first TBO after the effective date of this AD. Engines that were 
+already overhauled may continue in service until the first TBO after 
+the effective date of this AD.
+
+Prohibition Against Installing Certain P/N SAP Cylinder Assemblies
+
+    (j) After the effective date of this AD, do not install any SAP 
+investment cast cylinder assembly, P/Ns SA52000-A1, SA52000-A20P, 
+SA52000-A21P, SA52000-A22P, SA52000-A23P, SA55000-A1, or SA55000-
+A20P, in any engine.
+
+Alternative Methods of Compliance
+
+    (k) The Manager, Special Certification Office, has the authority 
+to approve alternative methods of compliance for this AD if 
+requested using the procedures found in 14 CFR 39.19.
+
+Special Flight Permits
+
+    (l) Under 14 CFR part 39.23, we will not approve special flight 
+permits for this AD for engines that have failed the visual 
+inspection or the 50 hour periodic cylinder assembly compression 
+test required by this AD.
+
+Related Information
+
+    (m) Teledyne Continental Service Bulletin No. SB03-3 
+``Differential Pressure Test and Borescope Inspection Procedures for 
+Cylinders'', dated March 28, 2003.
+    (n) Contact Peter W. Hakala, Aerospace Engineer, Special 
+Certification Office, FAA, Rotorcraft Directorate, 2601 Meacham 
+Blvd., Fort Worth, TX 76137; e-mail: <a href="/cdn-cgi/l/email-protection#7f0f1a0b1a0d510851171e141e131e3f191e1e51181009"><span class="__cf_email__" data-cfemail="96e6f3e2f3e4b8e1b8fef7fdf7faf7d6f0f7f7b8f1f9e0">[email&#160;protected]</span></a>; 
+telephone (817) 222-5145; fax (817) 222-5785, for more information 
+about this AD.
+
+Material Incorporated by Reference
+
+    (o) You must use Teledyne Continental Aircraft Engine Service 
+Information Letter SIL98-9A, Revision A, dated March 28, 2003 to 
+determine the times-between-overhaul required by this AD. The 
+Director of the Federal Register approved the incorporation by 
+reference of this service information in accordance with 5 U.S.C. 
+552(a) and 1 CFR part 51. Contact Teledyne Continental Motors, Inc., 
+P.O. Box 90, Mobile, Alabama; telephone (251) 438-3411, or go to: 
+<a href="http://www.genuinecontinental.aero">http://www.genuinecontinental.aero</a>, for a copy of this service 
+information. You may review copies at the FAA, New England Region, 
+12 New England Executive Park, Burlington, MA; or at the National 
+Archives and Records Administration (NARA). For information on the 
+availability of this material at NARA, call 202-741-6030, or go to: 
+<a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Burlington, Massachusetts, on July 23, 2009.
+Peter A. White,
+Assistant Manager, Engine and Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. E9-18220 Filed 8-4-09; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

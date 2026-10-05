@@ -1,0 +1,559 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 217 (Monday, November 9, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 217 (Monday, November 9, 2020)]
+[Rules and Regulations]
+[Pages 71240-71244]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-24642]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0451; Product Identifier 2020-NM-036-AD; Amendment 
+39-21302; AD 2020-22-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 99-01-19 
+and AD 2004-25-02, which applied to certain Airbus SAS Model A320 
+series airplanes. AD 99-01-19 and AD 2004-25-02 required repetitive 
+inspections to detect fatigue cracking in certain areas of the 
+fuselage, and corrective action if necessary. AD 2004-25-02 also 
+provided an optional terminating action for the repetitive inspections. 
+This AD continues to require, for certain airplanes, repetitive 
+inspections of the fastener holes for any cracking, and repair if 
+necessary, and provides an optional terminating action for the fastener 
+hole inspections. This AD also revises the applicability to include 
+additional airplanes and requires, for all airplanes, inspections of 
+the emergency exit door structure for any cracking and repair if 
+necessary; as specified in a European Union Aviation Safety Agency 
+(EASA) AD, which is incorporated by reference. This AD was prompted by 
+a report that during full scale tests to support the Model A320 
+structure extended service goal (ESG) exercise,
+
+[[Page 71241]]
+
+several cracks were found on both sides of the overwing emergency exit 
+door cut-outs at fuselage section 15. The FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+DATES: This AD is effective December 14, 2020.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of December 14, 
+2020.
+    The Director of the Federal Register also approved the 
+incorporation by reference of a certain other publication listed in 
+this AD as of February 10, 2005 (70 FR 1184, January 6, 2005).
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+February 12, 1999 (64 FR 1114, January 8, 1999).
+
+ADDRESSES: For EASA AD 2020-0040R1, which is incorporated by reference 
+(IBR), contact the EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, 
+Germany; telephone +49 221 8999 000; email <a href="/cdn-cgi/l/email-protection#39787d4a795c584a58175c4c4b564958175c4c"><span class="__cf_email__" data-cfemail="4302073003262230226d2636312c33226d2636">[email&#160;protected]</span></a>; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>. For Airbus service information identified 
+in this final rule, contact Airbus SAS, Airworthiness Office--EIAS, 
+Rond-Point Emile Dewoitine No: 2, 31700 Blagnac Cedex, France; 
+telephone +33 5 61 93 36 96; fax +33 5 61 93 44 51; email 
+<a href="/cdn-cgi/l/email-protection#224341414d574c560c434b50554d50564a0f47435162434b504057510c414d4f"><span class="__cf_email__" data-cfemail="dcbdbfbfb3a9b2a8f2bdb5aeabb3aea8b4f1b9bdaf9cbdb5aebea9aff2bfb3b1">[email&#160;protected]</span></a>; internet <a href="https://www.airbus.com">https://www.airbus.com</a>. You 
+may view EASA AD 2020-0040R1 and the Airbus service information 
+identified in this AD at the FAA, Airworthiness Products Section, 
+Operational Safety Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 206-
+231-3195. It is also available in the AD docket on the internet at 
+<a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. 
+FAA-2020-0451.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. FAA-2020-
+0451; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+Large Aircraft Section, International Validation Branch, FAA, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; 
+email <a href="/cdn-cgi/l/email-protection#4e1d2f20242f37601c2f22262f200e282f2f60292138"><span class="__cf_email__" data-cfemail="1d4e7c73777c64334f7c71757c735d7b7c7c337a726b">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2020-0040R1, dated June 16, 2020 
+(``EASA AD 2020-0040R1'') (also referred to as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for certain Airbus SAS Model A319-111, -112, -113, -114, -
+115, -131, -132, and -133 airplanes; and Model A320-211, -212, -214, -
+215, -216, -231, -232, and -233 airplanes. Model A320-215 airplanes are 
+not certified by the FAA and are not included on the U.S. type 
+certificate data sheet; this AD therefore does not include those 
+airplanes in the applicability. EASA AD 2020-0040R1 superseded French 
+AD 2002-259(B), dated May 15, 2002 (which corresponded to FAA AD 2004-
+25-02, Amendment 39-13889 (70 FR 1184, January 6, 2005) (``AD 2004-25-
+02'')).
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 99-01-19, Amendment 39-10987 (64 FR 1114, 
+January 8, 1999) (``AD 99-01-19''); and AD 2004-25-02. AD 99-01-19 and 
+AD 2004-25-02 applied to certain Airbus SAS Model A320 series 
+airplanes. The NPRM published in the Federal Register on June 4, 2020 
+(85 FR 34371). The NPRM was prompted by a report that during full scale 
+tests to support the Model A320 structure ESG exercise, several cracks 
+were found on both sides of the overwing emergency exit door cut-outs 
+at fuselage section 15. The NPRM proposed to continue to require, for 
+certain airplanes, repetitive inspections of the fastener holes for any 
+cracking, and repair if necessary, and would provide an optional 
+terminating action for the fastener hole inspections. The NPRM also 
+proposed to revise the applicability to include additional airplanes 
+and requires, for all airplanes, inspections of the emergency exit door 
+structure for any cracking and repair if necessary, as specified in 
+EASA AD 2020-0040R1.
+    The FAA is issuing this AD to address fatigue cracking of the 
+fuselage, which could result in reduced structural integrity of the 
+airplane. See the MCAI for additional background information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Request To Use the Latest EASA AD
+
+    American Airlines (AAL) and United Airlines (UAL) requested that 
+the NPRM specify EASA AD 2020-0040R1, which is the latest EASA AD, and 
+it revises the applicability to exclude airplanes that have embodied 
+certain modifications in production, and that those airplanes are, 
+therefore, not applicable to the NPRM.
+    AAL stated that FAA AD 2004-25-02 and EASA AD 2020-0040R1 contain a 
+difference in the applicability. AAL stated that FAA AD 2004-25-02 
+applies to Airbus Model A320 airplanes without modification 21346 
+embodied in production. AAL also stated that EASA AD 2020-0040R1 
+applies to all Airbus Model A319 and A320 airplanes, except for those 
+with modification 160001 embodied in production, or Airbus Service 
+Bulletin A320-57-1193 embodied in service, or Model A319 airplanes that 
+have had modification 28238, 28162, and 28342 embodied in production. 
+AAL commented that some of its Model A319 airplanes have had 
+modification 160001 embodied in production, but would still be required 
+to accomplish the actions specified in paragraph (k) of the NPRM.
+    The FAA agrees with the comment. The FAA has revised all applicable 
+sections in this final rule to specify EASA AD 2020-0040R1, dated June 
+16, 2020, which clarifies the conditions and applicability for certain 
+airplanes as of the effective date of this final rule. For 
+clarification, airplane models that have embodied certain modifications 
+or service information in production, paragraph (k) of this AD does not 
+apply. The FAA has also determined that no additional work is required 
+for airplanes on which the actions specified in EASA AD 2020-0040, 
+dated February 28, 2020, have already been done.
+
+Changes Since the NPRM Was Issued
+
+    The FAA inadvertently omitted paragraph (l)(4) from the proposed 
+AD, and has added it to this AD to clarify that, ``The ``Remarks'' 
+section of EASA AD 2020-0040R1 does not apply to this AD.''
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the change described
+
+[[Page 71242]]
+
+previously and minor editorial changes. The FAA has determined that 
+these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    The FAA also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related IBR Material Under 1 CFR Part 51
+
+    EASA AD 2020-0040R1 describes, among other actions, procedures for 
+inspections of the emergency exit door structure for any cracking and 
+repair, if necessary.
+    Airbus has issued Service Bulletin A320-53-1031, Revision 02, dated 
+December 5, 2001. This service information describes procedures for 
+repetitive rotating probe inspections of the fasteners holes and repair 
+if necessary.
+    This AD also requires Airbus Service Bulletin A320-53-1032, 
+Revision 02, dated December 5, 2001, which the Director of the Federal 
+Register approved for incorporation by reference as of February 10, 
+2005 (70 FR 1184, January 6, 2005).
+    This AD also requires Airbus Service Bulletin A320-53-1032, 
+Revision 01, dated January 15, 1998, which the Director of the Federal 
+Register approved for incorporation by reference as of February 12, 
+1999 (64 FR 1114, January 8, 1999).
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 800 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                                   Cost on U.S.
+            Action                   Labor cost              Parts cost        Cost per product     operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD 2004- Up to 19 work-hours x                       $0  Up to $1,615....  Up to
+ 25-02.                         $85 per hour = Up to                                              $1,292,000.
+                                $1,615.
+New actions..................  Up to 23 work-hours x                        0  Up to $1,955....  Up to
+                                $85 per hour = Up to                                              $1,564,000.
+                                $1,955.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need these on-condition actions:
+
+    Estimated Costs of On-Condition Actions: Modification, Repair of
+     Fastener Holes, and Repair of Cracks in the Emergency Exit Door
+                    Structure That are Within Limits
+------------------------------------------------------------------------
+           Labor cost                 Parts cost       Cost per product
+------------------------------------------------------------------------
+Up to 66 work-hours x $85 per     Up to $85,000.....  Up to $90,610.
+ hour = Up to $5,610.
+------------------------------------------------------------------------
+
+
+                  Estimated Costs for Optional Actions
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85......          $4,219           $4,304
+------------------------------------------------------------------------
+
+    The FAA has received no definitive data that would enable the 
+agency to provide cost estimates for certain other repairs specified in 
+this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+[[Page 71243]]
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 99-01-19, Amendment 39-10987 
+(64 FR 1114, January 8, 1999); and AD 2004-25-02, Amendment 39-13889 
+(70 FR 1184, January 6, 2005); and
+0
+b. Adding the following new AD:
+
+2020-22-06 Airbus SAS: Amendment 39-21302; Docket No. FAA-2020-0451; 
+Product Identifier 2020-NM-036-AD.
+
+(a) Effective Date
+
+    This AD is effective December 14, 2020.
+
+(b) Affected ADs
+
+    This AD replaces AD 99-01-19, Amendment 39-10987 (64 FR 1114, 
+January 8, 1999) (``AD 99-01-19''); and AD 2004-25-02, Amendment 39-
+13889 (70 FR 1184, January 6, 2005) (``AD 2004-25-02'').
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A319-111, -112, -113, -114, 
+-115, -131, -132, and -133 airplanes; and Model A320-211, -212, -
+214, -216, -231, -232, and -233 airplanes, certificated in any 
+category, as identified in European Union Aviation Safety Agency 
+(EASA) AD 2020-0040R1, dated June 16, 2020 (``EASA AD 2020-
+0040R1'').
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a report that, during full scale tests 
+to support the Model A320 structure extended service goal (ESG) 
+exercise, several cracks were found on both sides of the overwing 
+emergency exit door cut-outs at fuselage section 15. The FAA is 
+issuing this AD to address fatigue cracking of the fuselage, which 
+could result in reduced structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Initial Inspections, With No Changes
+
+    For Airbus SAS Model A320-111, -211, -212, and -231 series 
+airplanes on which Airbus Modification 21346 has not been done: This 
+paragraph restates the requirements of paragraph (f) of AD 2004-25-
+02, with no changes. At the applicable time specified in paragraph 
+(g)(1) or (2) of this AD: Do a detailed inspection to find cracking 
+on the outboard flanges around the fastener holes of frames 38 
+through 41, between stringers 12 and 21, using Airbus Service 
+Bulletin A320-53-1032, Revision 02, dated December 5, 2001.
+    (1) For airplanes on which the inspection specified in Airbus 
+Service Bulletin A320-53-1032, Revision 01, dated January 15, 1998; 
+or Airbus Service Bulletin A320-53-1032, Revision 02, dated December 
+5, 2001; has been done as of February 10, 2005 (the effective date 
+of AD 2004-25-02): Do the next inspection within 4,900 flight cycles 
+after accomplishment of the last inspection, or within 1,100 flight 
+cycles after February 10, 2005, whichever is later.
+    (2) For airplanes on which no inspection specified in Airbus 
+Service Bulletin A320-53-1032, Revision 01, dated January 15, 1998; 
+or Airbus Service Bulletin A320-53-1032, Revision 02, dated December 
+5, 2001; has been done as of February 10, 2005 (the effective date 
+of AD 2004-25-02): Do the inspection at the earlier of the times 
+specified in paragraphs (g)(2)(i) and (ii) of this AD.
+    (i) Before the accumulation of 30,000 total flight cycles.
+    (ii) Before the accumulation of 24,800 total flight cycles, or 
+within 3,500 flight cycles after February 10, 2005 (the effective 
+date of AD 2004-25-02), whichever is later.
+
+(h) Retained Repetitive Inspections if No Cracking is Found, With No 
+Changes
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2004-25-02, with no changes. If no crack is found during the 
+inspection required by paragraph (g)(1) or (2) of this AD: Repeat 
+the inspection thereafter at intervals not to exceed 4,900 flight 
+cycles.
+
+(i) Retained Corrective Actions With New Repetitive Inspections and 
+Compliance Language
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2004-25-02, with new repetitive inspections and compliance language. 
+If any crack is found during any inspection required by paragraph 
+(g) of this AD, before further flight, repair using Airbus Service 
+Bulletin A320-53-1032, Revision 01, dated January 15, 1998; or 
+Airbus Service Bulletin A320-53-1032, Revision 02, dated December 5, 
+2001. Accomplishment of a repair using the service bulletin before 
+the effective date of this AD ends the repetitive inspection 
+requirements for the area repaired. As of the effective date of this 
+AD, the repair does not constitute terminating action for the 
+repetitive inspection. Thereafter, repeat the inspection at 
+intervals not to exceed 4,900 flight cycles. If any crack is found 
+during any inspection required by this AD, and the service bulletin 
+specifies to contact Airbus for appropriate action: Before further 
+flight, repair using a method approved by the Manager, Large 
+Aircraft Section, International Validation Branch, FAA; or EASA; or 
+Airbus SAS's EASA Design Organization Approval (DOA).
+
+(j) Retained Optional Terminating Action With Changes to the Service 
+Information Compliance Language
+
+    This paragraph restates the optional terminating action 
+specified in paragraphs (i) and (j) of AD 2004-25-02, with changes 
+to the service information compliance language. Accomplishment of 
+Airbus Modification 21346 using Airbus Service Bulletin A320-53-
+1031, Revision 02, dated December 5, 2001, constitutes terminating 
+action for the repetitive inspection requirements of paragraphs (h) 
+and (i) this AD.
+
+(k) New Requirements
+
+    Except as specified in paragraph (l) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2020-0040R1.
+
+(l) Exceptions to EASA AD 2020-0040R1
+
+    (1) Where EASA AD 2020-0040R1 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2020-0040R1 refers to ``13 March 2020 [the 
+effective date of the original issue of this AD],'' this AD requires 
+using the effective date of this AD.
+    (3) Where EASA AD 2020-0040R1 requires the accomplishment of 
+repetitive inspections and corrective actions as specified in 
+paragraphs (1) and (2) of the EASA AD, those actions are not 
+required by this AD as specified in the EASA AD. Those actions are 
+required by paragraphs (g), (h), and (i) of this AD.
+    (4) The ``Remarks'' section of EASA AD 2020-0040R1 does not 
+apply to this AD.
+
+(m) Credit for Previous Actions
+
+    This paragraph provides credit for the optional terminating 
+action specified in paragraph (j) of this AD, if Airbus Modification 
+21346 was performed before the effective date of this AD using 
+Airbus Service Bulletin A320-53-1031, dated December 9, 1994.
+
+(n) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the Large Aircraft Section, International Validation 
+Branch, send it to the attention of the person identified in 
+paragraph (o)(1) of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#fec7d3bfa8add3bfb7acd3c9cdced3bfb3b1bdbe989f9fd0999188"><span class="__cf_email__" data-cfemail="043d2945525729454d56293337342945494b47446265652a636b72">[email&#160;protected]</span></a>. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA DOA. If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA AD
+
+[[Page 71244]]
+
+2020-0040R1 that contains RC procedures and tests: Except as 
+required by paragraph (n)(2) of this AD, RC procedures and tests 
+must be done to comply with this AD; any procedures or tests that 
+are not identified as RC are recommended. Those procedures and tests 
+that are not identified as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the 
+procedures and tests identified as RC can be done and the airplane 
+can be put back in an airworthy condition. Any substitutions or 
+changes to procedures or tests identified as RC require approval of 
+an AMOC.
+
+(o) Related Information
+
+    (1) Sanjay Ralhan, Aerospace Engineer, Large Aircraft Section, 
+International Validation Branch, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; telephone and fax 206-231-3223; email 
+<a href="/cdn-cgi/l/email-protection#4b182a25212a3265192a27232a250b2d2a2a652c243d"><span class="__cf_email__" data-cfemail="4f1c2e21252e36611d2e23272e210f292e2e61282039">[email&#160;protected]</span></a>.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (p)(6) and (7) of this AD.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+December 14, 2020.
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0040R1, 
+dated June 16, 2020.
+    (ii) Airbus Service Bulletin A320-53-1031, Revision 02, dated 
+December 5, 2001.
+    (4) The following service information was approved for IBR on 
+February 10, 2005 (70 FR 1184, January 6, 2005).
+    (i) Airbus Service Bulletin A320-53-1032, Revision 02, dated 
+December 5, 2001.
+    (ii) [Reserved]
+    (5) The following service information was also approved for IBR 
+on February 12, 1999 (64 FR 1114, January 8, 1999).
+    (i) Airbus Service Bulletin A320-53-1032, Revision 01, dated 
+January 15, 1998.
+    (ii) [Reserved]
+    (6) For EASA AD 2020-0040R1, contact the EASA, Konrad-Adenauer-
+Ufer 3, 50668 Cologne, Germany; telephone +49 221 8999 000; email 
+<a href="/cdn-cgi/l/email-protection#47060334072226342669223235283726692232"><span class="__cf_email__" data-cfemail="d9989daa99bcb8aab8f7bcacabb6a9b8f7bcac">[email&#160;protected]</span></a>; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at <a href="https://ad.easa.europa.eu">https://ad.easa.europa.eu</a>. For Airbus 
+material, contact Airbus SAS, Airworthiness Office--EIAS, Rond-Point 
+Emile Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 
+61 93 36 96; fax +33 5 61 93 44 51; email <a href="/cdn-cgi/l/email-protection#026361616d776c762c636b70756d70766a2f67637142636b706077712c616d6f"><span class="__cf_email__" data-cfemail="f796949498829983d9969e85809885839fda929684b7969e85958284d994989a">[email&#160;protected]</span></a>; internet <a href="https://www.airbus.com">https://www.airbus.com</a>.
+    (7) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195. This material may be found in the AD 
+docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching 
+for and locating Docket No. FAA-2020-0451.
+    (8) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+<a href="/cdn-cgi/l/email-protection#17717273657270397b7270767b577976657639707861"><span class="__cf_email__" data-cfemail="b2d4d7d6c0d7d59cded7d5d3def2dcd3c0d39cd5ddc4">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on October 15, 2020.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2020-24642 Filed 11-6-20; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

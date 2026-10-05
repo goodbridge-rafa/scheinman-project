@@ -1,0 +1,570 @@
+<html>
+<head>
+<title>Federal Register, Volume 74 Issue 55 (Tuesday, March 24, 2009)</title>
+</head>
+<body><pre>
+[Federal Register Volume 74, Number 55 (Tuesday, March 24, 2009)]
+[Rules and Regulations]
+[Pages 12252-12256]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E9-5953]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2006-25390; Directorate Identifier 2005-NM-224-AD; 
+Amendment 39-15844; AD 2009-06-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 767 Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Boeing Model 767 airplanes. This AD requires repetitive 
+inspections for cracking of the wing skin, and related investigative/
+corrective actions if necessary. This AD results from reports of cracks 
+found in the lower wing skin originating at the forward tension bolt 
+holes of the aft pitch load fitting. We are issuing this AD to detect 
+and correct cracking in the lower wing skin for the forward tension 
+bolt holes at the aft pitch load fitting, which could result in a fuel 
+leak and reduced structural integrity of the airplane.
+
+DATES: This AD becomes effective April 28, 2009.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of April 28, 
+2009.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-
+2207; telephone 206-544-9990; fax 206-766-5682; e-mail <a href="/cdn-cgi/l/email-protection#c98d8d8a9a89aba6aca0a7aee7aaa6a4"><span class="__cf_email__" data-cfemail="88cccccbdbc8eae7ede1e6efa6ebe7e5">[email&#160;protected]</span></a>; 
+Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (telephone 800-647-5527) is the Document Management 
+Facility, U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Tamara Anderson, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone (425) 
+917-6421; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The FAA issued a supplemental notice of proposed rulemaking (NPRM) 
+to amend 14 CFR part 39 to include an AD that would apply to certain 
+Boeing Model 767 airplanes. That supplemental NPRM was published in the 
+Federal Register on May 23, 2008 (73 FR 30009). That supplemental NPRM 
+proposed to require repetitive inspections for cracking of the wing 
+skin, and related investigative/corrective actions if necessary.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Support for the Supplemental NPRM
+
+    Boeing concurs with the contents of the proposed rule.
+
+[[Page 12253]]
+
+Request To Revise Compliance Time in Paragraph (f)(1) of the 
+Supplemental NPRM
+
+    Continental Airlines requests that we change the compliance time in 
+paragraph (f)(1) of the supplemental NPRM from ``prior to the 
+accumulation of 10,000 total flight cycles or 30,000 total flight 
+hours, whichever occurs first'' to ``prior to the accumulation of 
+10,000 total flight cycles or 50,000 total flight hours, whichever 
+occurs first.'' Continental states that the reported cracks have been 
+on airplanes with moderate (13,000+) to high (20,000+) to very high 
+(37,000+) total flight cycles. According to Continental, in all cases 
+but one, all of the findings have been on airplanes with moderate 
+(44,000+) to high (67,000+) flight hours. Further, Continental states 
+that in the case of the one airplane with high flight cycles (20,000+) 
+and low flight hours (less than 23,000 hours), cyclic stresses have 
+played a major role.
+    We disagree with the request to change the compliance time. The 
+manufacturer set the flight-hour threshold based on equivalent fatigue 
+damage caused by flight hours as compared to flight cycles. The 
+threshold for inspection is set below where the cracking is found. 
+Setting the threshold at 50,000 total flight hours would set the 
+threshold above five of eight reports. We have not changed the AD in 
+this regard. However, under the provisions of paragraph (o) of this AD, 
+we will consider requests for approval of an alternative compliance 
+time if sufficient data are submitted to substantiate that the change 
+in compliance time would provide an acceptable level of safety.
+
+Request To Revise Compliance Time in Paragraph (h) of the Supplemental 
+NPRM
+
+    UPS requests that we change the flight-cycle threshold for the 
+inspection specified in paragraph (h) of the supplemental NPRM. UPS 
+recommends that the compliance time be 16,500 flight cycles from the 
+last accomplishment of the inspection required by paragraph (g) of this 
+AD, rather than 3,000 flight cycles. UPS states that the open-hole high 
+frequency eddy current (HFEC) inspection is set up such that a crack 
+originating at the forward tension bolt hole of the aft pitch load 
+fitting would be detected at the crack initiation. UPS adds that the 
+corresponding interval of 16,500 flight cycles is such that if a crack 
+were to develop immediately following the initial bolt open-hole HFEC 
+inspection, it would not grow to a critical size before detection at 
+the next inspection interval of 16,500 flight cycles.
+    We disagree with the request to revise the compliance time. The 
+external inspection specified in Part 1 of the Accomplishment 
+Instructions of Boeing Service Bulletin 767-57A0097, Revision 1, dated 
+October 18, 2007, will not detect cracks that are hidden by the 
+fitting, but will detect these cracks only when a crack grows beyond 
+the fitting. In particular, the Part 1 inspection will not detect large 
+cracks growing aft that are hidden by the fitting. Also, there is a 
+preload in the skin due to ``clamp-up stress'' from the bolts. These 
+clamp-up stresses add to uncertainty in the analysis. The 3,000-flight-
+cycle threshold will allow for additional opportunities to detect 
+possible cracks once they grow beyond the fitting. In addition, the 
+open-hole HFEC inspection does not detect cracks until they reach a 
+detectable crack length. We have not changed the AD in this regard. 
+However, under the provisions of paragraph (o) of this AD, we will 
+consider requests for approval of an alternative compliance time if 
+sufficient data are submitted to substantiate that the change in 
+compliance time would provide an acceptable level of safety.
+
+Request To Change ``and'' to ``or'' in Paragraph (g)(1) of the 
+Supplemental NPRM
+
+    UPS requests that we change the ``and'' in paragraph (g)(1) of the 
+supplemental NPRM to an ``or.'' That part of paragraph (g)(1) of the 
+supplemental NPRM states, ``Do the inspection at the later time 
+specified in paragraph (g)(1)(i) and (g)(1)(ii) of this AD.'' UPS 
+interprets that the intent of paragraph (g)(1)(ii) of the supplemental 
+NPRM is to allow airplanes that are approaching or have surpassed the 
+paragraph (g)(1)(i) threshold a reasonable timeframe to accomplish Part 
+2 of the Accomplishment Instructions of Boeing Service Bulletin 767-
+57A0097, Revision 1, dated October 18, 2007. UPS also states that 
+similar paragraphs elsewhere in the NPRM use ``or'' rather than 
+``and.''
+    We agree with the request to change the ``and'' to an ``or'' for 
+the reasons stated. We have revised paragraph (g)(1) of this AD 
+accordingly. We have also revised paragraph (g)(2) of this AD to make 
+the same change for consistency.
+
+Request To Limit Wording to Repaired Fastener Holes Only
+
+    UPS requests that we revise the wording in paragraph (j)(1) of the 
+supplemental NPRM to change ``the repaired wing only'' to ``repaired 
+fastener hole(s) only.'' UPS states that, as the supplemental NPRM is 
+written, a freeze plug repair on either the inboard or outboard forward 
+tension bolt hole of the aft pitch load fitting would end the 
+repetitive inspections of paragraphs (f) and (g) of the supplemental 
+NPRM for both the inboard and outboard forward tension bolt holes on 
+that wing.
+    We disagree with the request to change the wording in paragraph 
+(j)(1) of this AD. Our intention is that after doing the freeze plug 
+repair specified in paragraph (j)(1) of this AD, the inspections 
+specified in paragraphs (f) and (g) of this AD need not be done for the 
+repaired wing and not just for the repaired fastener hole(s) as the 
+commenter suggests. Instead of the inspections required by paragraphs 
+(f) and (g) of this AD, the inspections required by paragraph (k) of 
+this AD must be done. We have not changed the AD in this regard.
+
+Request To Expand Inspection Area in Service Bulletin
+
+    Continental requests that Boeing Service Bulletin 767-57A0097, 
+Revision 1, dated October 18, 2007 (``the service bulletin''), include 
+instructions for what to do if an operator finds cracks in the expanded 
+area of inspection beyond the two bolt holes; or, as an option, a 
+statement to contact Boeing for further disposition. Continental points 
+out that Part 2 of the Work Instructions in the service bulletin 
+provides disposition for any finding around the two bolt hole areas 
+only.
+    We disagree that instructions need to be added. The inspections 
+specified in Part 1 of the service bulletin are accomplished as given 
+in Figure 3 of the service bulletin. The accomplishment instructions in 
+Part 1 of the service bulletin give instructions for repairing any 
+crack before further flight. The instructions in Figure 3 of the 
+service bulletin specify that operators should contact ``The Boeing 
+Company'' for repair instructions. Paragraph (l) of this AD states that 
+where the service bulletin specifies to contact Boeing for appropriate 
+action, operators must repair the cracking using a method approved in 
+accordance with the procedures specified in paragraph (o) of this AD. 
+We have not changed the AD in this regard.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD with the change described previously. 
+We have determined that this change will neither increase the
+
+[[Page 12254]]
+
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 918 airplanes of the affected design in the 
+worldwide fleet, and about 387 airplanes of U.S. Registry. The 
+following table provides the estimated costs, at an average labor rate 
+of $80 per hour, for U.S. operators to comply with this AD.
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                  Work                           Cost per
+            Action                hours         Parts            airplane                  Fleet cost
+----------------------------------------------------------------------------------------------------------------
+Repetitive inspections, per            8  None.............  $640, per         $247,680.
+ inspection cycle (Part 1).                                   inspection
+                                                              cycle.
+Inspection, rework, and bolt           8  Between $303 and   Between $943 and  Between $364,941, and $5,168,772.
+ installation (Part 2).                    $12,716.           $13,356.
+Repetitive inspections for             4  None.............  $320, per         $123,840, per inspection cycle.
+ certain airplanes (Part 4).                                  inspection
+                                                              cycle.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+adding the following new airworthiness directive (AD):
+
+2009-06-08 Boeing: Amendment 39-15844. Docket No. FAA-2006-25390; 
+Directorate Identifier 2005-NM-224-AD.
+
+Effective Date
+
+    (a) This AD becomes effective April 28, 2009.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to Boeing Model 767-200, -300, -300F, and -
+400ER series airplanes, certificated in any category; as identified 
+in Boeing Service Bulletin 767-57A0097, Revision 1, dated October 
+18, 2007.
+
+Unsafe Condition
+
+    (d) This AD results from reports of cracks found in the lower 
+wing skin originating at the forward tension bolt holes of the aft 
+pitch load fitting. We are issuing this AD to detect and correct 
+cracking in the lower wing skin for the forward tension bolt holes 
+at the aft pitch load fitting, which could result in a fuel leak and 
+reduced structural integrity of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+External Inspections of the Wing Skin
+
+    (f) For airplanes identified as Group 1, Configuration 1, 2, 3, 
+or 6; Group 2, Configuration 1, 2, 3, or 6; and Group 3, 
+Configuration 1 or 3; in Boeing Service Bulletin 767-57A0097, 
+Revision 1, dated October 18, 2007: At the later of the times 
+specified in paragraph (f)(1) or (f)(2) of this AD, perform the 
+detailed inspection and the external high frequency eddy current 
+(HFEC) or dye penetrant inspections for cracking as specified in 
+Part 1 of the Accomplishment Instructions of Boeing Service Bulletin 
+767-57A0097, Revision 1, dated October 18, 2007. Repeat the 
+inspections at intervals not to exceed 3,000 flight cycles or 12,000 
+flight hours, whichever occurs first, until the actions required by 
+paragraph (g) or (j) of this AD are accomplished.
+    (1) Prior to the accumulation of 10,000 total flight cycles or 
+30,000 total flight hours, whichever occurs first.
+    (2) Within 3,000 flight cycles or 12,000 flight hours after the 
+effective date of this AD, whichever occurs first.
+
+Internal Inspections of the Wing Skin
+
+    (g) For airplanes identified in paragraphs (g)(1) and (g)(2) of 
+this AD: Perform the bolt open-hole inspections for cracking in 
+accordance with Part 2 of the Accomplishment Instructions of Boeing 
+Service Bulletin 767-57A0097, Revision 1, dated October 18, 2007, at 
+the times specified in paragraph (g)(1) or (g)(2) of this AD, as 
+applicable, until the requirement of paragraphs (h) or (j)(1) of 
+this AD are accomplished. Doing the actions in this paragraph 
+terminates the requirements of paragraph (f) of this AD.
+    (1) For airplanes on which the modifications of the nacelle 
+strut and wing structure specified in any service bulletin listed in 
+Table 1 of this AD have been done: Do the inspection at the later 
+time specified in paragraph (g)(1)(i) or (g)(1)(ii) of this AD. 
+Repeat the inspections at intervals not to exceed 16,500 flight 
+cycles or 65,000 flight hours, whichever occurs first.
+    (i) Within 16,500 flight cycles or 65,000 flight hours, 
+whichever occurs earlier, after
+
+[[Page 12255]]
+
+accomplishment of a service bulletin identified in Table 1 of this 
+AD.
+    (ii) Within 3,000 flight cycles or 12,000 flight hours after the 
+effective date of this AD, whichever occurs first.
+
+                                      Table 1--Threshold Service Bulletins
+----------------------------------------------------------------------------------------------------------------
+       Boeing Service Bulletin--              Revision level--                         Dated--
+----------------------------------------------------------------------------------------------------------------
+767-54-0080............................  Original..................  October 7, 1999.
+767-54-0080............................  1.........................  May 9, 2002.
+767-54-0081............................  Original..................  July 29, 1999.
+767-54-0081............................  1.........................  February 7, 2002.
+767-54-0082............................  Original..................  October 28, 1999.
+767-54-0082............................  1.........................  November 4, 2004.
+767-54-0082............................  3.........................  September 20, 2007.
+----------------------------------------------------------------------------------------------------------------
+
+    (2) For airplanes on which the modifications of the nacelle 
+strut and wing structure specified in any service bulletin listed in 
+Table 1 of this AD have not been done: Do the inspection at the 
+later of the times specified in paragraph (g)(2)(i) or (g)(2)(ii) of 
+this AD. Repeat the inspections at intervals not to exceed 16,500 
+flight cycles or 65,000 flight hours, whichever occurs first.
+    (i) Before the accumulation of 20,000 total flight cycles or 
+60,000 total flight hours, whichever occurs earlier.
+    (ii) Within 72 months after the effective date of this AD.
+
+Acceptable Method of Compliance With Paragraph (g) of This AD
+
+    (h) For all airplanes: Doing the actions in both paragraphs 
+(h)(1) and (h)(2) of this AD is an acceptable method of compliance 
+for the repetitive inspection requirements of paragraph (g) of this 
+AD after the initial paragraph (g) inspection is accomplished.
+    (1) Accomplishing the inspections specified in Part 1 of the 
+Accomplishment Instructions of Boeing Service Bulletin 767-57A0097, 
+Revision 1, dated October 18, 2007, within 3,000 flight cycles or 
+12,000 flight hours, whichever occurs first, after the 
+accomplishment of the most recent inspection done in accordance with 
+paragraph (g) of this AD (Part 2 of the Accomplishment Instructions 
+of Boeing Service Bulletin 767-57A0097, Revision 1, dated October 
+18, 2007).
+    (2) Repeating the inspections specified in Part 1 of the 
+Accomplishment Instructions of Boeing Service Bulletin 767-57A0097, 
+Revision 1, dated October 18, 2007, at intervals not to exceed 3,000 
+flight cycles or 12,000 flight hours, whichever occurs first.
+
+Repair of Cracking
+
+    (i) If cracking is found during any inspection required by 
+paragraph (f) or (h) of this AD: Before further flight, repair in 
+accordance with the procedures specified in paragraph (o) of this 
+AD.
+    (j) If cracking is found during any inspection required by 
+paragraph (g) of this AD: Before further flight, oversize the 
+fastener hole in accordance with Part 2 of the Accomplishment 
+Instructions of Boeing Service Bulletin 767-57A0097, Revision 1, 
+dated October 18, 2007, except as provided by paragraphs (j)(1) and 
+(j)(2) of this AD.
+    (1) If any cracking cannot be removed by oversizing the fastener 
+hole in accordance with Part 2 of the Accomplishment Instructions of 
+Boeing Service Bulletin 767-57A0097, Revision 1, dated October 18, 
+2007, before further flight, accomplish the freeze plug repair in 
+accordance with Part 3 of the Accomplishment Instructions of Boeing 
+Service Bulletin 767-57A0097, Revision 1, dated October 18, 2007, 
+except as provided by paragraph (j)(2) of this AD. Accomplishing the 
+freeze plug repair ends the repetitive inspections required by 
+paragraphs (f) and (g) of this AD for the repaired wing only.
+    (2) If any cracking is outside the limits specified for the 
+freeze plug repair in Part 3 of the Accomplishment Instructions of 
+Boeing Service Bulletin 767-57A0097, Revision 1, dated October 18, 
+2007, before further flight, repair in accordance with the 
+procedures specified in paragraph (o) of this AD.
+
+Repetitive Inspections Required After Freeze Plug Repair
+
+    (k) For airplanes on which of the requirements of paragraph 
+(j)(1) of this AD have been accomplished, perform the repetitive 
+inspections specified in paragraphs (k)(1) and (k)(2) of this AD at 
+the times specified.
+    (1) At the later time in paragraph (k)(1)(i) or (k)(1)(ii) of 
+this AD: Accomplish the external inspections specified in Part 1 of 
+the Accomplishment Instructions of Boeing Service Bulletin 767-
+57A0097, Revision 1, dated October 18, 2007. If any cracking is 
+found during any inspection required by this paragraph, before 
+further flight, repair in accordance with the procedures specified 
+in paragraph (o) of this AD. Repeat the external inspections at 
+intervals not to exceed 3,000 flight cycles or 12,000 flight hours, 
+whichever occurs earlier.
+    (i) Prior to the accumulation of 37,500 total flight cycles or 
+90,000 total flight hours, whichever occurs earlier.
+    (ii) Within 18 months after accomplishment of the freeze plug 
+repair specified in Part 3 of the Accomplishment Instructions of 
+Boeing Service Bulletin 767-57A0097, Revision 1, dated October 18, 
+2007.
+    (2) At the later of the times specified in paragraph (k)(2)(i) 
+or (k)(2)(ii) of this AD: Perform an internal HFEC for cracking, in 
+accordance with Part 4 of the Accomplishment Instructions of Boeing 
+Service Bulletin 767-57A0097, Revision 1, dated October 18, 2007. If 
+any cracking is found during any inspection required by this 
+paragraph, before further flight, repair in accordance with the 
+procedures specified in paragraph (o) of this AD. Repeat the 
+inspections at intervals not to exceed 12,000 flight cycles or 
+48,000 flight hours, whichever occurs earlier.
+    (i) Prior to the accumulation of 37,500 total flight cycles or 
+90,000 total flight hours, whichever occurs earlier.
+    (ii) Within 72 months after accomplishment of the freeze plug 
+repair specified in Part 3 of the Accomplishment Instructions of 
+Boeing Service Bulletin 767-57A0097, Revision 1, dated October 18, 
+2007.
+
+Repair of Certain Cracking
+
+    (l) If any cracking is found during any inspection required by 
+this AD, and Boeing Service Bulletin 767-57A0097, Revision 1, dated 
+October 18, 2007, specifies to contact Boeing for appropriate 
+action: Before further flight, repair the cracking using a method 
+approved in accordance with the procedures specified in paragraph 
+(o) of this AD.
+
+No Reporting Requirement
+
+    (m) Although Boeing Service Bulletin 767-57A0097, Revision 1, 
+dated October 18, 2007, specifies to submit certain information to 
+the manufacturer, this AD does not include that requirement.
+
+Credit for Actions Accomplished Previously
+
+    (n) Actions done before the effective date of this AD in 
+accordance with Boeing Alert Service Bulletin 767-57A0097, dated 
+September 29, 2005, are acceptable for compliance with the 
+corresponding requirements of this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (o)(1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, ATTN: Tamara Anderson, Aerospace Engineer, Airframe Branch, 
+ANM-120S, FAA, Seattle Aircraft Certification Office, 1601 Lind 
+Avenue, SW., Renton, Washington 98057-3356; telephone (425) 917-
+6421; fax (425) 917-6590; has the authority to approve AMOCs for 
+this AD, if requested using the procedures found in 14 CFR 39.19.
+    (2) To request a different method of compliance or a different 
+compliance time for this AD, follow the procedures in 14 CFR 39.19. 
+Before using any approved AMOC on any airplane to which the AMOC 
+applies, notify your appropriate principal inspector (PI) in the FAA 
+Flight Standards District Office (FSDO), or lacking a PI, your local 
+FSDO.
+
+[[Page 12256]]
+
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an 
+Authorized Representative for the Boeing Commercial Airplanes 
+Delegation Option Authorization Organization who has been authorized 
+by the Manager, Seattle ACO, to make those findings. For a repair 
+method to be approved, the repair must meet the certification basis 
+of the airplane, and the approval must specifically refer to this 
+AD.
+
+Material Incorporated by Reference
+
+    (p) You must use Boeing Service Bulletin 767-57A0097, Revision 
+1, dated October 18, 2007, to do the actions required by this AD, 
+unless the AD specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of this service information under 5 
+U.S.C. 552(a) and 1 CFR part 51.
+    (2) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 
+206-544-5000, extension 1, fax 206-766-5680; e-mail 
+<a href="/cdn-cgi/l/email-protection#b5d8d09bd7dad0d6dad8f5d7dad0dcdbd29bd6dad8"><span class="__cf_email__" data-cfemail="4d2028632f22282e22200d2f222824232a632e2220">[email&#160;protected]</span></a>; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (3) You may review copies of the service information that is 
+incorporated by reference at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington. For 
+information on the availability of this material at the FAA, call 
+425-227-1221 or 425-227-1152.
+    (4) You may also review copies of the service information at the 
+National Archives and Records Administration (NARA). For information 
+on the availability of this material at NARA, call 202-741-6030, or 
+go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on February 27, 2009.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+ [FR Doc. E9-5953 Filed 3-23-09; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

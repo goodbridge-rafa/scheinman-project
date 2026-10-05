@@ -1,0 +1,504 @@
+<html>
+<head>
+<title>Federal Register, Volume 73 Issue 72 (Monday, April 14, 2008)</title>
+</head>
+<body><pre>
+[Federal Register Volume 73, Number 72 (Monday, April 14, 2008)]
+[Rules and Regulations]
+[Pages 19986-19989]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E8-7561]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2007-29062; Directorate Identifier 2007-NM-020-AD; 
+Amendment 39-15462; AD 2008-08-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 737-100, -200, -200C, -
+300, -400, and -500 Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Boeing Model 737-100, -200, -200C, -300, -400, and -500 series 
+airplanes. For certain airplanes, this AD requires replacing the 
+outboard stabilizing fitting and certain adjacent components of the 
+main landing gear (MLG) support beam. This AD also requires repetitive 
+inspections for discrepancies of the outboard stabilizing fitting, 
+walking beam hanger, and rear spar attachment, and corrective actions 
+if necessary. For certain airplanes, this AD provides an alternative 
+one-time inspection of the outboard stabilizing fitting for 
+discrepancies, and corrective actions if necessary, which would extend 
+the compliance time for the replacement of the outboard stabilizing 
+fitting. For certain other airplanes, this AD also requires performing 
+a torque check of the aft pin of the outboard stabilizing fitting, and 
+corrective actions if necessary. This AD results from reports of 
+findings of fatigue cracking of the outboard stabilizing fitting and 
+stress corrosion cracking of the bolts attaching the fitting to the 
+wing rear spar. We are issuing this AD to detect and correct that 
+cracking, which could result in disconnection of the MLG actuator from 
+the rear spar and support beam, consequent damage to the hydraulic 
+system, and possible loss of the ``A'' and ``B'' hydraulic systems and 
+damage or jamming of the flight control cables. Damage or jamming of 
+the flight control cables could result in loss of control of the 
+airplane.
+
+DATES: This AD is effective May 19, 2008.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of May 19, 2008.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, Washington 
+98124-2207.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (telephone 800-647-5527) is the Document Management 
+Facility, U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Nancy Marsh, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone (425) 
+917-6440; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an airworthiness directive (AD) that would apply to 
+all Boeing Model 737-100, -200, -200C, -300, -400, and -500 series 
+airplanes. That NPRM was published in the Federal Register on August 
+31, 2007 (72 FR 50278). For certain airplanes, that NPRM proposed to 
+require replacing the outboard stabilizing fitting and certain adjacent 
+components of the main landing gear (MLG) support beam. That NPRM also 
+proposed to require repetitive inspections for discrepancies of the 
+outboard stabilizing fitting, walking beam hanger, and rear spar 
+attachment, and corrective actions if necessary. For certain airplanes, 
+that NPRM proposed to provide an alternative one-time inspection of the 
+outboard stabilizing fitting for discrepancies and corrective actions 
+if necessary, which would extend the compliance time for the 
+replacement of the outboard stabilizing fitting. For certain other 
+airplanes, that NPRM proposed to require performing a torque check of 
+the aft pin of the outboard stabilizing fitting, and corrective actions 
+if necessary.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comments received from the commenters.
+
+Request To Change the Description of the Unsafe Condition
+
+    Boeing asks that we change the description of the unsafe condition 
+specified in the Summary and Discussion sections and in paragraph (d) 
+of the AD. Boeing states that, Model 737-100, -200, -300, -400, and -
+500 airplanes are equipped with ``A'' and ``B'' hydraulic systems, and 
+an additional standby hydraulic system. Boeing notes that fracture or 
+disconnect of any of the structural parts specified in Boeing Alert 
+Service Bulletin 737-57A1266, Revision 1, dated January 3, 2007 
+(referenced in the NPRM as the source of service information for 
+accomplishing the actions), could result in damage to the ``A'' and 
+``B'' hydraulic system tubes and damage or jamming of the flight 
+control cables. Boeing adds that the standby hydraulic system is 
+protected from any damage from a fracture or disconnect of any of the 
+structural parts because it is not in the affected area. Additionally, 
+Boeing states that if the ``A'' and ``B'' hydraulic systems fail, the 
+standby system and manual reversion enable control of the airplane. 
+Therefore, Boeing asks that the description of the unsafe condition be 
+changed as follows: We are issuing this AD to detect and correct that 
+cracking, which could result in disconnection of the MLG actuator from 
+the rear spar and support beam, and consequent damage to the hydraulic 
+system, and possible loss of the ``A'' and ``B'' hydraulic systems and 
+damage or jamming of the flight control cables. Damage or jamming of 
+the flight control cables could lead to a possible loss of control of 
+the airplane.
+    We agree with Boeing and have changed the description of the unsafe 
+condition in the referenced sections as follows: ``We are issuing this 
+AD to detect and correct that cracking, which could result in 
+disconnection of the MLG actuator from the rear spar and support beam, 
+consequent damage to the hydraulic system, and possible loss of the 
+``A'' and ``B'' hydraulic systems and damage or jamming of the flight 
+control cables. Damage or jamming of the flight control cables could 
+result in loss of control of the airplane.'' However, the Discussion 
+section is not restated in the final rule; therefore, we have made no 
+change to the AD in this regard.
+
+[[Page 19987]]
+
+Request To Clarify Certain Language
+
+    Boeing asks that the term ``titanium pin,'' as specified in the 
+Relevant Service Information section, be changed to ``new pin.'' Boeing 
+states that the new forward fuse pin is made from 15-5PH CRES stainless 
+steel. Boeing also asks that the word ``components,'' also specified in 
+the Relevant Service Information section, be changed to ``fuse pin'' to 
+avoid ambiguity or possible confusion.
+    We agree with Boeing that its suggested changes clarify the 
+language; however, the Relevant Service Information section is not 
+restated in the final rule. In addition, it is not necessary to further 
+change the body of the AD because we already required ``new 
+components'' for replacement parts. Therefore, we have made no change 
+to the AD in this regard.
+
+Request To Extend Compliance Time
+
+    Air Transport Association (ATA), on behalf of one of its members, 
+United Airlines (UAL), asks that the compliance period for paragraphs 
+(g) and (h) of the AD be changed from 36 to 48 months to align with 
+UAL's Model 737 heavy maintenance visit. The commenters' state that the 
+work defined in the NPRM will require jacking and defueling of the 
+aircraft, and extensive disassembly of the landing gear. The commenters 
+add that these activities are conducive to depot-level maintenance 
+only; the UAL heavy maintenance visit is done on a 48-month cycle.
+    We do not agree with the requests to revise the compliance time 
+from 36 to 48 months. In Boeing Alert Service Bulletin 737-57A1266, 
+Revision 1, dated January 3, 2007, the manufacturer recommended that 
+the actions be done within 36 months after the release of the service 
+bulletin. In developing an appropriate compliance time for this AD, we 
+considered the serious nature of the unsafe condition as well as the 
+recommendations of the manufacturer, the availability of any necessary 
+repair parts, and the practical aspect of accomplishing the required 
+inspection within an interval of time that corresponds to the normal 
+maintenance schedules of most affected operators. In light of these 
+factors, we have determined that the 36-month compliance time, as 
+proposed, is appropriate. We do not find it necessary to change the AD 
+in this regard. However, under the provisions of paragraph (p) of the 
+AD, we will consider approving requests for adjustments to the 
+compliance time if data are submitted to substantiate that such an 
+adjustment would provide an acceptable level of safety.
+
+Clarification of Paragraph Reference
+
+    We have changed the paragraph reference in paragraph (n) of the 
+NPRM for clarification. Paragraph (n) specifies that accomplishment of 
+the replacement of the tube assembly before the effective date of this 
+AD is acceptable for compliance with the replacement specified in 
+paragraph (l) of the NPRM; however, the correct reference is paragraph 
+(m) of this AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously. We also determined that 
+these changes will not increase the economic burden on any operator or 
+increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 3,130 airplanes of the affected design in the 
+worldwide fleet. This AD affects about 1,380 airplanes of U.S. 
+registry.
+    For all airplanes: The replacement takes between 20 and 24 work 
+hours per airplane to do, depending on the airplane's configuration, at 
+an average labor rate of $80 per work hour. Required parts will cost 
+between $3,658 and $4,272 per airplane, depending on the airplane's 
+configuration. Based on these figures, the estimated cost of the 
+replacement is estimated to be up to between $7,256,040 and $8,544,960, 
+or between $5,258 and $6,192 per airplane, depending on the airplane's 
+configuration.
+    For Groups 1 through 8 airplanes: The alternative inspection, if 
+done, takes about 12 work hours per airplane to do, at an average labor 
+rate of $80 per work hour. Based on these figures, the estimated cost 
+of the alternative inspection is estimated to be up to $1,324,800, or 
+$960 per airplane.
+    For Group 9 airplanes: The general visual inspection takes about 2 
+work hours per airplane to do, at an average labor rate of $80 per work 
+hour. Based on these figures, the estimated cost of the general visual 
+inspection is estimated to be up to $220,800, or $160 per airplane.
+    For Groups 1 through 5 airplanes that had steel pins replaced per 
+the original issue of the service bulletin: The torque check takes 
+about 7 work hours per airplane to do, at an average labor rate of $80 
+per work hour. Based on these figures, the estimated cost of the torque 
+check is estimated to be up to $772,800, or $560 per airplane.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation Programs'' 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979), and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    You can find our regulatory evaluation and the estimated costs of 
+compliance in the AD Docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+
+[[Page 19988]]
+
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new AD:
+
+2008-08-10 Boeing: Amendment 39-15462. Docket No. FAA-2007-29062; 
+Directorate Identifier 2007-NM-020-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) is effective May 19, 2008.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to all Model 737-100, -200, -200C, -300, -
+400, and -500 series airplanes, certificated in any category.
+
+Unsafe Condition
+
+    (d) This AD results from reports of findings of fatigue cracking 
+of the outboard stabilizing fitting and stress corrosion cracking of 
+the bolts attaching the fitting to the wing rear spar. We are 
+issuing this AD to detect and correct that cracking, which could 
+result in disconnection of the MLG actuator from the rear spar and 
+support beam, consequent damage to the hydraulic system, and 
+possible loss of the ``A'' and ``B'' hydraulic systems and damage or 
+jamming of the flight control cables. Damage or jamming of the 
+flight control cables could result in loss of control of the 
+airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Service Bulletin Reference
+
+    (f) The term ``alert service bulletin'' as used in this AD, 
+means the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 737-57A1266, Revision 1, dated January 3, 2007.
+
+Replacement/Repetitive Inspections
+
+    (g) For airplanes identified as Groups 1 through 8, as specified 
+in the alert service bulletin, except as provided by paragraphs (h) 
+and (k) of this AD: Within 36 months after the effective date of 
+this AD, replace the outboard stabilizing fitting, H-11 bolts, 
+forward pin, and aft pin, as applicable, with new components by 
+doing all the applicable actions in accordance with Part II of the 
+alert service bulletin, except as provided by paragraph (j) of this 
+AD. Within 120 months after accomplishing the replacement, do a 
+general visual inspection for discrepancies of the outboard 
+stabilizing fitting, walking beam hanger, and rear spar attachment 
+fitting, and do all applicable corrective actions, by doing all the 
+actions, except as provided by paragraph (j) of this AD, in 
+accordance with Part V of the alert service bulletin. Do all 
+corrective actions before further flight. Repeat the inspection at 
+intervals not to exceed 120 months.
+
+Alternative Inspection
+
+    (h) For airplanes identified as Groups 1 through 8, as specified 
+in the alert service bulletin, on which the existing H-11 bolts were 
+replaced before the effective date of this AD with Inconel 718 
+bolts, in lieu of doing the actions required by paragraph (g) of 
+this AD: Within 4,500 flight cycles or 36 months after the effective 
+date of this AD, whichever is later, do a magnetic test of the 
+attach bolts in accordance with the alert service bulletin. If any 
+bolt is magnetic, discontinue the alternative inspection specified 
+in the alert service bulletin and accomplish the actions required by 
+paragraph (g) before further flight. If none of the bolts are 
+magnetic, do all the applicable actions in accordance with Part I of 
+the alert service bulletin before further flight.
+    (1) If any crack is found: Stop the inspection and before 
+further flight do the actions required by paragraph (g) of this AD. 
+Repetitive inspections must be done after replacing the fitting at 
+the interval specified in paragraph (g) of this AD.
+    (2) If no crack is found: Before further flight, replace the 
+forward pin and aft pin, as applicable, in accordance with the alert 
+service bulletin, and within 60 months after the effective date of 
+this AD, do the remaining replacement required by paragraph (g) of 
+this AD. Repetitive inspections must be done after replacing the 
+fitting at the interval specified in paragraph (g) of this AD.
+    (3) If damage other than cracking is found, or if the fitting 
+lug hole is beyond hole size limits, before further flight, repair 
+using a method approved in accordance with the procedures specified 
+in paragraph (p) of this AD.
+
+General Visual Inspection
+
+    (i) For airplanes identified as Group 9, as specified in the 
+alert service bulletin: Within 36 months or 4,500 flight cycles 
+after the effective date of this AD, whichever occurs later, do a 
+general visual inspection of the outboard stabilizing fitting and 
+fasteners for discrepancies, and do all applicable corrective 
+actions in accordance with Part IV of the alert service bulletin, 
+except as provided by paragraphs (j) and (k) of this AD. Within 120 
+months after the inspection specified in Part IV has been done, do a 
+general visual inspection for discrepancies of the outboard 
+stabilizing fitting, walking beam hanger and rear spar attachment 
+fitting in accordance with Part V of the alert service bulletin, and 
+do all applicable corrective actions in accordance with Part V of 
+the alert service bulletin, except as provided by paragraphs (j) and 
+(k). Do all applicable corrective actions before further flight. 
+Repeat the Part V inspection at intervals not to exceed 120 months.
+
+Exceptions To Alert Service Bulletin Specifications
+
+    (j) During any inspection required by this AD, if any corrosion 
+damage is found that cannot be removed, or if any damage is found 
+that is outside the limits specified in the alert service bulletin, 
+or if any discrepancy is found and the alert service bulletin 
+specifies contacting the manufacturer for disposition of certain 
+repair conditions: Before further flight, repair using a method 
+approved in accordance with the procedures specified in paragraph 
+(p) of this AD.
+    (k) Certain sections in Parts I, II, and V of the alert service 
+bulletin specify ``For 737-100 and -200 airplanes'' and ``For 737-
+300 and -500 airplanes.'' However, those sections are applicable to 
+Model 737-100, -200, and -200C airplanes, and Model 737-300, -400, 
+and -500 airplanes, respectively.
+
+Torque Check
+
+    (l) For airplanes identified as Groups 1 through 5, as specified 
+in the alert service bulletin, on which the aft pin of the aft 
+outboard stabilizing fitting was replaced before the effective date 
+of this AD, in accordance with Boeing Alert Service Bulletin 737-
+57A1266, dated May 8, 2003: Within 36 months after the effective 
+date of this AD, do a torque check to determine whether the aft pin 
+is correctly installed. Do all applicable corrective actions before 
+further flight. Do the actions in accordance with Part III of the 
+alert service bulletin.
+
+Concurrent Requirements
+
+    (m) For airplanes identified as Groups 1 and 3, as specified in 
+the alert service bulletin: Prior to or concurrently with 
+accomplishment of paragraph (g) of this AD, do the replacement of 
+the existing tube assembly of the outboard stabilizing fitting as 
+specified in Part IV of Boeing Service Bulletin 737-57-1052, 
+Revision 4, dated October 24, 1980.
+
+Credit for Previously Accomplished Actions
+
+    (n) Replacement of the tube assembly before the effective date 
+of this AD in accordance with Boeing Service Bulletin 737-57-1073, 
+Revision 4, dated April 12, 1985, is acceptable for compliance with 
+the replacement specified in paragraph (m) of this AD.
+    (o) For Groups 1 through 4, as specified in the alert service 
+bulletin: Replacement of the H-11 bolts for the inboard stabilizing 
+fitting before the effective date of this AD, in accordance with 
+Boeing Service Bulletin 737-57-1231, dated December 1, 1994, is 
+acceptable for compliance with the replacement of the H-11 bolts 
+specified in paragraph (g) of this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (p)(1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested in 
+accordance with the procedures found in 14 CFR 39.19.
+    (2) To request a different method of compliance or a different 
+compliance time for this AD, follow the procedures in 14 CFR 39.19. 
+Before using any approved AMOC on any airplane to which the AMOC 
+applies, notify your appropriate principal inspector (PI) in the FAA 
+Flight Standards District Office (FSDO), or lacking a PI, your local 
+FSDO.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an 
+Authorized Representative for the Boeing Commercial Airplanes 
+Delegation Option Authorization Organization who has been authorized 
+by the Manager, Seattle ACO, to make those findings. For a repair 
+method to be approved, the repair must meet the
+
+[[Page 19989]]
+
+certification basis of the airplane and the approval must 
+specifically refer to this AD.
+
+Material Incorporated by Reference
+
+    (q) You must use Boeing Alert Service Bulletin 737-57A1266, 
+Revision 1, dated January 3, 2007; and Boeing Service Bulletin 737-
+57-1052, Revision 4, dated October 24, 1980; as applicable; to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of this service information under 5 
+U.S.C. 552(a) and 1 CFR part 51.
+    (2) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 
+98124-2207.
+    (3) You may review copies of the service information 
+incorporated by reference at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+National Archives and Records Administration (NARA). For information 
+on the availability of this material at NARA, call 202-741-6030, or 
+go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on March 24, 2008.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. E8-7561 Filed 4-11-08; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

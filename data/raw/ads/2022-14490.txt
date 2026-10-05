@@ -1,0 +1,624 @@
+<html>
+<head>
+<title>Federal Register, Volume 87 Issue 130 (Friday, July 8, 2022)</title>
+</head>
+<body><pre>
+[Federal Register Volume 87, Number 130 (Friday, July 8, 2022)]
+[Rules and Regulations]
+[Pages 40710-40714]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2022-14490]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2021-1073; Project Identifier AD-2021-01252-T; 
+Amendment 39-22090; AD 2022-13-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2017-24-
+10, which applied to certain The Boeing Company Model 757-200, -200PF, 
+and -300 series airplanes. AD 2017-24-10 required repetitive 
+inspections for any cracking of a certain fuselage frame inner chord; 
+identification of the material of a certain fuselage frame inner chord 
+for certain airplanes; and applicable corrective actions. This AD was 
+prompted by reports of cracking found at a certain fuselage frame inner 
+chord. This AD retains the requirements of AD 2017-24-10, adds 
+airplanes, and requires new inspection types in certain areas, an 
+expanded inspection area, additional inspections, and applicable 
+corrective actions. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective August 12, 2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of August 12, 
+2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+January 9, 2018 (82 FR 57343, December 5, 2017).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this service information at the 
+FAA, Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability of 
+this material at the FAA, call 206-231-3195. It is also available at 
+<a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. 
+FAA-2021-1073.
+
+Examining the AD Docket
+
+    You may examine the AD docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by 
+searching for and locating Docket No. FAA-2021-1073; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, any 
+comments received, and other information. The address for Docket 
+Operations is U.S. Department of Transportation, Docket Operations, M-
+30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue 
+SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Peter Jarzomb, Aerospace Engineer, 
+Airframe Section, FAA, Los Angeles ACO Branch, 3960 Paramount 
+Boulevard, Lakewood, CA 90712-4137; phone: 562-627-5234; email: 
+<a href="/cdn-cgi/l/email-protection#bdcdd8c9d8cf93d7dccfc7d2d0dffddbdcdc93dad2cb"><span class="__cf_email__" data-cfemail="2b5b4e5f4e5905414a59514446496b4d4a4a054c445d">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2017-24-10, Amendment 39-19114 (82 FR 
+57343, December 5, 2017) (AD 2017-24-10). AD 2017-24-10 applied to 
+certain The Boeing Company Model 757-200, -200PF, and -300 series 
+airplanes. The NPRM published in the Federal Register on January 21, 
+2022 (87 FR 3246). The NPRM was prompted by reports of cracking found 
+at the fuselage station (STA) 1380 frame inner chord and by reports of 
+new crack findings outside of the AD 2017-24-10 inspection area, which 
+the existing inspections will not detect. In the NPRM, the FAA proposed 
+to continue to require repetitive inspections for any cracking of a 
+certain fuselage frame inner chord; identification of the material of a 
+certain fuselage frame inner chord for certain airplanes; and 
+applicable corrective actions. The NPRM also proposed to add airplanes 
+and require new inspection types in
+
+[[Page 40711]]
+
+certain areas, an expanded inspection area, additional inspections, and 
+applicable corrective actions. The FAA is issuing this AD to detect and 
+correct such cracks, which could result in rapid decompression of the 
+airplane and the inability to sustain loads required for continued safe 
+flight and landing.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from seven commenters. The Airline Pilots 
+Association, International (ALPA), United Airlines, and two additional 
+commenters supported the NPRM without change.
+    The FAA received additional comments from Aviation Partners Boeing 
+(APB), Delta Airlines (DAL), and FedEx Express (FedEx). The following 
+presents the comments received on the NPRM and the FAA's response to 
+each comment.
+
+Effect of Winglets on Accomplishment of the Proposed Actions
+
+    APB stated that the installation of winglets per Supplemental Type 
+Certificate (STC) ST01518SE does not affect compliance with the 
+mandated actions in the proposed rule.
+    The FAA agrees with the commenter. A review of the STC holders 
+determined that airplanes with their winglets installed do not affect 
+compliance with the proposed actions. Paragraph (c) of the proposed AD 
+has been redesignated as paragraph (c)(1) of this AD, and paragraph 
+(c)(2) has been added to this AD to state that installation of STC 
+ST01518SE does not affect the ability to accomplish the actions 
+required by this AD. Therefore, for airplanes on which STC ST01518SE is 
+installed, a ``change in product'' alternative method of compliance 
+(AMOC) approval request is not necessary to comply with the 
+requirements of 14 CFR 39.17.
+
+Request for an Exception for a Certain STC
+
+    FedEx noted that its fleet of Boeing Model 757-200 series airplanes 
+was converted to a configuration similar to the Boeing Model 757-200SF 
+per VT Mobile Aerospace Engineering (VT MAE) STC ST03562AT, and those 
+airplanes are no longer configured as passenger airplanes. Per the VT 
+MAE STC ST03562AT, certain areas of the airplane are not altered, but 
+are subject to Boeing Model 757-200SF loads. The FAA infers that the 
+certain areas the commenter referred to is the fuselage STA 1380 frame 
+inner chord. As a result, FedEx requested the VT MAE STC ST03562AT be 
+included as a new exception in paragraph (k) of this AD to the 
+requirements of paragraph (j) of this AD, similar to Model 757-200 
+Special Freighter STC ST00916WI-D, as specified in Boeing Alert 
+Requirements Bulletin 757-53A0118 RB, dated October 22, 2021.
+    The FAA agrees with the commenter for the reasons provided. 
+Paragraph (k)(3) has been added to this AD to state that where Boeing 
+Alert Requirements Bulletin 757-53A0118 RB, dated October 22, 2021, 
+allows an approved web repair accomplished in accordance with 757-200 
+SRM 53-00-07 Repair 4 for ``757-200 Special Freighter STC ST00916WI-D 
+only,'' this AD also approves those repairs for VT MAE STC ST03562AT.
+
+Request To Change Compliance Time
+
+    FedEx requested that paragraphs (g), (h), and (i) of the proposed 
+AD (retained from AD 2017-24-10) be retained only until the effective 
+date of this final rule, at which point the new requirements of this 
+AD, as specified in paragraphs (j), (k), and (l) of this AD would be 
+the only requirements of this AD. FedEx pointed to the unsafe condition 
+statement in paragraph (e) of the proposed AD as justification, 
+emphasizing the phrase ``. . . new crack findings outside of the AD 
+2017-24-10 inspection area, which the existing inspections will not 
+detect.'' FedEx noted that the exception specified in paragraph (k)(1) 
+of this AD would remain unchanged.
+    The FAA does not agree with the commenter. This AD is issued to 
+address new cracking that has been found outside of the inspection area 
+of AD 2017-24-10, and that AD's inspections will not detect the new 
+cracking. Operators that have performed the initial eddy current 
+inspections required by AD 2017-24-10 need to continue to inspect 
+affected airplanes at the applicable repetitive interval in order to 
+maintain the damage tolerance capability of the affected structure. If 
+the FAA were to not retain the requirements of AD 2017-24-10 until the 
+terminating action required by paragraph (l) of this AD is performed, 
+that would allow the affected airplanes to continue flying beyond the 
+repetitive inspection interval. If those repetitive eddy current 
+inspections are not performed, an undetected crack could result in the 
+inability of a principal structural element to sustain limit loads, 
+which could adversely affect the structural integrity of the airplane. 
+No change has been made to this final rule.
+
+Request for an Additional AMOC
+
+    FedEx requested that paragraph (m)(4) of the proposed AD be updated 
+to reflect the language in Notes (a) and (b) of Tables 1 and 2 of 
+Boeing Alert Requirements Bulletin 757-53A0118 RB, dated October 22, 
+2021, which FedEx believes should allow additional AMOCs. FedEx 
+observed that paragraph (m)(4) of the proposed AD states that AMOCs 
+approved previously for AD 2017-24-10 are not approved as AMOCs for 
+this AD. In expressing its disagreement with that statement, FedEx 
+observed that those Notes state that if any existing repair is found 
+and meets either one of the conditions stated in the Notes, the repair 
+is still approved and meets the requirements for accomplishing the 
+action specified in Boeing Alert Requirements Bulletin 757-53A0118 RB, 
+dated October 22, 2021. FedEx asserts that the referenced notes are 
+governed by paragraph (j) of the proposed AD, and paragraph (k) of the 
+proposed AD does not provide any exceptions for the referenced notes. 
+In conclusion, FedEx asserted that paragraph (m)(4) of the proposed AD 
+is in conflict with Notes (a) and (b) of Tables 1 and 2 of Boeing Alert 
+Requirements Bulletin 757-53A0118 RB, dated October 22, 2021. As a 
+result, FedEx requests that paragraph (m)(4) of the final rule be 
+updated to reflect the language in the referenced notes.
+    The FAA does not agree with the commenter. FedEx asserted that a 
+repair that meets either one of the conditions stated in Notes (a) and 
+(b) of Tables 1 and 2 of Boeing Alert Requirements Bulletin 757-53A0118 
+RB, dated October 22, 2021, is approved and meets the requirements for 
+accomplishing the actions specified in that service information. FedEx 
+further asserts that such a repair is therefore in conflict with 
+paragraph (m)(4) of the proposed AD. These assertions are incorrect. 
+For airplanes with repairs that meet either one of the conditions 
+stated in Notes (a) and (b) of Tables 1 and 2 of Boeing Alert 
+Requirements Bulletin 757-53A0118 RB, dated October 22, 2021, the 
+inspections specified in that service information are still required, 
+but at a different inspection threshold than the threshold for 
+airplanes that do not have an approved repair installed in the 
+inspection area. Therefore, Notes (a) and (b) of Tables 1 and 2 of 
+Boeing Alert Requirements Bulletin 757-53A0118 RB, dated October 22, 
+2021, are not in conflict with paragraph (m)(4) of this AD. AMOCs 
+previously approved for AD 2017-24-10 do not address the unsafe 
+condition identified in this final rule (cracks initiating in the STA 
+1380 frame web), and therefore cannot be approved as AMOCs for this 
+final rule. If the existing AMOCs were to be
+
+[[Page 40712]]
+
+approved as AMOCs for this final rule, then the inspections specified 
+in Boeing Alert Requirements Bulletin 757-53A0118 RB, dated October 22, 
+2021, would not be required on airplanes with a previously approved 
+AMOC. If these inspections are not accomplished, cracks initiating in 
+the frame web could grow undetected, which could result in the 
+inability of a principal structural element to sustain limit loads, 
+which could adversely affect the structural integrity of the airplane. 
+No change has been made to this final rule.
+
+Request for a New Exception To Omit Reinstallation of the Guide Track 
+Fitting as a Required for Compliance Action
+
+    Delta requested that the FAA modify paragraph (k) of the proposed 
+AD to include a new exception that omits Figure 6 from Boeing Alert 
+Requirements Bulletin 757-53A0118 RB, dated October 22, 2021. Delta 
+recognized that the proposed AD seeks to mitigate cracking at the 
+fuselage STA 1380 frame inner chord by detecting and repairing such 
+cracks as described in paragraph (e) of the proposed AD. However, Delta 
+contends that reinstallation of the guide track fitting in accordance 
+with Figure 6 of Boeing Alert Requirements Bulletin 757-53A0118 RB, 
+dated October 22, 2021, does nothing to mitigate the unsafe condition 
+and is a close access step. Open access steps in accordance with Boeing 
+Alert Requirements Bulletin 757-53A0118 RB, dated October 22, 2021, 
+including removal of the guide track fitting in Figure 2, and other 
+close access steps in accordance with Part 2, are not contained in 
+Boeing Alert Requirements Bulletin 757-53A0118 RB, dated October 22, 
+2021.
+    The FAA does not agree with the commenter. The root cause for the 
+cracking in the STA 1380 frame inner chord and web under the roller 
+guide track fitting is attributed to the out-of-plane bending stress 
+induced from a mis-rigging condition of the No. 2 cargo door, which 
+allows the roller pin on the lower cargo door to contact the roller 
+guide track fitting. Figure 6 provides instructions on how to properly 
+re-rig the roller guide track fitting and the No. 2 cargo door to 
+prevent the contact between the roller pin and the roller guide track 
+fitting, eliminating the out-of-plane bending loads on the STA 1380 
+frame. No change has been made to this final rule.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Except for minor editorial changes, and any other changes 
+described previously, this AD is adopted as proposed in the NPRM. None 
+of the changes will increase the economic burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin 757-53A0118 RB, 
+dated October 22, 2021. This service information specifies procedures 
+for a general visual inspection or a maintenance records check of the 
+STA 1380 frame for any repair, and repetitive surface high frequency 
+eddy current (HFEC) inspections of the STA 1380 frame inner chord and 
+frame web for any cracking, repetitive sub-surface low frequency eddy 
+current (LFEC) inspections of the STA 1380 frame inner chord for any 
+cracking, and applicable corrective actions. Corrective actions include 
+repair.
+    This AD also requires Boeing Alert Service Bulletin 757-53A0101, 
+dated November 8, 2016, which the Director of the Federal Register 
+approved for incorporation by reference as of January 9, 2018 (82 FR 
+57343, December 5, 2017).
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in ADDRESSES.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affect 477 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+              Action                     Labor cost       Parts cost    Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Surface HFEC inspection (retained   5 work-hours x $85            $0  $425 per inspection   $202,725 per
+ actions from AD 2017-24-10).        per hour = $425 per               cycle.                inspection cycle.
+                                     inspection cycle.
+Identify the material (retained     Up to 2 work-hours x           0  Up to $170..........  Up to $81,090.
+ actions from AD 2017-24-10).        $85 per hour = $170.
+General visual inspection (new      6 work-hours x $85             0  $510................  $243,270.
+ proposed action).                   per hour = $510.
+Surface frame inner chord HFEC      Up to 10 work-hours            0  Up to $850 per        Up to $405,450 per
+ inspection (new proposed action).   x $85 per hour =                  inspection cycle.     inspection cycle.
+                                     $850 per inspection
+                                     cycle.
+Sub-surface frame inner chord LFEC  Up to 6 work-hours x           0  Up to $510 per        Up to $243,270 per
+ inspection (new proposed action).   $85 per hour = $510               inspection cycle.     inspection cycle.
+                                     per inspection
+                                     cycle.
+Surface HFEC frame web inspection   Up to 6 work-hours x           0  Up to $510 per        Up to $243,270 per
+ (new proposed action).              $85 per hour = $510               inspection cycle.     inspection cycle.
+                                     per inspection
+                                     cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition repairs specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and
+
+[[Page 40713]]
+
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2017-24-10, Amendment 39-19114 
+(82 FR 57343, December 5, 2017); and
+0
+b. Adding the following new AD:
+
+2022-13-04 The Boeing Company: Amendment 39-22090; Docket No. FAA-
+2021-1073; Project Identifier AD-2021-01252-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 12, 2022.
+
+(b) Affected ADs
+
+    This AD replaces AD 2017-24-10, Amendment 39-19114 (82 FR 57343, 
+December 5, 2017) (AD 2017-24-10).
+
+(c) Applicability
+
+    (1) This AD applies to all The Boeing Company Model 757-200, -
+200PF, -200CB, and -300 series airplanes, certificated in any 
+category.
+    (2) Installation of Supplemental Type Certificate (STC) 
+ST01518SE does not affect the ability to accomplish the actions 
+required by this AD. Therefore, for airplanes on which STC ST01518SE 
+is installed, a ``change in product'' alternative method of 
+compliance (AMOC) approval request is not necessary to comply with 
+the requirements of 14 CFR 39.17.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of cracking found at the 
+fuselage station (STA) 1380 frame inner chord and by reports of new 
+crack findings outside of the AD 2017-24-10 inspection area, which 
+the existing inspections will not detect. The FAA is issuing this AD 
+to detect and correct such cracks, which could result in rapid 
+decompression of the airplane and the inability to sustain loads 
+required for continued safe flight and landing.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Inspection for Group 1 Airplanes, With No Changes
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2017-24-10, with no changes. For Group 1 airplanes as identified in 
+Boeing Alert Service Bulletin 757-53A0101, dated November 8, 2016: 
+At the applicable time specified in paragraph 1.E., ``Compliance,'' 
+of Boeing Alert Service Bulletin 757-53A0101, dated November 8, 
+2016; except as specified in paragraph (i)(1) of this AD, do a 
+surface high frequency eddy current (HFEC) inspection for any 
+cracking of the fuselage STA 1380 frame inner chord, and do all 
+applicable corrective actions, in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 757-53A0101, dated 
+November 8, 2016; except as specified in paragraph (i)(2) of this 
+AD. Do all applicable corrective actions before further flight. 
+Repeat the surface HFEC inspection, thereafter, at the times 
+specified in paragraph 1.E., ``Compliance,'' of Boeing Alert Service 
+Bulletin 757-53A0101, dated November 8, 2016.
+
+(h) Retained Inspection for Group 2 Airplanes, With No Changes
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2017-24-10, with no changes. For Group 2 airplanes as identified in 
+Boeing Alert Service Bulletin 757-53A0101, dated November 8, 2016: 
+At the applicable time specified in paragraph 1.E., ``Compliance,'' 
+of Boeing Alert Service Bulletin 757-53A0101, dated November 8, 
+2016, except as specified in paragraph (i)(1) of this AD, identify 
+the material of the fuselage STA 1380 frame inner chord, in 
+accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 757-53A0101, dated November 8, 2016.
+    (1) If the fuselage STA 1380 frame inner chord material 2024-T42 
+aluminum alloy is found during any identification required by 
+paragraph (h) of this AD: No further action is required by this 
+paragraph for that airplane.
+    (2) If the fuselage STA 1380 frame inner chord material 7075-T73 
+aluminum alloy is found during any identification required by the 
+introductory text of paragraph (h) of this AD: Before further 
+flight, do a surface HFEC inspection for any cracking of the 
+fuselage STA 1380 frame inner chord, and do all applicable 
+corrective actions, in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 757-53A0101, dated 
+November 8, 2016; except as specified in paragraph (i)(2) of this 
+AD. Do all applicable corrective actions before further flight. 
+Repeat the surface HFEC inspection thereafter at the times specified 
+in paragraph 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 
+757-53A0101, dated November 8, 2016.
+
+(i) Retained Exceptions to the Service Information, With No Changes
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2017-24-10, with no changes.
+    (1) Where Boeing Alert Service Bulletin 757-53A0101, dated 
+November 8, 2016, specifies a compliance time ``after the original 
+issue date of this service bulletin,'' this AD requires compliance 
+within the specified compliance time after January 9, 2018 (the 
+effective date of AD 2017-24-10).
+    (2) Where Boeing Alert Service Bulletin 757-53A0101, dated 
+November 8, 2016, specifies to contact Boeing for appropriate action 
+and identifies that action as ``RC'' (Required for Compliance): 
+Before further flight, repair the crack using a method approved in 
+accordance with the procedures specified in paragraph (m) of this 
+AD.
+
+(j) New Required Actions
+
+    Except as specified by paragraph (k) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin 757-53A0118 RB, dated October 22, 2021, 
+do all applicable actions identified in, and in accordance with, the 
+Accomplishment Instructions of Boeing Alert Requirements Bulletin 
+757-53A0118 RB, dated October 22, 2021.
+    Note 1 to paragraph (j): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+757-53A0118, dated October 22, 2021, which is referred to in Boeing 
+Alert Requirements Bulletin 757-53A0118 RB, dated October 22, 2021.
+
+(k) New Exceptions to Service Information Specifications
+
+    (1) Where the Compliance Time column of the tables in the 
+``Compliance'' paragraph of Boeing Alert Requirements Bulletin 757-
+53A0118 RB, dated October 22, 2021, uses the phrase ``the original 
+issue date of the Requirements Bulletin 757-53A0118 RB,'' this AD 
+requires using ``the effective date of this AD.''
+    (2) Where Boeing Alert Requirements Bulletin 757-53A0118 RB, 
+dated October 22, 2021, specifies contacting Boeing for repair 
+instructions or for alternative inspections: This AD requires doing 
+the repair, or doing the alternative inspections and applicable on-
+condition actions using a method approved in accordance with the 
+procedures specified in paragraph (m) of this AD.
+    (3) Where Boeing Alert Requirements Bulletin 757-53A0118 RB, 
+dated October 22, 2021, states that 757-200 SRM 53-00-07 Repair 4 is 
+for ``757-200 Special Freighter STC ST00916WI-D only,'' for this AD, 
+757-200 SRM 53-00-07 Repair 4 is for ``757-200 Special Freighter STC 
+ST00916WI-D and VT Mobile Aerospace Engineering (VT MAE) 
+Supplemental Type Certificate (STC) ST03562AT only.''
+
+[[Page 40714]]
+
+(l) Terminating Action for Certain Inspections
+
+    Accomplishment of the applicable initial inspections and 
+corrective actions specified in the Accomplishment Instructions of 
+Boeing Alert Requirements Bulletin 757-53A0118 RB, dated October 22, 
+2021, terminates the inspections required by paragraphs (g) and (h) 
+of this AD.
+
+(m) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Los Angeles ACO Branch, FAA, has the authority 
+to approve AMOCs for this AD, if requested using the procedures 
+found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your 
+request to your principal inspector or responsible Flight Standards 
+Office, as appropriate. If sending information directly to the 
+manager of the certification office, send it to the attention of the 
+person identified in paragraph (n) of this AD. Information may be 
+emailed to: <a href="/cdn-cgi/l/email-protection#dfe6f29e9192f2939e9e9c90f29e92909cf28dbaaeaabaacabac9fb9bebef1b8b0a9"><span class="__cf_email__" data-cfemail="043d29454a4929484545474b2945494b47295661757161777077446265652a636b72">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, Los 
+Angeles ACO Branch, FAA, to make those findings. To be approved, the 
+repair method, modification deviation, or alteration deviation must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) AMOCs approved previously for AD 2017-24-10 are not approved 
+as AMOCs with this AD.
+    (5) Except as specified by paragraph (i) of this AD: For service 
+information that contains steps that are labeled as Required for 
+Compliance (RC), the provisions of paragraphs (m)(5)(i) and (ii) of 
+this AD apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. If a step or substep is labeled ``RC Exempt,'' then the 
+RC requirement is removed from that step or substep. An AMOC is 
+required for any deviations to RC steps, including substeps and 
+identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(n) Related Information
+
+    For more information about this AD, contact Peter Jarzomb, 
+Aerospace Engineer, Airframe Section, FAA, Los Angeles ACO Branch, 
+3960 Paramount Boulevard, Lakewood, CA 90712-4137; phone: 562-627-
+5234; email: <a href="/cdn-cgi/l/email-protection#d0a0b5a4b5a2febab1a2aabfbdb290b6b1b1feb7bfa6"><span class="__cf_email__" data-cfemail="a9d9ccddccdb87c3c8dbd3c6c4cbe9cfc8c887cec6df">[email&#160;protected]</span></a>.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+August 12, 2022.
+    (i) Boeing Alert Requirements Bulletin 757-53A0118 RB, dated 
+October 22, 2021.
+    (ii) [Reserved]
+    (4) The following service information was approved for IBR on 
+January 9, 2018 (82 FR 57343, December 5, 2017).
+    (i) Boeing Alert Service Bulletin 757-53A0101, dated November 8, 
+2016.
+    (ii) [Reserved]
+    (5) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Contractual & Data Services 
+(C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-
+5600; telephone 562-797-1717; internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (6) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability 
+of this material at the FAA, call 206-231-3195.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email <a href="/cdn-cgi/l/email-protection#0d6b7f2364637e7d686e796462634d636c7f6c236a627b"><span class="__cf_email__" data-cfemail="e78195c98e8994978284938e8889a789869586c9808891">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on June 13, 2022.
+Christina Underwood,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2022-14490 Filed 7-7-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

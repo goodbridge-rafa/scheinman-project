@@ -1,0 +1,585 @@
+<html>
+<head>
+<title>Federal Register, Volume 81 Issue 115 (Wednesday, June 15, 2016)</title>
+</head>
+<body><pre>
+[Federal Register Volume 81, Number 115 (Wednesday, June 15, 2016)]
+[Rules and Regulations]
+[Pages 38897-38901]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-13741]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-3635; Directorate Identifier 2015-NM-037-AD; 
+Amendment 39-18553; AD 2016-12-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A318 series airplanes; A319 series airplanes; A320-211, -
+212, -214, -231, -232, and -233 airplanes; and A321 series airplanes. 
+This AD was prompted by an evaluation by the design approval holder 
+(DAH) indicating that certain structural repair manual (SRM) inspection 
+requirements for the fuselage skin repairs are insufficient to detect 
+cracks. This AD requires an inspection to determine whether any 
+fuselage external skin (doubler) repairs have been accomplished, an 
+inspection for cracking of certain repaired external fuselage skin 
+areas in the fuselage, and repair if necessary. We are issuing this AD 
+to detect and correct fatigue cracking of the fuselage skin, which 
+could result in reduced structural integrity of the airplane.
+
+DATES: This AD becomes effective July 20, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of July 20, 
+2016.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 44 51; email <a href="/cdn-cgi/l/email-protection#412022222e342f356f202833362e3335296c242032012028332334326f222e2c"><span class="__cf_email__" data-cfemail="badbd9d9d5cfd4ce94dbd3c8cdd5c8ced297dfdbc9fadbd3c8d8cfc994d9d5d7">[email&#160;protected]</span></a>; Internet 
+<a href="http://www.airbus.com">http://www.airbus.com</a>. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+3635.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://
+
+[[Page 38898]]
+
+www.regulations.gov by searching for and locating Docket No. FAA-2015-
+3635; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus Model A318 
+series airplanes; A319 series airplanes; A320-211, -212, -214, -231, -
+232, and -233 airplanes; and A321 series airplanes. The NPRM published 
+in the Federal Register on September 28, 2015 (80 FR 58226) (``the 
+NPRM''). The NPRM was prompted by an evaluation by the DAH indicating 
+that the fuselage skin repairs are subject to WFD. The NPRM proposed to 
+require an inspection to determine whether any fuselage external skin 
+(doubler) repairs have been accomplished, an inspection for cracking of 
+certain repaired external fuselage skin areas in the fuselage, and 
+repair if necessary. We are issuing this AD to detect and correct 
+fatigue cracking of the fuselage skin, which could result in reduced 
+structural integrity of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2015-0036R1, dated March 31, 2015 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition on all Airbus Model A318 
+series airplanes; A319 series airplanes; A320-211, -212, -214, -231, -
+232, and -233 airplanes, and A321 series airplanes. The MCAI states:
+
+    During A320 family Extended Service Goal full scale fatigue 
+tests, it was demonstrated that the inspection thresholds defined in 
+the current Structural Repair Manual (SRM) for the A320 family skin 
+repairs are insufficient to detect possible cracks becoming after 
+repairs. The findings are limited to 1.2 [millimeter] (mm) fuselage 
+skin and cover for all cut-out external repairs. The internal 
+repairs are not affected.
+    This condition, if not detected and corrected, could affect the 
+structural integrity of the fuselage at the repaired skin area(s).
+    To address this potential unsafe condition, Airbus issued Alert 
+Operators Transmission (AOT) A53N007-14 to provide inspection 
+instructions.
+    For the reasons described above, EASA issued AD 2015-0036 
+[<a href="http://www.casa.gov.au/scripts/nc.dll?WCMS:OLDASSET::svPath=/ADFiles/over/a320/,svFileName=2015-0036.pdf">http://www.casa.gov.au/scripts/nc.dll?WCMS:OLDASSET::svPath=/ADFiles/over/a320/,svFileName=2015-0036.pdf</a>] to require a one-time 
+inspection of the affected areas and, depending on findings, 
+accomplishment of applicable repair instructions.
+    Since that [EASA] AD was issued, operators have questioned the 
+inspection threshold for A318 aeroplanes (not yet in the Airbus 
+AOT), which is actually identical to that for A319 aeroplanes. In 
+addition, an error has been detected in paragraph (1) [of the EASA 
+AD], since external doublers may have been installed in the affected 
+area by a modification that may not be recorded as repair.
+    Such doubler installations are also subject to the inspection 
+requirements of this [EASA] AD, which is therefore revised to 
+provide clarifications, correcting paragraph (1) [of the EASA AD] 
+and introducing a Note.
+
+    Required actions include an inspection to determine whether any 
+fuselage external skin (doubler) repairs have been accomplished, an 
+external ultrasonic inspection or an internal low/high frequency eddy 
+current inspection for cracking of certain repaired external fuselage 
+skin areas in the fuselage, and repair if necessary. The compliance 
+times vary depending on airplane configuration. The earliest compliance 
+time is within 25,200 flight cycles since last repair, or within 350 
+flight cycles after the effective date of the AD, whichever occurs 
+later. The latest compliance time is within 45,000 flight cycles since 
+last repair; within 1,500 flight cycles from the effective date of the 
+AD, without exceeding 49,100 flight cycles since last repair; or within 
+350 flight cycles since the effective date of the AD; whichever occurs 
+latest. You may examine the MCAI in the AD docket on the Internet at 
+<a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. 
+FAA-2015-3635.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We have considered the comments received. The following 
+presents the comments received on the NPRM and the FAA's response to 
+each comment.
+
+Support for the NPRM
+
+    Mr. Bryant Kerr stated that the NPRM is an excellent idea, and it 
+is always worth improving safety on airplanes.
+
+Request To Revise Applicability
+
+    United Airlines (UAL) requested that we revise the NPRM 
+applicability to apply only to airplanes having repairs that were 
+completed before May 1, 2015, the date of the revised service repair 
+manual (SRM). UAL stated that any new airplane deliveries or external 
+repairs accomplished after the updated SRM thresholds will presumably 
+have the correct thresholds contained in the maintenance/inspection 
+program.
+    We partially agree with UAL's request. We agree that airplanes with 
+repairs accomplished using the updated SRM will be in compliance with 
+certain sections of this AD, such as the timescale for the inspection, 
+which is a subset of the AD requirements. However, the SRM update will 
+not replace the remaining AD requirements, which must be applicable to 
+all airplanes identified in paragraph (c) of this AD. We have not 
+changed this AD in this regard.
+
+Request To Exclude Inspected Airplanes
+
+    Delta Airlines (DAL) stated that since certain repairs and 
+modifications on its airplanes have already had their first inspection 
+prior to the compliance time specified in the NPRM, the NPRM 
+requirements should not apply. DAL also stated that if an operator's 
+maintenance/inspection program is more stringent than the requirements 
+of paragraph (m) of the proposed AD, the operator should be excluded 
+from the NPRM requirements.
+    We disagree with DAL's request. Accomplishment of the first 
+inspection is only part of the actions required by this AD. Paragraph 
+(m) of this AD requires revision of the post-repair inspection 
+threshold(s) in the operator's maintenance program or inspection 
+program. This AD includes the minimum requirements for mitigating the 
+identified unsafe condition. However, under the provisions of paragraph 
+(n)(1) of this AD, we will consider requests for approval of different 
+methods of compliance if sufficient data are submitted to substantiate 
+that the change would provide an acceptable level of safety. We have 
+not changed this AD in this regard.
+
+Request To Revise Compliance Time
+
+    DAL requested a compliance time extension from 350 flight cycles to 
+6 months. DAL stated that depending on
+
+[[Page 38899]]
+
+the fleet utilization, an operator of a large, older fleet could be 
+required to accomplish the compliance rework within a few months, 
+thereby creating a significant impact on its available resources. DAL 
+also stated that it is possible that several airplanes will be grounded 
+because it may not have enough resources to comply with the 350-flight-
+cycle limit.
+    We do not agree with DAL's request. DAL's rationale for a 
+compliance time extension does not provide an acceptable level of 
+safety. The compliance time of this AD is based on a risk assessment. 
+Some safety issues are more time sensitive than others. We have 
+considered the compliance time established by EASA, and the overall 
+risk to the fleet, including the severity of the identified unsafe 
+condition and the likelihood of the occurrence of the unsafe condition, 
+to determine the compliance time. However, under the provisions of 
+paragraph (n)(1) of this AD, operators may apply for an extension of 
+the compliance time by providing a satisfactory rationale explaining 
+why a compliance time extension provides an acceptable level of safety. 
+We have not changed this final rule in this regard.
+
+Request To Clarify Requirements and Approve Certain Repair Information 
+Sources
+
+    DAL requested that we make a distinction that the NPRM requirements 
+apply only to external repair fasteners common to the 1.2-millimeter 
+(mm) skin. DAL also stated that we should approve category B repairs 
+done using the latest revision of the SRM and any repair design 
+approval sheet (RDAS) approved after July 1, 2014. DAL stated that the 
+applicable Airbus SRM repair inspection thresholds have been revised 
+this year to address certain inadequacies.
+    We do not agree with DAL's requests. Paragraph (g) of this AD 
+already requires an inspection to determine whether any fuselage 
+doubler repairs have been accomplished on affected fuselage sections 
+with a skin thickness of 1.2 mm. DAL did not substantiate how the 
+corrective actions in any RDAS for category ``B'' repairs approved 
+after July 1, 2014, and the latest revision of the SRMs would 
+adequately address the unsafe condition. However, the commenter may use 
+the provisions of paragraph (n)(2) of this AD for obtaining corrective 
+actions from a manufacturer. We have not changed this AD in this 
+regard.
+
+Request To Clarify Inspection Timeframes
+
+    UAL requested clarification on how the NPRM addresses detection of 
+cracking in the timeframe between the inspection threshold specified in 
+the NPRM and Airbus Alert Operators Transmission A53N007-14, dated July 
+22, 2014, and the repetitive inspections specified in the SRM. UAL 
+stated that the compliance time has a short threshold if the repair 
+records are inconclusive, which is as early as 350 flight cycles from 
+the effective date of the AD; therefore, the initial inspection could 
+be accomplished much earlier than the crack detection period.
+    We agree to clarify the inspection timeframes. The 350-flight-cycle 
+compliance time is a second option to the compliance time specified in 
+Airbus Alert Operators Transmission A53N007-14, dated July 22, 2014. 
+The compliance time is based on a risk assessment that takes into 
+consideration the fatigue crack length propagation. We have considered 
+the compliance time established by EASA, and the overall risk to the 
+fleet, including the severity of the identified unsafe condition and 
+the likelihood of the occurrence of the unsafe condition. No change to 
+the AD is necessary in this regard.
+
+Request To Correct Non-Destructive Testing Manual (NTM) Task Numbers
+
+    DAL stated that Airbus Alert Operators Transmission A53N007-14, 
+dated July 22, 2014, references incorrect formatting of NTM task 
+numbers. DAL stated the formatting should be ``51-10-15-270-801-A01'' 
+and ``51-10-16-250-801-A01,'' and not ``51-10-15-270-801-A-01'' and 
+``51-10-16-250-801-A-01.''
+    We disagree with DAL's statement. NTM task numbers 51-10-15-270-
+801-A-01 and 51-10-16-250-801-A-01 are correctly referenced in Airbus 
+Alert Operators Transmission A53N007-14, dated July 22, 2014, and in 
+the Airbus A318/319/320/321 Non-Destructive Testing Manual. We have not 
+changed this AD in this regard.
+
+Clarification of Unsafe Condition Language
+
+    We revised the description of the precipitating event in the 
+SUMMARY and paragraph (e) of this AD to correspond to the wording used 
+in the MCAI AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD as proposed except for minor editorial changes. We have 
+determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Alert Operators Transmission A53N007-14, dated 
+July 22, 2014. The service information describes procedures for an 
+inspection to detect cracking on repaired 1.2-millimeter fuselage skin 
+areas on fuselage sections 11, 12, 13, 14, 16, and 17 at external 
+doubler repairs. This service information is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 940 airplanes of U.S. registry.
+    We also estimate that it will take about 2 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $159,800, or $170 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+[[Page 38900]]
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-12-04 Airbus: Amendment 39-18553. Docket No. FAA-2015-3635; 
+Directorate Identifier 2015-NM-037-AD.
+
+(a) Effective Date
+
+    This AD becomes effective July 20, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes specified in paragraphs 
+(c)(1) through (c)(4) of this AD, certificated in any category, all 
+manufacturer serial numbers.
+    (1) Airbus Model A318-111, -112, -121, and -122 airplanes.
+    (2) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (3) Airbus Model A320-211, -212, -214, -231, -232, and -233 
+airplanes.
+    (4) Airbus Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by an evaluation by the design approval 
+holder (DAH) indicating that certain structural repair manual (SRM) 
+inspection requirements for the fuselage skin repairs are 
+insufficient to detect cracks. We are issuing this AD to detect and 
+correct fatigue cracking of the fuselage skin, which could result in 
+reduced structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspection To Determine Repair Areas
+
+    At the applicable time specified in paragraph (g)(1) or (g)(2) 
+of this AD: Do an inspection to determine whether any fuselage 
+external skin (doubler) repairs have been accomplished on fuselage 
+sections 11, 12, 13, 14, 16, and 17 with a skin thickness of 1.2 
+millimeters. A review of airplane maintenance records is acceptable 
+in lieu of this inspection if the identification of applicable 
+repairs can be conclusively determined from that review.
+    (1) For Model A319, A320, and A321 series airplanes: Except as 
+specified in paragraphs (h)(1) and (h)(2) of this AD, at the 
+applicable time specified in paragraphs 4.1.1.b. and 4.1.1.c. of the 
+``Accomplishment Timescale'' of Airbus Alert Operators Transmission 
+(AOT) A53N007-14, dated July 22, 2014, or within 350 flight cycles 
+after the effective date of this AD, whichever occurs later.
+    (2) For Model A318 series airplanes: Except as specified in 
+paragraphs (h)(1) and (h)(2) of this AD, at the Model A319 airplane 
+time specified in paragraphs 4.1.1.b. and 4.1.1.c. of the 
+``Accomplishment Timescale'' of Airbus AOT A53N007-14, dated July 
+22, 2014, or within 350 flight cycles after the effective date of 
+this AD, whichever occurs later.
+
+(h) Exceptions to Service Information
+
+    (1) Where paragraphs 4.1.1.b. and 4.1.1.c. of the 
+``Accomplishment Timescale'' of Airbus AOT A53N007-14, dated July 
+22, 2014, specify ``FC,'' this AD specifies ``flight cycles.''
+    (2) Where paragraphs 4.1.1.b. and 4.1.1.c. of the 
+``Accomplishment Timescale'' of Airbus AOT A53N007-14, dated July 
+22, 2014, specify ``from AOT issuance,'' this AD specifies ``as of 
+the effective date of this AD.''
+
+(i) Inspection for Cracking
+
+    If, during the inspection required by paragraph (g) of this AD, 
+it is determined that any fuselage external skin (doubler) repair 
+has been accomplished on fuselage section 11, 12, 13, 14, 16, or 17: 
+At the applicable time specified paragraph (g)(1) or (g)(2) of this 
+AD, do an external ultrasonic inspection or an internal low 
+frequency eddy current (LFEC) inspection for cracking of all of the 
+repaired 1.2-millimeter (mm) fuselage skin areas, in accordance with 
+the instructions specified in paragraph 4.2.2, ``Inspection 
+Requirements,'' of Airbus AOT A53N007-14, dated July 22, 2014, 
+except as provided by paragraph (j) of this AD.
+
+(j) Optional Inspection for Cracking
+
+    As an optional method of compliance to the ultrasonic inspection 
+or LFEC inspection required by paragraph (i) of this AD: Do a high 
+frequency eddy current (HFEC) inspection for cracking in the cut-out 
+surrounding the fastener area, at and in front (approximately 10-15 
+millimeters) of the fastener row, after doubler removal and before 
+any new extended doubler installation, using a method approved by 
+the Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA; or the European Aviation Safety Agency (EASA); or 
+Airbus's EASA Design Organization Approval (DOA).
+
+(k) Optional Repetitive Inspections
+
+    In lieu of doing the inspection required by paragraph (i) of 
+this AD: Within the applicable compliance time specified in 
+paragraph 4.1.1, ``Accomplishment Timescale,'' of Airbus AOT 
+A53N007-14, dated July 22, 2014, after accomplishing the inspections 
+required by paragraph (g) of this AD, do a detailed inspection or 
+HFEC inspection and repeat the inspection thereafter within the 
+applicable compliance times specified in paragraph 4.1.1, 
+``Accomplishment Timescale,'' of Airbus AOT A53N007-14, dated July 
+22, 2014. The inspections must be done in accordance with the 
+instructions of paragraph 4.2.2, ``Inspection Requirements,'' of 
+Airbus AOT A53N007-14, dated July 22, 2014. For Model A318 series 
+airplanes, use the applicable compliance times and instructions 
+specified in Airbus AOT A53N007-14, dated July 22, 2014, that are 
+specified for Model A319 series airplanes.
+
+(l) Repair
+
+    If any crack is found during any inspection required by 
+paragraph (i), (j), or (k) of this AD: Before further flight, repair 
+the cracking, in accordance with the instructions of paragraph 
+4.2.3, ``Findings,'' of Airbus AOT A53N007-14, dated July 22, 2014, 
+except where Airbus AOT A53N007-14, dated July 22, 2014, specifies 
+to contact Airbus for a repair design approval sheet or for further 
+instructions, this AD requires repair using a method approved by the 
+Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA; or the EASA; or Airbus's EASA DOA.
+
+(m) FAA-Approved Maintenance or Inspection Program Revision
+
+    Concurrently with the accomplishment of any repair required by 
+paragraph (l) of this AD, revise the post-repair inspection 
+threshold(s) in the applicable FAA-approved maintenance program or 
+inspection program, as applicable, in accordance with the 
+instructions specified in paragraph 4.1.1, ``Accomplishment 
+Timescale,'' of Airbus AOT A53N007-14, dated July 22, 2014; except 
+for Model A318 series airplanes use the instructions specified for 
+Model A319 series airplanes.
+
+[[Page 38901]]
+
+(n) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: <a href="/cdn-cgi/l/email-protection#61584c202f2c4c5050574c202c2e224c3324303424323532210700004f060e17"><span class="__cf_email__" data-cfemail="744d59353a39594545425935393b37592631252131272027341215155a131b02">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the EASA; 
+or Airbus's EASA DOA. If approved by the DOA, the approval must 
+include the DOA-authorized signature.
+
+(o) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2015-0036R1, dated March 31, 
+2015, for related information. This MCAI may be found in the AD 
+docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching 
+for and locating Docket No. FAA-2015-3635.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Alert Operators Transmission A53N007-14, dated July 
+22, 2014.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email <a href="/cdn-cgi/l/email-protection#d9b8babab6acb7adf7b8b0abaeb6abadb1f4bcb8aa99b8b0abbbacaaf7bab6b4"><span class="__cf_email__" data-cfemail="a7c6c4c4c8d2c9d389c6ced5d0c8d5d3cf8ac2c6d4e7c6ced5c5d2d489c4c8ca">[email&#160;protected]</span></a>; Internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on May 31, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-13741 Filed 6-14-16; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

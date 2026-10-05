@@ -1,0 +1,429 @@
+<html>
+<head>
+<title>Federal Register, Volume 70 Issue 42 (Friday, March 4, 2005)</title>
+</head>
+<body><pre>
+[Federal Register Volume 70, Number 42 (Friday, March 4, 2005)]
+[Rules and Regulations]
+[Pages 10485-10488]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 05-4246]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2005-20431; Directorate Identifier 2005-NM-040-AD; 
+Amendment 39-13995; AD 2005-04-51]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747-100B SUD, -200B, -
+200C, -200F, and -300 Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document publishes in the Federal Register an amendment 
+adopting airworthiness directive (AD) 2005-04-51 that was sent 
+previously to all known U.S. owners and operators of certain Boeing 
+Model 747-100B SUD, -200B, -200C, -200F, and -300 series airplanes by 
+individual notices. This AD requires repetitive external detailed 
+inspections for cracked skin or loose or missing fasteners of the body 
+skin between body stations (BS) 420 and 460 inclusive and between 
+stringers S-8 and S-12 inclusive on the left and right sides of the 
+airplane, and a high frequency eddy current inspection for cracked 
+frames if necessary. This AD also requires repair of any cracked frame 
+or skin, and replacement of any loose or missing fastener. This AD is 
+prompted by reports of large cracks common to fuselage frames in the 
+upper deck area and severed or nearly severed adjacent frames. We are 
+issuing this AD to detect and correct fatigue cracks in the frames and 
+body skin at BS 420, 440, and 460 between stringers S-8 and S-12 
+inclusive, which could lead to severed frames, and consequent rapid 
+decompression and loss of the structural integrity of the airplane.
+
+DATES: Effective March 9, 2005 to all persons except those persons to 
+whom it was made immediately effective by emergency AD 2005-04-51, 
+issued February 17, 2005, which contained the requirements of this 
+amendment.
+    The incorporation by reference of a certain publication listed in 
+the AD is approved by the Director of the Federal Register as of March 
+9, 2005.
+    We must receive comments on this AD by May 3, 2005.
+
+ADDRESSES: Use one of the following addresses to submit comments on 
+this AD.
+    <bullet> DOT Docket Web site: Go to <a href="http://dms.dot.gov">http://dms.dot.gov</a> and follow 
+the instructions for sending your comments electronically.
+    <bullet> Government-wide Rulemaking Web site: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a> and follow the instructions for sending your 
+comments electronically.
+    <bullet> Mail: Docket Management Facility; U.S. Department of 
+Transportation, 400 Seventh Street SW., Nassif Building, room PL-401, 
+Washington, DC 20590.
+    <bullet> Fax: (202) 493-2251.
+    <bullet> Hand Delivery: Room PL-401 on the plaza level of the 
+Nassif Building, 400 Seventh Street SW., Washington, DC, between 9 a.m. 
+and 5 p.m., Monday through Friday, except Federal holidays.
+    For service information identified in this AD, contact Boeing 
+Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-2207.
+    Docket: The AD docket contains the emergency AD, comments, and any 
+final disposition. You can examine the AD docket on the Internet at 
+<a href="http://dms.dot.gov">http://dms.dot.gov</a>, or in person at the Docket Management Facility 
+office between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The Docket Management Facility office (telephone (800) 647-
+5227) is located on the plaza level of the Nassif Building at the U.S. 
+Department of Transportation, 400 Seventh Street SW., room PL-401, 
+Washington, DC. This docket number is FAA-2005-20431; the directorate 
+identifier for this docket is 2005-NM-040-AD.
+
+FOR FURTHER INFORMATION CONTACT: Ivan Li, Aerospace Engineer, Airframe 
+Branch, ANM-120S, FAA, Seattle
+
+[[Page 10486]]
+
+Aircraft Certification Office, 1601 Lind Avenue, SW., Renton, 
+Washington 98055-4056; telephone (425) 917-6437; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: On February 17, 2005, we issued emergency AD 
+2005-04-51, which applies to certain Boeing Model 747-100B SUD, -200B, 
+-200C, -200F, and -300 series airplanes.
+
+Background
+
+    On May 7, 1991, we issued AD 91-11-01, amendment 39-6997 (56 FR 
+22306, May 15, 1991), for certain Boeing Model 747 series airplanes. 
+That AD requires repetitive inspections for cracks of the frame 
+structure and skin in the fuselage section 41, and repair if necessary. 
+That AD also provides for an optional terminating action for the 
+repetitive inspections. That AD was prompted by recommendations of the 
+FAA-sponsored Boeing Model 747 Structures Working Group. We issued that 
+AD to prevent sudden decompression of the fuselage.
+    Since the issuance of AD 91-11-01, we have received several reports 
+of large fatigue cracks common to fuselage frames in the upper deck 
+area on Boeing Model 747-200C, -200F, and -300 series airplanes. Most 
+of these airplanes had been inspected in accordance with AD 91-11-01. 
+Many fatigue cracks occurred near stringers S-10 and S-10A, but other 
+cracks were also reported. The cracking is due to cyclic pressurization 
+of the airplanes.
+    We also have received two recent reports of severed or nearly 
+severed adjacent frames at body station (BS) 420 and BS 440 near 
+stringer S-10A on Boeing Model 747-300 series airplanes. Both airplanes 
+had been inspected in accordance with AD 91-11-01. In both reports, 
+missing fasteners common to the skin at frame shear tie flanges were 
+detected in the vicinity of cracks. In one case, eight fasteners were 
+missing from the body skin at the severed frame at BS 440. One airplane 
+had accumulated 11,641 total flight cycles; the other airplane had 
+accumulated 11,880 total flight cycles.
+    In light of these reports, we have determined that, for certain 
+Boeing Model 747-100B SUD, -200C, -200F, and -300 series airplanes; and 
+certain Boeing Model 747-200B series airplanes retrofitted with a 
+stretched upper deck (SUD); the inspections required by AD 91-11-01 do 
+not adequately detect fatigue cracks at BS 420, 440, and 460 between 
+stringers S-8 and S-12 inclusive. Such fatigue cracking, if not 
+detected and corrected in a timely manner, could lead to severed 
+frames, and consequent rapid decompression and loss of the structural 
+integrity of the airplane.
+
+Other Relevant Rulemaking
+
+    On January 16, 1990, we issued AD 90-06-06, amendment 39-6490 (55 
+FR 8374, March 7, 1990), for certain Boeing Model 747 series airplanes. 
+That AD requires incorporation of certain structural modifications. We 
+issued that AD to prevent degradation in the structural capabilities of 
+the affected airplanes. One of the required modifications incorporates 
+a modification (reference Boeing Service Bulletin 747-53-2272, Revision 
+12, dated December 22, 1988) that ends the repetitive inspections of 
+the frames in Zone 2 required by this AD.
+
+Relevant Service Information
+
+    We have reviewed Boeing Alert Service Bulletin 747-53A2265, 
+Revision 9, dated February 17, 2005. Among other actions, the service 
+bulletin describes procedures for repetitive surface high frequency 
+eddy current (HFEC) inspections for cracks in the frames at BS 420, 
+440, and 460 between stringers S-8 and S-12 inclusive on the left and 
+right sides of the airplane.
+
+FAA's Determination and Requirements of This AD
+
+    We evaluated all pertinent information and identified an unsafe 
+condition that is likely to exist or develop on other Boeing Model 747-
+100B SUD, -200C, -200F, and -300 series airplanes; and Boeing Model 
+747-200B series airplanes retrofitted with a SUD of this same type 
+design. Therefore, we issued emergency AD 2005-04-51 to detect and 
+correct fatigue cracks in the frames and body skin at BS 420, 440, and 
+460 between stringers S-8 and S-12 inclusive, which could lead to 
+severed frames, and consequent rapid decompression and loss of the 
+structural integrity of the airplane. The AD requires repetitive 
+external detailed inspections for cracked skin or loose or missing 
+fasteners of the body skin between BS 420 and 460 inclusive and between 
+stringers S-8 and S-12 inclusive on the left and right sides of the 
+airplane. If any cracked skin or loose or missing fastener is detected, 
+the AD also requires a surface HFEC inspection for cracks in the frames 
+at BS 420, 440, and 460 between stringers S-8 and S-12 on the left and 
+right sides of the airplane; repair of any cracked frame or skin; and 
+replacement of any loose of missing fastener with a new fastener; as 
+applicable. Accomplishing the HFEC inspection ends the repetitive 
+external detailed inspections. The HFEC inspections must be done in 
+accordance with the service information described previously.
+    We found that immediate corrective action was required; therefore, 
+notice and opportunity for prior public comment thereon were 
+impracticable and contrary to the public interest, and good cause 
+existed to make the AD effective immediately by individual notices 
+issued on February 17, 2005, to all known U.S. owners and operators of 
+certain Boeing Model 747-100B SUD, -200B, -200C, -200F, and -300 series 
+airplanes. These conditions still exist, and the AD is hereby published 
+in the Federal Register as an amendment to section 39.13 of the Federal 
+Aviation Regulations (14 CFR 39.13) to make it effective to all 
+persons.
+
+Interim Action
+
+    We consider this AD interim action. We are currently considering 
+superseding this emergency AD and AD 91-11-01 to, among other actions, 
+reduce the initial threshold of the inspections required by AD 91-11-01 
+for certain airplanes and to add other actions specified in Boeing 
+Alert Service Bulletin 747-53A2265, Revision 9, dated February 17, 
+2005.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements that affect 
+flight safety and was not preceded by notice and an opportunity for 
+public comment; however, we invite you to submit any relevant written 
+data, views, or arguments regarding this AD. Send your comments to an 
+address listed under ADDRESSES. Include ``Docket No. FAA-2005-20431; 
+Directorate Identifier 2005-NM-040-AD'' at the beginning of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of the AD. We will consider 
+all comments received by the closing date and may amend the AD in light 
+of those comments.
+    We will post all comments we receive, without change, to <a href="http://dms.dot.gov">http://dms.dot.gov</a>, including any personal information you provide. We will 
+also post a report summarizing each substantive verbal contact with FAA 
+personnel concerning this AD. Using the search function of our docket 
+Web site, anyone can find and read the comments in any of our dockets, 
+including the name of the individual who sent the comment (or signed 
+the comment on behalf of an association, business, labor union, etc.). 
+You can review the DOT's complete Privacy Act Statement in the Federal 
+Register published on April 11, 2000 (65 FR 19477-78), or you can visit 
+<a href="http://dms.dot.gov">http://dms.dot.gov</a>.
+
+[[Page 10487]]
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    The FAA has determined that this regulation is an emergency 
+regulation that must be issued immediately to correct an unsafe 
+condition in aircraft, and that it is not a ``significant regulatory 
+action'' under Executive Order 12866. It has been determined further 
+that this action involves an emergency regulation under DOT Regulatory 
+Policies and Procedures (44 FR 11034, February 26, 1979). If this 
+emergency regulation is later deemed significant under DOT Regulatory 
+Policies and Procedures, we will prepare a final regulatory evaluation 
+and place it in the AD Docket. See the ADDRESSES section for a location 
+to examine the regulatory evaluation, if filed.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2005-04-51 Boeing: Amendment 39-13995. Docket No. FAA-2005-20431; 
+Directorate Identifier 2005-NM-040-AD.
+
+Effective Date
+
+    (a) This AD becomes effective March 9, 2005, to all persons 
+except those persons to whom it was made immediately effective by 
+emergency AD 2005-04-51, issued on February 17, 2005, which 
+contained the requirements of this amendment.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to Boeing Model 747-100B SUD, -200C, -200F, 
+and -300 series airplanes, line numbers 1 through 685 inclusive; and 
+Boeing Model 747-200B series airplanes, line numbers 271, 276, 336, 
+344, 369, 389, 397, 474, 491, 518, 521, and 539; certificated in any 
+category.
+
+Unsafe Condition
+
+    (d) This AD was prompted by reports of large cracks common to 
+fuselage frames in the upper deck area and severed or nearly severed 
+adjacent frames. We are issuing this AD to detect and correct 
+fatigue cracks in the frames and body skin at body stations (BS) 
+420, 440, and 460 between stringers S-8 and S-12 inclusive, which 
+could lead to severed frames, and consequent rapid decompression and 
+loss of the structural integrity of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Repetitive External Detailed Inspections
+
+    (f) Before the accumulation of 8,000 total flight cycles, or 
+within 10 flight cycles after the effective date of this AD, 
+whichever occurs later, do an external detailed inspection for 
+cracked skin or loose or missing fasteners of the body skin between 
+BS 420 and 460 inclusive and between stringers S-8 and S-12 
+inclusive on the left and right sides of the airplane. Repeat the 
+external detailed inspection thereafter at intervals not to exceed 
+25 flight cycles.
+
+    Note 1: For the purposes of this AD, a detailed inspection is: 
+``An intensive examination of a specific item, installation, or 
+assembly to detect damage, failure, or irregularity. Available 
+lighting is normally supplemented with a direct source of good 
+lighting at an intensity deemed appropriate. Inspection aids such as 
+mirror, magnifying lenses, etc., may be necessary. Surface cleaning 
+and elaborate procedures may be required.''
+
+Corrective Actions
+
+    (g) If any cracked skin or loose or missing fastener is detected 
+during any external detailed inspection required by paragraph (f) of 
+this AD, before further flight, do a surface high frequency eddy 
+current (HFEC) inspection for cracks in the frames at BS 420, 440, 
+and 460 between stringers S-8 and S-12 on the left and right sides 
+of the airplane, in accordance with paragraph 2. and Notes 2 and 3 
+of Figure 17 of the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 747-53A2265, Revision 9, dated February 17, 2005, 
+except as provided by Note 1 of Figure 17 of the service bulletin. 
+Accomplishing the surface HFEC inspection ends the repetitive 
+inspections required by paragraph (f) of this AD.
+    (1) If no cracked frame is found, before further flight, repair 
+the cracked skin and replace the loose or missing fasteners with new 
+fasteners, as applicable, in accordance with a method approved by 
+the Manager, Seattle Aircraft Certification Office (ACO), FAA; or in 
+accordance with data meeting the certification basis of the airplane 
+approved by an Authorized Representative (AR) for the Boeing 
+Delegation Option Authorization (DOA) Organization who has been 
+authorized by the Manager, Seattle ACO, to make those findings. For 
+a repair method to be approved, the repair must meet the 
+certification basis of the airplane, and the approval must 
+specifically reference this AD.
+    (2) If any cracked frame is found, before further flight, repair 
+the cracked frame and skin and replace the loose or missing 
+fasteners with new fasteners, as applicable, in accordance with a 
+method approved by the Manager, Seattle ACO, FAA; or in accordance 
+with data meeting the certification basis of the airplane approved 
+by an AR for the Boeing DOA Organization who has been authorized by 
+the Manager, Seattle ACO, to make those findings. For a repair 
+method to be approved, the repair must meet the certification basis 
+of the airplane, and the approval must specifically reference this 
+AD.
+
+Terminating Action
+
+    (h) Modification in Zone 2 in accordance with Boeing Service 
+Bulletin 747-53-2272, dated January 12, 1987, through Revision 18, 
+dated May 16, 2002, constitutes terminating action for the 
+requirements of this AD.
+
+    Note 2: Paragraph H. of AD 91-11-01, amendment 39-6997 refers to 
+Boeing Service Bulletin 747-53-2272, dated January 12, 1987, as the 
+appropriate source of service information for accomplishing the 
+optional terminating action in that AD. AD 90-06-06, amendment 39-
+6490, refers to Boeing Service Bulletin 747-53-2272, Revision 12, 
+dated December 22, 1988; or earlier revisions; as an appropriate 
+source of service information for accomplishing the mandatory 
+terminating action in that AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (i)(1) The Manager, Seattle ACO, FAA, has the authority to 
+approve AMOCs for this AD,
+
+[[Page 10488]]
+
+if requested in accordance with the procedures found in 14 CFR 
+39.19.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD, if it is approved by an AR 
+for the Boeing DOA Organization who has been authorized by the 
+Manager, Seattle ACO, to make those findings. For a repair method to 
+be approved, the repair must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+Material Incorporated by Reference
+
+    (j) You must use Boeing Alert Service Bulletin 747-53A2265, 
+Revision 9, dated February 17, 2005, to perform the high frequency 
+eddy current inspections that are required by this AD. The Director 
+of the Federal Register approves the incorporation by reference of 
+this document in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. 
+For copies of the service information, contact Boeing Commercial 
+Airplanes, P.O. Box 3707, Seattle, Washington 98124-2207. You can 
+review copies at the Docket Management Facility, U.S. Department of 
+Transportation, 400 Seventh Street SW., room PL-401, Nassif 
+Building, Washington, DC; or at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call (202) 741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on February 25, 2005.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 05-4246 Filed 3-3-05; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

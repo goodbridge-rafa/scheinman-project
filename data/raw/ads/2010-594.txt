@@ -1,0 +1,1683 @@
+<html>
+<head>
+<title>Federal Register, Volume 75 Issue 12 (Wednesday, January 20, 2010)</title>
+</head>
+<body><pre>
+[Federal Register Volume 75, Number 12 (Wednesday, January 20, 2010)]
+[Rules and Regulations]
+[Pages 3127-3141]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2010-594]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2007-27862; Directorate Identifier 2007-CE-036-AD; 
+Amendment 39-16150; AD 2009-26-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Thrush Aircraft, Inc. Model 600 S2D and 
+S2R Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) to 
+supersede AD (AD) 2006-07-15, which applies to Thrush Aircraft, Inc. 
+Model 600 S2D and S2R (S-2R) series airplanes (type certificate 
+previously held by Quality Aerospace, Inc. and Ayres Corporation). AD 
+2006-07-15 currently requires repetitive inspections of the 1/4-inch 
+and 5/16-inch bolt hole areas on the wing front lower spar caps for 
+fatigue cracking; replacement or repair of any wing front lower spar 
+cap where fatigue cracks are found; and reporting of any fatigue cracks 
+found to the FAA. AD 2006-07-15 also puts the affected airplanes into 
+groups for compliance time and applicability purposes. Since we issued 
+AD 2006-07-15, FAA analysis reveals that inspections are not detecting 
+all existing cracks and shows the incidences of undetected cracks will 
+increase as the airplanes age. Consequently, this AD retains the 
+actions of AD 2006-07-15 and imposes a life limit on the wing front 
+lower spar caps that requires replacement of the wing front lower spar 
+caps when the life limit is reached. This AD also changes the 
+requirements and applicability of the groups discussed above and 
+removes the ultrasonic inspection method. We are issuing this AD to 
+prevent wing front lower spar cap failure caused by undetected fatigue 
+cracks. Such failure could result in loss of a wing in flight.
+
+DATES: This AD becomes effective on February 24, 2010.
+    On February 24, 2010, the Director of the Federal Register approved 
+the incorporation by reference of Thrush Aircraft, Inc. Custom Kit No. 
+CK-AG-41, Revision A, dated March 8, 2007, listed in this AD.
+    As of May 20, 2003 (68 FR 15653), the Director of the Federal 
+Register approved the incorporation by reference of Quality Aerospace, 
+Inc. Custom Kit No. CK-AG-30, dated December 6, 2001, listed in this 
+AD.
+    As of July 25, 2000 (65 FR 36055), the Director of the Federal 
+Register approved the incorporation by reference of Ayres Corporation 
+Service Bulletin No. SB-AG-39, dated September 17, 1996; and Ayres 
+Corporation Custom Kit No. CK-AG-29, dated December 23, 1997, listed in 
+this AD.
+
+ADDRESSES: To get the service information identified in this AD, 
+contact Thrush Aircraft, Inc., 300 Old Pretoria Road, P.O. Box 3149, 
+Albany, Georgia 31706-3149. The service
+
+[[Page 3128]]
+
+information is also available on the Internet at <a href="http://www.thrushaircraft.com">http://www.thrushaircraft.com</a>.
+    To view the AD docket, go to U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue, SE., Washington, DC 20590, or on the Internet at 
+<a href="http://www.regulations.gov">http://www.regulations.gov</a>. The docket number is FAA-2007-27862; 
+Directorate Identifier 2007-CE-036-AD.
+
+FOR FURTHER INFORMATION CONTACT:
+--Cindy Lorenzen, Aerospace Engineer, ACE-115A, Atlanta Aircraft 
+Certification Office, 1701 Columbia Avenue, College Park, Georgia 
+30337; telephone: (404) 474-5524; facsimile: (404) 474-5606; e-mail: 
+<a href="/cdn-cgi/l/email-protection#dab9b3b4bea3f4b6b5a8bfb4a0bfb49abcbbbbf4bdb5ac"><span class="__cf_email__" data-cfemail="3e5d57505a471052514c5b50445b507e585f5f10595148">[email&#160;protected]</span></a>; or
+--William O. Herderich, Aerospace Engineer, ACE-117A, Atlanta Aircraft 
+Certification Office, 1701 Columbia Avenue, College Park, Georgia 
+30337; telephone: (404) 474-5547; facsimile: (404) 474-5606; e-mail: 
+<a href="/cdn-cgi/l/email-protection#17607e7b7b7e767a3978397f72657372657e747f5771767639707861"><span class="__cf_email__" data-cfemail="b4c3ddd8d8ddd5d99adb9adcd1c6d0d1c6ddd7dcf4d2d5d59ad3dbc2">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    On April 27, 2009, we issued a proposal to amend part 39 of the 
+Federal Aviation Regulations (14 CFR part 39) to include an AD that 
+would apply to certain Thrush Aircraft, Inc. Model 600 S2D and S2R (S-
+2R) series airplanes (type certificate previously held by Quality 
+Aerospace, Inc. and Ayres Corporation). This proposal was published in 
+the Federal Register as a notice of proposed rulemaking (NPRM) on May 
+4, 2009 (74 FR 20431). The NPRM proposed to supersede AD 2006-07-15, 
+Amendment 39-14542 (71 FR 19788, April 17, 2006) with a new AD that 
+would:
+    <bullet> Retain the actions of AD 2006-07-15;
+    <bullet> Add life limits for the wing front lower spar caps;
+    <bullet> Lower the initial and repetitive inspection times for 
+Group 5 airplanes;
+    <bullet> Correct some airplane Group classifications;
+    <bullet> Add an airplane to the Applicability section; and
+    <bullet> Remove the use of ultrasonic inspection methods.
+    For replacement of the wing front lower spar caps, the initial 
+compliance time for all airplanes will be at least an additional 500 
+hours time-in-service (TIS) after the effective date of this AD. 
+Calculated from actual flight hour data from 285 S2R series airplanes, 
+500 hours TIS equates to the average yearly operational time. The 
+compliance schedules should give owner/operators enough time to 
+schedule the replacement of the wing front lower spar caps.
+    Although not required in this AD, we recommend installing ``big 
+butterfly'' and lower splice plates, P/N 20211-09 and P/N 20211-11, or 
+Thrush Aircraft, Inc. Custom Kit No. CK-AG-41, Revision A, since they 
+increase the strength of the wing beyond the minimum safety standards.
+
+Comments
+
+    We provided the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+and FAA's response to each comment:
+
+Comment Issue No. 1: Extend Compliance Time To Replace the Spar Caps
+
+    Marc Fries states that a large portion of the affected airplanes 
+will need to address a spar replacement within a very short period of 
+time, overwhelming a limited number of repair facilities. Mr. Fries 
+also states that most operators have a short ``down time'' during their 
+season in which to do this type of repair, and many operators will run 
+out of flying hours before a repair facility can do the work or even 
+get the kits from the factory.
+    Mr. Fries requests an extension of the compliance time because 
+there are a limited number of repair facilities, and the replacement 
+parts may not be available immediately. Mr. Fries also requests to 
+insert into the AD an allowance for an extension of the compliance time 
+while continuing the spar cap inspections.
+    We do not agree with the commenter. As stated in the NPRM, 
+allowance for the compliance time based on the limited number of repair 
+facilities and the limited availability of replacement parts has 
+already been made. For airplanes that have already exceeded the life 
+limit replacement time for the wing front lower spar caps, the minimum 
+compliance time for those with the highest hours TIS, which are the 
+airplanes with the highest risk of spar cap failure, is 500 hours TIS. 
+Five hundred hours TIS equates to an average year of operation for 
+these airplanes. Airplanes that have exceeded the life limit 
+replacement time, but are not at the highest level of risk, will be 
+allowed an even longer compliance time of 1,000 hours TIS, 1,500 hours 
+TIS, or 2,000 hours TIS based on the current number of hours TIS on the 
+wing front lower spar caps. Airplanes that have not yet reached the 
+life limit replacement time are allowed a minimum of 2,000 hours TIS to 
+comply with the AD. These compliance times result in an average 
+operator having at least one year to comply with the AD; however, most 
+operators will have much longer than one year to replace the wing front 
+lower spar caps. These graduated compliance times should allow enough 
+time for adequate supply of parts and repair facility availability.
+    We are not changing the final rule AD action based on this comment.
+
+Comment Issue No. 2: Withdraw the AD
+
+    Charles Brumley states that the pilot should be allowed to make his 
+own decision whether a new spar cap is needed and requests an 
+alternative to this AD.
+    Mr. Brumley further states that he believes the AD is unnecessary 
+for the following reasons:
+    <bullet> If the pilot is involved in the maintenance of the 
+airplane, then the pilot can make an informed decision about whether or 
+not to install a new spar cap and whether or not the aircraft is in a 
+condition for safe operation;
+    <bullet> The AD will cause undue economic hardship on the airplane 
+operators and the farms that use aerial application services;
+    <bullet> There have only been a few cracks found, i.e., that there 
+is not enough service history to support issuance of an AD; and
+    <bullet> The large butterfly plates are adequate to ensure safety 
+of the pilot until a spar cap crack is found.
+    We infer this as a request for the FAA to withdraw the AD.
+    We do not agree with the commenter. While the commenter may have 
+maintained his airplane adequately, the formation of fatigue cracks 
+mainly relates to the airplane's design and operation. Replacement of 
+the wing front lower spar caps when they have reached their life limits 
+is currently the only means known to the FAA to address the unsafe 
+condition.
+    We have extensive crack data that currently shows 176 wings on 123 
+airplanes had cracks in the wing front lower spar caps. As the 
+incidences of cracking increase, which has occurred in the Thrush 
+airplanes, the chance of an existing crack not being detected during an 
+inspection increases. Airplanes with cracks in the wing front lower 
+spar caps are unable to meet ultimate strength requirements, which 
+could lead to a wing failure. The only known way of mitigating this 
+risk is to replace the wing front lower spar caps.
+    There are already procedures in place for owner/operators to 
+request an alternative to any AD. Use the alternative method of 
+compliance (AMOC) procedures provided in this AD
+
+[[Page 3129]]
+
+to request an AMOC. The request for an AMOC must include any 
+substantiating information, such as stress and fatigue data. The AMOC 
+will be approved if we find it provides an acceptable level of safety.
+    We are not changing the final rule AD action based on this comment.
+
+Comment Issue No. 3: Adjusted Life Limits Based on Environmental 
+Conditions
+
+    Avenger Aircraft and Services (Avenger) states the life limits for 
+the wing front lower spar caps should be adjusted if environmental 
+conditions were not taken into account when determining the life 
+limits. The commenter states that metal fatigue is influenced by 
+environmental conditions.
+    We do not agree with the commenter's request to adjust the life 
+limits. We did take environmental conditions into consideration during 
+our analysis for determining the life limits. The risk-based analysis 
+used by the FAA used actual reported crack data from in-service 
+airplanes. These in-service data came from airplanes operated in a 
+variety of environments; therefore, the raw data used in the FAA's 
+analysis include the effects caused by environmental conditions.
+    We are not changing the final rule AD action based on this comment.
+
+Comment Issue No. 4: Adjust Life Limits Based on Crack Sizes
+
+    Avenger states that the life limit of the wing front lower spar cap 
+could be much shorter if crack sizes are taken into account during the 
+risk assessment. Avenger also states that this can be particularly 
+significant when some fleet crack sizes may have exceeded the critical 
+size without failing due to the airplane not exceeding limit load at 
+that particular time.
+    We do not agree with the commenter's request. Although we did not 
+include the crack size in our analysis, we did use a statistical 
+approach and took into account the TIS on the wing front lower spar cap 
+when the crack was found and reported to the FAA. There are other 
+factors in place in the AD to mitigate the risk associated with not 
+using crack size to determine the life limit of the wing front lower 
+spar caps. We determined a life limit for continued operational safety 
+of the S2R fleet and did not propose a life limit as defined in FAA 
+guidance for type certification of newly certificated airplanes. Our 
+analysis of the crack data, which includes allowances for both the 
+statistically significant amount of crack data on the Thrush fleet and 
+the existence of an inspection program for the wing front lower spar 
+caps, yielded the life limits times for the wing front lower spar caps 
+shown in the NPRM.
+    We are not changing the final rule AD action based on this comment.
+
+Comment Issue No. 5: Remove Magnetic Particle Inspection Method
+
+    Avenger states that the flaw size that can be detected by the 
+magnetic particle inspection method is 0.69 inches, which is in excess 
+of the flaw size that would allow the wing front lower spar cap to 
+continue to carry limit load.
+    Avenger states, therefore, magnetic particle inspections should not 
+be utilized as a valid inspection method and should be removed from the 
+AD.
+    We do not agree with the commenter. The magnetic particle 
+inspection interval was originally set at 500 hours TIS by AD 2000-11-
+16 and was based on crack growth analysis provided by Ayres Corporation 
+(Ayres). We accepted Ayres' proposed usage of U.S. Air Force data from 
+Report AFWAL 3-5-852, which showed a reliably detectable crack size (90 
+percent probability/95 percent confidence) of 0.12 inch when using 
+magnetic particle inspection methods. Using this detectable crack size 
+with a repetitive inspection of 500 hours TIS allowed for at least two 
+inspections to occur after crack initiation and prior to a crack 
+reaching its critical size. As the fleet aged and as more cracks 
+occurred in-service, the risk to the fleet increased. To help mitigate 
+this risk, we doubled the frequency of the inspections required in AD 
+2006-07-15. In this AD we are requiring inspections every 250 hours 
+TIS, which allows for four chances of detecting a crack based on the 
+data originally used by Ayres. This same 250-hour TIS inspection 
+interval, along with imposing a wing front lower spar cap life limit to 
+further mitigate risk, was included in the proposed AD. The detectable 
+crack size of 0.12 inch used by Ayres is very near the values of 
+detectable size currently suggested for use by the FAA (Ref. Website 
+sponsored by the FAA in conjunction with Iowa State University <a href="http://www.cnde.iastate.edu/faa-casr/engineers/index.html">http://www.cnde.iastate.edu/faa-casr/engineers/index.html</a>) of 0.13 to 0.15 
+inch. With the added conservatism of four inspections to detect cracks 
+before reaching a critical crack size, when two inspections are what is 
+normally required in a more ideal environment, the inspection interval 
+in this AD is well within the current guidelines.
+    We are not changing the final rule AD action based on this comment.
+
+Comment Issue No. 6: Require Calibration Standards and Level 2 NDT 
+Personnel To Perform Eddy Current Inspections
+
+    Avenger states that calibration standards and Level 2 Non-
+destructive Testing (NDT) personnel are necessary to achieve 
+reliability and repeatability in the inspections. These calibration 
+standards are designed to replicate the structure being inspected with 
+simulated flaws and are used every time as a setup tool by the 
+inspector prior to conducting the on-aircraft inspection. Utilization 
+of these standards is the current practice by all major aircraft 
+manufacturers and should be required for the Thrush inspections in 
+order to ensure a 90 percent probability of detection. In addition, the 
+inspectors should be fully certified Level 2 NDT personnel with bolt 
+hole eddy current qualifications.
+    We do not agree with the commenter's request that a change is 
+needed to the AD. This AD and the ADs that this AD supersedes allow for 
+eddy current inspection procedures to be approved only through the 
+FAA's Aircraft Certification Office (ACO). The FAA ACO already requires 
+each procedure to have the correct type of calibration standard as this 
+is a basic requirement for ensuring a good inspection. The FAA ACO has 
+not and will not approve an eddy current inspection procedure that does 
+not include a requirement to use only Level 2, or even more qualified 
+Level 3, certified NDT inspectors for these eddy current inspections.
+    We are not changing the final rule AD action based on this comment.
+
+Comment Issue No. 7: Allow Installing Supplemental Type Certificate 
+(STC) SA03654AT as a Terminating Action in This AD
+
+    Avenger states that a solution that was not available at the time 
+the proposed AD was written is now currently on the market. Avenger 
+requests that the following information be included in the AD. This 
+solution is the Avenger STC SA03654AT Avenger Extended Performance 
+Front Spar Enhancement Kit.
+    STC SA03654AT installs FAA-approved replacement wing front lower 
+spar caps for all airplanes that are the subject of this AD, except for 
+Model S2D airplanes. The replacement spars have a life limit of 40,000 
+hours TIS with a parts cost of $40,000 and an installation cost of 
+$25,500.
+    Avenger's FAA STC replacement kit includes the following:
+    <bullet> 2 lower wing front lower spar caps (made from stainless 
+steel, not 4000 series steel);
+
+[[Page 3130]]
+
+    <bullet> 2 front spar web doublers;
+    <bullet> 1 large butterfly plate (redesigned);
+    <bullet> 2 larger splice blocks (redesigned); and
+    <bullet> All associated hardware for installation.
+    Avenger requests that the AD be amended to include the installation 
+of the Avenger Extended Performance (AXP) kit as a terminating action 
+to this AD.
+    We agree with the commenter. The replacement wing front lower spar 
+caps and other modification parts that are approved by STC SA03654AT, 
+Installation of Avenger Extended Performance Front Spar Enhancement Kit 
+(new wing front spar lower caps, center splice and doublers), in 
+accordance with Part II of Avenger Master Data List AAS-MDL-08-001, 
+Revision B, dated November 26, 2008, or later FAA-approved revision, 
+are a viable terminating action to this AD. The installation of STC 
+SA03654AT is an alternative to replacing the wing front lower spar caps 
+with Ayres/Thrush wing front lower spar caps.
+    We will change the final rule AD action to allow installing STC 
+SA03654AT as a terminating action for this AD.
+
+Comment Issue No. 8: Require Reaming Bolt Hole Before Cold Working
+
+    Avenger states it is their opinion that the cold working process 
+accomplished as part of the Ayres Corporation Service Bulletin No. SB-
+AG-39, dated September 17, 1996, is not being conducted correctly, and 
+fatigue damage is being introduced and made more critical than if cold 
+working was not accomplished at all. In order to utilize mandrel 
+expansion in a safe manner, the hole in question must first be reamed 
+to remove any corrosion or existing cracks that are too small to be 
+detected. This ``insurance cut'' is required to remove any anomaly in 
+the hole that may cause an issue during the cold working process.
+    Avenger requests the AD be amended to explicitly state that prior 
+to mandrel expansion, an insurance ream, capable of cleaning up a .03 
+inch undetected crack followed by a bolt hole eddy current inspection 
+using a calibration standard, be accomplished prior to the mandrel 
+expansion process.
+    We do not agree with the commenter. The AD already requires using 
+the cold working procedure found in Ayres Service Bulletin SB-AG-39, 
+dated September 17, 1996. Steps 7 and 8 in the Rework section of this 
+service bulletin require the bolt holes to be reamed before cold 
+working of the holes. These procedures must be accomplished in order to 
+be in compliance with this AD.
+    We are not changing the final rule AD based on this comment.
+
+Comment Issue No. 9: Require Installing Big Butterfly Plates
+
+    Michael Morris and Mr. Brumley state that instead of mandating the 
+replacement of the wing lower spar caps, they would like the FAA to 
+require installing big butterfly plates. In addition to installing the 
+big butterfly plates, Mr. Morris also requests to keep the current 
+inspection intervals for magnetic particle and eddy current 
+inspections, and add a visual inspection every 100 hours TIS.
+    Mr. Morris states that he believes replacing the spar cap is 
+unnecessary for the following reasons:
+    <bullet> The inspection program will continue to work;
+    <bullet> The economic impact is too great; and
+    <bullet> Some operators do not fly as aggressively as others and 
+should not be penalized for the actions of the other pilots.
+    We do not agree with the commenters. The ``big butterfly'' plate 
+does not have enough strength to carry all of the possible flight loads 
+in the event the wing spar cap is severed. This plate cannot be solely 
+relied upon to ensure the safety of the airplane.
+    Even if the spar cap is not completely severed but has a crack that 
+is large enough to see when performing the commenter's proposed 100-
+hour TIS visual inspection, the remaining strength in the wing spar 
+joint is not enough to carry all of the possible flight loads. As 
+explained in the proposed AD, inspection reliability for any type of 
+inspection method is not 100 percent; therefore, over time the 
+probability of an inspection failing to detect a crack increases and 
+something more needs to be done to ensure the safety of the airplanes.
+    As shown in the Initial Regulatory Flexibility Analysis section of 
+the proposed AD, the economic impact was extensively studied. While we 
+agree the AD will have a significant economic impact on small 
+businesses, the only known way to ensure the safety of the airplane is 
+to replace the wing front lower spar caps.
+    We also agree that there are many variables affecting the life 
+limit of the wing front lower spar caps, including the operating 
+weights and operating G loads. Higher weights and higher G loads reduce 
+the life limit of the wing front lower spar caps. The only way to 
+consider giving credit to those who operate at lower weights and lower 
+G loads would be if each individual airplane had recorded data for 
+every flight since the wings were installed showing the weights and G 
+loads. Each individual airplane owner would then need to have fatigue 
+analysis and tests done by a qualified engineer to determine the life 
+limit for that particular set of wings based on that recorded data. The 
+expense of conducting this type of study for each airplane may be 
+higher than the cost of replacement wing front lower spar caps; 
+therefore, it may not be an economically viable alternative.
+    We are not changing the final rule AD action based on this comment.
+
+Conclusion
+
+    We have carefully reviewed the available data and determined that 
+air safety and the public interest require adopting the AD as proposed 
+except for the changes previously discussed and minor editorial 
+corrections. We have determined that these minor corrections:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Costs of Compliance
+
+    We estimate that this AD will affect 808 airplanes in the U.S. 
+registry, including those airplanes affected by AD 2006-07-15.
+    We estimate the following costs to do each inspection:
+
+----------------------------------------------------------------------------------------------------------------
+                                                                                 Total cost per   Total cost on
+                          Labor cost                              Parts cost        airplane      U.S. operators
+----------------------------------------------------------------------------------------------------------------
+3 work-hours x $80 = $240....................................            $525             $765         $618,120
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 3131]]
+
+    We estimate the following costs to do cold work of bolt holes for 
+the repair that may be required based on the results of the inspection. 
+We have no way of determining the number of airplanes that may need 
+such repair:
+
+------------------------------------------------------------------------
+                                                         Total cost per
+            Labor cost                  Parts cost          airplane
+------------------------------------------------------------------------
+1 work-hour x $80 = $80...........              $100               $180
+------------------------------------------------------------------------
+
+    We estimate the following costs to do any reaming of outer holes to 
+5/16-inch diameter for the repair that may be required based on the 
+results of the inspection. We have no way of determining the number of 
+airplanes that may need such repair:
+
+------------------------------------------------------------------------
+                                                         Total cost per
+           Labor cost                 Parts cost            airplane
+------------------------------------------------------------------------
+1 work-hour x $80 = $80........  None................               $80
+------------------------------------------------------------------------
+
+     We estimate the following costs to do any drilling and reaming of 
+outer holes and adding three holes to install a Kaplan splice block for 
+the repair that may be required based on the results of the inspection. 
+We have no way of determining the number of airplanes that may need 
+such modification:
+
+------------------------------------------------------------------------
+                                                          Total cost per
+           Labor cost                  Parts cost            airplane
+------------------------------------------------------------------------
+65 work-hours x $80 = $5,200...  $4,400 for splice              $10,200
+                                  block and $600 for
+                                  hardware.
+------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary wing front 
+lower spar cap replacement with the optional Ayres or Thrush part 
+numbers (P/Ns) 20207-1, 20207-2, 20207-11, 20207-12, 20207-13, 20207-
+14, 20207-15, or 20207-16 that will be required based on the results of 
+the inspection or by the wing front lower spar cap reaching the life 
+limit:
+
+------------------------------------------------------------------------
+                                  Parts cost per
+Labor cost per wing front lower     wing front        Total cost per
+            spar cap              lower spar cap         airplane
+------------------------------------------------------------------------
+200 work-hours x $80 = $16,000.          $8,000   Each spar cap
+                                                   replacement = $24,000
+                                                  Two wing front lower
+                                                   spar caps per
+                                                   airplane = $48,000.
+------------------------------------------------------------------------
+
+     However, the supply of individual wing front lower spar caps (new 
+or used) is very limited.
+    We estimate the following costs to do the optional installation of 
+Thrush Aircraft, Inc. Custom Kit No. CK-AG-41, Revision A, dated March 
+8, 2007. This kit may be used to do any necessary wing front lower spar 
+cap replacements that will be required based on the results of the 
+inspection or that will be required based on reaching the life limit:
+
+------------------------------------------------------------------------
+                                                         Total cost per
+            Labor cost                  Parts cost          airplane
+------------------------------------------------------------------------
+300 work-hours x $80 = $24,000....           $40,000            $64,000
+------------------------------------------------------------------------
+
+     We estimate the following costs to do the optional installation of 
+Avenger Aircraft and Services STC SA03654AT for Avenger Extended 
+Performance Front Spar Enhancement Kit. This kit may be used to do any 
+necessary wing front lower spar cap replacements that will be required 
+based on the results of the inspection or that will be required based 
+on reaching the life limit:
+
+------------------------------------------------------------------------
+                                                         Total cost per
+            Labor cost                  Parts cost          airplane
+------------------------------------------------------------------------
+319 work-hours x $80 = $25,520....           $40,000            $65,500
+------------------------------------------------------------------------
+
+     The FAA estimates that 501 airplanes affected by this AD will 
+retire before their wing front lower spar cap life limits are reached.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106 describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the agency's authority.
+
+[[Page 3132]]
+
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this AD.
+
+Final Regulatory Flexibility Analysis
+
+Introduction and Purpose of This Analysis
+
+    The Regulatory Flexibility Act of 1980 (Pub. L. 96-354) (RFA) 
+establishes ``as a principle of regulatory issuance that agencies shall 
+endeavor, consistent with the objectives of the rule and of applicable 
+statutes, to fit regulatory and informational requirements to the scale 
+of the businesses, organizations, and governmental jurisdictions 
+subject to regulation.'' To achieve this principle, the RFA requires 
+agencies to solicit and consider flexible regulatory proposals and to 
+explain the rationale for their actions to assure that such proposals 
+are seriously considered. The RFA covers a wide-range of small 
+entities, including small businesses, not-for-profit organizations, and 
+small governmental jurisdictions.
+    Agencies must perform a review to determine whether a rule will 
+have significant economic impact on a substantial number of small 
+entities. If the agency determines that it will, the agency must 
+prepare a regulatory flexibility analysis as described in the RFA.
+    We determined that this final rule will have a significant economic 
+impact on a substantial number of small entities and, accordingly, as 
+required by section 603(a) of the RFA, we prepared and published an 
+initial regulatory flexibility analysis (IRFA) as part of the NPRM for 
+this final rule (74 FR 20431, May 4, 2009). Section 604 of the RFA also 
+requires an agency to publish a final regulatory flexibility analysis 
+(FRFA) in the Federal Register when issuing a final rule. Section 
+604(a) requires that each FRFA contain:
+    <bullet> A succinct statement of the need for, and objectives of, 
+the final rule;
+    <bullet> A summary of the significant issues raised by the public 
+comments in response to the IRFA, a summary of agency's assessment of 
+such issues, and a statement of any changes made to the proposed final 
+rule resulting from such comments;
+    <bullet> A description of the steps the agency has taken to 
+minimize the significant economic impact on small entities consistent 
+with the stated objectives of applicable statues, including a statement 
+of the factual, policy, and legal reasons for selecting the alternative 
+adopted in the final rule and why each one of the other significant 
+alternatives to the final rule considered by the agency that affect the 
+impact on small entities was rejected.
+    <bullet> A description of and an estimate of the number of small 
+entities for which the final rule will apply; and
+    <bullet> A description of the projected reporting, recordkeeping, 
+and other compliance requirements of the final rule, including an 
+estimate of the classes of small entities that will be subject to the 
+requirement and the type of professional skills necessary for 
+preparation of the report or record.
+
+Need for, and Objectives of Final Rule
+
+    A series of ADs, beginning in 1997 and culminating in AD 2006-07-15 
+in 2006, addressed the issue of fatigue cracking of the wing front 
+lower spar caps in Thrush Aircraft, Inc. Model 600 S2D and S2R (S-2R) 
+series airplanes (type certificate previously held by Quality 
+Aerospace, Inc. and Ayres Corporation). This type of fatigue cracking, 
+if not addressed, could result in catastrophic wing failure. The 
+original 1997 AD was issued after an accident on an S2R series airplane 
+in which the wing separated from the airplane in flight. Requirements 
+of inspection and possible replacement were changed in 2000 to 
+repetitive inspections and possible replacement. In 2006, the 
+inspection rate was doubled after a completely severed wing front lower 
+spar cap was found on one of the affected airplanes and the FAA noted 
+that it was working with Thrush Aircraft, Inc. to develop a future 
+terminating action. Analysis indicated that an undetected crack had 
+existed during the previous two repetitive inspections of that wing 
+front lower spar cap.
+    Subsequent FAA analysis has shown that wing front lower spar cap 
+fatigue cracking has increased as the fleet has aged and will continue 
+to increase. Consequently, the incidences of undetected cracks will 
+increase, increasing the probability of catastrophic wing failure. The 
+FAA has concluded that repetitive inspections, as required since the 
+2000 AD, are insufficient by themselves to ensure the safety of these 
+airplanes and, accordingly, in this final rule the FAA is requiring 
+wing front lower spar cap life limits to address this safety issue.
+
+Summary of Significant Issues Raised by the Public in Response to the 
+IRFA, Summary of FAA's Assessment of Such Issues, Statement of Changes 
+Made to the Final Rule as a Result of Such Issues, Description of the 
+Steps the Agency Has Taken To Minimize a Significant Economic Impact on 
+Small Entities, and Why Other Significant Alternatives to the Final 
+Rule That Affect Small Entities Were Rejected
+
+    There were no public comments to the IRFA, but there were public 
+comments to the proposed rule, which have relevance for small and large 
+entities alike.
+    As noted in the preamble to the final rule, Avenger commented that 
+it has developed a wing front lower spar replacement kit, which was not 
+available when the proposed rule was issued. The FAA has approved their 
+kit for a 40,000-hour TIS life limit. Avenger requested that the FAA 
+approve the installation of its kit as a terminating action to the AD. 
+As noted in the preamble, the FAA agrees with Avenger that installation 
+of its kit is a viable terminating action to this AD. Accordingly, it 
+is an alternative to replacing the wing front lower spar caps with 
+Ayres/Thrush spar caps; and the FAA has incorporated this change in the 
+final rule. This is a significant issue because the Ayres/Thrush kit, 
+although priced slightly lower than the Avenger kit, has a lower life 
+limit (ranging from 5,400 to 28,800 hours TIS.) Many of the affected 
+airplanes with the Ayres/Thrush kit installed will require multiple 
+replacements over their lifetimes and installation of the Ayres/Thrush 
+kit does not eliminate the requirement of repetitive inspections and 
+reporting requirements. Consequently, the estimated cost of the final 
+rule is lower given the availability of the Avenger kit as a 
+terminating action. In the cost analysis for the proposed rule, we 
+estimated the total cost to be $37.1 million. In the final rule, we 
+estimate total cost to be $20.1 million.\1\
+---------------------------------------------------------------------------
+
+    \1\ Individual replacement of the two original equipment spars 
+is cheaper (for one installation) than installing the Ayres/Thrush 
+kit or the Avenger kit, but as noted in the ``Cost of Compliance'' 
+section, the supply of these spar caps is very limited. Accordingly, 
+total cost is overestimated, but only slightly, by our assumption 
+that all operators would comply by installing a kit (NPRM: Ayres/
+Thrush kit, final rule: Avenger kit).
+---------------------------------------------------------------------------
+
+    As an alternative to replacing the wing front lower spar caps, two 
+commenters suggested that the FAA require installation of ``big 
+butterfly'' plates. But, as the FAA noted in the preamble, the ``big 
+butterfly plate'' does not have enough strength to carry all the
+
+[[Page 3133]]
+
+possible flight loads if the wing front lower spar caps were severed. 
+Accordingly, this plate cannot be solely relied upon to ensure the 
+safety of the airplane and is not an acceptable alternative method of 
+compliance to replacing the wing front lower spar caps.
+    Additionally, one commenter suggested 100-hour TIS visual 
+inspections. As discussed in the preamble, even if the wing front lower 
+spar cap is not completely severed, but has a crack that is large 
+enough to see when performing the 100-hour TIS visual inspection, the 
+remaining strength in the wing spar joint is not enough to carry all 
+possible flight loads. Therefore, the 100-hour TIS visual inspection 
+alone is not a sufficient alternative method of compliance.
+    The FAA believes there are currently no other available alternative 
+methods of compliance to the final rule that will allow the safety 
+objectives of the final rule to be achieved. The FAA, however, has 
+allowed a generous compliance period that will significantly reduce the 
+economic impact on small and large entities alike. As already noted in 
+the preamble, airplanes that have already exceeded the life limit on 
+their wing front lower spar caps are allowed 500, 1,000, 1,500, or 
+2,000 hours TIS to comply with the final rule, depending on the current 
+number of accumulated hours TIS. Since the average usage rate for the 
+affected airplanes is about 500 hours TIS per year, these allowances 
+are equivalent, on average, to 1, 2, 3, and 4 years to comply with the 
+final rule. Airplanes that have not yet reached their wing front lower 
+spar cap life limit are allowed a minimum of 2,000 hours TIS or, on 
+average, 4 years to comply with the final rule.
+    For a complete summary of public comments and the FAA's responses, 
+please see the Comments section in the preamble above.
+
+A Description of and an Estimate of the Number of Small Entities for 
+Which the Final Rule Will Apply
+
+    This final rule will affect 808 U.S.-registered and -operated 
+Thrush Aircraft, Inc. Model 600S2D and S2R (S-2R) series airplanes. \2\ 
+In conducting this analysis, the FAA reviewed data from the FAA 
+Registry to ascertain how many Thrush Aircraft, Inc. were registered 
+and operated by small entities. The FAA Registry indicates that these 
+808 airplanes are owned by 546 separate entities in agricultural 
+aviation. All but one of these entities are small entities as defined 
+by the Small Business Administration (SBA). Although the FAA Registry 
+does not record financial or business data about the registered owners 
+of aircraft, and such data for these entities are not readily available 
+elsewhere, it appears that most, if not all, of the 546 entities are 
+engaged in crop dusting, spraying, and seeding operations. These 
+activities are classified in North American Industry Classification 
+System (NAICS) industry, NAICS 115112--Soil Preparation, Planting, and 
+Cultivating (including Crop Dusting, Crop Spraying). The concentration 
+of these entities in a single NAICS industry reflects the specialized 
+nature of agricultural airplanes with restricted airworthiness 
+certificates. Furthermore, several of these entities were classified in 
+the Standard Industrial Classification (SIC) equivalent of NAICS 115112 
+by <a href="http://www.manta.com">http://www.manta.com</a>. Although a few of these entities may also be 
+engaged in firefighting, which is classified in NAICS 115310--Support 
+Activities for Forestry (including Forest Fire Suppression), the FAA is 
+unable to identify any of these entities as being principally engaged 
+in firefighting. The SBA small business classification for NAICS 115112 
+is a maximum of $6.5 million in business receipts, and for NAICS 115310 
+it is a maximum of $16.5 million in business receipts. Only one entity 
+in this sample appears to have business receipts over $6.5 million, and 
+no entity has business receipts in excess of $16.5 million. Using the 
+total number of airplanes owned as a size criterion, the FAA selected a 
+sample of 41 of the largest affected entities and found median sales 
+shown by <a href="http://www.manta.com">http://www.manta.com</a> to be just $250,000 annually. Firms in 
+agricultural aviation appear to be inherently of small size. 
+Accordingly, the FAA estimates that 545 small entities will be affected 
+by this final rule.
+---------------------------------------------------------------------------
+
+    \2\ FAA Registry, <a href="http://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download/">http://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download/</a>. Data downloaded on 4/14/08.
+---------------------------------------------------------------------------
+
+Reporting, Record Keeping, and Other Compliance Requirements
+
+    Small entities will incur no new reporting and record-keeping 
+requirements as a result of this final rule. In fact, such 
+requirements, for small and large firms alike, will be greatly reduced 
+since installation of the Avenger kit has been incorporated as an 
+alternative terminating action to this final rule.
+    This final rule will affect U.S. operators of Thrush Aircraft, Inc. 
+Model 600S2D and S2R (S-2R) series agricultural airplanes airplanes. 
+The affected airplanes were produced by Thrush Aircraft, Inc. 
+predecessor firms over the period 1965-2000. This final rule largely 
+retains the requirements of superseded AD 2006-07-15 to inspect/repair/
+replace the currently installed Ayres/Thrush wing front lower spar 
+caps. The new requirements set life limits on the Ayres/Thrush wing 
+front lower spar caps and requires replacing of these wing front lower 
+spar caps when the life limits are reached.
+
+Economic Impact on Small Entities
+
+    Replacing the wing front lower spar caps is expensive and, 
+consequently, as we show below, the final rule will have a significant 
+economic impact on the substantial number of small firms we identified 
+above.
+    The total compliance cost (undiscounted) is $65,520 for an affected 
+airplane for which the wing front lower spar caps are replaced before 
+retirement, or zero for an affected airplane that will retire before 
+its compliance date. Individual airplane compliance costs will result 
+in costs to the small entities that own these airplanes and will vary 
+depending on the number of affected airplanes owned by the entity. The 
+ownership table below shows the variation in the number of owners with 
+particular numbers of airplanes. The table shows that almost 75 percent 
+of the 546 individual owners have only one affected airplane, and more 
+than 90 percent of owners have no more than two affected airplanes. The 
+average (mean) number of affected airplanes held is 1.48, while the 
+median number held is just 1.00, so the median airplane cost is 
+equivalent to the median owner cost.
+
+[[Page 3134]]
+
+
+
+             Number of Thrush Aircraft, Inc. Owners Having Particular Numbers of Affected Airplanes
+----------------------------------------------------------------------------------------------------------------
+                                                                     Number of
+                                                                     affected
+                                                                  airplanes held     Number of     Cumulative %
+                                                                     by single        owners
+                                                                       owner
+----------------------------------------------------------------------------------------------------------------
+                                                                               1             406            74.4
+                                                                               2              86            90.1
+                                                                               3              26            94.9
+                                                                               4              13            97.3
+                                                                               5               7            98.5
+                                                                               6               2            98.9
+                                                                               7               2            99.3
+                                                                               8               1            99.5
+                                                                               9               2            99.8
+                                                                              13               1           100.0
+Total...........................................................  ..............             546  ..............
+Mean............................................................            1.48  ..............  ..............
+Median..........................................................            1.00  ..............  ..............
+----------------------------------------------------------------------------------------------------------------
+Source: FAA Registry. Data downloaded on 4/18/08.
+
+    In the ``Cost of Compliance'' section of this final rule, we 
+estimate total cost (undiscounted) to be $20.1 million and the present 
+value cost to be $18.2 million. As noted above, the FAA estimates that 
+545 of the 546 affected by this final rule are small firms, and, in 
+fact, 99.7 percent of the final rule's estimated cost is attributed to 
+small entities. The following document analyzes the impact of this cost 
+on the substantial number of small firms identified above.
+    Because the FAA Registry does not collect financial or business 
+data on these entities, and such data are not readily available 
+elsewhere, the FAA also used Census Bureau size distribution data to 
+assess the economic impact on small firms. The FAA used data from the 
+2002 Census since this is the latest census for which size distribution 
+by business receipts is readily available. These data are available in 
+a special census compilation for the SBA.\3\ The FAA used the data for 
+NAICS 115112--Soil Preparation, Planting, and Cultivating (including 
+Crop Dusting, Crop Spraying), but did not use the data for NAICS 
+115310--Support Activities for Forestry (including Forest Fire 
+Suppression) since, as noted above, a very high percentage of the 
+affected small firms, if not all, meet the classification standard of 
+NAICS 115112. Moreover, the size distribution of NAICS 115310 appears 
+to be similar to that of NAICS 115112. The concentration of the 
+affected airplanes in one NAICS industry, noted above, makes the use of 
+census data feasible and appropriate.
+---------------------------------------------------------------------------
+
+    \3\ Small Business Administration, Office of Advocacy. <a href="http://www.sba.gov/advo/research/us_rec02.txt">http://www.sba.gov/advo/research/us_rec02.txt</a>.
+---------------------------------------------------------------------------
+
+    The relevant census data are provided in the table below:
+
+         2002 Census Data for NAICS 115112--Soil Preparation, Planting, and Cultivating (Incl. Crop Dusting, Crop Spraying)--Small Size Classes
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                              $0-100         $100-500     $500 thousand-
+                         Measure                               Total         thousand        thousand        1 million     $1-5 million    $5-10 million
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Firms...................................................            2336             509             992             412             394              29
+Percentage of firms.....................................  ..............           21.8%           42.5%           17.6%           16.9%            1.2%
+Upper bound percentile..................................  ..............           21.8%           64.3%           81.9%           98.8%          100.0%
+Est. Receipts ($000)....................................      $1,531,004         $25,681        $257,447        $286,462        $772,401        $189,013
+Receipts/Firm ($).......................................        $655,396         $50,454        $259,523        $695,296      $1,960,409      $6,517,690
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Source: ``Firms'' and ``Est. Receipts'' from Small Business Administration, Office of Advocacy. <a href="http://www.sba.gov/advo/research/us_rec02.txt">http://www.sba.gov/advo/research/us_rec02.txt</a>.
+
+    The table above shows the number of firms and business receipt data 
+for the five smallest size classes of NAICS 115112 that encompass the 
+size range of the firms affected by this final rule. In the 
+``Percentage of firms'' row, for each size class, the FAA calculates 
+that class's number of firms as a percentage of the total number of 
+firms in the five size classes. Cumulating this percentage from the 
+smallest to largest size class establishes the ``Upper bound 
+percentile''--the cumulated percentage of firms of business receipt 
+size ranging up to the upper bound of the size class. The final rule's 
+cost for the firms at the upper bound percentiles is then estimated as 
+the corresponding percentiles in the estimated firm-level compliance 
+cost data. In order to assess the economic impact of the final rule, 
+these costs are calculated as a percentage of the census data upper 
+bounds.
+    For example, the upper bound percentile for the $100-500 thousand 
+size class is 64.3 percent, so we estimate the NAICS 115112 firms at 
+that percentile to have business receipts of $500,000. As shown in the 
+table below, the FAA then determined the estimated compliance cost of 
+firms at the same percentile in the compliance cost data to be $57,584. 
+The FAA assumes these firms are the same, so the percentage cost impact 
+(AD Cost/Firm Size) is 11.5 percent. This procedure assumes the size 
+distribution of the 808 firms affected by the final rule has a
+
+[[Page 3135]]
+
+distribution similar to the overall distribution of the small firms in 
+NAICS 115112. It also assumes there is a perfect rank correlation 
+between the size of the affected firms and the firms' present value 
+compliance cost. While the latter assumption is certainly not the case, 
+any deviation from such perfect correlation can only increase the 
+impact of the final rule because smaller firms will have larger costs. 
+Accordingly, the FAA's determination that the final rule will have a 
+significant impact on a substantial number of small entities is 
+unaffected.
+
+                                      Economic Impact of AD on Small Firms
+----------------------------------------------------------------------------------------------------------------
+                                                                        Estimated firm
+                                                                         size (Census                 Cumulative
+             AD cost to firm                     Firm percentile           Bureau's       AD cost/    number of
+                                                                        receipts upper   firm size      firms
+                                                                            bound)
+----------------------------------------------------------------------------------------------------------------
+$0.......................................  21.8 percentile............        $100,000         0.0%        119.2
+$57,584..................................  64.3 percentile............        $500,000        11.5%        351.5
+$63,220..................................  81.9 percentile............      $1,000,000         6.3%        447.9
+$203,502.................................  98.8 percentile............      $5,000,000         4.1%        540.2
+----------------------------------------------------------------------------------------------------------------
+
+    The table above shows a zero-cost impact on a firm at the 21.8 
+percentile. This result reflects the estimate in the FRFA cost analysis 
+(see docket) that more than 500 older airplanes will retire before 
+their wing front lower spar cap life limits are reached. As already 
+mentioned, the AD cost for a firm at the 64.3 percentile is $61,754, 
+which as a percentage of estimated firm size (size class upper bound) 
+is 11.5 percent of annual business receipts. This impact declines to 
+6.3 percent for a firm at the 81.9 percentile and to 4.1 percent for a 
+firm at the 98.8 percentile. The overall pattern is zero impact for the 
+smallest of the small firms owners of the oldest airplanes, but a 
+highly positive impact for the medium-sized small firms. In percentage 
+terms, this impact falls for the largest small firms, but remains at a 
+substantial level. While the FAA can make no definitive inference on 
+the impact of the final rule on firms between the 21.8 and 64.3 
+percentiles, the FAA notes the cost varies from 6.3 percent up to 11.5 
+percent of annual business receipts for 96 firms between the 81.9 and 
+64.3 percentiles and from 4.1 percent to 6.3 percent of annual business 
+receipts for 92 firms between the 98.8 and 81.9 percentiles. These 
+estimated percentage impacts are substantial. Therefore, the FAA 
+concludes that this final rule will have a significant impact on a 
+substantial number of small entities.
+
+International Trade Impact Analysis
+
+    The Trade Agreement Act of 1979 prohibits Federal agencies from 
+establishing any standards or engaging in related activities that 
+create unnecessary obstacles to the foreign commerce of the United 
+States. The statute does not consider legitimate domestic objectives, 
+such as safety, as unnecessary. The statute also requires consideration 
+of international standards and, where appropriate, that they be the 
+basis for U.S. standards. The FAA is issuing this final rule because of 
+a known safety problem. Therefore, this final rule AD action applies 
+only to U.S. registered airplanes and is not considered an unnecessary 
+obstacle to international trade.
+
+Unfunded Mandates Reform Act Assessment
+
+    Title II of the Unfunded Mandates Reform Act of 1995 (Pub. L. 104-
+4) requires each Federal agency to prepare a written statement 
+assessing the effects of any Federal mandate in a proposed or final 
+agency rule that may result in an expenditure of $100 million or more 
+(adjusted annually for inflation with the base year 1995) in any one 
+year by State, local, and Tribal governments in the aggregate, or by 
+the private sector. The Act deems such a mandate to be a ``significant 
+regulatory action.'' The FAA currently uses an inflation-adjusted value 
+of $136.1 million. This rule does not contain such a mandate.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will have a significant economic impact, positive or negative, 
+on a substantial number of small entities under the criteria of the 
+Regulatory Flexibility Act.
+    We prepared a summary of the costs to comply with this AD (and 
+other information as included in the Regulatory Evaluation) and placed 
+it in the AD Docket. You may get a copy of this summary by sending a 
+request to us at the address listed under ADDRESSES. Include ``Docket 
+No. FAA-2007-27862; Directorate Identifier 2007-CE-036-AD'' in your 
+request.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the Federal Aviation Administration amends part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2006-07-15, Amendment 39-14542 (71 FR 16691, April 4, 2006), and adding 
+the following new AD:
+
+2009-26-11 Thrush Aircraft, Inc. (Type Certificate Previously Held 
+by Quality Aerospace, Inc. and Ayres Corporation): Amendment 39-
+16150; Docket No. FAA-2007-27862; Directorate Identifier 2007-CE-
+036-AD.
+
+Effective Date
+
+    (a) This AD becomes effective on February 24, 2010.
+
+Affected ADs
+
+    (b) The following lists a history of the ADs affected by this AD 
+action:
+    (1) This AD supersedes AD 2006-07-15, Amendment 39-14542;
+
+[[Page 3136]]
+
+    (2) AD 2006-07-15 superseded AD 2003-07-01, Amendment 39-13097;
+    (3) AD 2003-07-01 superseded AD 2000-11-16, Amendment 39-11764;
+    (4) AD 2000-11-16 superseded AD 97-17-03, Amendment 39-10195; 
+and
+    (5) AD 97-17-03 superseded AD 97-13-11, Amendment 39-10071.
+
+Applicability
+
+    (c) This AD affects the following airplane models and serial 
+numbers (S/Ns) in Table 1 that are certificated in any category when 
+wing front lower spar cap part numbers (P/Ns) 20207-1, 20207-2, 
+20207-11, 20207-12, 20207-13, 20207-14, 20207-15, or 20207-16 are 
+installed. This AD applies to the S/Ns in Table 1 with or without a 
+``DC'' suffix. This AD does not affect airplanes with any other wing 
+front lower spar cap part number, e.g. Thrush P/N 22507 (any dash 
+number) or Supplemental Type Certificate (STC) SA03654AT parts. The 
+table also identifies the group that each airplane belongs in when 
+determining inspection compliance times and life limit times for the 
+parts:
+
+               Table 1--Applicability and Airplane Groups
+------------------------------------------------------------------------
+               Model                           S/Ns               Group
+------------------------------------------------------------------------
+(1) S-2R..........................  5000R through 5100R,               1
+                                     except 5010R, 5031R,
+                                     5038R, 5047R, and 5085R.
+(2) S2R-G1........................  G1-101 through G1-106.....         1
+(3) S2R-R1820.....................  R1820-001 through R1820-           1
+                                     035.
+(4) S2R-T15.......................  T15-001 through T15-033            1
+                                     (also see paragraph (d)
+                                     of this AD).
+(5) S2R-T34.......................  6000R through 6049R, T34-          1
+                                     001 through.
+                                    T34-143, T34-145, T34-171,
+                                     T34[dash]180, and.
+                                    T34-181 (also see
+                                     paragraph (e) of this AD).
+(6) S2R-G10.......................  G10-101 through G10-138,           2
+                                     G10-140, and.
+                                    G10-141...................
+(7) S2R-G5........................  G5-101 through G5-105.....         2
+(8) S2R-G6........................  G6-101 through G6-147.....         2
+(9) S2RHG-T65.....................  T65-002 through T65-018...         2
+(10) S2R-R1820....................  R1820-036.................         2
+(11) S2R-T34......................  T34-144, T34-146 through           2
+                                     T34-170, T34-172 through
+                                     T34-179, and T34-189
+                                     through T34-234 (also see
+                                     paragraph (e) of this AD).
+(12) S2R-T45......................  T45-001 through T45-014...         2
+(13) S2R-T65......................  T65-001 through T65-018...         2
+(14) 600 S2D......................  All serial numbers                 3
+                                     beginning with 600-1311D.
+(15) S-2R.........................  1380R, 1416R through               3
+                                     2592R, 3000R, and 3002R.
+(16) S2R-R1340....................  R1340-001 through R1340-           3
+                                     035.
+(17) S2R-R3S......................  R3S-001 through R3S-011...         3
+(18) S2R-T11......................  T11-001 through T11-005...         3
+(19) S2R-G1.......................  G1-107 through G1-115.....         5
+(20) S2R-G10......................  G10-139, G10-142 through           5
+                                     G10-165.
+(21) S2R-G6.......................  G6-148 through G6-155.....         5
+(22) S2RHG-T34....................  T34HG-102.................         5
+(23) S2R-T15......................  T15-034 through T15-040            5
+                                     (also see paragraph (d)
+                                     of this AD).
+(24) S2R-T34......................  T34-236 through T34-270            5
+                                     (also see paragraph (e)
+                                     of this AD).
+(25) S2R-T45......................  T45-015...................         5
+(26) S-2R.........................  5010R, 5031R, 5038R,               6
+                                     5047R, and 5085R.
+------------------------------------------------------------------------
+
+    (d) The S/Ns of Model S2R-T15 airplanes could incorporate T15-
+xxx and T27-xxx (xxx is the variable for any of the S/Ns beginning 
+with T15- and T27-). This AD applies to both of these S/N 
+designations as they are both Model S2R-T15 airplanes.
+    (e) The S/Ns of Model S2R-T34 airplanes could incorporate T34-
+xxx, T36-xxx, T41-xxx, or T42-xxx (xxx is the variable for any of 
+the S/Ns beginning with T34-, T36-, T41-, and T42-). This AD applies 
+to all of these S/N designations as they are all Model S2R-T34 
+airplanes.
+    (f) Any Group 3 airplane that has been modified with a hopper of 
+a capacity more than 410 gallons, a piston engine greater than 600 
+horsepower, or a gas turbine engine greater than 600 horsepower, is 
+a Group 1 airplane for the purposes of this AD. Inspect the airplane 
+at the Group 1 compliance time specified in this AD. Replace the 
+wing front lower spar caps in accordance with the formulas given in 
+paragraph (k) of this AD.
+    (g) Group 6 airplanes were originally manufactured with higher 
+horsepower radial engines, but were converted to lower horsepower 
+radial engines. They are now configured identically to Group 3 
+airplanes.
+
+Unsafe Condition
+
+    (h) This AD is the result of the analysis of data from 117 wing 
+front lower spar cap fatigue cracks found on similar design Model 
+600 S2D and S2R (S-2R) series airplanes and the FAA's determination 
+that the replacement of high time wing front lower spar caps is 
+necessary to address the unsafe condition for certain airplanes. 
+Since we issued AD 2006-07-15, analysis reveals that inspections are 
+not detecting all existing cracks, and incidences of undetected 
+cracks are increasing. This AD retains the actions of AD 2006-07-15 
+and imposes a life limit on the wing front lower spar caps that 
+requires you to replace the wing front lower spar caps when the life 
+limit is reached. This AD also changes the requirements and 
+applicability of the groups discussed above and removes the 
+ultrasonic inspection method. We are issuing this AD to prevent wing 
+front lower spar cap failure caused by undetected fatigue cracks. 
+Such failure could result in loss of a wing.
+
+Compliance
+
+    (i) To address the problem, do the following, unless already 
+done:
+    (1) If you have already done an inspection required by AD 2006-
+07-15, within the next 30 days after February 24, 2010 (the 
+effective date of this AD), identify the number of hours time-in-
+service (TIS) since your last inspection required by AD 2006-07-15. 
+You will need this to establish the inspection interval for the next 
+inspection required by this AD.
+    (2) Inspect the two outboard bolt hole areas (whether \1/4\-inch 
+and \5/16\-inch diameter bolt holes or both \5/16\-inch diameter 
+bolt holes) on each wing front lower spar cap for fatigue cracking 
+using magnetic particle or eddy current procedures. If Kaplan splice 
+blocks, P/N 22515-1/-3 or P/N 88-251, are installed following 
+Quality Aerospace, Inc. Custom Kit No. CK-AG-30, dated December 6, 
+2001, inspect the three outboard bolt hole areas on each wing front 
+lower spar cap for fatigue cracking using magnetic particle or eddy 
+current procedures. Use the compliance times listed in paragraph 
+(i)(3) of this AD for the initial inspection and the compliance time 
+listed in paragraphs (i)(5), (i)(6), or (i)(7) of this AD for the 
+repetitive inspections. The cracks may emanate from the bolt hole on 
+the face of the wing front lower spar cap or they may occur in the 
+shaft of the hole. Inspect both of those areas.
+
+[[Page 3137]]
+
+    (i) If using the magnetic particle method, inspect using the 
+``Inspection'' portion of the ``Accomplishment Instructions'' and 
+``Lower Splice Fitting Removal and Installation Instructions'' in 
+Ayres Corporation Service Bulletin No. SB-AG-39, dated September 17, 
+1996. Do the inspection following FAA Advisory Circular (AC) 43.13-
+1B, Chapter 5, Section 4, Magnetic Particle Inspection, using the 
+wet particle method. You may obtain a copy of AC 43.13-1B at <a href="http://www.faa.gov/regulations_policies/">http://www.faa.gov/regulations_policies/</a>. Caution: Firmly support the 
+wings during the inspection to prevent movement of the wing front 
+lower spar caps when the splice blocks are removed. This will allow 
+easier realignment of the splice block holes and the holes in the 
+wing front lower spar cap for bolt insertion and prevent damage to 
+the bolt hole. Damage to the bolt hole inner surface or edge of the 
+bolt hole can cause cracks to begin prematurely.
+    (ii) The inspection must be done by or supervised by a Level 2 
+or Level 3 inspector certified following the guidelines in FAA AC 
+65-31A. You may obtain a copy of AC 65-31A at <a href="http://www.faa.gov/regulations_policies/">http://www.faa.gov/regulations_policies/</a>.
+    (iii) If using eddy current methods, a procedure must be sent to 
+the FAA, Atlanta Aircraft Certification Office (ACO), for approval 
+before doing the inspection. Send your proposed procedure to the 
+FAA, Atlanta ACO, Attn: Cindy Lorenzen, 1701 Columbia Avenue, 
+College Park, Georgia 30337. You are not required to remove the 
+splice block for the eddy current inspections, unless corrosion is 
+visible. Eddy current inspection procedures previously approved 
+under AD 2006-07-15, AD 2003-07-01, AD 2000-11-16, AD 97-13-11, and/
+or AD 97-17-03 remain valid for this AD.
+    (iv) If you change the inspection method used (magnetic particle 
+or eddy current), the TIS intervals for repetitive inspections are 
+based on the method used for the last inspection.
+    (3) If airplanes have not yet reached the threshold for the 
+initial inspection required in AD 2006-07-15, initially inspect 
+following the wing front lower spar cap hours total TIS schedule 
+below or within the next 50 hours TIS after February 24, 2010 (the 
+effective date of this AD), whichever occurs later:
+
+                    Table 2--Initial Inspection Times
+------------------------------------------------------------------------
+                                Initially inspect upon accumulating the
+        Airplane group           following hours total TIS on the wing
+                                          front lower spar cap
+------------------------------------------------------------------------
+(i) Group 1..................  2,000 hours TIS.
+(ii) Group 2.................  1,400 hours TIS.
+(iii) Group 3................  6,400 hours TIS.
+(iv) Group 5.................  1,000 hours TIS.
+(v) Group 6..................  (A) S/N 5010R: 5,530 hours TIS.
+                               (B) S/N 5038R: 5,900 hours TIS.
+                               (C) S/N 5031R: 6,400 hours TIS.
+                               (D) S/N 5047R: 6,400 hours TIS.
+                               (E) S/N 5085R: 6,290 hours TIS.
+(vi) Any airplane with the     2,000 hours TIS.
+ entire Custom Kit CK-AG-41
+ installed.
+------------------------------------------------------------------------
+
+    (4) Airplanes in all groups must meet the following conditions 
+before doing the repetitive inspections required in paragraphs 
+(i)(5), (i)(6), or (i)(7) of this AD:
+    (i) No cracks have been found previously on wing front lower 
+spar cap; or
+    (ii) Small cracks have been repaired through cold work (or done 
+as an option if never cracked) following Ayres Corporation Service 
+Bulletin No. SB-AG-39, dated September 17, 1996; or
+    (iii) Small cracks have been repaired by reaming the \1/4\-inch 
+bolt hole to \5/16\ inches diameter (or done as an option if never 
+cracked) following Ayres Corporation Custom Kit No. CK-AG-29, Part 
+I, dated December 23, 1997; or
+    (iv) Small cracks have been repaired through previous 
+alternative methods of compliance (AMOC); or
+    (v) Small cracks have been repaired by installing Kaplan splice 
+blocks, P/N 22515-1/-3 or P/N 88-251 (or done as an option if never 
+cracked) following Quality Aerospace, Inc. Custom Kit No. CK-AG-30, 
+dated December 6, 2001.
+    (5) Repetitively inspect Groups 1, 2, 3, and 6 airplanes that do 
+not have ``big butterfly'' plates and lower splice plates, P/Ns 
+20211-09 and 20211-11, installed following Ayres Corporation Custom 
+Kit No. CK-AG-29, Part II, dated December 23, 1997; or that do not 
+have ``big butterfly'' plates and lower splice plates, P/Ns 94418-5 
+and 94418-7 or P/Ns 94418-13 and 94418-15, installed following 
+Thrush Aircraft, Inc. Custom Kit No. CK-AG-41, Revision A, dated 
+March 8, 2007; and meet the conditions in paragraph (i)(4) of this 
+AD. Follow the wing front lower spar cap hours TIS compliance 
+schedule below:
+
+  Table 3--Repetitive Inspection Times for Airplane Groups 1, 2, 3, and 6 Without ``Big Butterfly'' Plates and
+                                               Lower Splice Plates
+----------------------------------------------------------------------------------------------------------------
+ When airplanes accumulate the following   Inspect within the following
+  hours TIS on the wing front lower spar        hours TIS after the       Inspect thereafter at intervals not to
+cap since the last inspection required in   effective date of this AD,                 exceed . . .
+         AD 2006[dash]07[dash]15,
+----------------------------------------------------------------------------------------------------------------
+(i) Magnetic Particle inspection:........  ............................  250 hours TIS.
+    (A) 350 or more hours TIS............  (A) 50 hours TIS............
+    (B) 175 through 349 hours TIS........  (B) 75 hours TIS............
+    (C) Less than 175 hours TIS..........  (C) upon accumulating 250
+                                            hours TIS.
+(ii) Eddy Current inspection:............  ............................  350 hours TIS.
+    (A) 500 or more hours TIS............  (A) 50 hours TIS............
+    (B) 275 through 499 hours TIS........  (B) 75 hours TIS............
+    (C) Less than 275 hours TIS..........  (C) upon accumulating 350
+                                            hours TIS.
+----------------------------------------------------------------------------------------------------------------
+
+    (6) Repetitively inspect Groups 1, 2, 3, 5, and 6 airplanes that 
+have ``big butterfly'' plates and lower splice plates, P/Ns 20211-09 
+and 20211-11, installed following Ayres Corporation Custom Kit No. 
+CK-AG-29, Part II, dated December 23, 1997; or that have ``big 
+butterfly'' plates and lower splice plates, P/Ns 94418-5 and 94418-
+7, or P/Ns 94418-13 and 94418-15, installed following Thrush 
+Aircraft, Inc. Custom Kit No. CK-AG-41, Revision A, dated March 8, 
+2007; and meet the conditions in paragraph (i)(4) of this AD. Follow 
+the wing front lower spar cap hours TIS compliance schedule below:
+
+[[Page 3138]]
+
+
+
+  Table 4--Repetitive Inspections Times for Airplane Groups 1, 2, 3, 5, and 6 With ``Big Butterfly'' Plates and
+                                               Lower Splice Plates
+----------------------------------------------------------------------------------------------------------------
+ When airplanes accumulate the following   Inspect within the following
+  hours TIS on the wing front lower spar        hours TIS after the       Inspect thereafter at intervals not to
+cap since the last inspection required in   effective date of this AD,                 exceed . . .
+         AD 2006[dash]07[dash]15,
+----------------------------------------------------------------------------------------------------------------
+(i) Magnetic particle inspection:........  ............................  450 hours TIS.
+    (A) 650 or more hours TIS............  (A) 50 hours TIS............
+    (B) 375 through 649 hours TIS........  (B) 75 hours TIS............
+    (C) Less than 375 hours TIS..........  (C) upon accumulating 450
+                                            hours TIS.
+(ii) Eddy Current inspection:............  ............................  625 hours TIS.
+    (A) 900 or more hours TIS............  (A) 50 hours TIS............
+    (B) 550 through 899 hours TIS........  (B) 75 hours TIS............
+    (C) Less than 550 hours TIS..........  (C) upon accumulating 625
+                                            hours TIS.
+----------------------------------------------------------------------------------------------------------------
+
+
+    Note 1: Group 5 airplanes had P/Ns 20211-09 and 20211-11 
+installed at the factory.
+
+    (7) Repetitively inspect airplanes that incorporate Thrush 
+Aircraft, Inc. Custom Kit No. CK-AG-41, Revision A, dated March 8, 
+2007, in its entirety that meet the conditions in paragraph (i)(4) 
+of this AD. Follow the wing front lower spar cap hours TIS 
+compliance schedule below:
+
+Table 5--Repetitive Inspection Times for Airplanes With Thrush Aircraft,
+ Inc. Custom Kit No. CK-AG-41, Revision A, Incorporated in Its Entirety
+------------------------------------------------------------------------
+   When using the following     Repetitively inspect at intervals not to
+     inspection methods,                      exceed . . .
+------------------------------------------------------------------------
+(i) Magnetic particle          900 hours TIS.
+ inspection.
+(ii) Eddy current inspection.  1,250 hours TIS.
+------------------------------------------------------------------------
+
+     (j) Initially replace the wing front lower spar caps, P/Ns 
+20207-1, 20207-2, 20207-11, 20207-12, 20207-13, 20207-14, 20207-15, 
+or 20207-16, at the times specified in Table 6 of this AD. 
+Repetitively replace thereafter at the life limit times specified in 
+Table 7 of this AD. Do the replacements as specified in paragraph 
+(l)(4) of this AD.
+
+     Table 6--Initial Compliance Time for Wing Front Lower Spar Cap
+                               Replacement
+------------------------------------------------------------------------
+                                 Replace the wing front lower spar cap
+ Total hours TIS on the wing   upon accumulating the following hours TIS
+     front lower spar cap       on the spar cap after the effective date
+                                               of this AD
+------------------------------------------------------------------------
+(i) Group 1 with a radial      500 hours.
+ engine and more than 15,000
+ hours TIS.
+(ii) Group 1 with a radial     1,000 hours.
+ engine and 12,000 to 15,000
+ hours TIS.
+(iii) Group 1 with a radial    1,500 hours.
+ engine and 9,000 to 11,999
+ hours TIS.
+(iv) Group 1 with a radial     2,000 hours.
+ engine and 7,400 to 8,999
+ hours TIS.
+(v) Group 1 with a radial      Use Table 7(xxii).
+ engine and less than 7,400
+ hours TIS.
+(vi) Group 1 with a turbine    500 hours.
+ engine and more than 14,000
+ hours TIS.
+(vii) Group 1 with a turbine   1,000 hours.
+ engine and 11,000 to 14,000
+ hours TIS.
+(viii) Group 1 with a turbine  1,500 hours.
+ engine and 8,000 to 10,999
+ hours TIS.
+(ix) Group 1 with a turbine    2,000 hours.
+ engine and 4,200 to 7,999
+ hours TIS.
+(x) Group 1 with a turbine     Use Table 7(xxiii).
+ engine and less than 4,200
+ hours TIS.
+(xi) Group 2 with more than    500 hours.
+ 9,000 hours TIS.
+(xii) Group 2 with 6,000 to    1,000 hours.
+ 9,000 hours TIS.
+(xiii) Group 2 with 3,900      1,500 hours.
+ hours to 5,999 hours TIS.
+(xiv) Group 2 with less than   Use Table 7(xxiv).
+ 3,900 hours TIS.
+(xv) Group 3 and 6 with more   500 hours.
+ than 28,800 hours TIS.
+(xvi) Group 3 and 6 with       1,000 hours.
+ 27,800 to 28,799 hours TIS.
+(xvii) Group 3 and 6 with      Use Table 7(xxv).
+ less than 27,800 hours TIS.
+(xviii) Group 5 with more      500 hours.
+ than 8,000 hours TIS.
+(xix) Group 5 with 5,000 to    1,000 hours.
+ 7,999 hours TIS.
+(xx) Group 5 with 2,400 to     1,500 hours.
+ 4,999 hours TIS.
+(xxi) Group 5 with less than   Use Table 7(xxvi).
+ 2,400 hours TIS.
+------------------------------------------------------------------------
+
+
+             Table 7--Wing Front Lower Spar Cap Life Limits
+------------------------------------------------------------------------
+                                 Replace wing front lower spar cap upon
+        Airplane group          the accumulation of the following hours
+                                          TIS on the spar cap:
+------------------------------------------------------------------------
+(xxii) Group 1 with a radial   9,400 hours TIS.
+ engine.
+
+[[Page 3139]]
+
+ 
+(xxiii) Group 1 with a         6,200 hours TIS.
+ turbine engine.
+(xxiv) Group 2...............  5,400 hours TIS.
+(xxv) Groups 3 and 6.........  28,800 hours TIS.
+(xxvi) Group 5...............  3,900 hours TIS with original wing front
+                                lower spar cap P/N 20207-11 or P/N 20207-
+                                12.
+                               5,400 hours TIS after original wing front
+                                lower spar cap has been replaced with
+                                any P/N 20207-xx wing front lower spar
+                                cap.
+------------------------------------------------------------------------
+
+
+    Note 2: There is evidence of sharp, uneven edges on the spar cap 
+bolt holes that resulted from the manufacturing process in Group 5 
+airplanes. Once the original wing front lower spar caps are 
+replaced, the life limit increases.
+
+    (k) As previously stated in paragraph (f) of this AD, any Group 
+3 airplane that has been modified with a hopper of a capacity more 
+than 410 gallons, a piston engine greater than 600 horsepower, or a 
+gas turbine engine greater than 600 horsepower, is a Group 1 
+airplane for the purposes of this AD. Replace the wing front lower 
+spar caps using the following formulas.
+    (1) For airplanes that were originally Group 3 airplanes and 
+later modified by installing a piston engine of greater than 600 
+horsepower and/or a hopper capacity of greater than 410 gallons, 
+calculate the equivalent Group 1 hours TIS on each spar cap as 
+follows:
+[GRAPHIC] [TIFF OMITTED] TR20JA10.000
+
+    (ii) Equivalent Group 1 hours TIS = 9,400 x Usage Factor
+    (2) For airplanes that were originally Group 3 airplanes and 
+later modified by installing a turbine engine of greater than 600 
+horsepower, with or without installing a hopper with greater than 
+410 gallon capacity, calculate the equivalent Group 1 hours TIS on 
+each spar cap as follows:
+[GRAPHIC] [TIFF OMITTED] TR20JA10.001
+
+    (ii) Equivalent Group 1 hours TIS = 6,200 x Usage Factor
+    (3) When the equivalent Group 1 hours TIS on the wing front 
+lower spar cap equals the life limit of 9,400 hours TIS if a radial 
+piston engine is installed or reaches 6,200 hours TIS if a turbine 
+engine is installed, the wing front lower spar cap must be replaced. 
+Use Table 6 if over the life limit.
+    (4) See the appendix to this AD for examples of how to calculate 
+the applicable life limit.
+    (l) If any cracks are found during any inspection required by 
+this AD, you must repair the cracks or replace the wing front lower 
+spar cap before further flight.
+    (1) Use the cold work process to ream out small cracks as 
+defined in Ayres Corporation Service Bulletin No. SB-AG-39, dated 
+September 17, 1996, and deburr the bolt hole edges with the splice 
+blocks removed after cold work is performed; or
+    (2) If the crack is found in a \1/4\-inch bolt hole, ream the 
+\1/4\-inch bolt hole to \5/16\ inches diameter as defined in Part I 
+of Ayres Corporation Custom Kit No. CK-AG-29, dated December 23, 
+1997; or
+    (3) Install Kaplan splice blocks, P/N 22515-1/3 or P/N 88-251, 
+following Quality Aerospace, Inc. Custom Kit No. CK-AG-30, dated 
+December 6, 2001; or
+    (4) Replace the affected wing front lower spar cap following an 
+FAA-approved procedure. Contact the FAA at the address in paragraph 
+(t) of this AD to obtain an FAA-approved replacement procedure 
+unless previously provided by the manufacturer at delivery of the 
+airplanes. An alternative to replacing just the affected wing front 
+lower spar cap is to replace both wing front lower spar caps and the 
+surrounding structure following Thrush Aircraft, Inc. Custom Kit No. 
+CK-AG-41, Revision A, dated March 8, 2007. Another alternative to 
+replacing just the affected wing front lower spar cap is to replace 
+both wing front lower spar caps and the surrounding structure 
+following Avenger Aircraft and Services FAA STC SA03654AT for 
+Avenger Extended Performance Front Spar Enhancement Kit. You may 
+obtain a copy of FAA STC SA03654AT at <a href="http://www.faa.gov/aircraft/air_cert/design_approvals/stc/">http://www.faa.gov/aircraft/air_cert/design_approvals/stc/</a>. If you chose to install Thrush 
+Custom Kit No. CK-AG-41, the FAA recommends installing Custom Kit 
+No. CK-AG-41, Revision A, in its entirety although this is not 
+mandatory. The additional structure provided in Thrush Aircraft, 
+Inc. Custom Kit No. CK-AG-41, Revision A, dated March 8, 2007, will 
+provide a greater level of safety than the minimum acceptable level 
+of safety provided by replacing just the wing front lower spar cap. 
+If choosing to install the Avenger FAA STC kit, it is mandatory to 
+install the entire FAA STC kit.
+    (m) If a crack is found, the reaming associated with the cold 
+work process may remove a crack if it is small enough. Some aircraft 
+owners/operators were issued AMOCs with AD 97-17-03 to ream the \1/
+4\-inch bolt hole to \5/16\ inches diameter to remove small cracks. 
+Ayres Corporation Custom Kit No. CK-AG-29, Part I, dated December 
+23, 1997, also provides procedures to ream the \1/4\-inch bolt hole 
+to \5/16\ inches diameter, which may remove a small crack. Resizing 
+the holes to the required size to install a Kaplan splice block may 
+also remove small cracks. If you use any of these methods to remove 
+cracks and the airplane is re-inspected before further flight and no 
+cracks are found, you may continue to follow the repetitive 
+inspection intervals for your airplane listed in paragraphs (i)(5), 
+(i)(6), or (i)(7) of this AD.
+    (n) For all inspection methods (magnetic particle or eddy 
+current), hours TIS for initial and repetitive inspection intervals 
+and wing front lower spar cap life limit start over when
+
+[[Page 3140]]
+
+the wing front lower spar cap is replaced with a new P/N 20207-1, 
+20207-2, 20207-11, 20207-12, 20207-13, 20207-14, 20207-15, or 20207-
+16. These wing front lower spar caps must be inspected as specified 
+in paragraphs (i)(3), (i)(5), (i)(6), and (i)(7) of this AD.
+    (1) If the wings or wing front lower spar caps were replaced 
+with new or used wings or wing front lower spar caps during the life 
+of the airplane and the logbook records positively show the hours 
+TIS of the replacement wings or wing front lower spar caps, then 
+initially inspect at applicable times specified in paragraph (i)(3) 
+of this AD. Repetitively inspect thereafter at intervals specified 
+paragraphs (i)(5), (i)(6), or (i)(7) of this AD. Replace the wing 
+front lower spar caps upon reaching the life limit specified in 
+Table 7 of this AD.
+    (2) If the wings or wing front lower spar caps were replaced 
+with new or used wings or wing front lower spar caps during the life 
+of the airplane and logbook records do not positively show the hours 
+TIS of the replacement wings or wing front lower spar caps, then 
+inspect within 50 hours TIS after February 24, 2010 (the effective 
+date of this AD), unless already done. Repetitively inspect 
+thereafter at intervals specified in paragraphs (i)(5), (i)(6), or 
+(i)(7) of this AD. Replace the wing front lower spar caps within 500 
+hours TIS after February 24, 2010 (the effective date of this AD).
+    (3) If both wing front lower spar caps are replaced by 
+installing the entire Thrush Aircraft, Inc. Custom Kit No. CK-AG-41, 
+Revision A, dated March 8, 2007, then initially inspect at 2,000 
+hours TIS as shown in paragraph (i)(3) of this AD. Repetitively 
+inspect thereafter at intervals specified in paragraph (i)(7) of 
+this AD. Replace the wing front lower spar caps at times specified 
+in paragraph (i)(8) of this AD.
+    (o) Any wing front lower spar cap that is removed and is at or 
+beyond the replacement time specified in this AD must be disposed of 
+following the procedures in 14 CFR Part 43.10.
+    (p) Replacement times start over when the wing front lower spar 
+cap is replaced with a new P/N 20207-1, 20207-2, 20207-11, 20207-12, 
+20207-13, 20207-14, 20207-15, or 20207-16. These wing front lower 
+spar caps are now life-limited parts and must be replaced upon the 
+accumulation of the hours TIS specified in Table 7 of this AD.
+    (q) Report any cracks you find within 10 days after the cracks 
+are found or within 10 days after February 24, 2010 (the effective 
+date of this AD), whichever occurs later. Send your report to Cindy 
+Lorenzen, Aerospace Engineer, ACE-115A, Atlanta ACO, 1701 Columbia 
+Avenue, College Park, Georgia 30337; telephone: (404) 474-5524; 
+facsimile: (404) 474-5606; e-mail: <a href="/cdn-cgi/l/email-protection#593a30373d207735362b3c37233c37193f3838773e362f"><span class="__cf_email__" data-cfemail="04676d6a607d2a686b76616a7e616a446265652a636b72">[email&#160;protected]</span></a>. The 
+Office of Management and Budget (OMB) approved the information 
+collection requirements contained in this regulation under the 
+provisions of the Paperwork Reduction Act and assigned OMB Control 
+Number 2120-0056. Include in your report the following information:
+    (1) Aircraft model and serial number;
+    (2) Engine model;
+    (3) Aircraft hours TIS;
+    (4) Left and right wing front lower spar cap hours TIS;
+    (5) Hours TIS on the spar cap since last inspection;
+    (6) Crack location and size;
+    (7) Procedure (magnetic particle, ultrasonic, or eddy current) 
+used for the last inspection;
+    (8) Description of any previous modifications and hours TIS when 
+the modification was done, such as engine model change, installation 
+of winglets, hopper capacity increase, cold working procedure done 
+on bolt holes, installation of butterfly plates, or installation of 
+Thrush Aircraft, Inc. Custom Kit No. CK-AG-41.
+    (r) Installation of the replacement wing front lower spar caps 
+and other modification parts that are approved by FAA STC SA03654AT, 
+Installation of Avenger Extended Performance Front Spar Enhancement 
+Kit (new wing front spar lower caps, center splice and doublers), in 
+accordance with Part II of Avenger Master Data List AAS-MDL-08-001, 
+Revision B, dated November 26, 2008, terminates the actions required 
+by this AD. The installation of FAA STC SA03654AT is an alternative 
+to replacing the wing front lower spar caps with Ayres/Thrush wing 
+front lower spar caps.
+
+Special Flight Permits
+
+    (s) Under 14 CFR part 39.23, we are limiting the special flight 
+permits for this AD by the following conditions:
+    (1) The hopper is empty;
+    (2) Vne is reduced to 126 miles per hour (109 knots) indicated 
+airspeed (IAS); and
+    (3) Flight into known turbulence is prohibited.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (t) The Manager, Atlanta Aircraft Certification Office, (ACO) 
+FAA, ATTN: Cindy Lorenzen, Aerospace Engineer, ACE-115A, Atlanta 
+ACO, 1701 Columbia Avenue, College Park, Georgia 30337; telephone: 
+(404) 474-5524; facsimile: (404) 474-5606; e-mail: 
+<a href="/cdn-cgi/l/email-protection#43202a2d273a6d2f2c31262d39262d032522226d242c35"><span class="__cf_email__" data-cfemail="bdded4d3d9c493d1d2cfd8d3c7d8d3fddbdcdc93dad2cb">[email&#160;protected]</span></a>; or William O. Herderich, Aerospace Engineer, 
+ACE-117A, Atlanta ACO, 1701 Columbia Avenue, College Park, Georgia 
+30337; telephone: (404) 474-5547; facsimile: (404) 474-5606; e-mail: 
+<a href="/cdn-cgi/l/email-protection#17607e7b7b7e767a3978397f72657372657e747f5771767639707861"><span class="__cf_email__" data-cfemail="d7a0bebbbbbeb6baf9b8f9bfb2a5b3b2a5beb4bf97b1b6b6f9b0b8a1">[email&#160;protected]</span></a>, has the authority to approve AMOCs for 
+this AD, if requested using the procedures found in 14 CFR 39.19. 
+Before using any approved AMOC on any airplane to which the AMOC 
+applies, notify your appropriate principal inspector (PI) in the FAA 
+Flight Standards District Office (FSDO), or lacking a PI, your local 
+FSDO.
+    (u) AMOCs approved for AD 2006-07-15, AD 2003-07-01, AD 2000-11-
+16, AD 97-13-11, and/or AD 97-17-03 are approved as AMOCs for this 
+AD except for those pertaining to ultrasonic inspection methods.
+
+Material Incorporated by Reference
+
+    (v) You must use Ayres Corporation Service Bulletin No. SB-AG-
+39, dated September 17, 1996; Ayres Corporation Custom Kit No. CK-
+AG-29, dated December 23, 1997; Quality Aerospace, Inc. Custom Kit 
+No. CK-AG-30, dated December 6, 2001; Thrush Aircraft, Inc. Custom 
+Kit No. CK-AG-41, Revision A, dated March 8, 2007; and Part II of 
+Avenger Master Data List AAS-MDL-08-001, Revision B, dated November 
+26, 2008, to do the actions required by this AD, unless the AD 
+specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of Thrush Aircraft, Inc. Custom Kit No. 
+CK-AG-41, Revision A, dated March 8, 2007, and Part II of Avenger 
+Master Data List AAS-MDL-08-001, Revision B, dated November 26, 
+2008, under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) On May 20, 2003 (68 FR 15653), the Director of the Federal 
+Register approved the incorporation by reference of Quality 
+Aerospace, Inc. Custom Kit No. CK-AG-30, dated December 6, 2001.
+    (3) On July 25, 2000 (65 FR 36055), the Director of the Federal 
+Register approved the incorporation by reference of Ayres 
+Corporation Service Bulletin No. SB-AG-39, dated September 17, 1996; 
+and Ayres Corporation Custom Kit No. CK-AG-29, dated December 23, 
+1997.
+    (4) For service information identified in this AD, contact 
+Thrush Aircraft, Inc., 300 Old Pretoria Road, P.O. Box 3149, Albany, 
+Georgia 31706-3149, Internet: <a href="http://www.thrushaircraft.com">http://www.thrushaircraft.com</a>. To 
+obtain information about Avenger Master Data List AAS-MDL-08-001 and 
+the optional installation of FAA STC SA03654AT, contact Avenger 
+Aircraft and Services, 103 N. Main Street, Suite 106, Greenville, 
+South Carolina 29601, Internet: <a href="http://www.avengeraircraft.com">http://www.avengeraircraft.com</a>.
+    (5) You may review copies of the service information 
+incorporated by reference for this AD at the FAA, Central Region, 
+Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 
+64106. For information on the availability of this material at the 
+Central Region, call (816) 329-3768.
+    (6) You may also review copies of the service information 
+incorporated by reference for this AD at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+Appendix to AD 2009-26-11
+
+    The following are examples of calculating equivalent Group 1 
+hours.
+
+    Example 1: S/N xxx was originally a Group 3 airplane; later it 
+was modified with a Wright R-1820-71, 1200 horsepower, radial engine 
+when the wing front lower spar caps had 15,700 hours TIS on them. 
+The wing front lower spar caps have accumulated an additional 8,200 
+hours since the engine conversion for a total of 23,900 hours TIS on 
+the wing front lower spar caps.
+
+Usage Factor = 15,700 hours/28,800 + 8,200 hours/9,400 = 1.417
+Equivalent Group 1 hours = 9,400 x 1.417 = 13,320 hours.
+
+    The wing front lower spar caps will need to be replaced within 
+the next 1,000 hours TIS after the effective date of this AD as 
+determined by Table 6 for a Group 1 airplane
+
+[[Page 3141]]
+
+with a radial engine with between 12,000 and 15,000 hours TIS.
+
+    Example 2: S/N yyy was originally a Group 3 airplane; later it 
+was modified with a PT6A-34, 750 horsepower, turbine engine when the 
+wing front lower spar caps had 5,300 hours TIS on them. The wing 
+front lower spar caps now have 7,700 hours TIS.
+
+Usage Factor = 5,300 hours/28,800 + (7,700 - 5,300)/6,200 = 0.571
+Equivalent Group 1 hours = 6,200 x 0.571 = 3,540 hours.
+
+    The wing front lower spar caps will need to be replaced at 6,200 
+equivalent Group 1 total hours TIS, which is within the next 2,660 
+hours TIS (6,200 - 3,540 = 2,660).
+
+    Issued in Kansas City, Missouri, on January 8, 2010.
+Margaret Kline,
+Acting Manager, Small Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2010-594 Filed 1-19-10; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

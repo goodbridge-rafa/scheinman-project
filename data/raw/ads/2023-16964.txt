@@ -1,0 +1,462 @@
+<html>
+<head>
+<title>Federal Register, Volume 88 Issue 152 (Wednesday, August 9, 2023)</title>
+</head>
+<body><pre>
+[Federal Register Volume 88, Number 152 (Wednesday, August 9, 2023)]
+[Rules and Regulations]
+[Pages 53761-53764]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2023-16964]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-1653; Project Identifier AD-2023-00899-A; 
+Amendment 39-22519; AD 2023-15-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Air Tractor, Inc. Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Air Tractor, Inc. (Air Tractor) Model AT-802 and AT-802A airplanes that 
+have Wipaire Supplemental Type Certificate (STC) No. SA01795CH 
+installed. This AD was prompted by reports of cracks found in the 
+forward horizontal stabilizer spar where the vertical finlets tie to 
+the horizontal tail forward spar. This AD requires repetitively 
+inspecting both the left and right forward horizontal stabilizer spars 
+for cracks and replacing any forward horizontal stabilizer spar found 
+cracked. This AD also requires reporting inspection results to the FAA. 
+The FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+DATES: This AD is effective August 9, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of August 9, 
+2023.
+    The FAA must receive comments on this AD by September 25, 2023.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://regulations.gov">regulations.gov</a>. Follow 
+the instructions for submitting comments.
+
+[[Page 53762]]
+
+    <bullet> Fax: 202-493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    <bullet> Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2023-1653; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+    <bullet> For service information identified in this final rule, 
+contact Wipaire, Inc., 1700 Henry Ave., Fleming Field (KSGS), South St. 
+Paul, MN 55075; phone: (651) 451-1205; email: 
+<a href="/cdn-cgi/l/email-protection#e3809690978c8e8691908691958a8086a3df82c38b918685de" http: wipaire.com">wipaire.com</a>">customerservice@<a href="http://wipaire.com">wipaire.com</a></a>; website: <a href="http://wipaire.com">wipaire.com</a>.
+    <bullet> You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 901 Locust, 
+Kansas City, MO 64106. For information on the availability of this 
+material at the FAA, call (817) 222-5110. It is also available at 
+<a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2023-1653.
+
+FOR FURTHER INFORMATION CONTACT: Tim Eichor, Aviation Safety Engineer, 
+Central Certification Branch, FAA, 1801 S Airport Road, Wichita, KS 
+67209; phone: (847) 294-7141; email: <a href="/cdn-cgi/l/email-protection#86f2efeba8e2a8e3efe5eee9f4c6e0e7e7a8e1e9f0"><span class="__cf_email__" data-cfemail="becad7d390da90dbd7ddd6d1ccfed8dfdf90d9d1c8">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments to an address listed under 
+ADDRESSES. Include ``Docket No. FAA-2023-1653, Project Identifier AD-
+2023-00899-A'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the final rule, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+<a href="http://regulations.gov">regulations.gov</a>, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to Tim 
+Eichor, Aviation Safety Engineer, Central Certification Branch, FAA, 
+1801 South Airport Road, Wichita, KS 67209. Any commentary that the FAA 
+receives which is not specifically designated as CBI will be placed in 
+the public docket for this rulemaking.
+
+Background
+
+    During routine maintenance, an Air Tractor Model AT-802 airplane 
+was found with a hairline crack in the flange of the right forward 
+horizontal stabilizer spar. The airplane had STC No. SA01795CH 
+installed and is used in fire-fighting missions, which can propagate 
+crack growth more rapidly. Of the 144 Air Tractor Model AT-802 and AT-
+802A airplanes that have this STC, 45 have been inspected, and 24 of 
+those inspected had cracks found in at least one forward horizontal 
+stabilizer spar. The cracking is in the forward horizontal stabilizer 
+spar bend radius located at the STC finlet mounting locations.
+    This condition, if not addressed, could result in structural 
+failure of the horizontal tail with consequent loss of control of the 
+airplane. The FAA is issuing this AD to address the unsafe condition on 
+these products.
+
+FAA's Determination
+
+    The FAA is issuing this AD because the agency has determined the 
+unsafe condition described previously is likely to exist or develop in 
+other products of the same type design.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Wipaire, Inc. Service Letter 253, Revision B, 
+dated July 27, 2023, which specifies procedures for inspecting the left 
+and right forward horizontal stabilizer spars for cracks. This service 
+information is reasonably available because the interested parties have 
+access to it through their normal course of business or by the means 
+identified in ADDRESSES.
+
+AD Requirements
+
+    This AD requires repetitively inspecting both the left and right 
+forward horizontal stabilizer spars for cracks and replacing any 
+forward horizontal stabilizer spar found cracked. This AD also requires 
+reporting inspection results to the FAA.
+
+Interim Action
+
+    The FAA considers this AD to be an interim action. The STC design 
+approval holder is working on a modification to the STC configurations 
+to address this issue. The FAA may consider future rulemaking on this 
+subject.
+
+Justification for Immediate Adoption and Determination of the Effective 
+Date
+
+    Section 553(b)(3)(B) of the Administrative Procedure Act (APA) (5 
+U.S.C. 551 et seq.) authorizes agencies to dispense with notice and 
+comment procedures for rules when the agency, for ``good cause,'' finds 
+that those procedures are ``impracticable, unnecessary, or contrary to 
+the public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    An unsafe condition exists that requires the immediate adoption of 
+this AD without providing an opportunity for public comments prior to 
+adoption. The FAA has found that the risk to the flying public 
+justifies forgoing notice and comment prior to adoption of this rule 
+because cracks in the forward horizontal stabilizer spars could lead to 
+structural failure of the horizontal tail with consequent loss of 
+control of the airplane. Airplanes with the affected STC installed are 
+used in fire-fighting missions and put frequent high repetitive fatigue 
+loads in this area at a high utilization rate. Based on the number of 
+cracks found to date, a significant number of airplanes need to be 
+inspected within 3 to 15 days depending on the configuration. This 
+compliance time is shorter than the time necessary for the public to 
+comment and for publication of the final rule.
+
+[[Page 53763]]
+
+    Accordingly, notice and opportunity for prior public comment are 
+impracticable and contrary to the public interest pursuant to 5 U.S.C. 
+553(b)(3)(B).
+    In addition, the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days, 
+for the same reasons the FAA found good cause to forgo notice and 
+comment.
+
+Regulatory Flexibility Act
+
+    The requirements of the Regulatory Flexibility Act (RFA) do not 
+apply when an agency finds good cause pursuant to 5 U.S.C. 553 to adopt 
+a rule without prior notice and comment. Because FAA has determined 
+that it has good cause to adopt this rule without prior notice and 
+comment, RFA analysis is not required.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 30 airplanes of U.S. 
+registry.
+    The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+            Action                Labor cost      Parts cost      Cost per product       Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+Inspect forward horizontal     20 work-hours x            $0  $1,700 per inspection     $51,000 per inspection
+ stabilizer spars.              $85 per hour =                 cycle.                    cycle.
+                                $1,700.
+Report inspection results....  1 work-hour x               0  85 per inspection cycle.  2,550 per inspection
+                                $85 per hour =                                           cycle.
+                                $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary 
+replacements that would be required based on the results of the 
+inspection. The agency has no way of determining the number of 
+airplanes that might need this replacement:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replace a cracked forward horizontal            40 work-hours x $85 per hour =            $1,325          $4,725
+ stabilizer spar.                                $3,400.
+----------------------------------------------------------------------------------------------------------------
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to be 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2023-15-07 Air Tractor, Inc.: Amendment 39-22519; Docket No. FAA-
+2023-1653; Project Identifier AD-2023-00899-A.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 9, 2023.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Air Tractor, Inc. Model AT-802 and AT-802A 
+airplanes, all serial numbers, certificated in any category, that
+
+[[Page 53764]]
+
+have Wipaire, Inc. Supplemental Type Certificate (STC) No. SA01795CH 
+installed.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5510, Horizontal 
+Stabilizer Structure; 5511 Horizontal stabilizer, Spar/Rib; 5514, 
+Horizontal Stabilizer Miscellaneous Structure; 5530, Vertical 
+Stabilizer Structure.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of cracks found in at least one 
+forward horizontal stabilizer spar on 24 of the affected airplanes 
+where the vertical finlets tie to the forward horizontal stabilizer 
+spar. The FAA is issuing this AD to prevent structural failure of 
+the forward horizontal stabilizer spars. The unsafe condition, if 
+not addressed, could result in structural failure of the horizontal 
+tail with consequent loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) At the compliance times in paragraphs (g)(1)(i) through 
+(iii) of this AD, as applicable, and thereafter at intervals not to 
+exceed 200 hours time-in-service (TIS), inspect the left and right 
+forward horizontal stabilizer spars for cracks in accordance with 
+Steps 1 through 9 of the Work Instructions of Wipaire, Inc. Service 
+Letter 253, Revision B, dated July 27, 2023.
+    (i) For STC configuration 7D1-4399-01: Within 3 days or 24 hours 
+TIS after the effective date of this AD or before the accumulation 
+of 200 hours TIS since installation of STC No. SA01795CH, whichever 
+occurs later.
+    (ii) For STC configuration 7D1-4399-02: Within 5 days or 24 
+hours TIS after the effective date of this AD or before the 
+accumulation of 300 hours TIS since installation of STC No. 
+SA01795CH, whichever occurs later.
+    (iii) For STC configuration 7D1-4399-03: Within 15 days or 24 
+hours TIS after the effective date of this AD or before the 
+accumulation of 600 hours TIS since installation of STC No. 
+SA01795CH, whichever occurs later.
+    (2) If any crack is found in a forward horizontal stabilizer 
+spar during any inspection required by paragraph (g)(1) of this AD, 
+before further flight, replace the cracked forward horizontal 
+stabilizer spar. Replacement of the cracked forward horizontal 
+stabilizer spar starts the initial and repetitive inspections over.
+    (3) Within 10 days after each inspection required by paragraph 
+(g)(1) of this AD or within 10 days after the effective date of this 
+AD, whichever occur later, report the following to the FAA at the 
+address in paragraph (j)(1) of this AD. Report this information 
+regardless of whether cracks are found.
+    (i) Model, engine configuration (with horsepower limits), and 
+propeller type;
+    (ii) Serial number and N number;
+    (iii) Total hours TIS on airframe;
+    (iv) Total hours TIS operated with floats, if known;
+    (v) STC configuration and total hours with STC installed;
+    (vi) Crack location (right or left, upper/lower caps inboard/
+outboard hole);
+    (vii) Crack size;
+    (viii) Photos of cracks found, if available; and
+    (ix) Any additional operator/mechanic comments
+
+(h) Credit for Previous Actions
+
+    You may take credit for the initial inspection required by 
+paragraph (g)(1) of this AD if, before the effective date of this 
+AD, you complied with Wipaire, Inc. Service Letter 253, Revision A, 
+dated April 5, 2023.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Central Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the Certification Branch, send it to the 
+attention of the person identified in paragraph (j)(1) of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact Tim Eichor, 
+Aviation Safety Engineer, Central Certification Branch, FAA, 1801 S 
+Airport Road, Wichita, KS 67209; phone: (847) 294-7141; email: 
+<a href="/cdn-cgi/l/email-protection#bfcbd6d291db91dad6dcd7d0cdffd9dede91d8d0c9"><span class="__cf_email__" data-cfemail="80f4e9edaee4aee5e9e3e8eff2c0e6e1e1aee7eff6">[email&#160;protected]</span></a>.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (k)(3) and (4) of this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Wipaire, Inc. Service Letter 253, Revision B, dated July 27, 
+2023.
+    (ii) [Reserved]
+    (3) For service information identified in this AD, contact 
+Wipaire, Inc., 1700 Henry Ave, Fleming Field (KSGS), South St. Paul, 
+MN 55075; phone: (651) 451-1205; email: <a href="/cdn-cgi/l/email-protection#96f5e3e5e2f9fbf3e4e5f3e4e0fff5f3d6aaf7b6fee4f3f0ab" http: wipaire.com">wipaire.com</a>">customerservice@<a href="http://wipaire.com">wipaire.com</a></a>; 
+website: <a href="http://wipaire.com">wipaire.com</a>.
+    (4) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 901 
+Locust, Kansas City, MO 64106. For information on the availability 
+of this material at the FAA, call (817) 222-5110.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email: <a href="/cdn-cgi/l/email-protection#f49286da9d9a87849197809d9b9ab49a958695da939b82"><span class="__cf_email__" data-cfemail="6107134f080f1211040215080e0f210f0013004f060e17">[email&#160;protected]</span></a>, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on July 28, 2023.
+Ross Landes,
+Deputy Director for Regulatory Operations, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2023-16964 Filed 8-7-23; 11:15 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

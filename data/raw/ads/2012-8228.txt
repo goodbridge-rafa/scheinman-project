@@ -1,0 +1,656 @@
+<html>
+<head>
+<title>Federal Register, Volume 77 Issue 69 (Tuesday, April 10, 2012)</title>
+</head>
+<body><pre>
+[Federal Register Volume 77, Number 69 (Tuesday, April 10, 2012)]
+[Rules and Regulations]
+[Pages 21429-21433]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2012-8228]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0025; Directorate Identifier 2010-NM-208-AD; 
+Amendment 39-17012; AD 2012-07-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 777 airplanes. This AD was prompted by a new 
+revision to the airworthiness limitations of the maintenance planning 
+document. This AD requires revising the maintenance program to update 
+inspection requirements to detect fatigue cracking of principal 
+structural elements (PSEs). We are issuing this AD to ensure that 
+fatigue cracking of various PSEs is detected and corrected; such 
+fatigue cracking could adversely affect the structural integrity of 
+these airplanes.
+
+DATES: This AD is effective May 15, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of May 15, 2012.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1; fax 206-766-5680; email <a href="/cdn-cgi/l/email-protection#bcd1d992ded3d9dfd3d1fcded3d9d5d2db92dfd3d1"><span class="__cf_email__" data-cfemail="0568602b676a60666a6845676a606c6b622b666a68">[email&#160;protected]</span></a>; 
+Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may review copies of the 
+referenced service information at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue SW., Renton, Washington. For information 
+on the availability of this material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: James Sutherland, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue SW., Renton, Washington 98057-3356; phone: 425-917-
+6533; fax: (425) 917-6590; email: <a href="/cdn-cgi/l/email-protection#044e656961772a5771706c617668656a60446265652a636b72"><span class="__cf_email__" data-cfemail="eca68d81899fc2bf999884899e808d8288ac8a8d8dc28b839a">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+That NPRM published in the Federal Register on January 19, 2011 (76 FR 
+3054). That NPRM proposed to require revising the maintenance program 
+to update inspection requirements to detect fatigue cracking of 
+principal structural elements (PSEs).
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(76 FR 3054, January 19, 2011) and the FAA's response to each comment.
+
+Request To Refer to Latest Service Information
+
+    Boeing and Japan Airlines (JAL) requested that we revise the NPRM 
+(76 FR 3054, January 19, 2011) to refer to two new revisions of Section 
+9, ``Airworthiness Limitations (AWLs) and Certification Maintenance 
+Requirements (CMRs),'' D622W001-9, of the Boeing 777 Maintenance 
+Planning Data (MPD) Document, published after we issued the NPRM. 
+Boeing stated that both revisions contain the same structures 
+airworthiness limitations (AWL) data, but were revised for reasons that 
+did not affect the data in Subsection B, Airworthiness Limitations--
+Structural Inspections of that document, which was specified in the 
+NPRM.
+    We agree with the request to refer to the later service 
+information. We have changed this final rule to refer to Section 9, 
+``Airworthiness Limitations (AWLs) and Certification Maintenance 
+Requirements (CMRs),'' D622W001-9, Revision July 2011, of the Boeing 
+777 Maintenance Planning Data (MPD) Document to this AD. (Section 9, 
+``Airworthiness Limitations (AWLs) and Certification Maintenance 
+Requirements (CMRs),'' D622W001-9, Revision January 2010, of the Boeing 
+777 Maintenance Planning Data (MPD) Document was specified in the NPRM 
+(76 FR 3054, January 19, 2011).) (Subsection B, Airworthiness 
+Limitations--Structural Inspections, of Section 9, ``Airworthiness 
+Limitations (AWLs) and Certification Maintenance Requirements (CMRs),'' 
+D622W001-9, of the Boeing 777 Maintenance Planning Data (MPD) Document 
+is identical to the January 2010 revision.) We have changed paragraph 
+(g) in this final rule accordingly.
+
+[[Page 21430]]
+
+Request To Revise Inspection Requirements for Certain Airplanes
+
+    JAL requested that, for certain airplanes, we revise paragraph (g) 
+of the NPRM (76 FR 3054, January 19, 2011) to require inspection 
+procedures and intervals as determined by the damage tolerance rating 
+check form, rather than Section 2, Structural Inspection Program, of 
+the Boeing 777 Maintenance Planning Data (MPD) Document. JAL 
+acknowledged that Section 2 of this MPD document usually incorporates 
+recommended inspection procedures and intervals. JAL noted, however, 
+that Section 2 in the latest revision of this MPD document includes 
+data only for Model 777-200 series airplanes. Since no data are 
+provided for the remaining airplanes affected by this AD (Model 777-
+200LR, -300, -300ER, and 777F series airplanes), JAL requested that 
+those airplanes be excluded from the requirement until the MPD document 
+includes relevant data.
+    We do not agree that the requested change is necessary, because the 
+information regarding required inspection methods and intervals for 
+these airplanes is provided in Subsection B, Airworthiness 
+Limitations--Structural Inspections, of Section 9, ``Airworthiness 
+Limitations (AWLs) and Certification Maintenance Requirements (CMRs),'' 
+D622W001-9, Revision July 2011, of the Boeing 777 Maintenance Planning 
+Data (MPD) Document. We have not changed the final rule regarding this 
+issue.
+
+Request To Retain Applicability
+
+    Boeing also advised that the revised inspection requirements in 
+Section 9, ``Airworthiness Limitations (AWLs) and Certification 
+Maintenance Requirements (CMRs),'' D622W001-9, Revision July 2011, of 
+the Boeing 777 Maintenance Planning Data (MPD) Document, affect only 
+Model 777-200, -300, -300ER and -200LR series airplanes. Boeing 
+reported that Section 9 of the Boeing 777F MPD document was previously 
+developed based on the same damage tolerance methods and the same fleet 
+and full-scale test data as those included in Section 9, 
+``Airworthiness Limitations (AWLs) and Certification Maintenance 
+Requirements (CMRs),'' D622W001-9, Revision July 2011, of the Boeing 
+777 Maintenance Planning Data (MPD) Document. Boeing asserted, 
+therefore, that Model 777F series airplanes should be included in the 
+applicability of the NPRM (76 FR 3054, January 19, 2011) regardless of 
+changes made to Section 9, ``Airworthiness Limitations (AWLs) and 
+Certification Maintenance Requirements (CMRs),'' D622W001-9, Revision 
+July 2011, of the Boeing 777 Maintenance Planning Data (MPD) Document. 
+Including those airplanes will ensure the ability to obtain approval of 
+potential future deviations for repairs or alternative inspections via 
+alternative methods of compliance (AMOCs) (as described in paragraph 
+(j) of this AD). Boeing made this comment in the event another party 
+requested that we remove Model 777F series airplanes from the NPRM.
+    We acknowledge Boeing's concern, and agree that there is no reason 
+to remove Model 777F series airplanes from the applicability specified 
+in the NPRM (76 FR 3054, January 19, 2011). We have not changed the 
+final rule regarding this issue.
+
+Request To Remove Certain Advisory Circular Reference
+
+    Note 2 of the NPRM (76 FR 3054, January 19, 2011) (paragraph (c)(2) 
+of this AD) provided guidance on certain revised operator maintenance 
+documents that include new inspections. Boeing requested that we remove 
+the last sentence of that note, which stated that guidance for the 
+determination can be found in FAA Advisory Circular (AC) 25.1529-1A, 
+dated November 20, 2007 (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf</a>). Boeing stated that this AC, as 
+revised, applies only to airplanes below 7,500 pounds gross weight, so 
+this AC no longer applies to Model 777 airplanes.
+    We agree with Boeing's request and rationale. We have revised 
+paragraph (c) of this AD accordingly.
+
+Request To Allow Additional Alternative Inspections and Intervals
+
+    American Airlines (AAL) and Boeing requested that we revise 
+paragraph (h) of the NPRM (76 FR 3054, January 19, 2011), which 
+prohibited alternative inspections or intervals except as specifically 
+approved as AMOCs. To reduce the workload associated with requesting 
+and approving AMOCs, the commenters requested that we include other 
+specified procedures and intervals.
+    Structurally Significant Items (SSIs) 53-00-I01, -I02, and -I03 
+define the entire fuselage skin as an SSI, and AAL was concerned that 
+the NPRM (76 FR 3054, January 19, 2011) provided no guidance or 
+information on how to address new and existing repairs. AAL surmised 
+that any external doubler repair (past or future) would conceal a 
+portion of the skin and would need AMOC approval for the inspection, 
+which would be impossible to perform with the repair in place. AAL 
+contended that any repair approved in accordance with section 25.571 of 
+the Federal Aviation Regulations (14 CFR 25.571) or section 26.43(c) of 
+the Federal Aviation Regulations (14 CFR 26.43(c)) has been addressed 
+for fatigue and damage tolerance and would provide the level of safety 
+desired by the NPRM.
+    Boeing requested that we also allow alternative inspections and 
+intervals specified in a later revision to Section 9, ``Airworthiness 
+Limitations (AWLs) and Certification Maintenance Requirements (CMRs),'' 
+D622W001-9, of the Boeing 777 Maintenance Planning Data (MPD) Document. 
+Since Section 9, ``Airworthiness Limitations (AWLs) and Certification 
+Maintenance Requirements (CMRs),'' D622W001-9, of the Boeing 777 
+Maintenance Planning Data (MPD) Document changes frequently and is FAA 
+approved, no subsequent re-approval should be necessary via AMOC. 
+Boeing also requested that we allow alternative inspections and 
+intervals if certain damage tolerance requirements have been met in 
+accordance with section 25.571(b) of the Federal Aviation Regulations 
+(14 CFR 25.571(b)), or section 26.43(c) of the Federal Aviation 
+Regulations (14 CFR 26.43(c)), or section 26.43(d) of the Federal 
+Aviation Regulations (14 CFR 26.43(d)).
+    We disagree with the requests. Paragraph (h) in this AD requires 
+compliance with the inspections unless AMOC approval is obtained as 
+specified in paragraph (j) of this AD. Allowing later revisions of 
+service documents in an AD violates Office of the Federal Register 
+regulations for approving materials incorporated by reference. Affected 
+operators may, however, request approval to use a later revision of 
+referenced service information as an alternative method of compliance. 
+In response to AAL's concern, operators must request a method of 
+compliance to address new and existing repairs, under the provisions of 
+paragraph (j) of the final rule. We have not changed the final rule 
+regarding this issue.
+
+Request To Allow Optional Materials
+
+    AAL requested that we revise the NPRM (76 FR 3054, January 19, 
+2011) to allow the optional use of BMS materials (sealants) permitted 
+in Boeing Document D-590, the Boeing 777 Airplane Maintenance Manual, 
+or the Boeing 777 Structural Repair Manual--instead of the specific 
+materials specified in Section 9, ``Airworthiness Limitations (AWLs) 
+and Certification Maintenance Requirements (CMRs),'' D622W001-9, 
+Revision January 2010, of the Boeing 777 Maintenance Planning
+
+[[Page 21431]]
+
+Data (MPD) Document. The use of alternative materials would allow for 
+ready compliance if the current BMS materials were discontinued or 
+improved.
+    We disagree with the request. The documents referenced by the 
+commenter specify specific procedures to remove the sealant, rather 
+than specific types of sealant. Further, some existing ADs including 
+those related to Special Federal Aviation Regulation No. 88 (``SFAR 
+88''), Amendment 21-78 and subsequent Amendments 21-82 and 21-83 (67 FR 
+72830, December 9, 2002), require specific sealants, which may be 
+identified in the BMS specifications, but only certain sealants may be 
+used to comply with SFAR88; operators are limited to the use of 
+sealants approved by other AD actions in areas that overlap with this 
+AD. The application of the sealants and materials in Subsection B, 
+Airworthiness Limitations--Structural Inspections, of Section 9, 
+``Airworthiness Limitations (AWLs) and Certification Maintenance 
+Requirements (CMRs),'' D622W001-9, Revision July 2011, of the Boeing 
+777 Maintenance Planning Data (MPD) Document, is often controlled by 
+other ADs that mandate the use of certain sealants for Subsections D 
+and E (of SFAR88). Operators may request an AMOC to use materials that 
+have been determined to be acceptable for the various ADs applicable to 
+Section 9, ``Airworthiness Limitations (AWLs) and Certification 
+Maintenance Requirements (CMRs),'' D622W001-9, Revision July 2011, of 
+the Boeing 777 Maintenance Planning Data (MPD) Document. We have not 
+changed the final rule regarding this issue.
+
+Request To Consider Future Boeing Delegated Compliance Organization 
+Delegation
+
+    Boeing requested that we revise paragraph (i)(3) of the NPRM (76 FR 
+3054, January 19, 2011), which provides information about AMOCs for 
+repairs. Boeing requested that we also specify AMOCs for inspection 
+methods, since there may be instances where the operator cannot conduct 
+the inspection method specified in Section 9, ``Airworthiness 
+Limitations (AWLs) and Certification Maintenance Requirements (CMRs),'' 
+D622W001-9, Revision January 2010, of the Boeing 777 Maintenance 
+Planning Data (MPD) Document, identified in the NPRM. Although 
+authority to approve AMOCs for supplemental inspections of baseline 
+structure may not currently exist for the Boeing Delegated Compliance 
+Organization (BDCO), Boeing suggested that including both repairs and 
+inspections would allow for potential future expansion of delegation.
+    We disagree with the request. The nondiscretionary basis for this 
+type of delegation has not yet been developed. At present, the FAA must 
+approve tasks that involve discretion, and may delegate only 
+nondiscretionary tasks. In any event, any change to delegation 
+authority in the future will not affect the AD. We have not changed the 
+final rule regarding this issue.
+
+Request To Clarify Allowable Equivalent Procedures
+
+    AAL requested clarification of certain procedures. AAL observed the 
+phrase ``refer to,'' used in Section 9, ``Airworthiness Limitations 
+(AWLs) and Certification Maintenance Requirements (CMRs),'' D622W001-9, 
+Revision January 2010, of the Boeing 777 Maintenance Planning Data 
+(MPD) Document, to specify certain chapters in an AMM. AAL noted that 
+use of this phrase in service bulletins allows operators to use their 
+equivalent procedures. AAL requested that we revise the NPRM (76 FR 
+3054, January 19, 2011) to state that equivalent procedures are 
+acceptable where the phrase ``refer to'' is used in Section 9, 
+``Airworthiness Limitations (AWLs) and Certification Maintenance 
+Requirements (CMRs),'' D622W001-9, Revision July 2011, of the Boeing 
+777 Maintenance Planning Data (MPD) Document.
+    We disagree with the request. As the commenter noted, the phrase 
+``refer to'' is used in both AMMs and Boeing service bulletins. In a 
+service bulletin, use of the phrase ``refer to'' generally means that a 
+determination was made to permit operators' equivalent procedures where 
+applicable, and use of the phrase ``as given in'' or ``in accordance 
+with'' generally means that operators' equivalent procedures are not 
+acceptable. But these definitions do not apply to Section 9, 
+``Airworthiness Limitations (AWLs) and Certification Maintenance 
+Requirements (CMRs),'' D622W001-9, Revision July 2011, of the Boeing 
+777 Maintenance Planning Data (MPD) Document, for which operators' 
+equivalent procedures are not specifically allowed. Under the 
+provisions of paragraph (j) of this final rule, however, we will 
+consider requests for approval to use different procedures, if 
+sufficient data are submitted to substantiate that the procedures would 
+provide an acceptable level of safety. We have not changed the final 
+rule regarding this issue.
+
+Request To Revise Compliance Time for Inspecting Replacement Parts
+
+    Boeing requested that we revise paragraph (g) of the NPRM (76 FR 
+3054, January 19, 2011) to permit the compliance time thresholds to be 
+reset for new replacement parts. Boeing asserted that Section 9, 
+``Airworthiness Limitations (AWLs) and Certification Maintenance 
+Requirements (CMRs),'' D622W001-9, Revision July 2011, of the Boeing 
+777 Maintenance Planning Data (MPD) Document does not explicitly state 
+that the inspection threshold for new parts starts when the part is 
+replaced, and that other existing ADs include terminating action that 
+zero-times certain fastener locations. Boeing made this request to 
+allow operators to take credit for the younger life of those parts.
+    We agree that this change is necessary to accommodate new 
+replacement parts. We have changed the initial compliance time 
+accordingly in paragraph (g) of this AD.
+
+Request To Revise Compliance Time for Reporting
+
+    JAL noted that Section 9, ``Airworthiness Limitations (AWLs) and 
+Certification Maintenance Requirements (CMRs),'' D622W001-9, Revision 
+July 2011, of the Boeing 777 Maintenance Planning Data (MPD) Document 
+includes a reporting timeframe of 10 days after an inspection finding. 
+JAL reported that these inspections are often accomplished during a 
+heavy maintenance inspection where many inspections are accomplished 
+over many days. Tracking all of the reporting at the time of return to 
+service is easier rather than sending individual events occurring 
+during the maintenance check. JAL therefore requested that the 
+reporting time frames be revised from 10 days after a finding to 10 
+days after the airplane is returned to service.
+    We agree with JAL's request and rationale. We have added this 
+reporting provision in paragraph (g) in the final rule. We have also 
+added new paragraph (i) in this final rule to explain the requirements 
+of the Paperwork Reduction Act, which requires agencies to consider the 
+extent of the paperwork burden that will accompany any new rule. And we 
+have reidentified subsequent paragraphs accordingly.
+
+Request To Revise Compliance Time Determination
+
+    Boeing noted that FAA Advisory Circular (AC) 120-93, dated November 
+20, 2007 (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf</a>) provides
+
+[[Page 21432]]
+
+guidance for addressing damage tolerance inspection requirements for 
+repairs and alterations to certain removable structural components. 
+Boeing requested that we revise the NPRM (76 FR 3054, January 19, 2011) 
+to add a provision to paragraph (g) of the NPRM, allowing FAA AC 120-93 
+as a means to establish compliance times for rotable parts where the 
+data are not available.
+    We disagree. That AC provides guidance and an acceptable means for 
+developing the age of removable parts for the purpose of determining 
+compliance times for repairs and alterations. If the actual age, flight 
+hours, and flight cycles are unknown for a part affected by the AD, we 
+would consider the operator's request for an AMOC. This allows Boeing 
+and operators the option to propose methods in detail that use FAA AC 
+120-93, dated November 20, 2007 (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf</a>), for guidance. We have not 
+changed the final rule regarding this issue.
+
+Request To Clarify Certain PSEs
+
+    Wang Jian requested clarification of the identity of certain PSEs. 
+Attached to this comment was a copy of a page from the Boeing 777F 
+Structural Repair Manual, which identified primary structure for repair 
+classification. From this page, the commenter observed that the main 
+deck floor panels are identified as PSEs on Model 777F series 
+airplanes, but not on other aircraft such as Model 747-400F series 
+airplanes.
+    Although the commenter's question concerning the PSE differences 
+between the Model 747 and 777 is not related to the inspections 
+required by this AD, the intent of the question may be explained in 
+more detail in FAA Advisory Circular (AC) 25.1529-1A, dated November 
+20, 2007 (<a href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf">http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf</a>). We have not changed the final rule regarding 
+this issue.
+
+Explanation of Additional Changes Made to This AD
+
+    We have redesignated Note 1 and Note 2 of the NPRM (76 FR 3054, 
+January 19, 2011) as paragraphs (c)(1) and (c)(2) of this AD 
+respectively. These changes have not changed the intent of this AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously. We also determined that 
+these changes will not increase the economic burden on any operator or 
+increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD will affect 153 airplanes of U.S. 
+registry. We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                        Cost per    Cost on U.S.
+                Action                            Labor cost             Parts cost      product      operators
+----------------------------------------------------------------------------------------------------------------
+Maintenance program revision..........  1 work-hour x $85 per hour =             $0           $85       $13,005
+                                         $85.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2012-07-06 The Boeing Company: Amendment 39-17012; Docket No. FAA-
+2011-0025; Directorate Identifier 2010-NM-208-AD.
+
+(a) Effective Date
+
+    This AD is effective May 15, 2012.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 777-200, -200LR, -
+300, -300ER, and 777F series airplanes, certificated in any 
+category, with an original airworthiness certificate or original 
+export certificate of airworthiness issued before September 1, 2010.
+    (1) Airplanes with an original airworthiness certificate or 
+original export certificate of airworthiness issued on or after 
+September 1, 2010, must already be in compliance with the 
+airworthiness
+
+[[Page 21433]]
+
+limitations (AWLs) specified in this AD because those limitations 
+were applicable as part of the airworthiness certification of those 
+airplanes.
+    (2) This AD requires revisions to certain operator maintenance 
+documents to include new inspections. Compliance with these 
+inspections is required by 14 CFR 91.403(c). For airplanes that have 
+been previously modified, altered, or repaired in the areas 
+addressed by these inspections, the operator may not be able to 
+accomplish the inspections described in the revisions. In this 
+situation, to comply with 14 CFR 91.403(c), the operator must 
+request approval for an alternative method of compliance according 
+to paragraph (j) of this AD. The request should include a 
+description of changes to the required inspections that will ensure 
+the continued damage tolerance of the affected structure.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Codes 27, Flight Controls; 28, Fuel; 32, Landing 
+Gear; 52, Doors; 53, Fuselage; 54, Nacelles/Pylons; 55, Stabilizers; 
+and 57, Wings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a new revision to the airworthiness 
+limitations of the maintenance planning document. We are issuing 
+this AD to ensure that fatigue cracking of various principal 
+structural elements (PSEs) is detected and corrected; such fatigue 
+cracking could adversely affect the structural integrity of these 
+airplanes.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Revision of Maintenance Program
+
+    (1) Within 12 months after the effective date of this AD, revise 
+the maintenance program by incorporating the information in 
+Subsection B, Airworthiness Limitations--Structural Inspections, of 
+Section 9, ``Airworthiness Limitations (AWLs) and Certification 
+Maintenance Requirements (CMRs),'' D622W001-9, Revision July 2011, 
+of the Boeing 777 Maintenance Planning Data (MPD) Document, except 
+as provided by paragraph (h) of this AD.
+    (2) The initial compliance time for the inspections is within 
+the applicable times specified in Subsection B, Airworthiness 
+Limitations--Structural Inspections, of Section 9, of 
+``Airworthiness Limitations (AWLs) and Certification Maintenance 
+Requirements (CMRs),'' D622W001-9, Revision July 2011, of the Boeing 
+777 Maintenance Planning Data (MPD) Document, or within 18 months 
+after the effective date of this AD, whichever occurs later, or 
+within the applicable time specified in Subsection B, Airworthiness 
+Limitations--Structural Inspections, of Section 9, ``Airworthiness 
+Limitations (AWLs) and Certification Maintenance Requirements 
+(CMRs),'' D622W001-9, Revision July 2011, of the Boeing 777 
+Maintenance Planning Data (MPD) Document, from the time of 
+installation for new parts.
+    (3) Reports specified in Section 9, ``Airworthiness Limitations 
+(AWLs) and Certification Maintenance Requirements (CMRs),'' 
+D622W001-9, Revision July 2011, of the Boeing 777 Maintenance 
+Planning Data (MPD) Document may be submitted within 10 days after 
+the airplane is returned to service, instead of 10 days after each 
+individual finding as specified in this document.
+
+(h) Alternative Inspections and Inspection Intervals
+
+    After accomplishing the actions required by paragraph (g) of 
+this AD, no alternative inspections or inspection intervals may be 
+used unless the alternative inspection or interval is approved as an 
+alternative method of compliance (AMOC) in accordance with the 
+procedures specified in paragraph (j) of this AD.
+
+(i) Paperwork Reduction Act Burden Statement
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty 
+for failure to comply with a collection of information subject to 
+the requirements of the Paperwork Reduction Act unless that 
+collection of information displays a current valid OMB Control 
+Number. The OMB Control Number for this information collection is 
+2120-0056. Public reporting for this collection of information is 
+estimated to be approximately 5 minutes per response, including the 
+time for reviewing instructions, completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Comments concerning the accuracy of this 
+burden and suggestions for reducing the burden should be directed to 
+the FAA at: 800 Independence Ave. SW., Washington, DC 20591, Attn: 
+Information Collection Clearance Officer, AES-200.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in the Related Information 
+section of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#cef7e38f8083e39dabafbabaa2abe38f8d81e38f83818de39cabbfbbabbdbabd8ea8afafe0a9a1b8"><span class="__cf_email__" data-cfemail="1e27335f5053334d7b7f6a6a727b335f5d51335f53515d334c7b6f6b7b6d6a6d5e787f7f30797168">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair in the areas affected by this AD if it is 
+approved by the Boeing Commercial Airplanes Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, Seattle 
+ACO to make those findings. For a repair method to be approved, the 
+repair must meet the certification basis of the airplane, and the 
+approval must specifically refer to this AD.
+
+(k) Related Information
+
+    For more information about this AD, contact James Sutherland, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle ACO, 
+1601 Lind Avenue SW., Renton, Washington 98057-3356; phone: (425) 
+917-6533; fax: (425) 917-6590; email: <a href="/cdn-cgi/l/email-protection#b3f9d2ded6c09de0c6c7dbd6c1dfd2ddd7f3d5d2d29dd4dcc5"><span class="__cf_email__" data-cfemail="400a212d25336e1335342825322c212e24002621216e272f36">[email&#160;protected]</span></a>.
+
+(l) Material Incorporated by Reference
+
+    (1) You must use the following service information to do the 
+actions required by this AD, unless the AD specifies otherwise. The 
+Director of the Federal Register approved the incorporation by 
+reference (IBR) under 5 U.S.C. 552(a) and 1 CFR part 51 of the 
+following service information:
+    (i) Section 9, ``Airworthiness Limitations (AWLs) and 
+Certification Maintenance Requirements (CMRs),'' D622W001-9, 
+Revision July 2011, of the Boeing 777 Maintenance Planning Data 
+(MPD) Document.
+    (2) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 
+206-544-5000, extension 1; fax 206-766-5680; email 
+<a href="/cdn-cgi/l/email-protection#2d4048034f42484e42406d4f424844434a034e4240"><span class="__cf_email__" data-cfemail="2d4048034f42484e42406d4f424844434a034e4240">[email&#160;protected]</span></a>; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (3) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, 
+Washington. For information on the availability of this material at 
+the FAA, call 425-227-1221.
+    (4) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at an NARA facility, call 202-741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on March 23, 2012.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-8228 Filed 4-9-12; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

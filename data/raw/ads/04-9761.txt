@@ -1,0 +1,503 @@
+<html>
+<head>
+<title>Federal Register, Volume 69 Issue 87 (Wednesday, May 5, 2004)</title>
+</head>
+<body><pre>
+[Federal Register Volume 69, Number 87 (Wednesday, May 5, 2004)]
+[Rules and Regulations]
+[Pages 24947-24950]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 04-9761]
+
+
+
+[[Page 24947]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2002-NM-275-AD; Amendment 39-13603; AD 2004-09-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 767 Series Airplanes 
+Powered by General Electric or Pratt & Whitney Engines
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment supersedes an existing airworthiness directive 
+(AD), applicable to certain Boeing Model 767 series airplanes powered 
+by General Electric or Pratt & Whitney engines, that currently requires 
+repetitive inspections to detect discrepancies of the four aft-most 
+fastener holes in the horizontal tangs of the midspar fitting of the 
+strut, and corrective actions, if necessary. That AD also provides an 
+optional terminating action for repetitive inspections. This amendment 
+expands the area on which the inspections are required. The actions 
+specified by this AD are intended to prevent fatigue cracking in the 
+primary strut structure and reduced structural integrity of the strut, 
+which could result in separation of the strut and engine. This action 
+is intended to address the identified unsafe condition.
+
+DATES: Effective June 9, 2004.
+    The incorporation by reference of Boeing Service Bulletin 767-
+54A0101, Revision 3, dated September 5, 2002, as listed in the 
+regulations, is approved by the Director of the Federal Register as of 
+June 9, 2004.
+    The incorporation by reference of Boeing Service Bulletin 767-
+54A0101, Revision 1, dated February 3, 2000, as listed in the 
+regulations, was approved previously by the Director of the Federal 
+Register as of May 15, 2001 (66 FR 18523, April 10, 2001).
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the National 
+Archives and Records Administration (NARA). For information on the 
+availability of this material at NARA, call 202-741-6030, or go to: 
+<a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+FOR FURTHER INFORMATION CONTACT: Suzanne Masterson, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington; telephone (425) 917-6441; 
+fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) by superseding AD 2001-07-05, 
+amendment 39-12170 (66 FR 18523, April 10, 2001), which is applicable 
+to certain Boeing Model 767 series airplanes powered by General 
+Electric or Pratt & Whitney engines, was published in the Federal 
+Register on December 8, 2003 (68 FR 68308). The action proposed to 
+continue to require repetitive inspections to detect discrepancies of 
+the four aft-most fastener holes in the horizontal tangs of the midspar 
+fitting of the strut, and corrective actions, if necessary. The action 
+also proposed to continue to provide an optional terminating action for 
+repetitive inspections. In addition, the action proposed expanding the 
+area on which the inspections are required.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Concurs With the Proposed AD
+
+    One commenter concurs with the contents of the proposed AD.
+
+Request To Clarify the Difference Between the Proposed AD and the 
+Service Bulletin
+
+    One commenter requests clarification of the difference between the 
+proposed AD and the service bulletin. The commenter's understanding of 
+the intent of the ``Difference Between Proposed Rule and Service 
+Bulletin'' paragraph of the proposed AD is that operators are allowed 
+to inspect the four forward fastener holes not inspected per paragraph 
+(a)(1), (a)(2), or (b) of the proposed AD at the next repetitive 
+inspection specified in Table 1 of the proposed AD for all eight 
+fastener holes. However, the commenter notes that paragraph (e) of the 
+proposed AD requires, within 10,000 total flight cycles or 600 flight 
+cycles after the effective date of this AD, whichever occurs later, 
+inspection of all eight aft-most fastener holes or the four forward 
+fastener holes not inspected per paragraph (a)(1), (a)(2), or (b) of 
+the proposed AD. The commenter states that paragraph (e) appears to 
+contradict the ``Difference Between Proposed Rule and Service 
+Bulletin'' paragraph in that the compliance time of within 600 flight 
+cycles specified by paragraph (e) would require the inspection of the 
+four fastener holes not inspected per paragraph (a)(1), (a)(2), or (b) 
+prior to the next repetitive inspection specified in Table 1 of the 
+proposed AD.
+    The FAA agrees that clarification of the difference between the 
+proposed AD and the service bulletin is necessary in the final rule. 
+The commenter is correct in its understanding of paragraph (e) that the 
+compliance time of within 600 flight cycles would require the 
+inspection of the four fastener holes not inspected per paragraph 
+(a)(1), (a)(2), or (b) prior to the next repetitive inspection 
+specified in Table 1 of the proposed AD. Our intention in the 
+``Difference Between Proposed Rule and Service Bulletin'' paragraph was 
+to allow operators to inspect the four forward fastener holes inspected 
+per paragraph (a)(1), (a)(2), or (b) of the proposed AD at the next 
+repetitive inspection specified in Table 1 of the proposed AD. In our 
+explanation in that paragraph, we did not include the phrase ``not 
+inspected per paragraph (a)(1), (a)(2), or (b)'' when we stated, 
+``during the first detailed inspection, this proposed AD allows for the 
+inspection of only four of the aft most fastener holes.'' However, no 
+change to the final rule is necessary in this regard, since the 
+``Difference Between Proposed Rule and Service Bulletin'' paragraph is 
+not restated in the final rule.
+
+Request To Revise Wording in Paragraph (f) of the Proposed AD
+
+    One commenter requests that the wording in paragraph (f) of the 
+proposed AD be revised to ``Perform the follow-on actions specified in 
+paragraph (a)(1) or (a)(2) of this AD.'' The commenter states that if 
+no cracking or discrepancy is detected during the inspections required 
+by paragraph (e) of the proposed AD, paragraph (f) requires operators 
+to ``Perform the follow-on actions specified in paragraph (a)(2)(i) or 
+(a)(2)(ii) of this AD * * * and repeat the inspections of all eight 
+aft-most fastener holes thereafter at the applicable intervals 
+specified in Table 1 of this AD.'' The commenter contends this implies 
+that the detailed inspection required by paragraph (a)(1) of the 
+proposed AD is not allowed as an option for repeat inspections. 
+However, the commenter points out that Table 1 of the proposed AD 
+implies that detail inspections are an option. Revising the
+
+[[Page 24948]]
+
+wording to ``Perform the follow-on actions specified in paragraph 
+(a)(2)(i) or (a)(2)(ii) of this AD'' would allow either detailed 
+inspections or high frequency eddy current (HFEC) inspections for the 
+repeat inspections.
+    We agree with the commenter that paragraph (f) needs to be revised. 
+Either detailed inspections or HFEC inspections are allowed for the 
+repeat inspections. However, we do not agree with the wording suggested 
+by the commenter. Follow-on actions specified in paragraphs (a)(2)(i) 
+and (a)(2)(ii), as applicable, are required if operators did the HFEC 
+inspections required by paragraph (a)(2). There are no follow-on 
+actions if operators did the detailed inspection required by paragraph 
+(a)(1). Repeat inspections are required for operators that did either 
+the detailed inspection or the HFEC inspections. We have revised 
+paragraph (f) of the final rule and added paragraph (g) to the final 
+rule to clarify this issue. Also, we have revised the paragraph 
+numbering for the remainder of the final rule accordingly.
+
+Request To Allow an Alternate Sealant
+
+    One commenter requests that part number (P/N) RTV108 be allowed as 
+an alternate sealant to P/N BMS 5-95 for actions required by paragraph 
+(d) of the proposed AD. The commenter did not submit justification for 
+this request. The commenter did refer to Boeing's concurrence with this 
+substitution via a telex but the telex was not submitted.
+    We do not agree with the request to allow P/N RTV108 as an 
+alternate sealant. However, under the provisions of paragraph (k) of 
+the final rule, we may consider requests for approval of an alternative 
+method of compliance if sufficient data are submitted to substantiate 
+that such a design change would provide an acceptable level of safety.
+
+Clarification of Corrective Action Requirements
+
+    The corrective actions specified in paragraph (h) of the proposed 
+AD are to be accomplished ``if any cracking or discrepancy is detected 
+during any inspection required by paragraph (e) of this AD.'' Since 
+paragraphs (f) and (g) of the final rule require the repetitive 
+inspections specified in paragraph (e), we determined that adding 
+paragraphs (f) and (g) to paragraph (h) of the final rule would clarify 
+the corrective action requirements. Accordingly, we have revised 
+paragraph (h) of the final rule: ``If any cracking or discrepancy is 
+detected during any inspection required by paragraphs (e), (f), or (g) 
+of this AD * * *''
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 625 airplanes of the affected design in the 
+worldwide fleet. The FAA estimates that 263 airplanes of U.S. registry 
+will be affected by this AD.
+    The detailed inspection that is required in this AD action will 
+take approximately 1 work hour per airplane to accomplish, at an 
+average labor rate of $65 per work hour. Based on these figures, the 
+cost impact of the required inspection on U.S. operators is estimated 
+to be $17,095, or $65 per airplane, per inspection cycle.
+    The eddy current inspection that is required by the AD action will 
+take approximately 3 work hours per airplane to accomplish, at an 
+average labor rate of $65 per work hour. Based on these figures, the 
+cost impact of the required inspection on U.S. operators is estimated 
+to be $51,285, or $195 per airplane, per inspection cycle.
+    The cost impact figures discussed above are based on assumptions 
+that no operator has yet accomplished any of the requirements of this 
+AD action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. Section 39.13 is amended by removing amendment 39-12170 (66 FR 
+18523, April 10, 2001), and by adding a new airworthiness directive 
+(AD), amendment 39-13603, to read as follows:
+
+2004-09-14 Boeing: Amendment 39-13603. Docket 2002-NM-275-AD. 
+Supersedes AD 2001-07-05, Amendment 39-12170.
+
+    Applicability: Model 767 series airplanes, as listed in Boeing 
+Service Bulletin 767-54A0101, Revision 3, dated September 5, 2002; 
+certificated in any category.
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent fatigue cracking in the primary strut structure and 
+reduced structural integrity of the strut, which could result in 
+separation of the strut and engine, accomplish the following:
+
+Requirements of AD 2001-07-05
+
+Repetitive Inspections
+
+    (a) Except as provided by paragraph (b) of this AD, before the 
+accumulation of 10,000 total flight cycles, or within 600 flight 
+cycles after May 15, 2001 (the effective date of AD 2001-07-05, 
+amendment 39-12170 (66 FR 18523, April 10, 2001), whichever occurs 
+later: Accomplish the inspections required by paragraph (a)(1) or 
+(a)(2) of this AD, as applicable.
+    (1) Perform a detailed inspection of the four aft-most fastener 
+holes in the horizontal tangs of the midspar fitting of the strut to 
+detect cracking, in accordance with Part 1, ``Detailed Inspection,'' 
+of the
+
+[[Page 24949]]
+
+Accomplishment Instructions of Boeing Service Bulletin 767-54A0101, 
+Revision 1, dated February 3, 2000. If no cracking is detected, 
+repeat the inspection thereafter at the applicable intervals 
+specified in Table 1, ``Reinspection Intervals for Part 1--Detailed 
+Inspection'' included in Figure 1 of the service bulletin.
+
+    Note 1: For the purposes of this AD, a detailed inspection is 
+defined as: ``An intensive visual examination of a specific 
+structural area, system, installation, or assembly to detect damage, 
+failure, or irregularity. Available lighting is normally 
+supplemented with a direct source of good lighting at intensity 
+deemed appropriate by the inspector. Inspection aids such as mirror, 
+magnifying lenses, etc., may be used. Surface cleaning and elaborate 
+access procedures may be required.''
+
+    (2) Perform a high frequency eddy current inspection of the four 
+aft-most fastener holes in the horizontal tangs of the midspar 
+fitting of the strut to detect discrepancies (cracking, incorrect 
+fastener hole diameter), in accordance with Part 2, ``High Frequency 
+Eddy Current (HFEC) Inspection,'' of the Accomplishment Instructions 
+of the service bulletin. Accomplish the requirements specified in 
+paragraph (a)(2)(i) or (a)(2)(ii) of this AD, as applicable; and 
+repeat the inspection thereafter at the applicable intervals 
+specified in Table 2, ``Reinspection Intervals for Part 2--HFEC 
+Inspection'' included in Figure 1 of the service bulletin.
+    (i) If no cracking is detected and the fastener hole diameter is 
+less than or equal to 0.5322 inch, before further flight, rework the 
+hole in accordance with Part 3 of the Accomplishment Instructions of 
+the service bulletin.
+    (ii) If no cracking is detected and the fastener hole diameter 
+is greater than 0.5322 inch, before further flight, accomplish the 
+requirements specified in either paragraph (c)(1) or (c)(2) of this 
+AD.
+    (b) For airplanes on which the two aft-most fasteners have been 
+inspected in accordance with Boeing Service Bulletin 767-54A0101, 
+Revision 1, dated February 3, 2000, prior to May 15, 2001: Perform 
+the initial inspection of the four aft-most fasteners in accordance 
+with paragraph (a) of this AD before the accumulation of 10,000 
+total flight cycles, or within 1,500 flight cycles after May 15, 
+2001, whichever occurs later.
+
+Corrective Actions
+
+    (c) If any cracking is detected after accomplishment of any 
+inspection required by paragraph (a) of this AD, before further 
+flight, accomplish the requirements specified in either paragraph 
+(c)(1) or (c)(2) of this AD.
+    (1) Accomplish the terminating action specified in Part 4 of the 
+Accomplishment Instructions of Boeing Service Bulletin 767-54A0101, 
+Revision 1, dated February 3, 2000; or Boeing Service Bulletin 767-
+54A0101, Revision 3, dated September 5, 2002. Accomplishment of this 
+paragraph terminates the requirements of this AD.
+    (2) Replace the midspar fitting of the strut with a serviceable 
+part, or repair in accordance with a method approved by the Manager, 
+Seattle Aircraft Certification Office (ACO), FAA. Repeat the 
+applicable inspection thereafter at the applicable time specified in 
+paragraph (a)(1) or (a)(2) of this AD.
+    (d) If any discrepancies (cracking, incorrect fastener hole 
+diameter) are detected during any inspection required by paragraph 
+(a) of this AD, for which the service bulletin specifies that the 
+manufacturer may be contacted for disposition of those repair 
+conditions: Before further flight, accomplish the corrective actions 
+(including fastener hole rework and/or midspar fitting replacement) 
+in accordance with a method approved by the Manager, Seattle ACO; or 
+in accordance with data meeting the type certification basis of the 
+airplane approved by a Boeing Company Designated Engineering 
+Representative who has been authorized by the Manager, Seattle ACO, 
+to make such findings. For a method to be approved by the Manager, 
+Seattle ACO, as required by this paragraph, the Manager's approval 
+letter must specifically reference this AD.
+
+New Requirements of This AD
+
+Additional Inspections
+
+    (e) Prior to the accumulation of 10,000 total flight cycles, or 
+within 600 flight cycles after the effective date of this AD, 
+whichever occurs later: Perform the inspections specified in 
+paragraph (a)(1) or (a)(2) of this AD, as applicable, on all eight 
+aft-most fastener holes or the four forward fastener holes in the 
+group of eight aft-most fastener holes not inspected per paragraph 
+(a)(1), (a)(2), or (b) of this AD. The inspection must be done per 
+the Accomplishment Instructions in Boeing Service Bulletin 767-
+54A0101, Revision 3, dated September 5, 2002. Accomplishment of the 
+applicable inspection on all eight aft-most fastener holes 
+constitutes terminating action for the repetitive inspection 
+requirements of paragraphs (a)(1), (a)(2), and (b) of this AD.
+    (f) If no cracking or discrepancy is detected during any 
+detailed inspection required by paragraph (e) of this AD, repeat the 
+inspections of all eight aft-most fastener holes thereafter at the 
+applicable intervals specified in Table 1 of this AD.
+    (g) If no cracking or discrepancy is detected during any HFEC 
+inspection required by paragraph (e) of this AD: Perform the follow-
+on actions specified in paragraph (a)(2)(i) or (a)(2)(ii) of this 
+AD, as applicable, per the Accomplishment Instructions in Boeing 
+Service Bulletin 767-54A0101, Revision 3, dated September 5, 2002; 
+and repeat the inspections of all eight aft-most fastener holes 
+thereafter at the applicable intervals specified in Table 1 of this 
+AD.
+
+    Table 1.--Repetitive Inspection Intervals for All Eight Aft-Most
+                             Fastener Holes
+------------------------------------------------------------------------
+             If--                        Repetitive intervals--
+------------------------------------------------------------------------
+(1) All eight aft-most         At the applicable intervals specified in
+ fastener holes were            Table 1, ``Reinspection Intervals for
+ inspected per paragraph (e)    Part 1--Detailed Inspection,'' or Table
+ of this AD:                    2, ``Reinspection Intervals for Part 2--
+                                HFEC Inspection,'' as applicable. Both
+                                tables are included in Figure 1 of the
+                                service bulletin.
+(2) Only the four forward      At the next scheduled repetitive
+ fastener holes in the group    inspection required by paragraph (a)(1)
+ of eighnt aft-most fastener    or (a)(2) of this AD, as applicable.
+ holes were inspected per       Thereafter at the applicable intervals
+ paragraph (e) of this AD:      specified in Table 1, ``Reinspection
+                                Intervals for Part 1--Detailed
+                                Inspection,'' or Table 2, ``Reinspection
+                                Intervals for Part 2--HFEC Inspection,''
+                                as applicable. Both tables are included
+                                in Figure 1 of the service bulletin.
+------------------------------------------------------------------------
+
+Corrective Actions
+
+    (h) If any cracking or discrepancy is detected during any 
+inspection required by paragraphs (e), (f), or (g) of this AD, 
+before further flight: Accomplish the corrective actions described 
+in paragraph (c) of this AD, per the Accomplishment Instructions in 
+Boeing Service Bulletin 767-54A0101, Revision 3, dated September 5, 
+2002, except as provided in paragraph (d) of this AD.
+
+Service Bulletin Revisions
+
+    (i) Accomplishment of the terminating action in paragraph (c)(1) 
+of this AD, per the original release of Boeing Service Bulletin 767-
+54A0101, dated September 23, 1999; or Revision 2 of Boeing Service 
+Bulletin 767-54A0101, dated January 10, 2002; is acceptable for 
+compliance with the requirements of this AD. As of the effective 
+date of this AD, only Revision 3 of Boeing Service Bulletin 767-
+54A0101, dated September 5, 2002, may be used for accomplishment of 
+the terminating action in paragraph (c)(1) of this AD.
+
+Inspections Accomplished Per Previous Issue of Service Bulletin
+
+    (j) Inspections required by paragraphs (a) and (b) of this AD 
+that are accomplished before the effective date of this AD per 
+Revision 2 of Boeing Service Bulletin 767-54A0101, dated January 10, 
+2002; or Revision 3 of Boeing Service Bulletin 767-54A0101, dated 
+September 5, 2002; are considered acceptable for compliance with the 
+corresponding action specified in this AD.
+
+[[Page 24950]]
+
+Alternative Methods of Compliance
+
+    (k) In accordance with 14 CFR 39.19, the Manager, Seattle ACO, 
+FAA, is authorized to approve alternative methods of compliance 
+(AMOCs) for this AD.
+
+Incorporation by Reference
+
+    (l) Unless otherwise specified in this AD, the actions shall be 
+done in accordance with Boeing Service Bulletin 767-54A0101, 
+Revision 1, dated February 3, 2000; and Boeing Service Bulletin 767-
+54A0101, Revision 3, dated September 5, 2002; as applicable.
+    (1) The incorporation by reference of Boeing Service Bulletin 
+767-54A0101, Revision 3, dated September 5, 2002, is approved by the 
+Director of the Federal Register, in accordance with 5 U.S.C. 552(a) 
+and 1 CFR part 51.
+    (2) The incorporation by reference of Boeing Service Bulletin 
+767-54A0101, Revision 1, dated February 3, 2000, was approved 
+previously by the Director of the Federal Register as of May 15, 
+2001 (66 FR 18523, April 10, 2001).
+    (3) Copies may be obtained from Boeing Commercial Airplanes, 
+P.O. Box 3707, Seattle, Washington 98124-2207. Copies may be 
+inspected at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+Effective Date
+
+    (m) This amendment becomes effective on June 9, 2004.
+
+    Issued in Renton, Washington, on April 22, 2004.
+Kalene C. Yanamura,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 04-9761 Filed 5-4-04; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

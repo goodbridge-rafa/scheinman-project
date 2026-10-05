@@ -1,0 +1,385 @@
+<html>
+<head>
+<title>Federal Register, Volume 70 Issue 122 (Monday, June 27, 2005)</title>
+</head>
+<body><pre>
+[Federal Register Volume 70, Number 122 (Monday, June 27, 2005)]
+[Rules and Regulations]
+[Pages 36821-36823]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 05-12514]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2004-19533; Directorate Identifier 2004-NM-31-AD; 
+Amendment 39-14164; AD 2005-13-27]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 737-300, -400, and -500 
+Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Boeing Model 737-300, -400, and -500 series airplanes. This AD 
+requires repetitive inspections for cracking of the crown area of the 
+fuselage skin, and corrective actions if necessary. This AD is prompted 
+by a Model 737 fuselage structure test and fatigue analysis that 
+indicate fuselage skin cracking could occur between 21,000 and 42,000 
+total flight cycles. We are issuing this AD to detect and correct 
+fatigue cracking of the fuselage skin, which could cause the fuselage 
+skin to fracture and fail, and could result in rapid decompression of 
+the airplane.
+
+DATES: This AD becomes effective August 1, 2005.
+    The incorporation by reference of a certain publication listed in 
+the AD is approved by the Director of the Federal Register as of August 
+1, 2005.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-
+2207.
+    Docket: The AD docket contains the proposed AD, comments, and any 
+final disposition. You can examine the AD docket on the Internet at 
+<a href="http://dms.dot.gov">http://dms.dot.gov</a>, or in person at the Docket Management Facility 
+office between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The Docket Management Facility office (telephone (800) 647-
+5227) is located on the plaza level of the Nassif Building at the U.S. 
+Department of Transportation, 400 Seventh Street SW., room PL-401, 
+Washington, DC. This docket number is FAA-2004-19533; the directorate 
+identifier for this docket is 2004-NM-31-AD.
+
+FOR FURTHER INFORMATION CONTACT: Sue Lucier, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+917-6438; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend 14 CFR part 39 
+with an AD for certain Boeing Model 737-300, -400, and -500 series 
+airplanes. That action, published in the Federal Register on November 
+5, 2004 (69 FR 64534), proposed to require repetitive inspections for 
+cracking of the crown area of the fuselage skin, and corrective actions 
+if necessary.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments that have been 
+submitted on the proposed AD.
+
+Request to Incorporate Revised Repair and Preventive Modification 
+Procedures
+
+    One commenter, the airplane manufacturer, requests that the 
+proposed AD be revised to include the instructions provided to airplane 
+operators in Boeing Communication System Activity 1-VN5QD. This Boeing 
+Communication revises the repair and preventive modification procedures 
+in Boeing Special Attention Service
+
+[[Page 36822]]
+
+Bulletin 737-53-1234, dated June 13, 2002 (which is cited as the 
+appropriate source of service information for the proposed AD). The 
+revised procedures reduce the number of fasteners common to the first 
+fastener row at the tear straps. The commenter states that the fastener 
+size and pattern in the tear straps that are part of the procedures in 
+the original issue of the service bulletin will not be consistent with 
+future structural repair manual (SRM) repairs. These SRM repairs are 
+currently being developed for Model 737-300, -400, and -500 series 
+airplanes, with 20-inch tear strap spacing. The commenter explains that 
+the fastener pattern and size difference in the SRM is being 
+incorporated in an effort to maximize the ``fail safety'' of the repair 
+by increasing the net area across the tear strap at the critical rows 
+of the repair. The commenter points out that the procedures in the 
+original issue of the service bulletin are adequate and do not contain 
+an unsafe repair; however, there is a potential inconsistency between 
+the service bulletin and the SRM. The commenter feels that this 
+inconsistency would not represent best design practices given the 
+potential number of repairs that could be required if a significant 
+amount of chem-mill cracking occurs. The commenter further states that 
+it is planning to revise Boeing Special Attention Service Bulletin 737-
+53-1234 to incorporate the instructions in Boeing Communication System 
+Activity 1-VN5QD.
+    We partially agree with the commenter. We agree with the request to 
+incorporate best design practices for repairs to the fuselage, because 
+mandating an action with known obsolete information ultimately requires 
+additional work for the industry. However, we disagree with including a 
+Boeing Communication as part of the AD, because multiple sources of AD-
+mandated instructions can increase the potential for misinterpretation 
+and non-compliance. In addition, since the time the comments were made, 
+the commenter (the airplane manufacturer) has revised the repair 
+information in the service bulletin to include the information in 
+Boeing Communication System Activity 1-VN5QD. We have included this 
+revision of the service bulletin (Boeing Special Attention Service 
+Bulletin 737-53-1234, Revision 1, dated March 31, 2005) in the final 
+rule as the appropriate source of service information for accomplishing 
+the AD actions. Revision 1 adds no further work to the original issue 
+of the service bulletin, but incorporates the information in Boeing 
+Communication System Activity 1-VN5QD. The final rule mandates the 
+revised service bulletin. We have also added a new paragraph (l) to the 
+final rule, which allows credit for actions done in accordance with the 
+original issue of the service bulletin. We have re-identified 
+subsequent paragraphs accordingly.
+
+Request to Fix Typographical Error
+
+    The same commenter requests that we fix the typographical error 
+``appropriateaction'' in paragraph (j) of the proposed AD.
+    We have changed paragraph (j) of the final rule to read 
+``appropriate action'' instead of ``appropriateaction.''
+
+Explanation of Changes Made to This AD
+
+    We have revised paragraph (j) of the final rule to allow any crack 
+in the subject area to be repaired according to data that conform to 
+the airplane's type certificate and that are approved by an Authorized 
+Representative for the Boeing Delegation Option Authorization 
+Organization whom we have authorized to make such findings.
+    We have revised paragraphs (i)(1), (i)(2)(i), and (i)(2)(ii) of the 
+final rule to remove references to the notes in Part 2 and Part 3 of 
+the Work Instructions in the original issue of the service bulletin. 
+The notes are no longer in those parts of Revision 1 of the service 
+bulletin. The information in the referenced notes is still required by 
+this AD, but in Revision 1 of the service bulletin this information has 
+been incorporated into the procedures of Part 2 and Part 3.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments that have been submitted, and determined that air safety and 
+the public interest require adopting the AD with the changes described 
+previously. We have determined that these changes will neither increase 
+the economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    There are about 579 airplanes of the affected design in the 
+worldwide fleet. The following table provides the estimated costs for 
+U.S. operators to comply with this proposed AD.
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                           Cost per
+                                                                                       Average labor    airplane, per   Number of U.S.-  Fleet cost, per
+                               Action                                   Work hours     rate per hour      inspection       registered       inspection
+                                                                                                            cycle          airplanes          cycle
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Inspections........................................................              94              $65           $6,110              175       $1,069,250
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities
+
+[[Page 36823]]
+
+under the criteria of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD. See the ADDRESSES section for a location to 
+examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2005-13-27 Boeing: Amendment 39-14164. Docket No. FAA-2004-19533; 
+Directorate Identifier 2004-NM-31-AD.
+
+Effective Date
+
+    (a) This AD becomes effective August 1, 2005.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to Boeing Model 737-300, -400, and -500 
+series airplanes, certificated in any category; as identified in 
+Boeing Special Attention Service Bulletin 737-53-1234, Revision 1, 
+dated March 31, 2005.
+
+Unsafe Condition
+
+    (d) This AD was prompted by a Model 737 fuselage structure test 
+and fatigue analysis that indicate fuselage skin cracking could 
+occur between 21,000 and 42,000 total flight cycles. We are issuing 
+this AD to detect and correct fatigue cracking of the fuselage skin, 
+which could cause the fuselage skin to fracture and fail, and could 
+result in rapid decompression of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Service Bulletin References
+
+    (f) The term ``service bulletin,'' as used in this AD, means 
+Boeing Special Attention Service Bulletin 737-53-1234, Revision 1, 
+dated March 31, 2005.
+
+Initial and Repetitive Inspections
+
+    (g) At the later of the times specified in paragraphs (g)(1) and 
+(g)(2) of this AD, perform detailed and eddy current inspections for 
+cracking of the crown area of the fuselage skin in accordance with 
+Part 1, including the ``Note,'' of the Work Instructions of the 
+service bulletin, except as provided by paragraph (j) of this AD.
+    (1) Before the accumulation of the applicable total flight 
+cycles specified in the ``Threshold'' column of Table 1 of Figure 1 
+of the service bulletin.
+    (2) Within 4,500 flight cycles after the effective date of this 
+AD.
+    (h) Repeat either the detailed or eddy current inspections 
+specified in paragraph (g) of this AD at the applicable intervals 
+specified in paragraph (h)(1) or (h)(2) of this AD until paragraph 
+(i)(1) or (i)(2) of this AD has been done, as applicable.
+    (1) Repeat the detailed inspections thereafter at intervals not 
+to exceed 1,200 flight cycles.
+    (2) Repeat the eddy current inspections thereafter at intervals 
+not to exceed 3,000 flight cycles.
+
+Permanent or Time-Limited Repair
+
+    (i) If any cracking is found during any inspection required by 
+paragraph (g) or (h) of this AD, do the actions specified in 
+paragraph (i)(1) or (i)(2) of this AD in accordance with the service 
+bulletin, except as provided by paragraphs (j) and (k) of this AD.
+    (1) Before further flight, do a permanent repair (including 
+related investigative actions and applicable corrective actions) in 
+accordance with Part 2 of the Work Instructions of the service 
+bulletin. Doing a permanent repair ends the repetitive inspections 
+required by paragraph (h) of this AD for the repaired area only.
+    (2) Do the actions specified in paragraphs (i)(2)(i) and 
+(i)(2)(ii) of this AD at the time specified in the applicable 
+paragraph. Doing a time-limited repair ends the repetitive 
+inspections required by paragraph (h) of this AD for the repaired 
+area only.
+    (i) Before further flight, do a time-limited repair (including 
+related investigative actions and applicable corrective actions) in 
+accordance with Part 3 of the Work Instructions of the service 
+bulletin.
+    (ii) At the times specified in Figure 8 of the service bulletin, 
+do the related investigative and corrective actions in accordance 
+with Part 3 of the Work Instructions of the service bulletin.
+
+Contact the FAA
+
+    (j) Where the service bulletin specifies to contact Boeing for 
+appropriate action: Before further flight, repair according to a 
+method approved by the Manager, Seattle Aircraft Certification 
+Office (ACO), FAA; or according to data meeting the certification 
+basis of the airplane approved by an Authorized Representative for 
+the Boeing Delegation Option Authorization Organization who has been 
+authorized by the Manager, Seattle ACO, to make those findings. For 
+a repair method to be approved, the approval must specifically 
+reference this AD.
+
+No Reporting
+
+    (k) Although the service bulletin specifies reporting certain 
+information to Boeing, this AD does not require that action.
+
+Actions Accomplished According to Previous Issue of Service Bulletin
+
+    (l) Actions done before the effective date of this AD in 
+accordance with Boeing Special Attention Service Bulletin 737-53-
+1234, dated June 13, 2002, are acceptable for compliance with the 
+corresponding actions required by this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (m) The Manager, Seattle ACO, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19.
+
+Material Incorporated by Reference
+
+    (n) You must use Boeing Special Attention Service Bulletin 737-
+53-1234, Revision 1, dated March 31, 2005, to perform the actions 
+that are required by this AD, unless the AD specifies otherwise. The 
+Director of the Federal Register approves the incorporation by 
+reference of this document in accordance with 5 U.S.C. 552(a) and 1 
+CFR part 51. To get copies of the service information, contact 
+Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 
+98124-2207. To view the AD docket, go to the Docket Management 
+Facility, U.S. Department of Transportation, 400 Seventh Street SW., 
+room PL-401, Nassif Building, Washington, DC. To review copies of 
+the service information, go to the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at the NARA, call (202) 741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on June 15, 2005.
+Kevin M. Mullin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 05-12514 Filed 6-24-05; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

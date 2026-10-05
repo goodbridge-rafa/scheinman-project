@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "2023-17501": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "engine inlet attach fittings (those having certain part numbers and made of aluminum alloy 7175-T66 or 7075-T6)",
+     "value": "aluminum alloy 7175-T66 or 7075-T6"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of corrosion and cracks found on engine inlet attach fittings.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD requires an inspection to determine whether affected engine inlet attach fittings are installed, and replacement of those affected engine inlet attach fittings or replacement with and inlet cowl having no affected engine inlet attach fittings",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "It was determined that the affected fittings are susceptible to stress corrosion cracking due to the material used for the fittings.",
+     "value": "stress_corrosion_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "specifies procedures for an inspection to determine whether affected engine inlet attach fittings (those having certain part numbers and made of aluminum alloy 7175-T66 or 7075-T6) are installed, and replacement of those affected engine inlet attach fittings with serviceable parts or replacement with an inlet cowl having no affected engine inlet attach fittings",
+     "value": "one_time_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2023-28769": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box",
+     "value": "aluminum alloy"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD is prompted by a report of corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box caused by a humid environment inside the box from water ingress and/or condensation.",
+     "value": "stabilizer"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time detailed inspection of the HS central box for corrosion; an assessment of the corrosion level; and depending on the determination, repetitive detailed inspections of the HS central box for corrosion and the internal composite structure for surface cracks, distortion, and damage",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD is prompted by a report of corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box",
+     "value": "corrosion"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time detailed inspection of the HS central box for corrosion; an assessment of the corrosion level; and depending on the determination, repetitive detailed inspections of the HS central box for corrosion and the internal composite structure for surface cracks, distortion, and damage; and repair or replacement of the HS assembly.",
+     "value": "one_time_inspection;repetitive_inspection;repair;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2024-09353": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The MCAI states that cracks were found on the trunnion arms of the inboard flap assemblies that were made of forging aluminum 7037.",
+     "value": "forging aluminum 7037"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by a report of cracks found on the trunnion arms of the inboard flap assemblies.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections for cracking of the trunnion arms of the inboard flap assembly, and applicable corrective actions",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by a report of cracks found on the trunnion arms of the inboard flap assemblies.",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive inspections for cracking of the trunnion arms of the inboard flap assembly, and applicable corrective actions ... if any cracking is detected, the cracking must be repaired before further flight using a method approved by the Manager, International Validation Branch, FAA; or EASA; or Airbus SAS's EASA Design Organization Approval (DOA)",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2024-15808": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by a report that a certain part-numbered fuel system standpipe assembly (standpipe) may have sharp edges at the interval weld joints due to a quality escape during the manufacturing process.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "a certain part-numbered fuel system standpipe assembly (standpipe) may have sharp edges at the interval weld joints",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "inspect the interior of the standpipe for any sharp edges on each internal weld joint",
+     "value": "weld_joint"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "certain standpipes may have sharp edges at the interval weld joints due to a quality escape during the manufacturing process",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires inspecting certain fuel system parts and, depending on the inspection results, taking corrective actions and performing a fuel quantity gauging system calibration. ... a one-time visual inspection of the internal weld joints of standpipe P/N 407-062-032-103. If there are any sharp edges, this service information specifies rework procedures, which include deburring the sharp edges ... remove the harness assembly from service and replace it with an airworthy harness assembly",
+     "value": "one_time_inspection;repair;replacement;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2024-21177": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by occurrences of premature cracks in the outer layer of certain flight deck side windows caused by interference due to manufacturing tolerances.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "occurrences of premature cracks in the outer layer of certain flight deck side windows",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "premature cracks have occurred in the outer layer of left-hand and right-hand flight deck side windows with part number (P/N) NP-200402-7 or P/N NP-200402-8",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "premature cracks in the outer layer of certain flight deck side windows caused by interference due to manufacturing tolerances",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires initial and repetitive inspections of the flight deck side windows and applicable corrective actions ... Corrective actions include window replacement and other maintenance procedures depending on the extent of the findings.",
+     "value": "repetitive_inspection;replacement;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2024-24386": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of a broken attachment eyebolt in a Collins Aerospace JB6 Commuter Class passenger seat.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of a broken attachment eyebolt in a Collins Aerospace JB6 Commuter Class passenger seat.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "a one-time detailed inspection of affected eyebolt and spreader for correct installation and discrepancies (i.e., cracks, traces of aluminum flakes or remainders of ripped-out threads in the tip threads, and damaged thread runs)",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of a broken attachment eyebolt in a Collins Aerospace JB6 Commuter Class passenger seat.",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time detailed inspection of each affected part, and applicable corrective actions ... applicable corrective actions (obtaining and following repair instructions and replacing the affected parts)",
+     "value": "one_time_inspection;repair;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  }
+ }
+}

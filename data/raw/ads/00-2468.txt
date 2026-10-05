@@ -1,0 +1,446 @@
+<html>
+<head>
+<title>Federal Register, Volume 65 Issue 25 (Monday, February 7, 2000)</title>
+</head>
+<body><pre>
+[Federal Register Volume 65, Number 25 (Monday, February 7, 2000)]
+[Rules and Regulations]
+[Pages 5753-5756]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 00-2468]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 99-NM-88-AD; Amendment 39-11558; AD 2000-03-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 747-100 and -200 Series 
+Airplanes
+
+AGENCY:  Federal Aviation Administration, DOT.
+
+ACTION:  Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY:  This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Boeing Model 747-100 and -200 series airplanes, 
+that requires repetitive inspections of the
+
+[[Page 5754]]
+
+upper and lower chords of the wing front spar for cracks, and 
+corrective action, if necessary. For airplanes on which no cracking is 
+detected, this AD also provides an optional terminating action in lieu 
+of repetitive inspections. This amendment is prompted by reports of 
+cracks in the upper chord of the wing front spar. The actions specified 
+by this AD are intended to detect and correct fatigue cracking of the 
+upper and lower chords of the wing front spar, which could result in 
+reduced structural capability and possible fuel leakage onto an engine 
+and a resultant fire.
+
+DATES:  Effective March 13, 2000.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of March 13, 2000.
+
+ADDRESSES:  The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, 
+Washington 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT:  Tamara L. Anderson, Aerospace 
+Engineer, Airframe Branch, ANM-120S, FAA, Transport Airplane 
+Directorate, Seattle Aircraft Certification Office, 1601 Lind Avenue, 
+SW., Renton, Washington 98055-4056; telephone (425) 227-2771; fax (425) 
+227-1181.
+
+SUPPLEMENTARY INFORMATION:  A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain Boeing Model 747-100 and 
+-200 series airplanes was published in the Federal Register on August 
+20, 1999 (64 FR 45481). That action proposed to require repetitive 
+inspections of the upper and lower chords of the wing front spar for 
+cracks, and corrective action, if necessary.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Request to Allow Alternative Inspection Method
+
+    One commenter requests that the FAA revise paragraph (a) of the 
+proposal to allow accomplishment of an open hole high frequency eddy 
+current (HFEC) inspection in lieu of the ultrasonic inspection that is 
+specified in paragraph (a) of the proposal. The commenter asserts that 
+accomplishment of an HFEC inspection ``equals or exceeds the capability 
+of surface ultrasonic inspections'' for detecting cracking of the upper 
+and lower chords of the wing front spar. The commenter states that the 
+HFEC inspection should be accomplished in accordance with Figure 6 of 
+Boeing Service Bulletin 747-57-2305, Revision 1, dated January 21, 1999 
+(which was referenced in the proposal as the appropriate source of 
+service information for accomplishment of the proposed actions).
+    The FAA concurs with the commenter's request to approve the 
+alternative inspection method. However, the FAA finds that, rather than 
+revising paragraph (a) of this AD, it is more appropriate to add a NOTE 
+stating that accomplishment of an HFEC inspection in accordance with 
+Figure 6 of the service bulletin is acceptable for compliance with the 
+requirements of paragraph (a) of this AD. NOTE 2 has been added to this 
+final rule accordingly.
+
+Request to Reference Alternative Terminating Action
+
+    One commenter requests that the FAA revise paragraph (b) of the 
+proposed rule to reference accomplishment of certain strut and wing 
+modifications or certain other terminating actions as terminating 
+action for the requirements of this AD. The commenter states that 
+accomplishment of certain modifications meets the intent of the 
+terminating action described in the proposed rule, provided that an 
+HFEC inspection of affected fastener holes has been accomplished (in 
+accordance with Boeing 747 Non-Destructive Test Manual D6-7170, Part 6, 
+Subject 51-00-00, Figure 16) prior to oversizing of the holes, and the 
+holes were found to be free of cracks, corrosion, or damage.
+    The FAA infers that the commenter is referring to the terminating 
+action specified in paragraph (c) of this AD. The FAA concurs with the 
+commenter's request. The FAA finds that the strut and wing 
+modifications and terminating action referenced by the commenter are 
+already required by certain other AD's, which are described below.
+    <bullet> AD 95-10-16, amendment 39-9233 (60 FR 27008, May 22, 
+1995), applies to certain Boeing Model 747 series airplanes, and 
+requires, among other things, modification of the nacelle strut and 
+wing structure in accordance with Boeing Alert Service Bulletin 747-
+54A2159, dated November 3, 1994.
+    <bullet> AD 95-13-07, amendment 39-9287 (60 FR 33336, June 28, 
+1995), applies to certain Boeing Model 747 series airplanes, and 
+requires modification of the nacelle strut and wing structure in 
+accordance with Boeing Alert Service Bulletin 747-54A2158, dated 
+November 30, 1994.
+    <bullet> AD 99-10-09, amendment 39-11162 (64 FR 25194, May 11, 
+1999), applies to certain Model 747-100, -200, and 747SP series 
+airplanes, and military type E-4B airplanes. That AD provides for 
+replacement of the wing front spar web with a new shot-peened wing 
+front spar web, in accordance with Boeing Service Bulletin 747-57A2303, 
+Revision 1, dated September 25, 1997, as an optional terminating action 
+for the repetitive inspection requirements of that AD.
+    The FAA has determined that accomplishment of the wing and strut 
+modification specified in AD 95-10-16 or AD 95-13-07, or the optional 
+terminating action specified in AD 99-10-09, constitutes terminating 
+action for the repetitive inspections required by paragraph (a) of this 
+AD, provided that an HFEC inspection of subject fastener holes has been 
+accomplished (in accordance with Boeing 747 Non-Destructive Test Manual 
+D6-7170, Part 6, Subject 51-00-00, Figure 16) prior to oversizing of 
+the holes, and the holes were found to be free of cracks, corrosion, or 
+damage. The FAA has added NOTE 3 to this final rule accordingly.
+
+Request to Delete Certain Supplemental Structural Inspection 
+Document Inspections
+
+    One commenter requests that the FAA revise the proposal by adding a 
+paragraph that eliminates the requirement for certain inspections to be 
+accomplished in accordance with the Supplemental Structural Inspection 
+Document (SSID). The commenter justifies its request by saying that 
+oversizing the web-to-chord fastener holes, as described in the 
+optional terminating action in Boeing Service Bulletin 747-57-2305, 
+Revision 1, will ``zero time'' the fastener holes, renewing the fatigue 
+life. The commenter states that, if this optional terminating action is 
+accomplished, SSID inspections W-24B at the front spar web-to-chord 
+fastener holes between the upper link fittings and W-24C at the front 
+spar web-to-chord fastener holes at the outboard upper link fittings 
+would no longer be necessary.
+    The FAA partially concurs with the commenter's request. The FAA 
+acknowledges that, following accomplishment of the optional
+
+[[Page 5755]]
+
+terminating action, fatigue life will be renewed in the affected web-
+to-chord fastener holes. However, the SSID inspections that the 
+commenter references are required, along with various other 
+inspections, by AD 94-15-12, amendment 39-8983 (59 FR 37933, July 26, 
+1994), and AD 94-15-18, amendment 39-8989 (59 FR 41233, August 11, 
+1994). The FAA finds that deleting SSID inspections required by other 
+AD's is not an appropriate action to take in this AD. Therefore, no 
+change to the final rule is necessary in this regard.
+
+Request to Allow Use of Original Issue of Service Bulletin
+
+    One commenter requests that the FAA revise paragraphs (a), (b), and 
+(c) of the proposal to reference the original issue of Boeing Service 
+Bulletin 747-57-2305, dated October 8, 1998, in addition to Revision 1 
+of the service bulletin, as appropriate sources of service information 
+for the actions required by this AD. The commenter states that there is 
+no substantial difference between the two versions of the service 
+bulletin, and the inspection methods and procedures for terminating 
+action are the same. The commenter states that Revision 1 adds missing 
+fastener codes and revises grip lengths of fasteners. Further, the 
+commenter states that operators that accomplished inspections or 
+terminating action in accordance with the original issue of the service 
+bulletin should not be required to perform the inspections or 
+terminating action in accordance with Revision 1, nor should they be 
+required to apply for an alternative means of compliance.
+    The FAA does not concur with the commenter's request. The FAA 
+considers the grip length of fasteners (one of the items changed 
+between the original issue and Revision 1) important for proper clamp-
+up, and the FAA has been advised that certain fasteners specified in 
+the original issue of the service bulletin had grip lengths that were 
+too long. In addition, the FAA considers the fact that certain fastener 
+codes were missing from the original issue of the service bulletin to 
+be significant, in that it could result in installation of fasteners 
+that are not structurally satisfactory. Also, Revision 1 of the service 
+bulletin deleted inspections of the fasteners in the upper and lower 
+chords between the upper link fittings. For these reasons, the FAA does 
+not find that accomplishment of the actions required by this AD in 
+accordance with the original issue of the service bulletin is 
+acceptable for compliance with this AD. No change to the final rule is 
+necessary in this regard.
+
+Request to Revise Statement of Unsafe Condition
+
+    One commenter, the airplane manufacturer, requests that the FAA 
+revise the reason for issuing the proposed rule. The proposed rule 
+states that ``the actions specified by the proposed AD are intended to 
+detect and correct fatigue cracking of the upper and lower chords of 
+the wing front spar, which could result in reduced structural 
+capability and possible fuel leakage onto an engine and a resultant 
+fire.'' The commenter states that the correct reason for issuing the AD 
+is that cracks addressed by Boeing Service Bulletin 747-57-2305 are 
+subject to Item W-24A and W-24B in Boeing Document D6-35022, 
+``Supplemental Structural Inspection Document.'' The commenter also 
+states that the service bulletin was issued to address undetected 
+cracks in the front spar chords that could result in extensive labor 
+hours and downtime if the cracks propagate to the extent that 
+replacement of a section of chord is necessary. The commenter concludes 
+that there are no safety-of-flight issues associated with such 
+cracking, and that fuel leakage due to undetected cracks is very 
+unlikely because, for leakage to occur, cracks in the chord would have 
+to grow through the thickness of the chord, beyond the upper or lower 
+edges of the front spar web, and beyond the fillet seal.
+    The FAA does not concur with the commenter's request. The statement 
+of unsafe condition, as stated in the proposal, specifies what could 
+happen if the inspections of the front spar upper and lower chords that 
+will be required by this AD are not accomplished. The fact that fuel 
+leaks have not been detected to date does not preclude leaks from 
+occurring in the future. For example, even though an operator may have 
+accomplished the strut and wing modification required by another AD (as 
+discussed previously), if an HFEC inspection to detect cracking of the 
+fastener holes was not accomplished, a crack may still be present and 
+could grow to the point that fuel leakage occurs. The FAA finds no 
+justification for revising the statement of unsafe condition as the 
+commenter suggested. Therefore, no change to the final rule is 
+necessary in this regard.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 332 Model 747-100 and -200 series airplanes 
+of the affected design in the worldwide fleet. The FAA estimates that 
+137 airplanes of U.S. registry will be affected by this AD, that it 
+will take approximately 2 work hours per airplane to accomplish the 
+required inspection, and that the average labor rate is $60 per work 
+hour. Based on these figures, the cost impact of the inspection 
+required by this AD on U.S. operators is estimated to be $16,440, or 
+$120 per airplane, per inspection cycle.
+    The cost impact figure discussed above is based on assumptions that 
+no operator has yet accomplished any of the requirements of this AD 
+action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted.
+    Should an operator elect to accomplish the optional terminating 
+action rather than continue the repetitive inspections, it will take 
+approximately 37 work hours per airplane to accomplish the 
+modification, at an average labor rate of $60 per work hour. Required 
+parts will cost approximately $5,000 per airplane. Based on these 
+figures, the cost impact of this optional terminating action is 
+estimated to be $7,220 per airplane.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action: (1) Is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+[[Page 5756]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2000-03-01  Boeing: Amendment 39-11558. Docket 99-NM-88-AD.
+
+    Applicability: Model 747-100 and -200 series airplanes, listed 
+in Boeing Service Bulletin 747-57-2305, Revision 1, dated January 
+21, 1999; certificated in any category.
+
+    Note 1:  This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (d) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To detect and correct fatigue cracking of the upper and lower 
+chords of the wing front spar, which could result in reduced 
+structural capability and possible fuel leakage onto an engine and a 
+resultant fire, accomplish the following:
+
+Inspections and Corrective Action
+
+    (a) Prior to the accumulation of 12,000 total flight cycles, or 
+within 24 months after the effective date of this AD, whichever 
+occurs later, accomplish an ultrasonic inspection for cracking of 
+the upper and lower chord of the wing front spar, in accordance with 
+Boeing Service Bulletin 747-57-2305, Revision 1, dated January 21, 
+1999.
+
+    Note 2:  Accomplishment of an open hole high frequency eddy 
+current inspection in accordance with Figure 6 of Boeing Service 
+Bulletin 747-57-2305, Revision 1, dated January 21, 1999, is 
+acceptable for compliance with the inspection requirement of 
+paragraph (a) of this AD.
+
+
+    (1) If no cracking is found, repeat this inspection thereafter 
+at intervals not to exceed 6,000 flight cycles, until the 
+requirements of paragraph (c) of this AD have been accomplished.
+    (2) If any cracking is found, prior to further flight, 
+accomplish ``Part 2--Terminating Action'' of the Accomplishment 
+Instructions of the service bulletin, except as provided by 
+paragraph (b) of this AD. Accomplishment of this action constitutes 
+terminating action for the requirements of this AD.
+    (b) During accomplishment of the terminating action required by 
+paragraph (a)(2) of this AD, if any crack is found in the upper 
+chord that is outside the limits specified in Boeing Service 
+Bulletin 747-57-2305, Revision 1, dated January 21, 1999; or if any 
+crack is found in the lower chord; prior to further flight, repair 
+in accordance with a method approved by the Manager, Seattle 
+Aircraft Certification Office (ACO), FAA, Transport Airplane 
+Directorate; or in accordance with data meeting the type 
+certification basis of the airplane approved by a Boeing Company 
+Designated Engineering Representative who has been authorized by the 
+FAA to make such findings. For a repair method to be approved by the 
+Manager, Seattle ACO, as required by this AD, the Manager's approval 
+letter must specifically reference this AD.
+
+Optional Terminating Action
+
+    (c) Accomplishment of ``Part 2--Terminating Action'' of the 
+Accomplishment Instructions of Boeing Service Bulletin 747-57-2305, 
+Revision 1, dated January 21, 1999, constitutes terminating action 
+for the requirements of this AD.
+
+    Note 3:  Accomplishment of the wing and strut modification 
+specified in AD 95-10-16, amendment 39-9233, or AD 95-13-07, 
+amendment 39-9287, or the optional terminating action specified in 
+AD 99-10-09, amendment 39-11162, constitutes terminating action for 
+the repetitive inspections required by paragraph (a) of this AD, 
+provided that an HFEC inspection of subject fastener holes has been 
+accomplished in accordance with Boeing 747 Non-Destructive Test 
+Manual D6-7170, Part 6, Subject 51-00-00, Figure 16, prior to 
+oversizing of the holes in accordance with AD 95-10-16, AD 95-13-07, 
+or AD 99-10-09, and the holes were found to be free of cracks, 
+corrosion, or damage.
+
+Alternative Methods of Compliance
+
+    (d) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle ACO. Operators shall submit 
+their requests through an appropriate FAA Principal Maintenance 
+Inspector, who may add comments and then send it to the Manager, 
+Seattle ACO.
+
+    Note 4:  Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Seattle ACO.
+
+Special Flight Permits
+
+    (e) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (f) Except as provided by paragraph (c) of this AD, the actions 
+shall be done in accordance with Boeing Service Bulletin 747-57-
+2305, Revision 1, dated January 21, 1999. This incorporation by 
+reference was approved by the Director of the Federal Register in 
+accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be 
+obtained from Boeing Commercial Airplane Group, P.O. Box 3707, 
+Seattle, Washington 98124-2207. Copies may be inspected at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, 
+Washington; or at the Office of the Federal Register, 800 North 
+Capitol Street, NW., suite 700, Washington, DC.
+    (g) This amendment becomes effective on March 13, 2000.
+
+    Issued in Renton, Washington, on January 31, 2000.
+Donald L. Riggin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 00-2468 Filed 2-4-00; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre></body>
+</html>

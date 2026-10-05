@@ -1,0 +1,610 @@
+<html>
+<head>
+<title>Federal Register, Volume 79 Issue 194 (Tuesday, October 7, 2014)</title>
+</head>
+<body><pre>
+[Federal Register Volume 79, Number 194 (Tuesday, October 7, 2014)]
+[Rules and Regulations]
+[Pages 60339-60343]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2014-23592]
+
+
+
+[[Page 60339]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-1093; Directorate Identifier 2011-SW-020-AD; 
+Amendment 39-17989; AD 2014-20-16]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Brantly International, Inc. Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for Brantly 
+International, Inc. (Brantly) Model B-2, Model B-2A, and Model B-2B 
+helicopters with certain main rotor blades. This AD requires inspecting 
+each main rotor (M/R) blade for a crack or delamination and removing 
+the blade if a crack exists or if the delamination exceeds certain 
+thresholds. This AD was prompted by multiple reports of M/R blade 
+cracks and an incident in which a crack that originated near the M/R 
+blade trailing edge resulted in the loss of a large section of the M/R 
+blade. The actions of this AD are intended to prevent loss of the M/R 
+blade and subsequent loss of control of the helicopter.
+
+DATES: This AD is effective November 12, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain documents listed in this AD as of November 12, 
+2014.
+
+ADDRESSES: For service information identified in this AD, contact 
+Brantly International, Inc, 621 South Royal Lane, Suite 100, Coppell, 
+Texas 75019, telephone (972) 829-4638, email 
+<a href="/cdn-cgi/l/email-protection#592d382b3a313c2b192a2c293c2b30362b38302b29382b2d2a773a3634"><span class="__cf_email__" data-cfemail="087c697a6b606d7a487b7d786d7a61677a69617a78697a7c7b266b6765">[email&#160;protected]</span></a>. You may review a copy of the referenced 
+service information at the FAA, Office of the Regional Counsel, 
+Southwest Region, 2601 Meacham Blvd., Room 663, Fort Worth, Texas 
+76137.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> or in person at the Docket Operations Office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, any incorporated-by-reference 
+service information, the economic evaluation, any comments received, 
+and other information. The street address for the Docket Operations 
+Office (phone: 800-647-5527) is U.S. Department of Transportation, 
+Docket Operations Office, M-30, West Building Ground Floor, Room W12-
+140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Marc Belhumeur, Senior Project 
+Engineer, Rotorcraft Certification Office, Rotorcraft Directorate, FAA, 
+2601 Meacham Blvd., Fort Worth, Texas 76137; telephone (817) 222-5170; 
+email <a href="/cdn-cgi/l/email-protection#42756f0314116f0311156f737572022423236c252d34"><span class="__cf_email__" data-cfemail="87b0aac6d1d4aac6d4d0aab6b0b7c7e1e6e6a9e0e8f1">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    On October 16, 2012, at 77 FR 63285, the Federal Register published 
+our notice of proposed rulemaking (NPRM), which proposed to amend 14 
+CFR part 39 by adding an AD that would apply to Brantly Model B-2, 
+Model B-2A, and Model B-2B helicopters, with an M/R blade, part number 
+(P/N) 248-101, 248-202, or 248-404, installed. The proposed 
+requirements were intended to prevent loss of the M/R blade and 
+subsequent loss of control of the helicopter.
+    The NPRM was prompted by a 2007 incident in New Zealand in which a 
+large inboard section of the M/R blade of a Brantly B-2B helicopter 
+separated from the helicopter during flight. The pilot was able to land 
+the helicopter without further damage. Laboratory analysis concluded 
+that the M/R blade failure was caused by hydrocarbon contaminants 
+inside the blade's skin-to-foam bond and that the fracture originated 
+near the blade's trailing edge. There were three other reports of 
+portions of M/R blades separating during flight and another five 
+reports of M/R blades having cracks or other defects found during 
+inspections.
+
+Comments
+
+    After our NPRM (77 FR 63285, October 16, 2012), was published, we 
+received comments from 10 commenters.
+
+Request
+
+Allow Some Cracking, Delamination, and Imperfections
+
+    Two commenters requested that the AD allow cracks in accordance 
+with approved maintenance inspection procedures and criteria. Three 
+commenters requested that the AD allow some delamination as provided 
+for in Brantly's service information, which is up to 10 square inches 
+of delamination outside of the inboard 12 inches of the M/R blade. Four 
+commenters requested that some imperfections be allowed in the blades 
+as listed in the approved factory maintenance inspection procedures. 
+Some of these commenters stated that a small dent, nick, crease, 
+wrinkle, or bend in the skin of the blade, especially in the middle or 
+trailing edge, does not cause the blade to crack and is not necessarily 
+a safety issue. These commenters expressed concern that many Brantly 
+helicopters will be grounded because of slight imperfections in the 
+main rotor blades that are not a safety issue.
+    We disagree with allowing any crack in a blade, but we agree the AD 
+should allow some delamination and imperfections. A crack in a blade 
+renders it unairworthy, and no data supports that any crack in these 
+blades is a safe condition. Also, no supporting data justifies allowing 
+10 square inches of delamination to address the unsafe condition, and 
+such a large area is not supported by any known industry standards. We 
+are changing the AD, however, to allow up to 2 square inches of 
+delamination outside of the inboard 12 inches. We are also removing the 
+dent, nick, crease, wrinkle, bends, extra hole, and inadequate rivet 
+spacing requirements from the AD. Although eliminating these conditions 
+is good design practice, the data we have does not support that a crack 
+in the Brantly rotor blade skins was caused by small dents, nicks, 
+creases, wrinkles, bends, extra hole, or inadequate rivet spacing.
+
+Remove Certain Blades From the Applicability
+
+    Two commenters requested that we remove blade P/Ns 248-101 and 248-
+202 from the applicability of the AD. These commenters did not believe 
+the unsafe condition applies to these blades because they are 
+significantly different in composition and bonding agent than the P/N 
+248-404 blade. The commenters stated the -101 and -202 blades develop 
+cracks from improper maintenance, rigging, and operation.
+    We disagree. Failures and fractures have occurred in the field in 
+the P/N 248-202 blades, and we have been provided with no supporting 
+data that shows they occurred because of improper rigging, maintenance, 
+or operation of the aircraft. Brantly, with help from a laboratory 
+report written by a metallurgical engineering company, concluded that 
+the M/R blade failure was caused by hydrocarbons contamination inside 
+the blades' skin-to-foam bond and that the fractures originated near 
+the trailing edge. The P/N 248-101 and P/N 248-404 blades are similar 
+in construction to the P/N 248-202 blades, and thus are included and 
+addressed in this AD. The AD does, however, address the blades 
+separately by not requiring inspecting the P/N
+
+[[Page 60340]]
+
+248-404 blades until after 10 years or 1,000 hours time-in-service 
+(TIS), instead of within 8 hours TIS like the other blades.
+
+Eliminate or Change the Eddy Current Inspection Requirements
+
+    Eight commenters requested that we eliminate the eddy current 
+inspection from the AD. Five commenters requested replacing the eddy 
+current inspection with other types (visual, tap test, fluorescent or 
+dye penetrant) of inspection. Some commenters said eddy current testing 
+was impractical because it could not be done successfully at certain 
+locations. Many commenters believed an eddy current inspection would 
+not successfully detect a crack or would provide false readings. One 
+commenter stated that the eddy current inspection would destroy the 
+blade.
+    We disagree. An eddy current inspection is needed to detect a 
+potential unsafe condition, and it is a reasonable, widely used, and 
+cost-effective procedure. No alternate procedure has been provided that 
+can address the unsafe condition as reliably. Visual or magnifying 
+glass inspections are not as effective as eddy current inspections. The 
+eddy current inspection procedure has been validated and is similar to 
+other blade crack inspections. While there may be some false 
+indication, these should be false positives, which can be re-evaluated. 
+The procedure is a nondestructive inspection and if done correctly, 
+will not destroy any blade. The procedure can be done in the field by a 
+qualified inspector if the inspection area is clean, has proper 
+lighting, and has the proper equipment. We have not been provided with 
+any supporting data that justifies eliminating the eddy current 
+inspection from the AD.
+    We do agree with one commenter who requested a visual inspection 
+before the first flight of each day being performed by the helicopter 
+owner or operator, since this is best accomplished as part of the other 
+daily inspections and does not require tools. We also agree with 
+reducing the scope of the eddy current inspection area to just the 
+first inboard 12 inches because this is where the fractures have 
+occurred. Eddy current inspecting the outboard area would not be 
+effective in finding the unsafe condition. The AD reflects these 
+changes.
+
+Replace the Inspection Requirements
+
+    Two commenters suggested replacing the AD requirements with 
+different requirements. One commenter requested a mandatory inspection 
+to identify those main rotor blades not produced or repaired using an 
+FAA approved quality system or materials or processes. The commenter 
+believed such blades alone may contain the unsafe condition due to 
+unapproved blade spars and hinge blocks. Another commenter proposed a 
+check of all used blades because the unsafe condition is caused by 
+incorrect installation of the blade damper units.
+    We disagree. The lab report concluded that the M/R blade failure 
+was caused by hydrocarbons contamination inside the blades' skin-to-
+foam bond and that the fracture originated near the trailing edge. No 
+data supports a conclusion that the spar or hinge block were unapproved 
+or that the rivet hole edge distance or pattern caused the unsafe 
+condition. Also, no data shows that the damper caused the unsafe 
+condition and thus an initial check for improper damper installation is 
+not merited. There is history that the incident helicopter may have had 
+quick starts and that the dampers had to be replaced, but the quick 
+starts and damper issues have not been substantiated to be the root 
+cause.
+
+Allow Routine Maintenance To Correct The Unsafe Condition
+
+    Five commenters stated that routine maintenance inspections are 
+sufficient to detect a crack in the blades. One commenter requested 
+that a revision to the Brantly Service Bulletin would correct the blade 
+problem and provided suggested content.
+    We disagree. The failures that have occurred in the field show that 
+the blades have an unsafe condition and that the current routine 
+maintenance and inspection procedures do not have adequate methods to 
+address it. The procedures in the commenter's suggested revision of the 
+service bulletin are also inadequate to address the unsafe condition 
+because those procedures do not include a necessary eddy current 
+inspection and allow too much duration between magnifying glass 
+inspections. Additionally, the FAA does not have the authority to 
+require Brantly to revise its service information with a specific 
+maintenance procedure. Rather, we correct an unsafe condition by 
+mandating certain actions through an AD.
+
+Withdraw the NPRM Because There Is No Unsafe Condition
+
+    One commenter requested we withdraw the AD for more analysis and 
+testing of the blades. The commenter questioned the data and analyses 
+relied upon to conclude an unsafe condition exists on these blades and 
+suggested the FAA has insufficient information upon which to make its 
+determination. The commenter stated the FAA should determine the 
+precise root cause and the exact serial number series of affected 
+blades before issuing an AD. Another commenter requested that we 
+perform ``a verification and validation on actual Brantly helicopter 
+blades'' before issuing the AD. Four commenters stated that no blade 
+failures have caused an accident or loss of life and that the blade 
+problem that prompted this AD resulted from the aircraft owner's 
+improper maintenance.
+    We disagree. Improper maintenance and operation has not been shown 
+to be the root cause of the blade failures. The root cause of the 
+failures has been demonstrated by Brantly with help from a laboratory 
+report written by a metallurgical engineering company. The report took 
+into account stresses and loading and determined that skin fracture was 
+propagated by corrosion fatigue and mechanical fatigue. The report 
+concluded that the M/R blades failure was caused by hydrocarbons 
+contamination inside the blades' skin-to-foam bond and that the 
+fracture originated near the trailing edge.
+    Additional information about the data and analyses we relied upon 
+in issuing this AD includes the following. The original blades were 
+certificated using a crack initiation methodology (e.g., using the S-N 
+curves and Miner's Rule). Shortly after certification, a fatigue test 
+was accomplished on the mid-span of the spar and skin. 
+Stereomicroscopy, wavelength dispersive X-ray spectroscopy, combustion 
+testing, tensile testing, peel testing, scanning electron microscopy, 
+micro Fourier infrared spectroscopy, and hardness testing were all 
+performed to determine the causes of the delamination and crack 
+propagation. An M/R blade failure analysis, risk analysis, cost 
+analysis, and economic analysis were performed before we issued the 
+NPRM. The failures were found in the skin-to-foam bond and in the skin 
+and rivets at the rivet joints attaching the skin to the hinge block 
+and/or spar. The cracks originated near the skins' trailing edge and 
+propagated between rivet holes and into the leading edge rivet holes. 
+These rivets carry shear between the hinge block and skin and the spar 
+and skin. Per the laboratory report, the bonding material between the 
+skin to foam was 3M 1239 & 3M 11239A, the foam core was Stafoam AA604, 
+the type of rivets were AA1100, and the blade was P/N 248-202. No 
+serial number sequence has been determined or is needed since only the 
+part numbers are necessary to identify the applicable blades.
+    We also disagree that loss of life or significant damage to an 
+aircraft must
+
+[[Page 60341]]
+
+occur for us to determine that there is an unsafe condition. Because it 
+is a critical component, failure of an M/R blade could have 
+catastrophic consequences. However, the commenters are correct that the 
+event in New Zealand was classified as an incident instead of an 
+accident because the helicopter landed without further damage. We have 
+revised the preamble of this AD to reflect this change.
+
+Blade Repairs
+
+    One commenter requested the FAA license a certified repair center 
+to rebuild the blades if they crack before the spar and hinge-block 
+have reached their life limit. Another commenter asked us to approve a 
+blade re-skinning or repair process instead of the blade replacement 
+requirement in the AD. Three commenters stated that no replacement 
+blades exist, and therefore if the AD is adopted as proposed, it will 
+ground all flying Brantly helicopters until a source for new blades is 
+found or a facility is certified to re-build the blades.
+    We disagree. We are unaware of any approved process specification 
+or data to rebuild or re-skin blades to an airworthy condition. 
+Assuming such a process does exist, requiring a repair center to 
+rebuild or re-skin the blades is beyond the authority of the FAA. To 
+the extent spare blades may not exist to replace blades that fail the 
+inspection requirements of this AD, the FAA cannot base its AD action 
+on whether spare parts are available or can be produced. While every 
+effort is made to avoid grounding aircraft, we must address the unsafe 
+condition.
+
+Issue an SAIB
+
+    One commenter requested that we issue a special airworthiness 
+information bulletin (SAIB) with certain visual inspection and 
+maintenance procedures and provided proposed contents.
+    We disagree. An SAIB contains non-mandatory information and 
+guidance for certain safety issues. The SAIB is an information tool to 
+alert, educate, and make recommendations to the aviation community 
+about ways to improve the safety of a product. An SAIB may not be 
+issued where there is an unsafe condition. The FAA has data supporting 
+its determination that an unsafe condition exists with the specified 
+Brantly main rotor blades.
+    We also disagree with the proposed SAIB contents. No supporting 
+data has been provided demonstrating how the proposed inspection and 
+maintenance practices would stop the blade skins from cracking or 
+delaminating from the foam core because of random overload events and 
+improper operation. Also, no supporting data has been provided that 
+shows that an improperly manufactured or installed hinge block caused 
+the unsafe condition. The proposed SAIB content also eliminates the 
+necessary eddy current inspection and reduces the 10x magnifying glass 
+inspection, which we have determined are necessary to correct the 
+unsafe condition.
+
+Training Programs
+
+    One commenter requested education and training for maintenance 
+providers, operators, and owners with respect to the blades. 
+Specifically, the commenter wanted the training to include the 
+significance of the placards, type certificate data sheet (TCDS) 
+instructions, and operating limitations. The commenter stated that 
+Brantly helicopters are safe and attributed the blade failures to lack 
+of education and proper maintenance and operation of the aircraft and 
+its components.
+    We disagree. Individuals responsible for maintaining and operating 
+an airworthy helicopter are required to know the significance of 
+placards, TCDS instructions, and operating limitations. While 
+additional training may be beneficial, we have no information to 
+suggest that it would correct the unsafe condition.
+
+FAA's Determination
+
+    We have reviewed the relevant information, considered the comments 
+received, and determined that an unsafe condition exists and is likely 
+to exist or develop on other products of these same type designs and 
+that air safety and the public interest require adopting the AD 
+requirements as proposed with the changes described previously. We have 
+also made minor editorial changes in referencing the service 
+information to meet current publishing requirements. These changes are 
+consistent with the intent of the proposals in the NPRM (77 FR 63285, 
+October 16, 2012) and will not increase the economic burden on any 
+operator nor increase the scope of the AD.
+
+Related Service Information
+
+    We reviewed Brantly International Inc. Service Bulletin No. 111, 
+dated February 10, 2011 (SB 111). The bulletin describes procedures for 
+inspecting the M/R blades at intervals not to exceed 300 hours TIS 
+using Eddy Current Procedure ET002, performing a visual inspection 
+using a 10X power magnifying glass, and conducting a tap test every 25 
+hours TIS and a visual inspection of the M/R blades before the first 
+flight of the day.
+
+Differences Between This AD and the Service Information
+
+    SB-111 requires accomplishment of sections 1 and 2 before further 
+flight. The AD requires them to be completed within 8 hours TIS. SB-111 
+allows up to 10 square inches of delamination outside of the inboard 12 
+inches of the M/R blade. The AD only allows up to 2 square inches of 
+delamination outside of the inboard 12 inches of the M/R blade. SB-111 
+requires inspecting for nicks, creases, wrinkles, bends, additional 
+holes, extra rivets, and inadequate rivet spacing and replacing the 
+blade if any of these conditions are found. The AD only requires 
+inspecting for a crack and delamination and replacing the blade if 
+there is a crack or if there is delamination in certain areas or 
+exceeding a certain amount. SB-111 calls for eddy current inspections 
+of the entire blade. The AD requires eddy current inspections for 
+cracks only within the inboard 12 inches. Lastly, SB-111 specifies a 
+daily inspection of the M/R blade. We are making a change from the NPRM 
+to allow an owner/operator (pilot) holding at least a private pilot 
+certificate to perform a daily check of the M/R blade. The performance 
+of the check is required to be entered into the aircraft's maintenance 
+records showing compliance with this AD in accordance with applicable 
+regulations. This authorization marks an exception to our standard 
+maintenance regulations.
+
+Costs of Compliance
+
+    We estimate that this AD affects 76 helicopters of U.S. registry. 
+We estimate the following costs to comply with this AD, using an 
+average of $85 per work-hour:
+    <bullet> For the visual check before the first flight of each day, 
+we estimate that it requires about one half work-hour for a labor cost 
+of about $43 per inspection cycle. No parts are needed, so the total 
+cost for the U.S. fleet is $3,268.
+    <bullet> For the eddy current inspection, we estimate that it 
+requires about three work-hours for a labor cost of $255 per inspection 
+cycle. No parts are needed, so the total cost for the 76-helicopter 
+U.S. fleet is $19,380 per inspection cycle.
+    <bullet> For the visual inspection with the magnifying glass and 
+the tap inspection, we estimate that it requires about three work-hours 
+for a labor cost of $255 per inspection cycle. No parts are needed, so 
+the total cost for the U.S. fleet is $19,380 per inspection cycle.
+    <bullet> Replacing an M/R blade, if needed, requires about two 
+work-hours for a labor cost of $170. An M/R blade costs
+
+[[Page 60342]]
+
+$7,500 for a total cost of $7,670 per helicopter, assuming one M/R 
+blade is replaced.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that This AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979);
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction; and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared an economic evaluation of the estimated costs to comply 
+with this AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2014-20-16 Brantly International, Inc.: Amendment 39-17989; Docket 
+No. FAA-2012-1093; Directorate Identifier 2011-SW-020-AD.
+
+(a) Applicability
+
+    This AD applies to the Brantly International, Inc., (Brantly) 
+Model B-2, Model B-2A, and Model B-2B helicopters, with a main rotor 
+(M/R) blade, part number (P/N) 248-101, 248-202, or 248-404, 
+installed, certificated in any category.
+
+(b) Unsafe Condition
+
+    This AD defines the unsafe condition as a crack or delamination 
+in an M/R blade. This condition could result in loss of an M/R blade 
+and subsequent loss of control of the helicopter.
+
+(c) Effective Date
+
+    This AD becomes effective November 12, 2014.
+
+(d) Compliance
+
+    You are responsible for performing each action required by this 
+AD within the specified compliance time unless it has already been 
+accomplished prior to that time.
+
+(e) Required Actions
+
+    (1) Before the first flight of each day, visually check the top 
+and bottom of each M/R blade for a crack. Pay particular attention 
+to the M/R blade root area, the area around the lead/lag damper 
+mounting fork, and the trailing edge. These actions may be performed 
+by the owner/operator (pilot) holding at least a private pilot 
+certificate, and must be entered into the aircraft records showing 
+compliance with this AD in accordance with 14 CFR 43.9 (a)(1) 
+through (4) and 14 CFR 91.417(a)(2)(v). The record must be 
+maintained as required by 14 CFR 91.417, 121.380, or 135.439.
+    (2) Within 8 hours time-in-service (TIS), for a helicopter with 
+an M/R blade, P/N 248-101 or P/N 248-202, and for a helicopter with 
+an M/R blade P/N 248-404 with 10 or more years or 1,000 or more 
+hours TIS, whichever occurs first, remove each M/R blade and:
+    (i) Using an inspector qualified to the American Society for 
+Nondestructive Testing (ASNT) Level II or equivalent, eddy current 
+inspect each M/R blade for a crack in accordance with paragraph 4 
+and paragraphs 7 through 17 of Brantly International B-2 Main Rotor 
+Blade Root Skin Inspection Technique Number ET002, dated November 
+2007 (technique), except this AD only requires you to inspect the 
+inboard first 12 inches of the top and bottom of each blade.
+
+    Note 1 to paragraph (e)(2)(i) of this AD:  A copy of the 
+Technique is attached to Brantly International, Inc., Service 
+Bulletin No. 111, dated February 10, 2011 (SB 111).
+
+    (ii) Thereafter, at intervals not to exceed 300 hours TIS or 
+five calendar years, whichever occurs first, repeat the eddy current 
+inspection in accordance with the requirements of paragraph 
+(e)(2)(i) of this AD.
+    (iii) Using a metallic coin or tap hammer, tap inspect each M/R 
+blade for delamination in the bonded areas as shown on SB-111, 
+Section 4. Pay particular attention to the root area in the first 12 
+inches of the top and bottom of each M/R blade.
+    (iv) Using a 10X or higher power magnifying glass, visually 
+inspect the top and bottom of each M/R blade for a crack.
+    (v) Thereafter, at intervals not to exceed 25 hours TIS, repeat 
+the tap inspection in accordance with the requirements of paragraph 
+(e)(2)(iii) of this AD and the visual inspection using a 10X or 
+higher power magnifying glass in accordance with the requirements of 
+paragraph (e)(2)(iv) of this AD.
+    (3) Before further flight, remove from service any M/R blade 
+with a crack, delamination within the inboard 12 inches, or total 
+delamination greater than 2 square inches outside the inboard 12 
+inches.
+
+(f) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Rotorcraft Certification Office, FAA, may 
+approve AMOCs for this AD. Send your proposal to: Marc Belhumeur, 
+Senior Project Engineer, Rotorcraft Certification Office, Rotorcraft 
+Directorate, FAA, 2601 Meacham Blvd., Fort Worth, Texas 76137; 
+telephone (817) 222-5170; email <a href="/cdn-cgi/l/email-protection#4c7b610d1a1f610d1f1b617d7b7c0c2a2d2d622b233a"><span class="__cf_email__" data-cfemail="ecdbc1adbabfc1adbfbbc1dddbdcac8a8d8dc28b839a">[email&#160;protected]</span></a>.
+    (2) For operations conducted under a 14 CFR part 119 operating 
+certificate or under 14 CFR part 91, subpart K, we suggest that you 
+notify your principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office or 
+certificate holding district office before operating any aircraft 
+complying with this AD through an AMOC.
+
+(g) Subject
+
+    Joint Aircraft Service Component (JASC) Code: 6210, Main Rotor 
+Blade.
+
+(h) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Brantly International B-2 Main Rotor Blade Root Skin 
+Inspection, Technique Number ET002, dated November 1, 2007.
+    (ii) Brantly International Inc., Service Bulletin No. 111, dated 
+February 10, 2011.
+    (3) For Brantly service information identified in this AD, 
+contact Brantly International, Inc., 621 South Royal Lane, Suite 
+100, Coppell Texas, 75019, telephone (972) 829-4638, email 
+<a href="/cdn-cgi/l/email-protection#c4b0a5b6a7aca1b684b7b1b4a1b6adabb6a5adb6b4a5b6b0b7eaa7aba9"><span class="__cf_email__" data-cfemail="8efaeffcede6ebfccefdfbfeebfce7e1fcefe7fcfeeffcfafda0ede1e3">[email&#160;protected]</span></a>.
+    (4) You may view this service information at FAA, Office of the 
+Regional Counsel,
+
+[[Page 60343]]
+
+Southwest Region, 2601 Meacham Blvd., Room 663, Fort Worth, Texas 
+76137. For information on the availability of this material at the 
+FAA, call (817) 222-5110.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call (202) 741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Fort Worth, Texas, on September 19, 2014.
+Lance T. Gant,
+Acting Directorate Manager, Rotorcraft Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2014-23592 Filed 10-6-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

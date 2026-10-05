@@ -1,0 +1,49 @@
+[project]
+name = "scheinman"
+version = "0.0.1"
+description = "Engineering-knowledge ecosystem: public records become machine-verifiable design rules applied to real CAD geometry, with correction proven by re-measurement."
+requires-python = ">=3.12"
+dependencies = [
+    "build123d>=0.10.0",
+    "pydantic>=2.7",
+    # The delivered report is a PDF an engineer can file, not a markdown file
+    # (owner, 2026-09-20). Writing a paginated PDF by hand is several hundred
+    # lines of a format nobody here should own; reportlab is BSD, pure Python,
+    # needs no system libraries and no font files (its built-in Helvetica and
+    # Courier are the ones used here).
+    "reportlab>=4.2",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/scheinman"]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.6",
+    "mypy>=1.10",
+    "pypdf==6.16.2",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+
+[[tool.mypy.overrides]]
+module = ["build123d.*", "OCP.*", "reportlab.*"]
+ignore_missing_imports = true
+follow_imports = "skip"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

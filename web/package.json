@@ -1,0 +1,13 @@
+{
+  "name": "scheinman-web",
+  "private": true,
+  "description": "The counter: one Cloudflare Worker serving the pages and the API. wrangler is pinned here so a deploy uses the version that was tested (audit 2026-09-02).",
+  "scripts": {
+    "dev": "wrangler dev --port 8787",
+    "deploy": "wrangler deploy",
+    "test": "node --test '../web/test/*.test.mjs'"
+  },
+  "devDependencies": {
+    "wrangler": "4.128.0"
+  }
+}

@@ -1,0 +1,437 @@
+<html>
+<head>
+<title>Federal Register, Volume 84 Issue 245 (Friday, December 20, 2019)</title>
+</head>
+<body><pre>
+[Federal Register Volume 84, Number 245 (Friday, December 20, 2019)]
+[Rules and Regulations]
+[Pages 70000-70003]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2019-27465]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0406; Product Identifier 2019-NM-059-AD; Amendment 
+39-21006; AD 2019-24-17]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+The Boeing Company Model MD-90-30 airplanes. This AD was prompted by 
+reports indicating that certain center wing stringers and skins are 
+potentially susceptible to cracking. This AD requires repetitive eddy 
+current, low frequency (ETLF) inspections of the left and right side 
+fastener holes for any crack; repetitive eddy current, high frequency 
+(ETHF) inspections of the lower skin for any crack; and repair if any 
+crack is found. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective January 24, 2020.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of January 24, 
+2020.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110 SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this service information at the 
+FAA, Transport Standards Branch, 2200 South 216th St., Des Moines, WA. 
+For information on the availability of this material at the FAA, call 
+206-231-3195. It is also available on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. FAA-2019-
+0406.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. FAA-2019-
+0406; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: David Truong, Aerospace Engineer, 
+Airframe Section, FAA, Los Angeles ACO Branch, 3960 Paramount 
+Boulevard, Lakewood, CA 90712-4137; phone: 562-627-5224; fax: 562-627-
+5210; email: <a href="/cdn-cgi/l/email-protection#442025322d206a3036312b2a23042225256a232b32"><span class="__cf_email__" data-cfemail="4e2a2f38272a603a3c3b2120290e282f2f60292138">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all The Boeing Company 
+Model MD-90-30 airplanes. The NPRM published in the Federal Register on 
+June 21, 2019 (84 FR 29105). The NPRM was prompted by reports 
+indicating that based on Model MD-80 airplane service experience, 
+certain center wing stringers and skins are potentially susceptible to 
+fatigue-related cracking on Model MD-90 airplanes. The Model MD-80 and 
+Model MD-90 wings share the same basic design and experience similar 
+stresses, but no such cracking has been found on Model MD-90 airplanes. 
+Cracks on Model MD-80 airplanes were found in the center wing lower 
+stringers, at the inboard end where they are joined to the airplane 
+centerline by end fittings; in the lower stringer end fittings, at the 
+outboard end where they attach to stringers; and in the lower forward 
+and aft skins, underneath cracked stringers. If not addressed, this 
+cracking could result in the inability of the structure to sustain 
+limit loads, and adversely affect the structural integrity of the 
+airplane. The NPRM proposed to require repetitive ETLF inspections of 
+the left and right side fastener holes for any crack; repetitive ETHF 
+inspections of the lower skin for any crack; and repair if any crack is 
+found.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Request for Clarification of Other Relevant Rulemaking Section
+
+    Boeing requested clarification regarding the number of cracking 
+occurrences reported in areas outside of those addressed by AD 2016-07-
+28, Amendment 39-18473 (81 FR 21253, April 11, 2016) (``AD 2016-07-
+28''), or Boeing Alert Service Bulletin MD80-
+
+[[Page 70001]]
+
+57A244, dated March 3, 2016. Boeing noted that in the NPRM, the Other 
+Relevant Rulemaking section stated that since AD 2016-07-28 was issued, 
+cracking was found at fastener holes common to stringers (S) S-11 
+through S-22, and around the external bracket angle at S-18 and S-19. 
+Boeing emphasized that there was only one case of cracking, at S-13.
+    In addition, Boeing requested that the Other Relevant Rulemaking 
+section in the NPRM be revised to explain that the new service 
+information that Boeing is developing for Model MD-80 airplanes is to 
+address potential cracking in new stringer locations and is not in 
+response to actual in-service reports of cracking.
+    The FAA agrees with the commenter's assessment of crack findings. 
+Of the cracks found since issuance of AD 2016-07-28, only one was found 
+at S-13--the only area not addressed by AD 2016-07-28. All remaining 
+crack findings were within the scope of the requirements of AD 2016-07-
+28. As a result of these cracks, Boeing made the determination to 
+expand the inspection to stringers S-11 through S-22. This AD addresses 
+those stringers on Model MD-90-30 airplanes.
+    The FAA acknowledges that the service information for the Model MD-
+80 airplanes, Boeing Service Bulletin MD80-57A244, dated March 3, 2016, 
+which is mandated by AD 2016-07-28, has been revised. Boeing Service 
+Bulletin MD80-57A244, Revision 1, dated October 1, 2019, updates the 
+inspection method and expands the inspection area. The FAA may consider 
+further rulemaking in the future to mandate these changes for Model MD-
+80 airplanes.
+    Because the Other Relevant Rulemaking section in SUPPLEMENTARY 
+INFORMATION is not retained in final rules, the FAA has not revised 
+this final rule in regard to these issues.
+
+Request To Revise Cost Information
+
+    Delta Air Lines (DAL) requested clarification regarding the number 
+of airplanes on the U.S. registry that would be affected by the NPRM. 
+DAL stated that the Costs of Compliance paragraph indicated that an 
+estimated 43 airplanes would be affected. However, DAL is the only U.S. 
+operator of the affected airplanes, and DAL reports that there are 65 
+airplanes in their operations specification.
+    The FAA agrees with the commenter and has revised the Costs of 
+Compliance paragraph in this final rule accordingly.
+
+Request for Legible Service Information
+
+    DAL requested that better quality copies of certain sheets of 
+Boeing Drawing SN09570007 be provided to operators. The commenter 
+stated that the poor quality of these sheets renders them useless in 
+terms of doing inspections and is concerned about showing compliance 
+with the requirements specified in the proposed AD.
+    The FAA acknowledges the commenter's concern regarding the 
+legibility of certain sheets of Boeing Drawing SN09570007. Since Boeing 
+Alert Service Bulletin MD90-57A031, dated March 19, 2019, does not 
+include Boeing Drawing SN09570007 in the ``Required for Compliance 
+(RC)'' section, the drawing is not required to comply with this AD. The 
+drawing is referenced in Paragraph 1.J.2., Planning Information, 
+References, Data Supplied with the Service Bulletin, in Boeing Alert 
+Service Bulletin MD90-57A031, dated March 19, 2019. Operators notified 
+Boeing about the illegible drawing sheets, and in response, Boeing 
+issued Boeing Multi Operator Message MOM-MOM-19-0549-01B, dated October 
+4, 2019, which provides clearer images of Boeing Drawing SN09570007. 
+The FAA recognizes that Boeing Drawing SN09570007 may provide helpful 
+information to operators. Therefore, the FAA has added Note 1 to 
+paragraph (g) of this AD to notify operators that if they have 
+illegible pages of Boeing Drawing SN09570007, additional guidance can 
+be found in Boeing Multi Operator Message MOM-MOM-19-0549-01B, dated 
+October 4, 2019.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the changes described previously 
+and minor editorial changes. The FAA determined that these minor 
+changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    The FAA also determined that these changes will not increase the 
+economic burden on any operator (other than the estimated number of 
+affected airplanes as explained under the ``Request to Revise Cost 
+Information'' section of this final rule) or increase the scope of this 
+final rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Service Bulletin MD90-57A031, dated 
+March 19, 2019. This service information describes procedures for 
+repetitive ETLF inspections of the left and right side fastener holes 
+for any crack, repetitive ETHF inspections of the lower skin for any 
+crack, and repair if any crack is found. This service information is 
+reasonably available because the interested parties have access to it 
+through their normal course of business or by the means identified in 
+the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 65 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+         Action                   Labor cost            Parts cost      Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Inspection..............  30 work-hours x $85 per                $0   $2,550 per            $165,750 per
+                           hour = $2,550 per                           inspection cycle.     inspection cycle.
+                           inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data that would enable the 
+agency to provide cost estimates for the on-condition actions specified 
+in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA
+
+[[Page 70002]]
+
+with promoting safe flight of civil aircraft in air commerce by 
+prescribing regulations for practices, methods, and procedures the 
+Administrator finds necessary for safety in air commerce. This 
+regulation is within the scope of that authority because it addresses 
+an unsafe condition that is likely to exist or develop on products 
+identified in this rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2019-24-17 The Boeing Company: Amendment 39-21006; Docket No. FAA-
+2019-0406; Product Identifier 2019-NM-059-AD.
+
+(a) Effective Date
+
+    This AD is effective January 24, 2020.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model MD-90-30 
+airplanes, certificated in any category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports indicating that certain center 
+wing stringers and skins are potentially susceptible to cracking. 
+The FAA is issuing this AD to address cracking of the center wing 
+stringers and skins, which could result in the inability of the 
+structure to sustain limit loads, and adversely affect the 
+structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified in paragraph (h) of this AD: At the 
+applicable times specified in paragraph 1.E., ``Compliance,'' of 
+Boeing Alert Service Bulletin MD90-57A031, dated March 19, 2019, do 
+all applicable actions identified as ``RC'' (required for 
+compliance) in, and in accordance with, the Accomplishment 
+Instructions of Boeing Alert Service Bulletin MD90-57A031, dated 
+March 19, 2019.
+
+    Note 1 to paragraph (g) of this AD: Boeing Alert Service 
+Bulletin MD90-57A031, dated March 19, 2019, refers to Boeing Drawing 
+SN09570007, as data supplied with this service bulletin. If the 
+pages of Boeing Drawing SN09570007 are illegible, guidance can be 
+found in Boeing Multi Operator Message MOM-MOM-19-0549-01B, dated 
+October 4, 2019.
+
+(h) Exceptions to Service Information Specifications
+
+    (1) For purposes of determining compliance with the requirements 
+of this AD: Where Boeing Alert Service Bulletin MD90-57A031, dated 
+March 19, 2019, uses the phrase ``the original issue date of this 
+service bulletin,'' this AD requires using ``the effective date of 
+this AD.''
+    (2) Where Boeing Alert Service Bulletin MD90-57A031, dated March 
+19, 2019, specifies contacting Boeing for repair instructions and 
+doing the repair: This AD requires doing the repair using a method 
+approved in accordance with the procedures specified in paragraph 
+(i) of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Los Angeles ACO Branch, FAA, has the authority 
+to approve AMOCs for this AD, if requested using the procedures 
+found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your 
+request to your principal inspector or local Flight Standards 
+District Office, as appropriate. If sending information directly to 
+the manager of the certification office, send it to the attention of 
+the person identified in paragraph (j)(1) of this AD. Information 
+may be emailed to <a href="/cdn-cgi/l/email-protection#8db4a0ccc3c0a0c1cccccec2a0ccc0c2cea0dfe8fcf8e8fef9fecdebececa3eae2fb"><span class="__cf_email__" data-cfemail="7d44503c333050313c3c3e32503c30323e502f180c08180e090e3d1b1c1c531a120b">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, Los 
+Angeles ACO Branch, FAA, to make those findings. To be approved, the 
+repair method, modification deviation, or alteration deviation must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) Except as specified by paragraph (h) of this AD: For service 
+information that contains steps that are labeled as Required for 
+Compliance (RC), the provisions of paragraphs (i)(4)(i) and (ii) of 
+this AD apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. If a step or substep is labeled ``RC Exempt,'' then the 
+RC requirement is removed from that step or substep. An AMOC is 
+required for any deviations to RC steps, including substeps and 
+identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact David Truong, 
+Aerospace Engineer, Airframe Section, FAA, Los Angeles ACO Branch, 
+3960 Paramount Boulevard, Lakewood, CA 90712-4137; phone: 562-627-
+5224; fax: 562-627-5210; email: <a href="/cdn-cgi/l/email-protection#f39792859a97dd8781869c9d94b3959292dd949c85"><span class="__cf_email__" data-cfemail="553134233c317b2127203a3b32153334347b323a23">[email&#160;protected]</span></a>.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (k)(3) and (4) of this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+
+[[Page 70003]]
+
+    (i) Boeing Alert Service Bulletin MD90-57A031, dated March 19, 
+2019.
+    (ii) [Reserved]
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Contractual & Data Services 
+(C&DS), 2600 Westminster Blvd., MC 110 SK57, Seal Beach, CA 90740 
+5600; telephone 562-797-1717; internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email <a href="/cdn-cgi/l/email-protection#dabcbfbea8bfbdf4b6bfbdbbb69ab4bba8bbf4bdb5ac"><span class="__cf_email__" data-cfemail="bbdddedfc9dedc95d7dedcdad7fbd5dac9da95dcd4cd">[email&#160;protected]</span></a>, or go to: <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Des Moines, Washington, on December 4, 2019.
+Michael Kaszycki,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-27465 Filed 12-19-19; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

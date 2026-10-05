@@ -1,0 +1,512 @@
+<html>
+<head>
+<title>Federal Register, Volume 80 Issue 178 (Tuesday, September 15, 2015)</title>
+</head>
+<body><pre>
+[Federal Register Volume 80, Number 178 (Tuesday, September 15, 2015)]
+[Rules and Regulations]
+[Pages 55229-55232]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2015-22924]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-0926; Directorate Identifier 2014-NM-121-AD; 
+Amendment 39-18263; AD 2015-18-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 97-07-14, for 
+certain Airbus Model A320-111, -211, and -231 airplanes. AD 97-07-14 
+required modification of an area on the front spar of the wing center 
+section by installing shims and new fasteners to reinforce pressure 
+floor fittings. This new AD continues to require modifying the rib 
+flange on the front spar of the wing center section by installing shims 
+and new fasteners to reinforce pressure floor fittings; and requires 
+repetitive high frequency eddy current inspections for cracking of the 
+radius of the rib flanges and vertical stiffener at frame 36, a 
+rototest inspection for cracking of the fastener holes of the rib 
+flanges, repair if needed, and adding additional airplanes to the 
+applicability. This AD was prompted by the need for repetitive 
+inspections on airplanes on which the modification of the rib flange on 
+the front spar of the wing center section has been done. We are issuing 
+this AD to prevent fatigue cracking on the rib flange area of the front 
+spar of the wing center section, which can reduce the structural 
+integrity of fuselage frame 36 and the wing center section.
+
+DATES: This AD becomes effective October 20, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of October 20, 
+2015.
+    The Director of the Federal Register approved the incorporation by 
+reference
+
+[[Page 55230]]
+
+of a certain other publication listed in this AD as of May 12, 1997 (62 
+FR 16473, April 7, 1997).
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;D=FAA-2015-0926; or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus, 
+Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email <a href="/cdn-cgi/l/email-protection#8beae8e8e4fee5ffa5eae2f9fce4f9ffe3a6eeeaf8cbeae2f9e9fef8a5e8e4e6"><span class="__cf_email__" data-cfemail="82e3e1e1edf7ecf6ace3ebf0f5edf0f6eaafe7e3f1c2e3ebf0e0f7f1ace1edef">[email&#160;protected]</span></a>; Internet <a href="http://www.airbus.com">http://www.airbus.com</a>. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+0926.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 97-07-14, Amendment 39-9988 (62 FR 16473, April 
+7, 1997). AD 97-07-14 applied to certain Airbus Model A320-111, -211, 
+and -231 airplanes. The NPRM published in the Federal Register on April 
+24, 2015 (80 FR 22943).
+    Since we issued AD 97-07-14, Amendment 39-9988 (62 FR 16473, April 
+7, 1997), we have determined the need for repetitive inspections on 
+airplanes on which Airbus Modification 20976 (modification of the rib 
+flange on the front spar of the wing center section) was done in 
+production, or was done using Airbus Service Bulletin A320-57-1013, 
+dated April 12, 1989; or Airbus Service Bulletin A320-57-1013, Revision 
+1, dated September 29, 1992.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2014-0053, dated March 7, 2014 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition on certain Airbus Model 
+A320-211 and -231 airplanes. The MCAI states:
+
+    During full scale fatigue tests on the Airbus A320 test 
+specimen, cracks were found in the rib flange on the front spar side 
+perpendicular to vertical posts at frame (FR) 36. It was determined 
+that similar cracks could develop on certain in-service aeroplanes.
+    This condition, if not detected and corrected, could affect the 
+wing structural integrity.
+    To reduce the risk of crack initiation, two modifications for 
+aeroplanes in production and one modification for in-service 
+aeroplanes were developed by Airbus: Prior to [manufacturer serial 
+number] MSN 0085, the adaptation modification (Mod) 20976 was 
+applied in production, consisting in installing shims under the 
+fasteners linking the rib flange, the lower corner, the front spar 
+and its vertical stiffener; from MSN 0085 onwards, the serial Mod 
+20908 was applied in production, consisting in installing reinforced 
+lower surface rib flanges at front spar level.
+    Airbus issued Service Bulletin (SB) A320-57-1013 for affected 
+in-service aeroplanes, and [Directorate General for Civil Aviation] 
+DGAC France issued AD [F-19]95-098-066 [dated May 24, 1995, which 
+corresponds to FAA AD 97-07-14, Amendment 39-9988 (62 FR 16473, 
+April 7, 1997), <a href="http://ad.easa.europa.eu/ad/F-1995-098-066">http://ad.easa.europa.eu/ad/F-1995-098-066</a>] to 
+require installation of shims under the fasteners linking the rib 
+flange, the lower corner, the front spar and its vertical stiffener.
+    Following a recent analysis, Airbus identified the need for 
+repetitive [HFEC and rototest] inspections for aeroplanes on which 
+Airbus SB A320-57-1013 or production Mod 20976 has been embodied.
+    For the reason described above, this [EASA] AD retains the 
+requirements of DGAC France AD [F-19]95-098-066, [dated May 24, 
+1995, which corresponds to FAA AD 97-07-14, Amendment 39-9988 (62 FR 
+16473, April 7, 1997), <a href="http://ad.easa.europa.eu/ad/F-1995-098-066">http://ad.easa.europa.eu/ad/F-1995-098-066</a>], 
+which is superseded, and requires repetitive [HFEC and rototest] 
+inspections of the center wing lower ribs at FR 36 and, depending on 
+findings, accomplishment of a repair.
+    After EASA issued PAD 14-013, it was discovered that additional 
+work [removal of shims and fasteners on the rib flange on the front 
+spar side and doing an HFEC inspection for cracking of the radius of 
+the rib flanges and a rototest inspection for cracking of the 
+fastener holes during each inspection] to be included in Revision 01 
+of Airbus SB A320-57-1175, is required to accomplish the 
+inspections. This Final [EASA] AD has been amended accordingly.
+
+    Airplanes having MSNs 001, 009, and 015 were not included in the 
+applicability of AD 97-07-14, Amendment 39-9988 (62 FR 16473, April 7, 
+1997). EASA AD 2014-0053, dated March 7, 2014, expanded the 
+applicability to all airplanes having manufacturer serial numbers up to 
+MSN 0084 inclusive. We included paragraph (h) of this AD to require the 
+modification for the airplanes having MSNs 001, 009, and 015. You may 
+examine the MCAI in the AD docket on the Internet at <a href="http://www.regulations.gov/#!documentDetail">http://www.regulations.gov/#!documentDetail</a>;D=FAA-2015-0926-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We received no comments on the NPRM (80 FR 22943, April 24, 
+2015) or on the determination of the cost to the public.
+
+Conclusion
+
+    We reviewed the available data and determined that air safety and 
+the public interest require adopting this AD as proposed except for 
+minor editorial changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (80 FR 22943, April 24, 2015) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (80 FR 22943, April 24, 2015).
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A320-57-1175, Revision 01, 
+including Appendix 01, dated May 28, 2014. The service information 
+describes procedures for repetitive high frequency eddy current 
+inspections for cracking of the radius of the rib flanges and vertical 
+stiffener at frame 36, a rototest inspection for cracking of the 
+fastener holes of the rib flanges, and repair. This service information 
+is reasonably available because the interested parties have access to 
+it through their normal course of business or by the means identified 
+in the ADDRESSES section of this AD.
+
+Explanation of ``RC'' Procedures and Tests in Service Information
+
+    The FAA worked in conjunction with industry, under the 
+Airworthiness Directive Implementation Aviation Rulemaking Committee 
+(ARC), to enhance the AD system. One enhancement was a new process for 
+annotating which procedures and tests in the service information are 
+required for compliance with an AD. Differentiating these procedures 
+and tests from other tasks in the service information is expected to 
+improve an owner's/operator's understanding of crucial AD requirements 
+and help
+
+[[Page 55231]]
+
+provide consistent judgment in AD compliance. The procedures and tests 
+identified as Required for Compliance (RC) in any service information 
+have a direct effect on detecting, preventing, resolving, or 
+eliminating an identified unsafe condition.
+    As specified in a NOTE under the Accomplishment Instructions of the 
+specified service information, procedures and tests that are identified 
+as RC in any service information must be done to comply with the AD. 
+However, procedures and tests that are not identified as RC are 
+recommended. Those procedures and tests that are not identified as RC 
+may be deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining approval 
+of an alternative method of compliance (AMOC), provided the procedures 
+and tests identified as RC can be done and the airplane can be put back 
+in a serviceable condition. Any substitutions or changes to procedures 
+or tests identified as RC will require approval of an AMOC.
+
+Costs of Compliance
+
+    We estimate that this AD affects 11 airplanes of U.S. registry.
+    The actions required by AD 97-07-14, Amendment 39-9988 (62 FR 
+16473, April 7, 1997), and retained in this AD take about 13 work-hours 
+per product, at an average labor rate of $85 per work-hour. Required 
+parts cost about $576 per product. Based on these figures, the 
+estimated cost of the actions that were required by AD 97-07-14 is 
+$1,681 per product.
+    We also estimate that it will take about 45 work-hours per product 
+to comply with the new basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Required parts will cost about $1,600 per 
+product. Based on these figures, we estimate the cost of this AD on 
+U.S. operators to be $59,675, or $5,425 per product.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;D=FAA-2015-0926; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+97-07-14, Amendment 39-9988 (62 FR 16473, April 7, 1997), and adding 
+the following new AD:
+
+2015-18-05 Airbus: Amendment 39-18263. Docket No. FAA-2015-0926; 
+Directorate Identifier 2014-NM-121-AD.
+
+(a) Effective Date
+
+    This AD becomes effective October 20, 2015.
+
+(b) Affected ADs
+
+    This AD replaces AD 97-07-14, Amendment 39-9988 (62 FR 16473, 
+April 7, 1997).
+
+(c) Applicability
+
+    This AD applies to Airbus Model A320-211 and -231 airplanes, 
+certificated in any category, all manufacturer serial numbers (MSN) 
+up to MSN 0084 inclusive.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Reason
+
+    This AD was prompted by the determination that repetitive 
+inspections are needed on airplanes on which the modification of the 
+rib flange on the front spar of the wing center section has been 
+done. We are issuing this AD to prevent fatigue cracking on the rib 
+flange area of the front spar of the wing center section, which can 
+reduce the structural integrity of fuselage frame 36 and the wing 
+center section.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Modification
+
+    This paragraph restates the requirements of paragraph (a) of AD 
+97-07-14, Amendment 39-9988 (62 FR 16473, April 7, 1997). For 
+airplanes with manufacturer serial numbers (MSN) 005 through 008 
+inclusive, MSNs 010 through 014 inclusive, and MSNs 016 through 042 
+inclusive: Prior to the accumulation of 16,000 total landings, or 
+within 3 months after May 12, 1997 (the effective date of AD 97-07-
+14), whichever occurs later, modify the rib flange on the front spar 
+of the wing center section by installing shims and new fasteners to 
+reinforce pressure floor fittings, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-57-1013, 
+Revision 1, dated September 29, 1992.
+
+(h) New Requirement of This AD: Modification for Airplanes With MSNs 
+001, 009, and 015
+
+    Prior to the accumulation of 16,000 total landings since first 
+flight, or within 30 days after the effective date of this AD, 
+whichever occurs later, modify the rib flange on the front spar of 
+the wing center section by installing shims and new fasteners to 
+reinforce pressure floor fittings, in
+
+[[Page 55232]]
+
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A320-57-1013, Revision 1, dated September 29, 1992.
+
+(i) New Requirement of This AD: Repetitive Inspections
+
+    Within the applicable compliance times specified in paragraphs 
+(i)(1) and (i)(2) of this AD, do a high frequency eddy current 
+(HFEC) inspection for cracking of the radius of the rib flanges and 
+vertical stiffener at frame 36, and do a rototest inspection for 
+cracking of the fastener holes of the rib flanges and vertical 
+stiffener, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-57-1175, Revision 01, including 
+Appendix 01, dated May 28, 2014. During each inspection, remove the 
+shims and fasteners on the rib flange on the front spar side and do 
+an HFEC inspection for cracking of the radius of the rib flanges and 
+a rototest inspection for cracking of the fastener holes. If no 
+cracking is found, oversize the holes of the rib flange and the 
+holes of the shims, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-57-1175, Revision 01, 
+including Appendix 01, dated May 28, 2014. Repeat the inspections 
+thereafter at intervals not to exceed 32,500 flight cycles or 65,000 
+flight hours, whichever occurs first.
+    (1) For airplanes having Airbus Modification 20976 embodied: At 
+the later of the times specified in paragraphs (i)(1)(i) or 
+(i)(1)(ii) of this AD.
+    (i) Before exceeding 47,800 flight cycles or 95,600 flight 
+hours, whichever occurs first, since the airplane's first flight.
+    (ii) Within 850 flight cycles or 1,700 flight hours, whichever 
+occurs first, after the effective date of this AD.
+    (2) For airplanes on which the modification of the front spar of 
+the wing center section was accomplished using Airbus Service 
+Bulletin A320-57-1013, Revision 1, dated September 29, 1992: At the 
+later of the times specified in paragraphs (i)(2)(i) or (i)(2)(ii) 
+of this AD.
+    (i) Before exceeding 10,700 flight cycles or 21,500 flight 
+hours, whichever occurs first, after the modification of the rib 
+flange on the front spar of the wing center section was done using 
+Airbus Service Bulletin A320-57-1013, Revision 1, dated September 
+29, 1992.
+    (ii) Within 850 flight cycles or 1,700 flight hours, whichever 
+occurs first, after the effective date of this AD.
+
+(j) Repair
+
+    If, during any inspection required by paragraph (i) of this AD, 
+any cracking is found, before further flight, repair using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus's EASA Design Organization Approval (DOA).
+
+(k) Credit for Previous Actions
+
+    This paragraph restates the requirements of Note 2 of paragraph 
+(g) of AD 97-07-14, Amendment 39-9988 (62 FR 16473, April 7, 1997): 
+This paragraph provides credit for the modification of the rib 
+flange required by paragraph (g) of this AD, if those actions were 
+performed before May 12, 1997 (the effective date of AD 97-07-14), 
+using Airbus Service Bulletin A320-57-1013, dated April 12, 1989, 
+which is not incorporated by reference in this AD.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: <a href="/cdn-cgi/l/email-protection#be8793fff0f3938f8f8893fff3f1fd93ecfbefebfbedeaedfed8dfdf90d9d1c8"><span class="__cf_email__" data-cfemail="b1889cf0fffc9c8080879cf0fcfef29ce3f4e0e4f4e2e5e2f1d7d0d09fd6dec7">[email&#160;protected]</span></a>. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or EASA; or Airbus's EASA DOA. If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (j) of this AD, if the service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures and tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in a serviceable condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(m) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2014-0053, dated March 7, 2014, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and 
+locating Docket No. FAA-2015-0926.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (n)(5) and (n)(6) of this AD.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+October 20, 2015.
+    (i) Airbus Service Bulletin A320-57-1175, Revision 01, including 
+Appendix 01, dated May 28, 2014.
+    (ii) Reserved.
+    (4) The following service information was approved for IBR on 
+May 12, 1997 (62 FR 16473, April 7, 1997).
+    (i) Airbus Service Bulletin A320-57-1013, Revision 1, dated 
+September 29, 1992.
+
+    Note 1 to paragraph (n)(4)(i): Airbus Service Bulletin A320-57-
+1013, Revision 1, dated September 29, 1992, contains the following 
+list of effective pages: Pages 1 through 3 show revision level 1, 
+dated September 29, 1992; pages 4 through 11 are from the original 
+issue, dated April 12, 1989.
+
+    (ii) Reserved.
+    (5) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email <a href="/cdn-cgi/l/email-protection#d1b0b2b2bea4bfa5ffb0b8a3a6bea3a5b9fcb4b0a291b0b8a3b3a4a2ffb2bebc"><span class="__cf_email__" data-cfemail="a6c7c5c5c9d3c8d288c7cfd4d1c9d4d2ce8bc3c7d5e6c7cfd4c4d3d588c5c9cb">[email&#160;protected]</span></a>; Internet <a href="http://www.airbus.com">http://www.airbus.com</a>.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on September 2, 2015.
+Jeffrey E. Duven,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-22924 Filed 9-14-15; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

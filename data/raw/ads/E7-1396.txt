@@ -1,0 +1,669 @@
+<html>
+<head>
+<title>Federal Register, Volume 72 Issue 20 (Wednesday, January 31, 2007)</title>
+</head>
+<body><pre>
+[Federal Register Volume 72, Number 20 (Wednesday, January 31, 2007)]
+[Rules and Regulations]
+[Pages 4419-4423]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: E7-1396]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2006-24496; Directorate Identifier 2005-NM-141-AD; 
+Amendment 39-14914; AD 2007-03-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 737-100, -200, -200C, -
+300, -400, and -500 Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Boeing Model 737-100, -200, -200C, -300, -400, and -500 series 
+airplanes. This AD requires repetitive inspections to detect cracks in 
+the vertical beam webs of the body station (BS) 178 bulkhead, and 
+corrective actions if necessary. This AD also requires a terminating 
+modification for the repetitive inspections. This AD results from 
+reports of numerous cracks in the vertical beam webs. We are issuing 
+this AD to prevent fatigue cracks in certain vertical beam webs, which 
+could result in loss of structural integrity of the BS 178 bulkhead, 
+and consequently could impair the operation of the control cables for 
+the elevators, speed brakes, and landing gear, or could cause the loss 
+of cabin pressure.
+
+DATES: This AD becomes effective March 7, 2007.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of March 7, 
+2007.
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Management Facility, U.S. 
+Department of Transportation, 400 Seventh Street, SW., Nassif Building, 
+Room PL-401, Washington, DC.
+    Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for service information identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: Howard Hall, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone (425) 
+917-6430; fax (425) 917-6590.
+
+SUPPLEMENTARY INFORMATION:
+
+Examining the Docket
+
+    You may examine the airworthiness directive (AD) docket on the 
+Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Management 
+Facility office between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The Docket Management Facility office 
+(telephone (800) 647-5227) is located on the plaza level of the Nassif 
+Building at the street address stated in the ADDRESSES section.
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that would apply to certain Boeing Model 
+737-100, -200, -200C, -300, -400, and -500 series airplanes. That NPRM 
+was published in the Federal Register on April 18, 2006 (71 FR 19835). 
+That NPRM proposed to require repetitive inspections to detect cracks 
+in the vertical beam webs of the body station (BS) 178 bulkhead, and 
+corrective actions if necessary. That NPRM also proposed to require a 
+terminating modification for the repetitive inspections.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Request To Extend Compliance Time Threshold
+
+    Continental Airlines (Continental) requests that the threshold for 
+the compliance times specified in Table 1 of the NPRM be aligned with 
+the compliance times specified in ADs 2000-05-29, amendment 39-11639 
+(65 FR 14834, March 20, 2000), and 2001-02-01, amendment 39-12085 (66 
+FR 7576, January 24, 2001). Continental states that this will reduce 
+the economic impact on operators from doing early inspections and will 
+encourage operators to terminate those ADs at 20,000 total flight 
+cycles as opposed to doing repetitive inspections.
+    We do not agree. Continental provided no technical justification 
+for revising the inspection threshold. In developing an appropriate 
+compliance time for this action, we considered the safety implications 
+and normal maintenance schedules for the timely accomplishment of the 
+inspections. In consideration of these items, as well as the reports of 
+numerous cracks in the vertical beam webs in service, we have 
+determined that the compliance times specified in Table 1 of this AD 
+will ensure an acceptable level of safety and allow the inspections to 
+be done during scheduled maintenance intervals for most affected 
+operators. However, according to the provisions of paragraph (m) of the 
+AD, we may approve requests to adjust the compliance time if the 
+request includes data that substantiate that the new compliance time 
+would provide an acceptable level of safety.
+
+Request To Include an Additional Grace Period
+
+    The Air Transport Association (ATA), on behalf of one of its 
+members, United Airlines (United), requests that the compliance time 
+specified in paragraph (f)(2) of the NPRM be revised to reflect the 
+intention of Boeing Service Bulletin 737-53A1225, Revision 1, dated 
+April 14, 2005 (referred to in the NPRM as the appropriate source of 
+service information for accomplishing the repetitive inspections and 
+terminating preventative modification). United proposes that all 
+airplanes should have a minimum of 4,500 flight cycles after the 
+effective date of the AD to do the initial inspection required by 
+paragraph (f) of the NPRM. United also states that Boeing Service 
+Bulletin 737-53A1225, dated October 19, 2000, specifies an interval of 
+12,000 flight cycles for the repetitive high frequency eddy current 
+(HFEC) inspections. Without a grace period, United points out that 
+operators doing those inspections would be grounded as of the effective 
+date of the AD.
+    We agree and have revised paragraph (f)(2) of this AD to provide a 
+grace period of 4,500 flight cycles after the effective date of this 
+AD.
+
+Request To Include Certain Airplanes in Compliance Time Table
+
+    Boeing requests that we revise Table 1, ``Compliance Times,'' of 
+the NPRM to address airplanes inspected in accordance with Boeing 
+Service Bulletin 737-53A1225, Revision 1.
+    We do not agree. Operators are given credit for actions previously 
+done by means of the phrase in paragraph (e) of this AD that states, 
+``unless the actions have already been done.'' Therefore, in the case 
+of this AD, if the required inspection specified in Boeing Service 
+Bulletin 737-53A1225, Revision 1, has been done before the effective 
+date of this AD, this AD does not require that it be repeated. In 
+addition, if the required inspection specified in Boeing Service 
+Bulletin 737-53A1225, Revision
+
+[[Page 4420]]
+
+1, has not been done before the effective date of this AD, this AD 
+requires that inspection to be done at the applicable time specified in 
+Table 1. We have made no change to the final rule in this regard.
+
+Requests To Allow the Use of Boeing BOECOM M-7200-01-00546
+
+    KLM Engineering & Maintenance (KLM), Southwest Airlines 
+(Southwest), and United request that the procedures specified in Boeing 
+BOECOM M-7200-01-00546, dated March 1, 2001 (referred to in paragraph 
+(j) of the NPRM) be allowed to be used after the effective date of the 
+AD as an acceptable method of compliance with the preventative 
+modification specified in paragraph (i) of the NPRM. Southwest states 
+that BOECOM M-7200-01-00546 describes procedures for fabricating 
+replacement parts, which would result in a significant cost savings to 
+operators. United states that it has modified the majority of its fleet 
+using instructions equivalent to those contained BOECOM M-7200-01-
+00546. KLM states that it has modified a majority of its fleet using 
+Boeing Service Bulletin 737-53A1173, Revision 4, dated September 19, 
+2002 (Revision 3 of Boeing Service Bulletin 737-53A1173 is referred to 
+in paragraph (k) of the NPRM as the appropriate source of service 
+information for accomplishing the preventative modification), together 
+with the instructions specified in BOECOM M-7200-01-00546. United and 
+KLM would like to continue modifying their fleets using the same 
+instructions. In addition, Boeing requests that the description of 
+acceptable actions in paragraph (j) of the NPRM be revised to include 
+procedures done in accordance with Boeing BOECOM M-7200-01-00546 and 
+approved by Boeing and the FAA after March 1, 2001.
+    We partially agree. We agree that doing the replacement or 
+modification specified in Boeing BOECOM M-7200-01-00546, dated March 1, 
+2001, may be an acceptable means of compliance with the requirements of 
+paragraph (j) of this AD. However, it is not likely that replacement or 
+modification in accordance with BOECOM M-7200-01-00546 can be done 
+without deviations that require further FAA approval. It has been our 
+experience that work done in accordance with BOECOM M-7200-01-00546 has 
+nearly always required deviations. As noted in BOECOM M-7200-01-00546, 
+to obtain approval for using the BOECOM, the operator must provide an 
+Authorized Representative (AR) for the Boeing Commercial Airplanes 
+Delegation Option Authorization Organization with the airplane 
+identification, the details of the proposed replacement, and any 
+deviations. Therefore, we have determined that operators who use the 
+BOECOM procedures after the effective date of this AD must get them 
+approved as an alternative method of compliance (AMOC) in accordance 
+with the procedures specified in paragraph (m) of this AD. We have made 
+no change to the final rule in this regard.
+
+Request To Remove Option To Repair
+
+    Boeing requests that the word ``repair'' in paragraph (i) of the 
+NPRM and in the ``Relevant Service Information'' section of the NPRM be 
+deleted. Boeing did not provide a justification.
+    We agree. We have re-reviewed Boeing Service Bulletin 737-53A1225, 
+Revision 1. In several places in Parts II through IV of the 
+Accomplishment Instructions, the service bulletin states, ``Repair or 
+change the vertical beam * * * Refer to Figure 25 * * *.'' Figure 25 
+refers to ``replacement'' procedures; however, it does not refer to a 
+repair procedure. Therefore, we have deleted ``repair or'' in paragraph 
+(i) of this AD. We have made no change to the AD in regard to the 
+``Relevant Service Information'' section, because that section of the 
+NPRM does not reappear in the final rule.
+
+Request To Allow Repair Plans Approved Previously
+
+    Southwest requests that paragraph (j) of the NPRM be revised to 
+allow certain repair plans approved by an AR for the Boeing Commercial 
+Airplanes Delegation Option Authorization Organization or a Boeing 
+Designated Engineering Representative (DER) before the release of 
+Boeing BOECOM M-7200-01-00546, dated March 1, 2001, as an acceptable 
+method of compliance with the preventative modification specified in 
+paragraph (i) of the NPRM. Southwest states that it has installed 
+thicker vertical beam webs with such approval on some of its airplanes 
+before the issuance of Boeing BOECOM M-7200-01-00546, dated March 1, 
+2001.
+    We do not agree with Southwest to revise paragraph (j) of this AD. 
+Southwest did not provide sufficient data for us to determine if these 
+earlier repairs are equivalent to those specified in Boeing BOECOM M-
+7200-01-00546, dated March 1, 2001. It is possible that the review and 
+approval of earlier repairs may not have taken into account the latest 
+information that was used to develop the BOECOM. However, if a 
+particular repair is shown to be equivalent to that specified in the 
+BOECOM, paragraph (m) of the AD provides operators the opportunity to 
+apply for an AMOC to address this type of repair.
+
+Request for Clarification
+
+    Southwest requests that paragraph (j) of the NPRM be revised to 
+clarify that it is not necessary to replace certain stiffeners per step 
+4 of Boeing BOECOM M-7200-01-00546, if the existing holes can be 
+oversized and a new identical fastener can be installed with an 
+acceptable edge distance. Step 4 indicates that certain stiffeners must 
+be replaced because they are offset by the thickness of the new webs. 
+Southwest believes that the intent of that step is to eliminate 
+detrimental fastener over-sizing and short edge distances that can 
+result from the offset.
+    We do not agree with Southwest to revise paragraph (j) of this AD. 
+Southwest did not provide any specific limits nor define any acceptable 
+combinations of maximum over-sizing of fasteners and/or minimum 
+fastener edge distance. Therefore, we are unable to provide approval at 
+this time. However, under the provisions of paragraph (m) of this AD, 
+we may consider requests for approval of an AMOC if sufficient data are 
+submitted to substantiate that such a design change would provide an 
+acceptable level of safety.
+
+Request To Delete Concurrent Requirements
+
+    Delta Air Lines (Delta) requests that the concurrent requirements 
+of paragraphs (k) and (l) of the NPRM be deleted, and to continue to 
+allow the requirements specified in paragraph (c) of ADs 2000-05-29 and 
+2001-02-01 to be done separately. Delta notes that the ``Effect of 
+Accomplishing Concurrent Requirements'' section in the preamble of the 
+NPRM states, ``We realize that the concurrent requirements of this 
+proposed AD will force some operators to do the preventative 
+modifications required by AD 2001-02-01 early and to do the optional 
+preventative modification specified in AD 2000-05-29. However, 
+accomplishing the applicable preventative modifications together is 
+necessary to avoid repeated disassembly and re-assembly of common 
+parts, which increases the likelihood of additional assembly errors.'' 
+Delta states that the timing of doing the preventative modification is 
+an economic and operational decision, which is properly at the 
+discretion of the operators, not a subject for an AD.
+    We partially agree. We do not agree with Delta that the concurrent
+
+[[Page 4421]]
+
+requirements be deleted. We determined that mandating the previous 
+optional preventative modification specified in AD 2000-05-29 in this 
+AD will better ensure long-term continued operational safety of the 
+affected airplanes by removing the source of the problem, rather than 
+by repetitive inspections. Long-term inspections may not provide the 
+degree of safety necessary for the affected airplanes. This, coupled 
+with our understanding of the human factor errors associated with 
+numerous repetitive inspections, has led us to consider placing less 
+emphasis on special procedures and more emphasis on design 
+improvements. The preventative modification required by paragraph (l) 
+of this AD is consistent with these considerations. Additionally, 
+accomplishing the modifications concurrently provides the most 
+effective installation of these modifications and will avoid repeated 
+disassembly and re-assembly of common parts of critical structure, 
+which increases the likelihood of additional assembly errors. Boeing 
+also has provided us with data supporting our determination.
+    We somewhat agree with Delta to allow the requirements specified in 
+paragraph (c) of ADs 2000-05-29 and 2001-02-01 to be done separately. 
+It is acceptable to do the preventative modifications required by AD 
+2001-02-01 before the requirements of paragraph (i) of this AD. 
+However, paragraphs (k) and (l) of the NPRM state, ``Concurrently with 
+the requirements of paragraph (i) of this AD * * *.'' Therefore, we 
+have revised those paragraphs to clarify that the concurrent 
+requirements must be done ``before or concurrently with the 
+requirements of paragraph (i) of this AD.'' For clarification purposes, 
+we also removed the phrase ``unless already done before the effective 
+date of this AD'' from paragraph (k) of this AD.
+
+Request To Supersede AD 2000-05-29
+
+    The ATA, on behalf of one of its members, Delta, requests that AD 
+2000-05-29 be superseded or revised to avoid conflicting requirements. 
+Delta states that this should be done if its request in the ``Request 
+To Delete Concurrent Requirements'' section of this AD is not feasible.
+    We do not agree. Paragraph (k) of this AD mandates the previously 
+optional preventative modification specified in paragraph (c) of AD 
+2000-05-29. A mandatory requirement takes precedence over an optional 
+action. Therefore, we find that no conflict exists between the 
+requirements of this AD and AD 2000-05-29.
+    In addition, we considered superseding ADs 2000-05-29 and AD 2001-
+02-01 when developing the NPRM. We determined that doing so would have 
+made this AD more complex and would have increased the consequent 
+workload associated with revising maintenance record entries, because 
+this AD does not affect all requirements of those ADs. This AD only 
+affects paragraph (c) of those ADs. Therefore, we determined that a 
+less burdensome approach for operators was not to supersede those 
+existing ADs.
+
+Request To Address Certain Airplanes
+
+    If the concurrent requirements of the NPRM are kept, Delta further 
+requests that Boeing be tasked to address airplanes on which the 
+replacement of the forward pressure bulkhead web has been done and on 
+which the modification of the vertical beam has not been done.
+    We do not agree. We have determined that the procedures specified 
+in the Accomplishment Instructions of Boeing Service Bulletin 737-
+53A1225, Revision 1, dated April 14, 2005, adequately address all 
+affected airplanes. Although the information mentioned by Delta may be 
+helpful, the procedures specified in the service bulletin are adequate. 
+Therefore, we find it inappropriate to task Boeing to revise the 
+service bulletin and to delay the issuance of this AD. However, if 
+additional data are presented that would justify additional actions, we 
+may consider further rulemaking on this issue.
+
+Requests To Allow AMOCs Approved Previously
+
+    Southwest requests that paragraphs (k) and (l) of the NPRM be 
+revised to allow AMOCs approved previously in accordance with ADs 2000-
+05-29 and 2001-02-01, respectively. Southwest wants to avoid any issues 
+as to whether or not those AMOCs must be resubmitted to us for 
+approval.
+    Continental requests that paragraph (k) of the NPRM be revised to 
+refer to Boeing Service Bulletin 737-53A1173, Revision 4, dated 
+September 19, 2002. Continental states that Revision 4 included several 
+corrections and work flow improvements.
+    We partially agree with both Southwest and Continental. We agree 
+that approved AMOCs to paragraph (c) of ADs 2000-05-29 and 2001-02-01 
+that are done before or concurrently with the requirements of paragraph 
+(i) of this AD are acceptable as AMOCs for the corresponding provisions 
+of paragraphs (k) and (l) of this AD, respectively. Boeing Service 
+Bulletin 737-53A1173, Revision 4, is one of those AMOCs. We do not 
+agree with the commenters that the paragraphs (k) and (l) should be 
+revised in regard to AMOCs. The appropriate paragraph to revise is 
+paragraph (m) of this AD, which is the AMOC paragraph. Therefore, we 
+have revised paragraph (m) accordingly.
+
+Request To Revise AMOC Paragraph
+
+    Boeing requests that paragraph (m)(3) of the NPRM be changed to 
+allow AR approval of modifications as well as repairs.
+    We agree and have revised paragraph (m)(3) of this AD accordingly.
+
+Requests To Revise Costs of Compliance
+
+    The ATA, on behalf of two of its members, U.S. Airways and United, 
+requests that the Costs of Compliance section in the preamble of the 
+NPRM account for the work required to gain access, reassemble, complete 
+post-modification checkouts, close access, etc. associated with the 
+proposed inspection and preventative modification. U.S. Airways states 
+that these actions represent an increase of almost 40 percent above and 
+beyond the 240 work hours specified in the NPRM. United states that the 
+proposed inspection and preventative modification are not normally 
+accessed at any routine maintenance visit.
+    We do not agree. The Costs of Compliance section describes only the 
+direct costs of the specific actions required by this AD. Based on the 
+best data available, the manufacturer provided the number of work hours 
+(240 for preventative modification; 4 for each inspection) necessary to 
+do the required actions. This number represents the time necessary to 
+perform only the actions actually required by this AD. We recognize 
+that, in doing the actions required by an AD, operators may incur 
+incidental costs in addition to the direct costs. The cost analysis in 
+AD rulemaking actions, however, typically does not include incidental 
+costs such as the time required to gain access and close up, time 
+necessary for planning, or time necessitated by other administrative 
+actions. Those incidental costs, which may vary significantly among 
+operators, are almost impossible to calculate. Therefore, we have made 
+no change to this AD in this regard.
+
+Request To Correct Typographical Error
+
+    Boeing requests that a typographical error be fixed in paragraph 
+(h) of the NPRM. The reference to ``paragraph (1) of this AD'' should 
+be changed to ``paragraph (m) of this AD.''
+    We agree and have changed paragraph (h) of this AD accordingly.
+
+[[Page 4422]]
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+ Costs of Compliance
+
+    There are about 3,132 airplanes of the affected design in the 
+worldwide fleet. The following table provides the estimated costs for 
+U.S. operators to comply with this AD.
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                     Number of U.S.-
+             Action               Work hours   Average labor rate per hour         Parts         Cost per airplane      registered         Fleet cost
+                                                                                                                        airplanes
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Inspection, per inspection                 4                           $80  None..............  $320, per           1,172............  $375,040, per
+ cycle.                                                                                          inspection cycle.                      inspection
+                                                                                                                                        cycle.
+Preventative modification......          240                            80  Between $960 and    Between $20,160     1,172 (720         Between
+                                                                             $13,620,            and $32,820,        airplanes have     $9,112,320 and
+                                                                             depending on kit    depending on        had the            $14,834,640.
+                                                                             purchased.          configuration.      preventative
+                                                                                                                     modification
+                                                                                                                     incorporated).
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+adding the following new airworthiness directive (AD):
+
+2007-03-03 Boeing: Amendment 39-14914. Docket No. FAA-2006-24496; 
+Directorate Identifier 2005-NM-141-AD.
+
+Effective Date
+
+    (a) This AD becomes effective March 7, 2007.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to Boeing Model 737-100, -200, -200C, -300, 
+-400, and -500 series airplanes, certificated in any category; as 
+identified in Boeing Service Bulletin 737-53A1225, Revision 1, dated 
+April 14, 2005.
+
+Unsafe Condition
+
+    (d) This AD results from reports of numerous cracks in the 
+vertical beam webs. We are issuing this AD to prevent fatigue cracks 
+in certain vertical beam webs, which could result in loss of 
+structural integrity of the body station (BS) 178 bulkhead, and 
+consequently could impair the operation of the control cables for 
+the elevators, speed brakes, and landing gear, or could cause the 
+loss of cabin pressure.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Repetitive Inspections
+
+    (f) At the applicable times specified in Table 1 of this AD, do 
+a high frequency eddy current (HFEC) inspection and detailed 
+inspection to detect cracks in the BS 178 vertical beam webs, in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin 737-53A1225, Revision 1, dated April 14, 2005.
+
+[[Page 4423]]
+
+
+
+                       Table 1.--Compliance Times
+------------------------------------------------------------------------
+                                                     And repeat the HFEC
+                                                        and detailed
+  For airplanes on which--          Inspect--            inspections
+                                                       thereafter at--
+------------------------------------------------------------------------
+(1) An HFEC or a detailed     Before the            Intervals not to
+ inspection specified in       accumulation of       exceed 6,000 flight
+ Boeing Service Bulletin 737-  15,000 total flight   cycles.
+ 53A1225, dated October 19,    cycles, or within
+ 2000, has not been done as    4,500 flight cycles
+ of the effective date of      after the effective
+ this AD.                      date of this AD,
+                               whichever occurs
+                               later.
+(2) An HFEC or detailed       Within 6,000 flight   Intervals not to
+ inspection specified in       cycles since the      exceed 6,000 flight
+ Boeing Service Bulletin 737-  last HFEC             cycles.
+ 53A1225, dated October 19,    inspection, within
+ 2000, has been done before    1,200 flight cycles
+ the effective date of this    since the last
+ AD.                           detailed
+                               inspection, or
+                               within 4,500 flight
+                               cycles after the
+                               effective date of
+                               this AD, whichever
+                               occurs later.
+------------------------------------------------------------------------
+
+Corrective Actions
+
+    (g) If any crack is detected during any inspection required by 
+paragraph (f) of this AD, before further flight, repair or replace 
+the vertical beam web and associated parts with a new vertical beam 
+web, in accordance with the Accomplishment Instructions of Boeing 
+Service Bulletin 737-53A1225, Revision 1, dated April 14, 2005, 
+except as provided by paragraph (h) of this AD.
+    (h) If any damage is beyond the scope of the service bulletin or 
+structural repair manual, before further flight, repair the damaged 
+vertical beam web in accordance with a method approved by the 
+Manager, Seattle Aircraft Certification Office (ACO), FAA; or using 
+a method approved in accordance with paragraph (m) of this AD.
+
+Terminating Preventative Modification
+
+    (i) Before the accumulation of 50,000 total flight cycles, or 
+within 25,000 flight cycles after the effective date of this AD, 
+whichever occurs later, replace the vertical beams at buttock lines 
+(BL) 5.7 and 17.0 of the BS 178 bulkhead, in accordance with the 
+Accomplishment Instructions of Boeing Service Bulletin 737-53A1225, 
+Revision 1, dated April 14, 2005. Accomplishing the replacement ends 
+the repetitive inspections required by paragraph (f) of this AD.
+    (j) Actions done before the effective date of this AD in 
+accordance with Boeing BOECOM M-7200-01-00546, dated March 1, 2001, 
+are acceptable for compliance with the requirements of paragraph (i) 
+of this AD.
+
+Prior to or Concurrent Requirements
+
+    (k) For Group 1 airplanes identified in Boeing Service Bulletin 
+737-53A1225, Revision 1, dated April 14, 2005: Before or 
+concurrently with the requirements of paragraph (i) of this AD, do 
+the preventative modifications of the center web, vertical chords, 
+and side chord areas, including the side chord areas at water line 
+207, of the forward pressure bulkhead, specified in paragraph (c) of 
+AD 2000-05-29, amendment 39-11639 (reference Boeing Alert Service 
+Bulletin 737-53A1173, Revision 3, dated May 6, 1999).
+    (l) For Group 2 airplanes identified in Boeing Service Bulletin 
+737-53A1225, Revision 1, dated April 14, 2005: Before or 
+concurrently with the requirements of paragraph (i) of this AD, but 
+no later than the time specified in AD 2001-02-01, amendment 39-
+12085, do the preventative modifications of the vertical and side 
+chord areas of the forward pressure bulkhead required by paragraph 
+(c) of AD 2001-02-01 (reference Boeing Alert Service Bulletin 737-
+53A1208, dated May 6, 1999).
+
+Alternative Methods of Compliance (AMOCs)
+
+    (m)(1) The Manager, Seattle ACO, FAA, has the authority to 
+approve AMOCs for this AD, if requested in accordance with the 
+procedures found in 14 CFR 39.19.
+    (2) Before using any AMOC approved in accordance with Sec.  
+39.19 on any airplane to which the AMOC applies, notify the 
+appropriate principal inspector in the FAA Flight Standards 
+Certificate Holding District Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any replacement or repair required by this AD, if it is 
+approved by an Authorized Representative for the Boeing Commercial 
+Airplanes Delegation Option Authorization Organization who has been 
+authorized by the Manager, Seattle ACO, to make those findings. For 
+a replacement or repair method to be approved, the replacement or 
+repair must meet the certification basis of the airplane, and the 
+approval must specifically refer to this AD.
+    (4) Approved AMOCs to paragraph (c) of AD 2000-05-29 done before 
+or concurrently with the requirements of paragraph (i) of this AD 
+are approved as AMOCs for the corresponding provisions of paragraph 
+(k) of this AD.
+    (5) Approved AMOCs to paragraph (c) of AD 2001-02-01 done before 
+or concurrently with the requirements of paragraph (i) of this AD 
+are approved as AMOCs for the corresponding provisions of paragraph 
+(l) of this AD.
+
+Material Incorporated by Reference
+
+    (n) You must use Boeing Service Bulletin 737-53A1225, Revision 
+1, dated April 14, 2005, to perform the actions that are required by 
+this AD, unless the AD specifies otherwise. The Director of the 
+Federal Register approved the incorporation by reference of this 
+document in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. 
+Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, 
+Washington 98124-2207, for a copy of this service information. You 
+may review copies at the Docket Management Facility, U.S. Department 
+of Transportation, 400 Seventh Street SW., Room PL-401, Nassif 
+Building, Washington, DC; on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a>; or 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at the NARA, call 
+(202) 741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on January 19, 2007.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+ [FR Doc. E7-1396 Filed 1-30-07; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

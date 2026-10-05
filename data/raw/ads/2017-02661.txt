@@ -1,0 +1,601 @@
+<html>
+<head>
+<title>Federal Register, Volume 82 Issue 33 (Tuesday, February 21, 2017)</title>
+</head>
+<body><pre>
+[Federal Register Volume 82, Number 33 (Tuesday, February 21, 2017)]
+[Rules and Regulations]
+[Pages 11140-11144]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2017-02661]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-6664; Directorate Identifier 2015-NM-177-AD; 
+Amendment 39-18795; AD 2017-03-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2012-16-07 for 
+certain The Boeing Company Model 737-500 series airplanes. AD 2012-16-
+07 required inspections of the fuselage skin at the chem-milled steps, 
+and repair if necessary. This new AD adds new inspections, permanent 
+repairs of time-limited repairs, related investigative and corrective 
+actions if necessary, and skin panel replacement. This AD was prompted 
+by evaluation by the design approval holder (DAH) that indicates that 
+the fuselage skin is subject to widespread fatigue damage (WFD), and 
+reports of cracking in certain areas of the fuselage skin. We are 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective March 28, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of March 28, 
+2017.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2016-
+6664.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>by searching for and locating Docket No. FAA-2016-
+6664; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Jennifer Tsakoumakis, Aerospace 
+Engineer, Airframe Branch, ANM-120L, FAA, Los Angeles Aircraft 
+Certification Office (ACO), 3960 Paramount Boulevard, Lakewood, CA 
+90712-4137; phone: 562-627-5264; fax: 562-627-5210; email: 
+<a href="/cdn-cgi/l/email-protection#066c6368686f606374287275676d69736b676d6f754660676728616970"><span class="__cf_email__" data-cfemail="48222d2626212e2d3a663c3b2923273d252923213b082e2929662f273e">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2012-16-07, Amendment 39-17154 (77 FR 48423, 
+August 14, 2012) (``AD 2012-16-07''). AD 2012-16-07 applied to certain 
+The Boeing Company Model 737-500 series airplanes. The NPRM published 
+in the Federal Register on May 13, 2016 (81 FR 29813) (``the NPRM''). 
+The NPRM was prompted by evaluation by the DAH that indicates that the 
+fuselage skin is subject to WFD, and reports of cracks at the chem-
+milled steps in the fuselage skin. The NPRM proposed to continue to 
+require inspections of the fuselage skin at the chem-milled steps, and 
+repair if necessary. The NPRM also proposed to add new fuselage skin 
+inspections for cracking, inspections to detect missing or loose 
+fasteners and any disbonding or cracking of bonded doublers, permanent 
+repairs of time-limited repairs, related investigative and corrective 
+actions if necessary, and skin panel replacement. We are issuing this 
+AD to detect and correct cracking on the aft lower lobe fuselage skins, 
+which could result in rapid decompression of the airplane.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Request To Remove Time-Limited Repair Exception From Paragraph (g) of 
+the Proposed AD
+
+    Boeing requested that we remove the paragraph (h)(5) exception 
+specified in paragraph (g) of the proposed AD. Boeing stated that 
+paragraph (h)(5) of the proposed AD refers to structure with time-
+limited repairs and is not applicable to paragraph (g) of the proposed 
+AD, which deals with actions on unrepaired structure.
+    We agree with Boeing's request to remove the paragraph (h)(5) 
+reference in paragraph (g) of this AD for the reason provided by 
+Boeing. We have revised paragraph (g) of this AD accordingly.
+
+Request To Revise Proposed Compliance Time and Method of Compliance
+
+    Boeing requested that we revise paragraphs (h)(4), (k)(1), and 
+(k)(2) of the proposed AD to specify that the skin
+
+[[Page 11141]]
+
+panel replacement condition is ``before'' 53,000 total flight cycles, 
+not ``at or before'' 53,000 total flight cycles; ``and at or after'' 
+53,000 total flight cycles, not ``before'' for the terminating action 
+in paragraph (k) of the proposed AD. Boeing explained if a skin panel 
+is replaced at 53,000 total flight cycles, no additional safety 
+inspections would be needed due to the limit of validity (LOV).
+    Boeing also requested that we revise the compliance time for skin 
+panel replacement in paragraph (h)(4) of the proposed AD to a time 
+approved by the FAA through the alternative method of compliance (AMOC) 
+process instead of the time specified in the service information. 
+Boeing asserted that a reset of the compliance times is necessary if 
+the panel is replaced before 53,000 total flight cycles. Since a Boeing 
+authorized representative may not approve extensions of compliance 
+times, Boeing pointed out that the AMOC approval for a reset of the 
+compliance times from total flight cycles to flight cycles from when 
+the panel is replaced would have to come from the FAA.
+    We partially agree with Boeing's requests. We agree to revise the 
+compliance time condition to ``before 53,000 total flight cycles'' in 
+paragraphs (h)(4), (k)(1), and (k)(2) of this AD; and to ``at or after 
+53,000 total flight cycles'' in paragraph (k) of this AD for the 
+terminating action to address Boeing's LOV concerns.
+    We also acknowledge the request to change the compliance time in 
+paragraph (h)(4) of this AD from the applicable time for the next 
+inspection as specified in the service information to a time approved 
+by the FAA. However, we have determined that a change to this AD is not 
+necessary. Operators may always request approval for alternative 
+compliance times using a method approved in accordance with the 
+procedures specified in paragraph (m) of this AD. The compliance time 
+in paragraph (h)(4) of this AD is an appropriate compliance time and 
+provides an acceptable level of safety. It should also provide 
+operators with sufficient information for maintenance planning purposes 
+and allow the inspections to be done during scheduled maintenance 
+intervals for most affected operators.
+
+Request To Provide Specific Service Information References
+
+    Boeing requested that we revise paragraphs (i)(1) and (i)(2) of the 
+proposed AD to provide reference to the specific part of the service 
+information. Boeing stated that paragraph (g) of the proposed AD 
+includes specific service information part references, so this change 
+would make paragraph (i) consistent with the formatting of paragraph 
+(g) of the proposed AD.
+    We do not agree with Boeing's requests. Paragraph (g) of this AD, 
+in part, specifies the specific service information paragraph reference 
+for doing repairs that are terminating action for the repetitive 
+inspections at the repaired locations only. We determined that this 
+reference is needed for clarity. We do not agree that the other 
+references are needed for clarity. We have not changed this AD in this 
+regard.
+
+Request To Clarify Post-modification Airworthiness Limitation 
+Inspections
+
+    Boeing requested that we revise paragraph (j) of the proposed AD to 
+specify that table 3 of paragraph 1.E., ``Compliance,'' of Boeing 
+Special Attention Service Bulletin 737-53-1315, Revision 1, dated June 
+30, 2015 (``SASB 737-53-1315 R1''), is for post-modification 
+airworthiness limitation inspections at the modified locations. Boeing 
+explained that, since airworthiness limitation inspections are required 
+by maintenance and operational rules, it is unnecessary to mandate them 
+in this AD.
+    We agree with Boeing's request. We have revised paragraph (j) of 
+this AD to clarify that the post-modification inspections are 
+airworthiness limitations that are required by maintenance and 
+operational rules; therefore, these inspections are not required by 
+this AD.
+
+Request To Revise Corrective Actions in Paragraph (k) of the Proposed 
+AD
+
+    Boeing requested that we revise paragraph (k) of the proposed AD, 
+which specifies replacing the applicable skin panels and doing all 
+applicable related investigative and corrective actions. Boeing 
+requested that we remove the phrases ``do all applicable related 
+investigative and corrective actions,'' in accordance with the 
+Accomplishment Instructions of SASB 737-53-1315 R1 and ``do all 
+applicable related investigative and corrective actions before further 
+flight.'' Boeing suggested replacing these phrases with in accordance 
+with ``Part 2: Skin Panel Replacement of the Accomplishment 
+Instructions of Boeing Special Attention Service Bulletin 737-53-1315, 
+Revision 1, dated June 30, 2015,'' to be similar to the wording in 
+other NPRMs.
+    We disagree with the request to refer to ``Part 2'' of SASB 737-53-
+1315 R1. We do not agree that the reference is needed for clarity. We 
+also do not agree with removing the phrase ``all applicable related 
+investigative and corrective actions'' because that phrase indicates 
+there are on-condition actions. The skin panel replacement includes a 
+conditional action that specifies reinstalling a certain lap joint 
+modification. The sentence ``do all applicable related investigative 
+and corrective actions before further flight'' is included to reinforce 
+the compliance time for the on-condition actions. We have not changed 
+this AD in regard to these requests.
+
+Request To Revise the NPRM To Address Certain Repaired Areas
+
+    For airplanes subject to the requirements of paragraph (g) of the 
+proposed AD, Boeing requested that we add a paragraph that specifies 
+that inspections are not required in areas that are spanned by an FAA-
+approved repair that has met certain conditions. Boeing submitted 
+specific conditions. Boeing stated that its request is to address 
+elimination of inspections for repairs that have been accomplished for 
+damage other than chem-mill cracking.
+    We do not agree with Boeing's request. Paragraph (g) of this AD 
+specifies to do the applicable inspections and related investigative 
+and corrective actions specified in the Accomplishment Instructions of 
+SASB 737-53-1315 R1. This service information already contains the 
+criteria Boeing proposed. Therefore, this criteria does not need to be 
+repeated in this AD. We have not changed this AD in this regard.
+
+Effect of Winglets on Accomplishment of the Proposed Actions
+
+    Aviation Partners Boeing stated that accomplishing the Supplemental 
+Type Certificate (STC) ST01219SE does not affect the actions specified 
+in the NPRM.
+    We concur with the commenter. We have redesignated paragraph (c) of 
+the proposed AD as (c)(1) and added paragraph (c)(2) to this AD to 
+state that installation of STC ST01219SE does not affect the ability to 
+accomplish the actions required by this final rule. Therefore, for 
+airplanes on which STC ST01219SE is installed, a ``change in product'' 
+alternative method of compliance (AMOC) approval request is not 
+necessary to comply with the requirements of 14 CFR 39.17.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously, and minor editorial 
+changes. We have determined that these minor changes:
+
+[[Page 11142]]
+
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed SASB 737-53-1315 R1. The service information describes 
+procedures for inspection and repair of the fuselage skin panels 
+between station 727 and station 1016, and between stringers S-14 and S-
+25; and also describes procedures for skin panel replacement. This 
+service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 33 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                               Parts                             Cost on U.S.
+              Action                      Labor cost            cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspections (actions retained      23 work-hours x $85 per          $0  $1,955 per           $64,515 per
+ from AD 2012-16[dash]07).          hour = $1,955 per                    inspection cycle.    inspection cycle.
+                                    inspection cycle.
+Inspections (new action).........  Up to 1,515 work-hours x          0  Up to $128,775 per   Up to $4,249,575
+                                    $85 per hour = $128,775              inspection cycle.    per inspection
+                                    per inspection cycle.                                     cycle.
+Skin panel replacement (new        688 work-hours x $85 per     96,000  $154,480...........  $5,097,840.
+ action).                           hour = $58,480.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary repairs that 
+would be required based on the results of the inspection. We have no 
+way of determining the number of aircraft that might need these 
+repairs:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                Action                            Labor cost              Parts cost        Cost per product
+----------------------------------------------------------------------------------------------------------------
+Time-limited repair...................  24 work-hours x $85 per hour =           (\1\)  $2,040.
+                                         $2,040..
+Permanent repair......................  31 work-hours x $85 per hour =           (\1\)  2,635.
+                                         $2,635..
+Permanent repair inspection...........  4 work-hours x $85 per hour =            (\1\)  340 per inspection
+                                         $340 per inspection cycle.                      cycle.
+----------------------------------------------------------------------------------------------------------------
+\1\ We have received no definitive data that would enable us to provide parts cost estimates for the on-
+  condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2012-16-07, Amendment 39-17154 (77 FR 48423, August 14, 2012), and 
+adding the following new AD:
+
+2017-03-04 The Boeing Company: Amendment 39-18795; Docket No. FAA-
+2016-6664; Directorate Identifier 2015-NM-177-AD.
+
+(a) Effective Date
+
+    This AD is effective March 28, 2017.
+
+(b) Affected ADs
+
+    This AD replaces AD 2012-16-07, Amendment 39-17154 (77 FR 48423, 
+August 14, 2012) (``AD 2012-16-07'').
+
+(c) Applicability
+
+    (1) This AD applies to all The Boeing Company Model 737-500 
+series airplanes, certificated in any category.
+    (2) Installation of Supplemental Type Certificate (STC) 
+ST01219SE (http://rgl.faa.gov/Regulatory_and_Guidance_Library/
+rgstc.nsf/0/ebd1cec7b301293e86257cb30045557a/$FILE/ST01219SE.pdf)
+
+[[Page 11143]]
+
+does not affect the ability to accomplish the actions required by 
+this AD. Therefore, for airplanes on which STC ST01219SE is 
+installed, a ``change in product'' alternative method of compliance 
+(AMOC) approval request is not necessary to comply with the 
+requirements of 14 CFR 39.17.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by an evaluation by the design approval 
+holder (DAH) that indicates that the fuselage skin is subject to 
+widespread fatigue damage (WFD), and reports of cracks at the chem-
+milled steps in the fuselage skin. We are issuing this AD to detect 
+and correct cracking on the aft lower lobe fuselage skins, which 
+could result in rapid decompression of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspections, Related Investigative and Corrective Actions
+
+    At the applicable times specified in table 1 of paragraph 1.E., 
+``Compliance,'' of Boeing Special Attention Service Bulletin 737-53-
+1315, Revision 1, dated June 30, 2015 (``SASB 737-53-1315 R1''), 
+except as required by paragraphs (h)(1) and (h)(2) of this AD: Do 
+the applicable inspections to detect cracks in the fuselage skin 
+panels; and do all applicable related investigative and corrective 
+actions; in accordance with the Accomplishment Instructions of SASB 
+737-53-1315 R1, except as required by paragraphs (h)(3) and (h)(4) 
+of this AD. Do all applicable related investigative and corrective 
+actions before further flight. Repeat the applicable inspections 
+thereafter at the applicable intervals specified SASB 737-53-1315 
+R1. Accomplishment of a repair in accordance with ``Part 3: Repair'' 
+of the Accomplishment Instructions of SASB 737-53-1315 R1, except as 
+required by paragraph (h)(3) of this AD, is terminating action for 
+the repetitive inspections required by this paragraph at the 
+repaired locations only.
+
+(h) Exceptions to SASB 737-53-1315 R1
+
+    (1) Where SASB 737-53-1315 R1, specifies compliance times 
+``after the Revision 1 date of this service bulletin,'' this AD 
+requires compliance within the specified compliance times after the 
+effective date of this AD.
+    (2) The Condition column of table 1 of Paragraph 1.E., 
+``Compliance,'' of SASB 737-53-1315 R1, refers to airplanes in 
+certain configurations as of the ``issue date of Revision 1 of this 
+service bulletin.'' However, this AD applies to airplanes in the 
+specified configurations ``as of the effective date of this AD.''
+    (3) Where SASB 737-53-1315 R1, specifies contacting Boeing for 
+repair instructions or work instructions, before further flight, 
+repair or perform the work instructions using a method approved in 
+accordance with the procedures specified in paragraph (m) of this 
+AD, except as required by paragraph (h)(4) of this AD.
+    (4) For airplanes on which an operator has a record that a skin 
+panel was replaced with a production skin panel before 53,000 total 
+flight cycles: At the applicable time for the next inspection as 
+specified in table 1 of paragraph 1.E., ``Compliance,'' SASB 737-53-
+1315 R1, except as provided by paragraphs (h)(1) and (h)(2) of this 
+AD: Perform inspections and applicable corrective actions using a 
+method approved in accordance with the procedures specified in 
+paragraph (m) of this AD.
+    (5) The Condition column of table 2 of Paragraph 1.E., 
+``Compliance,'' of SASB 737-53-1315 R1, refers to airplanes in 
+certain configurations as of the ``issue date of Revision 1 of this 
+service bulletin.'' However, this AD applies to airplanes in the 
+specified configurations regardless of when the time limited repair 
+is installed.
+
+(i) Actions for Airplanes With a Time Limited Repair Installed
+
+    For airplanes with a time limited repair installed as specified 
+in Boeing Special Attention Service Bulletin 737-53-1315, dated July 
+29, 2011; or SASB 737-53-1315 R1: At the applicable times specified 
+in table 2 of paragraph 1.E., ``Compliance,'' of SASB 737-53-1315 
+R1, except as provided by paragraphs (h)(1) and (h)(5) of this AD, 
+do the actions specified in paragraphs (i)(1) and (i)(2) of this AD.
+    (1) Do the applicable inspections to detect missing or loose 
+fasteners and any disbonding or cracking of bonded doublers; and do 
+all applicable related investigative and corrective actions; in 
+accordance with the Accomplishment Instructions of SASB 737-53-1315 
+R1, except as required by paragraph (h)(3) of this AD. Do all 
+applicable related investigative and corrective actions before 
+further flight. Repeat the applicable inspections thereafter at the 
+applicable intervals specified SASB 737-53-1315 R1.
+    (2) Make the time limited repair permanent and do all applicable 
+related investigative and corrective actions in accordance with the 
+Accomplishment Instructions of SASB 737-53-1315 R1, except as 
+required by paragraph (h)(3) of this AD. Do all applicable related 
+investigative and corrective actions before further flight. 
+Accomplishing the permanent repair required by this paragraph 
+terminates the inspections required by paragraph (i)(1) of this AD 
+for the permanently repaired area only.
+
+(j) AD Provisions for Part 26 Supplemental Inspections
+
+    Table 3 of paragraph 1.E., ``Compliance,'' of SASB 737-53-1315 
+R1, specifies post-modification airworthiness limitation inspections 
+in compliance with 14 CFR 25.571(a)(3) at the modified locations, 
+which support compliance with 14 CFR 121.1109(c)(2) or 
+129.109(b)(2). As airworthiness limitations, these inspections are 
+required by maintenance and operational rules. It is therefore 
+unnecessary to mandate them in this AD. Deviations from these 
+inspections require FAA approval, but do not require an alternative 
+method of compliance.
+
+(k) Skin Panel Replacement
+
+    At the later of the times specified in paragraphs (k)(1) and 
+(k)(2) of this AD: Replace the applicable skin panels, and do all 
+applicable related investigative and corrective actions, in 
+accordance with the Accomplishment Instructions of SASB 737-53-1315 
+R1. Do all applicable related investigative and corrective actions 
+before further flight. Doing the skin panel replacement required by 
+this paragraph terminates the inspection requirements of paragraph 
+(g) of this AD for that skin panel only, provided the skin panel 
+replacement was done with a production skin panel at or after 53,000 
+total flight cycles.
+    (1) Before 60,000 total flight cycles, but not before 53,000 
+total flight cycles.
+    (2) Within 6,000 flight cycles after the effective date of this 
+AD, but not before 53,000 total flight cycles.
+
+(l) Credit for Previous Actions
+
+    This paragraph provides credit for the zone 1 actions required 
+by paragraph (g) of this AD, as described in SASB 737-53-1315 R1, if 
+the zone 1, 2, and 3 actions, as described in Boeing Special 
+Attention Service Bulletin 737-53-1315, dated July 29, 2011, were 
+performed before the effective date of this AD using Boeing Special 
+Attention Service Bulletin 737-53-1315, dated July 29, 2011, except 
+as required by paragraph (h)(4) of this AD. Boeing Special Attention 
+Bulletin 737-53-1315, dated July 29, 2011, was incorporated by 
+reference in AD 2012-16-07.
+
+(m) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Los Angeles Aircraft Certification Office 
+(ACO), FAA, has the authority to approve AMOCs for this AD, if 
+requested using the procedures found in 14 CFR 39.19. In accordance 
+with 14 CFR 39.19, send your request to your principal inspector or 
+local Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (n)(1) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#053c28444b4828494444464a2844484a46285760747060767176456364642b626a73"><span class="__cf_email__" data-cfemail="85bca8c4cbc8a8c9c4c4c6caa8c4c8cac6a8d7e0f4f0e0f6f1f6c5e3e4e4abe2eaf3">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by the Boeing Commercial Airplanes Organization 
+Designation Authorization (ODA) that has been authorized by the 
+Manager, Los Angeles ACO, to make those findings. To be approved, 
+the repair method, modification deviation, or alteration deviation 
+must meet the certification basis of the airplane, and the approval 
+must specifically refer to this AD.
+    (4) AMOCs approved previously for AD 2012-16-07 are approved as 
+AMOCs for the corresponding provisions of paragraph (g) of this AD.
+
+(n) Related Information
+
+    (1) For more information about this AD, contact Jennifer 
+Tsakoumakis, Aerospace Engineer, Airframe Branch, ANM-120L, FAA, Los 
+Angeles Aircraft Certification
+
+[[Page 11144]]
+
+Office (ACO), 3960 Paramount Boulevard, Lakewood, CA 90712-4137; 
+phone: 562-627-5264; fax: 562-627-5210; email: 
+<a href="/cdn-cgi/l/email-protection#0268676c6c6b6467702c767163696d776f63696b71426463632c656d74"><span class="__cf_email__" data-cfemail="610b040f0f080704134f1512000a0e140c000a0812210700004f060e17">[email&#160;protected]</span></a>.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (o)(3) and (o)(4) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Special Attention Service Bulletin 737-53-1315, 
+Revision 1, dated June 30, 2015.
+    (ii) Reserved.
+    (3) For Boeing service information identified in this AD, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on January 31, 2017.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2017-02661 Filed 2-17-17; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,77 @@
+{
+ "snippet_convention": "snippet = the verbatim page text; a parenthetical after two spaces is the reader's location commentary, NOT page text. Marked 2026-09-01 (deep audit): the annotation pattern predates the convention and stays untouched — data is marked, never rewritten.",
+ "facts": [
+  {
+   "field_id": "spec_7050_plate",
+   "value": "AMS 4050",
+   "unit": "text",
+   "snippet": "Specification . . . . . . . . .  AMS 4050",
+   "page": 626,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "temper_7050_plate",
+   "value": "T7451",
+   "unit": "text",
+   "snippet": "Temper . . . . . . . . . . . . .  T7451",
+   "page": 626,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "first_range_thickness_in",
+   "value": "0.250-1.500",
+   "unit": "in",
+   "snippet": "Thickness, in. . . . . . . . .  0.250-1.500 | 1.501-2.000 | 2.001-3.000 ...",
+   "page": 626,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "ftu_L_A_ksi",
+   "value": "74",
+   "unit": "ksi",
+   "snippet": "Ftu, ksi: L . . . . . . . . . . .  74a (A basis, 0.250-1.500 column; B basis prints 76)",
+   "page": 626,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "fty_L_A_ksi",
+   "value": "64",
+   "unit": "ksi",
+   "snippet": "Fty, ksi: L . . . . . . . . . . .  64b (A basis, 0.250-1.500 column; B basis prints 67)",
+   "page": 626,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "fbru_2p0_A_ksi",
+   "value": "140",
+   "unit": "ksi",
+   "snippet": "Fbru, ksi: (e/D = 2.0) . . . . . . . .  140 (A basis, 0.250-1.500 column; e/D = 1.5 prints 107)",
+   "page": 626,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "e_modulus_ksi",
+   "value": "10.3",
+   "unit": "10^3 ksi",
+   "snippet": "E, 10^3 ksi . . . . . . . . . .  10.3 (followed by Ec, 10^3 ksi . . . 10.6)",
+   "page": 626,
+   "agreement": "both extractors, blind, identical after normalization"
+  },
+  {
+   "field_id": "density_lb_in3",
+   "value": "0.102",
+   "unit": "lb/in^3",
+   "snippet": "Physical Properties: omega, lb/in.^3 . . . . . . . . .  0.102",
+   "page": 626,
+   "agreement": "both extractors, blind, identical after normalization"
+  }
+ ],
+ "blanks": [
+  {
+   "field_id": "ftu_ST_A_ksi",
+   "reason": "neither extractor found it",
+   "candidate_a": null,
+   "candidate_b": null
+  }
+ ]
+}

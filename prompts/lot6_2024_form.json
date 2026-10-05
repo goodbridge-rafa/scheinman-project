@@ -1,0 +1,52 @@
+{
+  "source": "data/raw/MIL-HDBK-5J.pdf",
+  "pages": [373],
+  "comment": "Lot 6 manual side: 2024 sheet, the classic damage-tolerant fuselage alloy; several lot4 ADs name it as the comparison material.",
+  "fields": [
+    {
+      "field_id": "spec_2024_sheet",
+      "question": "On PDF page 373, Table 3.2.3.0(b1) header: the specification(s) listed for 2024 aluminum alloy sheet and plate. Report exactly as printed.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "tempers_printed",
+      "question": "On PDF page 373, Table 3.2.3.0(b1) header: every temper printed for this table, joined by ';' in printed order.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "t3_first_range_with_AB_in",
+      "question": "On PDF page 373, Table 3.2.3.0(b1): the FIRST (leftmost) thickness range column, in inches, under temper T3 whose Basis row prints A and B (not S). Report the range exactly as printed.",
+      "expected_unit": "in"
+    },
+    {
+      "field_id": "t3_ftu_L_A_ksi",
+      "question": "On PDF page 373, Table 3.2.3.0(b1): Ftu, L direction, A basis, temper T3, in that same column. Number as printed, without footnote letters.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t3_fty_L_A_ksi",
+      "question": "On PDF page 373, Table 3.2.3.0(b1): Fty, L direction, A basis, temper T3, in that same column. Number as printed, without footnote letters.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t3_ftu_ST_A_ksi",
+      "question": "On PDF page 373, Table 3.2.3.0(b1): Ftu, ST direction, A basis, temper T3, in that same column. Number as printed; if the cell prints only dots (no value), answer null.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t3_fbru_2p0_A_ksi",
+      "question": "On PDF page 373, Table 3.2.3.0(b1): Fbru for e/D = 2.0, A basis, temper T3, in that same column. Number as printed.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "e_modulus_ksi",
+      "question": "On PDF page 373, Table 3.2.3.0(b1): the tension modulus of elasticity E, in 10^3 ksi, from the physical-properties block for T3 sheet. Number as printed.",
+      "expected_unit": "10^3 ksi"
+    },
+    {
+      "field_id": "density_lb_in3",
+      "question": "On PDF page 373, Table 3.2.3.0(b1): the density (omega, lb/in.3) printed in the physical-properties block. Number as printed.",
+      "expected_unit": "lb/in^3"
+    }
+  ]
+}

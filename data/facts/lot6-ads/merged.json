@@ -1,0 +1,62 @@
+{
+ "documents": {
+  "2019-18045": {
+   "blanks": [
+    {
+     "candidate_a": "AD 2016-07-12",
+     "candidate_b": "2016-07-12",
+     "field_id": "supersedes",
+     "reason": "extractors disagree"
+    }
+   ],
+   "facts": [
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Airbus developed mod 156593 to increase the fatigue life of the pylon AFF structure by using a different material and introducing thermal treatment of the aluminium sheets parts.",
+     "unit": "text",
+     "value": "none_stated"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking of the aft fixed fairing (AFF) of the pylons due to fatigue damage of the structure and reports of cracks on a certain rib of a modified AFF of the pylons.",
+     "unit": "text",
+     "value": "pylon"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "requiring repetitive inspections of the upper spar at rib 15 area and, depending on findings, accomplishment of applicable corrective action(s)",
+     "unit": "text",
+     "value": "other"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "the pylon AFF structure, especially on this configuration, was subject to fatigue-induced damage which could lead to pylon AFF cracks",
+     "unit": "text",
+     "value": "fatigue_cracking"
+    },
+    {
+     "agreement": "both extractors, blind, identical after normalization",
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "AD 2016-07-12 required repetitive inspections for damage and cracking of the aft fixed fairing (AFF) of the pylons, and repair if necessary. This AD retains the requirements of AD 2016-07-12 and requires additional repetitive inspections at the upper spar at a certain rib area and corrective actions if necessary ... Corrective actions include modifications and repair.",
+     "unit": "text",
+     "value": "repetitive_inspection;repair;modification"
+    }
+   ]
+  }
+ },
+ "stats": {
+  "blanks": 1,
+  "divergence_rate": 0.1667,
+  "documents": 1,
+  "facts": 5
+ }
+}

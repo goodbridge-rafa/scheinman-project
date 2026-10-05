@@ -1,0 +1,770 @@
+<html>
+<head>
+<title>Federal Register, Volume 66 Issue 168 (Wednesday, August 29, 2001)</title>
+</head>
+<body><pre>
+[Federal Register Volume 66, Number 168 (Wednesday, August 29, 2001)]
+[Rules and Regulations]
+[Pages 45584-45594]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 01-21749]
+
+
+
+[[Page 45584]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2001-SW-13-AD; Amendment 39-12408; AD 2001-17-17]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bell Helicopter Textron, Inc. Model 
+47B, 47B-3, 47D, 47D-1, 47G, 47G-2, 47G2A, 47G-2A-1, 47G-3, 47G-3B, 
+47G-3B-1, 47G-3B-2, 47G-3B-2A, 47G-4, 47G-4A, 47G-5, 47G-5A, 47H-1, 
+47J, 47J-2, 47J-2A, and 47K Helicopters
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment supersedes an existing airworthiness directive 
+(AD) that applies to Bell Helicopter Textron, Inc. (BHTI) Model 47B, 
+47B-3, 47D, 47D-1, 47G, 47G-2, 47G2A, 47G-2A-1, 47G-3, 47G-3B, 47G-3B-
+1, 47G-3B-2, 47G-3B-2A, 47G-4, 47G-4A, 47G-5, 47G-5A, 47H-1, 47J, 47J-
+2, 47J-2A, and 47K helicopters. That AD currently requires either 
+recurring liquid penetrant or eddy current inspections of the main 
+rotor blade grip (grip) threads for a crack. If a crack is detected, 
+that AD requires, before further flight, replacing the cracked grip 
+with an airworthy grip. That AD also establishes a retirement life of 
+1200 hours time-in-service (TIS) for each grip. This AD contains the 
+same requirements as the existing AD but adds two part numbers (P/N) to 
+the applicability and requires only recurring eddy current inspections 
+of the grip threads. This AD also requires reporting any results of the 
+grip inspections to the FAA Rotorcraft Certification Office. This AD is 
+prompted by the results of an accident investigation, an operator 
+survey conducted by a trade association, various comments concerning 
+the current AD, and a further analysis of field service data. The 
+actions specified by this AD are intended to prevent failure of a grip, 
+loss of a main rotor blade, and subsequent loss of control of the 
+helicopter.
+
+EFFECTIVE DATE: October 3, 2001.
+
+FOR FURTHER INFORMATION CONTACT: Marc Belhumeur, Aviation Safety 
+Engineer, FAA, Rotorcraft Directorate, Rotorcraft Certification Office, 
+Fort Worth, Texas 76193-0170, telephone (817) 222-5177, fax (817) 222-
+5783.
+
+SUPPLEMENTARY INFORMATION:
+
+Background Information
+
+    On May 12, 1987, the FAA issued AD 86-06-08R1 (52 FR 24135, June 
+29, 1987) that amended AD 86-06-08 (51 FR 11300, April 2, 1986). Those 
+AD's required an initial and repetitive fluorescent dye penetrant 
+inspection of each grip. On August 31, 2000, the FAA issued Emergency 
+AD 2000-18-51 that superseded AD's 86-06-08 and 86-06-08R1. AD 2000-18-
+51 requires initial and recurring liquid penetrant or eddy current 
+inspections of the grip threads for a crack and, before further flight, 
+replacing any cracked grip with an airworthy grip. That Emergency AD 
+also establishes a retirement life of 1200 hours TIS for each grip. 
+That Emergency AD was published in the Federal Register on November 15, 
+2000 (65 FR 68884) as a final rule, request for comments.
+    Airworthiness Directive 2000-18-51 was prompted by the results of 
+an investigation of an August 1998 Canadian accident in which a grip 
+failed on a BHTI Model 47G-2 helicopter due to a fatigue crack. An 
+analysis of field service data revealed fatigue cracks in the majority 
+of the grips inspected. The requirements of that AD are intended to 
+prevent failure of a grip, loss of a main rotor blade, and subsequent 
+loss of control of the helicopter.
+    Since issuing AD 2000-18-51, other cracked grips with less than 
+1200 hours TIS have been discovered including one grip with a 2-inch 
+crack through the grip. Since then, the FAA has also determined that 
+the liquid penetrant inspection is inadequate for finding smaller 
+cracks in the grip threads. Additionally, two parts produced under a 
+Parts Manufacturer Approval (PMA), P/Ns R74-120-252-11 and R74-120-135-
+5, were inadvertently omitted from the applicability of AD 2000-18-51. 
+Based on these findings, the earlier accident investigation, a further 
+analysis of field service data, the results of an operator survey 
+conducted by a trade association, and several comments received as a 
+result of the issuance of AD 2000-18-51 as a final rule, request for 
+comments, the FAA issued a Notice of Proposed Rulemaking (NPRM) on 
+March 23, 2001 (66 FR 17105, March 29, 2001) proposing to supersede AD 
+2000-18-51.
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the numerous comments received from the 17 commenters. The comments and 
+the FAA's responses are listed in the following table:
+
+------------------------------------------------------------------------
+                Comment                            FAA response
+------------------------------------------------------------------------
+1. A couple of commenters state that     The FAA concurs and will place
+ the FAA should make available to the     in the public docket
+ public all of the history related to     anyinformation that is not
+ the failed grips, to include the         proprietary. Anyone wishing
+ damage history, manufacture date, and    this information can obtain it
+ hours.                                   by submitting a request under
+                                          the Freedom of Information Act
+                                          to the office provided under
+                                          the caption FOR FURTHER
+                                          INFORMATION CONTACT.
+2. Several commenters state that the     The FAA does not concur. The
+ grips should be eddy current inspected   FAA has determined that the
+ before initial installation to ensure    300-hour TIS inspection
+ that they are airworthy.                 interval is sufficient to
+                                          ensure safety.
+3. Several commenters question the       The FAA does not concur. The
+ accuracy of the information gathered     grip in question was within
+ from the Canadian accident. Many         specifications, and records
+ commenters state that the 1998           indicate that the helicopter
+ accident seems to be a result of poor    on which the grip was
+ quality control. Several other           installed was certified,
+ commenters state that the grip had a     equipped, and maintained in
+ questionable history or incomplete       accordance with acceptable
+ records.                                 procedures.
+4. A few commenters state that the FAA   The FAA does not concur. The
+ has not shown that the affected grips    FAA believes that a crack will
+ are unsafe after 1200 hours TIS. The     not propagate to failure
+ commenters state that if the FAA         within 300 hours TIS only if
+ believes a crack will not propagate to   the part life is limited to
+ failure within 300 hours TIS for         1200 hours TIS. After 1200
+ either the smaller or larger grip, the   hours TIS, the probability of
+ grip retirement life should remain at    cracking is too high and
+ the original 2500 hours for wood-blade   recurring inspections may not
+ grips and 5000 hours for metal-blade     provide an adequate level of
+ grips.                                   safety. Also, recurring
+                                          inspections by themselves are
+                                          not a terminating action.
+
+[[Page 45585]]
+
+ 
+5. A couple of commenters state that it  The FAA does not concur. The
+ is not clear who is responsible for      owners/operators are
+ reporting results of the grip eddy       responsible for complying with
+ current inspection to the FAA. The       the AD, including reporting
+ commenters state that the                the results of the grip eddy
+ nondestructive inspection (NDI)          current inspections to the
+ facility should be responsible for       FAA. Furthermore, the NDI
+ reporting the results.                   facility typically only
+                                          receives minimal aircraft
+                                          information when parts are
+                                          sent to them for inspection;
+                                          therefore, if they were
+                                          required to report to the FAA
+                                          they would need to do an
+                                          inquiry to obtain all the FAA-
+                                          requested information.
+6. Two commenters state that the public  The FAA partially concurs.
+ should be kept abreast of the on-going   Detailed test results are
+ BHTI blade grip propagation tests. The   generally proprietary to the
+ commenters also state that if the        manufacturer; however, if the
+ tests show that a crack will not         BHTI blade grip propagation
+ propagate to failure within 300, 400,    tests justify a change to the
+ 500, or 600 hours TIS, the FAA should    eddy current inspection
+ change the eddy current inspections to   intervals, the FAA will adjust
+ match the BHTI test results.             the intervals as appropriate.
+7. Several commenters state that         The FAA does not concur. Even
+ previous grip failures may have been     though these types of abuses
+ initiated by sudden stoppage, trailer    could damage the grips, there
+ transporting, rotor over-speed, bad      has been no clear connection
+ installation procedures, poor            between these types of abuses
+ maintenance, or other misuse.            and all the cracked grips.
+8. One commenter states that all new     The FAA does not concur; it has
+ blade grips with redesigned root radii   no data to support
+ may still have cracking problems, and    recommending a voluntary eddy
+ the FAA should issue a Special           current inspection of the
+ Airworthiness Information Bulletin       redesigned grips.
+ (SAIB) to that effect and recommend a
+ voluntary eddy current inspection at
+ 300-hour TIS intervals.
+9. Two commenters state that the FAA     The FAA does not concur. Only
+ should send notification of proposed     emergency ADs are sent to each
+ AD action to each registered owner and   registered owner followed by
+ not just post a notice in the Federal    the publication of the final
+ Register.                                rule in the Federal Register.
+                                          In compliance with the
+                                          Administrative Procedures Act,
+                                          notification of proposed
+                                          action is given by Federal
+                                          Register notice. However,
+                                          these published notices may be
+                                          accessed via the Internet.
+10. One commenter states that the        The FAA does not concur. Both
+ reinstallation of the steel adapter      the adapter and the grip
+ nuts to the aluminum grip during         should be cleaned and
+ recurring inspections can create an      inspected for any burrs,
+ unsafe condition. Another commenter      damage, or out-of tolerance
+ states that frequent dismantling of      threads before any
+ these components is harmful.             reinstallation. These grips
+                                          have had recurring inspections
+                                          since 1985, and the service
+                                          history suggests that
+                                          reinstalling the adapter to
+                                          the grip threads causes no
+                                          damage if done properly.
+11. A few commenters state that an x-    The FAA does not concur. There
+ ray would be better than an eddy         is no data that suggests that
+ current inspection for finding cracks    x-rays would increase the
+ in the grip threads.                     likelihood of finding cracks
+                                          in the grip threads. Compared
+                                          to eddy current inspections, x-
+                                          ray inspections are more
+                                          expensive and do not offer any
+                                          advantage other than finding
+                                          internal flaws. Internal flaws
+                                          are not a concern in grip-
+                                          thread cracking. The grips
+                                          cylindrical design also makes
+                                          the x-ray inspection difficult
+                                          to perform.
+12. Many commenters state that the FAA   The FAA does not concur. The
+ does not know what caused the problems   FAA has extensively researched
+ with the grips, does not have            this safety concern and is
+ sufficient or reliable data, and has     continuously monitoring in-
+ based ADs on faulty equipment and        service problems of the fleet
+ questionable airworthiness records.      worldwide, taking into account
+                                          accident data and service
+                                          difficulty information. The
+                                          most common reason for
+                                          cracking has been high stress
+                                          concentrations in the affected
+                                          parts. All of the cracked
+                                          grips had a high stress
+                                          concentration due to the sharp
+                                          radii in the thread root.
+13. One commenter states that there      The FAA does not concur.
+ have been no instances in the U.S.       Neither AD 86-06-08 nor AD 86-
+ fleet where the old 300-hour zyglo       06-08 R1 addressed the
+ inspection has not maintained an         cracking found in grips with
+ adequate level of safety; therefore,     less than 1200 hours TIS.
+ AD 86-06-08 adequately prevents an       Also, the FAA has received
+ unsafe condition.                        reports outlining situations
+                                          where zyglo inspections have
+                                          not found known cracks.
+14. Two commenters state that a 300-     The FAA concurs and has made
+ hour TIS inspection interval should be   that change in this final
+ allowed if the last inspection           rule.
+ performed on the grips was an eddy
+ current inspection.
+15. Many commenters state that the FAA   The FAA concurs and has made
+ should change the requirement of the     that change in this final rule
+ initial inspection from ``the initial    AD.
+ inspection is within 10 hours TIS for
+ grips that have 300 hours or more
+ hours TIS'' to ``an initial inspection
+ that is within 10 hours TIS for grips
+ that have not had any previous
+ inspection and have 300 hours or more
+ TIS''.
+16. A commenter states that 8 days and   The FAA does not concur.
+ revenue of $5,000 a day should be        Although the FAA understands
+ added to the economic impact of the AD.  that some operators could have
+                                          their helicopters grounded for
+                                          several days, which will
+                                          result in a loss of revenue,
+                                          any cost estimate based on
+                                          assumed ground time and lost
+                                          revenue would be speculative.
+                                          The FAA bases its economic
+                                          impact costs only on known
+                                          parameters such as labor and
+                                          parts costs.
+17. A commenter states that until        The FAA does not concur. Data
+ everyone agrees on correct procedures,   has shown that cracks can
+ only a one-time inspection should be     develop any time during a
+ required.                                grip's service life, and
+                                          inspecting the grips on a
+                                          regular basis is needed to
+                                          prevent a failure.
+18. A couple of commenters point out     The FAA partially concurs.
+ that the Canadian and Australian         Transport Canada and the
+ airworthiness authorities have           Civilian Aviation Safety
+ retained the original retirement lives   Authority of Australia have
+ of the grips and have not amended        changed the initial eddy
+ their current ADs, and according to a    current inspection from 1200
+ recent survey, the majority of the       hours TIS to 600 hours TIS.
+ grips in Canada reach their retirement   Neither authority has changed
+ life with no defects.                    the grip's retirement life;
+                                          however, they have their own
+                                          rules and procedures and must
+                                          make their own safety
+                                          determinations.
+
+[[Page 45586]]
+
+ 
+19. One commenter states that the        The FAA does not concur. The
+ proposed AD should not be issued. The    accident report states that
+ commenter explains his belief that the   water was dislodged during
+ grip installed on the 1998 Canadian      disassembly of the grip from
+ accident fractured because water was     the hub. This does not mean
+ lodged in the grip's thread and          that water was in the threads,
+ because pitting was in the thread        nor does the report suggest
+ roots.                                   water in the threads. The
+                                          report states that there was
+                                          extensive pitting in the
+                                          threads. The pits are 0.0008
+                                          inch or less and cannot be
+                                          seen by the naked eye.
+20. One commenter states that the 1971   The FAA does not concur. The
+ and 1972 accidents that occurred in      grips involved in those
+ the U.S. were a result of installing     accidents were P/N 47-120-135-
+ the wrong grips.                         1 and -2. Those grips were
+                                          approved for the BHTI Model 47
+                                          G-2 helicopters. The newer
+                                          approved grips are P/N 47-120-
+                                          135-3. There are no
+                                          differences between either of
+                                          these part-numbered grips at
+                                          the threads.
+21. Several commenters state that the    The FAA does not concur. The
+ problem with the failed/fractured        FAA has not found any
+ grips is a manufacturing defect or a     manufacturing defect or
+ quality control problem. Many            quality control problem.
+ commenters believe that the
+ manufacturer should inspect each grip
+ before it is sold and that the same
+ requirement should be placed on grips
+ manufactured under PMA.
+22. One commenter states that an eddy    The FAA does not concur.
+ current inspection of the grip, before   Although this type of abuse
+ further flight, should be added to the   could damage grips, there has
+ AD in the event of a sudden stoppage     been no documented connection
+ occurrence. Also, as part of the         between sudden stoppage and
+ reporting the requirements, add the      the cracked grips. Also, all
+ question ``Has this grip had any prior   sudden stoppages require
+ history involving a sudden stoppage      removal and disassembly of the
+ incident or aircraft accident (sudden    main rotor. If blade impact is
+ stoppage as defined in the Bell 47       violent, or if the drag brace
+ Maintenance and Overhaul                 belt is sheared and the aft
+ Instructions)?''.                        side of the blade butt
+                                          contacts the aft outboard side
+                                          of the grip, the complete hub
+                                          assembly must be replaced.
+23. One commenter states that the        The FAA does not concur. The
+ assumption that dye penetrant            FAA has received reports of
+ inspections are not reliable cannot be   confirmed cracks missed by a
+ accepted. The commenter also states      dye penetrant inspection and
+ that two labs, one of which is listed    found by an eddy current
+ in Appendix 2 of the proposal as a       inspection. Although dye
+ recommended facility, state that, for    penetrant inspections remain a
+ the purpose of the proposed              reliable inspection method,
+ inspection, ``the high sensitivity       the FAA has determined that
+ level of the dye penetrant method        the eddy current inspection is
+ would be just as accurate as the eddy    more appropriate when
+ current method.'' Additionally, the      inspecting for cracks in the
+ commenter states that United States      blade grip threads.
+ has been using a dye penetrant
+ inspection method, probably testing
+ more aircraft with more hours than
+ other countries, inspection. and we
+ have had no accidents''.
+24. One commenter states that few of     The FAA does not concur.
+ the facilities identified in Appendix    Paragraph (e) of the NPRM and
+ 2 of the proposal can perform the        paragraph (g) of this AD
+ proposed tests because they do not       address the procedure for
+ have the probe required to do so. This   obtaining an alternative
+ situation can cause a hardship on        method of compliance (AMOC).
+ operators who are on tight schedules     Appendix 2 contains only a
+ or live in remote areas. The commenter   partial list of known eddy
+ states that there is no mention in the   current inspection facilities.
+ proposal of any alternate means of       If any of these facilities do
+ compliance when rapid inspection         not have the equipment or
+ services or parts are not available.     expertise to inspect the
+                                          threads, then another facility
+                                          will need to be found or an
+                                          AMOC that provides an
+                                          acceptable level of safety
+                                          must be requested and approved
+                                          by the Manager, Rotorcraft
+                                          Certification Office.
+25. Several commenters state that the    The FAA does not concur.
+ inspection should be performed during    Inspection intervals of 600
+ the normally scheduled 600 and 1200-     and 1200 hours TIS do not
+ hour inspections.                        provide an adequate level of
+                                          safety based on the service
+                                          history of these grips.
+26. One commenter states that the        The FAA does not concur. The
+ manufacturer changed thread standards    FAA has determined that there
+ in the late 1970's. The commenter        was no physical change to the
+ believes that is when the problem        thread standards or design in
+ supposedly started and AD 86-06-08 was   that timeframe.
+ issued.
+27. One commenter asks why we don't      The FAA does not concur. There
+ state the fact that all 4 grip           is no data showing that sudden
+ failures occurred on rotor systems       stoppage is connected to grip
+ that had suffered sudden stoppage.       failures and the commenter did
+                                          not provide any information
+                                          showing that all 4 grip
+                                          failures suffered sudden
+                                          stoppage or that sudden
+                                          stoppage contributed to the
+                                          failures.
+------------------------------------------------------------------------
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes described 
+previously in the disposition of comments 14 and 15. Additionally, the 
+FAA discovered an error in two of the P/Ns given in paragraph (d) of 
+the NPRM; those P/Ns are corrected in this final rule. For better 
+clarity, the FAA has also reorganized the compliance times for 
+performing the eddy current inspections and has added an NDI testing 
+facility to Appendix 2. The FAA has determined that these changes will 
+neither increase the economic burden on any operator nor increase the 
+scope of the AD.
+    The FAA estimates that 1130 helicopters of U.S. registry will be 
+affected by this AD, that it will take approximately 10 work hours per 
+helicopter to accomplish the disassembly, inspection, and re-assembly 
+of the grips from the helicopter, and that the average labor rate is 
+$60 per work hour. Required parts, if a grip needs to be replaced, will 
+cost approximately $4,000 per grip (there are two grips on each 
+helicopter). Based on these figures, the total cost impact of the AD on 
+U.S. operators is estimated to be $9,718,000, assuming one inspection 
+per helicopter and replacement of both grips on each helicopter.
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44
+
+[[Page 45587]]
+
+FR 11034, February 26, 1979); and (3) will not have a significant 
+economic impact, positive or negative, on a substantial number of small 
+entities under the criteria of the Regulatory Flexibility Act. A final 
+evaluation has been prepared for this action and it is contained in the 
+Rules Docket. A copy of it may be obtained from the Rules Docket at the 
+FAA, Office of the Regional Counsel, Southwest Region, 2601 Meacham 
+Blvd., Room 663, Fort Worth, Texas.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by removing Amendment 39-11983 (65 FR 
+68884, November 15, 2000), and by adding a new airworthiness directive 
+(AD), Amendment 39-12408, to read as follows:
+
+2001-17-17  Bell Helicopter Textron, Inc.: Amendment 39-12408. 
+Docket No. 2001-SW-13-AD. Supersedes AD 2000-18-51, Amendment 39-
+11983, Docket No. 2000-SW-35-AD.
+
+    Applicability: Model 47B, 47B-3, 47D, 47D-1, 47G, 47G-2, 47G2A, 
+47G-2A-1, 47G-3, 47G-3B, 47G-3B-1, 47G-3B-2, 47G-3B-2A, 47G-4, 47G-
+4A, 47G-5, 47G-5A, 47H-1, 47J, 47J-2, 47J-2A, and 47K helicopters, 
+with main rotor blade grips, part number (P/N) 47-120-135-2, 47-120-
+135-3, 47-120-135-5, 47-120-252-1, 47-120-252-7, 47-120-252-11, 74-
+120-252-11, 74-120-135-5, R47-120-252-11, and R47-120-135-5, 
+installed, certificated in any category.
+
+    Note 1: This AD applies to each helicopter identified in the 
+preceding applicability provision, regardless of whether it has been 
+otherwise modified, altered, or repaired in the area subject to the 
+requirements of this AD. For helicopters that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (g) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent failure of a main rotor blade grip (grip), separation 
+of a main rotor blade, and subsequent loss of control of the 
+helicopter, accomplish the following:
+    (a) Conduct an eddy current inspection of the threads of both 
+grips for a crack in accordance with Appendix 1 of this AD or an 
+equivalent FAA-approved procedure containing the requirements of the 
+procedure in Appendix 1:
+    (1) Within 300 hours time-in-service (TIS) since initial 
+installation on any helicopter for a grip with less than 300 total 
+hours TIS;
+    (2) Within 10 hours TIS for a grip with 300 or more total hours 
+TIS that has not had any previous dye penetrant or eddy current 
+inspection;
+    (3) Within 200 hours TIS since the last dye penetrant 
+inspection; OR
+    (4) Within 300 hours TIS since the last eddy current inspection, 
+whichever occurs first.
+    (b) Thereafter, conduct the eddy current inspection in 
+accordance with Appendix 1 of this AD or an equivalent FAA-approved 
+procedure containing the requirements of the procedure in Appendix 1 
+at intervals not to exceed 300 hours TIS.
+    (c) Report the results of each inspection to the FAA Rotorcraft 
+Certification Office within 7 calendar days. Reporting requirements 
+have been approved by the Office of Management and Budget and 
+assigned OMB control number 2120-0056.
+
+    Note 2: See Appendix 2 of this AD for a list of known eddy 
+current inspection facilities.
+
+    (d) If a crack is detected, before further flight, replace any 
+cracked grip with an airworthy grip.
+    (e) On or before 1200 hours TIS, replace each grip with an 
+airworthy grip.
+    (f) This AD establishes a retirement life of 1200 hours TIS for 
+the grips, P/N 47-120-135-2, 47-120-135-3, 47-120-135-5, 47-120-252-
+1, 47-120-252-7, 47-120-252-11, 74-120-252-11, 74-120-135-5, R47-
+120-252-11, and R47-120-135-5.
+    (g) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Rotorcraft Certification Office, 
+FAA. Operators shall submit their requests through an FAA Principal 
+Maintenance Inspector, who may concur or comment and then send it to 
+the Manager, Rotorcraft Certification Office.
+
+    Note 3: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Rotorcraft Certification Office.
+
+    (h) Special flight permits may be issued in accordance with 14 
+CFR 21.197 and 21.199 to operate the helicopter to a location where 
+the requirements of this AD can be accomplished.
+    (i) This amendment becomes effective on October 3, 2001.
+
+Appendix 1
+
+Nondestructive Inspection Procedure
+
+Task: Eddy Current (ET) Inspection of Mast Threads for Cracks
+
+1.0  Area of Inspection
+
+    1.1  The inboard inside diameter machined threads (reference 
+figure 1).
+
+2.0  Equipment
+
+    2.1  Zetec Miz-20/22, Phasec 2200 or equivalent piece of 
+equipment.
+    2.2  Match molded ET probe SPC-193 (100kHz) or equivalent. (See 
+Figure 3.)
+    2.3  Reference standard EC-010-021, or equivalent. (See Figures 
+4 and 5.)
+    2.4  Light oil.
+
+3.0  Personnel Requirements
+
+    3.1  Personnel performing the ET inspection must be minimally 
+qualified to a Level II in ET inspection, certified in accordance 
+with an industry accepted standard (such as ATA-105, NAS-410, or 
+MIL-STD-410) or an FAA accepted company procedure.
+
+4.0  Standardization
+
+    4.1  Connect probe to flaw detector and turn power on.
+    4.2  Adjust the Phasec 2000 as shown in table 1. Adjust all 
+other equipment as necessary.
+    4.3  Adjust the V:H gain ratio to 1.5:1-2:1.
+    4.4  Monitor the crack response when moving the probe in one 
+direction only across each EDM notch of the standard. Adjust the 
+coarse gain for a crack response of 2-3 units from the smallest 
+(0.04") notch. Record the number units of displacement and noise 
+level for each of the EDM notches.
+
+5.0  Pre Inspection
+
+    5.1  The part shall be clean and free of loose debris.
+    5.2  A thin coating of clean oil may be applied to the teeth to 
+help the ET probe slide easily.
+
+6.0  Inspection
+
+    6.1  Place the probe into the threaded area and slide it in the 
+same direction as was done on the standard while monitoring the 
+screen for root cracks. Moving the probe in the same direction 
+produces a repeatable display that allows for more accurate flaw 
+size determination. Scan the probe along each individual thread 
+until all the threads are inspected. (See Figures 2 and 3.)
+
+7.0  Evaluation
+
+    7.1  Repeat standardization and rescan any areas where there is 
+a vertical crack-like deflection.
+    7.2  If indication persists, mark the location on the part. 
+Record the number units of displacement, phase orientation, and 
+noise level.
+
+8.0  Accept/Reject Criteria
+
+    8.1  All repeatable crack-like indications above the noise level 
+detected shall be cause for rejection.
+
+[[Page 45588]]
+
+[GRAPHIC] [TIFF OMITTED] TR29AU01.023
+
+
+[[Page 45589]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR29AU01.002
+
+
+[[Page 45590]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR29AU01.003
+
+
+[[Page 45591]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR29AU01.004
+
+
+[[Page 45592]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR29AU01.005
+
+
+[[Page 45593]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR29AU01.006
+
+BILLING CODE 4910-13-C
+
+[[Page 45594]]
+
+Appendix 2
+
+Partial List of Nondestructive Inspection Testing Facilities Identified 
+by Operators and FAA
+
+Met Chem Testing Laboratories Inc.
+369 W. Gregson Ave. (3085 S.)
+Salt Lake City, Utah 84115-3440
+Phone: (801) 487-0801
+FAX: (801) 466-8790
+<a href="http://www.metchemtesting.com">www.metchemtesting.com</a>
+
+Galactic NDT Services 10728 D. South Pipeline RD
+Hurst, Texas 76053
+Phone: (800) 458-6387
+
+Global Testing Technologies
+1173 North Service Rd. Unit D3
+Oakville Toronto Canada
+Phone: (905) 847-9300
+FAX: (905) 847-9330
+
+Paragon Services, Inc.
+1015 S. West St.
+Wichita, KS 67213
+Phone: (316) 945-5285
+FAX: (316) 945-0629
+
+NOE Services
+8775 E. Orchard Rd. #809
+Englewood, CO
+Phone: (303) 741-0518
+FAX: (303) 741-0519
+
+Applied Technical Services, Inc.
+1190 Atlanta Industrial Drive
+Marietta, GA 30066
+Phone: (770) 423-1400
+FAX: (770) 514-3299
+
+Rotorcraft Support
+Van Nuys CA 91406
+Phone: (818) 997-7667
+FAX: (818) 997-1513
+
+Palm Beach Aircraft Propeller, Inc
+Palm Beach County Park Airport
+2633 Lantana Road
+Suite 23, Bldg 1501
+Lantana, FL 33462
+Phone: (800) 965-7767
+FAX: (561) 965-7933
+Email: <a href="/cdn-cgi/l/email-protection#b9d0d7dfd6f9c9dbd8c9d097dad6d4"><span class="__cf_email__" data-cfemail="ee87808881ae9e8c8f9e87c08d8183">[email&#160;protected]</span></a>
+Website: <a href="http://www.pbapi.com">www.pbapi.com</a>
+Contact: Will Burbage
+
+    Other FAA approved repair facilities may be used.
+
+Appendix 3
+
+AD Compliance Inspection Report (Sample Format)
+
+Bell Model 47 Main Rotor Blade Grip
+
+    Provide the following information and mail or fax it to:
+    Manager, Rotorcraft Certification Office, Federal Aviation 
+Administration, Fort Worth, Texas, 76193-0170, USA, Fax: 817-222-
+5783.
+
+Aircraft Registration No:
+Helicopter Model:
+Helicopter Serial Number:
+Owner and Operator of the Helicopter:
+
+------------------------------------------------------------------------
+                                                     Grip #1    Grip #2
+------------------------------------------------------------------------
+Part Number:
+Serial Number:
+------------------------------------------------------------------------
+
+Hours TIS on the Part at Inspection:
+
+Crack Found (Y/N)
+If yes, describe below.
+
+Description of Findings
+
+Who performed the inspections?
+
+If a crack was found, describe the crack size, location, and 
+orientation (provide a sketch or pictures with the grip part and 
+serial number).
+
+Provide any other comments.
+
+    Issued in Fort Worth, Texas on August 15, 2001.
+David A. Downey,
+Manager, Rotorcraft Directorate, Aircraft Certification Service.
+[FR Doc. 01-21749 Filed 8-28-01; 8:45 am]
+BILLING CODE 4910-13-U
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

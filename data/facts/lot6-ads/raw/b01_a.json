@@ -1,0 +1,44 @@
+{
+ "ads": {
+  "2019-18045": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Airbus developed mod 156593 to increase the fatigue life of the pylon AFF structure by using a different material and introducing thermal treatment of the aluminium sheets parts.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracking of the aft fixed fairing (AFF) of the pylons due to fatigue damage of the structure and reports of cracks on a certain rib of a modified AFF of the pylons.",
+     "value": "pylon"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "requiring repetitive inspections of the upper spar at rib 15 area and, depending on findings, accomplishment of applicable corrective action(s)",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "the pylon AFF structure, especially on this configuration, was subject to fatigue-induced damage which could lead to pylon AFF cracks",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "AD 2016-07-12 required repetitive inspections for damage and cracking of the aft fixed fairing (AFF) of the pylons, and repair if necessary. This AD retains the requirements of AD 2016-07-12 and requires additional repetitive inspections at the upper spar at a certain rib area and corrective actions if necessary ... Corrective actions include modifications and repair.",
+     "value": "repetitive_inspection;repair;modification"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2016-07-12, Amendment 39-18457 (81 FR 19482, April 5, 2016) (``AD 2016-07-12'').",
+     "value": "AD 2016-07-12"
+    }
+   ]
+  }
+ }
+}

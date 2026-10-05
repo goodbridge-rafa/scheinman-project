@@ -1,0 +1,991 @@
+<html>
+<head>
+<title>Federal Register, Volume 88 Issue 189 (Monday, October 2, 2023)</title>
+</head>
+<body><pre>
+[Federal Register Volume 88, Number 189 (Monday, October 2, 2023)]
+[Rules and Regulations]
+[Pages 67629-67636]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2023-21631]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2022-0190; Project Identifier 2019-CE-048-AD; Amendment 
+39-22556; AD 2023-19-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Viking Air Limited (Type Certificate 
+Previously Held by Bombardier Inc. and de Havilland Inc.) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 64-09-03, 
+which applied to all de Havilland (type certificate now held by Viking 
+Air Limited (Viking)) Model DHC-2 ``Beaver'' airplanes. AD 64-09-03 
+required inspecting the aileron mass balance weight arms for cracks and 
+corrosion and replacing any damaged part. Since the FAA issued AD 64-
+09-03, Transport Canada superseded its mandatory continuing 
+airworthiness information (MCAI) to correct an unsafe condition on 
+these products. This AD requires incorporating into the existing 
+maintenance records for your airplane the actions and associated 
+thresholds and intervals, including life limits, specified in a 
+supplemental inspection and corrosion control manual for Model DHC-2 
+airplanes. This AD also requires completing all of the initial tasks 
+identified in this manual and reporting certain corrosion findings to 
+Viking. The actions in this supplemental inspection and corrosion 
+control manual include the inspection of the aileron balance weight 
+arms required by AD 64-09-03. The FAA is issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective November 6, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of November 6, 
+2023.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2022-0190; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the MCAI, any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room
+
+[[Page 67630]]
+
+W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For service information identified in this final rule, 
+contact Viking Air Limited Technical Support, 1959 de Havilland Way, 
+Sidney, British Columbia, Canada V8L 5V5; phone: (800) 663-8444; fax: 
+(250) 656-0673; email: <a href="/cdn-cgi/l/email-protection#9beffef8f3f5f2f8faf7b5e8eeebebf4e9efdbedf2f0f2f5fcfaf2e9b5f8f4f6"><span class="__cf_email__" data-cfemail="e89c8d8b8086818b8984c69b9d9898879a9ca89e818381868f89819ac68b8785">[email&#160;protected]</span></a>; website: 
+<a href="http://vikingair.com/support/service-bulletins">vikingair.com/support/service-bulletins</a>.
+    <bullet> You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 901 Locust, 
+Kansas City, MO 64106. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: James Delisio, Continued Operational 
+Safety Program Manager, FAA, 1600 Stewart Avenue, Suite 410, Westbury, 
+NY 11590; phone: (516) 228-7321; email: <a href="/cdn-cgi/l/email-protection#0a33276b7c792764736b6965276965794a6c6b6b246d657c"><span class="__cf_email__" data-cfemail="81b8ace0f7f2aceff8e0e2eeace2eef2c1e7e0e0afe6eef7">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to supersede 
+AD 64-09-03, Amendment 718 (29 FR 5390, April 22, 1964) (AD 64-09-03). 
+AD 64-09-03 applied to all de Havilland (type certificate now held by 
+Viking Air Limited) Model DHC-2 ``Beaver'' airplanes. AD 64-09-03 
+required repetitively inspecting the aileron mass balance weight arms 
+for cracks and corrosion and replacing any damaged part. AD 64-09-03 
+resulted from cracks and corrosion found on aileron mass balance weight 
+arm part numbers (P/Ns) C2WA151, C2WA152, C2WA127, and C2WA128. The FAA 
+issued AD 64-09-03 to address corrosion-related degradation of the 
+aileron mass balance weight arms which, if not addressed, could lead to 
+structural failure with consequent loss of control of the airplane.
+    The NPRM published in the Federal Register on February 8, 2022 (87 
+FR 7065); corrected February 18, 2022 (87 FR 9274). The NPRM was 
+prompted by AD CF-2019-25, dated July 19, 2019 (referred to after this 
+as the MCAI), issued by Transport Canada, which is the aviation 
+authority for Canada. The MCAI states that it supersedes prior 
+Transport Canada ADs related to a supplementary inspection and 
+corrosion control program for aging airplanes, which identifies 
+specific locations of an airplane that must be inspected to ensure 
+corrosion-related degradation does not result in an unsafe condition. 
+The MCAI continues to require the tasks included in the initial issue 
+of Viking, DHC-2 Beaver Supplemental Inspection and Corrosion Control 
+Manual, PSM 1-2-5, dated June 21, 2017, and requires additional 
+inspections for components of airframe systems other than flight 
+controls, which are included in Viking DHC-2 Beaver Supplemental 
+Inspection and Corrosion Control Manual, PSM 1-2-5, Revision 1, dated 
+January 10, 2019 (Viking PSM 1-2-5, Revision 1). Corrosion-related 
+degradation, if not addressed, could lead to structural failure with 
+consequent loss of control of the airplane.
+    You may examine the MCAI in the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2022-0190.
+    In the NPRM, the FAA proposed to require establishing a corrosion 
+prevention and control program approved by the FAA. In the NPRM, the 
+FAA also proposed to require completing all of the initial tasks 
+identified in the program and reporting corrosion findings to Viking.
+    The FAA issued a supplemental notice of proposed rulemaking (SNPRM) 
+to amend 14 CFR part 39 to supersede AD 64-09-03. The SNPRM published 
+in the Federal Register on April 25, 2023 (88 FR 24927). The SNPRM was 
+prompted by the FAA's decision to revise the proposed actions specified 
+in the NPRM and to reopen the comment period to allow the public the 
+chance to comment on whether the proposed AD would have a significant 
+economic impact on a substantial number of small entities. In the 
+SNPRM, the FAA proposed to require incorporating into the existing 
+maintenance records for your airplane the actions and associated 
+thresholds and intervals, including life limits, specified in Parts 2 
+and 3 of Viking PSM 1-2-5, Revision 1, completing all the initial tasks 
+identified in Viking PSM 1-2-5, Revision 1, and reporting to Viking any 
+Level 2 or Level 3 corrosion findings. The FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from three individuals. The following 
+presents the comments received on the SNPRM and the FAA's response to 
+each comment.
+
+Request To Withdraw NPRM and SNPRM
+
+    One individual commenter requested that the FAA reconsider issuing 
+the proposed AD and a second individual commenter requested that the 
+FAA withdraw the proposed rulemaking. The first commenter noted that 
+during an annual inspection, a licensed Airframe and Powerplant (A&P) 
+mechanic can determine if an airplane has been properly maintained and 
+if corrosion is present. This commenter indicated that, by issuing the 
+proposed AD, the FAA would force many operators and pilots to give up 
+their airplanes due to exorbitant costs. This commenter stated that 
+because one or two airplanes were found with extensive corrosion, all 
+Model DHC-2 airplanes should not be placed in the same category and 
+that ``the Beaver'' is one of the finest built airplanes and should be 
+respected as such.
+    The second individual commenter stated that the FAA must stop broad 
+brushing all airplanes of a certain build as the same. The commenter 
+noted that a Model DHC-2 ``Beaver'' built in 1948 is not the same as 
+one built in 1967 and that the lifetime use of service and 
+environmental conditions determine an airplane's risk factors. The 
+commenter explained that many Beavers have thousands of pages of flight 
+records spanning over 70 years that allow owners and maintainers to 
+subjectively evaluate an airplane's condition and operating 
+environments; therefore, based on the points above, the FAA should 
+immediately withdraw the proposed rulemaking because it lacks merit.
+    The FAA acknowledges the commenters' concerns regarding the impact 
+this final rule will have on operators and pilots. As noted by the 
+first commenter, Model DHC-2 airplanes are currently required to 
+perform annual and 100-hour inspections, including inspections for 
+corrosion, that are required by the Federal Aviation Regulations. The 
+FAA does not agree that these current regulations require the same 
+inspections as those proposed in the SNPRM. The inspections proposed in 
+the SNPRM are focused on certain areas of the airplane and are more 
+detailed than those covered in the required annual or 100-hour 
+inspections. The inspections required by this AD are part of a 
+supplemental inspection and corrosion prevention program that is 
+included in Parts 2 and 3 of Viking PSM 1-2-5, Revision 1. These 
+inspection types and intervals address locations or parts that are not 
+currently required to be inspected as part of annual or 100-hour 
+inspections in existing regulations. These new inspections and 
+intervals are needed to detect and address corrosion, which could lead 
+to structural failure with consequent loss of control of the airplane.
+
+[[Page 67631]]
+
+    The FAA also acknowledges the first commenter's concern regarding 
+the ``exorbitant cost'' of complying with the requirements of this AD 
+that could result in operators and pilots having to give up their 
+airplanes. Under 14 CFR 39.1, issuance of an AD is based on the finding 
+that an unsafe condition exists or is likely to develop in aircraft of 
+a particular type design. An aging airplane requires more attention 
+during maintenance procedures and, at times, more frequent inspections 
+of structural components to detect damage due to environmental 
+deterioration, accidental damage, and fatigue. The unsafe condition 
+addressed in this final rule includes undetected corrosion, which could 
+lead to structural failure and consequent loss of control of the 
+airplane. Inspections and repairs are therefore necessary to detect and 
+correct such corrosion before it leads to structural failure.
+    In response to both commenters' statements that all Model DHC-2 
+airplanes should not be placed in the same category, the FAA has 
+determined that an unsafe condition exists or is likely to exist or 
+develop in other products of the same type design. In this case, the 
+FAA independently reviewed the MCAI and related service information and 
+determined an unsafe condition exists and an AD is needed to address 
+that unsafe condition. Further, it is within the FAA's authority and 
+responsibility to issue ADs to require actions to address unsafe 
+conditions that are not otherwise being addressed (or are not addressed 
+adequately) by routine maintenance procedures.
+    The FAA has not changed this AD regarding this issue.
+
+Request for Clarification Regarding Conflicting AD Requirements for the 
+Affected Models
+
+    One individual commenter requested clarification regarding what 
+operators should do if there are conflicts between the requirements 
+specified in the SNPRM and the requirements of existing ADs for the 
+affected airplanes. The commenter noted that AD 2008-11-11, Amendment 
+39-15533 (73 FR 34611, June 18, 2008) (AD 2008-11-11) specifies a 
+fluorescent penetrant inspection for cracks in the front spar center 
+section web of the tailplane, while task C55-10-02 in Viking PSM 1-2-5, 
+Revision 1, allows using a fluorescent penetrant or an eddy current 
+inspection, which seems contradictory.
+    The FAA acknowledges the commenter's concern. The FAA has reviewed 
+all potentially related ADs against the proposed requirements in the 
+SNPRM and determined that other than AD 64-09-03, no other ADs need to 
+be superseded or rescinded. Any other ADs involving inspections for 
+corrosion on the affected airplanes require either inspections for 
+different parts or locations on an airplane or the inspections are not 
+as in-depth or repetitive; therefore, they do not overlap with the 
+inspections required by this AD. This includes the requirements of AD 
+2008-11-11, which requires inspecting a different airplane part than 
+the part specified in task C55-10-02 of Viking PSM 1-2-5, Revision 1.
+    The FAA has not changed this AD regarding this issue.
+
+Request To Revise Requirements Based on Airplane Usage Conditions
+
+    One individual commenter requested that the SNPRM be revised to 
+provide different requirements based on how an airplane is used. The 
+commenter suggested that instead of using a broad approach and 
+including all Model DHC-2 airplanes, the FAA should use a logical 
+evaluation process and consider the following parameters to determine 
+if an airplane's airworthiness might be compromised due to corrosion: 
+operating environment (exposure to saltwater); commercial or private 
+use; stress on the airframe due to repetitive flights with heavy loads; 
+total flight hours on the airframe; airplane history (has it been 
+partially or completely rebuilt); and maintenance history.
+    The FAA disagrees with the commenter's request to change the SNPRM 
+based on different airplane operational usage. There is no current 
+requirement to track the hours spent flying in different conditions or 
+types of water. Additionally, operators may not know an airplane's 
+entire flight or maintenance history. Without this detailed knowledge 
+of each airplane, it would be impossible for the FAA to develop a 
+special set of inspections based on airplane usage conditions. However, 
+operators may submit a proposal for revised requirements by requesting 
+an alternative method of compliance (AMOC) using the procedures 
+specified in paragraph (i) of this AD.
+    The FAA has not changed this AD regarding this issue.
+
+Request To Revise Costs of Compliance
+
+    One individual commenter requested that the FAA revise the labor 
+rate in the Costs of Compliance section of the SNPRM. The commenter 
+noted that the FAA's estimate of $85 per hour is not accurate and that 
+the current labor rate for an experienced DHC-2/3 airplane mechanic is 
+greater than $110 per hour, depending on where in the United States the 
+work is being performed. The commenter also mentioned that public 
+comments on the NPRM that is related to the SNPRM stated that DHC-2 
+mechanic rates are $110 to $150 per hour, depending on the geographic 
+regions where the work is being performed. The commenter added that the 
+proposed costs do not consider the current shortage of qualified 
+mechanics able to do the inspections.
+    The FAA agrees that the labor rate of $85 per work-hour is dated 
+but disagrees with the commenter's estimate of $110 to $150 per hour. 
+The FAA notes that the current wage rate for aviation mechanics as 
+provided by the Bureau of Labor Statistics, found at <a href="http://www.bls.gov/oes/current/oes493011.htm">www.bls.gov/oes/current/oes493011.htm</a>, after accounting for fringe benefits that are 
+valued at roughly 50% of the nominal wage, is lower than the estimated 
+fully burdened labor rate (a labor rate with fringe benefits included) 
+of $85 per work-hour; therefore, the FAA is unable to justify 
+increasing the labor rate from $85 per work-hour. The FAA continues to 
+use the higher $85 per work-hour figure in order to provide a 
+conservative estimate of the costs.
+    Regarding the commenter's statement that the wage rate for DHC-2 
+mechanics varies geographically, the commenter did not provide any 
+documentation or references to support this statement. Furthermore, 
+unless the distribution of DHC-2 airplanes also varies along the same 
+geography, using an average rate captures the average effect, including 
+any higher wages; therefore, the FAA has not added a geographical 
+adjustment into its assessment.
+    The FAA acknowledges the commenter's concerns regarding labor 
+shortages, although this does not affect the cost of this final rule.
+    The FAA has not changed this AD regarding this issue.
+
+Conclusion
+
+    These products have been approved by the aviation authority of 
+another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, it has notified the FAA of the unsafe condition described in 
+the MCAI referenced above. The FAA reviewed the relevant data, 
+considered the comments received, and determined that air safety 
+requires adopting this AD as proposed. Accordingly, the FAA is issuing 
+this AD to address the unsafe condition on these products. Except for 
+minor editorial changes, this AD is adopted as proposed in the SNPRM.
+
+[[Page 67632]]
+
+ADs Mandating Airworthiness Limitations (ALS)
+
+    The FAA has previously mandated airworthiness limitations by 
+issuing ADs that require revising the ALS of the existing maintenance 
+manual or instructions for continued airworthiness to incorporate new 
+or revised inspections. This AD, however, requires establishing and 
+incorporating new inspections into the existing maintenance records 
+required by 14 CFR 91.417(a)(2) or 135.439(a)(2) for your airplane. The 
+FAA does not intend this as a substantive change. Requiring 
+incorporation of the new ALS requirements into the existing maintenance 
+records, rather than requiring individual repetitive inspections and 
+replacements, allows operators to record AD compliance once after 
+updating the existing maintenance records, rather than recording 
+compliance after every inspection and part replacement.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Viking PSM 1-2-5, Revision 1, which specifies 
+procedures for inspecting locations of the airplane that are 
+particularly susceptible to corrosion-related degradation and includes 
+repetitive inspection intervals, defines the different levels of 
+corrosion, and provides corrective action if corrosion is found.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in ADDRESSES.
+
+Other Related Service Information
+
+    The FAA reviewed Viking DHC-2 Beaver Service Bulletin V2/0011, 
+Revision NC, dated November 28, 2019. This service information provides 
+a list of new inspection tasks that have been added to the DHC-2 
+supplementary inspection and corrosion control program, Viking PSM 1-2-
+5, Revision 1.
+
+Impact on Intrastate Aviation in Alaska
+
+    In light of the heavy reliance on aviation for intrastate 
+transportation in Alaska, the FAA has fully considered the effects of 
+this final rule (including costs to be borne by affected operators) 
+from the earliest possible stages of AD development. As previously 
+stated, 14 CFR part 39 requires operators to correct an unsafe 
+condition identified on an airplane to ensure operation of that 
+airplane in an airworthy condition. The FAA has determined that the 
+need to correct corrosion-related degradation in aging aircraft, which 
+could lead to structural failure with consequent loss of control of the 
+airplane, outweighs any impact on aviation in Alaska.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 409 airplanes of U.S. 
+registry. The FAA also estimates that it will take about 1 work-hour 
+per airplane at a labor rate of $85 per work-hour to revise the 
+existing maintenance records.
+    Based on these figures, the FAA estimates the cost of this AD on 
+U.S. operators to be $34,765 or $85 per airplane.
+    The FAA estimates it will take about 1 work-hour to report any 
+Level 2 corrosion found during the initial or subsequent inspections or 
+any Level 3 corrosion found during the initial or subsequent 
+inspections, for an estimated cost of $85 per airplane.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to take 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden, to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Flexibility Determination
+
+    The Regulatory Flexibility Act of 1980, Public Law 96-354, 94 Stat. 
+1164 (5 U.S.C. 601-612) (RFA) establishes as a principle of regulatory 
+issuance that agencies shall endeavor, consistent with the objectives 
+of the rule and of applicable statutes, to fit regulatory and 
+informational requirements to the scale of the businesses, 
+organizations, and governmental jurisdictions subject to regulation.
+    To achieve this principle, agencies are required to solicit and 
+consider flexible regulatory proposals and to explain the rationale for 
+their actions to assure that such proposals are given serious 
+consideration. The RFA covers a wide-range of small entities, including 
+small businesses, not-for-profit organizations, and small governmental 
+jurisdictions.
+    Agencies must perform a review to determine whether a rule will 
+have a significant economic impact on a substantial number of small 
+entities. If the agency determines that it will, the agency must 
+prepare a regulatory flexibility analysis as described in the RFA.
+    The FAA published an Initial Regulatory Flexibility Analysis (IRFA) 
+for this rule to aid the public in commenting on the potential impacts 
+to small entities. The FAA considered the public comments in developing 
+the final rule and this Final Regulatory Flexibility Analysis (FRFA). A 
+FRFA must contain the following:
+    (1) A statement of the need for, and objectives of, the rule;
+    (2) A statement of the significant issues raised by the public 
+comments in response to the IRFA, a statement of the assessment of the 
+agency of such issues, and a statement of any changes made in the 
+proposed rule as a result of such comments;
+    (3) The response of the agency to any comments filed by the Chief 
+Counsel for Advocacy of the Small Business Administration (SBA) in 
+response to the proposed rule, and a detailed statement of any change 
+made to the proposed rule in the final rule as a result of the 
+comments;
+    (4) A description of and an estimate of the number of small 
+entities to which the rule will apply or an explanation of why no such 
+estimate is available;
+
+[[Page 67633]]
+
+    (5) A description of the projected reporting, recordkeeping, and 
+other compliance requirements of the proposed rule, including an 
+estimate of the classes of small entities which will be subject to the 
+requirement and the type of professional skills necessary for 
+preparation of the report or record; and
+    (6) A description of the steps the agency has taken to minimize the 
+significant economic impact on small entities consistent with the 
+stated objectives of applicable statutes, including a statement of the 
+factual, policy, and legal reasons for selecting the alternative 
+adopted in the final rule and why each of the other significant 
+alternatives to the rule considered by the agency which affect the 
+impact on small entities was rejected.
+
+1. Need for and Objectives of the Rule
+
+    The NPRM proposed to supersede AD 64-09-03, which applied to all de 
+Havilland (type certificate now held by Viking) Model DHC-2 ``Beaver'' 
+airplanes, because after the FAA issued AD 64-09-03, Transport Canada 
+superseded its MCAI to identify specific locations of an airplane that 
+must be inspected to ensure corrosion-related degradation does not 
+result in an unsafe condition. This final rule requires incorporating 
+into the existing maintenance records for your airplane the actions and 
+associated thresholds and intervals, including life limits, specified 
+in a supplemental inspection and corrosion control manual for Model 
+DHC-2 airplanes. This final rule also requires completing all the 
+initial tasks identified in this manual and reporting certain corrosion 
+findings to Viking. The actions in this supplemental inspection and 
+corrosion control manual include the inspection of the aileron balance 
+weight arms required by AD 64-09-03.
+
+2. Significant Issues Raised in Public Comments
+
+    The FAA received comments related to costs from three individual 
+commenters. The following presents the significant issues in the 
+comments received on the SNPRM and the FAA's response to each comment.
+
+Request To Revise Requirements Based on Airplane Usage Conditions
+
+    Two commenters requested that the SNPRM be revised to have 
+different requirements based on how the airplane is used, including but 
+not limited to corrosion level, operating environment (e.g., near salt 
+water), commercial or private use, and airplane history.
+    The FAA disagrees with the commenters' requests to change the SNPRM 
+based on airplane operational usage. There is no current requirement to 
+track the hours spent flying in different conditions or types of water. 
+Additionally, operators may not know an airplane's entire flight or 
+maintenance history. Without this detailed knowledge of each airplane, 
+it would be impossible for the FAA to develop a special set of 
+inspections based on airplane usage conditions. However, operators may 
+submit a proposal for revised requirements by requesting an AMOC using 
+the procedures specified in paragraph (i) of this AD. The FAA has not 
+changed this AD regarding this issue.
+
+Request To Revise Costs of Compliance: Labor Rate
+
+    One commenter requested that the FAA revise the labor rate in the 
+Costs of Compliance section of the SNPRM. The commenter noted that 
+current labor rates are anywhere from $110 to $150 per hour and added 
+that the proposed costs do not consider the current shortage of 
+qualified mechanics able to do the inspections.
+    The FAA agrees that the labor rate of $85 per work-hour provided in 
+the SNPRM is dated but disagrees with the provided estimate of $110 to 
+$150 per hour provided by the commenter. The FAA notes that the current 
+wage rate for aviation mechanics as provided by the Bureau of Labor 
+Statistics, found at <a href="http://www.bls.gov/oes/current/oes493011.htm">www.bls.gov/oes/current/oes493011.htm</a>, after 
+accounting for fringe benefits that are valued at roughly 50% of the 
+nominal wage, is lower than the estimated fully burdened labor rate (a 
+labor rate with fringe benefits included) of $85 per work-hour. 
+Therefore, the FAA is unable to justify increasing the labor rate from 
+$85 per work-hour. The FAA continues to use the higher $85 per work-
+hour figure in order to provide a conservative estimate of the costs.
+    The commenter also indicated that the wage rate for DHC-2 mechanics 
+varies geographically but did not provide any documentation or 
+references to support this statement. Furthermore, unless the 
+distribution of DHC-2 airplanes also varies along the same geography, 
+using an average rate captures the average effect, including any higher 
+wages; therefore, the FAA has not added a geographical adjustment into 
+its assessment.
+
+3. Response to SBA Comments
+
+    The Chief Counsel for Advocacy of the SBA did not file any comments 
+in response to the SNPRM. Thus, the FAA did not make any changes to 
+this final rule.
+
+4. Small Entities to Which the Rule Will Apply
+
+    The FAA used the definition of small entities in the RFA for this 
+analysis. The RFA defines small entities as small businesses, small 
+governmental jurisdictions, or small organizations. In 5 U.S.C. 601(3), 
+the RFA defines ``small business'' to have the same meaning as ``small 
+business concern'' under section 3 of the Small Business Act. The Small 
+Business Act authorizes the SBA to define ``small business'' by issuing 
+regulations.
+    SBA (2022) has established size standards for various types of 
+economic activities, or industries, under the North American Industry 
+Classification System (NAICS).\1\ These size standards generally define 
+small businesses based on the number of employees or annual receipts.
+---------------------------------------------------------------------------
+
+    \1\ Small Business Administration (SBA). 2022. Table of Size 
+Standards. Effective July 14, 2022. <a href="https://www.sba.gov/document/support-table-size-standards">https://www.sba.gov/document/support-table-size-standards</a>.
+---------------------------------------------------------------------------
+
+    The FAA Civil Aircraft Registry shows 409 Model DHC-2 Mk. I, DHC-2 
+Mk. II, and DHC-2 Mk. III airplanes that will be affected by this AD. 
+These 409 airplanes are registered to 235 private businesses, 76 
+individuals, and 3 government agencies. The 76 individuals and 3 
+government agencies are excluded from this analysis as the RFA does not 
+apply to individuals and the 3 government agencies are not small 
+entities as defined by the RFA.\2\
+---------------------------------------------------------------------------
+
+    \2\ Two airplanes are registered to the U.S. Department of the 
+Interior. Five airplanes are registered to the United States Forest 
+Service, within the U.S. Department of Agriculture. Two airplanes 
+are registered to the State of Alaska to the Alaska Department of 
+Fish & Game. These government agencies and are not small entities 
+under the RFA.
+---------------------------------------------------------------------------
+
+    Three hundred nineteen (319) airplanes are owned and operated by 
+235 private entities. A sample of 50 private businesses was randomly 
+selected for the analysis.\3\ Of the 50 sampled entities, 45 were found 
+to be small. The results of the cost impact analysis for these 45 small 
+entities are shown in Table 1 and will be discussed in the following 
+section.
+---------------------------------------------------------------------------
+
+    \3\ The sample was selected by shuffling the order of the list 
+of 409 DHC-2 airplanes in the FAA Registry and going down the 
+randomized list. If revenue and employee count data were available, 
+it was included in the sample; otherwise, it was excluded. This 
+process was repeated until 50 firms, for which revenue and employee 
+data were available, had been added to the sample. The shuffling was 
+accomplished by giving each entry in the registry an index value 
+between 0 and 1 using Excel's RAND function. The entries were then 
+sorted by that index value to randomize their order.
+---------------------------------------------------------------------------
+
+    As can be seen, the impacts range from nearly 0%, to a maximum of 
+0.5%. The average impact is 0.1%, and the median impact rounds to 0.0%. 
+As
+
+[[Page 67634]]
+
+such, the FAA has determined that this rule will not significantly 
+impact a substantial number of small entities.
+
+                                                         Table 1--Cost Impact on Small Entities
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                              Cost/
+             Operator                FAA Registry type    DHC-2 A/C   Revenues      Cost     revenue     NAICS      Size standard       NAICS industry
+                                                                      ($1,000)                 (%)        code
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ALASKAS FISHING UNLIMITED INC....  Non-Citizen Corp....           1          79     $170.0        0.2     721214  $8 mn............  Recreational and
+                                                                                                                                      Vacation Camps
+                                                                                                                                      (except
+                                                                                                                                      Campgrounds).
+DOUGLAS AVIATION LTD.............  Corporation.........           2          90      340.0        0.4     541990  $17 mn...........  All Other
+                                                                                                                                      Professional,
+                                                                                                                                      Scientific and
+                                                                                                                                      Technical
+                                                                                                                                      Services.
+NORTHSTAR HOLDINGS LLC...........  LLC.................           3         110      510.0        0.5     551112  $40 mn...........  Offices of Other
+                                                                                                                                      Holding Companies.
+RHK OF KANSAS....................  Corporation.........           1         110      170.0        0.2     541110  $13.5 mn.........  Offices of Lawyers.
+SUMMIT LEASING LLC...............  LLC.................           1         110      170.0        0.2     532490  $35 mn...........  Other Comm'l & Ind.
+                                                                                                                                      Machinery and
+                                                                                                                                      Equip. Rental &
+                                                                                                                                      Leasing.
+JESPERSEN AIRCRAFT SERVICES INC..  Corporation.........           3         113      510.0        0.4     481219  $22 mn...........  Other Nonscheduled
+                                                                                                                                      Air
+                                                                                                                                      Transportation.
+KATMAI AIR LLC...................  LLC.................           1         117      170.0        0.1     532411  $40 mn...........  Comm'l Air, Rail, &
+                                                                                                                                      Water Transp.
+                                                                                                                                      Equip. Rental and
+                                                                                                                                      Leasing.
+MUSTANG HIGH FLIGHT LLC..........  LLC.................           1         127      170.0        0.1     334511  1250 emp.........  Search, Detect.,
+                                                                                                                                      Nav., Guid.,
+                                                                                                                                      Aero., & Naut.
+                                                                                                                                      Systems & Inst.
+                                                                                                                                      Mfg.
+FLIGHT MANAGEMENT LLC............  LLC.................           2         161      340.0        0.2     561110  $11 mn...........  Office
+                                                                                                                                      Administrative
+                                                                                                                                      Services.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+NEWHALEN LODGE INC...............  Corporation.........           3         165      510.0        0.3     721199  $8 mn............  All Other Traveler
+                                                                                                                                      Accommodation.
+4R AVIATION LLC..................  LLC.................           1         177      170.0        0.1     336411  1500 emp.........  Aircraft
+                                                                                                                                      Manufacturing.
+RAINBOW KING LODGE INC...........  Corporation.........           2         209      340.0        0.2     721199  $8 mn............  All Other Traveler
+                                                                                                                                      Accommodation.
+DOYON AIRCRAFT LEASING LLC.......  LLC.................           1         250      170.0        0.1     532411  $40 mn...........  Comm'l Air, Rail, &
+                                                                                                                                      Water Transp.
+                                                                                                                                      Equip. Rental and
+                                                                                                                                      Leasing.
+KENMORE CREW LEASING INC TRUSTEE.  Corporation.........           1         278      170.0        0.1     532490  $35 mn...........  Other Comm'l & Ind.
+                                                                                                                                      Machinery and
+                                                                                                                                      Equip. Rental &
+                                                                                                                                      Leasing.
+COMANCHE FIGHTERS LLC............  LLC.................           1         301      170.0        0.1     813930  $14.5 mn.........  Labor Unions and
+                                                                                                                                      Similar Labor
+                                                                                                                                      Organizations.
+BAY AIR INC......................  Corporation.........           1         307      170.0        0.1     481111  1500 emp.........  Scheduled Passenger
+                                                                                                                                      Air
+                                                                                                                                      Transportation.
+COYOTE AIR LLC...................  LLC.................           2         310      340.0        0.1     481211  1500 emp.........  Nonscheduled
+                                                                                                                                      Chartered
+                                                                                                                                      Passenger Air
+                                                                                                                                      Transp.
+KINGFISHER AIR INC...............  Corporation.........           1         366      170.0        0.0     481219  $22 mn...........  Other Nonscheduled
+                                                                                                                                      Air
+                                                                                                                                      Transportation.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ASSOCIATED LEASING LLC...........  LLC.................           1         500      170.0        0.0     532490  $35 mn...........  Other Comm'l & Ind.
+                                                                                                                                      Machinery and
+                                                                                                                                      Equip. Rental &
+                                                                                                                                      Leasing.
+TIKCHIK NARROWS LODGE INC........  Corporation.........           3         720      510.0        0.1     721214  $8 mn............  Recreational and
+                                                                                                                                      Vacation Camps
+                                                                                                                                      (except
+                                                                                                                                      Campgrounds).
+NORTHWEST SEAPLANES INC..........  Corporation.........           3         750      510.0        0.1     481111  1500 emp.........  Scheduled Passenger
+                                                                                                                                      Air
+                                                                                                                                      Transportation.
+SNOW MOUNTAIN ENTERPRISES LLC....  LLC.................           1         750      170.0        0.0     532000  $8 mn............  Rental and Leasing
+                                                                                                                                      Services, N.F.S.
+ISLAND WINGS AIR SERVICE LLC.....  LLC.................           2         956      340.0        0.0     481211  1500 emp.........  Nonscheduled
+                                                                                                                                      Chartered
+                                                                                                                                      Passenger Air
+                                                                                                                                      Transp.
+TVPX AIRCRAFT SOLUTIONS INC        Corporation.........           3       1,157      510.0        0.0     336310  1000 emp.........  Motor Vehicle
+ TRUSTEE.                                                                                                                             Gasoline Engine
+                                                                                                                                      and Engine Parts
+                                                                                                                                      Mfg.
+SHELDON AIR SERVICE LLC..........  LLC.................           1       1,400      170.0        0.0     481219  $22 mn...........  Other Nonscheduled
+                                                                                                                                      Air
+                                                                                                                                      Transportation.
+TALKEETNA AIR TAXI INC...........  Corporation.........           1       1,635      170.0        0.0     481219  $22 mn...........  Other Nonscheduled
+                                                                                                                                      Air
+                                                                                                                                      Transportation.
+NO SEE UM LODGE INC..............  Corporation.........           3       2,036      510.0        0.0     721214  $8 mn............  Recreational and
+                                                                                                                                      Vacation Camps
+                                                                                                                                      (except
+                                                                                                                                      Campgrounds).
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+WARD AIR INC.....................  Corporation.........           4       2,191      680.0        0.0     481219  $22 mn...........  Other Nonscheduled
+                                                                                                                                      Air
+                                                                                                                                      Transportation.
+HISTORIC FLIGHT FOUNDATION.......  Corporation.........           1       2,500      340.0        0.0     712110  $30 mn...........  Museums.
+LAKE HAVASU SEAPLANES LLC........  LLC.................           1       2,500      170.0        0.0     611000  $8 mn............  Educational
+                                                                                                                                      Services, N.F.S.
+RDJ BROTHERS TRUCKING INC........  Corporation.........           1       2,500      170.0        0.0     236000  $39.5 mn.........  Construction of
+                                                                                                                                      buildings, N.F.S.
+SEAWIND AVIATION INC.............  Corporation.........           2       2,500      170.0        0.0     481211  1500 emp.........  Nonscheduled
+                                                                                                                                      Chartered
+                                                                                                                                      Passenger Air
+                                                                                                                                      Transp.
+TIKCHIK AIRVENTURES LLC..........  LLC.................           1       2,500      170.0        0.0     481211  1500 emp.........  Nonscheduled
+                                                                                                                                      Chartered
+                                                                                                                                      Passenger Air
+                                                                                                                                      Transp.
+WOLF TRAIL LODGE INC.............  Corporation.........           1       2,500      170.0        0.0     721000  $8 mn............  Accommodation,
+                                                                                                                                      N.F.S.
+ANDREW AIRWAYS INC...............  Corporation.........           3       2,576      510.0        0.0     485999  $16.5 mn.........  All Other Transit
+                                                                                                                                      and Ground
+                                                                                                                                      Passenger
+                                                                                                                                      Transportation.
+
+[[Page 67635]]
+
+ 
+ALASKAS ENCHANTED LAKE LODGE INC.  Corporation.........           2       2,729      340.0        0.0     721310  $12.5 mn.........  Rooming & Boarding
+                                                                                                                                      Houses,
+                                                                                                                                      Dormitories, and
+                                                                                                                                      Workers' Camps.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+RAINBOW RIVER LODGE LLC..........  LLC.................           2       4,000      340.0        0.0     721214  $8 mn............  Recreational and
+                                                                                                                                      Vacation Camps
+                                                                                                                                      (except
+                                                                                                                                      Campgrounds).
+K BAY AIR LLC....................  LLC.................           1       4,427      170.0        0.0     481219  $22 mn...........  Other Nonscheduled
+                                                                                                                                      Air
+                                                                                                                                      Transportation.
+RAPIDS CAMP LODGE INC............  Corporation.........           1       7,000      170.0        0.0     713990  $8 mn............  All Other Amusement
+                                                                                                                                      and Recreation
+                                                                                                                                      Industries.
+PROGRESSIVE PLASTICS INC.........  Corporation.........           1       7,500      170.0        0.0     326199  750 emp..........  All Other Plastics
+                                                                                                                                      Product
+                                                                                                                                      Manufacturing.
+BROWN HELICOPTER INC.............  Corporation.........           1       9,000      170.0        0.0     336412  1500 emp.........  Aircraft Engine and
+                                                                                                                                      Engine Parts
+                                                                                                                                      Manufacturing.
+PERRYCOOK FLIGHT SERVICES LLC....  LLC.................           1      12,500      170.0        0.0     481211  1500 emp.........  Nonscheduled
+                                                                                                                                      Chartered
+                                                                                                                                      Passenger Air
+                                                                                                                                      Transp.
+KOMRO INTERNATIONAL LLC..........  LLC.................           1      14,100      170.0        0.0     423820  125 emp..........  Farm & Garden
+                                                                                                                                      Machinery & Equip.
+                                                                                                                                      Merchant
+                                                                                                                                      Wholesalers.
+CONCRETE WORKS OF COLORADO INC...  Corporation.........           1      16,190      170.0        0.0     238110  $16.5 mn.........  Poured Concrete
+                                                                                                                                      Foundation and
+                                                                                                                                      Structure
+                                                                                                                                      Contractors.
+KENMORE AIR HARBOR LLC...........  LLC.................           9      51,500    1,530.0        0.0     481111  1500 emp.........  Scheduled Passenger
+                                                                                                                                      Air
+                                                                                                                                      Transportation.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Total 80 $161,997 $13,600.
+Mean $3,600 $302 0.1%
+Median $956 $170 0.0%
+Notes:
+1. The size standard is the maximum size for the NAICS industry considered by the Small Business Administration to be a small entity.
+2. AD costs per airplane are 1 work-hour x $85 = $85 + $85 reporting costs for initial inspection, for a total of $170.
+3. All percentage figures are rounded to the nearest tenth of a percent. All 0.0% figures represent values below 0.1%, but above 0%.
+
+5. Projected Reporting, Recordkeeping, and Other Compliance 
+Requirements
+
+    The FAA estimates that this AD will take 1 work-hour per airplane 
+at a labor rate of $85 per work-hour to incorporate into the existing 
+maintenance records the actions specified in Parts 2 and 3 of Viking 
+PSM 1-2-5, Revision 1, plus $85 per airplane to report any Level 2 
+corrosion found during the initial or subsequent inspections or any 
+Level 3 corrosion found during the initial or subsequent inspections, 
+for an estimated total cost of $170 per airplane.
+    The estimated cost of this AD, per small entity, is shown in the 
+``Cost'' column of Table 1 and cost impact is measured by cost as a 
+percentage of revenues. As the table shows, the mean cost impact is 
+0.1% of annual revenues,\4\ while the median cost impact is 0.0%.
+---------------------------------------------------------------------------
+
+    \4\ These revenue data come from online sources such as 
+<a href="http://zoominfo.com">zoominfo.com</a>, <a href="http://opencorporates.com">opencorporates.com</a>, <a href="http://buzzfile.com">buzzfile.com</a>, <a href="http://manta.com">manta.com</a>, 
+<a href="http://allbiz.com">allbiz.com</a>, and <a href="http://lookupcompanyrevenue.com">lookupcompanyrevenue.com</a>.
+---------------------------------------------------------------------------
+
+    To the extent that small entities provide more unique services or 
+serve markets with less competition, they may also be able to pass on 
+costs in the form of price increases. However, the FAA assumed that 
+none of these small entities would be able to pass these compliance 
+costs to their customers in terms of higher prices. This shows no 
+significant impact on any of the small entities.
+
+6. Significant Alternatives Considered
+
+    As part of the FRFA, the FAA is required to consider regulatory 
+alternatives that may be less burdensome.
+    The FAA did not find any significant regulatory alternatives to 
+this AD that would accomplish the safety objectives of this AD.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the RFA.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive 64-09-03, Amendment 718 (29 FR 
+5390, April 22, 1964); and
+0
+b. Adding the following new airworthiness directive:
+
+2023-19-06 Viking Air Limited (Type Certificate Previously Held by 
+Bombardier Inc. and de Havilland Inc.): Amendment 39-22556; Docket 
+No. FAA-2022-0190; Project Identifier 2019-CE-048-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective November 6, 2023.
+
+(b) Affected ADs
+
+    This AD replaces AD 64-09-03, Amendment 718 (29 FR 5390, April 
+22, 1964).
+
+(c) Applicability
+
+    This AD applies to Viking Air Limited (type certificate 
+previously held by Bombardier Inc. and de Havilland Inc.) Model DHC-
+2 Mk. I, DHC-2 Mk. II, and DHC-2 Mk. III airplanes, all serial 
+numbers, certificated in any category.
+
+[[Page 67636]]
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 2000, Airframe.
+
+(e) Unsafe Condition
+
+    This AD was prompted by mandatory continuing airworthiness 
+information (MCAI) originated by an aviation authority of another 
+country to identify and correct an unsafe condition on an aviation 
+product. The MCAI describes the unsafe condition as corrosion-
+related degradation in aging aircraft. The FAA is issuing this AD to 
+detect and address corrosion, which could lead to structural failure 
+with consequent loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within 90 days after the effective date of this AD, 
+incorporate into the existing maintenance records required by 14 CFR 
+91.417(a)(2) or 135.439(a)(2), as applicable for your airplane, the 
+actions and associated thresholds and intervals, including life 
+limits, specified in Parts 2 and 3 of Viking DHC-2 Beaver 
+Supplemental Inspection and Corrosion Control Manual, PSM 1-2-5, 
+Revision 1, dated January 10, 2019 (Viking PSM 1-2-5, Revision 1). 
+Do each initial task within 6 months after the effective date of 
+this AD or at the threshold for each applicable task specified in 
+Part 3 of Viking Product Support Manual PSM 1-2-5, Revision 1, 
+whichever occurs later. Where Viking PSM 1-2-5, Revision 1, 
+specifies contacting Viking for instructions on forward and rear fin 
+attachment bolt replacement, inspection, and installation, and for a 
+disposition regarding attachment bolts, this AD requires contacting 
+the Manager, International Validation Branch, FAA; or Transport 
+Canada; or Viking's Transport Canada Design Approval Organization 
+(DAO). If approved by the DAO, the approval must include the DAO-
+authorized signature.
+
+    Note 1 to paragraph (g)(1): Viking DHC-2 Beaver Service Bulletin 
+V2/0011, Revision NC, dated November 28, 2019, contains additional 
+information related to this AD.
+
+    (2) After the action required by paragraph (g)(1) of this AD has 
+been done, no alternative actions and associated thresholds and 
+intervals, including life limits, are allowed unless they are 
+approved as specified in paragraph (i) of this AD.
+
+(h) Reporting
+
+    (1) For inspections done after the effective date of this AD, 
+report to Viking any Level 2 or Level 3 corrosion, as specified in 
+Viking PSM 1-2-5, Revision 1, at the times specified in and in 
+accordance with part 3, paragraph 5, of Viking PSM 1-2-5, Revision 
+1.
+    (2) For inspections done before the effective date of this AD, 
+within 30 days after the effective date of this AD, report to Viking 
+any Level 2 or Level 3 corrosion, as specified in Viking PSM 1-2-5, 
+Revision 1, in accordance with part 3, paragraph 5, of Viking PSM 1-
+2-5, Revision 1.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, mail 
+it to ATTN: Program Manager, Continuing Operational Safety, at the 
+address identified in paragraph (j)(2) of this AD or email to: <a href="/cdn-cgi/l/email-protection#aa9387ebfcf987ebe3f8879d999a87ebe7e5e9eacccbcb84cdc5dc"><span class="__cf_email__" data-cfemail="71485c3027225c3038235c4642415c303c3e32311710105f161e07">[email&#160;protected]</span></a>. If mailing information, also submit 
+information by email.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved specifically for this AD by the Manager, 
+International Validation Branch, FAA.
+
+(j) Additional Information
+
+    (1) Refer to the MCAI from Transport Canada, AD CF-2019-25, 
+dated July 5, 2019, for related information. This Transport Canada 
+AD may be found in the AD docket at <a href="http://regulations.gov">regulations.gov</a> under Docket No. 
+FAA-2022-0190.
+    (2) For more information about this AD, contact James Delisio, 
+Continued Operational Safety Program Manager, FAA, 1600 Stewart 
+Avenue, Suite 410, Westbury, NY 11590; phone: (516) 228-7321; email: 
+<a href="/cdn-cgi/l/email-protection#10293d7166633d7e6971737f3d737f63507671713e777f66"><span class="__cf_email__" data-cfemail="2f16024e595c0241564e4c40024c405c6f494e4e01484059">[email&#160;protected]</span></a>.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (k)(3) and (4) of this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Viking DHC-2 Beaver Supplemental Inspection and Corrosion 
+Control Manual, PSM 1-2-5, Revision 1, dated January 10, 2019.
+    (ii) [Reserved]
+    (3) For service information identified in this AD, contact 
+Viking Air Limited Technical Support, 1959 De Havilland Way, Sidney, 
+British Columbia, Canada, V8L 5V5; phone: (800) 663-8444; fax: (250) 
+656-0673; email: <a href="/cdn-cgi/l/email-protection#344051575c5a5d5755581a474144445b464074425d5f5d5a53555d461a575b59"><span class="__cf_email__" data-cfemail="196d7c7a7177707a7875376a6c6969766b6d596f707270777e78706b377a7674">[email&#160;protected]</span></a>; website: 
+<a href="http://vikingair.com/support/service-bulletins">vikingair.com/support/service-bulletins</a>.
+    (4) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 901 
+Locust, Kansas City, MO 64106. For information on the availability 
+of this material at the FAA, call (817) 222-5110.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email: <a href="/cdn-cgi/l/email-protection#0563772b6c6b76756066716c6a6b456b6477642b626a73"><span class="__cf_email__" data-cfemail="1472663a7d7a67647177607d7b7a547a7566753a737b62">[email&#160;protected]</span></a>, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on September 15, 2023.
+Victor Wicklund,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2023-21631 Filed 9-29-23; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

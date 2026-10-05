@@ -1,0 +1,620 @@
+<html>
+<head>
+<title>Federal Register, Volume 88 Issue 58 (Monday, March 27, 2023)</title>
+</head>
+<body><pre>
+[Federal Register Volume 88, Number 58 (Monday, March 27, 2023)]
+[Rules and Regulations]
+[Pages 18019-18023]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2023-06364]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-0440; Project Identifier AD-2023-00245-T; 
+Amendment 39-22396; AD 2023-06-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+The Boeing Company Model 737-8, -8200, and -9 airplanes. This AD was 
+prompted by a report indicating that certain engine anti-ice (EAI) 
+exhaust duct fasteners were inadequately torqued. This AD requires an 
+inspection or records review to determine the serial number of each 
+engine inlet; and if any affected engine inlet is found, an inspection 
+of the EAI exhaust duct fasteners to determine the gap spacing and if 
+all fasteners are installed, applicable related investigative and
+
+[[Page 18020]]
+
+corrective actions, and part marking. This AD also limits the 
+installation of affected parts. The FAA is issuing this AD to address 
+the unsafe condition on these products.
+
+DATES: This AD is effective April 11, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of April 11, 
+2023.
+    The FAA must receive comments on this AD by May 11, 2023.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://regulations.gov">regulations.gov</a>. Follow 
+the instructions for submitting comments.
+    <bullet> Fax: 202-493-2251.
+    <bullet> Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    <bullet> Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> by 
+searching for and locating Docket No. FAA-2023-0440; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, any 
+comments received, and other information. The street address for Docket 
+Operations is listed above.
+    Material Incorporated by Reference:
+    <bullet> For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; website <a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    <bullet> You may view this referenced service information at the 
+FAA, Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability of 
+this material at the FAA, call 206-231-3195. It is also available at 
+<a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2023-0440.
+
+FOR FURTHER INFORMATION CONTACT: Samuel Dorsey, Aerospace Engineer, 
+Propulsion Section, FAA, Seattle ACO Branch, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 206-231-3415; email: <a href="/cdn-cgi/l/email-protection#b7e4d6dac2d2db99dd99d3d8c5c4d2cef7d1d6d699d0d8c1"><span class="__cf_email__" data-cfemail="e3b0828e96868fcd89cd878c9190869aa3858282cd848c95">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments to an address listed under 
+ADDRESSES. Include Docket No. FAA-2023-0440 and Project Identifier AD-
+2023-00245-T at the beginning of your comments. The most helpful 
+comments reference a specific portion of the final rule, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+<a href="http://regulations.gov">regulations.gov</a>, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to Samuel 
+Dorsey, Aerospace Engineer, Propulsion Section, FAA, Seattle ACO 
+Branch, 2200 South 216th St., Des Moines, WA 98198; phone: 206-231-
+3415; email: <a href="/cdn-cgi/l/email-protection#c794a6aab2a2abe9ade9a3a8b5b4a2be87a1a6a6e9a0a8b1"><span class="__cf_email__" data-cfemail="6f3c0e021a0a034105410b001d1c0a162f090e0e41080019">[email&#160;protected]</span></a>. Any commentary that the FAA 
+receives that is not specifically designated as CBI will be placed in 
+the public docket for this rulemaking.
+
+Background
+
+    The FAA has received a report indicating that during a pre-flight 
+check, the flightcrew discovered a bolt protruding through a drain hole 
+at the bottom of the engine inlet near the EAI exhaust vent. Boeing 
+determined that some of the fasteners for EAI exhaust ducts were 
+installed at the factory with inadequate torque due to the use of a 
+prohibited yoke-style torque wrench adapter at a significant angle. 
+When used at a sufficiently large angle, which is expected due to the 
+restricted access in the area of the EAI exhaust duct, this adapter 
+will produce a significant under-torque of the installed fasteners. 
+Inadequately-torqued fasteners may loosen over time due to engine 
+vibration, eventually causing the fastener to drop into the inlet inner 
+barrel.
+    The EAI system injects high-temperature bleed air from the engine 
+into the interior of the inlet lip to prevent the formation of icing on 
+the exterior of the inlet lip. This EAI exhaust air then exits the rear 
+of the inlet lip through the EAI exhaust duct, which passes through the 
+inlet inner barrel prior to exhausting air overboard. The composite 
+construction of the inlet inner barrel structure is susceptible to heat 
+damage at the temperatures of the EAI exhaust air should a leak occur.
+    These inadequately torqued (loose or missing) fasteners for the EAI 
+exhaust duct could allow EAI exhaust air to escape from the EAI exhaust 
+duct via two scenarios. In the first scenario, the loose or missing 
+fasteners allow the EAI exhaust duct to vibrate excessively, which, 
+when combined with the redistribution of structural loads onto the 
+other fasteners, may lead to fatigue cracking of the EAI exhaust duct. 
+This fatigue cracking would ultimately progress to a rupture of the EAI 
+exhaust duct. In the second scenario, the loose or missing fasteners 
+may allow EAI exhaust air to escape from a limited location. This 
+escaping air may impinge directly on the inner barrel structure, 
+depending on which specific fasteners are loose or missing. In both 
+scenarios, EAI exhaust air enters the inlet inner barrel causing heat 
+damage, which will compromise the structural integrity of the inlet, 
+eventually leading to inlet failure and separation under normal flight 
+loads.
+    Failure and separation of the inlet will lead to failure of the 
+corresponding engine due to airflow disruption and ingestion of debris, 
+and likely to failure and separation of the associated fan cowl. Damage 
+to the engine and engine nacelle could result in a loss of engine 
+thrust, increased nacelle drag, and disruption of airflow over the 
+wing, which may excessively reduce the controllability and climb 
+performance of the airplane; and damage from debris departing the 
+engine and nacelle, which could impact the fuselage and empennage, 
+could result in personal injury to passengers and loss of control of 
+the airplane.
+    The FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+[[Page 18021]]
+
+FAA's Determination
+
+    The FAA is issuing this AD because the agency has determined the 
+unsafe condition described previously is likely to exist or develop in 
+other products of the same type design.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Service Letter 737-SL-71-081-A, Revision A, 
+dated March 3, 2023. (Attachments I and II of this document are dated 
+March 2, 2023.) The service information specifies procedures for an 
+inspection to determine the serial number of each engine inlet, and if 
+any affected engine inlet is found, an inspection of the EAI exhaust 
+duct fasteners to determine the gap spacing and if all fasteners are 
+installed, applicable related investigative and corrective actions, and 
+part-marking the engine inlet. Related investigative actions include an 
+inspection of the fasteners for proper torque, general visual and high 
+frequency eddy current inspections of the EAI exhaust duct flange and 
+fastener holes for cracking, and visual inspections of the inner barrel 
+for thermal exposure (i.e., heat damage). Corrective actions include 
+re-torque of fasteners, repairing or replacing EAI exhaust ducts, 
+repairing thermal exposure, and replacing the engine inlet. This 
+service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+AD Requirements
+
+    This AD requires accomplishing the actions identified as ``(RC)'' 
+(required for compliance) in the Work Instructions of Boeing Service 
+Letter 737-SL-71-081-A, Revision A, dated March 3, 2023, described 
+previously, except as discussed under ``Differences Between this AD and 
+the Service Information,'' and except for any differences identified as 
+exceptions in the regulatory text of this AD.
+    For information on the procedures and compliance times, see this 
+service information at <a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2023-0440.
+
+Differences Between This AD and the Service Information
+
+    Boeing Service Letter 737-SL-71-081-A, Revision A, dated March 3, 
+2023, specifies that the actions must be done on all airplanes. 
+However, airplanes produced after a certain production line number were 
+verified to have properly torqued EAI exhaust duct fasteners. 
+Therefore, paragraph (g) of this AD only applies to airplanes with an 
+original airworthiness certificate or original export certificate of 
+airworthiness issued on or before the effective date of the AD. The 
+parts installation limitation specified in paragraph (i) of this AD 
+applies to all airplanes.
+    Boeing Service Letter 737-SL-71-081-A, Revision A, dated March 3, 
+2023, includes an inspection to verify the serial number of the inlet. 
+This AD also allows a review of airplane maintenance records in lieu of 
+the inspection to verify the serial number of the inlet if the serial 
+number of the inlet can be conclusively determined from that review.
+
+Interim Action
+
+    The FAA considers this AD to be an interim action. The FAA is 
+investigating if design changes may be needed to prevent a future 
+common-cause failure of the EAI exhaust duct. If final action is later 
+identified, the FAA might consider further rulemaking then.
+
+Justification for Immediate Adoption and Determination of the Effective 
+Date
+
+    Section 553(b)(3)(B) of the Administrative Procedure Act (APA) (5 
+U.S.C. 551 et seq.) authorizes agencies to dispense with notice and 
+comment procedures for rules when the agency, for ``good cause,'' finds 
+that those procedures are ``impracticable, unnecessary, or contrary to 
+the public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    An unsafe condition exists that requires the immediate adoption of 
+this AD without providing an opportunity for public comments prior to 
+adoption. The FAA has found that the risk to the flying public 
+justifies forgoing notice and comment prior to adoption of this rule 
+because loose or missing fasteners for the EAI exhaust duct might allow 
+EAI exhaust air to enter the inlet interior causing heat damage, which 
+could compromise the structural integrity of the inlet, eventually 
+leading to inlet failure and separation under normal flight loads. 
+Failure and separation of the inlet will lead to failure of the 
+corresponding engine due to airflow disruption and ingestion of debris 
+and likely failure and separation of the associated fan cowl. Damage to 
+the engine and engine nacelle could result in a loss of engine thrust, 
+increased nacelle drag, and disruption of airflow over the wing which 
+may excessively reduce the controllability and climb performance of the 
+airplane; and damage from debris departing the engine and nacelle, 
+which could impact the fuselage and empennage, could result in personal 
+injury to passengers and loss of control of the airplane. Accordingly, 
+notice and opportunity for prior public comment are impracticable and 
+contrary to the public interest pursuant to 5 U.S.C. 553(b)(3)(B).
+    In addition, the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days, 
+for the same reasons the FAA found good cause to forgo notice and 
+comment.
+
+Regulatory Flexibility Act
+
+    The requirements of the Regulatory Flexibility Act (RFA) do not 
+apply when an agency finds good cause pursuant to 5 U.S.C. 553 to adopt 
+a rule without prior notice and comment. Because the FAA has determined 
+that it has good cause to adopt this rule without notice and comment, 
+RFA analysis is not required.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 330 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection or records review to         1 work-hour x $85 per                 $0             $85         $28,050
+ determine serial number of engine       hour = $85.
+ inlet.
+Inspection of fastener gaps and to      2 work-hour x $85 per                  0             340         112,200
+ determine if all fasteners are          hour = $170 per inlet
+ installed, and engine inlet part-       (2 inlets per airplane).
+ marking.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 18022]]
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of the 
+inspection to of fastener gaps and to determine if all fasteners are 
+installed. The FAA has no way of determining the number of aircraft 
+that might need these actions:
+
+                                              On-Condition Costs *
+----------------------------------------------------------------------------------------------------------------
+            Action                Labor cost                Parts cost                   Cost per product
+----------------------------------------------------------------------------------------------------------------
+Inspection of the fasteners    1 work-hour x     $0.............................  $85 per inlet.
+ for proper torque.             $85 per hour =
+                                $85 per inlet.
+EAI exhaust duct inspection..  1 work-hour x     0..............................  85 per inlet.
+                                $85 per hour =
+                                $85 per inlet.
+EAI exhaust duct replacement.  1 work-hour x     10,000 per inlet...............  10,085 per inlet.
+                                $85 per hour =
+                                $85 per inlet.
+Inner barrel thermal exposure  1 work-hour x     0..............................  85 per inlet.
+ inspection.                    $85 per hour =
+                                $85 per inlet.
+Inlet replacement............  12 work-hours x   1,741,000 per inlet............  1,742,020 per inlet.
+                                $85 per hour =
+                                $1,020 per
+                                inlet.
+Re-torquing..................  1 work-hour x     0..............................  85 per inlet.
+                                $85 per hour =
+                                $85 per inlet.
+----------------------------------------------------------------------------------------------------------------
+* For repair of the EAI exhaust duct and repairing thermal exposure, the FAA has no definitive data on which to
+  base the cost estimate for those actions.
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this AD may be covered under warranty, thereby reducing the cost impact 
+on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2023-06-10 The Boeing Company: Amendment 39-22396; Docket No. FAA-
+2023-0440; Project Identifier AD-2023-00245-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective April 11, 2023.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model 737-8, -8200, 
+and -9 airplanes, certificated in any category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 30, Ice and Rain 
+Protection; 71, Powerplant.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report indicating that certain engine 
+anti-ice (EAI) exhaust duct fasteners were inadequately torqued 
+during installation at the factory. The FAA is issuing this AD to 
+address loose or missing fasteners for the EAI exhaust duct that may 
+allow EAI exhaust air to enter the inlet inner barrel causing heat 
+damage that will compromise the structural integrity of the inlet, 
+eventually leading to inlet failure and separation under normal 
+flight loads. The unsafe condition, if not addressed, will lead to 
+failure of the corresponding engine due to airflow disruption and 
+ingestion of debris and likely failure and separation of the 
+associated fan cowl. Damage to the engine and engine nacelle could 
+result in a loss of engine thrust, increased nacelle drag, and 
+disruption of airflow over the wing, which may excessively reduce 
+the controllability and climb performance of the airplane; and 
+damage from debris departing the engine and nacelle, which could 
+impact the fuselage and empennage, could result in personal injury 
+to passengers and loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    For airplanes with an original airworthiness certificate or 
+original export certificate of airworthiness issued on or before the 
+effective date of the AD: Except as specified by paragraph (h) of 
+this AD, at the applicable times specified in the ``Suggested 
+Operator Action'' section of Boeing Service Letter 737-SL-71-081-A, 
+Revision A, dated March 3, 2023, do all applicable actions 
+identified as ``RC'' (required for compliance) in, and in accordance 
+with, the Work Instructions of Boeing Service Letter 737-SL-71-081-
+A, Revision A, dated March 3, 2023. Perform all applicable related 
+investigative and corrective actions before further flight.
+
+(h) Exceptions to Service Information Specifications
+
+    (1) Where the ``Suggested Operator Action'' section of Boeing 
+Service Letter 737-SL-71-081-A, Revision A, dated March 3, 2023, 
+specifies doing ``the following actions within the given time from 
+the publication of this service letter,'' this AD requires 
+accomplishing the actions within the specified compliance times 
+after ``the effective date of this AD.''
+    (2) Where the ``Suggested Operator Action'' section of Boeing 
+Service Letter 737-SL-71-081-A, Revision A, dated March 3, 2023, 
+specifies ``corrective actions,'' for this AD, those actions include 
+``corrective and related investigative actions.''
+
+[[Page 18023]]
+
+    (3) A review of airplane maintenance records is acceptable in 
+lieu of the inspection to verify the serial number of the inlet 
+specified in step A.1. of the Work Instructions of Boeing Service 
+Letter 737-SL-71-081-A, Revision A, dated March 3, 2023, if the 
+serial number of the inlet can be conclusively determined from that 
+review.
+    (4) Where Boeing Service Letter 737-SL-71-081-A, Revision A, 
+dated March 3, 2023, specifies contacting Boeing for repair or 
+further instructions: This AD requires doing the repair and 
+applicable instructions before further flight using a method 
+approved in accordance with the procedures specified in paragraph 
+(l) of this AD.
+    (5) Where the Work Instructions of Boeing Service Letter 737-SL-
+71-081-A, Revision A, dated March 3, 2023, refers to the structural 
+repair manual, replace the text ``737-8/8200/9 Structural Repair 
+Manual (SRM) 51-40-04, Revision 18/9/15,'' with ``737-8 Structural 
+Repair Manual (SRM) 51-40-04, Revision 18 or 19; 737-8200 SRM 51-40-
+04, Revision 9 or 10; or 737-9 SRM 51-40-04, Revision 15 or 16.''
+
+(i) Parts Installation Limitation
+
+    As of the effective date of this AD, no person may install an 
+engine inlet assembly with a serial number listed in Attachment I of 
+Boeing Service Letter 737-SL-71-081-A, Revision A, dated March 3, 
+2023, on any airplane unless all applicable actions required by 
+paragraph (g) of this AD have been done for that inlet.
+
+(j) Credit for Previous Actions
+
+    This paragraph provides credit for the actions specified in 
+paragraph (g) of this AD, if those actions were performed before the 
+effective date of this AD using Boeing Service Letter 737-SL-71-081, 
+dated February 20, 2023, provided the conditions specified in 
+paragraphs (j)(1) and (2) of this AD are met.
+    (1) An inspection or records review has been done to verify the 
+inlet serial number is not included in the additional serial numbers 
+identified in Attachment I of Boeing Service Letter 737-SL-71-081-A, 
+Revision A, dated March 3, 2023; and the serial number of the inlet 
+can be conclusively determined from that inspection or review.
+    (2) Where the Work Instructions of Boeing Service Letter 737-SL-
+71-081, dated February 20, 2023, refer to the structural repair 
+manual (SRM) to apply torque, the applicable SRM identified in 
+paragraph (j)(2)(i), (ii), or (iii) of this AD was used to apply the 
+torque.
+    (i) Boeing 737-8 SRM 51-40-04, Revision 18, dated November 10, 
+2022; or Revision 19, dated March 10, 2023.
+    (ii) Boeing 737-8200 SRM 51-40-04, Revision 9, dated November 
+10, 2022; or Revision 10, dated March 10, 2023.
+    (iii) Boeing 737-9 SRM 51-40-04, Revision 15, dated November 10, 
+2022; or Revision 16, dated March 10, 2023.
+
+(k) Special Flight Permit
+
+    (1) Special flight permits, as described in 14 CFR 21.197 and 
+21.199, may be issued to move the airplane to a maintenance facility 
+prior to performing the required inspections.
+    (2) If, during the inspections required by paragraph (g) of this 
+AD, only one engine is found with an inlet having any crack or 
+thermal damage: Special flight permits, as described in 14 CFR 
+21.197 and 21.199, may be issued to operate the airplane to a 
+location where the requirements of this AD can be accomplished 
+provided the conditions specified in paragraph (k)(2)(i) and (ii) of 
+this AD, as applicable, are met.
+    (i) The EAI is deactivated on the affected engine in accordance 
+with the operator's existing Minimum Equipment List.
+    (ii) For any inlet with any thermal exposure (i.e., heat damage) 
+on the inner barrel, The Boeing Company Organization Designation 
+Authorization (ODA) is contacted to obtain concurrence for issuance 
+of a special flight permit and The Boeing Company ODA concurs. 
+Operators must comply with any flight limitations provided by The 
+Boeing Company ODA. The concurrence with any limitations must 
+specifically refer to this AD.
+    (3) If, during the inspections required by paragraph (g) of this 
+AD, both engines are found with inlets having any crack or thermal 
+exposure: Special flight permits, as described in 14 CFR 21.197 and 
+21.199, are not allowed.
+
+(l) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle ACO Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the certification office, send it to the attention of the person 
+identified in paragraph (m) of this AD. Information may be emailed 
+to: <a href="/cdn-cgi/l/email-protection#625b4f232c2f4f31070316160e074f23212d4f232f2d214f3007131707111611220403034c050d14"><span class="__cf_email__" data-cfemail="c0f9ed818e8ded93a5a1b4b4aca5ed81838fed818d8f83ed92a5b1b5a5b3b4b380a6a1a1eea7afb6">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company ODA that has been authorized 
+by the Manager, Seattle ACO Branch, FAA, to make those findings. To 
+be approved, the repair method, modification deviation, or 
+alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+    (4) Except as required by paragraph (h) of this AD: For service 
+information that contains steps that are labeled as Required for 
+Compliance (RC), the provisions of paragraphs (l)(4)(i) and (ii) of 
+this AD apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. If a step or substep is labeled ``RC Exempt,'' then the 
+RC requirement is removed from that step or substep. An AMOC is 
+required for any deviations to RC steps, including substeps and 
+identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(m) Related Information
+
+    For more information about this AD, contact Samuel Dorsey, 
+Aerospace Engineer, Propulsion Section, FAA, Seattle ACO Branch, 
+2200 South 216th St., Des Moines, WA 98198; phone: 206-231-3415; 
+email: <a href="/cdn-cgi/l/email-protection#6c3f0d0119090042064208031e1f09152c0a0d0d420b031a"><span class="__cf_email__" data-cfemail="a4f7c5c9d1c1c88ace8ac0cbd6d7c1dde4c2c5c58ac3cbd2">[email&#160;protected]</span></a>.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Service Letter 737-SL-71-081-A, Revision A, dated 
+March 3, 2023.
+    Note 1 to paragraph (n)(2)(i): Attachments I and II of this 
+document are dated March 2, 2023.
+    (ii) [Reserved]
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Contractual & Data Services 
+(C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-
+5600; telephone 562-797-1717; website <a href="http://myboeingfleet.com">myboeingfleet.com</a>.
+    (4) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability 
+of this material at the FAA, call 206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, <a href="/cdn-cgi/l/email-protection#2a4c58044344595a4f495e4345446a444b584b044d455c"><span class="__cf_email__" data-cfemail="583e2a7631362b283d3b2c3137361836392a39763f372e">[email&#160;protected]</span></a>, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued on March 17, 2023.
+Christina Underwood,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2023-06364 Filed 3-23-23; 4:15 pm]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

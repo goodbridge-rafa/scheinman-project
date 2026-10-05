@@ -1,0 +1,721 @@
+<html>
+<head>
+<title>Federal Register, Volume 71 Issue 113 (Tuesday, June 13, 2006)</title>
+</head>
+<body><pre>
+[Federal Register Volume 71, Number 113 (Tuesday, June 13, 2006)]
+[Rules and Regulations]
+[Pages 33994-34000]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 06-5244]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2004-19002; Directorate Identifier 2003-NM-27-AD; 
+Amendment 39-14639; AD 2006-12-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A300 B2 and A300 B4 Series 
+Airplanes; A300 B4-600, B4-600R, and F4-600R Series Airplanes; and 
+Model C4-605R Variant F Airplanes (Collectively Called A300-600 Series 
+Airplanes)
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD), which applies to certain Airbus Model A300 and A300-600 series 
+airplanes. That AD currently requires repetitive inspections to detect 
+cracks in Gear Rib 5 of the main landing gear (MLG) attachment fittings 
+at the lower flange, and repair, if necessary. That AD also requires 
+modification of Gear Rib 5 of the MLG attachment fittings, which 
+constitutes terminating action for the repetitive inspections. This new 
+AD requires new repetitive inspections at reduced compliance times. 
+This new AD also requires new repetitive inspections of certain areas 
+of the
+
+[[Page 33995]]
+
+attachment fittings that were repaired in accordance with the actions 
+specified in the existing AD. This AD results from new service 
+information that was issued by the manufacturer and mandated by the 
+French airworthiness authority. We are issuing this AD to prevent 
+fatigue cracking of the MLG attachment fittings, which could result in 
+reduced structural integrity of the airplane.
+
+DATES: This AD becomes effective July 18, 2006.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of July 18, 2006.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications, as listed in the AD, on April 12, 
+2000 (65 FR 12077, March 8, 2000).
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications, as listed in the AD, on 
+October 20, 1999 (64 FR 49966, September 15, 1999).
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> or in person at the Docket Management Facility, U.S. 
+Department of Transportation, 400 Seventh Street, SW., Nassif Building, 
+Room PL-401, Washington, DC.
+    For Model A300 B2 and A300 B4 series airplanes, contact Jacques 
+Leborgne, Airbus Customer Service Directorate, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France, fax (+33) 5 61 93 36 14, for 
+service information identified in this AD. For Model A300-600 series 
+airplanes, contact Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France, for service information identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: Tim Backman, Aerospace Engineer, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2797; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Examining the Docket
+
+    You may examine the AD docket on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a> 
+or in person at the Docket Management Facility office between 9 a.m. 
+and 5 p.m., Monday through Friday, except Federal holidays. The Docket 
+Management Facility office (telephone (800) 647-5227) is located on the 
+plaza level of the Nassif Building at the street address stated in the 
+ADDRESSES section.
+
+Discussion
+
+    The FAA issued a supplemental notice of proposed rulemaking (NPRM) 
+to amend 14 CFR part 39 to include an AD that supersedes AD 2000-05-07, 
+amendment 39-11616 (65 FR 12077, March 8, 2000), and applies to certain 
+Airbus Model A300 B2 and A300 B4 series airplanes; and Model A300-600 
+series airplanes. That supplemental NPRM was published in the Federal 
+Register on March 27, 2006 (71 FR 15068). That supplemental NPRM 
+proposed to reduce the compliance times for all inspections required by 
+AD 2000-05-07; to require inspections in accordance with new revisions 
+of the service bulletins; and to require new repetitive inspections of 
+certain areas of the attachment fittings that were repaired in 
+accordance with the actions specified in the existing AD.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Request To Give Credit for Previous Revisions of Certain Service 
+Bulletins
+
+    Airbus states that Service Bulletins A300-57-6088, Revision 03, 
+dated March 13, 2003; and A300-57-0235, Revision 02, dated September 
+27, 1999; are not referenced in Table 3 of the supplemental NPRM for 
+the terminating modification. Airbus notes that these service bulletins 
+are listed in the document index of Docket No. FAA-2004-19002. Airbus 
+reviewed the technical content of these two service bulletins and 
+states that there is no technical reason why they should not be 
+acceptable for complying with the actions proposed in the supplemental 
+NPRM. Airbus therefore requests that we include these service bulletins 
+in Table 3 of the final rule.
+    We partially agree. We agree that both service bulletins are 
+acceptable for compliance with the corresponding actions proposed in 
+the supplemental NPRM. We do not agree with adding these service 
+bulletins to Table 3 of the final rule. Table 3 refers only to service 
+bulletins that were required by either AD 2000-05-07 or the AD that it 
+superseded, which was AD 99-19-26, amendment 39-11313 (64 FR 49966, 
+September 15, 1999); or that are the latest revisions proposed for the 
+supplemental NPRM. Table 6 of the supplemental NPRM refers to issues of 
+service bulletins that are not the latest revisions, and were not 
+required by the superseded ADs, but are still acceptable for 
+compliance. Both Airbus Service Bulletin A300-57-6088, Revision 03, and 
+A300-57-0235, Revision 02, are listed in Table 6 of the final rule. We 
+have not changed the final rule in this regard.
+
+Explanation of Editorial Changes to the Final Rule
+
+    We inadvertently removed words from the following paragraph of the 
+supplemental NPRM: ``Sec.  39.13 [Amended] 2. The Federal Aviation 
+Administration (FAA) amends Sec.  39.13 by adding the following new 
+airworthiness directive (AD).'' We have changed this paragraph in the 
+final rule to include words that remove the original NPRM as follows: 
+``Sec.  39.13 [Amended] 2. The Federal Aviation Administration (FAA) 
+amends Sec.  39.13 by removing amendment 39-11616 (65 FR 12077, March 
+8, 2000), and adding the following new airworthiness directive (AD).''
+    We have revised paragraph (i)(1) of the final rule to identify 
+model designations as published in the most recent type certificate 
+data sheet for the affected models.
+    Paragraphs (g)(2), (j)(2), (l), and (m) of the supplemental NPRM 
+specify making repairs using a method approved by either the FAA or the 
+Direction G[eacute]n[eacute]rale de l'Aviation Civile (DGAC) (or its 
+delegated agent). The European Aviation Safety Agency (EASA) has 
+assumed responsibility for the airplane models subject to this AD. 
+Therefore, we have revised paragraphs (g)(2), (j)(2), (l), and (m) of 
+the final rule to specify making repairs using a method approved by 
+either the FAA or the EASA (or its delegated agent).
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comment received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    The following table provides the estimated costs for U.S. operators 
+to comply with this AD.
+
+[[Page 33996]]
+
+
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                          Number of U.S.-
+                                                                           Average labor                     Cost per          cost
+                         Action                             Work hours     rate per hour       Parts         airplane       registered      Fleet cost
+                                                                                                                             airplanes
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Modification (required by AD 2000-05-07)................              70             $65         $10,270         $14,820             164      $2,430,480
+Pre-modification inspections (new action), per                         6              65             (1)           2 390             164        2 63,960
+ inspection cycle.......................................
+Post-modification inspections (new action), per                        2              65             (1)           2 130             164         221,320
+ inspection cycle.......................................
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+\1\ None.
+\2\ Per inspection cycle.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+removing amendment 39-11616 (65 FR 12077, March 8, 2000), and adding 
+the following new airworthiness directive (AD):
+
+2006-12-13 Airbus: Amendment 39-14639. Docket No. FAA-2004-19002; 
+Directorate Identifier 2003-NM-27-AD.
+
+Effective Date
+
+    (a) This AD becomes effective July 18, 2006.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2000-05-07, amendment 39-11616.
+
+Applicability
+
+    (c) This AD applies to Airbus Model A300 B2-1A, B2-1C, B2K-3C, 
+B2-203, B4-2C, B4-103, and B4-203 airplanes, as identified in Airbus 
+Service Bulletin A300-57A0234, Revision 05, dated February 19, 2002; 
+and Model A300 B4-601, B4-603, B4-620, B4-622, B4-605R, B4-622R, F4-
+605R, F4-622R, and C4-605R Variant F airplanes, as identified in 
+Airbus Service Bulletin A300-57A6087, Revision 04, dated February 
+19, 2002; except airplanes on which Airbus Modification 11912 or 
+11932 has been installed; certificated in any category.
+
+Unsafe Condition
+
+    (d) This AD was prompted by new service information that was 
+issued by the manufacturer and mandated by the French airworthiness 
+authority. We are issuing this AD to prevent fatigue cracking of the 
+main landing gear (MLG) attachment fittings, which could result in 
+reduced structural integrity of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Restatement of the Requirements of AD 2000-05-07
+
+Repetitive Inspections
+
+    (f) Perform a detailed inspection and a high-frequency eddy 
+current (HFEC) inspection to detect cracks in Gear Rib 5 of the MLG 
+attachment fittings at the lower flange, in accordance with the 
+Accomplishment Instructions of any applicable service bulletin 
+listed in Table 1 and Table 2 of this AD, at the time specified in 
+paragraph (f)(1) or (f)(2) of this AD. After April 12, 2000 (the 
+effective date of AD 2000-05-07), only the service bulletins listed 
+in Table 2 of this AD may be used. Repeat the inspections thereafter 
+at intervals not to exceed 1,500 flight cycles, until paragraph (h), 
+(i), or (k) of this AD is accomplished.
+
+                                   Table 1.--Revision 01 of Service Bulletins
+----------------------------------------------------------------------------------------------------------------
+                                           Airbus Service
+                  Model                       Bulletin     Revision level                   Date
+----------------------------------------------------------------------------------------------------------------
+A300 B4-601, B4-603, B4-620, B4-622, B4-     A300-57-6087              01  March 11, 1998.
+ 605R, B4-622R, F4-605R, F4-622R, and
+ A300 C4-605R Variant F airplanes.
+
+[[Page 33997]]
+
+ 
+A300 B2 and A300 B4 series airplanes....     A300-57-0234              01  March 11, 1998.
+----------------------------------------------------------------------------------------------------------------
+
+
+                                Table 2.--Further Revisions of Service Bulletins
+----------------------------------------------------------------------------------------------------------------
+                                           Airbus Service
+                  Model                       Bulletin     Revision level                   Date
+----------------------------------------------------------------------------------------------------------------
+A300 B4-601, B4-603, B4-620, B4-622, B4-     A300-57A6087             *02  June 24, 1999.
+ 605R, B4-622R, FA-605R, F4-622R, and
+ A300 C4-605R Variant F airplanes.
+                                          ...............             *03  May 19, 2000.
+                                          ...............             *04  February 19, 2002.
+A300 B2 and A300 B4 series airplanes....     A300-57A0234              02  June 24, 1999.
+                                          ...............             *03  September 2, 1999.
+                                          ...............             *04  May 19, 2000.
+                                          ...............             *05  February 19, 2002.
+----------------------------------------------------------------------------------------------------------------
+* Including Appendix 01.
+
+    (1) For airplanes that have accumulated 20,000 or more total 
+flight cycles as of March 9, 1998 (the effective date of AD 98-03-
+06, amendment 39-10298): Inspect within 500 flight cycles after 
+March 9, 1998.
+    (2) For airplanes that have accumulated less than 20,000 total 
+flight cycles as of March 9, 1998: Inspect prior to the accumulation 
+of 18,000 total flight cycles, or within 1,500 flight cycles after 
+March 9, 1998, whichever occurs later.
+
+    Note 1: For the purposes of this AD, a detailed inspection is 
+defined as: ``An intensive visual examination of a specific 
+structural area, system, installation, or assembly to detect damage, 
+failure, or irregularity. Available lighting is normally 
+supplemented with a direct source of good lighting at intensity 
+deemed appropriate by the inspector. Inspection aids such as mirror, 
+magnifying lenses, etc., may be used. Surface cleaning and elaborate 
+access procedures may be required.''
+
+
+    Note 2: Accomplishment of the initial detailed and HFEC 
+inspections in accordance with Airbus Service Bulletin A300-57A0234 
+or A300-57A6087, both dated August 5, 1997, as applicable, is 
+considered acceptable for compliance with the initial inspections 
+required by paragraph (f) of this AD.
+
+Repair
+
+    (g) If any crack is detected during any inspection required by 
+paragraph (f) of this AD, prior to further flight, accomplish the 
+requirements of paragraph (g)(1) or (g)(2) of this AD, as 
+applicable.
+    (1) If a crack is detected at one hole only, and the crack does 
+not extend out of the spotface of the hole, repair in accordance 
+with the Accomplishment Instructions of the applicable service 
+bulletin in Table 2 of this AD.
+    (2) If a crack is detected at more than one hole, or if any 
+crack at any hole extends out of the spotface of the hole, repair in 
+accordance with a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA, or the 
+European Aviation Safety Agency (EASA) (or its delegated agent).
+
+Terminating Modification
+
+    (h) Prior to the accumulation of 21,000 total flight cycles, or 
+within 2 years after October 20, 1999 (the effective date of AD 99-
+19-26, amendment 39-11313), whichever occurs later: Modify Gear Rib 
+5 of the MLG attachment fittings at the lower flange in accordance 
+with the Accomplishment Instructions of the applicable service 
+bulletin in Table 3 of this AD. After the effective date of this AD, 
+only Revision 04 of Airbus Service Bulletin A300-57-6088, and 
+Revisions 04 and 05 of Airbus Service Bulletin A300-57-0235 may be 
+used. Accomplishment of this modification constitutes terminating 
+action for the repetitive inspection requirements of paragraphs (f) 
+and (i) of this AD.
+
+                            Table 3.--Service Bulletins for Terminating Modification
+----------------------------------------------------------------------------------------------------------------
+                                           Airbus Service
+                  Model                       Bulletin     Revision level                   Date
+----------------------------------------------------------------------------------------------------------------
+A300 B4-601, B4-603, B4-620, B4-622, B4-     A300-57-6088          \*\ 01  February 1, 1999.
+ 605R, B4-622R, F4-605R, F4-622R, A300
+ C4-605R Variant F airplanes.
+                                          ...............              02  September 5, 2002.
+                                          ...............              04  December 3, 2003.
+A300 B2 and A300 B4 series airplanes....     A300-57-0235          \*\ 01  February 1, 1999.
+                                          ...............              03  September 5, 2002.
+                                          ...............              04  March 13, 2003.
+                                          ...............              05  December 3, 2003.
+----------------------------------------------------------------------------------------------------------------
+* Including Appendix 01.
+
+
+    Note 3: Accomplishment of the modification required by paragraph 
+(h) of this AD prior to April 12, 2000, in accordance with Airbus 
+Service Bulletin A300-57-6088 or A300-57-0235, both dated August 5, 
+1998; as applicable; is acceptable for compliance with the 
+requirements of that paragraph.
+
+New Requirements of This AD
+
+New Repetitive Inspections
+
+    (i) For airplanes on which the modification specified in 
+paragraph (h) or (k) of this AD has not been done as of the 
+effective date of this AD, perform a detailed and an HFEC inspection 
+to detect cracks of the lower flange of Gear Rib 5 of the MLG at 
+holes 43, 47, 48, 49, 50, 52, and 54, in accordance with the 
+applicable service bulletin listed in Table 4 of this AD. Perform 
+the inspections at the applicable time specified in paragraph 
+(i)(1), (i)(2), (i)(3), or (i)(4) of this AD. Repeat the inspections 
+thereafter at intervals not to exceed 700 flight cycles until the 
+terminating modification required by paragraph (k) of this AD is 
+accomplished. Accomplishment of the inspections per paragraph (i) of 
+this AD,
+
+[[Page 33998]]
+
+terminates the inspection requirements of paragraph (f) of this AD.
+
+                             Table 4.--Service Bulletins for Repetitive Inspections
+----------------------------------------------------------------------------------------------------------------
+                                           Airbus Service
+                  Model                       Bulletin     Revision level                   Date
+----------------------------------------------------------------------------------------------------------------
+A300 B4-601, B4-603, B4-620, B4-622, B4-     A300-57A6087          \*\ 04  February 19, 2002.
+ 605R, B4-622R, F4-605R, F4-622R, and C4-
+ 605R Variant F airplanes.
+A300 B2-1A, B2-1C, B2K-3C, B2-203, B4-       A300-57A0234          \*\ 05  February 19, 2002.
+ 2C, B4-103, and B4-203 airplanes.
+----------------------------------------------------------------------------------------------------------------
+* Including Appendix 01.
+
+    (1) For Model A300 B2-1A, B2-1C, B2K-3C, B2-203, B4-2C, B4-103, 
+and B4-203 airplanes; Model A300 B4-601, B4-603, B4-620, B4-622, B4-
+605R, B4-622R, F4-605R, F4-622R, and C4-605R Variant F airplanes; 
+and Model C4-605R Variant F airplanes that have accumulated 18,000 
+or more total flight cycles as of the effective date of this AD: 
+Within 700 flight cycles after the effective date of this AD.
+    (2) For Model A300 B2-1A, B2-1C, B2K-3C, and B2-203 airplanes 
+that have accumulated less than 18,000 total flight cycles as of the 
+effective date of this AD: Prior to the accumulation of 18,000 total 
+flight cycles, or within 700 flight cycles after the effective date 
+of this AD, whichever occurs later.
+    (3) For Model A300 B4-2C, B4-103, and B4-203 airplanes that have 
+accumulated less than 18,000 total flight cycles as of the effective 
+date of this AD: Prior to the accumulation of 14,500 total flight 
+cycles, or within 700 flight cycles after the effective date of this 
+AD, whichever occurs later.
+    (4) For Model A300 B4-601, B4-603, B4-620, B4-622, B4-605R, B4-
+622R, F4-605R, F4-622R, and C4-605R Variant F airplanes that have 
+accumulated less than 18,000 total flight cycles as of the effective 
+date of this AD: Prior to the accumulation of 11,600 total flight 
+cycles, or within 700 flight cycles after the effective date of this 
+AD, whichever occurs later.
+
+Crack Repair
+
+    (j) If any crack is detected during any inspection required by 
+paragraph (i) of this AD, prior to further flight, accomplish the 
+requirements of paragraph (j)(1) and (j)(2) of this AD, as 
+applicable.
+    (1) If a crack is detected at only one hole, and the crack does 
+not extend out of the spotface of the hole, repair in accordance 
+with Airbus Service Bulletin A300-57A0234, Revision 05, including 
+Appendix 01, dated February 19, 2002 (for Model A300 B2-1A, B2-1C, 
+B2K-3C, B2-203, B4-2C, B4-103, and B4-203 airplanes); or A300-
+57A6087, Revision 04, including Appendix 01, dated February 19, 2002 
+(for Model A300 B4-601, B4-603, B4-620, B4-622, B4-605R, B4-622R, 
+F4-605R, F4-622R, and C4-605R airplanes); as applicable.
+    (2) If a crack is detected at more than one hole, or if any 
+crack at any hole extends out of the spotface of the hole, repair in 
+accordance with a method approved by the Manager, International 
+Branch, ANM-116, or the EASA (or its delegated agent).
+
+Terminating Modification
+
+    (k) For airplanes on which the terminating modification in 
+paragraph (h) of this AD has not been accomplished before the 
+effective date of this AD: At the earlier of the times specified in 
+paragraphs (k)(1) and (k)(2) of this AD, modify Gear Rib 5 of the 
+MLG attachment fittings at the lower flange. Except as provided by 
+paragraph letter (l) of this AD, do the modification in accordance 
+with the applicable service bulletin in Table 5 of this AD. This 
+action terminates the repetitive inspections requirements of 
+paragraphs (f) and (i) of this AD.
+    (1) Prior to the accumulation of 21,000 total flight cycles, or 
+within 2 years after October 20, 1999, whichever is later.
+    (2) Within 16 months after the effective date of this AD.
+
+                            Table 5.--Service Bulletins for Terminating Modification
+----------------------------------------------------------------------------------------------------------------
+                                           Airbus Service
+                  Model                       Bulletin     Revision level                   Date
+----------------------------------------------------------------------------------------------------------------
+A300 B4-601, B4-603, B4-620, B4-622, B4-     A300-57-6088              04  December 3, 2003.
+ 605R, B4-622R, F4-605R, F4-622R, and C4-
+ 605R Variant F airplanes.
+A300 B2-1A, B2-1C, B2K-3C, B2-203, B4-       A300-57-0235              04  March 13, 2003.
+ 2C, B4-103, and B4-203 05 2003                                        05  December 3, 2003.
+ airplanes.
+----------------------------------------------------------------------------------------------------------------
+
+    (l) Where the applicable service bulletin in paragraph (k) of 
+this AD specifies to contact Airbus for modification instructions; 
+or if there is a previously installed repair at any of the affected 
+fastener holes; or if a crack is found when accomplishing the 
+modification: Prior to further flight, modify in accordance with a 
+method approved by the Manager, International Branch, ANM-116, or 
+the EASA (or its delegated agent).
+
+Post-Modification Inspections
+
+    (m) Within 700 flight cycles after doing the modification in 
+accordance with paragraph (h), (k), or (l) of this AD, or within 6 
+months after the effective date of this AD, whichever occurs later, 
+except as provided by paragraph (o) of this AD: Do a detailed and an 
+HFEC inspection for cracks at holes 47 and 54 in the lower flange of 
+Gear Rib 5, and do all related investigative and corrective actions 
+before further flight, by doing all the actions specified in the 
+Accomplishment Instructions of Airbus Service Bulletin A300-57A0246, 
+including Appendix 01, dated May 20, 2005; or Airbus Service 
+Bulletin A300-57A6101, including Appendix 01, dated May 20, 2005; as 
+applicable. Where the applicable service bulletin specifies to 
+contact Airbus for repair instructions: Prior to further flight, 
+modify in accordance with a method approved by the Manager, 
+International Branch, ANM-116, or the EASA (or its delegated agent). 
+Repeat the inspection and related investigative and corrective 
+actions thereafter at intervals not to exceed 700 flight cycles. If 
+no crack is detected during the repeat inspection performed at or 
+above 2,100 flight cycles after doing the modification in accordance 
+with paragraph (h), (k), or (l) of this AD, then no further 
+inspection is required. Except, at least one inspection is required 
+after the accumulation of 2,100 flight cycles after installing the 
+modification in accordance with paragraph (h) or (k) of this AD.
+
+Actions Accomplished Per Previous Issues of the Service Bulletins
+
+    (n) Actions accomplished before the effective date of this AD, 
+per the service bulletins listed in Table 6 of this AD, are 
+considered acceptable for compliance with the corresponding action 
+specified in this AD.
+
+[[Page 33999]]
+
+
+
+             Table 6.--Previous Issues of Service Bulletins
+------------------------------------------------------------------------
+   Airbus Service Bulletin    Revision level             Date
+------------------------------------------------------------------------
+A300-57-0235................          \*\ 02  September 27, 1999.
+                                          03  September 5, 2002.
+A300-57-6088................              02  September 5, 2000.
+                                          03  March 13, 2003.
+------------------------------------------------------------------------
+* Including Appendix 01.
+
+Reporting
+
+    (o)(1) Although Airbus Service Bulletins A300-57A0234, A300-57-
+0235, A300-57A6087, A300-57-6088, A300-57A0246, and A300-57A6101, 
+specify to submit certain information to the manufacturer, this AD 
+does not include such a requirement, except as provided by paragraph 
+(o)(2) of this AD.
+    (2) Where Airbus Service Bulletins A300-57A0246 and A300-57A6101 
+specify to submit a report of positive and negative findings of the 
+post-modification inspection required by paragraph (m) of this AD, 
+within 30 days after the effective date of this AD, submit a report 
+only of the positive findings of post-modification inspections to 
+Airbus, Customer Service Directorate, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France. The report must include the inspection 
+results, a description of any discrepancies found, the airplane 
+serial number, and the number of landings and flight hours on the 
+airplane. Under the provisions of the Paperwork Reduction Act of 
+1980 (44 U.S.C. 3501 et seq.), the Office of Management and Budget 
+(OMB) has approved the information collection requirements contained 
+in this AD and has assigned OMB Control Number 2120-0056.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (p)(1) The Manager, International Branch, ANM-116, has the 
+authority to approve AMOCs for this AD, if requested in accordance 
+with the procedures found in 14 CFR 39.19.
+    (2) Before using any AMOC approved in accordance with Sec.  
+39.19 on any airplane to which the AMOC applies, notify the 
+appropriate principal inspector in the FAA Flight Standards 
+Certificate Holding District Office.
+    (3) AMOCs approved previously per AD 2000-05-07 are approved as 
+AMOCs with this AD.
+
+Related Information
+
+    (q) French airworthiness directives 2003-318(B), dated August 
+20, 2003; and F-2005-113 R1, dated July 20, 2005; also address the 
+subject of this AD.
+
+Material Incorporated by Reference
+
+    (r) You must use the service information listed in Table 7 of 
+this AD to perform the actions that are required by this AD, unless 
+the AD specifies otherwise.
+
+                                  Table 7.--Material Incorporated by Reference
+----------------------------------------------------------------------------------------------------------------
+         Airbus Service Bulletin                   Revision level                          Date
+----------------------------------------------------------------------------------------------------------------
+A300-57A0234.............................   02..........................  June 24, 1999.
+A300-57A0234.............................  * 03.........................  September 2, 1999.
+A300-57A0234.............................  * 04.........................  May 19, 2000.
+A300-57A0234.............................  * 05.........................  February 19, 2002.
+A300-57A0246.............................  Original *...................  May 20, 2005.
+A300-57A6087.............................  * 02.........................  June 24, 1999.
+A300-57A6087.............................  * 03.........................  May 19, 2000.
+A300-57A6087.............................  * 04.........................  February 19, 2002.
+A300-57A6101.............................  Original *...................  May 20, 2005.
+A300-57-0234.............................   01..........................  March 11, 1998.
+A300-57-0235.............................  * 01.........................  February 1, 1999.
+A300-57-0235.............................   03..........................  September 5, 2002.
+A300-57-0235.............................   04..........................  March 13, 2003.
+A300-57-0235.............................   05..........................  December 3, 2003.
+A300-57-6087.............................   01..........................  March 11, 1998.
+A300-57-6088.............................  * 01.........................  February 1, 1999.
+A300-57-6088.............................   02..........................  September 5, 2002.
+A300-57-6088.............................   04..........................  December 3, 2003.
+----------------------------------------------------------------------------------------------------------------
+* Including Appendix 01.
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the documents listed in Table 8 of 
+this AD in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
+
+                                Table 8.--New Material Incorporated by Reference
+----------------------------------------------------------------------------------------------------------------
+         Airbus Service Bulletin                   Revision level                          Date
+----------------------------------------------------------------------------------------------------------------
+A300-57A0234.............................  * 04.........................  May 19, 2000.
+A300-57A0234.............................  * 05.........................  February 19, 2002.
+A300-57A0246.............................  Original *...................  May 20, 2005.
+A300-57A6087.............................  * 03.........................  May 19, 2000.
+A300-57A6087.............................  * 04.........................  February 19, 2002.
+A300-57A6101.............................  Original *...................  May 20, 2005.
+A300-57-0235.............................   03..........................  September 5, 2002.
+A300-57-0235.............................   04..........................  March 13, 2003.
+
+[[Page 34000]]
+
+ 
+A300-57-0235.............................   05..........................  December 3, 2003.
+A300-57-6088.............................   02..........................  September 5, 2002.
+A300-57-6088.............................   04..........................  December 3, 2003.
+----------------------------------------------------------------------------------------------------------------
+* Including Appendix 01.
+
+    (2) On April 12, 2000 (65 FR 12077, March 8, 2000), the Director 
+of the Federal Register approved the incorporation by reference of 
+the documents listed in Table 9 of this AD.
+
+         Table 9.--Material Previously Incorporated by Reference
+------------------------------------------------------------------------
+   Airbus Service Bulletin    Revision level             Date
+------------------------------------------------------------------------
+A300-57A0234................              02  June 24, 1999.
+A300-57A0234................            * 03  September 2, 1999.
+A300-57A6087................            * 02  June 24, 1999.
+------------------------------------------------------------------------
+* Including Appendix 01.
+
+    (3) On October 20, 1999 (64 FR 49966, September 15, 1999), the 
+Director of the Federal Register approved the incorporation by 
+reference of the documents listed in Table 10 of this AD.
+
+        Table 10.--Material Previously Incorporated by Reference
+------------------------------------------------------------------------
+   Airbus Service Bulletin    Revision level             Date
+------------------------------------------------------------------------
+A300-57-0234................              01  March 11, 1998.
+A300-57-0235................            * 01  February 1, 1999.
+A300-57-6087................              01  March 11, 1998.
+A300-57-6088................            * 01  February 1, 1999.
+------------------------------------------------------------------------
+* Including Appendix 01.
+
+    (4) Contact Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France, for a copy of this service information. You may 
+review copies at the Docket Management Facility, U.S. Department of 
+Transportation, 400 Seventh Street, SW., Room PL-401, Nassif 
+Building, Washington, DC; on the Internet at <a href="http://dms.dot.gov">http://dms.dot.gov</a>; or 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at the NARA, call 
+(202) 741-6030, or go to <a href="http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on May 31, 2006.
+Kalene C. Yanamura,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 06-5244 Filed 6-12-06; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

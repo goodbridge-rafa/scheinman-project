@@ -1,0 +1,7 @@
+{
+  "comment": "Vault inventory facts that need a PDF reader to measure. Measured, never assumed; re-measure with the command below and update measured_on in the same commit. The AD record count is NOT stored here: the panel builder counts data/raw/ads/*.txt live.",
+  "measured_on": "2026-08-31",
+  "how": "uv run --with pymupdf python -c \"import pymupdf; print(pymupdf.open('data/raw/MIL-HDBK-5J.pdf').page_count, pymupdf.open('data/raw/AC_43.13-1B_w-chg1.pdf').page_count)\"",
+  "handbook_pages": 1733,
+  "ac_pages": 646
+}

@@ -1,0 +1,46 @@
+{
+  "source": "data/raw/MIL-HDBK-5J.pdf",
+  "pages": [566],
+  "fields": [
+    {
+      "field_id": "spec_6061_sheet",
+      "question": "On PDF page 566, Table 3.6.2.0(b1) header: the specification(s) listed for 6061 aluminum alloy sheet. Report exactly as printed.",
+      "expected_unit": "text"
+    },
+    {
+      "field_id": "t6_range_with_AB_in",
+      "question": "On PDF page 566, Table 3.6.2.0(b1): the FIRST (leftmost) thickness range column, in inches, under temper T6 (or T6 and T62) whose Basis row prints A and B (not S). Report the range exactly as printed.",
+      "expected_unit": "in"
+    },
+    {
+      "field_id": "t6_ftu_LT_A_ksi",
+      "question": "On PDF page 566, Table 3.6.2.0(b1): Ftu, LT direction, A basis, for T6 sheet in that same column. Number as printed.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t6_fty_LT_A_ksi",
+      "question": "On PDF page 566, Table 3.6.2.0(b1): Fty, LT direction, A basis, for T6 sheet in that same column. Number as printed.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t6_fbru_2p0_A_ksi",
+      "question": "On PDF page 566, Table 3.6.2.0(b1): Fbru for e/D = 2.0, A basis, for T6 sheet in that same column. Number as printed. If no A/B split is printed for Fbru, report the single printed value.",
+      "expected_unit": "ksi"
+    },
+    {
+      "field_id": "t6_e_modulus_ksi",
+      "question": "On PDF page 566, Table 3.6.2.0(b1): the tension modulus of elasticity E, in 10^3 ksi, from the physical-properties block. Number as printed.",
+      "expected_unit": "10^3 ksi"
+    },
+    {
+      "field_id": "t6_elongation_pct",
+      "question": "On PDF page 566, Table 3.6.2.0(b1): the elongation (e, percent) value printed for T6 sheet in that same column, LT direction if directions are printed. Number as printed.",
+      "expected_unit": "percent"
+    },
+    {
+      "field_id": "density_lb_in3",
+      "question": "On PDF page 566, Table 3.6.2.0(b1): the density (omega, lb/in.3) printed in the physical-properties block. Number as printed.",
+      "expected_unit": "lb/in^3"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SCHEINMAN</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="$FONTS">
+<style>
+$TOKENS
+
+*, *::before, *::after { box-sizing: border-box; }
+:focus-visible { outline: 2px solid var(--line); outline-offset: 3px; }
+[hidden] { display: none !important; }
+
+  html, body { height: 100%; }
+  body {
+    margin: 0; color: var(--ink);
+    background:
+      repeating-linear-gradient(to right, var(--grid-line) 0 1px, transparent 1px 32px),
+      repeating-linear-gradient(to bottom, var(--grid-line) 0 1px, transparent 1px 32px),
+      var(--void);
+    font-family: var(--body); font-size: 15px; line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    display: flex; align-items: center; justify-content: center; padding: var(--s5);
+  }
+
+  /* One slab of the section drawing, stood on end: the same object the site is
+     made of, before anyone is allowed to look inside it. */
+  .slab {
+    width: min(430px, 100%); position: relative;
+    background: var(--surface); border: 1px solid var(--hairline-2);
+    padding: clamp(28px, 6vw, 44px) clamp(20px, 5vw, 36px);
+  }
+  .slab::before {
+    content: ""; position: absolute; inset: 0 0 auto 0; height: 2px; background: var(--line);
+  }
+  .mark { display: flex; align-items: baseline; gap: var(--s3); }
+  .mark b {
+    font-family: var(--display); font-weight: 600; font-size: clamp(26px, 6vw, 34px);
+    letter-spacing: -0.015em; line-height: 1;
+  }
+  .role {
+    font-family: var(--data); font-size: 11px; letter-spacing: 0.22em;
+    text-transform: uppercase; color: var(--line); margin: 0;
+  }
+  form { margin: var(--s6) 0 0; display: flex; flex-direction: column; gap: var(--s3); }
+  label[for="password"] {
+    font-family: var(--data); font-size: 11px; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--ink-2);
+  }
+  input[type="password"], input[type="text"] {
+    min-height: 50px; padding: 0 var(--s4); width: 100%;
+    border: 1px solid var(--hairline-2); background: var(--sunken); color: var(--ink);
+    font-family: var(--data); font-size: 15px; letter-spacing: 0.1em;
+  }
+  input[type="password"]:focus, input[type="text"]:focus { border-color: var(--line); }
+  .show {
+    display: flex; gap: var(--s2); align-items: center;
+    font-size: 13px; color: var(--muted); cursor: pointer;
+  }
+  .show input { width: auto; margin: 0; accent-color: var(--line); }
+  button {
+    min-height: 50px; padding: 0 var(--s5); cursor: pointer;
+    background: var(--line); color: var(--void); border: 0;
+    font-family: var(--body); font-weight: 600; font-size: 14.5px;
+  }
+  button:hover:not(:disabled) { background: var(--ink); }
+  button:disabled { opacity: 0.45; cursor: not-allowed; }
+  .error {
+    border-left: 2px solid var(--stop); background: var(--stop-soft); color: var(--ink);
+    padding: var(--s3) var(--s4); font-size: 13.5px;
+  }
+  .foot {
+    margin: var(--s6) 0 0; padding-top: var(--s3); border-top: 1px solid var(--hairline);
+    font-family: var(--data); font-size: 11px; letter-spacing: 0.04em;
+    color: var(--muted); display: flex; justify-content: space-between; gap: var(--s2);
+    flex-wrap: wrap;
+  }</style>
+</head>
+<body>
+  <main class="slab">
+    <div class="mark">
+      <b>Scheinman</b>
+      <p class="role">Sign in</p>
+    </div>
+    <form id="gate">
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" autocomplete="current-password"
+             autocapitalize="off" autocorrect="off" spellcheck="false" autofocus>
+      <label class="show"><input type="checkbox" id="reveal"> Show password</label>
+      <div id="error" class="error" role="alert" hidden></div>
+      <button type="submit" id="enter">Enter</button>
+    </form>
+
+    <div class="foot">
+      <span>Private &middot; not announced</span>
+      <span>$SITE_ADDRESS</span>
+    </div>
+  </main>
+
+<script>
+(function () {
+  'use strict';
+  var form = document.getElementById('gate');
+  var error = document.getElementById('error');
+  var button = document.getElementById('enter');
+  var field = document.getElementById('password');
+  document.getElementById('reveal').addEventListener('change', function (e) {
+    field.type = e.target.checked ? 'text' : 'password';
+  });
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    error.hidden = true;
+    button.disabled = true;
+    button.textContent = 'Checking...';
+    fetch('$BASE/api/gate', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ password: field.value.trim() }),
+    })
+      .then(function (r) { return r.json().then(function (d) { return { ok: r.ok, data: d }; }); })
+      .then(function (answer) {
+        if (answer.ok) { location.reload(); return; }
+        error.textContent = answer.data.error || 'That password does not open this site.';
+        error.hidden = false;
+        button.disabled = false;
+        button.textContent = 'Enter';
+        document.getElementById('password').select();
+      })
+      .catch(function () {
+        error.textContent = 'The connection dropped. Try again.';
+        error.hidden = false;
+        button.disabled = false;
+        button.textContent = 'Enter';
+      });
+  });
+})();
+</script>
+</body>
+</html>

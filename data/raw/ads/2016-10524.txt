@@ -1,0 +1,549 @@
+<html>
+<head>
+<title>Federal Register, Volume 81 Issue 89 (Monday, May 9, 2016)</title>
+</head>
+<body><pre>
+[Federal Register Volume 81, Number 89 (Monday, May 9, 2016)]
+[Rules and Regulations]
+[Pages 27989-27992]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-10524]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-0246; Directorate Identifier 2014-NM-187-AD; 
+Amendment 39-18511; AD 2016-09-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 737-300, -400, and -500 series airplanes. This 
+AD was prompted by reports of fatigue cracking found at the left-side 
+and right-side upper frames, at a certain area. This AD requires 
+repetitive medium frequency eddy current (MFEC) inspections for 
+cracking of the left-side and right-side upper frames, and repair 
+(including open hole high frequency eddy current (HFEC) inspections for 
+cracking of fastener holes) if necessary. This AD also provides an 
+optional preventive modification, which terminates the repetitive 
+inspections at the modified location. We are issuing this AD to detect 
+and correct fatigue cracking of the upper frame, which can grow in size 
+and result in a severed frame, leading to rapid decompression and 
+consequent reduced structural integrity of the airplane.
+
+DATES: This AD is effective June 13, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of June 13, 
+2016.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+0264.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+0246; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Galib Abumeri, Aerospace Engineer, 
+Airframe Branch, ANM-120L, FAA, Los Angeles Aircraft Certification 
+Office (ACO), 3960 Paramount Boulevard, Lakewood, California 90712-
+4137; phone: 562-627-5324; fax: 562-627-5210; email: 
+<a href="/cdn-cgi/l/email-protection#c2a5a3aeaba0eca3a0b7afa7b0ab82a4a3a3eca5adb4"><span class="__cf_email__" data-cfemail="f691979a9f94d89794839b93849fb6909797d8919980">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain The Boeing Company 
+Model 737-300, -400, and -500 series airplanes. The NPRM published in 
+the Federal Register on February 24, 2015 (80 FR 9667) (``the NPRM''). 
+The NPRM was prompted by reports of fatigue cracking found at the left-
+side and right-side upper frame, at a certain area. The NPRM proposed 
+to require repetitive MFEC inspections for cracking of the left-side 
+and right-side upper frames, and repair (including open hole HFEC 
+inspections for cracking of fastener holes) if necessary. The NPRM also 
+provided an optional preventative modification that would terminate the 
+repetitive inspections at the modified location. We are issuing this AD 
+to detect and correct fatigue cracking of the upper frame, which can 
+grow in size and result in a severed frame, leading to rapid 
+decompression and consequent reduced structural integrity of the 
+airplane.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Requests To Clarify Compliance Time
+
+    Europe Airpost and Boeing requested that we revise the NPRM to 
+clarify the ``Condition'' column of table 1 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1339, dated 
+August 12, 2014, which specifies airplanes with certain flight cycles 
+``on the original issue date of this service bulletin.'' The commenters 
+questioned whether the corresponding compliance time should be ``on the 
+effective date of the AD.''
+    For the reasons suggested by both commenters, we agree to add 
+paragraph (i)(3) to this AD to state that the corresponding reference 
+point is on the effective date of this AD, and we have included 
+reference to paragraph (i)(3) in all appropriate paragraphs in this AD.
+
+Request for Clarify Inspection Requirements
+
+    Boeing requested that we revise paragraph (g) of the proposed AD to 
+address the inspection requirements in areas of an existing repair to 
+eliminate cracking approved by a Boeing Organization Designation 
+Authorization (ODA) via FAA Form 8100-9. Boeing explained that this 
+condition is addressed in note (c) of table 1 of paragraph 1.E., 
+``Compliance,'' of Boeing
+
+[[Page 27990]]
+
+Alert Service Bulletin 737-53A1339, dated August 12, 2014, and that it 
+effectively terminates the initial and repetitive inspections required 
+by paragraph (g) of the proposed AD for previously installed frame 
+repairs approved by the Boeing ODA via FAA Form 8100-9. Boeing 
+requested that the proposed AD address the terminating action for this 
+repair condition.
+    We agree that clarification is necessary. Boeing ODA-approved 
+repairs installed prior to the effective date of this AD are acceptable 
+to terminate the initial and repetitive inspections in the area under 
+the repair. We have revised paragraph (g) of this AD accordingly, and 
+added a new paragraph (g)(1) in this AD.
+
+Request To Clarify Required for Compliance (RC) Requirements
+
+    Southwest Airlines requested that we clarify paragraph (l)(4) of 
+the proposed AD. Southwest Airlines explained that note 15 in paragraph 
+3.A., ``General Information,'' of Boeing Alert Service Bulletin 737-
+53A1339, dated August 12, 2014, states that steps in the Work 
+Instructions that are identified as RC must be accomplished once the 
+actions specified in Boeing Alert Service Bulletin 737-53A1339, dated 
+August 12, 2014, becomes mandated by an AD. Southwest Airlines stated 
+that note 15 also states that deviations to steps that are not 
+identified as RC do not require approval of an Alternative Method of 
+Compliance (AMOC). Southwest Airlines stated that paragraph (l)(4) of 
+the proposed AD specifies that any service information that is 
+identified as RC requires AMOC approval except as required by paragraph 
+(i)(1) of the proposed AD. Paragraph (k) of the proposed AD states that 
+the post-repair and post-modification inspections are not mandated by 
+the AD, so it is unclear whether the proposed AD would require the 
+operator to contact Boeing if there are crack findings during the post-
+repair and post-modification inspections, and whether or not the 
+resulting repairs are subject to the requirements of the AD.
+    We agree to provide clarification. Paragraph (k) of this AD states 
+that the post-repair and post-modification inspections specified in 
+tables 4 and 5 of paragraph 1.E., ``Compliance,'' of Boeing Alert 
+Service Bulletin 737-53A1339, dated August 12, 2014, are not required 
+by this AD (tables 4 and 5 correspond to Parts 6 and 7, respectively, 
+of the service information.). The RC steps in those parts are also not 
+required by this AD. Any cracking found--whether during accomplishment 
+of the actions required by an AD or during routine maintenance--is 
+required by 14 CFR 43.13(b) to be repaired before further flight. 
+However, for clarity, we have revised paragraph (i)(1) of this AD to 
+refer only to Part 3 and Part 4 of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 737-53A1339, dated August 12, 2014. In 
+addition, we have revised paragraph (l)(4) of this AD to refer to Part 
+2, Part 3, and Part 4 of the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 737-53A1339, dated August 12, 2014.
+
+Request To Address Repairs for Damage Other Than Cracking
+
+    Southwest Airlines stated that the NPRM does not specifically 
+address existing repairs that prevent accomplishment of the inspections 
+proposed in paragraph (g) of the proposed AD. Note (c) in table 1 of 
+paragraph 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 737-
+53A1339, dated August 12, 2014, specifies that an ODA-approved repair, 
+via FAA Form 8100-9, installed to eliminate previously found cracking, 
+eliminates the need for the repetitive inspections at the repaired 
+locations. Southwest requested that we revise the NPRM to apply this 
+provision to repairs for damage other than cracking. Southwest Airlines 
+also requested that we specifically state that any repair approved by 
+Boeing via an FAA 8100-9 combined with approval of an AMOC to paragraph 
+(h) of the proposed AD terminates both the initial and repetitive 
+inspections required by paragraph (g) of the proposed AD.
+    We agree to add clarification regarding initial and repetitive 
+inspections. To provide additional clarification in the rule we have 
+revised the wording in paragraphs (g) and (h) of this AD. Also, we 
+agree to revise the NPRM to include in this final rule, the provision 
+for repairs for cracking in paragraph (g)(1) of this AD, and the 
+provision for repairs that were installed for damage other than 
+cracking that have been re-evaluated and approved by the Boeing ODA 
+with an FAA Form 8100-9 combined with an AMOC statement, in paragraph 
+(g)(2) of this AD.
+
+Effect of Winglets on the Accomplishment of the Proposed Actions
+
+    Aviation Partners Boeing stated that accomplishing Supplemental 
+Type Certificate (STC) ST01219SE (http://rgl.faa.gov/
+Regulatory_and_Guidance_Library/rgstc.nsf/0/
+ebd1cec7b301293e86257cb30045557a/$FILE/ST01219SE.pdf) does not affect 
+the actions specified in the NPRM.
+    We concur with the commenter. We have redesignated paragraph (c) of 
+the proposed AD as paragraph (c)(1) in this AD, and have added new 
+paragraph (c)(2) to this AD to state that installation of STC ST01219SE 
+does not affect the ability to accomplish the actions required by this 
+final rule. Therefore, for airplanes on which STC ST01219SE is 
+installed, a ``change in product'' AMOC approval request is not 
+necessary to comply with the requirements of 14 CFR 39.17.
+
+Change to Paragraph (k) of This AD
+
+    We have revised paragraph (k) of this AD to clarify that the post-
+modification inspections are airworthiness limitations that are 
+required by maintenance and operational rules; therefore, these 
+inspections are not required by this AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Boeing has issued Boeing Alert Service Bulletin 737-53A1339, dated 
+August 12, 2014. The service information describes procedures for 
+repetitive MFEC inspections for cracking, repair the cracking including 
+doing an open hole HFEC inspections for cracking of the holes, and an 
+optional modification of an inspection area including open hole and 
+surface HFEC inspections for cracking of the area to be modified. This 
+service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 109 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+[[Page 27991]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                     Labor cost          Parts cost     Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspections....................  14 work-hours x $85 per              $0  $1,190 per          $129,710 per
+                                  hour = $1,190 per                        inspection cycle.   inspection cycle.
+                                  inspection cycle.
+Preventive modification          15 work-hours x $85 per               0  $1,275............  $138,975.
+ (optional).                      hour = $1,275.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary on-condition 
+actions that would be required based on the results of the inspection. 
+We have no way of determining the number of aircraft that might need 
+these actions:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                 Action                                Labor cost                  Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Repair and open hole HFEC inspection....  36 work-hours x $85 per hour =                    $0           $3,060
+                                           $3,060.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-09-13 The Boeing Company: Amendment 39-18511; Docket No. FAA-
+2015-0246; Directorate Identifier 2014-NM-187-AD.
+
+(a) Effective Date
+
+    This AD is effective June 13, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    (1) This AD applies to The Boeing Company Model 737-300, -400, 
+and -500 series airplanes, certificated in any category, as 
+identified in Boeing Alert Service Bulletin 737-53A1339, dated 
+August 12, 2014.
+    (2) Installation of Supplemental Type Certificate (STC) 
+ST01219SE (http://rgl.faa.gov/Regulatory_and_Guidance_Library/
+rgstc.nsf/0/ebd1cec7b301293e86257cb30045557a/$FILE/ST01219SE.pdf) 
+does not affect the ability to accomplish the actions required by 
+this AD. Therefore, for airplanes on which STC ST01219SE is 
+installed, a ``change in product'' alternative method of compliance 
+(AMOC) approval request is not necessary to comply with the 
+requirements of 14 CFR 39.17.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53: Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fatigue cracking found at the 
+left-side and right-side upper frames, at station 360 between 
+stringer 13 and stringer 14. We are issuing this AD to detect and 
+correct fatigue cracking of the upper frame, which can grow in size 
+and result in a severed frame, leading to rapid decompression and 
+consequent reduced structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Inspections for Cracking
+
+    Except as required by paragraphs (i)(2) and (i)(3) of this AD: 
+At the applicable times specified in table 1 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1339, dated 
+August 12, 2014, do a medium frequency eddy current (MFEC) 
+inspection for cracking on the left-side and right-side of the upper 
+frame at station 360 between stringer 13 and stringer 14, in 
+accordance with Part 2 of the Accomplishment Instructions of Boeing 
+Alert Service Bulletin 737-53A1339, dated August 12, 2014. If no 
+cracking is found, repeat the inspections at the applicable times 
+specified in table 1 of paragraph 1.E., ``Compliance,'' of Boeing 
+Alert Service Bulletin 737-53A1339, dated August 12, 2014. 
+Accomplishment of the actions specified in paragraph (j) of this AD 
+terminates the repetitive inspections required by this paragraph at 
+the modified area only. The initial and repetitive inspections 
+required by this paragraph may be terminated in the area under 
+repairs installed prior to the effective date of this AD, provided 
+they meet the requirements of paragraph (g)(1) or (g)(2) of this AD.
+    (1) Repairs were installed to eliminate previously found 
+cracking and were
+
+[[Page 27992]]
+
+approved by the Boeing Organization Designation Authorization (ODA) 
+with an FAA Form 8100-9.
+    (2) Repairs were installed for damage other than cracking that 
+have been re-evaluated and approved by the Boeing ODA with an FAA 
+Form 8100-9 that includes an alternative method of compliance (AMOC) 
+statement to paragraph (h) of this AD.
+
+(h) Repair
+
+    If any cracking is found during any inspection required by 
+paragraph (g) of this AD: Before further flight, repair the cracking 
+including doing an open hole high frequency eddy current (HFEC) 
+inspection for cracking of the holes, in accordance with Part 3 of 
+the Accomplishment Instructions of Boeing Alert Service Bulletin 
+737-53A1339, dated August 12, 2014, except as required by paragraph 
+(i)(1) of this AD. Repair of any crack terminates the initial and 
+repetitive inspection requirements of paragraph (g) of this AD for 
+the repaired area only. If any cracking is found during any 
+inspection required by this paragraph, before further flight, repair 
+using a method approved in accordance with the procedures specified 
+in paragraph (l) of this AD.
+
+(i) Exceptions to Service Information Specifications
+
+    (1) Where Part 3 and Part 4 of the Accomplishment Instructions 
+of Boeing Alert Service Bulletin 737-53A1339, dated August 12, 2014, 
+specifies contacting Boeing for repair instructions: Before further 
+flight, repair using a method approved in accordance with the 
+procedures specified in paragraph (l) of this AD.
+    (2) Where Boeing Alert Service Bulletin 737-53A1339, dated 
+August 12, 2014, specifies a compliance time ``after the original 
+issue date of this service bulletin,'' this AD requires compliance 
+within the specified time after the effective date of this AD.
+    (3) Where the Condition column of table 1 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 737-53A1339, dated 
+August 12, 2014, specifies a reference point ``on the original issue 
+date of this service bulletin,'' for this AD the corresponding 
+reference point is on the effective date of this AD.
+
+(j) Optional Preventive Modification
+
+    Modification of an inspection area specified in paragraph (g) of 
+this AD, including open hole and surface HFEC inspections for 
+cracking of the area to be modified, in accordance with Part 4 of 
+the Accomplishment Instructions of Boeing Alert Service Bulletin 
+737-53A1339, dated August 12, 2014, except as required by paragraph 
+(i)(1) of this AD, terminates the repetitive inspections required by 
+paragraph (g) of this AD at the modified location only.
+
+(k) Post-Repair and Post-Modification Inspections
+
+    Tables 4 and 5 of paragraph 1.E., ``Compliance,'' of Boeing 
+Alert Service Bulletin 737-53A1339, dated August 12, 2014, specify 
+post-modification airworthiness limitation inspections in compliance 
+to 14 CFR 25.571(a)(3) at the modified locations, which support 
+compliance with 14 CFR 121.1109(c)(2) or 129.109(b)(2). As 
+airworthiness limitations, these inspections are required by 
+maintenance and operational rules. It is therefore unnecessary to 
+mandate them in this AD. Deviations from these inspections require 
+FAA approval, but do not require an alternative method of 
+compliance.
+
+(l) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Los Angeles Aircraft Certification Office 
+(ACO), FAA, has the authority to approve AMOCs for this AD, if 
+requested using the procedures found in 14 CFR 39.19. In accordance 
+with 14 CFR 39.19, send your request to your principal inspector or 
+local Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (m) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#744d59353a3959383535373b5935393b37592631252131272027341215155a131b02"><span class="__cf_email__" data-cfemail="97aebad6d9dabadbd6d6d4d8bad6dad8d4bac5d2c6c2d2c4c3c4d7f1f6f6b9f0f8e1">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by Boeing 
+Commercial Airplanes ODA that has been authorized by the Manager, 
+Los Angeles ACO, to make those findings. For a repair method to be 
+approved, the repair must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+    (4) Except as required by paragraph (i)(1) of this AD: Where 
+Part 2, Part 3, and Part 4 of the Accomplishment Instructions of 
+Boeing Alert Service Bulletin 737-53A1339, dated August 12, 2014, 
+contains steps that are labeled as RC, the provisions of paragraphs 
+(l)(4)(i) and (l)(4)(ii) of this AD apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. An AMOC is required for any deviations to RC steps, 
+including substeps and identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(m) Related Information
+
+    For more information about this AD, contact Galib Abumeri, 
+Aerospace Engineer, Airframe Branch, ANM-120L, FAA, Los Angeles 
+Aircraft Certification Office (ACO), 3960 Paramount Boulevard, 
+Lakewood, California 90712-4137; phone: 562-627-5324; fax: 562-627-
+5210; email: <a href="/cdn-cgi/l/email-protection#b3d4d2dfdad19dd2d1c6ded6c1daf3d5d2d29dd4dcc5"><span class="__cf_email__" data-cfemail="fa9d9b969398d49b988f979f8893ba9c9b9bd49d958c">[email&#160;protected]</span></a>.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Service Bulletin 737-53A1339, dated August 12, 
+2014.
+    (ii) Reserved.
+    (3) For Boeing service information identified in this AD, 
+contact Boeing Commercial Airplanes, Attention: Data & Services 
+Management, P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; 
+telephone 206-544-5000, extension 1; fax 206-766-5680; Internet 
+<a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on April 28, 2016.
+Dionne Palermo,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-10524 Filed 5-6-16; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

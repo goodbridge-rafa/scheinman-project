@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SCHEINMAN &middot; Overview</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="$FONTS">
+<style>
+$WORLD
+  .hero { display: grid; gap: var(--s5); max-width: 74ch; margin-bottom: var(--s8); }
+  .hero .acts { display: flex; gap: var(--s3); flex-wrap: wrap; }
+  .source-strip {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: var(--s5); margin-top: var(--s5);
+  }
+  .source-strip div { border-top: 1px solid var(--hairline-2); padding-top: var(--s3); }
+  .source-strip .v {
+    font-family: var(--display); font-weight: 700; font-stretch: 108%; font-size: 26px;
+    font-variant-numeric: tabular-nums; display: block; line-height: 1.2;
+  }
+  .source-strip p { font-size: 13.5px; color: var(--muted); line-height: 1.45; margin-top: 2px; }
+  .wrong-address { margin-bottom: var(--s5); }
+</style>
+</head>
+<body>
+<div class="frame">
+$RAIL
+  <div class="column">
+$TOPBAR
+    <main>
+      <div class="wrap">
+
+        <div id="wrong-address" class="banner is-live wrong-address" role="alert" hidden></div>
+
+        <section class="hero">
+          <h1>Every limit this machine applies is a sentence in a public record.</h1>
+          <p class="lead">Send a plate. The machine measures the real geometry, judges it against
+            rules that quote a public engineering record, corrects what fails, and measures the
+            corrected file again to prove the fix. No step of that is a model's opinion.</p>
+          <p class="note">$SCOPE</p>
+          <div class="acts">
+            <a class="btn" href="$BASE/inspect">Inspect a part</a>
+            <a class="btn-ghost" href="$BASE/evidence">Where the rules come from</a>
+          </div>
+        </section>
+
+        <section aria-labelledby="stack-h">
+          <div class="dim">
+            <h2 id="stack-h">What happens to a part</h2>
+            <span class="rule"></span>
+            <span class="label count">Four layers &middot; one object</span>
+          </div>
+          <div class="section-view">
+            <figure style="margin: 0;">
+$STACK
+            </figure>
+            <ol class="layers">
+$LAYERS
+            </ol>
+          </div>
+          <p class="note" style="margin-top: var(--s4);">$FIGNOTE</p>
+        </section>
+
+        <section aria-labelledby="live-h" style="margin-top: var(--s8);">
+          <div class="dim">
+            <h2 id="live-h">What has run so far</h2>
+            <span class="rule"></span>
+            <span class="label count">Live, from the archive</span>
+          </div>
+          <div class="readout">
+            <div><span class="label">Parts run</span><span class="v num" id="s-total">&hellip;</span></div>
+            <div><span class="label">Corrected and proven</span><span class="v num" id="s-corrected">&hellip;</span></div>
+            <div><span class="label">Last part</span><span class="v sm" id="s-last">&hellip;</span></div>
+            <div><span class="label">Queue</span><span class="v sm" id="s-engine">Checking</span></div>
+          </div>
+        </section>
+
+        <section aria-labelledby="ev-h" style="margin-top: var(--s8);">
+          <div class="dim">
+            <h2 id="ev-h">What the vault holds</h2>
+            <span class="rule"></span>
+            <span class="label count">Counted from the vault</span>
+          </div>
+          <div class="source-strip">
+            <div>
+              <span class="v">$AD_COUNT</span>
+              <p>official failure records in the vault, plus a $HANDBOOK_PAGES-page military
+                handbook</p>
+            </div>
+            <div>
+              <span class="v">$FACTS_TOTAL</span>
+              <p>facts extracted from them, each anchored to the sentence it came from</p>
+            </div>
+            <div>
+              <span class="v">$EXCERPTS_FOUND / $EXCERPTS_CHECKED</span>
+              <p>quoted excerpts found word for word in the stored record, measured not claimed</p>
+            </div>
+            <div>
+              <span class="v">$INVENTION_RATE%</span>
+              <p>invention rate on the human-adjudicated sample: $GOLD_RIGHT of $GOLD_TOTAL facts right</p>
+            </div>
+          </div>
+          <p class="note" style="margin-top: var(--s4);">Every number here is counted from the
+            stored sources when this page is built, never typed in.
+            <a href="$BASE/evidence">Read the whole case</a>.</p>
+        </section>
+
+      </div>
+    </main>
+$FOOT
+  </div>
+</div>
+$LOCK
+<script>
+(function () {
+  'use strict';
+  var $ = function (id) { return document.getElementById(id); };
+
+  // Hovering or focusing a layer in the legend lights the same slab in the
+  // drawing. Without this the page is still complete: the legend says
+  // everything the drawing says.
+  var slabs = {};
+  Array.prototype.forEach.call(document.querySelectorAll('.slabs .layer'), function (g) {
+    slabs[g.getAttribute('data-step')] = g;
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('ol.layers li'), function (li) {
+    var slab = slabs[li.getAttribute('data-step')];
+    if (!slab) return;
+    var on = function () { slab.classList.add('is-on'); };
+    var off = function () { slab.classList.remove('is-on'); };
+    li.addEventListener('mouseenter', on);
+    li.addEventListener('mouseleave', off);
+    li.addEventListener('focusin', on);
+    li.addEventListener('focusout', off);
+  });
+
+  if (location.pathname.replace(/\/$/, '') !== '$BASE') {
+    var box = $('wrong-address');
+    box.textContent = 'There is nothing at ' + location.pathname + '. Here is everything there is.';
+    box.hidden = false;
+  }
+
+  function unknown() {
+    $('s-engine').textContent = 'Unknown';
+    $('s-engine').title = 'The archive could not be read right now.';
+  }
+
+  fetch('$BASE/api/archive')
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (data) {
+      if (!data) { return unknown(); }
+      var jobs = data.jobs || [];
+      var corrected = jobs.filter(function (j) { return j.status === 'corrected'; });
+      $('s-total').textContent = String(jobs.length);
+      $('s-corrected').textContent = String(corrected.length);
+      if (jobs[0]) {
+        var cell = $('s-last');
+        cell.textContent = jobs[0].part_name;
+        cell.appendChild(document.createElement('br'));
+        var line = document.createElement('span');
+        line.className = 'label';
+        line.textContent = jobs[0].status + ' · ' + jobs[0].created_at.slice(0, 10);
+        cell.appendChild(line);
+      } else {
+        $('s-last').textContent = 'None yet';
+      }
+      var working = jobs.filter(function (j) { return j.status === 'queued' || j.status === 'running'; }).length;
+      $('s-engine').textContent = working ? working + ' running' : 'Idle';
+    })
+    .catch(unknown);
+})();
+</script>
+</body>
+</html>

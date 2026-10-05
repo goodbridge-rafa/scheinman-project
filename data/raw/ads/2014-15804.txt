@@ -1,0 +1,498 @@
+<html>
+<head>
+<title>Federal Register, Volume 79 Issue 135 (Tuesday, July 15, 2014)</title>
+</head>
+<body><pre>
+[Federal Register Volume 79, Number 135 (Tuesday, July 15, 2014)]
+[Rules and Regulations]
+[Pages 41111-41114]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2014-15804]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0980; Directorate Identifier 2013-NM-129-AD; 
+Amendment 39-17891; AD 2014-13-15]
+RIN 2120-AA64
+
+
+Airworthiness Directives; EADS CASA (Type Certificate Previously 
+Held by Construcciones Aeronauticas, S.A.) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+EADS CASA (Type Certificate Previously Held by Construcciones 
+Aeronauticas, S.A.) Model CN-235-300 airplanes. This AD was prompted by 
+reports of reduced thickness of the center fuselage lower skin panel. 
+This AD requires a detailed inspection to determine the presence of 
+panel thickness reduction; and repetitive nondestructive testing (NDT) 
+inspections and repair if necessary. We are issuing this AD to detect 
+and correct reduced thickness of lower panel joints, which could result 
+in reduced fatigue and damage tolerant characteristics of the lower 
+panel joint to the adjacent side panels and failure of the center 
+fuselage lower skin panel, resulting in loss of control of the 
+airplane.
+
+DATES: This AD becomes effective August 19, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of August 19, 
+2014.
+
+ADDRESSES: You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;D=FAA-2013-0980; or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact EADS-CASA, 
+Military Transport Aircraft Division (MTAD), Integrated Customer 
+Services (ICS), Technical Services, Avenida de Arag[oacute]n 404, 28022 
+Madrid, Spain; telephone +34 91 585 55 84; fax +34 91 585 55 05; email 
+<a href="/cdn-cgi/l/email-protection#87cad3c6a9d3e2e4efe9eee4e6ebd4e2f5f1eee4e2c7e4e6f4e6a9e2e6e3f4a9e9e2f3"><span class="__cf_email__" data-cfemail="743920355a2011171c1a1d171518271106021d171134171507155a111510075a1a1100">[email&#160;protected]</span></a>; Internet <a href="http://www.eads.net">http://www.eads.net</a>. You 
+may view this referenced service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For information 
+on the availability of this material at the FAA, call 425-227-1221.
+
+FOR FURTHER INFORMATION CONTACT: Shahram Daneshmandi, Aerospace 
+Engineer, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA, 1601 Lind Avenue SW., Renton, Washington 98057-3356; 
+telephone 425-227-1112; fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain EADS CASA (Type 
+Certificate Previously Held by Construcciones Aeronauticas, S.A.) Model 
+CN-235-300 airplanes. The NPRM published in the Federal Register on 
+December 9, 2013 (78 FR 73742).
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+Airworthiness Directive 2013-0131, dated June 25, 2013 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for the specified 
+products. The MCAI states:
+
+
+[[Page 41112]]
+
+
+    During delivery of a spare centre fuselage lower skin panel to a 
+CN-235 aeroplane operator, a reduced thickness of the spare panel 
+was identified. The affected panel is used as the lower part of the 
+fuselage between Frame (FR) FR13 and FR21, and from Stringer (STR) 
+24 left hand (LH) side to STR24 right hand (RH) side. Several CN-235 
+aeroplanes could have been delivered with a reduced thickness panel.
+    This condition, if not detected and corrected, could result in 
+reduced fatigue and damage tolerant characteristics of the lower 
+panel joint to the adjacent side panels and lead to failure of the 
+part.
+    To address this potentially unsafe condition, EADS-CASA issued 
+All Operator Letter (AOL) 235-024 to provide instructions to 
+determine correct centre fuselage lower panel configuration by 
+accomplishing a detailed visual inspection (DVI) of affected 
+fuselage area [for any cracking].
+    For the reason described above, this [EASA] AD requires a one-
+time inspection of the affected panel thickness at STR24 LH and 
+STR24 RH. In case a nonconforming panel is found to be installed, 
+this [EASA] AD requires repetitive Non Destructive Testing (NDT) 
+inspections and, depending on findings, the accomplishment of 
+applicable corrective action(s).
+
+    You may examine the MCAI in the AD docket on the Internet at <a href="http://www.regulations.gov/#!documentDetail">http://www.regulations.gov/#!documentDetail</a>;D=FAA-2013-0980-0003.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We received no comments on the NPRM (78 FR 73742, December 9, 
+2013) or on the determination of the cost to the public.
+
+``Contacting the Manufacturer'' Paragraph in This AD
+
+    Since late 2006, we have included a standard paragraph titled 
+``Airworthy Product'' in all MCAI ADs in which the FAA develops an AD 
+based on a foreign authority's AD.
+    The MCAI or referenced service information in an FAA AD often 
+directs the owner/operator to contact the manufacturer for corrective 
+actions, such as a repair. Briefly, the Airworthy Product paragraph 
+allowed owners/operators to use corrective actions provided by the 
+manufacturer if those actions were FAA-approved. In addition, the 
+paragraph stated that any actions approved by the State of Design 
+Authority (or its delegated agent) are considered to be FAA-approved.
+    In the NPRM (78 FR 73742, December 9, 2013), we proposed to prevent 
+the use of repairs that were not specifically developed to correct the 
+unsafe condition, by requiring that the repair approval provided by the 
+State of Design Authority or its delegated agent specifically refer to 
+this FAA AD. This change was intended to clarify the method of 
+compliance and to provide operators with better visibility of repairs 
+that are specifically developed and approved to correct the unsafe 
+condition. In addition, we proposed to change the phrase ``its 
+delegated agent'' to include a design approval holder (DAH) with State 
+of Design Authority design organization approval (DOA), as applicable, 
+to refer to a DAH authorized to approve required repairs for the 
+proposed AD.
+    No comments were provided to the NPRM (78 FR 73742, December 9, 
+2013) about these proposed changes. However, a comment was provided for 
+another NPRM, Directorate Identifier 2012-NM-101-AD (78 FR 78285, 
+December 26, 2013). The commenter stated the following: ``The proposed 
+wording, being specific to repairs, eliminates the interpretation that 
+Airbus messages are acceptable for approving minor deviations 
+(corrective actions) needed during accomplishment of an AD mandated 
+Airbus service bulletin.''
+    This comment has made the FAA aware that some operators have 
+misunderstood or misinterpreted the Airworthy Product paragraph to 
+allow the owner/operator to use messages provided by the manufacturer 
+as approval of deviations during the accomplishment of an AD-mandated 
+action. The Airworthy Product paragraph does not approve messages or 
+other information provided by the manufacturer for deviations to the 
+requirements of the AD-mandated actions. The Airworthy Product 
+paragraph only addresses the requirement to contact the manufacturer 
+for corrective actions for the identified unsafe condition and does not 
+cover deviations from other AD requirements. However, deviations to AD-
+required actions are addressed in 14 CFR 39.17, and anyone may request 
+the approval for an alternative method of compliance to the AD-required 
+actions using the procedures found in 14 CFR 39.19.
+    To address this misunderstanding and misinterpretation of the 
+Airworthy Product paragraph, we have changed that paragraph and 
+retitled it ``Contacting the Manufacturer.'' This paragraph now 
+clarifies that for any requirement in this AD to obtain corrective 
+actions from a manufacturer, the action must be accomplished using a 
+method approved by the FAA, the European Aviation Safety Agency (EASA), 
+or Airbus's EASA DOA. Where necessary throughout this AD, we also 
+replaced any reference to approvals of corrective actions with a 
+reference to the Contacting the Manufacturer paragraph.
+    The Contacting the Manufacturer paragraph also clarifies that, if 
+approved by the DOA, the approval must include the DOA-authorized 
+signature. The DOA signature indicates that the data and information 
+contained in the document are EASA-approved, which is also FAA-
+approved. Messages and other information provided by the manufacturer 
+that do not contain the DOA-authorized signature approval are not EASA-
+approved, unless EASA directly approves the manufacturer's message or 
+other information.
+    This clarification does not remove flexibility previously afforded 
+by the Airworthy Product paragraph. Consistent with long-standing FAA 
+policy, such flexibility was never intended for required actions. This 
+is also consistent with the recommendation of the Airworthiness 
+Directive Implementation Aviation Rulemaking Committee to increase 
+flexibility in complying with ADs by identifying those actions in 
+manufacturers' service instructions that are ``Required for 
+Compliance'' with ADs. We continue to work with manufacturers to 
+implement this recommendation. But once we determine that an action is 
+required, any deviation from the requirement must be approved as an 
+alternative method of compliance.
+    Other commenters to the NPRM discussed previously, Directorate 
+Identifier 2012-NM-101-AD (78 FR 78285, December 26, 2013), pointed out 
+that in many cases the foreign manufacturer's service bulletin and the 
+foreign authority's MCAI might have been issued some time before the 
+FAA AD. Therefore, the DOA might have provided U.S. operators with an 
+approved repair, developed with full awareness of the unsafe condition, 
+before the FAA AD is issued. Under these circumstances, to comply with 
+the FAA AD, the operator would be required to go back to the 
+manufacturer's DOA and obtain a new approval document, adding time and 
+expense to the compliance process with no safety benefit.
+    Based on these comments, we removed the requirement that the DAH-
+provided repair specifically refer to this AD. Before adopting such a 
+requirement, the FAA will coordinate with affected DAHs and verify they 
+are prepared to implement means to ensure that their repair approvals 
+consider the unsafe condition addressed in this AD. Any such 
+requirements will be adopted through the normal AD rulemaking process, 
+including notice-and-comment procedures, when appropriate. We also have 
+decided not to include a generic
+
+[[Page 41113]]
+
+reference to either the ``delegated agent'' or ``DAH with State of 
+Design Authority design organization approval,'' but instead we have 
+provided the specific delegation approval granted by the State of 
+Design Authority for the DAH throughout this AD.
+
+Explanation of Additional Change Made to This AD
+
+    We have revised the manufacturer's name from EADS CASA to Airbus 
+Military for All Operator Letter (AOL) 235-024, dated March 1, 2013, 
+referenced in this AD. This change is necessary to adhere to the Office 
+of the Federal Register's requirements for materials incorporated by 
+reference.
+
+Conclusion
+
+    We reviewed the relevant data and determined that air safety and 
+the public interest require adopting this AD with the changes described 
+previously and minor editorial changes. We have determined that these 
+minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (78 FR 73742, December 9, 2013) for correcting the unsafe 
+condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 73742, December 9, 2013).
+
+We also determined that these changes will not increase the economic 
+burden on any operator or increase the scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 20 airplanes of U.S. registry.
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost         Parts cost     Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Detailed visual inspection.......  1 work-hour x $85     N/A..........  $85................  $1,700.
+                                    per hour = $85.
+NDT inspections..................  19 work-hours x $85   N/A..........  $1,615 per           $32,300 per
+                                    per hour = $1,615                    inspection cycle.    inspection cycle.
+                                    per inspection
+                                    cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that enabled us to provide cost 
+estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov/#!docketDetail">http://www.regulations.gov/#!docketDetail</a>;D=FAA-2013-0980; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2014-13-15 EADS CASA (Type Certificate Previously Held by 
+Construcciones Aeronauticas, S.A.): Amendment 39-17891. Docket No. 
+FAA-2013-0980; Directorate Identifier 2013-NM-129-AD.
+
+(a) Effective Date
+
+    This AD becomes effective August 19, 2014.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to EADS CASA (Type Certificate previously held 
+by Construcciones Aeronauticas, S.A.) Model CN-235-300 airplanes, 
+certificated in any category, manufacturer serial numbers (MSN) C-
+143 through C-208, inclusive.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by reports of reduced thickness of the 
+center fuselage lower skin panel. We are issuing this AD to detect 
+and correct a reduced thickness of lower panel joints, which could 
+result in reduced fatigue and damage tolerant characteristics of the 
+lower panel joint to the adjacent side panels and lead to failure of 
+the center fuselage lower skin panel, resulting in loss of control 
+of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Detailed Visual Inspection
+
+    For airplanes having MSNs C-143 through C-195 inclusive, C-201, 
+and C-202: At the
+
+[[Page 41114]]
+
+applicable time specified in paragraph (g)(1) or (g)(2) of this AD, 
+do a detailed inspection to determine the presence of panel 
+thickness reduction of the lower panel joint with the side panels at 
+stringer (STR) 24 left-hand and STR24 right-hand, in accordance with 
+Airbus Military All Operator Letter (AOL) 235-024, Revision 01, 
+dated March 1, 2013.
+    (1) For airplane versions CG01, CL04, ED01, GC01, MM01, and 
+SM01: Inspect at the later of the times specified in paragraphs 
+(g)(1)(i) and (g)(1)(ii) of this AD.
+    (i) Before the accumulation of 1,900 total flight cycles.
+    (ii) Within 10 flight cycles or 30 days after the effective date 
+of this AD, whichever occurs first.
+    (2) For any airplane version not identified in paragraph (g)(1) 
+of this AD: Inspect at the later of the times specified in 
+paragraphs (g)(2)(i) and (g)(2)(ii) of this AD.
+    (i) Before the accumulation of 3,800 total flight cycles.
+    (ii) Within 10 flight cycles or 30 days after the effective date 
+of this AD, whichever occurs first.
+
+(h) Repetitive Nondestructive Testing (NDT) Inspections
+
+    (1) For airplanes having MSNs C-196 through C-200 inclusive and 
+C-203 through C-208 inclusive, and for airplanes with a reduced 
+panel thickness identified during the inspection required by 
+paragraph (g) of this AD: At the applicable time specified in 
+paragraph (g)(1)(i) of this AD (for airplanes identified in 
+paragraph (g)(1) of this AD), or paragraph (g)(2)(i) of this AD (for 
+airplanes identified in paragraph (g)(2) of this AD), or within 50 
+flight cycles after the effective date of this AD, whichever occurs 
+later, do an NDT inspection for cracking, in accordance with Airbus 
+Military AOL 235-024, Revision 01, dated March 1, 2013. Repeat the 
+inspection thereafter at the applicable time specified in paragraph 
+(h)(1)(i) or (h)(1)(ii) of this AD.
+    (i) For airplane versions CG01, CL04, ED01, GC01, MM01, and 
+SM01: Inspect at intervals not to exceed 1,000 flight cycles.
+    (ii) For airplane versions other than those identified in 
+paragraph (h)(1)(i) of this AD: Inspect at intervals not to exceed 
+2,000 flight cycles.
+    (2) If any cracking is detected during the inspection required 
+by paragraph (h)(1) of this AD, before further flight, repair using 
+a method approved in accordance with the procedures specified in 
+paragraph (j)(2) of this AD.
+
+(i) Credit for Previous Actions
+
+    This paragraph provides credit for the inspections required by 
+paragraphs (g) and (h)(1) of this AD, if those actions were 
+performed before the effective date of this AD using Airbus Military 
+AOL 235-024, dated February 12, 2013.
+
+(j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Shahram 
+Daneshmandi, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+Washington 98057-3356; telephone 425-227-1112; fax 425-227-1149. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#93aabed2dddebea2a2a5bed2dedcd0bec1d6c2c6d6c0c7c0d3f5f2f2bdf4fce5"><span class="__cf_email__" data-cfemail="023b2f434c4f2f3333342f434f4d412f5047535747515651426463632c656d74">[email&#160;protected]</span></a>. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office. The AMOC approval letter must specifically reference this 
+AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or EADS CASA's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+
+(k) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2013-0131, dated June 25, 2013, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at <a href="http://www.regulations.gov/#!documentDetail">http://www.regulations.gov/#!documentDetail</a>;D=FAA-
+2013-0980-0003.
+    (2) Service information identified in this AD that is not 
+incorporated by reference may be viewed at the addresses specified 
+in paragraphs (l)(3) and (l)(4) of this AD.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Military All Operator Letter 235-024, Revision 01, 
+dated March 1, 2013.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact EADS-
+CASA, Military Transport Aircraft Division (MTAD), Integrated 
+Customer Services (ICS), Technical Services, Avenida de 
+Arag[oacute]n 404, 28022 Madrid, Spain; telephone +34 91 585 55 84; 
+fax +34 91 585 55 05; email <a href="/cdn-cgi/l/email-protection#86cbd2c7a8d2e3e5eee8efe5e7ead5e3f4f0efe5e3c6e5e7f5e7a8e3e7e2f5a8e8e3f2"><span class="__cf_email__" data-cfemail="f6bba2b7d8a293959e989f95979aa59384809f9593b695978597d893979285d8989382">[email&#160;protected]</span></a>; 
+Internet <a href="http://www.eads.net">http://www.eads.net</a>.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on June 25, 2014.
+Jeffrey E. Duven,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-15804 Filed 7-14-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

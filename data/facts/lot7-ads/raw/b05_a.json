@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "2024-25977": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of the failure of emergency locator transmitter (ELT) antennas, including an in-service failure that occurred before the repetitive replacement interval required by AD 2021-09-03, and by the development of a terminating action.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "detailed inspection for damage (including cracking) of the exterior fuselage skin around the ELT antenna attachment holes, and repair of any damage",
+     "value": "fuselage_skin"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "inspection of the exterior fuselage skin around the ELT antenna attachment holes for damage, repairing any damage found before further flight",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "could result in loss of the ELT antenna and the development of fuselage cracks that can result in an inability to maintain cabin pressure",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Repetitive replacements of the ELT antenna with a new ELT antenna and repetitive inspections for damage (including cracking) of the exterior fuselage skin around the ELT antenna attachment area, and ... A one-time replacement of the ELT antenna with a new aluminum ELT antenna, and detailed inspection for damage (including cracking) of the exterior fuselage skin around the ELT antenna attachment holes, and repair of any damage, which terminate the repetitive replacements and inspections.",
+     "value": "repetitive_inspection;one_time_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2021-09-03, Amendment 39-21516 (86 FR 20266, April 19, 2021); corrected April 27, 2021 (86 FR 22111) (AD 2021-09-03).",
+     "value": "AD 2021-09-03"
+    }
+   ]
+  },
+  "2025-03698": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "the upper stiffener of the central firewall, made of aluminum, in the engine compartment was found damaged",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "the upper stiffener of the central firewall, made of aluminum, in the engine compartment was found damaged ... Joint Aircraft System Component (JASC) Code 5412, Nacelle/Pylon, Bulkhead/Firewall.",
+     "value": "bulkhead"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD was prompted by an engine compartment fire where the upper stiffener of the central firewall, made of aluminum, in the engine compartment was found damaged.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "failure of a central firewall stiffener made of aluminum, possibly due to its inability to withstand high temperatures of an engine fire and subsequently not seal the engine compartment properly",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires replacing the aluminum central firewall stiffener with a titanium central firewall stiffener and prohibits installing an aluminum central firewall stiffener.",
+     "value": "replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2025-14390": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by a report of corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box",
+     "value": "aluminum alloy"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "a report of corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box caused by a humid environment inside the box",
+     "value": "stabilizer"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "corrosion of differing levels of severity was found on various aluminum alloy reinforcements in the HS central box of all the inspected airplanes ... do a detailed inspection of the HS central box for corrosion",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "corrosion on the various aluminum alloy reinforcements in the horizontal stabilizer (HS) central box caused by a humid environment inside the box from water ingress and/or condensation",
+     "value": "corrosion"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "Table 1 to Paragraph (g)(1)--HS Central Box One Time Inspection ... thereafter at intervals not to exceed 400 hours TIS or 12 months, whichever occurs first after the most recent inspection, repeat the inspection required by paragraph (g)(1) of this AD ... before further flight, replace the HS assembly or repair the HS assembly",
+     "value": "one_time_inspection;repetitive_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2023-25-03, Amendment 39-22630 (88 FR 90085, December 29, 2023).",
+     "value": "AD 2023-25-03"
+    }
+   ]
+  },
+  "2025-19555": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by multiple reports of cracks in the cylinder heads, which can cause engine coolant to leak into the combustion chamber.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "multiple reports of cracks in the cylinder heads, which can cause engine coolant to leak into the combustion chamber",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD was prompted by multiple reports of cracks in the cylinder heads, which can cause engine coolant to leak into the combustion chamber.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by multiple reports of cracks in the cylinder heads, which can cause engine coolant to leak into the combustion chamber. The root cause of this damage is unknown, and the investigation is ongoing.",
+     "value": "fracture_or_crack_unspecified"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires a one-time inspection of the engine coolant for contamination and, depending on the inspection results, replacement of the coolant and replacement of the cylinder heads.",
+     "value": "one_time_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2025-22320": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "several commenters stated the urethane paint will crack along with the aluminum if a crack appears and thus ensure that any cracks won't be concealed by the existing paint",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by reports of cracked main rotor swashplates (swashplates).",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "visually inspect with a flashlight all six arms of both the rotating and non-rotating swashplates for a crack, paying particular attention to each face of each clevis arm",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Guimbal concluded that the cracks were likely caused by aging and corrosion.",
+     "value": "corrosion"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitively inspecting certain swashplates for cracks and, depending on the results, removing and replacing each cracked swashplate.",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs\n\n    None.",
+     "value": "none"
+    }
+   ]
+  },
+  "E7-11287": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "the aluminium fitting attached to the engine gearbox holding lines and fittings of the propeller control system was found to be cracked",
+     "value": "aluminium"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "the aluminium fitting attached to the engine gearbox holding lines and fittings of the propeller control system was found to be cracked",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Investigation determined that the area is critical for cracks due to combination of mass, material and installation torque values.",
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Investigation determined that the area is critical for cracks due to combination of mass, material and installation torque values. Diamond Aircraft Industries incorporated with Design Change M[Auml]M 42-184 an additional bracket into production airplanes to improve the installations and prevent vibration cracks.",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "install the additional steel bracket following Diamond Aircraft Industries GmbH Mandatory Service Bulletin NO. MSB-42-024/3, dated September 19, 2006",
+     "value": "modification"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Affected ADs\n\n    (b) None.",
+     "value": "none"
+    }
+   ]
+  }
+ }
+}

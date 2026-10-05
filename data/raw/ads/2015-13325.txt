@@ -1,0 +1,614 @@
+<html>
+<head>
+<title>Federal Register, Volume 80 Issue 110 (Tuesday, June 9, 2015)</title>
+</head>
+<body><pre>
+[Federal Register Volume 80, Number 110 (Tuesday, June 9, 2015)]
+[Rules and Regulations]
+[Pages 32441-32445]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2015-13325]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2014-0227; Directorate Identifier 2013-NM-211-AD; 
+Amendment 39-18165; AD 2015-11-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Lockheed Martin Corporation/Lockheed 
+Martin Aeronautics Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 95-26-11 for 
+all Lockheed Martin Corporation/Lockheed Martin Aeronautics Company 
+Model L-1011 series airplanes. AD 95-26-11 required repetitive 
+inspections to detect cracking of the fittings that attach the aft 
+pressure bulkhead to the fuselage stringers, repetitive inspections to 
+detect cracking of the fittings and of the splice tab of the aft 
+pressure bulkhead, and corrective actions if necessary. This new AD 
+requires repetitive inspections to detect cracking of the fittings that 
+attach the aft pressure bulkhead to the fuselage stringers, repetitive 
+inspections to detect cracking of the fittings and of the splice tab of 
+the aft pressure bulkhead, repetitive inspections for cracking of
+
+[[Page 32442]]
+
+certain aft fuselage skin panels, a structural modification, a post-
+modification inspection program, and corrective actions if necessary. 
+This AD was prompted by a determination that the fittings at stringer 
+attachments to the upper region of the aft pressure bulkhead are 
+subject to widespread fatigue damage (WFD). We are issuing this AD to 
+prevent simultaneous failure of multiple stringer end fittings through 
+fatigue cracking at the aft pressure bulkhead, which could lead to 
+rapid decompression of the airplane.
+
+DATES: This AD is effective July 14, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of July 14, 
+2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+January 11, 1996 (60 FR 668702, December 27, 1995).
+
+ADDRESSES: For service information identified in this AD, contact 
+Lockheed Martin Corporation/Lockheed Martin Aeronautics Company, L1011 
+Technical Support Center, Dept. 6A4M, Zone 0579, 86 South Cobb Drive, 
+Marietta, GA 30063-0579; telephone 770-494-5444; fax 770-494-5445; 
+email <a href="/cdn-cgi/l/email-protection#84c8b5b4b5b5aaf7f1f4f4ebf6f0c4e8e9e7ebaae7ebe9"><span class="__cf_email__" data-cfemail="074b363736362974727777687573476b6a64682964686a">[email&#160;protected]</span></a>; Internet <a href="http://www.lockheedmartin.com/ams/tools/TechPubs.html">http://www.lockheedmartin.com/ams/tools/TechPubs.html</a>. You may view this referenced service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, WA. For information on the availability of this 
+material at the FAA, call 425-227-1221. It is also available on the 
+Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating 
+Docket No. FAA-2014-0227.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2014-
+0227; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Carl Gray, Aerospace Engineer, 
+Airframe Branch, ACE-117A, FAA, Atlanta Aircraft Certification Office 
+(ACO), 1701 Columbia Avenue, College Park, GA 30337; phone: 404-474-
+5554; fax: 404-474-5605; email: <a href="/cdn-cgi/l/email-protection#6c0f0d1e00421b420b1e0d152c0a0d0d420b031a"><span class="__cf_email__" data-cfemail="05666477692b722b6277647c456364642b626a73">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a supplemental notice of proposed rulemaking (SNPRM) to 
+amend 14 CFR part 39 to supersede AD 95-26-11, Amendment 39-9469 (60 FR 
+66870, December 27, 1995). AD 95-26-11 applied to all Lockheed Martin 
+Corporation/Lockheed Martin Aeronautics Company Model L-1011 series 
+airplanes. The SNPRM published in the Federal Register on November 17, 
+2014 (79 FR 68377). We preceded the SNPRM with a notice of proposed 
+rulemaking (NPRM) that published in the Federal Register on April 14, 
+2014 (79 FR 20819). The NPRM proposed to require repetitive inspections 
+to detect cracking of the fittings that attach the aft pressure 
+bulkhead to the fuselage stringers, repetitive inspections to detect 
+cracking of the fittings and of the splice tab of the aft pressure 
+bulkhead, repetitive inspections for cracking of certain aft fuselage 
+skin panels, a structural modification, a post-modification inspection 
+program, and corrective actions if necessary. The NPRM was prompted by 
+a determination that the fittings at stringer attachments to the upper 
+region of the aft pressure bulkhead are subject to WFD. The SNPRM 
+proposed to reduce the post-structural modification repetitive 
+inspection interval. We are issuing this AD to prevent simultaneous 
+failure of multiple stringer end fittings through fatigue cracking at 
+the aft pressure bulkhead, which could lead to rapid decompression of 
+the airplane.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We received no comments on the SNPRM (79 FR 68377, November 
+17, 2014) or on the determination of the cost to the public.
+
+Conclusion
+
+    We reviewed the relevant data and determined that air safety and 
+the public interest require adopting this AD as proposed except for 
+minor editorial changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+SNPRM (79 FR 68377, November 17, 2014) for correcting the unsafe 
+condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the SNPRM (79 FR 68377, November 17, 2014).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Lockheed Service Bulletin 093-53-105, Revision 3, dated 
+May 31, 2013. The service information describes procedures for 
+inspections for cracking of the stringer end fittings at the aft 
+pressure bulkhead, corrective actions, and a modification that includes 
+replacement of the stringer end fittings of certain stringers with new 
+fittings. This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section of this 
+AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 26 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                    Labor cost          Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspections [actions retained     23 work-hours x $85                 $0  $1,955 per          $50,830 per
+ from AD 95-26-11, Amendment 39-   per hour = $1,955                       inspection cycle.   inspection cycle.
+ 9469 (60 FR 66870, December 27,   per inspection
+ 1995)].                           cycle.
+Inspections and modification      185 work[dash]hours              6,750  $22,475...........  $584,350.
+ [new action].                     x $85 per hour =
+                                   $15,725.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 32443]]
+
+    We estimate the following costs to do any necessary replacements 
+that would be required based on the results of the inspections. We have 
+no way of determining the number of aircraft that might need these 
+replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                  Action                             Labor cost               Parts cost       Cost per product
+----------------------------------------------------------------------------------------------------------------
+Replacement of one fitting................  16 work-hour x $85 per hour                $250              $1,610
+                                             = $1,360.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the other on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+95-26-11, Amendment 39-9469 (60 FR 66870, December 27, 1995), and 
+adding the following new AD:
+
+2015-11-02 Lockheed Martin Corporation/Lockheed Martin Aeronautics 
+Company: Amendment 39-18165 ; Docket No. FAA-2014-0227; Directorate 
+Identifier 2013-NM-211-AD.
+
+(a) Effective Date
+
+    This AD is effective July 14, 2015.
+
+(b) Affected ADs
+
+    This AD replaces AD 95-26-11, Amendment 39-9469 (60 FR 66870, 
+December 27, 1995).
+
+(c) Applicability
+
+    This AD applies to all Lockheed Martin Corporation/Lockheed 
+Martin Aeronautics Company Model L-1011-385-1, L-1011-385-1-14, L-
+1011-385-1-15, and L-1011-385-3 airplanes, certificated in any 
+category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a determination that the fittings at 
+stringer attachments to the upper region of the aft pressure 
+bulkhead are subject to widespread fatigue damage (WFD). We are 
+issuing this AD to prevent simultaneous failure of multiple stringer 
+end fittings through fatigue cracking at the aft pressure bulkhead, 
+which could lead to rapid decompression of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Detailed Visual Inspection
+
+    This paragraph restates the requirements of paragraph (a) of AD 
+95-26-11, Amendment 39-9469 (60 FR 66870, December 27, 1995), with 
+no changes. Perform a detailed visual inspection to detect cracking 
+of the fittings that attach the aft pressure bulkhead to the 
+fuselage stringers (hereinafter referred to as ``fittings'') at 
+stringers 1 through 10 (right side) and at stringers 56 through 64 
+(left side), at the later of the times specified in either paragraph 
+(g)(1) or (g)(2) of this AD.
+    (1) Prior to the accumulation of 20,000 total flight cycles; or
+    (2) Within the next 25 flight cycles or 10 days after September 
+28, 1995 (the effective date of AD 95-18-52, Amendment 39-9366 (60 
+FR 47465, September 13, 1995)), whichever occurs earlier.
+
+(h) Retained Corrective Action for Cracked Fitting
+
+    This paragraph restates the requirements of paragraph (c) of AD 
+95-26-11, Amendment 39-9469 (60 FR 66870, December 27, 1995), with 
+no changes. If any cracked fitting is detected during the inspection 
+required by paragraph (g) of this AD: Before further flight, 
+accomplish the requirements of paragraphs (h)(1) and (h)(2) of this 
+AD.
+    (1) Replace the cracked fitting with a new fitting, or with a 
+serviceable fitting on which a detailed visual inspection has been 
+performed previously to detect cracking and that has been found to 
+be free of cracks.
+    (2) Perform a detailed visual inspection to detect cracking in 
+the radius at the lower end of the vertical leg of the bulkhead T-
+shaped frame between the stringer locations on either side of the 
+stringer having the cracked fitting. If any cracked T-shaped frame 
+is detected: Before further flight, repair in accordance with a 
+method approved by the Manager, Atlanta Aircraft Certification 
+Office (ACO), FAA.
+
+(i) Retained Repetitive Fitting Inspections
+
+    This paragraph restates the requirements of paragraph (d) of AD 
+95-26-11, Amendment 39-9469 (60 FR 66870, December 27, 1995), with 
+no changes. Repeat the inspections and other necessary actions 
+required by paragraphs (g) and (h) of this AD at intervals not to 
+exceed 1,800 flight cycles or 3,000 flight hours, whichever occurs 
+earlier, until paragraph (j) of this AD is accomplished.
+
+(j) Retained Eddy Current Surface Scan (ECSS) Inspections, and Related 
+Investigative and Corrective Actions
+
+    This paragraph restates the requirements of paragraph (e) of AD 
+95-26-11, Amendment 39-9469 (60 FR 66870, December 27, 1995), with 
+revised compliance times specified in paragraph (k) of this AD, 
+exclusion of an ECSS inspection for certain airplanes, and new 
+service information. Except as provided by paragraph (l) of this AD: 
+At the applicable time specified in paragraph (k)(1) of this AD, 
+accomplish the requirements of paragraphs
+
+[[Page 32444]]
+
+(j)(1) and (j)(2) of this AD. Repeat the ECSS inspections thereafter 
+at the compliance time specified in paragraph (k)(2) of this AD. 
+Accomplishment of the ECSS inspection constitutes terminating action 
+for the repetitive inspection requirements of paragraph (i) of this 
+AD.
+    (1) Perform an ECSS inspection to detect cracking of the 
+fittings at stringers 1 through 14 (right side) and at stringers 52 
+through 64 (left side), in accordance with the Accomplishment 
+Instructions of Lockheed L-1011 Service Bulletin 093-53-105, 
+Revision 1, dated November 17, 1995; or Lockheed Service Bulletin 
+093-53-105, Revision 3, dated May 31, 2013; except for airplanes 
+with a large (47-inch-wide) aft passenger door, an ECSS inspection 
+of stringers 12, 13, 53, and 54 is not required by this paragraph. 
+Except as provided by paragraph (m) of this AD, if any cracking is 
+detected, prior to further flight, replace the fitting with a new 
+fitting without pilot holes, rework the fitting, and perform various 
+follow-on actions (i.e., bolt hole eddy current (BHEC), ECSS, and 
+borescope inspections; and repair) of the inner and outer tee caps, 
+in accordance with the Accomplishment Instructions of Lockheed L-
+1011 Service Bulletin 093-53-105, Revision 1, dated November 17, 
+1995; or Lockheed Service Bulletin 093-53-105, Revision 3, dated May 
+31, 2013, except as required by paragraph (p) of this AD. As of the 
+effective date of this AD, use only Lockheed Service Bulletin 093-
+53-105, Revision 3, dated May 31, 2013, for accomplishing the 
+actions required by this paragraph.
+    (2) Perform an ECSS inspection to detect cracking of the lower 
+(or inner) surface of the upper bonded splice tab of the bulkhead 
+assembly at stringers 1 through 14 (right side) and at stringers 52 
+through 64 (left side), in accordance with the Accomplishment 
+Instructions of Lockheed L-1011 Service Bulletin 093-53-105, 
+Revision 1, dated November 17, 1995; or Lockheed Service Bulletin 
+093-53-105, Revision 3, dated May 31, 2013. As of the effective date 
+of this AD, use only Lockheed Service Bulletin 093-53-105, Revision 
+3, dated May 31, 2013, for accomplishing the actions required by 
+this paragraph.
+    (i) Except as provided by paragraph (m) of this AD, if any 
+cracking is detected at the upper bonded splice tab, repair in 
+accordance with a method approved by the Manager, Atlanta ACO, FAA.
+    (ii) Except as provided by paragraph (m) of this AD, if any 
+cracking is detected at a fastener, prior to further flight, perform 
+a BHEC inspection to detect cracking of the forward flange of the 
+inner tee cap, in accordance with the Accomplishment Instructions of 
+Lockheed L-1011 Service Bulletin 093-53-105, Revision 1, dated 
+November 17, 1995; or Lockheed Service Bulletin 093-53-105, Revision 
+3, dated May 31, 2013. If any cracking is detected, prior to further 
+flight, repair in accordance with the Accomplishment Instructions of 
+Lockheed L-1011 Service Bulletin 093-53-105, Revision 1, dated 
+November 17, 1995; or Lockheed Service Bulletin 093-53-105, Revision 
+3, dated May 31, 2013, except as required by paragraph (p) of this 
+AD. As of the effective date of this AD, use only Lockheed Service 
+Bulletin 093-53-105, Revision 3, dated May 31, 2013, for 
+accomplishing the actions required by this paragraph.
+
+(k) New Revised Compliance Times for Paragraph (j) of This AD
+
+    (1) Do the initial inspections required by paragraph (j) of this 
+AD at the earlier of the times specified in paragraphs (k)(1)(i) and 
+(k)(1)(ii) of this AD.
+    (i) Prior to the accumulation of 20,000 total flight cycles, or 
+within 30 days after January 11, 1996 (the effective date of date of 
+AD 95-26-11, Amendment 39-9469 (60 FR 66870, December 27, 1995)), 
+whichever occurs later.
+    (ii) At the later of the times specified in paragraphs 
+(k)(1)(ii)(A) and (k)(1)(ii)(B) of this AD.
+    (A) Before the accumulation of 13,875 total flight cycles.
+    (B) Within 365 days or 1,000 flight cycles after the effective 
+date of this AD, whichever occurs first.
+    (2) Repeat the inspections specified in paragraph (j) of this AD 
+within 2,500 flight cycles after accomplishing the most recent 
+inspection required by paragraph (j) of this AD, and repeat the 
+inspection thereafter at intervals not to exceed 1,750 flight 
+cycles.
+
+(l) Retained Inspection Deferral for Paragraph (j) of This AD
+
+    This paragraph restates the requirements of paragraph (f) of AD 
+95-26-11, Amendment 39-9469 (60 FR 66870, December 27, 1995). 
+Accomplishment of the initial ECSS inspections required by paragraph 
+(j) of this AD may be deferred to a date within 120 days after 
+January 11, 1996 (the effective date of date of AD 95-26-11), 
+provided that, in the interim, a visual inspection as specified in 
+paragraph (g) of this AD is accomplished within 30 days after 
+January 11, 1996 (the effective date of date of AD 95-26-11), and 
+repeated thereafter at intervals not to exceed 50 flight cycles. 
+Once the ECSS inspections begin, the visual inspections may be 
+terminated.
+
+(m) Retained Inspection Deferral With Revised Compliance Time and New 
+Deferral
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+95-26-11, Amendment 39-9469 (60 FR 66870, December 27, 1995), with a 
+revised compliance time, service information, and a new deferred 
+action. As of the effective date of this AD, the deferral specified 
+in paragraphs (m)(1) and (m)(2) of this AD cannot be done. If 
+cracking was found before the effective date of this AD, the 
+deferral specified in paragraphs (m)(1) and (m)(2) of this AD may be 
+done. (1) If two or more adjacent fittings on both sides of the 
+cracked fittings or bonded splice tabs/fasteners are determined to 
+be free of cracks by the ECSS inspection required by paragraphs 
+(j)(1) and (j)(2) of this AD, repeat the ECSS inspection of the 
+adjacent fittings thereafter at intervals not to exceed 600 flight 
+cycles until the cracked fittings or splice tabs/fasteners are 
+replaced or repaired, in accordance with the Accomplishment 
+Instructions of Lockheed L-1011 Service Bulletin 093-53-105, 
+Revision 1, dated November 17, 1995; or Lockheed Service Bulletin 
+093-53-105, Revision 3, dated May 31, 2013. At the applicable time 
+specified in paragraphs (m)(1)(i) and (m)(1)(ii) of this AD: Replace 
+the cracked fitting and/or splice tab/fasteners, in accordance with 
+the Accomplishment Instructions of Lockheed L-1011 Service Bulletin 
+093-53-105, Revision 1, dated November 17, 1995; or Lockheed Service 
+Bulletin 093-53-105, Revision 3, dated May 31, 2013. As of the 
+effective date of this AD, use only Lockheed Service Bulletin 093-
+53-105, Revision 3, dated May 31, 2013, for accomplishing the 
+actions required by this paragraph.
+    (i) For any crack found before the effective date of this AD: 
+Within 2,500 flight cycles after finding the crack.
+    (ii) For any crack found on or after the effective date of this 
+AD: Before further flight after finding the crack.
+    (2) If two or more adjacent fittings on both sides of the 
+cracked fittings or bonded splice tabs/fasteners are determined to 
+be free of cracks by the ECSS inspection required by paragraphs 
+(j)(1) and (j)(2) of this AD, the follow-on inspection (i.e., BHEC, 
+ECSS, and borescope inspections) of the inner and outer tee caps 
+required by paragraph (j)(1) of this AD may also be deferred until 
+the cracked fittings are replaced as required by paragraph (m)(1) of 
+this AD, but no later than before the accumulation of 20,800 total 
+flight cycles.
+
+(n) New Repetitive Borescope Inspections of Certain End Fittings and 
+Corrective Actions
+
+    For airplanes with a large (47-inch-wide) aft passenger door: At 
+the later of the times specified in paragraphs (n)(1) and (n)(2) of 
+this AD, do a borescope inspection for cracking of the stringer end 
+fittings at stringer locations 12, 13, 53, and 54; and do all 
+applicable related investigative and corrective actions; in 
+accordance with the Accomplishment Instructions of Lockheed Service 
+Bulletin 093-53-105, Revision 3, dated May 31, 2013, except as 
+specified in paragraph (p) of this AD. Do all applicable related 
+investigative and corrective actions before further flight. Repeat 
+the inspection of the stringer end fittings thereafter at intervals 
+not to exceed 1,750 flight cycles until the actions required by 
+paragraph (q) of this AD have been done.
+    (1) Before the accumulation of 13,875 total flight cycles.
+    (2) Within 365 days or 1,000 flight cycles after the effective 
+date of this AD, whichever occurs earlier.
+
+(o) New Repetitive Borescope Inspections of Fuselage Skin Panels
+
+    For airplanes with a large (47-inch-wide) aft passenger door: At 
+the later of the times specified in paragraphs (o)(1) and (o)(2) of 
+this AD, do an ECSS inspection for cracking of the left and right 
+aft fuselage skin panels; and do all applicable related 
+investigative and corrective actions; in accordance with the 
+Accomplishment Instructions of Lockheed Service Bulletin 093-53-105, 
+Revision 3, dated May 31, 2013, except as specified in paragraph (p) 
+of this AD. Do all applicable related investigative and corrective 
+actions before further flight. Repeat the inspection of the aft 
+fuselage skin panels thereafter at intervals not to exceed 1,750 
+flight cycles until the modification required by paragraph (q) of 
+this AD is done.
+
+[[Page 32445]]
+
+    (1) Before the accumulation of 13,875 total flight cycles.
+    (2) Within 365 days or 1,000 flight cycles after the effective 
+date of this AD, whichever occurs first.
+
+(p) New Service Information Exception
+
+    If any cracking is found during any inspection required by this 
+AD, and Lockheed Service Bulletin 093-53-105, Revision 3, dated May 
+31, 2013, specifies contacting Lockheed for appropriate action: 
+Before further flight, repair the cracking in accordance with a 
+method approved by the Manager, Atlanta ACO, FAA. As of the 
+effective date of this AD, for a repair method to be approved by the 
+Manager, Atlanta ACO, as required by this paragraph, the Manager's 
+approval letter must specifically refer to this AD.
+
+(q) New Pre-Structural Modification Inspections and Structural 
+Modification
+
+    Before the accumulation of 20,800 total flight cycles: Do the 
+applicable actions specified in paragraphs (q)(1) and (q)(2) of this 
+AD.
+    (1) Perform pre-structural modification inspections by doing the 
+actions required by paragraphs (j), (n), and (o) of this AD.
+    (2) Perform a structural modification of the aft pressure 
+bulkhead by removing and replacing all stringer end fittings with 
+new or refurbished fittings at stringers 1 through 14, and 52 
+through 64, in accordance with the Accomplishment Instructions of 
+Lockheed Service Bulletin 093-53-105, Revision 3, dated May 31, 
+2013.
+
+(r) New Post-Structural Modification Repetitive Inspections
+
+    Within 13,875 flight cycles after performing the actions 
+required by paragraph (q)(2) of this AD: Do the actions specified in 
+paragraphs (j), (n), and (o) of this AD, and repeat thereafter at 
+intervals not to exceed 1,750 flight cycles.
+
+(s) No Reporting Requirement
+
+    Although Lockheed Service Bulletin 093-53-105, Revision 3, dated 
+May 31, 2013, referenced in this AD specifies to submit certain 
+information to the manufacturer, this AD does not include that 
+requirement.
+
+(t) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Atlanta ACO, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+ACO, send it to the attention of the person identified in paragraph 
+(u) of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+ (u) Related Information
+
+    For more information about this AD, contact Carl Gray, Aerospace 
+Engineer, Airframe Branch, ACE-117A, FAA, Atlanta Aircraft 
+Certification Office (ACO), 1701 Columbia Avenue, College Park, GA 
+30337; phone: 404-474-5554; fax: 404-474-5605; email: 
+<a href="/cdn-cgi/l/email-protection#721113001e5c055c1500130b321413135c151d04"><span class="__cf_email__" data-cfemail="98fbf9eaf4b6efb6ffeaf9e1d8fef9f9b6fff7ee">[email&#160;protected]</span></a>.
+
+(v) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+July 14, 2015.
+    (i) Lockheed Service Bulletin 093-53-105, Revision 3, dated May 
+31, 2013 (The date of May 15, 2013, on page 1 of Lockheed Service 
+Bulletin 093-53-105, Revision 3, dated May 31, 2013, is incorrect 
+and should be May 31, 2013).
+    (ii) Reserved.
+    (4) The following service information was approved for IBR on 
+January 11, 1996 (60 FR 66870, December 27, 1995).
+    (i) Lockheed L-1011 Service Bulletin 093-53-105, Revision 1, 
+dated November 17, 1995.
+    (ii) Reserved.
+    (5) For Lockheed service information identified in this AD, 
+contact Lockheed Martin Corporation/Lockheed Martin Aeronautics 
+Company, L1011 Technical Support Center, Dept. 6A4M, Zone 0579, 86 
+South Cobb Drive, Marietta, GA 30063-0579; telephone 770-494-5444; 
+fax 770-494-5445; email <a href="/cdn-cgi/l/email-protection#0f433e3f3e3e217c7a7f7f607d7b4f63626c60216c6062"><span class="__cf_email__" data-cfemail="ce82fffeffffe0bdbbbebea1bcba8ea2a3ada1e0ada1a3">[email&#160;protected]</span></a>; Internet <a href="http://www.lockheedmartin.com/ams/tools/TechPubs.html">http://www.lockheedmartin.com/ams/tools/TechPubs.html</a>.
+    (6) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on May 18, 2015.
+John P. Piccola, Jr.,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-13325 Filed 6-8-15; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

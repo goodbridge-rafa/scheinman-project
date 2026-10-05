@@ -1,0 +1,411 @@
+<html>
+<head>
+<title>Federal Register, Volume 66 Issue 69 (Tuesday, April 10, 2001)</title>
+</head>
+<body><pre>
+[Federal Register Volume 66, Number 69 (Tuesday, April 10, 2001)]
+[Rules and Regulations]
+[Pages 18523-18525]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 01-8612]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-NM-157-AD; Amendment 39-12170; AD 2001-07-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 767 Series Airplanes 
+Powered by General Electric or Pratt & Whitney Engines
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Boeing Model 767 series airplanes powered by 
+General Electric or Pratt & Whitney engines, that requires repetitive 
+inspections to detect discrepancies of the aft-most fastener holes in 
+the horizontal tangs of the midspar fitting of the strut, and 
+corrective actions, if necessary. This AD also provides an optional 
+terminating action for the repetitive inspections. These actions are 
+necessary to prevent fatigue cracking in primary strut structure and 
+reduced structural integrity of the strut, which could result in 
+separation of the strut and engine. This action is intended to address 
+the identified unsafe condition.
+
+DATES: Effective May 15, 2001.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of May 15, 2001.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, 
+Washington 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: John Craycraft, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2782; fax (425) 227-1181.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain Boeing Model 767 series 
+airplanes powered by General Electric or Pratt & Whitney engines was 
+published in the Federal Register on October 10, 2000 (65 FR 60124). 
+That action proposed to require repetitive inspections to detect 
+discrepancies of the aft-most fastener holes in the horizontal tangs of 
+the midspar fitting of the strut, and corrective actions, if necessary. 
+That action also proposed to provide for optional terminating action 
+for the repetitive inspections.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Request To Limit Area of Inspection or Give Credit for Previous 
+Inspections
+
+    Several commenters request that the FAA revise paragraph (a) of the 
+proposed AD to limit the area of the inspections to the two aft-most 
+holes of the horizontal tangs of the midspar fitting of the strut, as 
+shown in Boeing Service Bulletin 767-54A0101, Revision 1, dated 
+February 3, 2000, rather than requiring inspections of the four aft 
+most holes. The commenters state that the two aft-most holes are the 
+most susceptible to fatigue cracking because of the higher stresses in 
+this area of the midspar fitting. The commenters conclude that, as long 
+as the two aft-most holes are uncracked, the next two holes would be 
+uncracked as well. One commenter suggests reducing the interval for the 
+repetitive inspections of the two aft-most holes in lieu of expanding 
+the inspection area to the four aft-most holes. Other commenters 
+request that, if the FAA finds it necessary to require inspections 
+beyond the area specified in the service bulletin, the initial 
+inspection per paragraph (a) be deferred to 1,500 flight cycles if 
+inspections of the two aft-most holes have been accomplished before the 
+effective date of this AD per the service bulletin.
+    The FAA partially concurs with the commenters' requests. While, in 
+theory, if the two aft-most holes are not cracked, the next row of 
+holes should not be cracked either, the FAA has not found this to be 
+the case, as discussed in the notice of proposed rulemaking (NPRM). On 
+certain Model 747 series airplanes, which have fittings and loading 
+conditions similar to those found on the Model 767 series airplanes 
+subject to this AD, the aft-most row of fasteners of the midspar 
+fittings was not cracked, but the next row of fasteners was. Based on 
+this experience, the FAA does not concur with the commenters' request 
+to reduce the inspection interval in lieu of requiring inspections of 
+both rows of fasteners.
+    However, the FAA does concur that the initial compliance time for 
+the inspection of the four aft-most fasteners can be extended for 
+airplanes on which the two aft-most fasteners have been inspected per 
+the service bulletin before the effective date of this AD. The FAA 
+finds that, for these previously inspected airplanes only, the 
+compliance time for paragraph (a) of this AD can be extended from 600 
+flight hours to 1,500 flight hours. Accordingly, a new paragraph (b) 
+has been added to this final rule and subsequent paragraphs have been 
+reordered.
+
+Request To Reference Revised Service Information
+
+    One commenter questions whether the FAA will revise the proposed 
+rule to reference a new revision of the service bulletin. The commenter 
+points out that the proposed requirement to inspect the four aft-most 
+fasteners is a difference from the service bulletin and questions 
+whether the FAA will provide an alternative method of compliance (AMOC) 
+for this requirement, or whether a local approved authority will
+
+[[Page 18524]]
+
+have to carry out the proposed extra work until a new revision of the 
+service bulletin is approved.
+    The FAA does not concur that any change to this final rule is 
+necessary in this regard. The FAA cannot revise this final rule to 
+reference a new revision of the service bulletin because the FAA has 
+received no such revision. In response to the commenter's question 
+about issuance of an AMOC, no AMOC is required for the requirements of 
+this AD, because the requirements of an AD take precedence over the 
+procedures listed in a service bulletin. No change to the final rule is 
+necessary in this regard.
+
+Request To Approve AMOC
+
+    One commenter requests that the FAA revise the proposed rule to 
+approve the use of GE RTV108 sealant as an alternative to the BMS 
+sealant specified in the service bulletin. According to the commenter, 
+the airplane manufacturer has approved the use of GE RTV108 sealant. 
+The commenter also states that fasteners on the inboard fitting aft of 
+the aft vapor barrier do not need sealant. The commenter further notes 
+that it has requested that Boeing revise its service bulletin to 
+reflect these changes.
+    The FAA does not concur with the commenter's request to revise the 
+final rule to approve the use of an alternative sealant and to specify 
+that sealant does not need to be applied to certain fasteners. The 
+service bulletin has not yet been revised, and FAA has not received any 
+technical justification for the changes requested by the commenter. 
+However, if the commenter can provide data that shows that an 
+acceptable level of safety can be achieved through the methods of 
+compliance it describes, the commenter may request approval of an AMOC 
+in accordance with paragraph (e) of this AD. No change to the final 
+rule is necessary in this regard.
+
+Request To Revise Cost Impact Information
+
+    One commenter states that the cost impact in the NPRM is totally 
+unrealistic because it does not account for the time to gain access to 
+the inspection area or to return the airplane to service.
+    The FAA does not concur with what it infers is a request to revise 
+the cost estimate. The FAA stated in the ``Cost Impact'' section of the 
+NPRM that, ``The cost impact figures discussed in AD rulemaking actions 
+represent only the time necessary to perform the specific actions 
+actually required by the AD. These figures typically do not include 
+incidental costs, such as the time required to gain access and close 
+up, planning time, or time necessitated by other administrative 
+actions.'' The FAA's position on this matter has not changed since 
+issuance of the NPRM. Thus, no change to the final rule is necessary in 
+this regard.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 636 Model 767 series airplanes of the 
+affected design in the worldwide fleet. The FAA estimates that 235 
+airplanes of U.S. registry will be affected by this AD.
+    It will take approximately 1 work hour per airplane to accomplish 
+the required detailed visual inspection, at an average labor rate of 
+$60 per work hour. Based on these figures, the cost impact of this 
+inspection on U.S. operators is estimated to be $14,100, or $60 per 
+airplane, per inspection cycle.
+    It will take approximately 3 work hours per airplane to accomplish 
+the required eddy current inspection, at an average labor rate of $60 
+per work hour. Based on these figures, the cost impact of this 
+inspection on U.S. operators is estimated to be $42,300, or $180 per 
+airplane, per inspection cycle.
+    The cost impact figures discussed above are based on assumptions 
+that no operator has yet accomplished any of the requirements of this 
+AD action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2001-07-05  Boeing: Amendment 39-12170. Docket 2000-NM-157-AD.
+
+    Applicability: Model 767 series airplanes, certificated in any 
+category, as listed in Boeing Service Bulletin 767-54A0101, Revision 
+1, dated February 3, 2000.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (e) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent fatigue cracking in primary strut structure and 
+reduced structural integrity of the strut, which could result in
+
+[[Page 18525]]
+
+separation of the strut and engine, accomplish the following:
+
+Repetitive Inspections
+
+    (a) Except as provided by paragraph (b) of this AD, before the 
+accumulation of 10,000 total flight cycles, or within 600 flight 
+cycles after the effective date of this AD, whichever occurs later: 
+Accomplish the inspections required by paragraph (a)(1) or (a)(2) of 
+this AD, as applicable.
+    (1) Perform a detailed visual inspection of the four aft-most 
+fastener holes in the horizontal tangs of the midspar fitting of the 
+strut to detect cracking, in accordance with Part 1, ``Detailed 
+Visual Inspection,'' of the Accomplishment Instructions of Boeing 
+Service Bulletin 767-54A0101, Revision 1, dated February 3, 2000. If 
+no cracking is detected, repeat the inspection thereafter at the 
+applicable intervals specified in Table 1, ``Reinspection Intervals 
+for Part 1--Detailed Visual Inspection'' included in Figure 1 of the 
+service bulletin.
+
+    Note 2: For the purposes of this AD, a detailed visual 
+inspection is defined as: ``An intensive visual examination of a 
+specific structural area, system, installation, or assembly to 
+detect damage, failure, or irregularity. Available lighting is 
+normally supplemented with a direct source of good lighting at 
+intensity deemed appropriate by the inspector. Inspection aids such 
+as mirror, magnifying lenses, etc., may be used. Surface cleaning 
+and elaborate access procedures may be required.''
+
+    (2) Perform a high frequency eddy current inspection of the four 
+aft-most fastener holes in the horizontal tangs of the midspar 
+fitting of the strut to detect discrepancies (cracking, incorrect 
+fastener hole diameter), in accordance with Part 2, ``High Frequency 
+Eddy Current (HFEC) Inspection,'' of the Accomplishment Instructions 
+of the service bulletin. Accomplish the requirements specified in 
+paragraph (a)(2)(i) or (a)(2)(ii) of this AD, as applicable; and 
+repeat the inspection thereafter at the applicable intervals 
+specified in Table 2, ``Reinspection Intervals for Part 2--HFEC 
+Inspection'' included in Figure 1 of the service bulletin.
+    (i) If no cracking is detected and the fastener hole diameter is 
+less than or equal to 0.5322 inch, rework the hole in accordance 
+with Part 3 of the Accomplishment Instructions of the service 
+bulletin.
+    (ii) If no cracking is detected and the fastener hole diameter 
+is greater than 0.5322 inch, accomplish the requirements specified 
+in either paragraph (c)(1) or (c)(2) of this AD.
+    (b) For airplanes on which the two aft-most fasteners have been 
+inspected in accordance with Boeing Service Bulletin 767-54A0101, 
+Revision 1, dated February 3, 2000, prior to the effective date of 
+this AD: Perform the initial inspection of the four aft-most 
+fasteners in accordance with paragraph (a) of this AD before the 
+accumulation of 10,000 total flight cycles, or within 1,500 flight 
+cycles after the effective date of this AD, whichever occurs later.
+
+Corrective Actions
+
+    (c) If any cracking is detected after accomplishment of any 
+inspection required by paragraph (a) of this AD, before further 
+flight, accomplish the requirements specified in either paragraph 
+(c)(1) or (c)(2) of this AD.
+    (1) Accomplish the terminating action specified in Part 4 of the 
+Accomplishment Instructions of Boeing Service Bulletin 767-54A0101, 
+Revision 1, dated February 3, 2000. Accomplishment of this paragraph 
+terminates the requirements of this AD.
+    (2) Replace the midspar fitting of the strut with a serviceable 
+part, or repair in accordance with a method approved by the Manager, 
+Seattle Aircraft Certification Office (ACO), FAA. Repeat the 
+applicable inspection thereafter at the applicable time specified in 
+paragraph (a)(1) or (a)(2) of this AD.
+    (d) If any discrepancies (cracking, incorrect fastener hole 
+diameter) are detected during any inspection required by paragraph 
+(a) of this AD, for which the service bulletin specifies that the 
+manufacturer may be contacted for disposition of those repair 
+conditions: Before further flight, accomplish the corrective actions 
+(including fastener hole rework and/or midspar fitting replacement) 
+in accordance with a method approved by the Manager, Seattle ACO; or 
+in accordance with data meeting the type certification basis of the 
+airplane approved by a Boeing Company Designated Engineering 
+Representative who has been authorized by the Manager, Seattle ACO, 
+to make such findings. For a method to be approved by the Manager, 
+Seattle ACO, as required by this paragraph, the Manager's approval 
+letter must specifically reference this AD.
+
+Alternative Methods of Compliance
+
+    (e) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle ACO. Operators shall submit 
+their requests through an appropriate FAA Principal Maintenance 
+Inspector, who may add comments and then send it to the Manager, 
+Seattle ACO.
+
+    Note 3: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Seattle ACO.
+
+Special Flight Permits
+
+    (f) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (g) Except as provided by paragraphs (c)(2) and (d) of this AD, 
+the actions shall be done in accordance with Boeing Service Bulletin 
+767-54A0101, Revision 1, dated February 3, 2000. This incorporation 
+by reference was approved by the Director of the Federal Register in 
+accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be 
+obtained from Boeing Commercial Airplane Group, P.O. Box 3707, 
+Seattle, Washington 98124-2207. Copies may be inspected at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, 
+Washington; or at the Office of the Federal Register, 800 North 
+Capitol Street, NW., suite 700, Washington, DC.
+
+Effective Date
+
+    (h) This amendment becomes effective on May 15, 2001.
+
+    Issued in Renton, Washington, on April 2, 2001.
+Donald L. Riggin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 01-8612 Filed 4-9-01; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

@@ -1,0 +1,699 @@
+<html>
+<head>
+<title>Federal Register, Volume 77 Issue 132 (Tuesday, July 10, 2012)</title>
+</head>
+<body><pre>
+[Federal Register Volume 77, Number 132 (Tuesday, July 10, 2012)]
+[Rules and Regulations]
+[Pages 40481-40485]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2012-15894]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0991; Directorate Identifier 2010-NM-134-AD; 
+Amendment 39-17110; AD 2012-13-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding an existing airworthiness directive (AD) 
+for certain The Boeing Company Model 747-100, 747-100B, 747-200B, 747-
+200C, 747-200F, 747-400F, 747SR, and 747SP series airplanes, without a 
+stretched upper deck or stretched upper deck modification. That AD 
+currently requires repetitive inspections for cracks of each affected 
+tension tie and of the surrounding structure, and related investigative 
+and corrective actions if necessary. This new AD requires, for certain 
+airplanes, modifying the tension tie structure or tension tie and frame 
+structure at certain stations; and a post-modification inspection of 
+the modified area and post-modification repetitive inspections of the 
+unmodified area, and repair if necessary. Doing the modification would 
+terminate the repetitive inspection requirements in the existing AD. 
+This AD reduces the compliance time and adds inspections for certain 
+airplanes. This AD was prompted by reports that certain airplanes have 
+tension ties that are susceptible to widespread fatigue damage. This AD 
+also results from reports of cracks on the forward and aft tension tie 
+channels at station (STA) 740 and STA 760, and a determination that 
+initial inspection intervals need to be reduced. We are issuing this AD 
+to prevent tension ties from becoming severed or disconnected from the 
+frames, which could lead to rapid in-flight decompression.
+
+DATES: This AD is effective August 14, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of August 14, 
+2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+February 16, 2006 (71 FR 1947, January 12, 2006).
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; telephone 206-
+544-5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may review copies of the referenced service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, Washington. For information on the availability of 
+this material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Nathan Weigand, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office 
+(ACO), 1601 Lind Avenue SW., Renton, Washington 98057-3356; phone: 
+(425) 917-6428; fax: (425) 917-6590; email: <a href="/cdn-cgi/l/email-protection#204e415448414e0e500e57454947414e44604641410e474f56"><span class="__cf_email__" data-cfemail="afc1cedbc7cec181df81d8cac6c8cec1cbefc9cece81c8c0d9">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2006-01-07, Amendment 39-14446 (71 FR 1947, 
+January 12, 2006). That AD applies to the specified products. The NPRM 
+published in the Federal Register on September 22, 2011 (76 FR 58722). 
+That NPRM proposed to continue to require repetitive inspections for 
+cracks of each affected tension tie and of the surrounding structure, 
+and related investigative and corrective actions if necessary. For 
+certain airplanes, that NPRM proposed to require modifying the tension 
+tie structure or tension tie and frame structure at certain stations; 
+and a post-modification inspection of the modified area and post-
+modification repetitive inspections of the unmodified area, and repair 
+if necessary. Doing the modification would terminate the repetitive 
+inspection requirements in the existing AD. That NPRM also proposed to 
+reduce the compliance time
+
+[[Page 40482]]
+
+and add inspections for certain airplanes.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(76 FR 58722, September 22, 2011) and the FAA's response to each 
+comment.
+
+Request to Revise Costs of Compliance
+
+    UPS requested that we revise the Costs of Compliance section of the 
+NPRM (76 FR 58722, September 22, 2011). UPS explained that according to 
+paragraph 1.G. of Boeing Alert Service Bulletin 747-53A2605, Revision 
+1, dated May 27, 2010, the manpower required to accomplish the 
+modification on all tension tie locations for UPS's Group 10 airplanes 
+is 501 work-hours. UPS also explained that according to Boeing Alert 
+Service Bulletin 747-53A2605, Revision 1, dated May 27, 2010, the parts 
+kits that are required to accomplish the modification range from 
+$535,131 to $658,423. UPS reasoned that based on Boeing's labor 
+estimate, a labor rate of $85 per hour, and Boeing's current pricing, 
+the cost to accomplish the modification on each of UPS's airplanes 
+would be approximately $701,008.
+    We agree to revise the Costs of Compliance section in the final 
+rule to align with the costs specified in the service information. We 
+have revised the work-hours appropriately.
+
+Request to Refer to the Service Information
+
+    UPS requested that we revise paragraphs (i)(2)(i) and (i)(2)(ii)(B) 
+of the NPRM (76 FR 58722, September 22, 2011) to, ``* * * install the 
+correct configuration * * * in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 747-53A2502, Revision 1, 
+dated June 17, 2010, except where Boeing Alert Service Bulletin 747-
+53A2502, Revision 1, dated June 17, 2010, specifies to contact Boeing 
+for installation instructions: Before further flight, install in 
+accordance with instructions approved in accordance with the procedures 
+specified in paragraph (n) of this AD.'' UPS explained that, while 
+paragraphs (i)(2)(i) and (i)(2)(ii)(B) of the NPRM stipulate to install 
+the correct configuration using a method approved in accordance with 
+paragraph (n) of the NPRM, Figure 22 of Boeing Alert Service Bulletin 
+747-53A2502, Revision 1, dated June 17, 2010, provides the correct 
+configuration for installing the tension tie attachments. UPS expressed 
+that they are concerned with the requirement to obtain AMOC approval to 
+install the correct configuration, as it believes that this adds undue 
+and unnecessary burden on the operators when correct configuration data 
+already exits.
+    We agree for the reasons stated by UPS to revise the final rule to 
+require operators to install the correct configuration in accordance 
+with Boeing Alert Service Bulletin 747-53A2502, Revision 1, dated June 
+17, 2010. We have revised paragraphs (i)(2)(i) and (i)(2)(ii)(B) in 
+this final rule accordingly.
+
+Request To Include All Airplanes for Actions Approved as AMOCs
+
+    UPS requested that we revise paragraph (n)(4) of the NPRM (76 FR 
+58722, September 22, 2011) to refer to paragraph (h) of the NPRM by 
+specifying ``Certain actions required by paragraphs (g) and (h) of this 
+AD * * *.'' UPS explained that while ``paragraph (n)(4) of the NPRM 
+states that certain actions required by paragraph (g) of this AD are 
+approved as AMOCs for the requirements specified in paragraph 
+(n)(4)(i), (n)(4)(ii), and (n)(4)(iii) of this AD,'' paragraph (g) of 
+the NPRM applies only to Group 1 and Groups 3 through 6 airplanes, as 
+identified in Boeing Alert Service Bulletin 747-53A2502, Revision 1, 
+dated June 17, 2010. UPS expresses that paragraph (n)(4)(iii) of the 
+NPRM should apply to all affected airplanes, not just to Group 1 and 
+Groups 3 through 6 airplanes.
+    We agree for the reasons stated by UPS to revise paragraph (n)(4) 
+of the final rule to include reference to paragraph (h) of the final 
+rule. We have revised paragraph (n)(4) of the final rule accordingly.
+
+Requests for Approval of Previous AMOCs
+
+    UPS requested that, since the NPRM (76 FR 58722, September 22, 
+2011) supersedes AD 2006-01-07, Amendment 39-14446 (71 FR 1947, January 
+12, 2006), we revise the NPRM to include a new paragraph that states 
+that AMOCs previously approved by AD 2006-01-07 should be approved as 
+AMOCs for the requirements of paragraphs (g), (h), and (i) of the NPRM.
+    Boeing requested that we revise the NPRM (76 FR 58722, September 
+22, 2011) to read, ``For airplanes not identified in Group 2 per Boeing 
+Special Attention Service Bulletin 747-53A2502, Revision 1, dated June 
+17, 2011; AMOCs approved previously in accordance with AD 2006-01-07, 
+Amendment 39-14446 (71 FR 1947, January 12, 2006), are approved as 
+alternate methods of compliance with paragraph (g) of this AD.'' Boeing 
+explained that Boeing Alert Service Bulletin 747-53A2502, Revision 1, 
+dated June 17, 2010, reduces the inspection thresholds and adds a one-
+time inspection for the Group 2 airplanes (Model 747-400F series 
+airplanes). All other airplane groups fall within the requirements of 
+the superseded AD 2006-01-07, and therefore, AMOCs provided in 
+paragraph (f) of AD 2006-01-07 are still applicable. Boeing expressed 
+that this provision will reduce the resource requirements of providing 
+AMOC approvals.
+    We partially agree to revise this AD to allow certain AMOCs 
+approved for AD 2006-01-07, Amendment 39-14446 (71 FR 1947, January 12, 
+2006). We agree to allow AMOCs approved for AD 2006-01-07 for the 
+requirements of paragraph (g) of this AD and have added paragraph 
+(n)(5) of this AD accordingly.
+    We also agree to allow AMOCs approved according to AD 2006-01-07, 
+Amendment 39-14446 (71 FR 1947, January 12, 2006), for the actions 
+required by paragraph (h) of this AD, provided that the compliance 
+times specified in paragraph (h) of this AD are met; the compliance 
+times in paragraph (h) of this AD are from those specified in AD 2006-
+01-07. We have added paragraph (n)(6) of this AD. We disagree to allow 
+AMOCs approved according to AD 2006-01-07 for the requirements of 
+paragraph (i) of this AD, because the actions in paragraph (i) of this 
+AD are new.
+
+Additional Changes Made to This AD
+
+    We have revised the heading and wording of paragraph (m) of this 
+AD; this revision has not affected the intent of that paragraph.
+    We have redesignated Note 2 the NPRM (76 FR 58722, September 22, 
+2011) as paragraph (l)(2) of this AD. We have also redesignated 
+paragraph (l) of the NPRM as paragraph (l)(1) of this AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (76 FR 58722, September 22, 2011) for correcting the unsafe 
+condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (76 FR 58722, September 22, 2011).
+
+[[Page 40483]]
+
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 86 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+             Action                    Labor cost            Parts cost      Cost per product      operators
+----------------------------------------------------------------------------------------------------------------
+Inspection (required by AD 2006- 8 per tension tie       $0...............  Between $5,440     Between $467,840
+ 01-07, Amendment 39-14446 (71    location, between 8                        and $8,160 per     and $701,760 per
+ FR 1947, January 12, 2006)).     and 12 tension tie                         inspection cycle.  inspection
+                                  locations per                                                 cycle.
+                                  airplane, depending
+                                  on airplane
+                                  configuration x $85
+                                  per hour = between
+                                  $5,440 and $8,160.
+One-time inspection (new action  6 x $85 per hour =      None.............  $510.............  $43,860.
+ for Group 2 airplanes).          $510.
+Modification (new action)......  Between 30 and 432      Between $18,657    Between $21,207    Between
+                                  work-hours, depending   and $658,423.      and $695,143.      $1,823,802 and
+                                  on airplane                                                   $59,782,298.
+                                  configuration x $85
+                                  per hour = between
+                                  $2,550 and $36,720.
+Inspection for unmodified area   2 per tension tie       None.............  Between $1,360     Between $116,960
+ (new action).                    location, between 8                        and $2,040, per    and $175,440.
+                                  and 12 tension tie                         inspection cycle.
+                                  locations per
+                                  airplane, depending
+                                  on airplane
+                                  configuration x $85
+                                  per hour = between
+                                  $1,360 and $2,040.
+Inspection for modified area     2 per tension tie       None.............  Between $1,360     Between $116,960
+ (new action).                    location, between 8                        and $2,040 per     and $175,440.
+                                  and 12 tension tie                         inspection
+                                  locations per                              cycles.
+                                  airplane, depending
+                                  on airplane
+                                  configuration x $85
+                                  per hour = between
+                                  $1,360 and $2,040.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2006-01-07, Amendment 39-14446 (71 FR 1947, January 12, 2006), and 
+adding the following new AD:
+
+2012-13-08 The Boeing Company: Amendment 39-17110; Docket No. FAA-
+2011-0991; Directorate Identifier 2010-NM-134-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 14, 2012.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2006-01-07, Amendment 39-14446 (71 FR 
+1947, January 12, 2006).
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 747-100, 747-100B, 
+747-200B, 747-200C, 747-200F, 747-400F, 747SR, and 747SP series 
+airplanes, certificated in any category, as identified in Boeing 
+Alert Service Bulletin 747-53A2502, Revision 1, dated June 17, 2010.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53: Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports that certain airplanes have 
+tension ties that are susceptible to widespread fatigue damage. This 
+AD also results from reports of cracks on the forward and aft 
+tension tie channels at station (STA) 740 and STA 760, and a 
+determination that initial inspection compliance times need to be 
+reduced. We are issuing this AD to prevent tension ties from 
+becoming severed or disconnected from the frames, which could lead 
+to rapid in-flight decompression.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+[[Page 40484]]
+
+(g) Retained Actions With Reduced Compliance Times for Certain 
+Airplanes
+
+    This paragraph restates the requirements of paragraph (f) of AD 
+2006-01-07, Amendment 39-14446 (71 FR 1947, January 12, 2006), with 
+reduced compliance time for certain airplanes and revised service 
+information. For Group 1, and Groups 3 through 6 airplanes 
+identified in Boeing Special Attention Service Bulletin 747-53-2502, 
+dated April 21, 2005, at the applicable time in paragraph (g)(1) or 
+(g)(2) of this AD: Do detailed and high-frequency eddy current 
+inspections for cracking of each affected tension tie and of the 
+surrounding structure. If any cracking is found: Before further 
+flight, do all applicable corrective and related investigative 
+actions. Do all actions in accordance with the Accomplishment 
+Instructions of Boeing Special Attention Service Bulletin 747-53-
+2502, dated April 21, 2005; or Boeing Alert Service Bulletin 747-
+53A2502, Revision 1, dated June 17, 2010. Where Boeing Special 
+Attention Service Bulletin 747-53-2502, dated April 21, 2005; or 
+Boeing Alert Service Bulletin 747-53A2502, Revision 1, dated June 
+17, 2010; specifies to contact Boeing for repair instructions: 
+Before further flight, repair the area using a method approved in 
+accordance with the procedures specified in paragraph (n) of this 
+AD. As of the effective date of this AD, only Boeing Alert Service 
+Bulletin 747-53A2502, Revision 1, dated June 17, 2010, may be used 
+to accomplish the actions required in this paragraph.
+    (1) For airplanes identified in Boeing Special Attention Service 
+Bulletin 747-53-2502, dated April 21, 2005, as Groups 1, 3, and 6 
+airplanes: Do the first inspections before the accumulation of 
+20,000 total flight cycles, or within 1,000 flight cycles after 
+February 16, 2006 (the effective date of AD 2006-01-07, Amendment 
+39-14446 (71 FR 1947, January 12, 2006)), whichever occurs later; 
+and repeat the inspections thereafter at intervals not to exceed 
+4,000 flight cycles until the modification required by paragraph (j) 
+of this AD is accomplished.
+    (2) For airplanes identified in Boeing Special Attention Service 
+Bulletin 747-53-2502, dated April 21, 2005, as Group 4 and 5 
+airplanes: Do the first inspections before the accumulation of 
+17,000 total flight cycles, or within 1,000 flight cycles after 
+February 16, 2006 (the effective date of AD 2006-01-07, Amendment 
+39-14446 (71 FR 1947, January 12, 2006)), whichever occurs later; 
+and repeat the inspections thereafter at intervals not to exceed 
+3,000 flight cycles until the modification required by paragraph (j) 
+of this AD is accomplished.
+
+(h) Retained Inspection for Group 2 Airplanes With Reduced Compliance 
+Times and Revised Service Information
+
+    This paragraph restates the requirements of paragraph (f) of AD 
+2006-01-07, Amendment 39-14446 (71 FR 1947, January 12, 2006), with 
+reduced compliance time for certain airplanes and revised service 
+information. For Group 2 airplanes identified in Boeing Alert 
+Service Bulletin 747-53A2502, Revision 1, dated June 17, 2010: At 
+the applicable times specified in paragraphs (h)(1) and (h)(2) of 
+this AD, do detailed and high-frequency eddy current inspections for 
+cracking of each affected tension tie and of the surrounding 
+structure, in accordance with the Accomplishment Instructions of 
+Boeing Special Attention Service Bulletin 747-53-2502, dated April 
+21, 2005; or Boeing Alert Service Bulletin 747-53A2502, Revision 1, 
+dated June 17, 2010. If any cracking is found: Before further 
+flight, do all applicable corrective and related investigative 
+actions. Do all actions in accordance with the Accomplishment 
+Instructions of Boeing Special Attention Service Bulletin 747-53-
+2502, dated April 21, 2005; or Boeing Alert Service Bulletin 747-
+53A2502, Revision 1, dated June 17, 2010. Where Boeing Special 
+Attention Service Bulletin 747-53-2502, dated April 21, 2005; or 
+Boeing Alert Service Bulletin 747-53A2502, Revision 1, dated June 
+17, 2010; specify to contact Boeing for repair instructions: Before 
+further flight, repair the area using a method approved in 
+accordance with the procedures specified in paragraph (n) of this 
+AD. As of the effective date of this AD, only Boeing Alert Service 
+Bulletin 747-53A2502, Revision 1, dated June 17, 2010, may be used 
+to accomplish the actions required by this paragraph. Repeat the 
+inspections thereafter at intervals not to exceed 3,000 flight 
+cycles until the modification required by paragraph (j) of this AD 
+is accomplished.
+    (1) For STA 780 through 940: Before the accumulation of 17,000 
+total flight cycles, or within 1,000 flight cycles after February 
+16, 2006 (the effective date of AD 2006-01-07, Amendment 39-14446 
+(71 FR 1947, January 12, 2006)), whichever occurs later.
+    (2) For STA 720, 740, and 760: At the earlier of the times 
+specified in paragraph (h)(2)(i) or (h)(2)(ii) of this AD.
+    (i) Before the accumulation of 17,000 total flight cycles, or 
+within 1,000 flight cycles after February 16, 2006 (the effective 
+date of AD 2006-01-07, Amendment 39-14446 (71 FR 1947, January 12, 
+2006)), whichever occurs later.
+    (ii) Before the accumulation of 8,000 total flight cycles, or 
+within 1,000 flight cycles after the effective date of this AD, 
+whichever occurs later.
+
+(i) New Requirement: One-Time Inspection for Group 2 Airplanes
+
+    For airplanes identified in Boeing Alert Service Bulletin 747-
+53A2502, Revision 1, dated June 17, 2010, as Group 2 airplanes: 
+Before the accumulation of 8,000 total flight cycles, or within 
+1,000 flight cycles after the effective date of this AD, whichever 
+occurs later, do a general visual inspection for correct 
+configuration, as identified in Boeing Alert Service Bulletin 747-
+53A2502, Revision 1, dated June 17, 2010, of each affected tension 
+tie and of the surrounding structure, in accordance with the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 747-
+53A2502, Revision 1, dated June 17, 2010.
+    (1) If all tension ties match the correct configurations 
+specified in the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 747-53A2502, Revision 1, dated June 17, 2010, no further 
+work is required by this paragraph.
+    (2) If any incorrect configuration is found, before further 
+flight, do detailed and open fastener-hole high frequency eddy 
+current inspections for cracks in the tension tie and frame, in 
+accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 747-53A2502, Revision 1, dated June 17, 2010.
+    (i) If no crack is found during the inspection required by 
+paragraph (i)(2) of this AD: Before further flight, install the 
+correct configuration for the tension ties at locations where the 
+incorrect configuration was found, in accordance with the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 747-
+53A2502, Revision 1, dated June 17, 2010, except where Boeing Alert 
+Service Bulletin 747-53A2502, Revision 1, dated June 17, 2010, 
+specifies to contact Boeing for installation instructions, use a 
+method approved in accordance with the procedures specified in 
+paragraph (n) of this AD.
+    (ii) If any crack is found during the inspection required by 
+paragraph (i)(2) of this AD, before further flight, do the actions 
+specified in paragraphs (i)(2)(ii)(A) and (i)(2)(ii)(B) of this AD.
+    (A) Repair the crack in accordance with the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 747-53A2502, Revision 
+1, dated June 17, 2010, except where Boeing Alert Service Bulletin 
+747-53A2502, Revision 1, dated June 17, 2010, specifies to contact 
+Boeing for appropriate action: Before further flight, repair the 
+crack using a method approved in accordance with the procedures 
+specified in paragraph (n) of this AD.
+    (B) Install the correct configuration for the tension ties at 
+locations where the incorrect configuration was found, in accordance 
+with the Accomplishment Instructions of Boeing Alert Service 
+Bulletin 747-53A2502, Revision 1, dated June 17, 2010, except where 
+Boeing Alert Service Bulletin 747-53A2502, Revision 1, dated June 
+17, 2010, specifies to contact Boeing for installation instructions: 
+Use a method approved in accordance with the procedures specified in 
+paragraph (n) of this AD.
+
+(j) Modification
+
+    Before the accumulation of 30,000 total flight cycles, or within 
+3,000 flight cycles after the effective date of this AD, whichever 
+occurs later: Modify the left- and right-side tension tie structure 
+or left- and right-side tension tie and frame structure, at 
+specified stations, in accordance with the applicable method 
+specified in paragraph (j)(1) or (j)(2) of this AD. Accomplishment 
+of the modification in this paragraph terminates the repetitive 
+inspection requirements in paragraphs (g)(1), (g)(2), and (h) of 
+this AD.
+    (1) For airplanes identified in Boeing Alert Service Bulletin 
+747-53A2605, Revision 1, dated May 27, 2010: Do the modification in 
+accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 747-53A2605, Revision 1, dated May 27, 2010.
+    (2) For airplanes not identified in Boeing Alert Service 
+Bulletin 747-53A2605, Revision 1, dated May 27, 2010: Do the 
+modification using a method approved in accordance with the 
+procedures specified in paragraph (n) of this AD.
+
+[[Page 40485]]
+
+    Note 1 to paragraph (j)(2) of this AD: For airplanes identified 
+in paragraph (j)(2) of this AD, post-modification inspection 
+guidance may be included in an approved alternative method of 
+compliance (AMOC) for paragraph (j)(2) of this AD.
+
+(k) Post-Modification Inspection of the Modified Areas
+
+    For airplanes identified in paragraph (j)(1) of this AD, within 
+20,000 flight cycles after doing the modification required by 
+paragraph (j) of this AD: Do an inspection for cracks of the 
+modified areas of the left- and right-side tension tie structure and 
+frame structure, in accordance with a method approved in accordance 
+with the procedures specified in paragraph (n) of this AD. If any 
+crack is found during any inspection required by this paragraph, 
+before further flight, repair the crack using a method approved in 
+accordance with the procedures specified in paragraph (n) of this 
+AD.
+
+(l) Post-Modification Repetitive Inspections of the Unmodified Areas
+
+    (1) For airplanes identified in paragraph (j)(1) of this AD, 
+within 6,000 flight cycles after doing the modification required by 
+paragraph (j) of this AD: Do a detailed inspection for cracks on the 
+unmodified areas of the left- and right-side tension tie structure 
+and frame structure, at certain stations, in accordance with the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 747-
+53A2605, Revision 1, dated May 27, 2010. If any crack is found 
+during any inspection required by this paragraph, before further 
+flight, repair the crack using a method approved in accordance with 
+the procedures specified in paragraph (n) of this AD. Repeat the 
+inspection of the unmodified areas thereafter at intervals not to 
+exceed 6,000 flight cycles.
+    (2) Boeing Alert Service Bulletin 747-53A2605, Revision 1, dated 
+May 27, 2010, refers to Section 51-10-02 of the Boeing 747-400F 
+Structural Repair Manual (SRM) and Section 51-10-01 of the Boeing 
+747-100/200/300 SRM as additional sources of guidance for removing 
+small cracks and fatigue damage material from the existing holes in 
+the unmodified center section of the tension tie channels. Where 
+those SRM sections state that ``zero-timing must only be used where 
+specifically permitted in an SRM chapter-section-repair,'' this AD 
+allows the zero-timing procedures specified in those SRM sections.
+
+(m) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraphs (j), (k), and (l)(1) of this AD, if those actions were 
+performed before the effective date of this AD using Boeing Alert 
+Service Bulletin 747-53A2605, dated October 8, 2009.
+
+(n) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in the Related Information 
+section of this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#9ca5b1ddd2d1b1cff9fde8e8f0f9b1dddfd3b1ddd1d3dfb1cef9ede9f9efe8efdcfafdfdb2fbf3ea"><span class="__cf_email__" data-cfemail="af9682eee1e282fccacedbdbc3ca82eeece082eee2e0ec82fdcadedacadcdbdcefc9cece81c8c0d9">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) Certain actions required by paragraphs (g) and (h) of this 
+AD are approved as AMOCs for the requirements specified in 
+paragraphs (n)(4)(i), (n)(4)(ii), and (n)(4)(iii) of this AD. All 
+provisions of the referenced ADs specified in paragraphs (n)(4)(i), 
+(n)(4)(ii), and (n)(4)(iii) of this AD, including applicable post-
+modification inspection thresholds, remain fully applicable and must 
+be complied with.
+    (i) Repairs or modifications of the aft tension tie channels 
+done in accordance with this AD are AMOCs for the repair 
+requirements of paragraph A. of AD 84-19-01, Amendment 39-4913 (49 
+FR 35365, September 17, 1984); and paragraphs (a)(2) and (b)(2) of 
+AD 94-13-06, Amendment 39-8946 (59 FR 32879, June 27, 1994).
+    (ii) The inspection requirements of this AD are AMOCs for the 
+post-modification inspection requirements of paragraph B. of AD 84-
+19-01, Amendment 39-4913 (49 FR 35365, September 17, 1984); and 
+paragraph (b) of AD 94-13-06, Amendment 39-8946 (59 FR 32879, June 
+27, 1994).
+    (iii) The inspection requirements of this AD are AMOCs for the 
+inspections of Structural Significant Item (SSI) F-19A of Boeing 
+Supplemental Structural Inspection Document D6-35022, Revision G, 
+dated December 2000, as required by paragraphs (h) and (i) of AD 
+2004-07-22 R1, Amendment 39-15326 (73 FR 1052, January 7, 2008); 
+corrected February 14, 2008 (73 FR 8589).
+    (5) AMOCs approved previously in accordance with AD 2006-01-07, 
+Amendment 39-14446 (71 FR 1947, January 12, 2006), are approved as 
+AMOCs for the corresponding provisions of paragraph (g) of this AD.
+    (6) AMOCs approved previously in accordance with AD 2006-01-07, 
+Amendment 39-14446 (71 FR 1947, January 12, 2006), are approved as 
+AMOCs for the corresponding repairs or modifications required by 
+paragraph (h) of this AD provided that the actions are done within 
+the compliance times specified in paragraph (h) of this AD. 
+Compliance times in previously approved AMOCs are not approved for 
+paragraph (h) of this AD.
+
+(o) Related Information
+
+    For more information about this AD, contact Nathan Weigand, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft 
+Certification Office (ACO), 1601 Lind Avenue SW., Renton, Washington 
+98057-3356; phone: (425) 917-6428; fax: (425) 917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#a1cfc0d5c9c0cf8fd18fd6c4c8c6c0cfc5e1c7c0c08fc6ced7"><span class="__cf_email__" data-cfemail="a3cdc2d7cbc2cd8dd38dd4c6cac4c2cdc7e3c5c2c28dc4ccd5">[email&#160;protected]</span></a>.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the following service 
+information under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use the following service information to do the 
+actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+August 14, 2012.
+    (i) Boeing Alert Service Bulletin 747-53A2502, Revision 1, dated 
+June 17, 2010.
+    (ii) Boeing Alert Service Bulletin 747-53A2605, Revision 1, 
+dated May 27, 2010.
+    (4) The following service info was approved for IBR on February 
+16, 2006 (71 FR 1947, January 12, 2006).
+    (i) Boeing Special Attention Service Bulletin 747-53A2502, dated 
+April 21, 2005. (5) For service information identified in this AD, 
+contact Boeing Commercial Airplanes, Attention: Data & Services 
+Management, P.O. Box 3707, MC 2H-65, Seattle, Washington 98124-2207; 
+telephone 206-544-5000, extension 1; fax 206-766-5680; Internet 
+<a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (6) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, 
+Washington. For information on the availability of this material at 
+the FAA, call 425-227-1221.
+    (7) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr_locations.html">http://www.archives.gov/federal-register/cfr/ibr_locations.html</a>.
+
+    Issued in Renton, Washington, on June 19, 2012.
+John P. Piccola,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-15894 Filed 7-9-12; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

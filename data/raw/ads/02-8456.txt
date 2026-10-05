@@ -1,0 +1,445 @@
+<html>
+<head>
+<title>Federal Register, Volume 67 Issue 71 (Friday, April 12, 2002)</title>
+</head>
+<body><pre>
+[Federal Register Volume 67, Number 71 (Friday, April 12, 2002)]
+[Rules and Regulations]
+[Pages 17929-17931]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 02-8456]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-NM-73-AD; Amendment 39-12704; AD 2002-07-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Boeing Model 737-200, -200C, -300, -
+400, and -500 Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Boeing Model 737-200, -200C, -300, -400, and -500 
+series airplanes, that requires replacement of certain repairs in 
+certain fuselage lap joints with improved repairs. This amendment also 
+requires a high frequency eddy current inspection to find cracking of 
+the repairs of the lower skin at the lower row of fasteners in the lap 
+joints of the fuselage, and repair of any cracking found. This action 
+is necessary to find and fix premature cracking of certain lap joint 
+repairs, which could result in rapid decompression of the airplane. 
+This action is intended to address the identified unsafe condition.
+
+DATES: Effective May 17, 2002.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of May 17, 2002.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Boeing Commercial Airplane Group, PO Box 3707, Seattle, 
+Washington 98124-2207. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Scott Fung, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue, SW., Renton, Washington; telephone (425) 227-1221; 
+fax (425) 227-1181.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain Boeing Model 737-200, -
+200C, -300, -400, and -500 series airplanes was published in the 
+Federal Register on July 12, 2001 (66 FR 36513). That action proposed 
+to require replacement of certain repairs in certain fuselage lap 
+joints with improved repairs. That action also proposed to require a 
+high frequency eddy current inspection to find cracking of the repairs 
+of the lower skin at the lower row of fasteners in the lap joints of 
+the fuselage, and repair of any cracking found.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Clarify Wording in Paragraphs (b) and (f)
+
+    One commenter states that paragraph (b) of the proposed rule should 
+include repairs that are configured like Figures 39 and 227 of the 
+Structural Repair Manual (SRM), where the repair parts are common to 
+the overlapping skin of the fuselage lap joint, but where the damage is 
+outside the lap joint lower row. The commenter notes that fatigue 
+testing of the SRM repairs that are the subject of this proposed AD 
+showed that premature cracking occurred on repairs configured like the 
+SRM Figure 39, where the repair was common to the overlapping skin of 
+the fuselage lap joint. The commenter adds that paragraph (f) of the 
+proposed rule also should be changed. Paragraph (f) states, ``* * * 
+installed in any area between BS 259.5 and BS 1016, other than those 
+specified in paragraph (d) of this AD * * *.'' The commenter notes that 
+the correct reference for establishing the area of the fuselage subject 
+to this portion of the AD is paragraph (e).
+    The FAA agrees with the commenter. For clarification, we have 
+changed paragraphs (b) and (e) of the final rule to add ``* * * or that 
+have a lap joint repair configured like 737-200 SRM, Figure 39 or the 
+737-300 SRM, Figure 227 (paragraph b), and 737-400 SRM, Figure 229 or 
+737-500 SRM, Figure 227 (paragraph e), where the repair parts are 
+common to the overlapping skin of the fuselage lap joint, but where the 
+damage is outside the lap joint lower row.'' Paragraph (e) is similar 
+to paragraph (b) but is applicable to Model 737-400 and -500 series 
+airplanes. We have also changed paragraph (f) of the final rule to 
+specify, ``* * * installed in any area between BS 259.5 and BS 1016, 
+other than those specified in paragraph (e) of this AD * * *.'' We 
+inadvertently cross referenced paragraph (d) within paragraph (f) of 
+the proposed rule.
+
+Structural Repair Manual Information
+
+    One commenter asks that a point of contact be specified in the 
+final rule so it can get SRM repair figures. The commenter states that 
+it does not have access to the SRM repair figures specified in the 
+proposed rule, and it will be difficult to determine if a repair was 
+installed per one of those figures.
+    We agree and have added Note 2 to this final rule (and reordered 
+subsequent notes accordingly) to specify a point of contact for 
+obtaining the SRM repair figures.
+    A second commenter states that paragraph (a) of the proposed rule 
+would mandate inspections of lap joints for specific repairs that were 
+previously included in the applicable SRM. The commenter notes that if 
+these repairs are found they are to be replaced with improved repairs, 
+and adds that since those ``bad'' repairs were later determined to have 
+poor fatigue characteristics, they were removed from the SRMs and are 
+no longer illustrated in current revisions of the SRM. To facilitate 
+inspection of these repairs, the commenter asks that the final rule 
+include an attachment that depicts the repairs specified in the 
+proposed rule.
+    The FAA does not agree, including attachments depicting all the 
+repairs specified is not feasible due to the variety and number of 
+repairs done. As stated above, we have added Note 2 to the final rule 
+which includes a point of contact for obtaining the SRM repair figures 
+specified. The commenter may also obtain the above requested 
+information from the point of contact specified in Note 2.
+    A third commenter states that paragraph (b) of the proposed rule 
+specifies that for repairs installed using the procedures specified in 
+the SRM, the new replacement repairs must be installed before the 
+accumulation of 15,000 flight cycles since repair installation, or 
+within 5,000 flight cycles
+
+[[Page 17930]]
+
+after the effective date of the AD, whichever occurs later. The 
+commenter notes that it does not keep track of repair dates or cycles, 
+especially if they are out of the SRM. The commenter asks that the date 
+of the SRM incorporation be referenced in the final rule to provide a 
+solid date that can be used to meet the flight cycle requirements 
+specified in paragraph (b).
+    The FAA does not agree. Repair method incorporation dates differ 
+from operator to operator, and the 5,000 flight cycle grace period 
+specified in paragraph (b) of the final rule covers those operators 
+that do not meet the compliance requirement of installation before the 
+accumulation of 15,000 flight cycles since repair installation. 
+However, the commenter may obtain the above requested information from 
+the point of contact specified in Note 2 of the final rule.
+
+Low Frequency Eddy Current (LFEC) Inspection
+
+    Two commenters ask that an option be added to the final rule for 
+doing an LFEC inspection in order to monitor the repair until it can be 
+replaced at a scheduled maintenance visit. Both commenters propose a 
+repetitive inspection interval of 1,200 flight cycles, with repair 
+replacement to occur not later than 10,000 flight cycles after the 
+effective date of the AD. The first commenter states that the test that 
+identified the deficient repair, as identified in the proposed rule, 
+was specifically designed to simulate pressurization cycles on crown 
+skin laps. The commenter adds that, as these tests were not done on an 
+in-service airplane, and the proposed rule does not reference any in-
+service crack findings, the simulated cracks may not occur on an 
+airplane or it may occur at a later flight cycle limit than that 
+specified in the proposed rule. The second commenter states that, due 
+to the potential difficulties in determining the age of a given repair, 
+it would like the LFEC option added for the timing of the repair 
+replacement.
+    The FAA does not agree with the commenters. Although repetitive 
+LFEC inspections could be done to reduce the exposure of premature 
+cracking and consequent uncontrolled decompression of the airplane, the 
+commenters did not provide sufficient technical justification for 
+adding repetitive inspections and extending the replacement threshold. 
+However, we would consider this option under the provisions for 
+requesting approval of an alternative method of compliance, as provided 
+by paragraph (g) of the final rule. No change is made to the final rule 
+in this regard.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes previously 
+described. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    There are approximately 2,359 Model 737 series airplanes of the 
+affected design in the worldwide fleet. The FAA estimates that 958 
+airplanes of U.S. registry will be affected by this AD, that it will 
+take approximately 14 work hours per airplane to accomplish the 
+required actions, and that the average labor rate is $60 per work hour. 
+Based on these figures, the cost impact of the AD on U.S. operators is 
+estimated to be $804,720, or $840 per airplane.
+    The cost impact figure discussed above is based on assumptions that 
+no operator has yet accomplished any of the requirements of this AD 
+action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2002-07-10  Boeing: Amendment 39-12704. Docket 2000-NM-73-AD.
+
+    Applicability: Model 737-200, -200C, -300, -400, and -500 series 
+airplanes having line numbers 292 through 2565 inclusive, 
+certificated in any category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (g) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To find and fix premature cracking of certain fuselage lap joint 
+repairs, which could result in rapid decompression of the airplane, 
+accomplish the following:
+
+Replacement of Structural Repair Manual (SRM) Lap Joint Repairs
+
+    (a) For Model 737-200, -200C, and -300 series airplanes: Within 
+5,000 flight cycles after the effective date of this AD, inspect all 
+lap joints between body station (BS) 259.5 and BS 1016 to identify 
+all repairs accomplished in accordance with Boeing 737-200 SRM, 
+Subject 53-30-03, Figure 39 (for 737-200, 200C series airplanes); or 
+Boeing 737-300 SRM, Subject 53-00-01, Figure 227 (for 737-300 series 
+airplanes).
+    (b) For Model 737-200, -200C, and -300 series airplanes that 
+have a lap joint repair
+
+[[Page 17931]]
+
+installed at stringers S-4L and S-4R, located between BS 259.5 and 
+BS 1016; and installed at S-10L and S-10R, or at S-14L and S-14R, 
+located between BS 259.5 and BS 540, and between BS 727 and BS 1016; 
+that was previously done per the procedures specified in Boeing 737-
+200 SRM, Subject 53-30-03, Figure 39 repair (for 737-200, -200C 
+series airplanes); or Boeing 737-300 SRM, Subject 53-00-01, Figure 
+227 repair (for 737-300 series airplanes); or that have a lap joint 
+repair configured like the 737-200 SRM, Figure 39 or the 737-300 SRM 
+Figure 227: Where the repair parts are common to the overlapping 
+skin of the fuselage lap joint, but where the damage is outside the 
+lap joint lower row; before the accumulation of 15,000 flight cycles 
+since repair installation, or within 5,000 flight cycles after the 
+effective date of this AD, whichever is later, do the requirements 
+of paragraph (b)(1) or (b)(2) of this AD, as applicable, per Boeing 
+Service Bulletin 737-53A1177, Revision 6, dated May 31, 2001. If the 
+area of damage that required the existing repair is outside the lap 
+joint lower row, before further flight, repair per a method approved 
+by the Manager, Seattle Aircraft Certification Office (ACO), FAA; or 
+per data meeting the type certification basis of the airplane 
+approved by a Boeing Company Designated Engineering Representative 
+(DER) who has been authorized by the Manager, Seattle ACO, to make 
+such findings. For a repair method to be approved by the Manager, 
+Seattle ACO, as required by this paragraph, the approval letter must 
+specifically reference this AD.
+    (1) If the lap joints are being cut out when replacing the SRM 
+repair: Replace the Figure 39 repair of the lower skin at the lower 
+row of fasteners in the lap joints of the fuselage per Figures 16, 
+17, and 18 of the Accomplishment Instructions of the service 
+bulletin.
+    (2) If the lap joints are not being cut out when replacing the 
+SRM repair: Do a high frequency eddy current (HFEC) open-hole 
+rotating probe inspection to find cracking of the SRM repair of the 
+lower skin at the lower row of fasteners in the lap joints of the 
+fuselage, per the Figure 20 inspection procedures of the 
+Accomplishment Instructions of the service bulletin. Before further 
+flight after doing the inspection, replace a Boeing 737-200 SRM, 
+Subject 53-30-03, Figure 39 repair with a Boeing 737-200 SRM, 
+Subject 53-30-03, Figure 42 repair (for 737-200, 200C series 
+airplanes); or replace a Boeing 737-300 SRM, Subject 53-00-01, 
+Figure 227 repair with a Boeing 737-300 SRM, Subject 53-00-01, 
+Figure 228 repair (for 737-300 series airplanes); as applicable; per 
+Part II.D. (``Crack Repair'') of the Accomplishment Instructions of 
+the service bulletin.
+    (c) For Model 737-200, -200C, and -300 series airplanes that 
+have a lap joint repair installed in any area between BS 259.5 and 
+BS 1016, other than those specified in paragraph (b) of this AD, 
+that was previously done per the procedures specified in Boeing 737-
+200 SRM, Subject 53-30-03, Figure 39 repair (for 737-200, 200C 
+series airplanes); or Boeing 737-300 SRM Subject 53-00-01, Figure 
+227 repair (for 737-300 series airplanes): Before the accumulation 
+of 20,000 flight cycles since repair installation, or within 5,000 
+flight cycles after the effective date of this AD, whichever is 
+later, do the requirements of paragraph (b)(1) or (b)(2) of this AD, 
+as applicable, per Boeing Service Bulletin 737-53A1177, Revision 6, 
+dated May 31, 2001.
+    (d) For Model 737-400 and -500 series airplanes: Within 5,000 
+flight cycles after the effective date of this AD, inspect all lap 
+joints between BS 259.5 and BS 1016 to identify all repairs 
+accomplished in accordance with; or that have a lap joint repair 
+configured like Boeing 737-400 SRM, Subject 53-00-01, Figure 229 
+(for 737-400 series airplanes); or Boeing 737-500 SRM, Subject 53-
+00-01, Figure 227 (for 737-500 series airplanes).
+    (e) For Model 737-400 and -500 series airplanes that have a lap 
+joint repair installed at S-4L and S-4R, located between BS 259.5 
+and BS 1016; and installed at S-10L and S-10R, or S-14L and S-14R, 
+located between BS 259.5 and BS 540, and between BS 727 and BS 1016; 
+that was previously done per the procedures specified in Boeing 737-
+400 SRM, Subject 53-00-01, Figure 229 repair (for 737-400 series 
+airplanes); or Boeing 737-500 SRM, Figure 227 repair (for 737-500 
+series airplanes); or that have a lap joint repair configured like 
+737-500 SRM, Figure 227 or 737-400 SRM, Figure 229: Where the repair 
+parts are common to the overlapping skin of the fuselage lap joint, 
+but where the damage is outside the lap joint lower row, before the 
+accumulation of 15,000 flight cycles since repair installation, or 
+within 5,000 flight cycles after the effective date of this AD, 
+whichever is later, cut out and replace the repair per a method 
+approved by the Manager, Seattle ACO; or per data meeting the type 
+certification basis of the airplane approved by a Boeing Company DER 
+who has been authorized by the Manager, Seattle ACO, to make such 
+findings. For a repair method to be approved by the Manager, Seattle 
+ACO, as required by this paragraph, the approval letter must 
+specifically reference this AD.
+    (f) For Model 737-400, and -500 series airplanes that have a lap 
+joint repair installed in any area between BS 259.5 and BS 1016, 
+other than those specified in paragraph (e) of this AD, that was 
+previously done per the procedures specified in Boeing 737-400 SRM, 
+Subject 53-00-01, Figure 229 repair (for 737-400 series airplanes); 
+or Boeing 737-500 SRM, Figure 227 repair (for 737-500 series 
+airplanes): Before the accumulation of 20,000 flight cycles since 
+repair installation, or within 5,000 flight cycles after the 
+effective date of this AD, whichever is later, cut out and replace 
+the repair per a method approved by the Manager, Seattle ACO; or per 
+data meeting the type certification basis of the airplane approved 
+by a Boeing Company DER who has been authorized by the Manager, 
+Seattle ACO, to make such findings. For a repair method to be 
+approved by the Manager, Seattle ACO, as required by this paragraph, 
+the approval letter must specifically reference this AD.
+
+    Note 2: Copies of the SRM repair figures specified in paragraphs 
+(b), (c), (e), and (f) of this AD may be obtained from Boeing 
+Commercial Airplane Group, P.O. Box 3707, Seattle, Washington 98124-
+2207.
+
+Alternative Methods of Compliance
+
+    (g) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Seattle ACO. Operators shall submit 
+their requests through an appropriate FAA Principal Maintenance 
+Inspector, who may add comments and then send it to the Manager, 
+Seattle ACO.
+
+    Note 3: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the Seattle ACO.
+
+Special Flight Permits
+
+    (h) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (i) The replacement and high frequency eddy current inspection, 
+as specified in paragraphs (b)(1) and (b)(2) of this AD, shall be 
+done in accordance with Boeing Service Bulletin 737-53A1177, 
+Revision 6, dated May 31, 2001. This incorporation by reference was 
+approved by the Director of the Federal Register in accordance with 
+5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from 
+Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, Washington 
+98124-2207. Copies may be inspected at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+Office of the Federal Register, 800 North Capitol Street, NW., suite 
+700, Washington, DC.
+
+Effective Date
+
+    (j) This amendment becomes effective on May 17, 2002.
+
+    Issued in Renton, Washington, on April 2, 2002.
+Ali Bahrami,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 02-8456 Filed 4-11-02; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre></body>
+</html>

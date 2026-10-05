@@ -1,0 +1,386 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 138 (Thursday, July 18, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 138 (Thursday, July 18, 2024)]
+[Rules and Regulations]
+[Pages 58260-58262]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-15808]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-0232; Project Identifier MCAI-2023-00353-R; 
+Amendment 39-22758; AD 2024-10-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bell Textron Canada Limited Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Bell Textron Canada Limited Model 407 helicopters. This AD was 
+prompted by a report that a certain part-numbered fuel system standpipe 
+assembly (standpipe) may have sharp edges at the interval weld joints 
+due to a quality escape during the manufacturing process. This AD 
+requires inspecting certain fuel system parts and, depending on the 
+inspection results, taking corrective actions and performing a fuel 
+quantity gauging system calibration. Depending on the results of the 
+fuel quantity gauging system calibration, this AD requires performing 
+additional corrective actions and repeating the fuel quantity gauging 
+system calibration. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective August 22, 2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of August 22, 
+2024.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2024-0232; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For Bell material, contact Bell Textron Canada Limited, 
+12,800 Rue de l'Avenir, Mirabel, Quebec J7J 1R4, Canada; phone 1-450-
+437-2862 or 1-800-363-8023; fax 1-450-433-0272; email 
+<a href="/cdn-cgi/l/email-protection#bacac8d5decfd9cec9cfcacad5c8cefad8dfd6d6dcd6d3ddd2ce94d9d5d7"><span class="__cf_email__" data-cfemail="8efefce1eafbedfafdfbfefee1fcfaceecebe2e2e8e2e7e9e6faa0ede1e3">[email&#160;protected]</span></a>; or at <a href="http://bellflight.com/support/contact-support">bellflight.com/support/contact-support</a>.
+    <bullet> You may view this material at the FAA, Office of the 
+Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N 321, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110. It is also available at 
+<a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2024-0232.
+
+FOR FURTHER INFORMATION CONTACT: Michael Hughlett, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: (817) 222-5889; email: <a href="/cdn-cgi/l/email-protection#a2cfcbc1cac3c7ce8cead7c5cacec7d6d6e2c4c3c38cc5cdd4"><span class="__cf_email__" data-cfemail="25484c464d4440490b6d50424d49405151654344440b424a53">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to Bell Textron Canada 
+Limited Model 407 helicopters, serial numbers 54832 through 54931 
+inclusive, 54933 through 54939 inclusive, and 54942 through 54954 
+inclusive, with a certain part-numbered fuel system standpipe assembly 
+installed. The NPRM published in the Federal Register on February 20, 
+2024 (89 FR 12792). The NPRM was prompted by Transport Canada AD CF-
+2023-11, dated February 23, 2023 (Transport Canada AD CF-2023-11), 
+issued by Transport Canada, which is the aviation authority for Canada. 
+Transport Canada AD CF-2023-11 states that, due to a quality escape, 
+standpipe part number (P/N) 407-062-032-103 may have been delivered 
+with sharp edges at the internal weld joints.
+    In the NPRM, the FAA proposed to require, with the standpipe 
+removed, inspecting its interior for any sharp edges on each internal 
+weld joint. If there are any sharp edges on any weld joint, the NPRM 
+proposed to require deburring the edges, ensuring not to exceed a 
+certain depth into the tube. The NPRM then proposed to require removing 
+all sanding residue and applying a chemical film to any bare metal 
+surfaces. The NPRM also proposed to require, with the harness assembly 
+removed, inspecting the harness assembly connectors for any mechanical 
+damage and corrosion to the electrical pins, and inspecting the 
+insulation tubing and wires of the harness assembly for any crack and 
+chafing. Depending on these results, the NPRM proposed to require 
+replacing the harness assembly.
+    If the harness assembly was required to be replaced as a result of 
+the proposed AD requirements, the NPRM proposed to require performing a 
+fuel quantity gauging system calibration.
+
+[[Page 58261]]
+
+Depending on the calibration results, the NPRM proposed to require 
+replacing the harness assembly and repeating the fuel quantity gauging 
+system calibration. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+    You may examine the Transport Canada AD in the AD docket at 
+<a href="http://regulations.gov">regulations.gov</a> under Docket No. FAA-2024-0232.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received no comments on the NPRM or on the determination of 
+the costs.
+
+Conclusion
+
+    These helicopters have been approved by Transport Canada and are 
+approved for operation in the United States. Pursuant to the FAA's 
+bilateral agreement with Canada, Transport Canada has notified the FAA 
+about the unsafe condition described in its AD. Except for minor 
+editorial changes, this AD is adopted as proposed in the NPRM. 
+Accordingly, the FAA is issuing this AD to address the unsafe condition 
+on these helicopters.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Bell Alert Service Bulletin 407-21-124, dated 
+February 1, 2022, which specifies procedures for a one-time visual 
+inspection of the internal weld joints of standpipe P/N 407-062-032-
+103. If there are any sharp edges, this service information specifies 
+rework procedures, which include deburring the sharp edges, removing 
+all residue, and applying a chemical film. This service information 
+also specifies procedures to remove and inspect the harness assembly 
+connectors for any damage to the electrical pins and inspect the 
+insulation tubing and wires for any cracks and chafing.
+    Additionally, this service information specifies if any damage is 
+found, contacting product support engineering and submitting certain 
+information. Finally, this service information specifies instructions 
+for various fuel procedures and checks.
+    The FAA also reviewed Fuel Quantity Gauging System, DMC-407-A-95-
+65-10-01A-273A-A, dated June 2, 2022, of Chapter 95--Instruments, of 
+Bell Model 407 Maintenance Manual, BHT-407-MM, Issue No. 014, dated 
+December 12, 2023, which specifies procedures for a fuel quantity 
+gauging system calibration procedure and inspecting the fuel quantity 
+display information.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in ADDRESSES.
+
+Differences Between This AD and the Transport Canada AD
+
+    Transport Canada AD CF-2023-11 requires contacting Bell for 
+disposition instructions if damage is found on the harness assembly, 
+whereas this AD requires removing an affected harness assembly from 
+service and replacing it with an airworthy harness assembly.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 51 helicopters of U.S. 
+Registry. Labor rates are estimated at $85 per work-hour. Based on 
+these numbers, the FAA estimates the following costs to comply with 
+this AD.
+    Inspecting the interior of the standpipe will take approximately 1 
+work-hour for an estimated cost of $85 per helicopter and $4,335 for 
+the U.S. fleet.
+    Inspecting the harness assembly connectors, insulation tubing, and 
+wiring will take approximately 1 work-hour for an estimated cost of $85 
+per helicopter and $4,335 for the U.S. fleet.
+    If required, deburring, cleaning, and applying a chemical film to 
+each affected weld joint will take approximately 0.5 work-hour for an 
+estimated cost of $43 per weld joint.
+    If required, replacing an affected harness assembly will take 
+approximately 1 work-hour and parts will cost approximately $1,071 for 
+an estimated cost of $1,156 per harness replacement.
+    If required, performing a fuel quantity gauging system calibration 
+will take approximately 10 work-hours for an estimated cost of $850 per 
+procedure.
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2024-10-12 Bell Helicopter Textron Canada Limited: Amendment 39-
+22758; Docket No. FAA-2024-0232; Project Identifier MCAI-2023-00353-
+R.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 22, 2024.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Bell Textron Canada Limited Model 407 
+helicopters, serial numbers 54832 through 54931 inclusive, 54933 
+through 54939 inclusive, and 54942 through 54954 inclusive, 
+certificated in any
+
+[[Page 58262]]
+
+category, with a fuel system standpipe assembly (standpipe) part 
+number 407-062-032-103 installed.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code: 2897, Fuel system 
+wiring.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report that certain standpipes may 
+have sharp edges at the interval weld joints due to a quality escape 
+during the manufacturing process. The FAA is issuing this AD to 
+detect sharp edges in the standpipe. The unsafe condition, if not 
+addressed, could result in fuel quantity system wiring damage, loss 
+of or erratic fuel quantity indication.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    (1) Within 300 hours time-in-service (TIS) or 6 months after the 
+effective date of this AD, whichever occurs first, accomplish the 
+actions required by paragraphs (g)(1)(i) and (ii) of this AD.
+    (i) With the standpipe removed from the aft fuel cell, inspect 
+the interior of the standpipe for any sharp edges on each internal 
+weld joint, as shown in Figure 1 of Bell Alert Service Bulletin 407-
+21-124, dated February 1, 2022. If there is a sharp edge on any 
+internal weld joint, before further flight, deburr the edges of each 
+affected weld joint using an aluminum oxide abrasive cloth or paper, 
+or equivalent, ensuring not to exceed 0.015 in (0.38 mm) depth into 
+the tube material at a 45-degree angle to the weld joint. Then, 
+using a clean cloth dampened with isopropyl alcohol or equivalent, 
+remove all sanding residue from the weld joint and apply a chemical 
+film material to any bare metal surfaces.
+    (ii) With the fuel quantity harness assembly (harness assembly) 
+removed, inspect the harness assembly connectors for any mechanical 
+damage and corrosion to the electrical pins and inspect the 
+insulation tubing and wires for any cracks and chafing. For the 
+purposes of this AD, mechanical damage is indicated by deterioration 
+of the connections or pins.
+    (A) If there is any corrosion or mechanical damage, before 
+further flight, remove the harness assembly from service and replace 
+it with an airworthy harness assembly.
+    (B) If there is a crack or any chafing, before further flight, 
+remove the harness assembly from service and replace it with an 
+airworthy harness assembly.
+    (2) If the harness assembly was required to be replaced as a 
+result of the inspection required by paragraph (g)(1)(ii) of this AD 
+or by this paragraph, before further flight, with the standpipe and 
+harness assembly installed, perform a fuel quantity gauging system 
+calibration in accordance with paragraphs 4 through 18 of Fuel 
+Quantity Gauging System, DMC-407-A-95-65-10-01A-273A-A, dated June 
+2, 2022, of Chapter 95--Instruments, of Bell Model 407 Maintenance 
+Manual, BHT-407-MM, Issue No. 014, dated December 12, 2023. As a 
+result of the fuel quantity gauging system calibration, if a fuel 
+level does not indicate the correct reading or displays no reading, 
+before further flight, remove the harness assembly from service and 
+replace it with an airworthy harness assembly; and repeat the 
+actions required by this paragraph for the newly installed harness 
+assembly.
+
+(h) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, send 
+it to the attention of the person identified in paragraph (i) of 
+this AD. Information may be emailed to: <a href="/cdn-cgi/l/email-protection#0d34204c5b5e204c445f203a3e3d204c40424e4d6b6c6c236a627b"><span class="__cf_email__" data-cfemail="a89185e9fefb85e9e1fa859f9b9885e9e5e7ebe8cec9c986cfc7de">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office. The following provisions also apply to this AD.
+
+(i) Related Information
+
+    For more information about this AD, contact Michael Hughlett, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: (817) 222-5889; email: 
+<a href="/cdn-cgi/l/email-protection#b2dfdbd1dad3d7de9cfac7d5daded7c6c6f2d4d3d39cd5ddc4"><span class="__cf_email__" data-cfemail="fb969298939a9e97d5b38e9c93979e8f8fbb9d9a9ad59c948d">[email&#160;protected]</span></a>.
+
+(j) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Bell Alert Service Bulletin 407-21-124, dated February 1, 
+2022.
+    (ii) Fuel Quantity Gauging System, DMC-407-A-95-65-10-01A-273A-
+A, dated June 2, 2022, of Chapter 95--Instruments, of Bell Model 407 
+Maintenance Manual, BHT-407-MM, Issue No. 014, dated December 12, 
+2023.
+    (3) For Bell Helicopter Textron Canada Limited material, contact 
+Grant Walker, 330 Sparks St., Ottawa, K1A 0N5, Canada; phone: (888) 
+663-3639; email: <a href="/cdn-cgi/l/email-protection#4720352629336930262b2c2235073324692024692426"><span class="__cf_email__" data-cfemail="482f3a29263c663f2924232d3a083c2b662f2b662b29">[email&#160;protected]</span></a>.
+    (4) You may view this material at the FAA, Office of the 
+Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-
+321, Fort Worth, TX 76177. For information on the availability of 
+this material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a> or email <a href="/cdn-cgi/l/email-protection#6107134f080f1211040215080e0f210f0013004f060e17"><span class="__cf_email__" data-cfemail="6d0b1f4304031e1d080e190402032d030c1f0c430a021b">[email&#160;protected]</span></a>.
+
+    Issued on July 10, 2024.
+James D. Foltz,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-15808 Filed 7-17-24; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,544 @@
+<html>
+<head>
+<title>Federal Register, Volume 90 Issue 227 (Friday, November 28, 2025)</title>
+</head>
+<body><pre>
+[Federal Register Volume 90, Number 227 (Friday, November 28, 2025)]
+[Rules and Regulations]
+[Pages 54559-54563]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2025-21476]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0479; Project Identifier MCAI-2024-00436-T; 
+Amendment 39-23172; AD 2025-20-19]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2016-14-
+03, which applied to all Airbus SAS Model A319-111, -112, -113, -114, -
+115, -131, -132, and -133 airplanes; Model A320-211, -212, -214, -231, 
+-232, and -233 airplanes; and Model A321-111, -112, -131, -211, -212, -
+213, -231, and -232 airplanes. AD 2016-14-03 required reinforcing the 
+forward pressure bulkhead at a certain stringer on both the left-hand 
+and right-hand sides and doing related investigative and corrective 
+actions if necessary. Since the FAA issued AD 2016-14-03, new crack 
+findings have prompted the need for repetitive inspections of the area. 
+This AD continues to require the actions in AD 2016-14-03, adds 
+repetitive inspections of structure at a certain frame and applicable 
+corrective actions, provides a terminating action for the repetitive 
+inspections, and revises the applicability by removing airplanes and 
+adding certain airplane models. The FAA is issuing this AD to address 
+the unsafe condition on these products.
+
+DATES: This AD is effective January 2, 2026.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of January 2, 
+2026.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-0479; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+    <bullet> For European Union Aviation Safety Agency (EASA) material 
+identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
+Cologne, Germany; telephone +49 221 8999 000; email <a href="/cdn-cgi/l/email-protection#b1f0f5c2f1d4d0c2d09fd4c4c3dec1d09fd4c4"><span class="__cf_email__" data-cfemail="97d6d3e4d7f2f6e4f6b9f2e2e5f8e7f6b9f2e2">[email&#160;protected]</span></a>. 
+You may find this material on the EASA website at ad.easa.europa.eu.
+    <bullet> You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-0479.
+
+FOR FURTHER INFORMATION CONTACT: Nicholas Benson, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3647; email: <a href="/cdn-cgi/l/email-protection#4b2522282324272a38652365292e253824250b2d2a2a652c243d"><span class="__cf_email__" data-cfemail="a1cfc8c2c9cecdc0d28fc98fc3c4cfd2cecfe1c7c0c08fc6ced7">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2016-14-03, Amendment 39-18584 (81 FR 
+44496, July 8, 2016) (AD 2016-14-03). AD 2016-14-03 applied to all 
+Airbus SAS Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes;
+
+[[Page 54560]]
+
+Model A320-211, -212, -214, -231, -232, and -233 airplanes; and Model 
+A321-111, -112, -131, -211, -212, -213, -231, and -232 airplanes. AD 
+2016-14-03 required reinforcing the forward pressure bulkhead at a 
+certain stringer on both the left-hand and right-hand sides and doing 
+related investigative and corrective actions if necessary. The FAA 
+issued AD 2016-14-03 to prevent fatigue cracking of the forward 
+pressure bulkhead, which could result in reduced structural integrity 
+of the airplane.
+    The NPRM was published in the Federal Register on March 27, 2025 
+(90 FR 13848). The NPRM was prompted by AD 2024-0147R1, dated August 7, 
+2024 (EASA AD 2024-0147R1) (also referred to as ``the MCAI''), issued 
+by EASA, which is the Technical Agent for the Member States of the 
+European Union. The MCAI states that after EASA AD 2014-0209 was 
+issued, several findings of cracks were reported in service during 
+application of Airworthiness Limitation Item (ALI) tasks 532166 and 
+533186. As a result of these findings, Airbus has developed different 
+thresholds and inspection requirements compared to those specified in 
+ALI tasks 532166 and 533186 and requires those inspections until a 
+modification is done.
+    In the NPRM, the FAA proposed to continue to require the actions in 
+AD 2016-14-03. The FAA also proposed to add repetitive inspections of 
+structure at a certain frame and applicable corrective actions, provide 
+a terminating action for the repetitive inspections, and revise the 
+applicability by removing airplanes and adding certain airplane models, 
+as specified in EASA AD 2024-0147R1. The FAA is issuing this AD to 
+address the unsafe condition on these airplane products.
+    You may examine the MCAI in the AD docket at <a href="http://regulations.gov">regulations.gov</a> under 
+Docket No. FAA-2025-0479.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comment from United Airlines who supported the 
+NPRM without change.
+    The FAA received additional comments from American Airlines 
+(American), Delta Air Lines (Delta), and ProTech Aero Services Limited 
+(ProTech). The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Request To Confirm Use of Later Revisions Is Allowed
+
+    ProTech requested the FAA confirm that the proposed AD would allow 
+the use of later-approved revisions of the material specified in EASA 
+AD 2024-0147R1, as acceptable for compliance with the AD requirements.
+    This AD does allow the use of later-approved revisions of the 
+material referenced in EASA AD 2024-0147R1 as acceptable for compliance 
+with the required actions. This AD adopts the ``Ref. Publications'' 
+section of EASA AD 2024-0147R1, which includes the current version of 
+the referenced material as well as later approved revisions.
+
+Request To Provide Credit for Actions Accomplished per a Certain 
+Service Bulletin
+
+    Delta requested the FAA confirm that accomplishment of Airbus 
+Service Bulletin A320-53-1372, dated May 15, 2018, instead of Airbus 
+Service Bulletin A320-53-1268, Revision 03, dated May 7, 2015, suffices 
+for taking credit for paragraph (4) of EASA AD 2024-0147R1. If the FAA 
+agrees, then Delta requested the FAA add a new exception to paragraph 
+(h) of the proposed AD to specify, where paragraph (4) of EASA AD 2024-
+0147R1 states ``in accordance with the instructions of Airbus Service 
+Bulletin A320-53-1268,'' this AD considers Airbus Service Bulletin 
+A320-53-1372 as acceptable for compliance. Delta requested the new 
+exception because paragraph (4) of the EASA AD 2024-0147R1 does not 
+mention Airbus Service Bulletin A320-53-1372, and the FAA's NPRM does 
+not address Delta's concern. Delta stated it received an acceptable 
+method of compliance (AMOC) to FAA AD 2016-14-03 (via AMOC Letter No. 
+AIR-676-18-307, dated July 20, 2018) that allowed use of Airbus Service 
+Bulletin A320-53-1372 instead of Airbus Service Bulletin A320-53-1268 
+and would like to take credit for previous compliance actions for its 
+applicable airplanes.
+    The FAA partially agrees. The FAA agrees that, for certain airplane 
+serial numbers, the modification specified in paragraph (3) of EASA AD 
+2024-0147R1 may be accomplished using the original issue of Airbus 
+Service Bulletin A320-53-1372, dated May 15, 2018, or later approved 
+revisions, but disagrees that an exception is needed to provide credit 
+for accomplishing the modification using the original issue of that 
+service bulletin before the effective date of this AD. EASA AD 2024-
+0147R1 defines ``the applicable modification SB'' as Airbus Service 
+Bulletin A320-53-1268, Revision 01, or Airbus Service Bulletin A320-53-
+1372, as applicable to the manufacturer serial number. Since no 
+revision number is cited for Airbus Service Bulletin A320-53-1372 in 
+the definition, this means operators may use any revision of the 
+service bulletin specified in the ``Ref. Publications'' paragraph of 
+the EASA AD, as applicable, to accomplish the modification. However, 
+paragraph (4) of EASA AD 2024-0147R1 is necessary to provide credit for 
+any modification done before the effective date of this AD using the 
+original issue of Airbus Service Bulletin A320-53-1268, dated January 
+8, 2013, because the definition only cites Revision 01 of that service 
+bulletin. The FAA has not changed the AD in this regard.
+    The FAA clarifies that AMOCs approved previously for AD 2016-14-03 
+are approved as AMOCs for the corresponding provisions of EASA AD 2024-
+0147R1 that are required by paragraph (g) of this AD. The FAA has 
+revised paragraph (i) of this AD accordingly.
+
+Request To Correct Part Numbers
+
+    American requested the FAA revise the proposed AD to allow use of 
+the correct part numbers as an AMOC to certain part numbers specified 
+in Figure A-GBAAG--Sheet 02 of Airbus Service Bulletin A320-53-1383, 
+dated March 5, 2019. American stated that, while incorporating changes 
+found in Airbus Service Bulletin Information Transmission (SBIT) 19-
+0038, Revision 03, dated February 10, 2025, it found an error in the 
+figure, and Airbus confirmed that certain part numbers in the tables 
+and instructions for COMPD07 of subtasks 531383-420-202-001 and 531383-
+420-204-001 should be corrected.
+    The FAA agrees there is an error in Airbus Service Bulletin A320-
+53-1383, dated March 5, 2019, but no change to this AD is necessary. 
+The FAA reviewed the service bulletin and determined that Figure A-
+GBAAG Sheet 02 is not required for compliance. Subtasks 531383-420-202-
+001 and 531383-420-204-001 provide procedures to wet install fasteners 
+in accordance with Structural Repair Manual (SRM) 51-42-00, but they 
+only reference the figure and an airplane maintenance manual (AMM) task 
+for additional information. Since the service bulletin does not specify 
+that the fastener installation must be done in accordance with the 
+figure, operators are not required to use the part numbers identified 
+in the figure. Operators may instead use the correct part numbers 
+identified in Airbus Message 81581889/005, Discrepancy in Figure A-
+GBAAG Sheet 02, dated April 24, 2025, to comply with the requirements 
+of this AD. Further, Airbus's response to American
+
+[[Page 54561]]
+
+indicated the part numbers would be corrected in a later revision of 
+the service bulletin, which may be used for compliance according to the 
+``Ref. Publications'' section of EASA AD 2024-0147R1. The FAA has not 
+changed the AD in this regard.
+
+Request To Correct a Typographical Error
+
+    Delta requested the FAA revise the exception in paragraph (h)(4) of 
+the proposed AD by changing ``herein'' to ``therein.'' Delta stated 
+paragraph (6) of EASA AD 2024-0147R1 uses ``herein'' to specify the 
+compliance times for repair instructions provided by Airbus based on 
+inspection findings after accomplishing ALI tasks 532166 and 533186. 
+Delta believes ``herein'' is a typographical error because the EASA AD 
+does not mention any compliance times for the ALI tasks inspection 
+findings. Delta stated that repair instructions and compliance times as 
+a result of the ALI inspection findings should be specified in the 
+appropriate Airbus Repair Design Approval Forms (RDAFs).
+    The FAA does not agree that usage of ``herein'' in EASA AD 2024-
+0147R1 and paragraph (h)(4) of this AD is a typographical error. 
+Paragraph (6) of the EASA AD applies to airplanes that have been 
+inspected per ALI task 532166 and/or 533186 and repaired using Airbus 
+approved instructions. The FAA clarifies that, for these airplanes, 
+paragraph (6) of the EASA AD specifies accomplishing the repetitive 
+inspections of each repaired hole in accordance with the applicable 
+Airbus approved instructions within the compliance time ``herein,'' 
+where herein refers to table 1 of the EASA AD for the applicable 
+inspection compliance times. The FAA has not revised the AD in this 
+regard.
+
+Request To Calculate Compliance Time Based on Accomplishment of a 
+Certain Task
+
+    Delta requested the FAA add an exception to paragraph (h) of the 
+proposed AD to allow the compliance time in table 1 of EASA AD 2024-
+0147R1 to be calculated based on accomplishment of ALI task 532166-01-1 
+instead of ALI task 532166-02-1. Delta noted that ALI task 532166-02-1 
+states the task is an alternative to ALI task 532166-01-1, and that it 
+accomplishes ALI task 532166-01-1 instead of ALI task 532166-02-1. 
+Since Airbus has stipulated that the task is alternative, Delta 
+therefore concluded that the compliance time may also be calculated 
+using ALI task 532166-01-1 instead of ALI task 532166-02-1.
+    The FAA does not agree with the request. EASA AD 2024-0147R1 does 
+not list ALI task 532166-01-1 as an alternate inspection task in Table 
+1--Initial Inspection. Further, ALI task 532166-02-1 is a special 
+detailed inspection (rototest), while ALI task 532166-01-1 is a visual 
+inspection. The FAA has not changed this AD in this regard.
+
+Conclusion
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA reviewed the relevant 
+data, considered any comments received, and determined that air safety 
+requires adopting this AD as proposed. Accordingly, the FAA is issuing 
+this AD to address the unsafe condition on these products. Except for 
+minor editorial changes, and any other changes described previously, 
+this AD is adopted as proposed in the NPRM. None of the changes will 
+increase the economic burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2024-0147R1, which specifies procedures 
+for repetitive inspections for cracking of the airplane structure at 
+frame (FR) 35 and stringer (STGR) 30 on the left-hand and right-hand 
+sides for Airbus SAS Model A318, Model A319, and Model A320 airplanes; 
+and at FR 35.8 and STGR 30 on the left-hand and right-hand sides for 
+Airbus SAS Model A321 airplanes. EASA AD 2024-0147R1 also specifies 
+obtaining and following instructions for crack repair. EASA AD 2024-
+0147R1 specifies that accomplishment of that inspection on an airplane 
+terminates ALI tasks 532166 and task 533186 requirements.
+    EASA AD 2024-0147R1 also specifies procedures for modifying the 
+forward pressure bulkhead at the frame coupling on the left-hand and 
+right-hand sides of FR 35 and STGR 30, including applicable related 
+investigative and corrective actions, for Airbus SAS Model A318, Model 
+A319, and Model A320 airplanes; and at FR 35.8 and STGR 30 for Airbus 
+SAS Model A321 airplanes. EASA AD 2024-0147R1 specifies that this 
+modification constitutes terminating action for the repetitive 
+inspections for that airplane.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,922 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+    The FAA estimates that it would take up to 21 work-hours per 
+product to comply with the retained actions from AD 2016-14-03. The 
+average labor rate is $85 per work-hour. Based on these figures, FAA 
+estimates the cost for U.S. operators is up to $3,430,770, or up to 
+$1,785 per product.
+    The FAA estimates that it would take up to 11 work-hours per 
+product to comply with the new proposed actions. The average labor rate 
+is $85 per work-hour. Based on these figures, FAA estimates the cost 
+for U.S. operators is up to $1,797,070, or up to $935 per product.
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition actions specified in this AD.
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. The FAA does not control warranty coverage for 
+affected individuals. As a result, the FAA has included all known costs 
+in the cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national
+
+[[Page 54562]]
+
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2016-14-03, Amendment 39-18584 
+(81 FR 44496, July 8, 2016); and
+0
+b. Adding the following new AD:
+
+2025-20-19 Airbus SAS: Amendment 39-23172; Docket No. FAA-2025-0479; 
+Project Identifier MCAI-2024-00436-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective January 2, 2026.
+
+(b) Affected ADs
+
+    This AD replaces AD 2016-14-03, Amendment 39-18584 (81 FR 44496, 
+July 8, 2016) (AD 2016-14-03).
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model airplanes specified in 
+paragraphs (c)(1) through (4) of this AD, certificated in any 
+category, as identified in European Union Aviation Safety Agency 
+(EASA) AD 2024-0147R1, dated August 7, 2024 (EASA AD 2024-0147R1).
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by the need to complete certain mandated 
+programs intended to support the airplane reaching its limit of 
+validity (LOV) of the engineering data that support the established 
+structural maintenance program. This AD was also prompted by reports 
+that during inspections accomplished as specified in certain 
+Airworthiness Limitation Items (ALIs), cracks were detected on the 
+fastener holes at frame (FR) 35 or FR 35.8 between stringers (STGRs) 
+28 and 31. The FAA is issuing this AD to prevent fatigue cracking on 
+the forward pressure bulkhead. The unsafe condition, if not 
+addressed, could result in reduced structural integrity of the 
+fuselage.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2024-0147R1.
+
+(h) Exceptions to EASA AD 2024-0147R1
+
+    (1) Where EASA AD 2024-0147R1 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where paragraph (2) of EASA AD 2024-0147R1 specifies ``If, 
+during any inspection as required by paragraph (1) of this AD, 
+discrepancies are detected, before next flight, contact Airbus to 
+obtain approved instructions for corrective action and accomplish 
+those instructions accordingly'', this AD requires replacing that 
+text with the following: ``If, during any inspection as required by 
+paragraph (1) of this AD, any cracking is detected, the cracking 
+must be repaired before further flight using a method approved by 
+the Manager, AIR-520, Continued Operational Safety Branch, FAA; or 
+EASA; or Airbus SAS's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.''
+    (3) Where EASA AD 2024-0147R1 refers to ``03 October 2014 [the 
+effective date of EASA AD 2014-0209],'' this AD requires using 
+August 12, 2016 (the effective date of AD 2016-14-03).
+    (4) Where paragraph (6) of EASA AD 2024-0147R1 specifies 
+``repaired using Airbus approved instructions, accomplish the 
+(repetitive) inspection for each repaired hole in accordance with 
+the applicable Airbus approved instructions within the compliance 
+time herein specified'', this AD requires replacing that text with 
+the following: ``repaired using a method approved by the Manager, 
+AIR-520, Continued Operational Safety Branch, FAA; or EASA; or 
+Airbus SAS's EASA DOA, provided the DOA approval includes the DOA-
+authorized signature: accomplish the (repetitive) inspection for 
+each repaired hole in accordance with the applicable approved 
+instructions within the compliance time herein specified.''
+    (5) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0147R1.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, send it to the attention of 
+the person identified in paragraph (j) of this AD and email to: 
+<a href="/cdn-cgi/l/email-protection#094844464a496f6868276e667f"><span class="__cf_email__" data-cfemail="fabbb7b5b9ba9c9b9bd49d958c">[email&#160;protected]</span></a>.
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (ii) AMOCs approved previously for AD 2016-14-03 are approved as 
+AMOCs for the corresponding provisions of EASA AD 2024-0147R1 that 
+are required by paragraph (g) of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any material contains procedures or 
+tests that are identified as RC, those procedures and tests must be 
+done to comply with this AD; any procedures or tests that are not 
+identified as RC are recommended. Those procedures and tests that 
+are not identified as RC may be deviated from using accepted methods 
+in accordance with the operator's maintenance or inspection program 
+without obtaining approval of an AMOC, provided the procedures and 
+tests identified as RC can be done and the airplane can be put back 
+in an airworthy condition. Any substitutions or changes to 
+procedures or tests identified as RC require approval of an AMOC.
+
+(j) Additional Information
+
+    For more information about this AD, contact Nicholas Benson, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3647; email: <a href="/cdn-cgi/l/email-protection#e58b8c868d8a898496cb8dcb87808b968a8ba5838484cb828a93"><span class="__cf_email__" data-cfemail="dab4b3b9b2b5b6bba9f4b2f4b8bfb4a9b5b49abcbbbbf4bdb5ac">[email&#160;protected]</span></a>.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0147R1, 
+dated August 7, 2024.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email <a href="/cdn-cgi/l/email-protection#58191c2b183d392b39763d2d2a372839763d2d"><span class="__cf_email__" data-cfemail="7435300734111507155a1101061b04155a1101">[email&#160;protected]</span></a>. You may find this material on 
+the EASA website at ad.easa.europa.eu.
+
+[[Page 54563]]
+
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit <a href="http://www.archives.gov/federal-register/cfr/ibr-locations">www.archives.gov/federal-register/cfr/ibr-locations</a> or email <a href="/cdn-cgi/l/email-protection#d6b0a4f8bfb8a5a6b3b5a2bfb9b896b8b7a4b7f8b1b9a0"><span class="__cf_email__" data-cfemail="82e4f0acebecf1f2e7e1f6ebedecc2ece3f0e3ace5edf4">[email&#160;protected]</span></a>.
+
+    Issued on October 3, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-21476 Filed 11-26-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

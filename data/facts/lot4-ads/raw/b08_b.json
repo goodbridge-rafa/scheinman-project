@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "2017-18908": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "One manufacturing lot of EDPs has excessive pitting in the aluminum port caps that could cause multiple-origin fatigue cracking of the port caps.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "One manufacturing lot of EDPs has excessive pitting in the aluminum port caps that could cause multiple-origin fatigue cracking of the port caps.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "One manufacturing lot of EDPs has excessive pitting in the aluminum port caps that could cause multiple-origin fatigue cracking of the port caps.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires an inspection to determine if an affected EDP is installed with replacement as necessary. ... Within 100 hours time-in service (TIS) after October 16, 2017 (the effective date of this AD), inspect the airplane to determine if any affected serial number EDP, part number (P/N) 66179-01 (Beechcraft/Textron P/N 390-389022-0003), is installed on the airplane following the Accomplishment Instructions in Beechcraft Mandatory Service Bulletin SB 29-4161, dated November 18, 2016.",
+     "value": "one_time_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2018-01197": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Modify (replace aluminum fittings with titanium fittings) the pressurized floor fittings at FR 36",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "During centre fuselage certification full scale fatigue testing, damage was found on the pressurized floor fittings at Frame (FR) 36, below the lower surface panel.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "We are issuing this AD to prevent fatigue cracking in the pressurized floor fittings at frame (FR) 36, which could result in the reduced structural integrity of the floor fittings and subsequent depressurization of the fuselage.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "AD 2016-02-01 required repetitive inspections to detect cracks of the pressurized floor fittings at a certain frame, and renewal of the zone protective finish or replacement of fittings with new fittings if necessary. ... This new AD retains the requirements of AD 2016-02-01, and requires accomplishment of the modification that was optional in AD 2016-02-01. ... If any crack is found during any inspection required by paragraph (g)(1) of this AD: Before further flight, repair using a method approved by the Manager, International Section, Transport Standards Branch, FAA; or the European Aviation Safety Agency (EASA); or Airbus's EASA Design Organization Approval (DOA).",
+     "value": "repetitive_inspection;replacement;modification;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2016-02-01, Amendment 39-18380 (81 FR 4878, January 28, 2016)",
+     "value": "AD 2016-02-01"
+    }
+   ]
+  },
+  "2019-15518": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "This AD was prompted by a report indicating that structural fatigue cracks can develop in certain aluminum pressure module check valves prior to the design limit.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The FAA is issuing this AD to address structural fatigue cracks in certain aluminum pressure module check valves, which could cause separation of the check valve head from the check valve body when hydraulic pressure is applied, resulting in injuries to maintenance personnel.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by a report indicating that structural fatigue cracks can develop in certain aluminum pressure module check valves prior to the design limit.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires an inspection to determine the part numbers of the four hydraulic systems A and B pressure module check valves and applicable on-condition actions. ... On-condition actions include replacement of Parker pressure module check valves, P/N H61C0552M1, with Crissair pressure module check valves, P/N 1C4196. ... Within 120 days after the effective date of this AD, inspect the airplane and do all applicable on-condition actions using a method approved in accordance with the procedures specified in paragraph (j) of this AD.",
+     "value": "one_time_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2019-28465": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by an evaluation by the design approval holder (DAH) indicating that the fuselage stringers, stringer splices, and skin splice straps are subject to widespread fatigue damage (WFD).",
+     "value": "stringer"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive detailed inspections of certain stringer splices and skin splice straps for any cracks, repetitive high frequency eddy current (HFEC) inspections of certain stringers and stringer splices for any cracks, and applicable on-condition actions.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The FAA is issuing this AD to address undetected fatigue cracks, which could adversely affect the structural integrity of the airplane.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires repetitive detailed inspections of certain stringer splices and skin splice straps for any cracks, repetitive high frequency eddy current (HFEC) inspections of certain stringers and stringer splices for any cracks, and applicable on-condition actions. ... On-condition actions include repair.",
+     "value": "repetitive_inspection;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2020-12821": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "There is little established knowledge of this type of intergranular crack initiation and growth in this aluminum alloy, although an investigation has been underway for 2 years.",
+     "value": "aluminum alloy"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by the failure of a propeller blade that resulted in the loss of the airplane.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The investigation further revealed that 54H60 model propeller blades manufactured before 1971 are susceptible to cracks of the propeller blade in the area of the internal taper bore.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "From this intergranular crack, a fatigue crack initiated and grew under service loading until the Hamilton Sundstrand 54H60 model propeller blade could no longer sustain the applied loads and ultimately the blade separated.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires initial and repetitive eddy current inspections (ECIs) of the affected propeller blades and replacement of the propeller blades that fail the inspection.",
+     "value": "repetitive_inspection;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "(b) Affected ADs None.",
+     "value": "none"
+    }
+   ]
+  },
+  "2022-10952": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The NPRM also proposed to correct paragraph (g)(4) of the Required Actions so that the installation of the titanium stabilizer strut fitting is terminating action for the 50-hour time-in-service (TIS) inspections of the aluminum stabilizer strut fitting.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD was prompted by incidents of fatigue cracks in a forward root fitting and life limit recalculations for forward root fitting P/N 92209-07111-101 and 92070-20125-101.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "(D) Visually inspect each attachment fitting bolt hole and fastener hole for a crack, wear, and corrosion.",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD was prompted by incidents of fatigue cracks in a forward root fitting and life limit recalculations for forward root fitting P/N 92209-07111-101 and 92070-20125-101.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD retains certain requirements and the prohibition for installing certain stabilizer assemblies on any helicopter from AD 2020-26-13, corrects certain part numbers, and requires additional repetitive inspections. ... (A) If the forward root fitting has accumulated 7,900 or more total hours TIS, before further flight, remove the forward root fitting from service. ... If required, replacing a forward root fitting takes about 10 work-hours and parts cost about $25,000 for an estimated cost of $25,850 per replacement. ... (A) If there is corrosion within allowable limits, before further flight, treat for corrosion in accordance with FAA-approved procedures.",
+     "value": "repetitive_inspection;replacement;repair"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "This AD replaces AD 2020-26-13, Amendment 39-21368 (85 FR 84201, December 28, 2020) (AD 2020-26-13).",
+     "value": "AD 2020-26-13"
+    }
+   ]
+  }
+ }
+}

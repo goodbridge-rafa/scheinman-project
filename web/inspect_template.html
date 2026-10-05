@@ -1,0 +1,585 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SCHEINMAN &middot; Inspect a part</title>
+<meta name="description" content="Submit a plate, declare its context, and get back a measured verdict with every claim anchored to a public engineering source.">
+$ROBOTS
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="$FONTS">
+<style>
+$WORLD
+  .counter { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: var(--s6);
+    align-items: start; }
+  @media (max-width: 900px) { .counter { grid-template-columns: minmax(0, 1fr); } }
+  .intro { max-width: 62ch; margin-bottom: var(--s6); display: grid; gap: var(--s4); }
+  #turnstile-slot { min-height: 66px; }
+  @media (max-width: 430px) { #turnstile-slot { min-height: 140px; } }
+  .samples { margin-top: var(--s8); }
+  .samples ul { list-style: none; margin: 0; padding: 0;
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: var(--s4); }
+  .samples li { border: 1px solid var(--hairline); background: var(--surface); padding: var(--s4);
+    display: flex; flex-direction: column; gap: var(--s3); align-items: flex-start; }
+  .samples li p { font-size: 14px; color: var(--ink-2); }
+  .samples strong { font-family: var(--data); font-size: 14px; font-weight: 500; }
+  .running { display: grid; grid-template-columns: 300px minmax(0, 1fr); gap: var(--s7);
+    align-items: center; }
+  @media (max-width: 900px) { .running { grid-template-columns: minmax(0, 1fr); }
+    .running figure { max-width: 260px; } }
+  .running figure { margin: 0; display: flex; justify-content: center; }
+  .finding { display: grid; gap: var(--s4); }
+  .finding .head { display: flex; align-items: center; gap: var(--s3); flex-wrap: wrap; }
+</style>
+</head>
+<body>
+<div class="frame">
+$RAIL
+  <div class="column">
+$TOPBAR
+    <main>
+      <div class="wrap">
+
+        <!-- 1. the counter -->
+        <section id="view-counter">
+          <div class="intro">
+            <h1>Inspect a part</h1>
+            <p class="lead">Upload the part, declare its context, and the machine measures the real
+              geometry, judges it against rules that quote their source, corrects what fails, and
+              proves the fix by measuring again.</p>
+            <p class="note">$SCOPE</p>
+          </div>
+
+          <form id="submit-form" class="counter" novalidate>
+            <div>
+              <div class="drop" id="drop" tabindex="0" role="button" aria-describedby="file-rules">
+                <svg width="132" height="84" viewBox="0 0 132 84" role="img"
+                     aria-label="A plate with two holes, one of them flagged" focusable="false"
+                     fill="none" stroke="currentColor">
+                  <rect x="10" y="12" width="112" height="60" stroke-width="1.5" opacity="0.55"></rect>
+                  <circle cx="44" cy="42" r="10" stroke-width="1.5" opacity="0.55"></circle>
+                  <circle cx="88" cy="42" r="10" stroke-width="2" stroke="#f7b14a"></circle>
+                  <path d="M4 6h9M4 6v9M128 6h-9M128 6v9M4 78h9M4 78v-9M128 78h-9M128 78v-9"
+                        stroke-width="1.2" opacity="0.4"></path>
+                </svg>
+                <span class="title" id="drop-title">Drag your .step file here</span>
+                <span class="btn-ghost btn-small" aria-hidden="true">Browse files</span>
+                <span class="note" id="file-rules">.step or .stp &middot; up to $MAX_MB MB &middot;
+                  flat plates with round through-holes, v1</span>
+                <input type="file" id="file" name="part" accept=".step,.stp" hidden>
+              </div>
+              <div id="file-card" class="file-card" hidden>
+                <span class="label">File</span>
+                <span class="name" id="file-name"></span>
+                <span class="note" id="file-size"></span>
+                <button type="button" class="btn-ghost btn-small" id="file-clear">Remove</button>
+              </div>
+            </div>
+
+            <div class="rows">
+              <div class="panel">
+                <header><span class="label">Declared context</span>
+                  <span class="note">a CAD file holds shape, never purpose</span></header>
+                <div class="body">
+                  <div class="field">
+                    <label class="label" for="material">Material series</label>
+                    <select id="material" name="material_series">
+$MATERIAL_OPTIONS
+                    </select>
+                    <span class="note">The first digit of the alloy number is the family: 7075-T6
+                      is 7xxx. Today the fatigue rule fires for 7xxx under cyclic loading; the edge,
+                      pitch and thickness rules apply to every family.</span>
+                  </div>
+                  <div class="field">
+                    <span class="label" id="loading-label">Loading</span>
+                    <div class="choice" role="group" aria-labelledby="loading-label">
+$LOADING_CHIPS
+                    </div>
+                    <span class="note">Cyclic loading arms the fatigue rules, the strict ones.</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="panel">
+                <div class="body" style="gap: var(--s2);">
+                  <div id="turnstile-slot" class="cf-turnstile" data-sitekey="$TURNSTILE_SITEKEY"
+                       data-theme="dark" data-size="flexible" data-callback="scheinmanHumanOk"
+                       data-expired-callback="scheinmanHumanLost"
+                       data-error-callback="scheinmanHumanLost"></div>
+                  <script>
+                    // Cloudflare's flexible widget needs 300 px; a 360 px phone
+                    // gives this panel less. Pick the compact form before the
+                    // widget script scans for it.
+                    if (window.matchMedia && window.matchMedia('(max-width: 430px)').matches) {
+                      document.getElementById('turnstile-slot').setAttribute('data-size', 'compact');
+                    }
+                  </script>
+                  <span class="note" id="human-hint">Human check: Cloudflare confirms a person, not
+                    a robot, sent this. It usually passes on its own.</span>
+                </div>
+              </div>
+
+              <div id="form-error" class="banner is-stop" role="alert" hidden></div>
+
+              <div class="row" style="display: flex; gap: var(--s3); align-items: center; flex-wrap: wrap;">
+                <button type="submit" class="btn" id="submit" disabled>Inspect part</button>
+                <span class="note" id="submit-hint">Add a file to enable this.</span>
+              </div>
+            </div>
+          </form>
+
+          <section class="samples" aria-labelledby="samples-h">
+            <div class="dim">
+              <h2 id="samples-h">Never used it? Start with one of these</h2>
+              <span class="rule"></span>
+              <span class="label count">Built by this project</span>
+            </div>
+            <ul>
+              <li>
+                <span class="tag is-live">Expect a correction</span>
+                <strong>bracket-sample.step</strong>
+                <p>A 100 x 60 x 2 mm plate whose first hole sits too close to the edge. Declare
+                  <b>7xxx</b> and <b>cyclic</b>: two rules fire, the machine moves the hole, and then
+                  proves the fix.</p>
+                <a class="btn-ghost btn-small" href="$BASE/samples/bracket-sample.step" download>Download sample A</a>
+              </li>
+              <li>
+                <span class="tag is-pass">Expect a clean pass</span>
+                <strong>cover-sample.step</strong>
+                <p>The same size plate, three holes placed properly, rounded corners. Declare
+                  <b>7xxx</b> and <b>cyclic</b>: nothing is broken, and the report says which rules
+                  were checked and which were not exercised.</p>
+                <a class="btn-ghost btn-small" href="$BASE/samples/cover-sample.step" download>Download sample B</a>
+              </li>
+            </ul>
+          </section>
+
+          <section style="margin-top: var(--s8);" aria-labelledby="steps-h">
+            <div class="dim">
+              <h2 id="steps-h">What happens after you press inspect</h2>
+              <span class="rule"></span>
+              <span class="label count">Four layers &middot; one object</span>
+            </div>
+            <div class="section-view">
+              <figure>
+$STACK
+              </figure>
+              <ol class="layers">
+$LAYERS
+              </ol>
+            </div>
+            <p class="note" style="margin-top: var(--s4);">$FIGNOTE</p>
+          </section>
+        </section>
+
+        <!-- 2. the engine is working -->
+        <section id="view-progress" hidden aria-live="polite">
+          <div class="dim">
+            <h2 id="progress-title">Measuring</h2>
+            <span class="rule"></span>
+            <span class="label count" id="progress-job"></span>
+          </div>
+          <p class="lead">The engine is running the same measurement this project proves green on
+            every commit. This page updates itself; nothing is lost if you close it and come back
+            with the same link.</p>
+          <div class="running" style="margin-top: var(--s6);">
+            <figure id="progress-stack">
+$STACK_RUNNING
+            </figure>
+            <div>
+              <ol class="progress" id="progress-steps">
+$PROGRESS_STEPS
+              </ol>
+              <div style="display: flex; gap: var(--s3); align-items: center; margin-top: var(--s5);">
+                <span class="spin" aria-hidden="true"></span>
+                <span class="note" id="progress-note">Waiting for the engine to pick up the job.</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 3. the delivery -->
+        <section id="view-result" hidden></section>
+
+      </div>
+    </main>
+$FOOT
+  </div>
+</div>
+
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+$WORDING
+$LOCK
+<script>
+(function () {
+  'use strict';
+  var $ = function (id) { return document.getElementById(id); };
+  var WORDS = window.SCHEINMAN_WORDS;
+  var state = { file: null, loading: '$DEFAULT_LOADING', human: false, jobId: null, timer: null, since: null };
+
+  /* ---------- the human check ---------- */
+  window.scheinmanHumanOk = function () {
+    state.human = true;
+    $('human-hint').textContent = 'Passed. You are cleared to inspect.';
+    refreshSubmit();
+  };
+  window.scheinmanHumanLost = function () {
+    state.human = false;
+    if (window.turnstile) {
+      $('human-hint').textContent = 'The check expired or failed; running it again.';
+      try { window.turnstile.reset(); } catch (e) {
+        $('human-hint').textContent = 'The check failed. Reload the page to run it again.';
+      }
+    } else {
+      $('human-hint').textContent = 'The check failed. Reload the page to run it again.';
+    }
+    refreshSubmit();
+  };
+  setTimeout(function () {
+    if (!window.turnstile && !state.human) {
+      $('human-hint').textContent = 'The human check did not load. Allow challenges.cloudflare.com for this site, then reload the page.';
+    }
+  }, 15000);
+
+  // The owner's key, if this browser holds one: it is what lets the archive
+  // outlive a visitor's 30-day link.
+  function ownerHeaders() {
+    // Never read on a shared origin: storage is per origin, not per path, so a
+    // key kept there is readable by every other page on that hostname
+    // (shared-host mounting, 2026-09-15). The door already proves who the owner is.
+    if ('$BASE' !== '') return {};
+    try {
+      var key = localStorage.getItem('scheinman-owner-key');
+      return key ? { 'x-scheinman-owner': key } : {};
+    } catch (e) { return {}; }
+  }
+
+  /* ---------- taking the part ---------- */
+  var drop = $('drop'), fileInput = $('file');
+  drop.addEventListener('click', function () { fileInput.click(); });
+  drop.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); fileInput.click(); }
+  });
+  ['dragenter', 'dragover'].forEach(function (type) {
+    drop.addEventListener(type, function (e) { e.preventDefault(); drop.classList.add('over'); });
+  });
+  ['dragleave', 'drop'].forEach(function (type) {
+    drop.addEventListener(type, function (e) { e.preventDefault(); drop.classList.remove('over'); });
+  });
+  drop.addEventListener('drop', function (e) {
+    if (e.dataTransfer.files && e.dataTransfer.files[0]) { takeFile(e.dataTransfer.files[0]); }
+  });
+  fileInput.addEventListener('change', function () {
+    if (fileInput.files[0]) takeFile(fileInput.files[0]);
+  });
+  $('file-clear').addEventListener('click', function () {
+    state.file = null; fileInput.value = '';
+    $('file-card').hidden = true; drop.classList.remove('loaded');
+    $('drop-title').textContent = 'Drag your .step file here';
+    refreshSubmit();
+  });
+
+  function takeFile(file) {
+    state.file = file;
+    $('file-name').textContent = file.name;
+    $('file-size').textContent = (file.size / 1024 / 1024).toFixed(2) + ' MB';
+    $('file-card').hidden = false;
+    drop.classList.add('loaded');
+    $('drop-title').textContent = 'File ready';
+    $('form-error').hidden = true;
+    refreshSubmit();
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('.choice button[data-loading]'), function (chip) {
+    chip.addEventListener('click', function () {
+      state.loading = chip.getAttribute('data-loading');
+      Array.prototype.forEach.call(document.querySelectorAll('.choice button[data-loading]'), function (other) {
+        other.setAttribute('aria-pressed', String(other === chip));
+      });
+    });
+  });
+
+  function refreshSubmit() {
+    var ready = Boolean(state.file) && state.human;
+    $('submit').disabled = !ready;
+    $('submit-hint').textContent = !state.file ? 'Add a file to enable this.'
+      : !state.human ? 'Waiting for the human check above.'
+      : 'Two declarations, one file, one verdict.';
+  }
+
+  function showError(message) {
+    var box = $('form-error');
+    box.textContent = message;
+    box.hidden = false;
+    box.scrollIntoView({ block: 'nearest' });
+  }
+
+  function show(view) {
+    ['view-counter', 'view-progress', 'view-result'].forEach(function (id) {
+      $(id).hidden = id !== view;
+    });
+  }
+
+  $('submit-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (!state.file) return;
+    $('form-error').hidden = true;
+    $('submit').disabled = true;
+    $('submit-hint').textContent = 'Sending the part...';
+    var body = new FormData();
+    body.append('part', state.file);
+    body.append('material_series', $('material').value);
+    body.append('loading', state.loading);
+    var token = document.querySelector('[name="cf-turnstile-response"]');
+    body.append('turnstile_token', token ? token.value : '');
+    fetch('$BASE/api/jobs', { method: 'POST', body: body })
+      .then(function (r) { return r.json().then(function (data) { return { ok: r.ok, data: data }; }); })
+      .then(function (answer) {
+        if (!answer.ok) {
+          showError(answer.data.error || 'The counter could not take this part.');
+          state.human = false;
+          if (window.turnstile) window.turnstile.reset();
+          refreshSubmit();
+          return;
+        }
+        startWatching(answer.data);
+      })
+      .catch(function () {
+        showError('The connection dropped before the part arrived. Nothing was started; try again.');
+        state.human = false;
+        if (window.turnstile) window.turnstile.reset();
+        refreshSubmit();
+      });
+  });
+
+  /* ---------- watching the engine ---------- */
+  function startWatching(job) {
+    state.jobId = job.id;
+    state.since = Date.now();
+    history.replaceState(null, '', '$BASE/inspect?job=' + job.id);
+    render(job);
+    poll();
+  }
+
+  function poll() {
+    clearTimeout(state.timer);
+    state.timer = setTimeout(function () {
+      fetch('$BASE/api/jobs/' + state.jobId, { headers: ownerHeaders() })
+        .then(function (r) { return r.json().then(function (d) { return { ok: r.ok, data: d }; }); })
+        .then(function (answer) {
+          if (!answer.ok) { return renderFatal(answer.data.error || 'This job could not be read.'); }
+          render(answer.data);
+        })
+        .catch(function () { poll(); });
+    }, 2500);
+  }
+
+  // Which layer of the drawing is lit while a job runs. The engine reports
+  // "correct and prove" together, at the end, so nothing pretends to know more
+  // than it does: queued and running both sit on the measuring layer.
+  var LIT = { queued: 'measure', running: 'judge' };
+
+  function lightLayer(step) {
+    Array.prototype.forEach.call(document.querySelectorAll('#progress-stack .layer'), function (g) {
+      g.classList.toggle('is-on', g.getAttribute('data-step') === step);
+    });
+  }
+
+  function render(job) {
+    if (job.status === 'queued' || job.status === 'running') {
+      show('view-progress');
+      $('progress-job').textContent = 'Job ' + job.id.slice(0, 8).toUpperCase() + ' · ' + job.part_name;
+      $('progress-title').textContent = job.status === 'queued' ? 'In the queue' : 'Measuring';
+      var waited = state.since ? (Date.now() - state.since) / 60000 : 0;
+      $('progress-note').textContent = waited > 3
+        ? 'Longer than usual (' + Math.floor(waited) + ' min). Keep this link; the page keeps checking, and a job the engine never finishes is declared so after 30 minutes.'
+        : job.status === 'queued'
+        ? 'Waiting for the engine to pick up the job.'
+        : 'Measuring the real geometry and judging it against the rules.';
+      var active = job.status === 'queued' ? 1 : 1;
+      Array.prototype.forEach.call($('progress-steps').children, function (li, i) {
+        li.setAttribute('data-state', i < active ? 'done' : i === active ? 'active' : '');
+      });
+      lightLayer(LIT[job.status]);
+      poll();
+      return;
+    }
+    clearTimeout(state.timer);
+    show('view-result');
+    $('view-result').innerHTML = resultHtml(job);
+  }
+
+  function renderFatal(message) {
+    clearTimeout(state.timer);
+    show('view-result');
+    $('view-result').innerHTML =
+      '<div class="dim"><h2>This link</h2><span class="rule"></span></div>' +
+      '<div class="banner is-live">' + escapeHtml(message) + '</div>';
+  }
+
+  /* ---------- the delivery, rendered here, never fetched from elsewhere ---------- */
+  function escapeHtml(text) {
+    return String(text == null ? '' : text).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+  function num(value, digits) { return Number(value).toFixed(digits === undefined ? 3 : digits); }
+
+  function plainReason(reason) {
+    var lower = String(reason).toLowerCase();
+    for (var i = 0; i < WORDS.refusals.length; i += 1) {
+      if (lower.indexOf(WORDS.refusals[i][0]) !== -1) return WORDS.refusals[i][1];
+    }
+    return WORDS.refusalFallback;
+  }
+
+  function dim(title, tag) {
+    return '<div class="dim"><h2>' + title + '</h2><span class="rule"></span>' +
+           (tag ? '<span class="label count">' + tag + '</span>' : '') + '</div>';
+  }
+
+  function resultHtml(job) {
+    var words = WORDS.verdicts[job.status] || WORDS.verdicts.error;
+    var result = job.result || {};
+    var html = dim(escapeHtml(job.part_name),
+      'Job ' + escapeHtml(job.id.slice(0, 8).toUpperCase()) + ' · ' +
+      escapeHtml(job.material_series) + ' · ' + escapeHtml(job.loading));
+
+    html += '<div class="verdict is-' + words.severity + '">' +
+            '<div class="plate"><span class="label">Verdict</span><b>' + escapeHtml(words.stamp) + '</b></div>' +
+            '<div class="said"><p class="lead">' + escapeHtml(words.line) + '</p></div></div>';
+
+    if (job.status === 'error') {
+      // Not a verdict on the part: the machine never got to measure it.
+      html += '<div class="banner is-stop" style="margin-top: var(--s5);">' +
+              '<span class="label">What happened</span>' +
+              '<p>' + escapeHtml(job.reason || 'The engine stopped without saying why.') + '</p>' +
+              '<p class="note" style="margin-top: var(--s3);">Keep this link as the reference number. ' +
+              'You can send the same part again; no run was charged for a job the engine did not finish.</p></div>';
+    } else if (job.reason) {
+      html += '<div class="banner ' + (job.status === 'refused' ? 'is-stop' : 'is-live') +
+              '" style="margin-top: var(--s5);">' +
+              '<span class="label">What happened</span>' +
+              '<p>' + escapeHtml(plainReason(job.reason)) + '</p>' +
+              '<p class="note" style="margin-top: var(--s3);">' +
+              escapeHtml(job.status === 'refused' ? WORDS.nextStep.refused : WORDS.nextStep.reported) + '</p>' +
+              '<details style="margin-top: var(--s3);"><summary class="label" style="cursor: pointer;">' +
+              'The engine’s own words</summary>' +
+              '<p class="note" style="font-family: var(--data); margin-top: var(--s2);">' +
+              escapeHtml(job.reason) + '</p></details></div>';
+    }
+
+    if (result.violations && result.violations.length) { html += violationsHtml(result.violations); }
+    if (result.corrections && result.corrections.length) { html += correctionsHtml(result); }
+    if (result.measurements && result.measurements.length) {
+      html += '<div style="margin-top: var(--s8);">' +
+              dim('Every measurement', result.measurements.length + ' values') +
+              tableHtml(result.measurements) + '</div>';
+    }
+    html += filesHtml(job);
+    html += '<p class="note" style="margin-top: var(--s6);">This report has its own address, now in ' +
+            'your address bar. It works until ' + escapeHtml((job.public_until || '').slice(0, 10)) +
+            '. After that the report stays in the archive and the owner can reopen it.</p>' +
+            '<div style="margin-top: var(--s4);"><a class="btn-ghost" href="$BASE/inspect">Inspect another part</a></div>';
+    return html;
+  }
+
+  var SEV = { BLOCK: 'is-stop', WARN: 'is-live', NOTE: 'is-line' };
+
+  function violationsHtml(violations) {
+    var html = '<div style="margin-top: var(--s8);">' +
+               dim('What broke', violations.length + ' finding' + (violations.length === 1 ? '' : 's')) +
+               '<div class="rows">';
+    violations.forEach(function (v) {
+      var ratio = v.required_minimum ? Math.min(1, v.measured / v.required_minimum) : 0;
+      html += '<div class="panel"><header>' +
+              '<span class="tag ' + (SEV[v.severity] || 'is-line') + '">' + escapeHtml(v.severity) + '</span>' +
+              '<span class="label">Rule ' + escapeHtml(v.rule_id) + ' &middot; ' + escapeHtml(v.feature_id) + '</span>' +
+              '</header><div class="body finding">' +
+              '<p>' + escapeHtml(v.explanation) + '</p>' +
+              '<div class="meter"><div class="ends">' +
+              '<span class="label">Measured <b class="num">' + num(v.measured) + '</b> ' + escapeHtml(v.unit) + '</span>' +
+              '<span class="label">Required <b class="num">' + num(v.required_minimum) + '</b> ' + escapeHtml(v.unit) + '</span>' +
+              '</div><div class="track" role="img" aria-label="Measured ' + num(v.measured) +
+              ' against the required minimum ' + num(v.required_minimum) + '">' +
+              '<span class="fill" style="width:' + (ratio * 100).toFixed(1) + '%"></span>' +
+              '<i class="limit" aria-hidden="true"></i></div>' +
+              '<p class="note" style="margin-top: var(--s2);">The track ends at the required minimum. ' +
+              'This part reaches ' + (ratio * 100).toFixed(0) + '% of it, short by ' +
+              num(v.required_minimum - v.measured) + ' ' + escapeHtml(v.unit) + '.</p></div>';
+      (v.anchors || []).forEach(function (a) {
+        if (a.kind === 'system_measurement') return;
+        html += '<div class="anchor"><span class="src">' + escapeHtml(a.source) + ' &middot; ' +
+                escapeHtml(a.locator) +
+                (a.kind === 'test_fixture' ? ' &middot; test fixture, not a published engineering fact' : '') +
+                '</span><blockquote>&ldquo;' + escapeHtml(a.excerpt) + '&rdquo;</blockquote></div>';
+      });
+      html += '</div></div>';
+    });
+    return html + '</div></div>';
+  }
+
+  function correctionsHtml(result) {
+    var html = '<div style="margin-top: var(--s8);">' +
+               dim('What changed, and the proof',
+                   result.correction_rounds + ' round' + (result.correction_rounds === 1 ? '' : 's')) +
+               '<div class="rows">';
+    result.corrections.forEach(function (c) {
+      html += '<div class="panel"><div class="body" style="gap: var(--s1);">' +
+              '<span class="label">Rule ' + escapeHtml(c.rule_id) + ' &middot; ' + escapeHtml(c.quantity) + '</span>' +
+              '<span>' + escapeHtml(c.action) + '</span></div></div>';
+    });
+    html += '</div><div class="banner" style="margin-top: var(--s4);">' +
+            '<span class="label">Proof by re-measurement</span>' +
+            '<p>The corrected file was exported again, measured by the same measurer and judged by ' +
+            'the same rules: no WARN or BLOCK violation remains. A NOTE is guidance, recorded above ' +
+            'and never enforced by moving metal. The numbers below come from that second ' +
+            'measurement, not from the intention to fix.</p></div>' +
+            tableHtml(result.proof) + '</div>';
+    return html;
+  }
+
+  function tableHtml(rows) {
+    if (!rows || !rows.length) return '';
+    var html = '<div class="scroll" style="margin-top: var(--s4);">' +
+               '<table class="data"><thead><tr><th>Feature</th><th>Quantity</th><th>Value</th>' +
+               '<th>How it was measured</th></tr></thead><tbody>';
+    rows.forEach(function (m) {
+      html += '<tr><td class="n">' + escapeHtml(m.feature_id) + '</td><td>' + escapeHtml(m.quantity) +
+              '</td><td class="n">' + num(m.value) + ' ' + escapeHtml(m.unit) + '</td><td class="ink2">' +
+              escapeHtml(m.method) + '</td></tr>';
+    });
+    return html + '</tbody></table></div>';
+  }
+
+  function filesHtml(job) {
+    var files = job.files || [];
+    if (!files.length) return '';
+    var html = '<div style="margin-top: var(--s8);">' + dim('Take it with you', '') +
+               '<div style="display: flex; gap: var(--s3); flex-wrap: wrap;">';
+    ['corrected_step', 'inspection_report', 'correction_report', 'submitted_step'].forEach(function (role) {
+      if (files.indexOf(role) === -1) return;
+      var primary = role === 'corrected_step';
+      html += '<a class="' + (primary ? 'btn' : 'btn-ghost') + '" href="$BASE/api/jobs/' +
+              escapeHtml(job.id) + '/files/' + role + '">' + escapeHtml(WORDS.fileLabels[role]) + '</a>';
+    });
+    return html + '</div></div>';
+  }
+
+  /* ---------- coming back to a job by its link ---------- */
+  var fromLink = new URLSearchParams(location.search).get('job');
+  if (fromLink && /^[0-9a-f]{32}$/.test(fromLink)) {
+    state.jobId = fromLink;
+    show('view-progress');
+    state.since = Date.now();
+    fetch('$BASE/api/jobs/' + fromLink, { headers: ownerHeaders() })
+      .then(function (r) { return r.json().then(function (d) { return { ok: r.ok, data: d }; }); })
+      .then(function (answer) { answer.ok ? render(answer.data) : renderFatal(answer.data.error); })
+      .catch(function () { renderFatal('This job could not be read right now. Reload the page to try again.'); });
+  } else {
+    refreshSubmit();
+  }
+})();
+</script>
+</body>
+</html>

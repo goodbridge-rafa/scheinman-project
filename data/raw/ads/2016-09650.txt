@@ -1,0 +1,563 @@
+<html>
+<head>
+<title>Federal Register, Volume 81 Issue 84 (Monday, May 2, 2016)</title>
+</head>
+<body><pre>
+[Federal Register Volume 81, Number 84 (Monday, May 2, 2016)]
+[Rules and Regulations]
+[Pages 26109-26112]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2016-09650]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-1428; Directorate Identifier 2015-NM-026-AD; 
+Amendment 39-18499; AD 2016-09-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+The Boeing Company Model 777-200 and -300 series airplanes. This AD was 
+prompted by reports of fatigue cracking of a certain chord of the pivot 
+bulkhead. This AD requires repetitive inspections for cracking of the 
+left side and right side forward outer chords of the pivot bulkhead, 
+and related investigative and corrective actions if necessary. This AD 
+also provides a modification of the pivot bulkhead, which would 
+terminate the repetitive inspections. We are issuing this AD to detect 
+and correct fatigue cracking of the outer flanges of the left and right 
+side forward outer chords of the pivot bulkhead, which could result in 
+a severed forward outer chord and consequent loss of horizontal 
+stabilizer control.
+
+DATES: This AD is effective June 6, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of June 6, 2016.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Boeing Commercial Airplanes, Attention: Data & Services 
+Management, P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone: 
+206-544-5000, extension 1; fax: 206-766-5680; Internet: <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+1428.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a> by searching for and locating Docket No. FAA-2015-
+1428; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Narinder Luthra, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office 
+(ACO), 1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-
+6513; fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#036d62716a6d6766712d6f76776b7162436562622d646c75"><span class="__cf_email__" data-cfemail="7f111e0d16111b1a0d51130a0b170d1e3f191e1e51181009">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain The Boeing Company 
+Model 777-200 and -300 series airplanes. The NPRM published in the 
+Federal Register on June 15, 2015 (80 FR 34103) (``the NPRM''). The 
+NPRM was prompted by reports of fatigue cracking of a certain chord of 
+the pivot bulkhead. The NPRM proposed to require repetitive inspections 
+for cracking of the left side and right side forward outer chords of 
+the pivot bulkhead, and related investigative and corrective actions if 
+necessary. The NPRM also proposed to provide a modification of the 
+pivot bulkhead, which would terminate the repetitive inspections. We 
+are issuing this AD to detect and correct fatigue cracking of the outer 
+flanges of the left and right side forward outer chords of the pivot 
+bulkhead, which could result in a severed forward outer chord and 
+consequent loss of horizontal stabilizer control.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Request To Exclude Certain Requirements From the NPRM
+
+    American Airlines (AA) requested that we revise the NPRM to exclude 
+doing the work in accordance with paragraph 3.B.4., of the Work 
+Instructions of Boeing Alert Service Bulletin 777-53A0075, dated 
+January 14, 2015, which specifies ``Put the airplane back into a 
+serviceable condition.'' AA stated that doing this action does not 
+affect the condition that the AD seeks to address. AA added that most 
+operators will accomplish these modifications as part of a maintenance 
+visit, and returning the airplane to a serviceable condition will not 
+be possible in the context of the statement, but rather will occur at a 
+point in time well after the work is completed.
+    We agree that putting the airplane back into a serviceable 
+condition is not directly related to addressing the unsafe condition 
+identified in this AD. However, we do not agree to specifically exclude 
+paragraph 3.B.4., of the Work Instructions of Boeing Alert Service 
+Bulletin 777-53A0075, dated January 14, 2015, from this final rule 
+because it is not required for compliance with the AD actions.
+    The FAA worked in conjunction with industry, under the 
+Airworthiness Directives Implementation Aviation Rulemaking Committee 
+(AD ARC), to enhance the AD system. One enhancement is a new process 
+for annotating which steps in the service information are ``required 
+for compliance'' (RC) with an AD. Differentiating these steps from 
+other tasks in the service information is expected to improve an 
+owner's/operator's understanding of AD requirements and help provide 
+consistent judgment in AD compliance.
+    In response to the AD Implementation ARC, the FAA released AC 20-
+176A, dated June 16, 2014 (http://rgl.faa.gov/
+Regulatory_and_Guidance_Library/rg
+
+[[Page 26110]]
+
+AdvisoryCircular.nsf/0/979ddd1479e1ec6f86257cfc0052d4e9/$FILE/AC%2020-
+176A.pdf); and Order 8110.117A, dated June 18, 2014 (http://
+rgl.faa.gov/Regulatory_and_Guidance_Library/rgOrders.nsf/0/
+d715cdfc08ac0ddc86257cfc00528297/$FILE/110.117A.pdf), which include the 
+concept of RC. The FAA has begun implementing this concept in ADs when 
+we receive service information containing RC steps.
+    Boeing Alert Service Bulletin 777-53A0075, dated January 14, 2015, 
+includes the concept of RC. In paragraph 3.B. of the Work Instructions 
+of Boeing Alert Service Bulletin 777-53A0075, dated January 14, 2015, 
+certain steps are marked RC. The step that specifies ``Put the airplane 
+back into a serviceable condition'' is not marked RC. Therefore, no 
+change to this final rule is necessary in this regard.
+
+Request To Change Certain Language in the NPRM
+
+    Boeing and United Airlines (UA) asked that the language in 
+paragraph (h) of the proposed AD be reworded for clarity. Boeing asked 
+that we account for the small crack repair being performed on one side 
+only. UA stated that as written, inspecting the left side and right 
+side forward outer chords is incorrect since the small crack repair is 
+performed on one side only. UA noted that the small crack repair may be 
+accomplished on one side of the airplane only, depending on inspection 
+findings. UA asked that paragraph (h) of the proposed AD be changed to 
+specify ``. . . do a surface high frequency eddy current (HFEC) 
+inspection, an open-hole HFEC inspection, and a detailed inspection for 
+cracking of the repaired side (left, right, or both) forward outer 
+chords of the STA 2370 pivot bulkhead.'' Boeing recommended that the 
+language be reworded to specify an ``. . . inspection for cracking of 
+the repaired forward outer chords . . .''
+    We agree with the commenters' requests for the reasons provided. We 
+have changed the language in paragraph (h) of this AD to specify ``. . 
+. do a surface HFEC inspection, an open-hole HFEC inspection, and a 
+detailed inspection for cracking of the repaired side forward outer 
+chords of the STA 2370 pivot bulkhead.''
+    Boeing and UA asked that the language in paragraph (i) of the 
+proposed AD be reworded for clarity. Boeing asked that we account for 
+the scenario where the small crack repair is performed on one side 
+only. Boeing stated that the terminating actions for each side of the 
+bulkhead are independent of each other. UA stated that using ``and'' is 
+incorrect because the modification can only be accomplished on one 
+side, not both the left and right sides, depending on inspection 
+findings.
+    We agree with the commenters for the reasons provided. We have 
+changed the language in paragraph (i) of this AD accordingly.
+
+Request To Include Revised Service Information
+
+    All Nippon Airways (ANA) stated that Boeing Alert Service Bulletin 
+777-53A0075, dated January 14, 2015; and Boeing Service Bulletin 777-
+53-0076, dated January 14, 2015; contain many inconsistencies. We infer 
+that ANA is requesting that we include revised service information 
+because there are errors in the original issues.
+    We agree with the commenter. Boeing has issued Boeing Alert Service 
+Bulletin 777-53A0075, Revision 1, dated December 14, 2015; and Boeing 
+Service Bulletin 777-53-0076, Revision 1, dated December 21, 2015; 
+which include changes found during validation and clarify and correct 
+issues identified by operators. We have included the revised service 
+information as the appropriate source of service information for 
+accomplishing the actions required by this AD and we have referred to 
+Boeing Alert Service Bulletin 777-53A0075, Revision 1, dated December 
+14, 2015, in the applicability in paragraph (c) of this AD. We have 
+also added a new credit paragraph (k) to this AD for using the original 
+issues of the service information and reidentified subsequent 
+paragraphs accordingly.
+
+Request To Add a New Paragraph for Clarification
+
+    Boeing asked that we add a new paragraph (j)(3) to the proposed AD 
+to specify the following:
+
+    If conducting the Part 2 Small Crack Repair of the Service 
+Bulletin 777-53A0075 dated January 14, 2015, verify the fastener 
+heads and nuts will not interfere with the fillet radius of the 
+parts in the repair installation. If interference will occur, repair 
+before further flight using a method approved in accordance with the 
+procedures specified in paragraph (k) of this AD. . .
+
+    Boeing also asked that we add a reference to paragraph (j)(3) in 
+paragraph (g) of the proposed AD by including it in the exception 
+sentence. Boeing stated that during a recent validation it was 
+discovered that, in some cases, radius fillers are required to prevent 
+fasteners from riding the fillet radius of the extended splice chord 
+used in the small crack repair specified in Part 2 of Boeing Alert 
+Service Bulletin 777-53A0075, dated January 14, 2015.
+    We agree with the commenter that interference between the fastener 
+and fillet case should be minimized; however, we do not agree to add a 
+new paragraph (j)(3) to this AD. Boeing has issued Boeing Alert Service 
+Bulletin 777-53A0075, Revision 1, dated December 14, 2015, which 
+includes instructions for accomplishing the small crack repair. As 
+stated previously, we have revised this AD to refer to Boeing Alert 
+Service Bulletin 777-53A0075, Revision 1, dated December 14, 2015, for 
+accomplishing certain actions required by this AD.
+
+Request To Correct Minor Error
+
+    Boeing asked that we change the service information number 
+identified in paragraph (j)(2) of the proposed AD from ``777-530076'' 
+to ``777-53-0076.''
+    We agree that the hyphen is missing from the service information 
+number. We have included the hyphen in the service information number 
+identified in paragraph (j)(2) of this AD accordingly.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed the following Boeing service information.
+    <bullet> Boeing Alert Service Bulletin 777-53A0075, Revision 1, 
+dated December 14, 2015. This service information describes procedures 
+for repetitive detailed and HFEC inspections for cracking of the outer 
+flanges of the left and right side forward outer chords of the STA 2370 
+pivot bulkhead, repetitive post-repair inspections for certain 
+airplanes, and related investigative and corrective actions.
+    <bullet> Boeing Service Bulletin 777-53-0076, Revision 1, dated 
+December 21, 2015. This service information describes procedures for a 
+modification of the STA 2370 pivot bulkhead by replacing the left and 
+right side forward outer chords and upper splice angles, and
+
+[[Page 26111]]
+
+related investigative and corrective actions.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 60 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+            Action                         Labor cost             Parts cost  Cost per product      operators
+----------------------------------------------------------------------------------------------------------------
+Inspections of left and right   Up to 15 work[dash]hours x $85            $0  Up to $1,275 per  Up to $76,500
+ side pivot bulkhead forward     per hour = $1,275 per                         inspection        per inspection
+ chord.                          inspection cycle.                             cycle.            cycle.
+Post-repair Inspections.......  Up to 11 work[dash]hours x $85             0  Up to $935 per    Up to $56,100
+                                 per hour = $935 per inspection                inspection        per inspection
+                                 cycle.                                        cycle.            cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary repairs and 
+modifications that would be required based on the results of the 
+inspection. We have no way of determining the number of airplanes that 
+might need these actions.
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+               Action                             Labor cost                 Parts cost       Cost per product
+----------------------------------------------------------------------------------------------------------------
+Small crack repair.................  Up to 45 work[dash]hours x $85 per               \1\  Up to $7,650.
+                                      hour = $3,825 per side.
+Modification of the STA 2370 Pivot   Up to 137 work[dash]hours x $85 per          $34,086  Up to $45,731.
+ Bulkhead (forward outer chord        hour = $11,645.
+ replacement).
+----------------------------------------------------------------------------------------------------------------
+\1\ We have received no definitive data that would enable us to provide parts cost estimates for the on-
+  condition repair specified in this AD.
+
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-09-01 The Boeing Company: Amendment 39-18499; Docket No. FAA-
+2015-1428; Directorate Identifier 2015-NM-026-AD.
+
+(a) Effective Date
+
+    This AD is effective June 6, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 777-200 and -300 
+series airplanes, certificated in any category, as identified in 
+Boeing Alert Service Bulletin 777-53A0075, Revision 1, dated 
+December 14, 2015.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fatigue cracking of the 
+forward outer chord of the station (STA) 2370 pivot bulkhead. We are 
+issuing this AD to detect and correct fatigue cracking of the outer 
+flanges of the left and right side forward outer chords of the STA 
+2370 pivot bulkhead, which could result in a severed forward outer 
+chord and consequent loss of horizontal stabilizer control.
+
+[[Page 26112]]
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspections and Corrective Actions
+
+    At the times specified in table 1 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 777-53A0075, 
+Revision 1, dated December 14, 2015, except as provided in paragraph 
+(j)(1) of this AD: Do a detailed inspection and high frequency eddy 
+current (HFEC) inspections for cracking of the left and right side 
+forward outer chords of the STA 2370 pivot bulkhead, and do all 
+applicable related investigative and corrective actions, in 
+accordance with the Accomplishment Instructions of Boeing Alert 
+Service Bulletin 777-53A0075, Revision 1, dated December 14, 2015, 
+except as provided in paragraph (j)(2) of this AD. Do all applicable 
+related investigative and corrective actions before further flight. 
+Repeat the inspections thereafter at the applicable intervals 
+specified in table 1 of paragraph 1.E., ``Compliance,'' of Boeing 
+Alert Service Bulletin 777-53A0075, Revision 1, dated December 14, 
+2015, until the modification specified in paragraph (i) of this AD 
+is done.
+
+(h) Post-Repair Inspections
+
+    For airplanes on which any repair specified in Part 2 of the 
+Accomplishment Instructions of Boeing Alert Service Bulletin 777-
+53A0075 has been done: At the times specified in table 2 of 
+paragraph 1.E., ``Compliance,'' of Boeing Alert Service Bulletin 
+777-53A0075, Revision 1, dated December 14, 2015, do a surface HFEC 
+inspection, an open-hole HFEC inspection, and a detailed inspection 
+for cracking of the repaired side forward outer chords of the STA 
+2370 pivot bulkhead, and do all applicable related investigative and 
+corrective actions, in accordance with Part 3 of the Accomplishment 
+Instructions of Boeing Alert Service Bulletin 777-53A0075, Revision 
+1, dated December 14, 2015, except as required by paragraph (j)(2) 
+of this AD. Do all applicable related investigative and corrective 
+actions before further flight. Repeat the inspections thereafter at 
+the applicable times specified in table 2 of paragraph 1.E., 
+``Compliance,'' of Boeing Alert Service Bulletin 777-53A0075, 
+Revision 1, dated December 14, 2015, until the modification 
+specified in paragraph (i) of this AD is done.
+
+(i) Terminating Action
+
+    Modifying the STA 2370 pivot bulkhead by replacing the left or 
+right side forward outer chords and upper splice angles, and doing 
+all applicable related investigative and corrective actions, 
+terminates the repetitive inspections required by paragraphs (g) and 
+(h) of this AD, for the modified location only. The modification 
+must be done in accordance with the Accomplishment Instructions of 
+Boeing Service Bulletin 777-53-0076, Revision 1, dated December 21, 
+2015, except as required by paragraph (j)(2) of this AD.
+
+(j) Exceptions to Service Bulletin Specifications
+
+    (1) Where Boeing Alert Service Bulletin 777-53A0075, Revision 1, 
+dated December 14, 2015, specifies a compliance time ``after the 
+Original Issue date of this Service Bulletin,'' this AD requires 
+compliance within the specified compliance time after the effective 
+date of this AD.
+    (2) Although Boeing Alert Service Bulletin 777-53A0075, Revision 
+1, dated December 14, 2015; and Boeing Service Bulletin 777-53-0076, 
+Revision 1, dated December 21, 2015; specify to contact Boeing for 
+appropriate action, and Boeing Alert Service Bulletin 777-53A0075, 
+Revision 1, dated December 14, 2015, specifies that action as ``RC'' 
+(Required for Compliance), this AD requires repair before further 
+flight using a method approved in accordance with the procedures 
+specified in paragraph (l) of this AD.
+
+(k) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions required by 
+paragraphs (g) and (h) of this AD, if those actions were performed 
+before the effective date of this AD using Boeing Alert Service 
+Bulletin 777-53A0075, dated January 14, 2015.
+    (2) This paragraph provides credit for the actions required by 
+paragraph (i) of this AD, if those actions were performed before the 
+effective date of this AD using Boeing Service Bulletin 777-53-0076, 
+dated January 14, 2015.
+
+(l) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (m)(1) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#6e57432f2023433d0b0f1a1a020b432f2d21432f23212d433c0b1f1b0b1d1a1d2e080f0f40090118"><span class="__cf_email__" data-cfemail="9fa6b2ded1d2b2ccfafeebebf3fab2dedcd0b2ded2d0dcb2cdfaeeeafaecebecdff9fefeb1f8f0e9">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by the Boeing Commercial Airplanes Organization 
+Designation Authorization (ODA) that has been authorized by the 
+Manager, Seattle ACO, to make those findings. To be approved, the 
+repair method, modification deviation, or alteration deviation must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) Except as required by paragraph (j)(2) of this AD: For 
+service information that contains steps that are labeled as Required 
+for Compliance (RC), the provisions of paragraphs (l)(4)(i) and 
+(l)(4)(ii) apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. An AMOC is required for any deviations to RC steps, 
+including substeps and identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(m) Related Information
+
+    (1) For more information about this AD, contact Narinder Luthra, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle ACO, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-6513; 
+fax: 425-917-6590; email: <a href="/cdn-cgi/l/email-protection#1a747b6873747e7f6834766f6e72687b5a7c7b7b347d756c"><span class="__cf_email__" data-cfemail="ff919e8d96919b9a8dd1938a8b978d9ebf999e9ed1989089">[email&#160;protected]</span></a>.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (n)(3) and (n)(4) of this AD.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Service Bulletin 777-53A0075, Revision 1, dated 
+December 14, 2015.
+    (ii) Boeing Service Bulletin 777-53-0076, Revision 1, dated 
+December 21, 2015.
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone: 206-544-
+5000, extension 1; fax: 206-766-5680; Internet: <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on April 14, 2016.
+Victor Wicklund,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-09650 Filed 4-29-16; 8:45 am]
+ BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

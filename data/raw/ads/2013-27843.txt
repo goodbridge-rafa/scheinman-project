@@ -1,0 +1,399 @@
+<html>
+<head>
+<title>Federal Register, Volume 78 Issue 227 (Monday, November 25, 2013)</title>
+</head>
+<body><pre>
+[Federal Register Volume 78, Number 227 (Monday, November 25, 2013)]
+[Rules and Regulations]
+[Pages 70211-70214]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2013-27843]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0334; Directorate Identifier 2013-NM-027-AD; 
+Amendment 39-17671; AD 2013-23-16]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all The 
+Boeing Company Model 757 airplanes. This AD was prompted by a report of 
+a broken forward support fitting at the inboard track of the inboard 
+flap. This AD requires repetitive inspections of the forward support 
+fitting assemblies of the inboard track of the left and right inboard 
+flaps for cracking, and corrective actions if necessary. We are issuing 
+this AD to detect and correct cracking of the forward support fitting 
+assembly, which could result in loss of inboard flap control and 
+subsequent loss of airplane control.
+
+DATES: This AD is effective December 30, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of December 30, 
+2013.
+
+ADDRESSES: For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at <a href="http://www.regulations.gov">http://www.regulations.gov</a>; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building
+
+[[Page 70212]]
+
+Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 
+20590.
+
+FOR FURTHER INFORMATION CONTACT: Nancy Marsh, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; phone: (425) 917-6440; 
+fax: (425) 917-6590; email: <a href="/cdn-cgi/l/email-protection#46282728253f682b2734352e0620272768212930"><span class="__cf_email__" data-cfemail="98f6f9f6fbe1b6f5f9eaebf0d8fef9f9b6fff7ee">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to the specified products. The 
+NPRM published in the Federal Register on April 22, 2013 (78 FR 23694). 
+The NPRM proposed to require repetitive inspections of the forward 
+support fitting assemblies of the inboard track of the left and right 
+inboard flaps for cracking, and corrective actions if necessary.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(78 FR 23964, April 22, 2013) and the FAA's response to each comment.
+
+Supportive Comment
+
+    Boeing stated that it concurs with the NPRM (78 FR 23964, April 22, 
+2013).
+
+Request To Provide Justification for AD Action
+
+    FedEx requested further data and justification for this AD action. 
+FedEx stated that it expected a single data point (i.e., the one 
+failure of a forward support fitting assembly) would represent an 
+anomaly. FedEx asked if a root cause analysis was done to determine 
+whether the single failure was an anomaly induced during manufacture or 
+operator maintenance before proceeding with service information and 
+NPRM development.
+    We find that clarification is necessary. Boeing Special Attention 
+Service Bulletin 757-57-0071, dated September 12, 2012, states that the 
+cracking occurred at a compound radius in the part. This design detail, 
+which occurs on each part having the part number identified in that 
+service bulletin, has been identified as an area of high stress 
+concentration and a likely location for fatigue cracking to initiate at 
+a relatively low number of flight cycles. The airplane event, as 
+detailed in that service bulletin, occurred at 22,328 flight cycles and 
+both components of the forward support fitting assembly were found to 
+be completely cracked through. Therefore, the occurrence of cracking in 
+this part at this location is likely to occur on other airplanes, and 
+cannot be considered an anomaly. Since these cracked fittings result in 
+an unsafe condition and we determined that this unsafe condition is 
+likely to exist or develop in other products of the same type design, 
+we determined that this AD rulemaking is necessary. We have not changed 
+this final rule in this regard.
+
+Request for Procedures To Apply a Chemical Conversion Coating
+
+    American Airlines (AAL) recommended that a step be added between 
+steps 10 and 11 in sheet 3 of 6 of the Forward Support Fitting Assembly 
+Replacement figures of Boeing Special Attention Service Bulletin 757-
+57-0071, dated September 12, 2012. The additional step would specify 
+applying a chemical conversion coating after match drilling holes as 
+part of the fitting assembly replacement process. AAL noted that in the 
+Material Information of Boeing Special Attention Service Bulletin 757-
+57-0071, dated September 12, 2012, chemical conversion coating is 
+identified in the parts lists, but the Accomplishment Instructions 
+section of that service bulletin omits the coating.
+    We agree that Boeing Special Attention Service Bulletin 757-57-
+0071, dated September 12, 2012, does not specify applying a chemical 
+conversion coating after match drilling holes. Boeing specified that 
+the installation of the fasteners with sealant, as specified in the 
+instructions in the service information, provides corrosion protection 
+at the fastener locations and that application of the chemical 
+conversion coating is not required. Once we issue this AD, any person 
+may request approval of an alternative method of compliance (AMOC) to 
+apply alternative corrosion protection coatings under the provisions of 
+paragraph (i) of this final rule. We have not changed this final rule 
+in this regard.
+
+Request To Delay AD To Address Parts Availability
+
+    AAL requested that the FAA ensure ample parts availability before 
+releasing the AD. AAL stated that there is a lead time of 160 days for 
+the fitting assembly and suggested that the NPRM (78 FR 23964, April 
+22, 2013) be revised to allow for manufacture of parts and provide 
+material specifications and part dimensions. FedEx stated that about 
+seven fitting assemblies are due to be in stock in July 2013.
+    We disagree to revise or delay this final rule. In developing this 
+final rule, we coordinated with the manufacturer an appropriate 
+compliance time to address the unsafe condition in a timely manner and 
+take parts availability into consideration. We have not changed this 
+final rule in this regard.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD as proposed except for minor editorial changes. We have 
+determined that these minor changes:
+    <bullet> Are consistent with the intent that was proposed in the 
+NPRM (78 FR 23964, April 22, 2013) for correcting the unsafe condition; 
+and
+    <bullet> Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 23964, April 22, 2013).
+
+Costs of Compliance
+
+    We estimate that this AD affects 690 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                   Labor cost          Parts cost       Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+High-frequency eddy current       11 work-hours x     None..............  $935, per           $645,150, per
+ inspection.                       $85 per hour =                          inspection cycle.   inspection cycle.
+                                   $935, per
+                                   inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacements 
+that would be required based on the results of the inspection. We have 
+no way of determining the number of aircraft that might need this 
+replacement:
+
+[[Page 70213]]
+
+
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                 Action                          Labor cost             Parts cost         Cost per product
+----------------------------------------------------------------------------------------------------------------
+Replacement............................  7 work-hours x $85 per             $10,000   $10,595, per assembly.
+                                          hour = $595, per assembly.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2013-23-16 The Boeing Company: Amendment 39-17671; Docket No. FAA-
+2013-0334; Directorate Identifier 2013-NM-027-AD.
+
+(a) Effective Date
+
+    This AD is effective December 30, 2013.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model 757-200, -200PF, 
+-200CB, and -300 series airplanes, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 5753, Trailing edge flaps.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of a broken forward support 
+fitting at the inboard track of the inboard flap. We are issuing 
+this AD to detect and correct cracking of the forward support 
+fitting assembly, which could result in loss of inboard flap control 
+and subsequent loss of airplane control.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspection and Corrective Action
+
+    Except as provided by paragraph (h) of this AD, at the 
+applicable time specified in paragraph 1.E., ``Compliance,'' of 
+Boeing Special Attention Service Bulletin 757-57-0071, dated 
+September 12, 2012: Do a high frequency eddy current (HFEC) 
+inspection for cracking in the forward support fitting assemblies of 
+the inboard track of the left and right inboard flaps, and do all 
+applicable corrective actions, in accordance with paragraph 3.B.2. 
+of the Accomplishment Instructions of Boeing Special Attention 
+Service Bulletin 757-57-0071, dated September 12, 2012. Do all 
+applicable corrective actions before further flight. Thereafter, 
+repeat the inspections at intervals not to exceed 6,000 flight 
+cycles, except as required by paragraphs (g)(1) and (g)(2) of this 
+AD.
+    (1) For Group 1 airplanes, as identified in Boeing Special 
+Attention Service Bulletin 757-57-0071, dated September 12, 2012, on 
+which any forward support fitting assembly is replaced: Do the next 
+inspection before 15,000 flight cycles have accumulated on that 
+assembly.
+    (2) For Group 2 airplanes, as identified in Boeing Special 
+Attention Service Bulletin 757-57-0071, dated September 12, 2012, on 
+which any forward support fitting assembly is replaced: Do the next 
+inspection before 18,000 flight cycles have accumulated on that 
+assembly.
+
+(h) Exceptions to the Service Information
+
+    (1) Where Boeing Special Attention Service Bulletin 757-57-0071, 
+dated September 12, 2012, specifies compliance times ``after the 
+original issue date of this service bulletin,'' this AD requires 
+compliance within the specified compliance times ``after the 
+effective date of this AD.''
+    (2) Paragraphs 3.B.1. and 3.B.3. of the Accomplishment 
+Instructions of Boeing Special Attention Service Bulletin 757-57-
+0071, dated September 12, 2012, are not required by this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Seattle Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (j) of this AD. 
+Information may be emailed to: <a href="/cdn-cgi/l/email-protection#556c78141b1878063034212139307814161a7814181a16780730242030262126153334347b323a23"><span class="__cf_email__" data-cfemail="31081c707f7c1c62545045455d541c70727e1c707c7e721c6354404454424542715750501f565e47">[email&#160;protected]</span></a>.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair required by this AD if it is approved by the 
+Boeing Commercial Airplanes Organization Designation Authorization 
+(ODA) that has been authorized by the Manager, Seattle ACO, to make 
+those findings. For a repair method to be approved, the repair must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+
+(j) Related Information
+
+    For more information about this AD, contact Nancy Marsh, 
+Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft 
+Certification Office, 1601 Lind Avenue SW., Renton, WA 98057-3356; 
+phone: (425) 917-6440; fax: (425) 917-6590; email: 
+<a href="/cdn-cgi/l/email-protection#4e202f202d3760232f3c3d260e282f2f60292138"><span class="__cf_email__" data-cfemail="bdd3dcd3dec493d0dccfced5fddbdcdc93dad2cb">[email&#160;protected]</span></a>.
+
+[[Page 70214]]
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Special Attention Service Bulletin 757-57-0071, dated 
+September 12, 2012.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Boeing Commercial Airplanes, Attention: Data & Services Management, 
+P.O. Box 3707, MC 2H-65, Seattle, WA 98124-2207; telephone 206-544-
+5000, extension 1; fax 206-766-5680; Internet <a href="https://www.myboeingfleet.com">https://www.myboeingfleet.com</a>.
+    (4) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Ave SW., Renton, WA. For information 
+on the availability of this material at the FAA, call 425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: <a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">http://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+    Issued in Renton, Washington, on November 6, 2013.
+Jeffrey E. Duven,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-27843 Filed 11-22-13; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

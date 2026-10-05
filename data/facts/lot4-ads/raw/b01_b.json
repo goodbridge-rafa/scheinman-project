@@ -1,0 +1,244 @@
+{
+ "ads": {
+  "00-13445": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "The front spar failure occurred in the \\3/16\\-inch thick aluminum fin front spar fitting across one of the bolt holes where the fitting attaches to the fuselage frame.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The front spar failure occurred in the \\3/16\\-inch thick aluminum fin front spar fitting across one of the bolt holes where the fitting attaches to the fuselage frame.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The front spar failure occurred in the \\3/16\\-inch thick aluminum fin front spar fitting across one of the bolt holes where the fitting attaches to the fuselage frame.",
+     "value": "fastener_hole"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "Fatigue cracking of the vertical fin front spar attachment fittings, if not detected and corrected, could result in structural failure of the front spar and consequently the rear spar.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "This AD requires you to: 1. repetitively inspect vertical fin front spar attachment fittings for fatigue cracks; and 2. rework the vertical fin if any cracks are found.",
+     "value": "repetitive_inspection;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Note: This AD does not affect the requirements of AD 97-14-05, Amendment 39-10063 (62 FR 38445, July 18, 1997).",
+     "value": "none"
+    }
+   ]
+  },
+  "00-14436": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by reports of damage and wear to the auxiliary track assembly.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "perform a detailed visual inspection of the upper and lower auxiliary track assemblies on each thrust reverser half of each engine to detect missing segments of the track lip; to detect signs that the slider has disengaged from the track; to detect cracks, gouges, and wear of the liner; and measure the auxiliary track beam dimensions",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by reports of damage and wear to the auxiliary track assembly.",
+     "value": "wear"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "requires repetitive inspections to detect damage and wear of the auxiliary track assembly of the thrust reverser, and corrective actions, if necessary. This amendment also requires eventual repair of the auxiliary track assembly, or replacement of the slider and liner or the entire assembly, with new, improved parts, which, when accomplished, would terminate the repetitive inspections.",
+     "value": "repetitive_inspection;repair;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  },
+  "00-19816": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to prevent such hydraulic fluid leakage due to fatigue vibration and cracking in the flared radius of a hydraulic pipe in the aft fuselage, which could result in smoke and odors in the passenger cabin or cockpit.",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to prevent such hydraulic fluid leakage due to fatigue vibration and cracking in the flared radius of a hydraulic pipe in the aft fuselage, which could result in smoke and odors in the passenger cabin or cockpit.",
+     "value": "radius_or_fillet"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to prevent such hydraulic fluid leakage due to fatigue vibration and cracking in the flared radius of a hydraulic pipe in the aft fuselage, which could result in smoke and odors in the passenger cabin or cockpit.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "requires installation of a pipe support and clamps on the hydraulic lines in the aft fuselage; replacement of the hydraulic pipe assembly in the aft fuselage with a new pipe assembly; and installation of drain tube assemblies and diverter assemblies in the area of the auxiliary power unit (APU) inlet; as applicable.",
+     "value": "modification;replacement"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  },
+  "00-19817": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Replace any existing aluminum support fitting of the Krueger flap actuator on each wing with a steel fitting, and modify the actuator aft attachment, in accordance with Boeing Service Bulletin 737-57-1129, Revision 2, dated May 28, 1998.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by reports of cracking due to fatigue and stress corrosion of the support fittings of the Krueger flap actuator.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to prevent such cracking, which could result in fracturing of the actuator attach lugs, separation of the actuator from the support fitting, severing of the hydraulic lines, and resultant loss of hydraulic fluids.",
+     "value": "lug"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This amendment is prompted by reports of cracking due to fatigue and stress corrosion of the support fittings of the Krueger flap actuator.",
+     "value": "other"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(b) Within 5 years after the effective date of this AD: Replace any existing aluminum support fitting of the Krueger flap actuator on each wing with a steel fitting, and modify the actuator aft attachment, in accordance with Boeing Service Bulletin 737-57-1129, Revision 2, dated May 28, 1998. Accomplishment of this replacement and modification constitutes terminating action for the repetitive inspections required by paragraph (a) of this AD.",
+     "value": "repetitive_inspection;replacement;modification"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "2000-15-18  Boeing: Amendment 39-11851. Docket 99-NM-320-AD. Supersedes AD 96-17-04, Amendment 39-9712.",
+     "value": "AD 96-17-04, Amendment 39-9712"
+    }
+   ]
+  },
+  "00-23583": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "To prevent failure of the second stage lower planetary plate (plate), P/N 6435-20229-102, due to fatigue cracking, which could lead to failure of the main gearbox, failure of the drive system, and subsequent loss of control of the helicopter, accomplish the following:",
+     "value": "other"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": "Pay particular attention to the area around the 9 lightening holes.",
+     "value": "other"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "The actions specified by this AD are intended to prevent failure of the plate due to fatigue cracking, which could result in failure of the main gearbox, failure of the drive system, and subsequent loss of control of the helicopter.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(a) On or before accumulating 1,300 hours time-in-service (TIS), conduct a fluorescent magnetic particle inspection of the plate, P/N 6435-20229-102, in the circumferential and longitudinal directions using the wet continuous method. ... (1) If any crack is discovered, replace the plate with an airworthy plate prior to further flight. ... (2) If no crack is discovered, rework the plate as follows: (i) Locate the center of each 1.750 inch-diameter lightening hole and machine holes 0.015 to 0.020 oversize on a side (0.030 to 0.040 diameter oversize). ... (b) For any plate, P/N 6435-20229-102, that has been reworked and identified with ``TS-107,'' on or before the accumulation of 1,500 hours TIS and thereafter at intervals not to exceed 70 hours TIS, accomplish the following: ... (c) On or before the accumulation of 2,600 hours TIS, remove from service plates, P/N 6435-20229-102, reidentified as P/N 6435-20229-102-TS-107 after rework.",
+     "value": "one_time_inspection;repetitive_inspection;replacement;modification;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": "Supersedes AD 99-07-16, Amendment 39-11102, Docket No. 97-SW-60-AD.",
+     "value": "AD 99-07-16, Amendment 39-11102"
+    }
+   ]
+  },
+  "00-25151": {
+   "fields": [
+    {
+     "field_id": "alloy_as_stated",
+     "page": 1,
+     "snippet": "Agusta has issued Alert Bollettino Tecnico (Technical Bulletin) No. 109K-25 and No. 109EP-7, both dated March 3, 2000, which specify replacing the left and right aft aluminum support fittings with improved steel support fittings and establishes a new retirement life for the aluminum support fittings installed on the aft end of the main transmission.",
+     "value": "aluminum"
+    },
+    {
+     "field_id": "component_class",
+     "page": 1,
+     "snippet": "This AD is prompted by three failures of the engine to main gearbox drive shaft due to fatigue cracks on the aft support fittings.",
+     "value": "fitting"
+    },
+    {
+     "field_id": "feature_class",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    },
+    {
+     "field_id": "mechanism_class",
+     "page": 1,
+     "snippet": "This AD is prompted by three failures of the engine to main gearbox drive shaft due to fatigue cracks on the aft support fittings.",
+     "value": "fatigue_cracking"
+    },
+    {
+     "field_id": "action_class",
+     "page": 1,
+     "snippet": "(a) Remove each main transmission aft support fitting, part number (P/N) 109-0325-08-01 and replace it with an airworthy support fitting, P/N 109-0325-08-109, as follows: ... (b) This AD revises the Airworthiness Limitations Section of the applicable maintenance manual by establishing a life limit of 150 hours TIS for the aft support fitting, P/N 109-0325-08-01.",
+     "value": "replacement;other"
+    },
+    {
+     "field_id": "supersedes",
+     "page": 1,
+     "snippet": null,
+     "value": "none_stated"
+    }
+   ]
+  }
+ }
+}
