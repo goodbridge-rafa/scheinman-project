@@ -1,5 +1,7 @@
 # SCHEINMAN
 
+[![check](https://github.com/goodbridge-rafa/scheinman-project/actions/workflows/check.yml/badge.svg)](https://github.com/goodbridge-rafa/scheinman-project/actions/workflows/check.yml)
+
 **Engineering rules taken from public records, applied to real CAD geometry, with every correction
 proven by measuring the part again.**
 
