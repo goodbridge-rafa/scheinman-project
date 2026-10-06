@@ -122,12 +122,14 @@ Worker's Node suite (69 tests). It needs no secrets and no network beyond instal
 
 ## How this was built
 
+This repository is a curated public copy of a private working repository (227 commits and 91 reviewed pull requests since August 2026); its own history starts at publication.
+
 Designed and directed by Rafa Maretti; implemented with AI coding agents (Claude Code) working under
 the rules above. The agents wrote the code. The product decisions, the evidence standard, the
 acceptance tests and the review of every change were his.
 
 ## License
 
-Copyright © 2026 Rafa Maretti. All rights reserved. The source is published for review; no license
-to use, copy or modify it is granted. The FAA and military source documents are US-government public
-records.
+Copyright © 2026 Rafa Maretti. All rights reserved. The source is published so it can be
+reviewed; using, copying or commercialising it requires a written licence from the author
+(hello@rafamaretti.com). See [LICENSE](LICENSE).
