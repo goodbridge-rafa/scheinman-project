@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           # The engine needs the code and the rule base, not the 88 MB document
           # vault. Every submitted part pays for whatever this step downloads.
@@ -89,7 +89,7 @@ jobs:
         # lifetimes. On failure the folder is what the owner needs to read.
         # Artifacts of a public repository are public: keep this off there.
         if: (failure() || cancelled()) && vars.KEEP_FAILED_DELIVERY == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: delivery-${{ inputs.job_id }}
           path: delivery

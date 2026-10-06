@@ -113,7 +113,8 @@ def _rule_bar_rows(
             tail = f" … and {n - len(shown)} more" if n > len(shown) else ""
             tip = (
                 f"{prefix}{rid} · {n} AD{'s' if n != 1 else ''}|"
-                f"{' · '.join(shown)}{tail}, each quoted in the repo (contiguity measured in data/facts/provenance.json)"
+                f"{' · '.join(shown)}{tail}, each quoted in the repo "
+                "(contiguity measured in data/facts/provenance.json)"
             )
             width = f"{n / peak * 86:.1f}"
             track = (
